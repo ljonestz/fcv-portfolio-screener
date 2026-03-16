@@ -6,7 +6,7 @@ This repo contains the workflow for running **World Bank FCV Sensitivity and Res
 Each country's analysis lives in its own subfolder: `<country>/`
 
 Current countries:
-- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024)
+- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16
 
 ---
 
@@ -198,11 +198,18 @@ Outputs (8 PNG charts, 150 dpi):
 
 ### Step 7 — Generate HTML report
 
-Run `generate_report.py`
+Run `generate_report.py` from inside the country subfolder:
 
-Output: `<date>_<country>-fcv-portfolio-report.html` — ~500 KB self-contained HTML
+```bash
+cd somalia
+python generate_report.py
+```
+
+Output: `<date>_<country>-fcv-portfolio-report.html` — ~500 KB self-contained HTML, written to the same directory as the script.
 
 Open directly in any browser — no server needed. Keep HTML and PNGs in the same folder.
+
+**Report design (2026-03-16 revision):** The report uses a blog-style narrative layout — no styled callout boxes, one consistent paragraph font throughout, chart narratives frontloaded above each chart with the key finding stated first, and an expandable project table (click any row) replacing the separate portfolio table and Annex collapsibles. `generate_report.py` uses `Path(__file__).parent` for all file I/O so it works correctly from any location without hardcoded paths.
 
 ---
 
@@ -302,7 +309,25 @@ These are backed up via OneDrive sync.
 | `matplotlib` boxplot deprecation warning (`labels` → `tick_labels`) | Cosmetic only, does not affect output |
 | Agent hits rate limit mid-batch | Results for completed projects still saved; relaunch remaining only |
 | `totalcommamt` stored as string in portfolio JSON | Cast to `float()` before arithmetic |
+| Old `generate_report.py` wrote to hardcoded `Claude_Outputs` path | Fixed 2026-03-16: now uses `Path(__file__).parent` — script writes to its own directory |
 
 ---
 
-*Last updated: 2026-03-16*
+## Git Workflow
+
+All changes to this repo should follow the branch-first convention:
+
+```bash
+git checkout -b <type>/<short-description>   # e.g. feat/kenya-analysis
+# make changes, then:
+git add <files>
+git commit -m "<type>: <description>"
+git push -u origin <branch>
+# merge to main when ready
+```
+
+Never commit directly to `main` for non-trivial changes.
+
+---
+
+*Last updated: 2026-03-16 — report redesign (blog-style HTML), path config fix, git workflow added*

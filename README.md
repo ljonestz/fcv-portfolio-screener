@@ -35,8 +35,9 @@ fcv-portfolio-screener/
     ├── filtered_somalia_portfolio.json           # Filtered portfolio (43 projects)
     ├── 20260314_somalia_screening_results_normalized.json  # Canonical results
     ├── chart1_portfolio_timeline.png
-    ├── ... (8 charts)
-    └── 20260314_somalia-fcv-portfolio-report.html
+    ├── ... (8 charts total)
+    ├── 20260314_somalia-fcv-portfolio-report.html   # original report
+    └── 20260316_somalia-fcv-portfolio-report.html   # redesigned blog-style report
 ```
 
 ## Setup
@@ -47,6 +48,19 @@ pip install requests PyMuPDF pandas matplotlib seaborn numpy
 
 Requires the FCV screener skill installed in Claude Code. See `CLAUDE.md` for full instructions.
 
+## Running the report generator
+
+```bash
+cd somalia
+python generate_report.py
+```
+
+The script reads data files from its own directory (`Path(__file__).parent`) and writes the HTML report alongside them — no hardcoded paths. Output: `20260316_somalia-fcv-portfolio-report.html`.
+
 ## Replication
 
 See `CLAUDE.md` for the step-by-step workflow and instructions for adapting to a new country.
+
+## Contributing
+
+All changes should be made on a feature branch (`git checkout -b <type>/<description>`), not directly on `main`. See the global `CLAUDE.md` for the branch-first workflow convention.
