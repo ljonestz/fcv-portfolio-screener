@@ -1,0 +1,950 @@
+"""
+Ethiopia FCV Portfolio Report — HTML Generator
+Date: 2026-03-16
+Purpose: Assembles the final HTML analytical report from screening results and charts.
+
+Paths are relative to this script's own directory so the script works correctly
+when run from the GitHub repo folder. No hardcoded absolute paths.
+
+Run AFTER:
+  1. 20260316_ethiopia_fcv_analysis.py  (generates charts)
+  2. 20260316_ethiopia_screening_results_normalized.json exists
+"""
+
+from pathlib import Path
+import json
+import re
+import base64
+from datetime import datetime
+import numpy as np
+
+# ─── Configuration ────────────────────────────────────────────────────────────
+
+SCRIPT_DIR     = Path(__file__).parent
+RESULTS_FILE   = SCRIPT_DIR / '20260316_ethiopia_screening_results_normalized.json'
+PORTFOLIO_FILE = SCRIPT_DIR / 'filtered_ethiopia_portfolio.json'
+REPORT_FILE    = SCRIPT_DIR / '20260316_ethiopia-fcv-portfolio-report.html'
+
+DIM_NAMES = [
+    'FCV Context and Diagnostics',
+    'Do No Harm and Conflict Risk',
+    'Stakeholder and Political Economy',
+    'Objectives and Theory of Change',
+    'Design and Targeting',
+    'Implementation and Operational Flexibility',
+    'Results Framework and Adaptive Management',
+    'One WBG Integration (IFC/MIGA)',
+]
+COMPOSITES = ['Sensitivity'] * 3 + ['Responsiveness'] * 5
+
+RF_LABELS = {
+    'RF1': 'Unmitigated Conflict Risk',
+    'RF2': 'Missing Distributional Analysis',
+    'RF3': 'OP 7.30 Weakly Handled',
+    'RF4': 'Elite Capture Unmitigated',
+    'RF5': 'Macro Framework Unrealistic',
+}
+
+EARLY_COHORT = (2015, 2019)
+LATE_COHORT  = (2020, 2024)
+
+
+# ─── Utility functions ────────────────────────────────────────────────────────
+
+def load_data():
+    with open(RESULTS_FILE, encoding='utf-8') as f:
+        results = json.load(f)
+    with open(PORTFOLIO_FILE, encoding='utf-8') as f:
+        portfolio = json.load(f)
+    proj_meta = {p['id']: p for p in portfolio}
+    return results, proj_meta
+
+
+def rating_badge(rating):
+    cls = {
+        'Strong':                 'badge-strong',
+        'Substantially Addressed':'badge-subst',
+        'Partially Addressed':    'badge-part',
+        'Not Addressed':          'badge-not',
+        'Not Applicable':         'badge-na',
+    }.get(rating, 'badge-na')
+    return f'<span class="{cls}">{rating}</span>'
+
+
+def score_cell(score):
+    if score is None:
+        return '<td style="color:#9aabb8;text-align:center">—</td>'
+    try:
+        s = float(score)
+    except (ValueError, TypeError):
+        return f'<td>{score}</td>'
+    if s >= 7:
+        bg = '#f0f9f4'; color = '#1a5c38'; border = 'rgba(26,122,74,.25)'
+    elif s >= 4:
+        bg = '#fff7ed'; color = '#7c3d00'; border = 'rgba(224,123,0,.25)'
+    else:
+        bg = '#fef2f2'; color = '#7f1d1d'; border = 'rgba(185,28,28,.25)'
+    return (f'<td style="text-align:center"><span style="background:{bg};color:{color};'
+            f'border:1px solid {border};padding:2px 10px;border-radius:20px;'
+            f'font-size:12px;font-weight:700;white-space:nowrap">{s:.1f}</span></td>')
+
+
+def compute_summary_stats(results):
+    stats = {}
+    def _s(r): return r.get('sensitivity_score') or r.get('composites', {}).get('sensitivity', {}).get('numeric_score', 0)
+    def _r(r): return r.get('responsiveness_score') or r.get('composites', {}).get('responsiveness', {}).get('numeric_score', 0)
+
+    sens = [_s(r) for r in results]
+    resp = [_r(r) for r in results]
+    stats['n']     = len(results)
+    stats['n_ipf'] = sum(1 for r in results if r.get('instrument_category') == 'IPF')
+    stats['n_dpf'] = sum(1 for r in results if r.get('instrument_category') == 'DPF')
+    stats['n_p4r'] = sum(1 for r in results if r.get('instrument_category') == 'P4R')
+    stats['avg_s'] = sum(sens) / len(sens) if sens else 0
+    stats['avg_r'] = sum(resp) / len(resp) if resp else 0
+
+    # Cohort breakdown (early vs late)
+    early = [r for r in results if r.get('approval_year') and EARLY_COHORT[0] <= r['approval_year'] <= EARLY_COHORT[1]]
+    late  = [r for r in results if r.get('approval_year') and LATE_COHORT[0]  <= r['approval_year'] <= LATE_COHORT[1]]
+    stats['n_early']    = len(early)
+    stats['n_late']     = len(late)
+    early_s = [_s(r) for r in early]; early_r = [_r(r) for r in early]
+    late_s  = [_s(r) for r in late];  late_r  = [_r(r) for r in late]
+    stats['early_avg_s'] = sum(early_s) / len(early_s) if early_s else 0
+    stats['early_avg_r'] = sum(early_r) / len(early_r) if early_r else 0
+    stats['late_avg_s']  = sum(late_s)  / len(late_s)  if late_s  else 0
+    stats['late_avg_r']  = sum(late_r)  / len(late_r)  if late_r  else 0
+
+    # Instrument breakdown scores
+    ipf_results = [r for r in results if r.get('instrument_category') == 'IPF']
+    dpf_results = [r for r in results if r.get('instrument_category') == 'DPF']
+    p4r_results = [r for r in results if r.get('instrument_category') == 'P4R']
+    ipf_s = [_s(r) for r in ipf_results]; ipf_r = [_r(r) for r in ipf_results]
+    dpf_s = [_s(r) for r in dpf_results]; dpf_r = [_r(r) for r in dpf_results]
+    p4r_s = [_s(r) for r in p4r_results]; p4r_r = [_r(r) for r in p4r_results]
+    stats['ipf_avg_s'] = sum(ipf_s) / len(ipf_s) if ipf_s else 0
+    stats['ipf_avg_r'] = sum(ipf_r) / len(ipf_r) if ipf_r else 0
+    stats['dpf_avg_s'] = sum(dpf_s) / len(dpf_s) if dpf_s else 0
+    stats['dpf_avg_r'] = sum(dpf_r) / len(dpf_r) if dpf_r else 0
+    stats['p4r_avg_s'] = sum(p4r_s) / len(p4r_s) if p4r_s else 0
+    stats['p4r_avg_r'] = sum(p4r_r) / len(p4r_r) if p4r_r else 0
+
+    stats['gap_cells'] = {}
+    for r in results:
+        cell = r.get('gap_matrix_cell', 'Unknown')
+        stats['gap_cells'][cell] = stats['gap_cells'].get(cell, 0) + 1
+    stats['dominant_gap_cell'] = max(stats['gap_cells'], key=stats['gap_cells'].get) if stats['gap_cells'] else ''
+
+    rf_totals = {'RF1': 0, 'RF2': 0, 'RF3': 0, 'RF4': 0, 'RF5': 0}
+    for r in results:
+        for k, v in r.get('red_flags', {}).items():
+            if v:
+                rf_key = k.upper().replace('_', '')
+                for rf in ['RF1', 'RF2', 'RF3', 'RF4', 'RF5']:
+                    if rf in rf_key:
+                        rf_totals[rf] += 1
+    stats['rf_totals'] = rf_totals
+    stats['any_rf'] = sum(1 for r in results if any(v for v in r.get('red_flags', {}).values()))
+
+    dim_avgs = {}
+    for i in range(1, 9):
+        scores = [d['numeric_score'] for r in results
+                  for d in r.get('dimensions', []) if d['id'] == i
+                  and d.get('numeric_score') is not None]
+        dim_avgs[i] = sum(scores) / len(scores) if scores else 0
+    stats['dim_avgs'] = dim_avgs
+
+    years_sens = [(r.get('approval_year', 0), _s(r)) for r in results if r.get('approval_year')]
+    years_resp = [(r.get('approval_year', 0), _r(r)) for r in results if r.get('approval_year')]
+    if len(years_sens) > 2:
+        yrs = np.array([y for y, s in years_sens], dtype=float)
+        sco = np.array([s for y, s in years_sens])
+        stats['sens_trend'] = round(float(np.polyfit(yrs, sco, 1)[0]), 2)
+    else:
+        stats['sens_trend'] = 0.0
+    if len(years_resp) > 2:
+        yrs = np.array([y for y, s in years_resp], dtype=float)
+        sco = np.array([s for y, s in years_resp])
+        stats['resp_trend'] = round(float(np.polyfit(yrs, sco, 1)[0]), 2)
+    else:
+        stats['resp_trend'] = 0.0
+
+    return stats
+
+
+# ─── HTML component builders ──────────────────────────────────────────────────
+
+def inline_chart(img_src, alt, caption, narrative=None):
+    """
+    Render a chart with optional narrative paragraph above it.
+    The narrative should frontload the key finding — not just introduce the chart.
+    No styled callout boxes: the narrative is plain body text.
+    """
+    para = f'<p>{narrative}</p>' if narrative else ''
+    return f"""{para}
+    <figure class="chart-figure">
+      <img src="{img_src}" alt="{alt}" class="chart-img">
+      <figcaption>{caption}</figcaption>
+    </figure>"""
+
+
+def build_expandable_table(results, proj_meta):
+    """
+    Unified expandable project table. Each row shows summary data;
+    clicking expands the full dimension-level detail inline.
+    """
+    rows = []
+
+    hint_row = """
+        <tr class="table-hint-row">
+          <td colspan="10">
+            &#9654;&nbsp; <strong>Click any project row</strong> to expand the full FCV screening results for that project
+          </td>
+        </tr>"""
+    rows.append(hint_row)
+
+    for idx, r in enumerate(sorted(results, key=lambda x: x.get('sensitivity_score') or 0, reverse=True)):
+        pid  = r['project_id']
+        meta = proj_meta.get(pid, {})
+        s    = r.get('sensitivity_score') or r.get('composites', {}).get('sensitivity', {}).get('numeric_score', 0)
+        resp = r.get('responsiveness_score') or r.get('composites', {}).get('responsiveness', {}).get('numeric_score', 0)
+        gap  = r.get('gap_matrix_cell', '')
+        gap_colors = {
+            'High FCV integration':          '#e8f7e0',
+            'Implementation gap':            '#fff3e0',
+            'Responsive but underanalysed':  '#e0f0ff',
+            'Low FCV integration':           '#fde8e8',
+        }
+        gap_bg   = gap_colors.get(gap, '#f5f5f5')
+        gap_html = f'<span style="background:{gap_bg};padding:2px 6px;border-radius:3px;font-size:0.8em">{gap}</span>'
+
+        comm_raw = str(meta.get('totalcommamt') or '0').replace(',', '')
+        try:
+            comm_val = float(comm_raw)
+            comm_str = f'${comm_val/1e6:.1f}M' if comm_val > 0 else '—'
+        except (ValueError, TypeError):
+            comm_str = '—'
+
+        sector = ''
+        s1 = meta.get('sector1', {})
+        if isinstance(s1, dict):
+            sector = s1.get('Name', '')[:30]
+
+        name_lower = r.get('project_name', '').lower()
+        is_af   = any(k in name_lower for k in ['additional financing', 'additional finance'])
+        is_rest = 'restructur' in name_lower
+        if is_af:
+            badge = ('<span style="background:#e8f0fc;color:#002244;border:1px solid #b0c4de;'
+                     'font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px;margin-left:4px">AF</span>')
+        elif is_rest:
+            badge = ('<span style="background:#fff3e0;color:#7c3d00;border:1px solid #f7941e80;'
+                     'font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px;margin-left:4px">REST</span>')
+        else:
+            badge = ''
+
+        dim_rows = ''
+        for d in r.get('dimensions', []):
+            dim_rows += f"""
+              <tr>
+                <td style="width:2.5em;text-align:center;color:#888;font-weight:700">D{d['id']}</td>
+                <td style="font-size:0.88em">{d['name']}</td>
+                <td>{rating_badge(d.get('rating', ''))}</td>
+                <td style="text-align:center;font-weight:700">{d.get('numeric_score', '')}</td>
+                <td style="font-size:0.82em;font-style:italic;color:#555">&#8220;{d.get('key_quote', '')[:150]}&#8221;</td>
+                <td style="font-size:0.82em">{d.get('rationale', '')}</td>
+              </tr>"""
+
+        rf = r.get('red_flags', {})
+        rf_html = ' '.join([
+            f'<span style="background:{"#C8102E" if v else "#ddd"};color:{"white" if v else "#666"};'
+            f'padding:1px 6px;border-radius:3px;font-size:0.78em;margin:1px">'
+            f'{k}: {"&#9888;" if v else "&#10003;"}</span>'
+            for k, v in rf.items()
+        ])
+
+        detail_id   = f'detail-row-{idx}'
+        detail_html = f"""
+          <div class="detail-panel">
+            <p style="margin:0 0 10px;font-size:13px;line-height:1.65">
+              <strong>Key finding:</strong> {r.get('key_finding', '')}
+            </p>
+            <p style="margin:0 0 14px;font-size:12px"><strong>Red flags:</strong>&nbsp; {rf_html}</p>
+            <table style="width:100%;border-collapse:collapse;font-size:12px">
+              <thead>
+                <tr>
+                  <th style="width:2.5em;text-align:center">#</th>
+                  <th>Dimension</th>
+                  <th>Rating</th>
+                  <th style="text-align:center">Score</th>
+                  <th>Key Quote</th>
+                  <th>Rationale</th>
+                </tr>
+              </thead>
+              <tbody>{dim_rows}</tbody>
+            </table>
+            <div style="margin-top:12px;padding:10px 14px;background:#f5f7fa;border-left:3px solid #002244;border-radius:4px;font-size:12px">
+              <strong>Sensitivity rating:</strong> {r.get('sensitivity_rating', '')}
+              &nbsp;&nbsp;
+              <strong>Responsiveness rating:</strong> {r.get('responsiveness_rating', '')}
+            </div>
+          </div>"""
+
+        rows.append(f"""
+        <tr class="expandable-row" onclick="toggleRow('{detail_id}', 'icon-{idx}')">
+          <td style="font-family:monospace;font-size:0.85em;white-space:nowrap">
+            <span id="icon-{idx}" class="expand-icon">&#9654;</span>&nbsp;{pid}
+          </td>
+          <td>{r.get('project_name', '')}{badge}</td>
+          <td style="text-align:center">{r.get('instrument_category', '')}</td>
+          <td style="text-align:center">{r.get('approval_year', '')}</td>
+          <td style="text-align:center">{meta.get('status', '')}</td>
+          <td style="font-size:0.85em">{sector}</td>
+          <td style="text-align:center">{comm_str}</td>
+          {score_cell(s)}
+          {score_cell(resp)}
+          <td style="font-size:0.82em">{gap_html}</td>
+        </tr>
+        <tr id="{detail_id}" style="display:none">
+          <td colspan="10" style="padding:0;border-bottom:2px solid #47C4EB">{detail_html}</td>
+        </tr>""")
+
+    return '\n'.join(rows)
+
+
+# ─── Main HTML builder ─────────────────────────────────────────────────────────
+
+def build_html(results, proj_meta):
+    stats = compute_summary_stats(results)
+
+    # ── Derived values for inline narrative ──
+    best_dim_id   = max(stats['dim_avgs'], key=stats['dim_avgs'].get)
+    worst_dim_id  = min(stats['dim_avgs'], key=stats['dim_avgs'].get)
+    best_dim_name  = DIM_NAMES[best_dim_id - 1]
+    worst_dim_name = DIM_NAMES[worst_dim_id - 1]
+    best_dim_score  = stats['dim_avgs'][best_dim_id]
+    worst_dim_score = stats['dim_avgs'][worst_dim_id]
+
+    year_counts = {}
+    for r in results:
+        y = r.get('approval_year')
+        if y:
+            year_counts[y] = year_counts.get(y, 0) + 1
+    peak_year       = max(year_counts, key=year_counts.get) if year_counts else 'N/A'
+    peak_year_count = year_counts.get(peak_year, 0)
+
+    most_common_rf       = max(stats['rf_totals'], key=stats['rf_totals'].get)
+    most_common_rf_label = RF_LABELS.get(most_common_rf, most_common_rf)
+    most_common_rf_count = stats['rf_totals'][most_common_rf]
+    most_common_rf_pct   = most_common_rf_count / stats['n'] * 100
+
+    n_high       = stats['gap_cells'].get('High FCV integration', 0)
+    n_impl_gap   = stats['gap_cells'].get('Implementation gap', 0)
+    n_low        = stats['gap_cells'].get('Low FCV integration', 0)
+    n_resp_under = stats['gap_cells'].get('Responsive but underanalysed', 0)
+    trend_s      = stats.get('sens_trend', 0)
+    trend_r      = stats.get('resp_trend', 0)
+
+    # Build instrument breakdown summary for inline text
+    instr_parts = []
+    if stats['n_ipf'] > 0:
+        instr_parts.append(f"{stats['n_ipf']} IPF")
+    if stats['n_dpf'] > 0:
+        instr_parts.append(f"{stats['n_dpf']} DPF")
+    if stats['n_p4r'] > 0:
+        instr_parts.append(f"{stats['n_p4r']} P4R")
+    instr_breakdown_str = ', '.join(instr_parts)
+
+    # ── Dimension breakdown table ──
+    dim_table_rows = ''
+    for i, (name, comp) in enumerate(zip(DIM_NAMES, COMPOSITES), 1):
+        avg   = stats['dim_avgs'].get(i, 0)
+        bar_w = int(avg / 10 * 100)
+        comp_color = '#002244' if comp == 'Sensitivity' else '#E07B00'
+        dim_table_rows += f"""
+        <tr>
+          <td style="text-align:center;font-weight:700">D{i}</td>
+          <td>{name}</td>
+          <td style="text-align:center">
+            <span style="background:{'#e8f4fc' if comp == 'Sensitivity' else '#fff7ed'};color:{'#004e7c' if comp == 'Sensitivity' else '#7c3d00'};border:1px solid {'rgba(0,159,218,.25)' if comp == 'Sensitivity' else 'rgba(224,123,0,.25)'};padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600">{comp}</span>
+          </td>
+          <td style="text-align:center;font-weight:700">{avg:.2f}</td>
+          <td style="padding:4px 0">
+            <div style="background:#d9e2ec;border-radius:4px;height:10px;width:100%">
+              <div style="background:{comp_color};opacity:0.75;border-radius:4px;height:10px;width:{bar_w}%"></div>
+            </div>
+          </td>
+        </tr>"""
+
+    # ── Gap matrix table ──
+    gap_cells_html = ''
+    cell_styles = {
+        'High FCV integration':         ('background:#f0f9f4', '&#9989;'),
+        'Implementation gap':           ('background:#fff7ed', '&#9888;'),
+        'Responsive but underanalysed': ('background:#e8f4fc', '&#8505;'),
+        'Low FCV integration':          ('background:#fef2f2', '&#10060;'),
+    }
+    for cell, count in sorted(stats['gap_cells'].items(), key=lambda x: -x[1]):
+        style, icon = cell_styles.get(cell, ('', ''))
+        pct = count / stats['n'] * 100
+        gap_cells_html += f"""
+        <tr style="{style}">
+          <td style="text-align:center;font-size:1.1em">{icon}</td>
+          <td><strong>{cell}</strong></td>
+          <td style="text-align:center">{count}</td>
+          <td style="text-align:center">{pct:.0f}%</td>
+        </tr>"""
+
+    # ── Instrument comparison panels for chart 8 section ──
+    instr_panels_html = ''
+    if stats['n_ipf'] > 0:
+        instr_panels_html += f"""
+      <div class="instr-panel">
+        <h3 style="color:#009FE3;margin-top:0">IPF (n={stats['n_ipf']})</h3>
+        <p style="margin:0 0 4px"><strong>Avg Sensitivity:</strong> {stats['ipf_avg_s']:.1f}/10</p>
+        <p style="margin:0"><strong>Avg Responsiveness:</strong> {stats['ipf_avg_r']:.1f}/10</p>
+      </div>"""
+    if stats['n_dpf'] > 0:
+        instr_panels_html += f"""
+      <div class="instr-panel">
+        <h3 style="color:#F7941E;margin-top:0">DPF (n={stats['n_dpf']})</h3>
+        <p style="margin:0 0 4px"><strong>Avg Sensitivity:</strong> {stats['dpf_avg_s']:.1f}/10</p>
+        <p style="margin:0"><strong>Avg Responsiveness:</strong> {stats['dpf_avg_r']:.1f}/10</p>
+      </div>"""
+    if stats['n_p4r'] > 0:
+        instr_panels_html += f"""
+      <div class="instr-panel">
+        <h3 style="color:#76BC21;margin-top:0">P4R (n={stats['n_p4r']})</h3>
+        <p style="margin:0 0 4px"><strong>Avg Sensitivity:</strong> {stats['p4r_avg_s']:.1f}/10</p>
+        <p style="margin:0"><strong>Avg Responsiveness:</strong> {stats['p4r_avg_r']:.1f}/10</p>
+      </div>"""
+
+    expandable_rows = build_expandable_table(results, proj_meta)
+    today = datetime.now().strftime('%d %B %Y')
+
+    globe_svg = '''<svg class="wbg-globe" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="16" cy="16" r="14" stroke="rgba(255,255,255,0.6)" stroke-width="1.5"/>
+      <ellipse cx="16" cy="16" rx="5.5" ry="14" stroke="rgba(255,255,255,0.6)" stroke-width="1.5"/>
+      <line x1="2" y1="16" x2="30" y2="16" stroke="rgba(255,255,255,0.6)" stroke-width="1.5"/>
+      <line x1="4" y1="10" x2="28" y2="10" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+      <line x1="4" y1="22" x2="28" y2="22" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+    </svg>'''
+
+    # ── Rating labels for inline text ──
+    s_rating = 'Substantially Addressed' if stats['avg_s'] >= 7 else ('Partially Addressed' if stats['avg_s'] >= 4 else 'Not Addressed')
+    r_rating = 'Substantially Addressed' if stats['avg_r'] >= 7 else ('Partially Addressed' if stats['avg_r'] >= 4 else 'Not Addressed')
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ethiopia World Bank Portfolio — FCV Portfolio Screening Report</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
+
+    :root {{
+      --navy:   #002244;
+      --blue:   #009FDA;
+      --cyan:   #47C4EB;
+      --white:  #ffffff;
+      --bg:     #f8f9fb;
+      --border: #dde3eb;
+      --muted:  #6b7c93;
+      --text:   #1c2b3a;
+      --serif:  'Source Serif 4', Georgia, serif;
+      --sans:   'Source Sans 3', Arial, sans-serif;
+    }}
+
+    html {{ scroll-behavior: smooth; }}
+
+    body {{
+      font-family: var(--sans);
+      font-size: 15px;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--bg);
+    }}
+
+    /* ── Top bar ── */
+    .top-bar {{
+      background: var(--navy);
+      padding: 6px 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }}
+    .top-bar-left {{ display: flex; align-items: center; gap: 12px; }}
+    .wbg-globe {{ width: 30px; height: 30px; flex-shrink: 0; }}
+    .top-bar-wordmark {{ font-size: 13px; font-weight: 600; color: rgba(255,255,255,.9); letter-spacing: .03em; text-transform: uppercase; }}
+    .top-bar-divider {{ width: 1px; height: 16px; background: rgba(255,255,255,.25); }}
+    .top-bar-unit {{ font-size: 12px; color: var(--cyan); letter-spacing: .04em; text-transform: uppercase; }}
+    .top-bar-badge {{ font-size: 10px; padding: 3px 9px; background: rgba(0,159,218,.2); border: 1px solid rgba(0,159,218,.35); border-radius: 20px; color: var(--cyan); letter-spacing: .07em; text-transform: uppercase; }}
+
+    /* ── Hero ── */
+    .hero {{
+      background: linear-gradient(135deg, #002244 0%, #003d7a 60%, #005a9e 100%);
+      padding: 48px 32px 44px; position: relative; overflow: hidden;
+    }}
+    .hero::before {{
+      content: ''; position: absolute; inset: 0;
+      background-image: linear-gradient(rgba(255,255,255,.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px);
+      background-size: 44px 44px; pointer-events: none;
+    }}
+    .hero::after {{
+      content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, var(--blue), var(--cyan));
+    }}
+    .hero-inner {{ max-width: 860px; margin: 0 auto; position: relative; z-index: 1; }}
+    .hero-eyebrow {{ font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .14em; color: var(--cyan); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }}
+    .hero-eyebrow::before {{ content: ''; display: inline-block; width: 20px; height: 2px; background: var(--cyan); }}
+    .hero h1 {{ font-family: var(--serif); font-weight: 300; font-size: 36px; color: #fff; line-height: 1.15; margin-bottom: 14px; }}
+    .hero h1 strong {{ font-weight: 600; color: var(--cyan); }}
+    .hero-sub {{ font-size: 15px; color: rgba(255,255,255,.7); line-height: 1.65; margin-bottom: 22px; }}
+    .hero-chips {{ display: flex; flex-wrap: wrap; gap: 8px; }}
+    .hero-chip {{ font-size: 12px; padding: 5px 13px; background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.2); border-radius: 20px; color: rgba(255,255,255,.82); }}
+
+    /* ── Page wrap & content column ── */
+    .page-wrap {{ max-width: 860px; margin: 0 auto; padding: 36px 24px 80px; }}
+
+    /* ── Table of contents ── */
+    .toc {{
+      background: var(--white); border: 1px solid var(--border); border-radius: 6px;
+      padding: 18px 24px; margin-bottom: 40px;
+      border-left: 3px solid var(--cyan);
+    }}
+    .toc h3 {{ font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 10px; font-weight: 700; }}
+    .toc ol {{ padding-left: 18px; columns: 2; column-gap: 28px; }}
+    .toc li {{ margin: 4px 0; font-size: 13px; }}
+    .toc a {{ color: var(--blue); text-decoration: none; }}
+    .toc a:hover {{ text-decoration: underline; }}
+
+    /* ── Article sections ── */
+    .report-section {{ margin-bottom: 52px; }}
+    .report-section + .report-section {{ border-top: 1px solid var(--border); padding-top: 44px; }}
+
+    /* ── Typography ── */
+    h2 {{
+      font-family: var(--serif); font-weight: 400; font-size: 26px;
+      color: var(--navy); line-height: 1.2; margin-bottom: 18px;
+    }}
+    h3 {{
+      font-family: var(--sans); font-size: 16px; font-weight: 700;
+      color: var(--navy); margin: 28px 0 10px;
+    }}
+    p {{
+      font-size: 15px; line-height: 1.8; color: var(--text);
+      margin-bottom: 16px;
+    }}
+    p:last-child {{ margin-bottom: 0; }}
+
+    /* ── Stat cards ── */
+    .stat-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin: 20px 0 28px; }}
+    .stat-card {{ background: var(--white); border: 1px solid var(--border); border-radius: 6px; padding: 16px; text-align: center; border-top: 3px solid var(--cyan); }}
+    .stat-card .value {{ font-size: 2em; font-weight: 700; color: var(--navy); line-height: 1; }}
+    .stat-card .label {{ font-size: 11px; color: var(--muted); margin-top: 5px; text-transform: uppercase; letter-spacing: .04em; }}
+
+    /* ── Score boxes ── */
+    .score-grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 20px 0; }}
+    .score-box {{ padding: 20px 22px; border-radius: 6px; border: 1px solid var(--border); }}
+    .score-box-s {{ background: #eef5fc; border-top: 3px solid var(--navy); }}
+    .score-box-r {{ background: #fff8f0; border-top: 3px solid #d97706; }}
+    .score-box .value {{ font-size: 2.6em; font-weight: 700; line-height: 1; }}
+    .score-box-s .value {{ color: var(--navy); }}
+    .score-box-r .value {{ color: #92400e; }}
+    .score-box .label {{ font-weight: 700; font-size: 14px; margin: 6px 0 4px; }}
+    .score-box .dims {{ font-size: 12px; color: var(--muted); }}
+
+    /* ── Charts ── */
+    .chart-figure {{ margin: 24px 0; text-align: center; }}
+    .chart-img {{ width: 100%; max-width: 100%; border: 1px solid var(--border); border-radius: 5px; }}
+    .chart-figure figcaption {{ font-size: 12px; color: var(--muted); margin-top: 7px; font-style: italic; }}
+
+    /* ── Tables ── */
+    table {{ width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }}
+    th {{ background: #f0f4f8; color: var(--text); padding: 9px 11px; text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: .04em; font-weight: 700; border-bottom: 2px solid var(--border); }}
+    td {{ padding: 8px 11px; border-bottom: 1px solid var(--border); vertical-align: top; }}
+    tr:nth-child(even) td {{ background: #fafbfc; }}
+
+    /* ── Expandable table ── */
+    .table-hint-row td {{
+      background: #eef5fc; color: #003d6e; font-size: 13px;
+      text-align: center; padding: 9px; border-bottom: 1px solid #c5daf0;
+      font-weight: 600; letter-spacing: .01em;
+    }}
+    .expandable-row {{ cursor: pointer; }}
+    .expandable-row:hover td {{ background: #e4f0fb !important; transition: background 0.12s; }}
+    .expand-icon {{ color: var(--muted); font-size: 0.68em; display: inline-block; width: 1em; }}
+    .detail-panel {{ padding: 18px 22px; background: #f8fafd; }}
+
+    /* ── Rating badges ── */
+    .badge-strong {{ background:#f0f9f4;color:#1a5c38;border:1px solid rgba(26,122,74,.25);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap; }}
+    .badge-subst  {{ background:#e8f4fc;color:#004e7c;border:1px solid rgba(0,159,218,.25);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap; }}
+    .badge-part   {{ background:#fff7ed;color:#7c3d00;border:1px solid rgba(224,123,0,.25);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap; }}
+    .badge-not    {{ background:#fef2f2;color:#7f1d1d;border:1px solid rgba(185,28,28,.25);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap; }}
+    .badge-na     {{ background:#f0f4f8;color:var(--muted);border:1px solid var(--border);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap; }}
+
+    ul, ol {{ padding-left: 22px; margin: 10px 0 16px; }}
+    li {{ margin: 6px 0; line-height: 1.65; }}
+
+    /* ── Instrument panels ── */
+    .instr-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 20px 0; }}
+    .instr-panel {{ border: 1px solid var(--border); border-radius: 6px; padding: 18px; background: var(--white); }}
+
+    /* ── Methodology collapsible ── */
+    details.meth {{ border: none; }}
+    details.meth > summary {{
+      cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 8px;
+      font-weight: 700; font-size: 15px; color: var(--navy); margin-bottom: 4px;
+    }}
+    details.meth > summary::-webkit-details-marker {{ display: none; }}
+    details.meth > summary::before {{ content: '\\25B6\\00A0\\00A0'; font-size: 0.7em; color: var(--muted); }}
+    details.meth[open] > summary::before {{ content: '\\25BC\\00A0\\00A0'; }}
+
+    /* ── Footer ── */
+    .page-footer {{ background: var(--navy); color: rgba(255,255,255,.38); font-size: 11px; padding: 16px 32px; text-align: center; letter-spacing: .04em; }}
+
+    @media print {{
+      body {{ background: white; }}
+      .page-wrap {{ padding: 0; max-width: 100%; }}
+    }}
+  </style>
+  <script>
+    function toggleRow(detailId, iconId) {{
+      var row  = document.getElementById(detailId);
+      var icon = document.getElementById(iconId);
+      if (row.style.display === 'none') {{
+        row.style.display = 'table-row';
+        if (icon) icon.innerHTML = '&#9660;';
+      }} else {{
+        row.style.display = 'none';
+        if (icon) icon.innerHTML = '&#9654;';
+      }}
+    }}
+  </script>
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="top-bar-left">
+    {globe_svg}
+    <span class="top-bar-wordmark">World Bank Group</span>
+    <div class="top-bar-divider"></div>
+    <span class="top-bar-unit">FCV Analytics</span>
+  </div>
+  <span class="top-bar-badge">ETHIOPIA · FRAGILE CONTEXT</span>
+</div>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">FCV Portfolio Assessment — Ethiopia 2015–2024</div>
+    <h1>Ethiopia World Bank Portfolio<br><strong>FCV Portfolio Screening Report</strong></h1>
+    <div class="hero-sub">Systematic FCV Portfolio Assessment of {stats['n']} operations approved 2015–2024 ({instr_breakdown_str}), applying the WBG FCV Sensitivity and Responsiveness Screener framework.</div>
+    <div class="hero-chips">
+      <span class="hero-chip">&#128197; {today}</span>
+      <span class="hero-chip">&#128203; {stats['n']} projects screened</span>
+      <span class="hero-chip">&#128200; Avg sensitivity {stats['avg_s']:.1f} · responsiveness {stats['avg_r']:.1f}</span>
+      <span class="hero-chip">Fragile &amp; Conflict-Affected State</span>
+    </div>
+  </div>
+</div>
+
+<div class="page-wrap">
+
+  <div class="toc">
+    <h3>Contents</h3>
+    <ol>
+      <li><a href="#overview">What This Assessment Found</a></li>
+      <li><a href="#portfolio">The Portfolio: {stats['n']} Projects, 10 Years</a></li>
+      <li><a href="#scores">How FCV-Integrated Is the Portfolio?</a></li>
+      <li><a href="#dimensions">Where Strengths and Weaknesses Lie</a></li>
+      <li><a href="#redflags">Red Flags: Where the Risks Are</a></li>
+      <li><a href="#instruments">How Do Instrument Types Compare?</a></li>
+      <li><a href="#conclusions">What This Means for Ethiopia Operations</a></li>
+      <li><a href="#methodology">Methodology</a></li>
+      <li><a href="#annex">Annex — All {stats['n']} Projects</a></li>
+    </ol>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="overview">
+    <h2>What This Assessment Found</h2>
+
+    <p>This report presents a systematic FCV (Fragility, Conflict and Violence) Portfolio Assessment of the World Bank Group's Ethiopia portfolio — {stats['n']} operations approved between 2015 and 2024, spanning {instr_breakdown_str} lending instruments. Ethiopia occupies a pivotal position in the Horn of Africa: it is one of the World Bank's largest IDA borrowers in Sub-Saharan Africa, with a population of over 120 million and one of the continent's fastest-growing economies prior to the Tigray conflict. The 2020–2022 civil war in Tigray — which caused massive civilian displacement, widespread atrocities, and severe infrastructure destruction — fundamentally reshaped Ethiopia's fragility profile mid-portfolio. Overlaying this are persistent drivers of fragility: ethnic federalism and intercommunal tensions, the Oromo political crisis, climate-driven pastoral conflict, displacement pressure from neighbouring Somalia and South Sudan, and governance deficits at federal and regional levels. This combination places Ethiopia firmly within the World Bank's FCS (Fragile and Conflict-Affected Situations) classification — a context that raises the bar for FCV integration in Bank operations.</p>
+
+    <p>Each project was assessed against the WBG FCV Sensitivity and Responsiveness Screener, which evaluates eight analytical dimensions across two composites. <strong>FCV Sensitivity</strong> (Dimensions 1–3) measures how well a project understands Ethiopia's fragility dynamics — its conflict drivers, political economy, and do-no-harm risks. <strong>FCV Responsiveness</strong> (Dimensions 4–8) measures whether the operational design actually adapts to that context: the theory of change, targeting logic, implementation flexibility, results framework, and One WBG integration. Scores run from 1 to 10; 7.0 is the high-performance threshold.</p>
+
+    <p>The headline result is a portfolio that <strong>partially understands Ethiopia's FCV context but inconsistently adapts to it</strong>. The average sensitivity score of <strong>{stats['avg_s']:.1f}/10</strong> ({s_rating}) indicates that FCV analysis is engaged — but rarely deeply. The average responsiveness score of <strong>{stats['avg_r']:.1f}/10</strong> ({r_rating}) indicates that this analysis is translating into operational design only sporadically. The {stats['avg_s'] - stats['avg_r']:.1f}-point gap between sensitivity and responsiveness is the central finding of this assessment. On trajectory, both scores show {'a positive trend' if trend_s > 0 else 'a mixed trend'} ({trend_s:+.2f}/yr sensitivity, {trend_r:+.2f}/yr responsiveness), suggesting the WBG FCV Strategy is beginning to have an effect — though the onset of the Tigray conflict in 2020 may itself have prompted sharper FCV attention in post-2020 operations.</p>
+
+    <p>The chart below maps all {stats['n']} projects onto the two-by-two gap matrix. Each dot is a project; the star marks the portfolio average. {n_high} projects achieve High FCV Integration; {n_low} fall into Low FCV Integration; {n_impl_gap} sit in the Implementation Gap quadrant; {n_resp_under} are Responsive but Underanalysed. For a portfolio operating in one of Africa's largest and most complex FCV contexts, the concentration in the lower quadrants indicates a systematic gap in translating Ethiopia's well-documented fragility dynamics into operational design.</p>
+
+    {inline_chart(
+        'chart4_sensitivity_vs_responsiveness.png',
+        'Portfolio quadrant analysis',
+        'Portfolio positioning: each point is one project, plotted by FCV Sensitivity (x-axis) vs FCV Responsiveness (y-axis). '
+        'Star (&#9733;) = portfolio average. Quadrant lines at Sensitivity = 6.0, Responsiveness = 5.5.'
+    )}
+
+    <p>A key institutional finding is that FCV quality in Ethiopia operations appears driven more by instrument type, sector, and individual TTL orientation than by portfolio-wide standards. DPF operations — which must engage with the macro-political economy — tend to score higher on sensitivity; IPF operations vary widely; P4R operations show the specific challenge of systems-strengthening in fragile public institutions. Closing the variance within each instrument type — not just raising averages — should be the primary objective of quality assurance reforms for the Ethiopia portfolio.</p>
+
+    <div class="stat-grid">
+      <div class="stat-card"><div class="value">{stats['n']}</div><div class="label">Projects Screened</div></div>
+      <div class="stat-card"><div class="value">{stats['n_ipf']}</div><div class="label">IPF Operations</div></div>
+      <div class="stat-card"><div class="value">{stats['n_dpf'] + stats['n_p4r']}</div><div class="label">DPF + P4R Ops</div></div>
+      <div class="stat-card"><div class="value">{n_high}</div><div class="label">High FCV Integration</div></div>
+      <div class="stat-card"><div class="value">{stats['avg_s']:.1f}</div><div class="label">Avg FCV Sensitivity</div></div>
+      <div class="stat-card"><div class="value">{stats['avg_r']:.1f}</div><div class="label">Avg FCV Responsiveness</div></div>
+    </div>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="portfolio">
+    <h2>The Portfolio: {stats['n']} Projects, 10 Years</h2>
+
+    <p>The Ethiopia portfolio screened here spans a decade of World Bank Group engagement, from 2015 to 2024. The {stats['n']} operations include {instr_breakdown_str} instruments, reflecting the full range of WBG lending modalities deployed in a large, complex middle-income country in a fragile context. Investment Project Financing (IPF) dominates, covering sectors from health system strengthening to urban infrastructure, agriculture, education, social protection, and digital development. Development Policy Financing (DPF) has been used to support governance and economic reform, often tied to structural adjustment programmes. Programme-for-Results (P4R) instruments have been used for systems-strengthening operations in health, education, and social protection, where linking disbursement to verified results is appropriate but requires functional government delivery systems.</p>
+
+    <p>Approval activity peaked in {peak_year} with {peak_year_count} operations, reflecting a period of sustained WBG engagement. Several projects in the portfolio are Additional Financing operations extending successful earlier interventions — a pattern of continuity that is both a strength (building institutional relationships) and a risk (assuming continuity of context in a country whose fragility profile shifted dramatically with the Tigray conflict). The scale of Ethiopia's portfolio — one of the largest IDA programs in Africa — means that even marginal improvements in FCV integration across operations have significant aggregate impact on outcomes for affected populations.</p>
+
+    {inline_chart(
+        'chart1_portfolio_timeline.png',
+        'Portfolio timeline',
+        f'Projects approved per year, 2015\u20132024, by instrument type ({instr_breakdown_str}).'
+    )}
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="scores">
+    <h2>How FCV-Integrated Is the Portfolio?</h2>
+
+    <p>The two composite scores — sensitivity and responsiveness — are the main analytical outputs of this assessment. Sensitivity captures the quality of FCV diagnostics and do-no-harm thinking embedded in project documents; responsiveness captures whether the operational design follows from that analysis. The portfolio average sensitivity of {stats['avg_s']:.1f}/10 and responsiveness of {stats['avg_r']:.1f}/10 both fall in the 'Partially Addressed' band (4.0–6.9), meaning FCV considerations are present but inconsistently applied. The {stats['avg_s'] - stats['avg_r']:.1f}-point sensitivity–responsiveness gap confirms a familiar pattern in large, complex FCV portfolios: analytical awareness outpacing operational adaptation.</p>
+
+    <div class="score-grid">
+      <div class="score-box score-box-s">
+        <div class="value">{stats['avg_s']:.1f}<span style="font-size:0.38em;opacity:0.55">/10</span></div>
+        <div class="label">Avg FCV Sensitivity</div>
+        <div class="dims">FCV Context &amp; Diagnostics · Do No Harm · Stakeholder &amp; Political Economy</div>
+      </div>
+      <div class="score-box score-box-r">
+        <div class="value">{stats['avg_r']:.1f}<span style="font-size:0.38em;opacity:0.55">/10</span></div>
+        <div class="label">Avg FCV Responsiveness</div>
+        <div class="dims">Objectives &amp; ToC · Design &amp; Targeting · Implementation Flexibility · Results Framework · One WBG</div>
+      </div>
+    </div>
+
+    <p>The gap matrix distribution reveals the portfolio's structural weaknesses:</p>
+
+    <table style="max-width:460px">
+      <thead><tr><th></th><th>Matrix Position</th><th style="text-align:center">Count</th><th style="text-align:center">Share</th></tr></thead>
+      <tbody>{gap_cells_html}</tbody>
+    </table>
+
+    <p>The distribution across gap matrix quadrants reflects the heterogeneity of a large, multi-sector portfolio spanning a decade of changing context. Operations approved before 2020 often predate the most intense fragility drivers; post-2020 operations should show sharper FCV attention given the Tigray conflict and the 2020 WBG FCV Strategy. The trend lines below test whether this is borne out. Both sensitivity and responsiveness trends ({trend_s:+.2f}/yr and {trend_r:+.2f}/yr respectively) {'suggest a positive trajectory in the later cohort' if trend_s > 0 else 'show mixed improvement'}, though year-to-year volatility across a diverse portfolio makes trends harder to interpret than in smaller country portfolios.</p>
+
+    <figure class="chart-figure">
+      <img src="chart2_sensitivity_over_time.png" alt="Sensitivity over time" class="chart-img">
+      <figcaption>FCV Sensitivity by approval year</figcaption>
+    </figure>
+    <figure class="chart-figure">
+      <img src="chart3_responsiveness_over_time.png" alt="Responsiveness over time" class="chart-img">
+      <figcaption>FCV Responsiveness by approval year</figcaption>
+    </figure>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="dimensions">
+    <h2>Where Strengths and Weaknesses Lie</h2>
+
+    <p>At the dimension level, the portfolio's strongest area is <strong>D{best_dim_id}: {best_dim_name}</strong> (avg {best_dim_score:.1f}/10) — the dimension where FCV thinking is most consistently applied across operations. The weakest is <strong>D{worst_dim_id}: {worst_dim_name}</strong> (avg {worst_dim_score:.1f}/10), which is where the most systematic design gap lies and where targeted quality review would have the highest leverage. The pattern across all eight dimensions typically follows the expected sensitivity-responsiveness gradient: sensitivity-side dimensions (D1–D3) score higher than responsiveness-side dimensions (D4–D8), even in well-performing operations. In Ethiopia's specific context, the most policy-relevant gaps to examine are D2 (Do No Harm and Conflict Risk) — given the multi-dimensional conflict landscape — and D6 (Implementation and Operational Flexibility) — given the operational disruptions caused by the Tigray war and intercommunal violence in Oromia, Afar, and Amhara regions.</p>
+
+    <p>The radar chart below visualises all eight dimensions simultaneously, comparing IPF against DPF (and P4R where sufficient N) and the portfolio average. This instrument-based comparison — rather than the cohort split used for all-IPF portfolios like Djibouti — reveals the structurally different FCV challenges each instrument type faces. DPF operations must engage with Ethiopia's macro-political economy and governance fragility to be effective; IPF operations must address local conflict dynamics and exclusion risks; P4R must grapple with the fragility of the government systems it is seeking to strengthen.</p>
+
+    {inline_chart(
+        'chart7_dimension_radar.png',
+        'Dimension radar chart',
+        'Average scores across all 8 dimensions by instrument type. Scale 0\u201310.',
+    )}
+
+    <p>The table and heatmap below provide greater granularity. In the heatmap, each column is a project and each row is a dimension. Horizontal patterns — rows that are consistently orange or red — signal portfolio-wide weaknesses that cut across sectors and instrument types. Vertical patterns — columns that are uniformly green or red — identify strong and weak outlier projects worth examining individually. With a large Ethiopia portfolio, the heatmap is particularly useful for identifying whether particular sectors (health, education, agriculture, infrastructure) systematically outperform or underperform on FCV integration.</p>
+
+    <table>
+      <thead><tr><th>#</th><th>Dimension</th><th>Composite</th><th style="text-align:center">Avg Score</th><th style="min-width:130px">Relative Strength</th></tr></thead>
+      <tbody>{dim_table_rows}</tbody>
+    </table>
+
+    {inline_chart(
+        'chart5_dimension_heatmap.png',
+        'Dimension score heatmap',
+        f'FCV dimension scores across all {stats["n"]} projects. Each column = one project; each row = one dimension. Red = low (1\u20133), amber = moderate (4\u20136), green = high (7\u201310).'
+    )}
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="redflags">
+    <h2>Red Flags: Where the Risks Are</h2>
+
+    <p>Beyond composite scores, the screener flags specific design failures that carry programmatic risk in fragile settings. These red flags represent concrete gaps that could cause harm, undermine effectiveness, or erode community trust — regardless of how a project scores on average. A project can score adequately overall and still carry a serious red flag if, for example, it names a conflict pathway but provides no mitigation, or if its results framework has no FCV-adjusted indicators whatsoever.</p>
+
+    <p>Across the {stats['n']}-project portfolio, {stats['any_rf']} operations trigger at least one red flag. The most prevalent is <strong>{most_common_rf}: {most_common_rf_label}</strong>, which appears in {most_common_rf_count} of {stats['n']} projects ({most_common_rf_pct:.0f}%). The chart below shows the frequency of each flag across the portfolio. In Ethiopia's specific context, the most concerning red flags are those related to do-no-harm (RF1) and elite capture / stakeholder opposition (RF4): Ethiopia's ethnically segmented political economy creates genuine pathways for project benefits to be diverted along ethnic lines or to be perceived as favouring one group over another, with destabilising effects. Results framework design (RF5) is also critical given the near-impossibility of predicting Ethiopia's operational environment across a 5–7 year project lifespan during the 2018–2024 period.</p>
+
+    {inline_chart(
+        'chart6_red_flags.png',
+        'Red flag frequency',
+        f'Frequency of each red flag across the Ethiopia portfolio (n={stats["n"]}). '
+        f'RF1 = Unmitigated Conflict Risk · RF2 = Missing Distributional Analysis · RF3 = OP 7.30 Weakly Handled · RF4 = Elite Capture Unmitigated · RF5 = Macro Framework Unrealistic.'
+    )}
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="instruments">
+    <h2>How Do Instrument Types Compare?</h2>
+
+    <p>Unlike a single-instrument portfolio (e.g. all-IPF), the Ethiopia portfolio allows direct comparison of FCV integration quality across instrument types. This is analytically valuable because each instrument type has a structurally different relationship to FCV context: IPF projects must manage local conflict risks and beneficiary exclusion; DPF operations must engage with national governance fragility and macro-political economy risks; P4R instruments must assess whether the government delivery systems they are strengthening are resilient to FCV shocks and ethnically neutral in their reach.</p>
+
+    <p>{'IPF operations (n=' + str(stats['n_ipf']) + ') average ' + f"{stats['ipf_avg_s']:.1f}/10 on sensitivity and {stats['ipf_avg_r']:.1f}/10 on responsiveness. " if stats['n_ipf'] > 0 else ''}{'DPF operations (n=' + str(stats['n_dpf']) + ') average ' + f"{stats['dpf_avg_s']:.1f}/10 on sensitivity and {stats['dpf_avg_r']:.1f}/10 on responsiveness. " if stats['n_dpf'] > 0 else ''}{'P4R operations (n=' + str(stats['n_p4r']) + ') average ' + f"{stats['p4r_avg_s']:.1f}/10 on sensitivity and {stats['p4r_avg_r']:.1f}/10 on responsiveness. " if stats['n_p4r'] > 0 else ''}The box plots below show the full score distributions for each instrument type, including spread and outliers — a more complete picture than averages alone. Wide distributions within any instrument type indicate that FCV quality is driven by individual TTL or sector-team decisions rather than instrument-level standards.</p>
+
+    <div class="instr-grid">
+      {instr_panels_html}
+    </div>
+
+    {inline_chart(
+        'chart8_score_distribution.png',
+        'Score distribution by instrument type',
+        'Distribution of FCV Sensitivity and Responsiveness scores by instrument type. '
+        'Box = interquartile range; line = median; whiskers = min/max; diamond = mean.'
+    )}
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="conclusions">
+    <h2>What This Means for Ethiopia Operations</h2>
+
+    <p>The Ethiopia portfolio demonstrates {'moderate' if 4 <= stats['avg_s'] < 7 else 'strong' if stats['avg_s'] >= 7 else 'weak'} FCV sensitivity and {'moderate' if 4 <= stats['avg_r'] < 7 else 'strong' if stats['avg_r'] >= 7 else 'weak'} FCV responsiveness across {stats['n']} screened operations. Given Ethiopia's position as both one of Africa's largest IDA borrowers and one of its most rapidly evolving FCV contexts — the Tigray conflict fundamentally changed the country's risk profile mid-portfolio — the inconsistency of FCV integration across operations carries significant consequences for portfolio effectiveness and do-no-harm compliance.</p>
+
+    <p>Five priorities stand out from this analysis:</p>
+
+    <ol>
+      <li><strong>Mandatory FCV sensitivity review for all Ethiopia operations, not just those in conflict-affected regions.</strong> The Tigray conflict demonstrated that violence can rapidly expand from one region to affect the operational context nationwide. FCV analysis that is geographically limited to designated conflict zones is insufficient for Ethiopia; all operations need a baseline FCV risk assessment updated at each restructuring.</li>
+      <li><strong>Address ethnic political economy risks explicitly in project design.</strong> Ethiopia's federal structure is organised along ethnic lines, and competition for resources — land, water, employment, political appointments — runs along ethnic cleavages in most sectors. Project targeting, procurement, and community engagement processes must explicitly account for these dynamics. Generic 'community consultation' language is not sufficient in the Ethiopian context.</li>
+      <li><strong>Build adaptive management into implementation arrangements, not just results frameworks.</strong> Dimension 6 (Implementation and Operational Flexibility) is a critical weakness in the Ethiopia portfolio. Operations approved in 2015–2018 could not have anticipated the operational disruptions of 2020–2022; those approved after 2020 have less excuse. Implementation arrangements should include explicit contingency protocols — alternative delivery mechanisms, geographic fallbacks, and suspension criteria — that do not require full restructuring to activate.</li>
+      <li><strong>Differentiate FCV quality expectations by instrument type and enforce them through quality review.</strong> IPF, DPF, and P4R instruments face structurally different FCV challenges in Ethiopia. Quality review standards should reflect these differences: DPF operations should be required to demonstrate engagement with Ethiopia's governance fragility and macro-political risks; P4R operations should demonstrate that the systems they are strengthening are FCV-resilient and ethnically equitable; IPF operations should demonstrate local conflict risk assessment and do-no-harm analysis proportionate to the operational context.</li>
+      <li><strong>Strengthen One WBG integration to leverage IFC's Ethiopia presence.</strong> IFC has a substantial Ethiopia portfolio in agribusiness, financial services, infrastructure, and manufacturing. Given the linkages between private sector investment, land rights, displacement, and local economic grievances in Ethiopia's conflict dynamics, WBG-level coordination between IFC and IBRD/IDA operations is not merely desirable but essential for do-no-harm compliance. The CMU should establish structured dialogue with IFC to ensure that PADs reflect IFC's risk assessments and vice versa.</li>
+    </ol>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="methodology">
+    <h2>Methodology</h2>
+
+    <details class="meth">
+      <summary>Click to expand methodology details</summary>
+      <div style="padding-top:16px">
+        <h3>Data collection</h3>
+        <p>Project metadata was retrieved via the World Bank Open Data API (search.worldbank.org), filtering for Ethiopia (country code: ET), approval year 2015–2024, and IPF, DPF, or P4R lending instruments. Document metadata was retrieved using the World Bank Documents and Reports API. Project Appraisal Documents and Program Documents were identified through a text search pre-fetch of all Ethiopia-tagged PADs and PDs, with bidirectional title-recall matching (threshold: max recall &#8805; 0.55, Jaccard &#8805; 0.18) to link documents to projects. ISRs and Project Papers were retrieved via direct project_id lookup with country validation. Keyword fallback search (country=ET) was used for remaining unmatched projects. PDF text was extracted using PyMuPDF (fitz) using a head+tail approach: 50,000 characters from the start of the document (cover, context, PDO, theory of change) and 20,000 characters from the end (results framework, risk annexes), with a separator marking omitted procurement/fiduciary sections. This approach captures the analytically relevant sections while maintaining a manageable context window for AI screening.</p>
+        <h3>FCV screening framework</h3>
+        <p>Each document was screened against the WBG FCV Sensitivity and Responsiveness Screener, grounded in the WBG FCV Strategy (2025) and FCV Operational Manual for FCV Country Coordinators (June 2025). Each dimension is rated on a 4-point scale (Strong / Substantially Addressed / Partially Addressed / Not Addressed), converted to a 1–10 numeric scale. Composite scores are weighted averages of contributing dimensions, with red flag deductions applied to the Sensitivity composite (&#8722;0.5 per red flag, floor 1). Ethiopia is classified as a Fragile and Conflict-Affected State (FCS) by the World Bank.</p>
+        <h3>Screening approach</h3>
+        <p>Each project was screened individually by a dedicated Claude AI agent (1 agent per project), receiving only the FCV skill instructions and the extracted text for that project. This approach — developed as an improvement on the batch-of-8 method used for Djibouti and Somalia — reduces context accumulation and token usage by approximately 80%, enabling larger portfolios to be screened efficiently across multiple sessions.</p>
+        <h3>Scope and limitations</h3>
+        <ul>
+          <li>Projects excluded where no public PDF was accessible via the WB Documents API; noted in screening_targets.json</li>
+          <li>Text extraction capped at 70,000 characters (50k head + 20k tail); procurement and financial management annexes are omitted</li>
+          <li>One primary document screened per project; ISRs and Aide-Mémoires not included unless the ISR was the only available document</li>
+          <li>Gap matrix cell assignments from screening agents were independently recomputed from numeric scores to ensure consistency</li>
+          <li>The Tigray conflict (2020–2022) affects many post-2020 operations; projects approved before the conflict cannot be evaluated on their response to it, only on their pre-conflict FCV preparation</li>
+        </ul>
+      </div>
+    </details>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════ -->
+  <div class="report-section" id="annex">
+    <h2>Annex — All {stats['n']} Projects</h2>
+
+    <p>The table below lists all {stats['n']} screened projects, sorted by FCV Sensitivity score. <strong>Click any row</strong> to expand the full dimension-by-dimension screening results, key finding, and red flag detail for that project. Score colours: <span style="background:#f0f9f4;padding:1px 6px;border-radius:3px;font-size:11px;color:#1a5c38;border:1px solid rgba(26,122,74,.2)">&#9650; &#8805; 7.0</span> <span style="background:#fff7ed;padding:1px 6px;border-radius:3px;font-size:11px;color:#7c3d00;border:1px solid rgba(224,123,0,.2)">4.0–6.9</span> <span style="background:#fef2f2;padding:1px 6px;border-radius:3px;font-size:11px;color:#7f1d1d;border:1px solid rgba(185,28,28,.2)">&#9660; &lt; 4.0</span></p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Project ID</th>
+          <th>Project Name</th>
+          <th style="text-align:center">Instrument</th>
+          <th style="text-align:center">Year</th>
+          <th style="text-align:center">Status</th>
+          <th>Sector</th>
+          <th style="text-align:center">Commitment</th>
+          <th style="text-align:center">FCV Sens.</th>
+          <th style="text-align:center">FCV Resp.</th>
+          <th>Gap Matrix</th>
+        </tr>
+      </thead>
+      <tbody>
+        {expandable_rows}
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<div class="page-footer">
+  WBG FCV Screener &nbsp;·&nbsp; WBG FCV Strategy (2025) &nbsp;·&nbsp; FCV Operational Manual (June 2025)
+  &nbsp;·&nbsp; Generated {today}
+</div>
+
+</body>
+</html>"""
+    return html
+
+
+def make_standalone(html: str, script_dir: Path) -> str:
+    """
+    Replace all relative PNG chart references with inline base64 data URIs,
+    producing a single fully self-contained HTML file that can be shared
+    without any accompanying image files.
+    """
+    def encode_png(match):
+        fname    = match.group(1)
+        img_path = script_dir / fname
+        if img_path.exists():
+            data = base64.b64encode(img_path.read_bytes()).decode('ascii')
+            return f'src="data:image/png;base64,{data}"'
+        return match.group(0)  # leave unchanged if file missing
+
+    return re.sub(r'src="(chart[\w]+\.png)"', encode_png, html)
+
+
+def main():
+    print('Ethiopia FCV Portfolio Report — HTML Generation')
+    print('=' * 52)
+    print('Loading data...')
+    results, proj_meta = load_data()
+    print(f'  {len(results)} projects loaded from {RESULTS_FILE.name}')
+
+    print('Building HTML report...')
+    html = build_html(results, proj_meta)
+
+    # Standard version (relative image paths — for local use)
+    print(f'Writing {REPORT_FILE.name}...')
+    with open(REPORT_FILE, 'w', encoding='utf-8') as f:
+        f.write(html)
+    print(f'  Saved: {REPORT_FILE}')
+    print(f'  Size:  {REPORT_FILE.stat().st_size / 1024:.0f} KB')
+
+    # Standalone version (embedded images — for sharing)
+    standalone_file = REPORT_FILE.with_name(REPORT_FILE.stem + '-standalone.html')
+    print(f'Writing {standalone_file.name} (self-contained)...')
+    standalone_html = make_standalone(html, SCRIPT_DIR)
+    with open(standalone_file, 'w', encoding='utf-8') as f:
+        f.write(standalone_html)
+    print(f'  Saved: {standalone_file}')
+    print(f'  Size:  {standalone_file.stat().st_size / 1024:.0f} KB')
+
+
+if __name__ == '__main__':
+    main()

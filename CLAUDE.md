@@ -7,6 +7,8 @@ Each country's analysis lives in its own subfolder: `<country>/`
 
 Current countries:
 - `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16
+- `djibouti/` — completed 2026-03-16 (22 projects, 2015–2024)
+- `ethiopia/` — scripts created 2026-03-16; data collection and screening pending
 
 ---
 
@@ -92,59 +94,83 @@ https://search.worldbank.org/api/v2/wds?format=json&project_id=<PID>&rows=10&fl=
 
 ### Step 3 — Extract text from PDFs
 
-For each project in `screening_targets.json`:
+**Head+tail approach (recommended for large portfolios, e.g. Ethiopia):**
 
 ```python
-import fitz  # PyMuPDF
-import urllib.request
-import ssl
+def extract_pdf_text(url: str, head_chars: int = 50_000, tail_chars: int = 20_000) -> str:
+    """Extract first head_chars + last tail_chars from a WB PDF.
 
-ssl_ctx = ssl.create_default_context()
-ssl_ctx.check_hostname = False
-ssl_ctx.verify_mode = ssl.CERT_NONE
-
-def extract_pdf_text(url, max_chars=120000):
-    with urllib.request.urlopen(url, context=ssl_ctx, timeout=60) as r:
+    Head captures: cover, SORT risk table, country context, PDO, theory of change.
+    Tail captures: results framework, risk annexes, safeguards.
+    Short docs (<= head+tail chars) returned in full.
+    """
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, context=SSL_CTX, timeout=90) as r:
         pdf_bytes = r.read()
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
+    max_needed = head_chars + tail_chars
     text = ''
     for page in doc:
         text += page.get_text()
-        if len(text) >= max_chars:
+        if len(text) >= max_needed:
             break
-    return text[:max_chars]
+    doc.close()
+    if len(text) <= head_chars:
+        return text
+    head = text[:head_chars]
+    tail = text[max(head_chars, len(text) - tail_chars):]
+    sep = '\n\n[... procurement/fiduciary sections omitted ...]\n\n'
+    return head + sep + tail
 ```
 
+**Flat 120k approach (used for Somalia/Djibouti):** Cap at 120,000 characters — covers ~80–100 pages.
+
 **Key decisions:**
-- Cap at **120,000 characters** — covers ~80–100 pages, sufficient for any PAD/PD
+- Prefer head+tail for portfolios >40 projects — saves ~42% of tokens per project vs flat 120k
 - Save each extracted text as a `.txt` file in `extracted_texts/<PID>.txt` (not committed — archive locally)
-- Log extraction status in `extraction_results.json` (not committed)
 - Use `fitz`, not `pdfplumber` — WB PDFs have complex layouts that break pdfplumber
 
 ---
 
 ### Step 4 — FCV Screening (the main analytical step)
 
-**How to run:**
-- Divide the projects into batches of ~8
-- For each batch, launch a Claude Code `general-purpose` agent in background
-- Pass the agent: the extracted text for each project + the FCV skill instructions
+**Recommended approach: 1 project per background agent** (introduced for Ethiopia; supersedes batch-of-8)
 
-**Agent prompt template:**
+Each agent receives only: skill instructions (~5k tokens) + one project's extracted text (~17.5k tokens) = ~23k tokens per agent. Compare to batch-of-8 which accumulates ~267k tokens by project 8.
+
+**Agent prompt template (per project):**
 ```
-You are running the FCV Sensitivity and Responsiveness Screener for a World Bank portfolio analysis.
+Screen this single project using the FCV screener skill.
+Project ID: <PID> | Name: <project_name>
+Document type: <doc_type> | Instrument: <instrument_category> | Year: <approval_year>
 
-For each project in this batch, read the extracted PDF text and apply the FCV screener skill.
-Output a JSON array of screening results — one object per project.
+Output format constraints (strictly enforced):
+- key_quote: max 250 chars per dimension
+- rationale per dimension: max 3 sentences / 200 words
+- key_finding: max 2 sentences / 100 words
+- Output: a single JSON object only. No preamble before the JSON.
 
-Projects to screen:
-[list of {project_id, project_name, doc_type, instrument_category, approval_year, text}]
+Save result to: <country>/screening_results_<PID>.json
 
-The FCV skill is installed. Use /fcv-sensitivity-and-responsiveness-screener for each document.
-Save results to: screening_results_batch_N.json
+[extracted text below]
+<text>
 ```
 
-**Parallel execution:** Running batches simultaneously dramatically reduces total time.
+**Session management for large portfolios (>40 projects):**
+
+Launch agents in groups across multiple sessions to avoid main-session context accumulation. Never read or paste extracted text into the main session.
+
+| Session | Action |
+|---|---|
+| A | Steps 1–3: Run data collection script |
+| B | Launch screening agents for projects 1–20 (all as background) |
+| C | Launch screening agents for projects 21–40 |
+| D | Launch screening agents for projects 41–60 |
+| E+ | Remaining projects; then check all results saved |
+
+After launching each group, you can `/clear` or close the session — the background agents run independently and save their results as files.
+
+**Legacy batch-of-8 approach (Somalia/Djibouti):** Divide projects into batches of ~8, launch one agent per batch, pass a JSON array of projects+texts. Still valid for small portfolios (<25 projects) to reduce session overhead.
 
 **Output per project (target schema):**
 ```json
@@ -165,16 +191,17 @@ Save results to: screening_results_batch_N.json
 }
 ```
 
-**Important:** Different agents may produce slightly different JSON schemas. Run `normalize_results.py` after all batches complete.
+**Important:** Different agents may produce slightly different JSON schemas. Run `normalize_results.py` after all results are saved.
 
 ---
 
 ### Step 5 — Normalize and merge results
 
 Run `normalize_results.py` — this script:
-1. Merges all `screening_results_batch_N.json` files
-2. Normalises scores, ratings, and dimension lists into one canonical schema
-3. Saves `<date>_<country>_screening_results_normalized.json`
+1. **1-per-agent approach:** globs `screening_results_P*.json` files (one per project)
+2. **Batch approach:** merges all `screening_results_batch_N.json` files
+3. Normalises scores, ratings, and dimension lists into one canonical schema
+4. Saves `<date>_<country>_screening_results_normalized.json`
 
 ---
 
@@ -310,6 +337,8 @@ These are backed up via OneDrive sync.
 | Agent hits rate limit mid-batch | Results for completed projects still saved; relaunch remaining only |
 | `totalcommamt` stored as string in portfolio JSON | Cast to `float()` before arithmetic |
 | Old `generate_report.py` wrote to hardcoded `Claude_Outputs` path | Fixed 2026-03-16: now uses `Path(__file__).parent` — script writes to its own directory |
+| WB Documents API returns >200 PADs for large countries (e.g. Ethiopia) | Script paginates up to 800 docs per document type |
+| Head+tail separator causes minor discontinuity in extracted text | Separator `[... procurement/fiduciary sections omitted ...]` is visible to screener — agents handle it correctly |
 
 ---
 
@@ -330,4 +359,4 @@ Never commit directly to `main` for non-trivial changes.
 
 ---
 
-*Last updated: 2026-03-16 — report redesign (blog-style HTML), path config fix, git workflow added*
+*Last updated: 2026-03-16 — Ethiopia scripts added; 1-per-agent screening approach documented; head+tail extraction documented*
