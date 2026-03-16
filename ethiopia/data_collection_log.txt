@@ -1,0 +1,223 @@
+============================================================
+Ethiopia FCV Portfolio — Data Collection
+Country: Ethiopia (ET)
+Period:  2015–2024
+Instruments: DPF, IPF, P4R
+Extraction: head 50,000 + tail 20,000 chars per PDF
+Run date: 2026-03-16 20:39
+============================================================
+
+Step 1: Fetching portfolio for ET (Ethiopia)...
+    Retry 1/3 for https://search.worldbank.org/api/v2/projects?format=json&countrycode=ET&rows=250... (HTTP Error 500: Internal Server Error)
+  Total projects returned by API: 250
+  Note: API reports 261 total projects. Fetching additional pages...
+    Page starting at 250: 250 additional projects
+  Total after pagination (before dedup): 500 projects
+  Deduplicated: 500 -> 250 unique projects
+  After filter (DPF/IPF/P4R, 2015–2024): 58 projects
+    DPF: 3
+    IPF: 43
+    P4R: 12
+  Saved: filtered_ethiopia_portfolio.json
+
+Step 2: Fetching document URLs for 58 projects...
+  Pre-fetching all Ethiopia PADs from WB Documents API...
+    Pre-fetched 120 unique Ethiopia PADs
+  [001/58] P148850: Ethiopia- Expressway Development Support Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Expressway Development       Support Project
+  [002/58] P155828: AdditionalFianncing-LSMS-ISA Ethiopia Rural Socioe
+           -> No valid document -- EXCLUDED
+  [003/58] P151432: Enhancing Shared Prosperity through Equitable Serv
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Program for Results       Enhancing Shared P
+  [004/58] P151712: Urban Productive Safety Net Project (UPSNP)
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Urban Productive       Safety Net Project
+  [005/58] P148447: Ethiopia: SME Finance Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Small and Medium       Enterprise Finance Pr
+  [006/58] P151847: Eastern and Southern Africa Higher Education Cente
+           -> [PAD-match] Project Appraisal Document: Africa - Eastern and Southern       Africa Higher Educa
+  [007/58] P155563: ENREP ADDITIONAL FINANCING
+    Retry 1/3 for https://search.worldbank.org/api/v2/wds?format=json&project_id=P155563&rows=100&... (HTTP Error 500: Internal Server Error)
+           -> No valid document -- EXCLUDED
+  [008/58] P158770: PRODUCTIVE SAFETY NET PROJECT (PSNP 4) ADDITIONAL 
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Rural Productive       Safety Net Project
+  [009/58] P160279: Ethiopia: National Quality Infrastructure Developm
+           -> [PAD-match] Project Appraisal Document: Ethiopia - National Quality       Infrastructure Develo
+  [010/58] P156590: Trade Logistics Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Trade Logistics Project
+  [011/58] P156433: Second Ethiopia Urban Water Supply and Sanitation 
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Second Ethiopia Urban       Water Supply and
+  [012/58] P163350: Productive Safety Net 4 Project Additional Financi
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Rural Productive       Safety Net Project
+  [013/58] P161060: General Education Quality Improvement Program Phas
+           -> [PAD-match] Project Appraisal Document: Ethiopia - General Education       Quality Improvement 
+  [014/58] P161373: Enhancing Shared Prosperity through Equitable Serv
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Program for Results       Enhancing Shared P
+  [015/58] P163438: Ethiopia Rural Productive Safety Net Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Rural Productive       Safety Net Project
+  [016/58] P159382: Livestock and Fisheries Sector Development Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Livestock and       Fisheries Sector Develop
+  [017/58] P163050: Ethiopia General Education Quality Improvement Pro
+           -> [PAD-match] Project Appraisal Document: Ethiopia - General Education       Quality Improvement 
+  [018/58] P163226: AF Ethiopia Statistics for Results Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Statistics for Results Project
+  [019/58] P160395: Ethiopia Electrification Program (ELEAP)
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Electrification Program
+  [020/58] P163829: Ethiopia Economic Opportunities Program
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Economic Opportunities       Program Program
+  [021/58] P163383: Ethiopia Resilient Landscapes and Livelihoods Proj
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Resilient Landscapes       and Livelihoods P
+  [022/58] P168566: Ethiopia Growth and Competitiveness
+           -> [PAD-match] Program Document: Ethiopia - Growth and       Competitiveness Programmati
+  [023/58] P162607: Renewable Energy Guarantees Program
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Renewable Energy       Guarantees Program Pr
+  [024/58] P164336: Lowlands Livelihood Resilience Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Lowlands Livelihood       Resilience Project
+  [025/58] P170384: ETHIOPIA CLIMATE ACTION THROUGH LANDSCAPE MANAGEME
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Climate Action through       Landscape Manag
+  [026/58] P167794: One WASH—Consolidated Water Supply, Sanitation, an
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Consolidated Water       Supply, Sanitation,
+  [027/58] P169079: Second Ethiopia Growth and Competitiveness Program
+           -> [PAD-match] Program Document: Ethiopia - Growth and       Competitiveness Programmati
+  [028/58] P173750: Ethiopia COVID-19 Emergency Response
+           -> [PAD-match] Project Appraisal Document: Ethiopia - COVID-19 Emergency       Response Project
+  [029/58] P169943: Urban Productive Safety Net and Jobs Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Urban Productive       Safety Net and Jobs P
+  [030/58] P172479: Strengthen Ethiopia’s Adaptive Safety Net
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Strengthen       Ethiopia's Adaptive Safety 
+  [031/58] P174874: ETHIOPIA WOMEN ENTREPRENEURSHIP DEVELOPMENT PROJEC
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Women Entrepreneurship       Development Pro
+  [032/58] P175853: Additional Financing for Ethiopia COVID-19 Emergen
+           -> [PAD-match] Project Appraisal Document: Ethiopia - COVID-19 Emergency       Response Project
+  [033/58] P171742: Access to Distributed Electricity and Lighting in 
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Access to Distributed       Electricity and 
+  [034/58] P175045: Ethiopia Small and Medium Enterprises Finance Proj
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Small and Medium       Enterprise Finance Pr
+  [035/58] P171034: Ethiopia Digital Foundations Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Ethiopia Digital       Foundations Project
+  [036/58] P168411: Additional Financing to GEQIP-E for Refugees Integ
+    Retry 1/3 for https://search.worldbank.org/api/v2/wds?format=json&qterm=integration+refugees+g... (HTTP Error 500: Internal Server Error)
+           -> [keyword] Project Paper: Ethiopia - General Education       Quality Improvement 
+  [037/58] P176354: ENHANCING SHARED PROSPERITY THROUGH EQUITABLE SERV
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Program for Results       Enhancing Shared P
+  [038/58] P176997: ADDITIONAL FINANCING FOR STRENGTHEN ETHIOPIA’S ADA
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Strengthen       Ethiopia's Adaptive Safety 
+  [039/58] P177906: Second AF for the Ethiopia Covid-19 Emergency Resp
+           -> [PAD-match] Project Appraisal Document: Ethiopia - COVID-19 Emergency       Response Project
+  [040/58] P177233: Response - Recovery - Resilience for Conflict-Affe
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Response - Recovery -       Resilience for C
+  [041/58] P178821: Third Additional Financing for the Ethiopia COVID-
+           -> [PAD-match] Project Appraisal Document: Ethiopia - COVID-19 Emergency       Response Project
+  [042/58] P178047: Development Response to Displacement Impacts Proje
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Second Phase       Development Response to D
+  [043/58] P179092: Second Additional Financing for Strengthen Ethiopi
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Strengthen       Ethiopia's Adaptive Safety 
+  [044/58] P175167: Ethiopia Program for Results (Hybrid) for Strength
+           -> [PAD-match] Program Document: Ethiopia - Program for Results       (Hybrid) for Stren
+  [045/58] P176327: Ethiopia Flood Management Project
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Flood Management Project
+  [046/58] P178895: Ethiopia Electrification Program Additional Financ
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Electrification Program
+  [047/58] P172284: Ethiopia Human Capital Operation
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Human Capital Operation
+  [048/58] P177881: Ethiopia Education and Skills for Employability Pr
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Education and Skills       for Employability
+  [049/58] P179040: Ethiopia Digital ID for Inclusion and Services Pro
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Digital ID for       Inclusion and Services 
+  [050/58] P176255: ADDITIONAL FINANCING -  TRADE LOGISTICS PROJECT
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Trade Logistics Project
+  [051/58] P181550: Urban Productive Safety Net and Jobs Project Secon
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Urban Productive       Safety Net and Jobs P
+  [052/58] P180076: Lowlands Livelihood Resilience Project, Phase Two 
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Lowlands Livelihood       Resilience Project
+  [053/58] P176731: Power Sector Reform, Investment and Modernization 
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Power Sector Reform,       Investment, and M
+  [054/58] P181626: THIRD ADDITIONAL FINANCING FOR STRENGTHEN ETHIOPIA
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Strengthen       Ethiopia's Adaptive Safety 
+  [055/58] P176303: Ethiopia Rural Connectivity to Support Food Securi
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Rural Connectivity for       Food Security P
+  [056/58] P181545: Additional Financing for the Second Urban Water Su
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Second Ethiopia Urban       Water Supply and
+  [057/58] P181591: Ethiopia First Sustainable and Inclusive Growth De
+           -> [PAD-match] Program Document: Ethiopia - First Sustainable and       Inclusive Growth
+  [058/58] P178808: Governance Modernization to Enable Efficient Servi
+           -> [PAD-match] Project Appraisal Document: Ethiopia - Governance       Modernization to Enable Eff
+
+  Documents found: 56, Excluded: 2
+  Excluded projects:
+    P155828: AdditionalFianncing-LSMS-ISA Ethiopia Rural Socioeconomic Survey
+    P155563: ENREP ADDITIONAL FINANCING
+  Saved: screening_targets.json
+
+Step 3: Extracting PDF text for 56 projects...
+  [001/56] P148850: cached (70,052 chars)
+  [002/56] P151432: Project Appraisal Document... 70,052 chars  [head+tail]
+  [003/56] P151712: Project Appraisal Document... 70,052 chars  [head+tail]
+  [004/56] P148447: Project Appraisal Document... 70,052 chars  [head+tail]
+  [005/56] P151847: Project Appraisal Document... 70,052 chars  [head+tail]
+  [006/56] P158770: Project Appraisal Document... 70,052 chars  [head+tail]
+  [007/56] P160279: Project Appraisal Document... 70,052 chars  [head+tail]
+  [008/56] P156590: Project Appraisal Document... 70,052 chars  [head+tail]
+  [009/56] P156433: Project Appraisal Document... 70,052 chars  [head+tail]
+  [010/56] P163350: Project Appraisal Document... 70,052 chars  [head+tail]
+  [011/56] P161060: Project Appraisal Document... 70,052 chars  [head+tail]
+  [012/56] P161373: Project Appraisal Document... 70,052 chars  [head+tail]
+  [013/56] P163438: Project Appraisal Document... 70,052 chars  [head+tail]
+  [014/56] P159382: Project Appraisal Document... 70,052 chars  [head+tail]
+  [015/56] P163050: Project Appraisal Document... 70,052 chars  [head+tail]
+  [016/56] P163226: Project Appraisal Document... 70,052 chars  [head+tail]
+  [017/56] P160395: Project Appraisal Document... 70,052 chars  [head+tail]
+  [018/56] P163829: Project Appraisal Document... 70,052 chars  [head+tail]
+  [019/56] P163383: Project Appraisal Document... 70,052 chars  [head+tail]
+  [020/56] P168566: Program Document... 70,052 chars  [head+tail]
+  [021/56] P162607: Project Appraisal Document... 70,052 chars  [head+tail]
+  [022/56] P164336: Project Appraisal Document... 70,052 chars  [head+tail]
+  [023/56] P170384: Project Appraisal Document... 70,052 chars  [head+tail]
+  [024/56] P167794: Project Appraisal Document... 70,052 chars  [head+tail]
+  [025/56] P169079: Program Document... 70,052 chars  [head+tail]
+  [026/56] P173750: Project Appraisal Document... 70,052 chars  [head+tail]
+  [027/56] P169943: Project Appraisal Document... 70,052 chars  [head+tail]
+  [028/56] P172479: Project Appraisal Document... 70,052 chars  [head+tail]
+  [029/56] P174874: Project Appraisal Document... 70,052 chars  [head+tail]
+  [030/56] P175853: Project Appraisal Document... 70,052 chars  [head+tail]
+  [031/56] P171742: Project Appraisal Document... 70,052 chars  [head+tail]
+  [032/56] P175045: Project Appraisal Document... 70,052 chars  [head+tail]
+  [033/56] P171034: Project Appraisal Document... 70,052 chars  [head+tail]
+  [034/56] P168411: Project Paper... 70,052 chars  [head+tail]
+  [035/56] P176354: Project Appraisal Document... 70,052 chars  [head+tail]
+  [036/56] P176997: Project Appraisal Document... 70,052 chars  [head+tail]
+  [037/56] P177906: Project Appraisal Document... 70,052 chars  [head+tail]
+  [038/56] P177233: Project Appraisal Document... 70,052 chars  [head+tail]
+  [039/56] P178821: Project Appraisal Document... 70,052 chars  [head+tail]
+  [040/56] P178047: Project Appraisal Document... 70,052 chars  [head+tail]
+  [041/56] P179092: Project Appraisal Document... 70,052 chars  [head+tail]
+  [042/56] P175167: Program Document... 70,052 chars  [head+tail]
+  [043/56] P176327: Project Appraisal Document... 70,052 chars  [head+tail]
+  [044/56] P178895: Project Appraisal Document... 70,052 chars  [head+tail]
+  [045/56] P172284: Project Appraisal Document... 70,052 chars  [head+tail]
+  [046/56] P177881: Project Appraisal Document... 70,052 chars  [head+tail]
+  [047/56] P179040: Project Appraisal Document... 70,052 chars  [head+tail]
+  [048/56] P176255: Project Appraisal Document... 70,052 chars  [head+tail]
+  [049/56] P181550: Project Appraisal Document... 70,052 chars  [head+tail]
+  [050/56] P180076: Project Appraisal Document... 70,052 chars  [head+tail]
+  [051/56] P176731: Project Appraisal Document... 70,052 chars  [head+tail]
+  [052/56] P181626: Project Appraisal Document... 70,052 chars  [head+tail]
+  [053/56] P176303: Project Appraisal Document... 70,052 chars  [head+tail]
+  [054/56] P181545: Project Appraisal Document... 70,052 chars  [head+tail]
+  [055/56] P181591: Program Document... 70,052 chars  [head+tail]
+  [056/56] P178808: Project Appraisal Document... 70,052 chars  [head+tail]
+
+  Extracted: 56, Failed: 0
+
+============================================================
+Data Collection Complete
+  Portfolio projects:  58
+  Screening targets:   56
+  Excluded (no doc):   2
+  Text extracted:      56 / 56
+
+Outputs:
+  filtered_ethiopia_portfolio.json
+  screening_targets.json
+  extracted_texts/<PID>.txt
+
+Next step: Run FCV screening agents (see CLAUDE.md Step 4)

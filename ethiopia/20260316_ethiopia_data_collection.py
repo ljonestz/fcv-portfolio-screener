@@ -135,7 +135,19 @@ def fetch_portfolio() -> list:
             print(f'    Page starting at {start}: {len(page_projects)} additional projects')
             start += 250
             time.sleep(0.5)
-        print(f'  Total after pagination: {len(projects_raw)} projects')
+        print(f'  Total after pagination (before dedup): {len(projects_raw)} projects')
+
+    # Deduplicate by project ID (pagination can return overlapping records)
+    seen_ids = set()
+    unique_raw = []
+    for p in projects_raw:
+        pid = p.get('id')
+        if pid and pid not in seen_ids:
+            seen_ids.add(pid)
+            unique_raw.append(p)
+    if len(unique_raw) < len(projects_raw):
+        print(f'  Deduplicated: {len(projects_raw)} -> {len(unique_raw)} unique projects')
+    projects_raw = unique_raw
 
     filtered = []
     for p in projects_raw:
@@ -432,8 +444,23 @@ def fetch_documents(portfolio: list) -> tuple[list, list]:
 
         time.sleep(0.2)
 
+    # Deduplicate targets by project_id (safety check)
+    seen_pids = set()
+    unique_targets = []
+    for t in targets:
+        if t['project_id'] not in seen_pids:
+            seen_pids.add(t['project_id'])
+            unique_targets.append(t)
+    if len(unique_targets) < len(targets):
+        print(f'  Target dedup: {len(targets)} -> {len(unique_targets)}')
+    targets = unique_targets
+
     print(f'\n  Documents found: {len(targets)}, Excluded: {len(excluded)}')
     if excluded:
+        # Deduplicate excluded list too
+        seen_excl = set()
+        unique_excl = [e for e in excluded if e['project_id'] not in seen_excl and not seen_excl.add(e['project_id'])]
+        excluded = unique_excl
         print('  Excluded projects:')
         for e in excluded:
             print(f'    {e["project_id"]}: {e["project_name"]}')
