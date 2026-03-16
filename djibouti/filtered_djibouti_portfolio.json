@@ -1,0 +1,637 @@
+[
+  {
+    "id": "P148586",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Enhancing income opportunities in DJ",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 69
+    },
+    "sector2": {
+      "Name": "Adult, Basic and Continuing Education",
+      "Percent": 20
+    },
+    "theme1": "Micro, Small and Medium Enterprise support!$!10!$!41",
+    "totalcommamt": "2,730,000",
+    "boardapprovaldate": "2015-06-19T00:00:00Z",
+    "closingdate": "5/20/2019 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P148586",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P158696",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Social Safety Net Second Additional Financing",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 100
+    },
+    "theme1": "Nutrition and food security!$!20!$!68",
+    "totalcommamt": "4,000,000",
+    "boardapprovaldate": "2016-05-31T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P158696",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P158952",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Governance for Private Sector and Finance Development Additional Fin.",
+    "sector1": {
+      "Name": "Public Administration - Financial Sector",
+      "Percent": 5
+    },
+    "sector2": {
+      "Name": "Public Administration - Industry, Trade and Services",
+      "Percent": 44
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "5,100,000",
+    "boardapprovaldate": "2016-12-14T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P158952",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P158505",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti: Sustainable Electrification Program",
+    "sector1": {
+      "Name": "Energy Transmission and Distribution",
+      "Percent": 97
+    },
+    "sector2": {
+      "Name": "Public Administration - Energy and Extractives",
+      "Percent": 3
+    },
+    "theme1": "Infrastructure services for private sector development!$!50!$!39",
+    "totalcommamt": "23,300,000",
+    "boardapprovaldate": "2017-06-02T00:00:00Z",
+    "closingdate": "3/5/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P158505",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P162904",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Public Administration Modernization Project",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 43
+    },
+    "sector2": {
+      "Name": "ICT Services",
+      "Percent": 36
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2018-04-25T00:00:00Z",
+    "closingdate": "6/30/2024 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P162904",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Public Administration Modernization Project for Djibouti is to enable access to e-government and promote efficiency of selected revenue administration services. The project comprises of three components. The first component, strengthening e-government foundation and institutional building consists of three interrelated sub-components, including: (a) the development of a digital platform and e-services, (b) the establishment of a citizen service center (CSC) pilot, and (c) institution building. The second component, tax and customs modernization will support the revision of various tax legislation for more coherent and efficient tax and customs administration. The third component, project management will support the establishment and operation of a project coordination unit (PCU) located within national agency for state information system (ANSIE) to support coordination and manage project implementation."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P165558",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Support for Women and Youth Entrepreneurship",
+    "sector1": {
+      "Name": "Other Industry, Trade and Services",
+      "Percent": 67
+    },
+    "sector2": {
+      "Name": "Capital Markets",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2018-06-08T00:00:00Z",
+    "closingdate": "6/28/2024 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P165558",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P164164",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Towards Zero Stunting and Responding to COVID-19 and Other Emergencies",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 50
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 20
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2018-07-09T00:00:00Z",
+    "closingdate": "7/15/2023 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P164164",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The objective of the Towards Zero Stunting in Djibouti Project is to reduce stunting among children under five in Djibouti. There are four components to the project, the first component being high-impact health and nutrition services to reduce stunting. This component focuses on the delivery of services and interventions that address stunting at both the facility and community levels. This component includes two subcomponents:   strengthening of health and nutrition services at the facility level; prevention and management of stunting and wasting at the community level. The second component is the strengthening multi-sectoral interventions for stunting reduction.  This component will focus on creating an enabling environment for strengthening multi-sectoral interventions that are critical for reduction of stunting. This component includes three subcomponents: using multi-sectoral platforms for the prevention and management of stunting; addressing stunting in relevant policies and strategies; and multi-sectoral capacity building. The third component is the strengthening coordination, project management and monitoring and evaluation. This component includes two subcomponents: institutional strengthening for coordination, project management and M&E, and strengthening the use of information systems for enhanced M&E capacity. Finally, the fourth component is the contingent emergency response component."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P162901",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Integrated Slum Upgrading Project",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 90
+    },
+    "sector2": {
+      "Name": "Public Administration - Agriculture, Fishing & Forestry",
+      "Percent": 10
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "20,000,000",
+    "boardapprovaldate": "2018-11-09T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P162901",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Integrated Slum Upgrading Project for Djibouti is to: (i) improve the living conditions for slum dwellers in selected urban areas, and (ii) strengthen the capacity of public institutions in charge of implementing the zero-slum program (ZSP). The project comprises of three components. The first component, elaboration of the ZSP strategic framework and investment plan objective is to provide the government with requisite planning, regulatory, institutional, and operational tools to implement the ZSP. It consists of following sub-components: (i) carrying out studies and technical assistance activities aimed at implementing the ZSP; and (ii) implementing institutional reform and capacity building. The second component, participatory upgrading investments in selected urban areas objective is to improve access to services in slums included in the ZSP. It consists of following sub-components: (i) supporting inclusive restructuring of the neighborhood and improving access to services; and (ii) supporting community engagement and youth employability. The third component, project management will ensure smooth implementation of all project activities in accordance with the International Development Association (IDA’s) policies and guidelines."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P166220",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Integrated Cash Transfer and Human Capital Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 91
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 9
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2019-05-15T00:00:00Z",
+    "closingdate": "12/31/2023 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P166220",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of Integrated Cash Transfer and Human Capital Project for Djibouti are to: (i) support an expanded and enhanced social safety nets system; and (ii) support access to basic services in targeted poor communities. This project consist of four components. 1) The first component, Conditional cash transfers, has the following subcomponents: (i) Financing of cash transfers; and (ii) Community-based accompanying measures to improve human capital. 2) The second component, Strengthening social protection delivery systems, aims to reinforce the government’s capacity by financing technical assistance and social protection system investments that will support achievement of the project objectives. 3) The third component, Community-based investments in basic services to improve human capital, aims to improve access to basic service infrastructure to strengthen or protect human capital in poor or isolated regions of the country, with priority to areas with refugees living in host communities that are not already covered by other refugee programs. 4) The fourth component, Project Management, aims to support activities related to project management and coordination through Secretariat of State Secretariat for Social Affairs (SEAS)."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P166059",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Expanding Opportunities for Learning",
+    "sector1": {
+      "Name": "Public Administration - Education",
+      "Percent": 5
+    },
+    "sector2": {
+      "Name": "Secondary Education",
+      "Percent": 41
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "30,350,000",
+    "boardapprovaldate": "2019-09-30T00:00:00Z",
+    "closingdate": "6/30/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P166059",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Expanding Opportunities for Learning Project in Djibouti is to increase equitable access to basic education, improve teaching practices, and strengthen Ministry of National Education and Vocational Training (MENFOP) management capacity.  This project consists of four components. Component 1:  Establishing foundations for quality preschool education. The main objectives of this component are to establish quality standards for preschool education and to improve preschool classroom pedagogy. Sub-component 1.1: Improving the quality of and access to preschool education. Sub-component 1.2: Results-based financing for strengthening preschool quality. Component 2: Expanding access to and improving retention in primary and lower secondary education. Sub-component 2.1: Expanding access to primary and lower secondary education and improving retention of vulnerable and underserved groups. Sub-component 2.2: Results based financing for expanding access and improving retention in primary and lower secondary education. Component 3: Building capacity to support teaching and learning. Sub-component 3.1: Improving the quality of learning assessments, professional development, and pedagogical resources. Sub-component 3.2: Results-based financing for improvements in learning assessments and professional development. Component 4: Strengthening MENFOP’s management capacity and data systems. Sub-component 4.1: Modernization of the education management information systems and sub-component 4.2: Support to project management and M&E."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P171777",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Economic Management and Statistics Development for Policy Making",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 91
+    },
+    "sector2": {
+      "Name": "Other Public Administration",
+      "Percent": 9
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2020-05-29T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171777",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Economic Management and Statistics Development for Policy Making Project for Djibouti is  to strengthen the capacity of the National Institute of Statistics of Djibouti (INSD) to produce and disseminate timely and reliable statistics in a sustainable manner and modernize the Recipient's selected economic and fiscal management tools and processes in Djibouti. The Project has three components. 1. Strengthening the capacity of the National Institute of Statistics of Djibouti (INSD) to produce and disseminate timely and reliable statistics in a sustainable manner component will invest in the basics: INSD’s physical and human resources, build capacity of its staff as well as core data collection using best practices. These, in turn, should create the preconditions for INSD to produce and disseminate timely and reliable foundational statistics. 1.1. Operationalization of the National Institute of Statistics of Djibouti (INSD) subcomponent will finance four activities: (a) Upgrade of the physical infrastructure and equipment of the INSD; (b) Strengthening of the INSD institutional framework; (c) Human Resources (HR) policy on staffing; and (d) Training. 1.2. Strengthening statistical production and dissemination subcomponent will finance foundational statistical production and quality improvement activities of INSD. 2. Modernizing the Recipient's selected economic and fiscal management tools and processes component will modernize the Recipient’s selected economic and fiscal management tools and processes. 2.1. Building macroeconomic modeling capacity subcomponent will develop macroeconomic modeling capacity for short, medium, and long-term forecasting, macroeconomic and microeconomic simulation, as well as debt sustainability analysis. 2.2. Budget preparation and investment planning subcomponent will support the Government's commitment to transition toward performance budgeting and Medium-Term Budget Framework (MTBF). 2.3. Debt Management subcomponent will support the revision of the existing public investment framework and the development of a medium-term debt strategy to finance it. A debt management action plan has already been developed with WBG support. 3. Project management component will support the establishment and operation of a Project Management Unit (PMU)."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P172979",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Integrated Slum Upgrading Project - Additional Financing",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 53
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 47
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "30,000,000",
+    "boardapprovaldate": "2020-12-18T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P172979",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P174566",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Integrated Cash Transfer and Human Capital Project Additional Financing",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 95
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2021-03-31T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174566",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P174461",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Digital Foundations Project",
+    "sector1": {
+      "Name": "ICT Services",
+      "Percent": 65
+    },
+    "sector2": {
+      "Name": "ICT Infrastructure",
+      "Percent": 23
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "10,000,000",
+    "boardapprovaldate": "2021-12-02T00:00:00Z",
+    "closingdate": "6/30/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174461",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P174300",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Horn of Africa Initiative: Djibouti Regional Economic Corridor Project",
+    "sector1": {
+      "Name": "Rural and Inter-Urban Roads",
+      "Percent": 86
+    },
+    "sector2": {
+      "Name": "Public Administration - Transportation",
+      "Percent": 7
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "70,000,000",
+    "boardapprovaldate": "2021-12-16T00:00:00Z",
+    "closingdate": "12/31/2031 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174300",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Regional Economic Corridor Project for Djibouti is to improve regional connectivity and enhance logistics efficiency in Djibouti along the Djibouti - Addis southern corridor. The project comprises of four components. The first component, improvement of infrastructure and introduction of intelligent transportation systems along the Djibouti-Addis southern corridor will improve the road corridor through output and performance-based road contract (OPBRC) which will include rehabilitation works for some sections, introduction of intelligent transport system, and the maintenance and operation of the corridor including axle load control and road safety. The second component, improvement of transit services along the Djibouti-Addis southern corridor will be designed and implemented in close coordination with the Ethiopian customs and will complement activities of other partners including the United Nations Conference on Trade and Development (UNCTAD), European Union (EU), Common Market for Eastern and Southern Africa (COMESA), and Trademark East Africa. The third component, institutional strengthening and capacity-building on road performance-based contract (PBCs) and project implementation support will finance the following activities: technical assistance in respect of the OPBRC; institutional strengthening and capacity-building on road PBCs and on public-private partnership (PPPs); maximizing the Djibouti-Addis southern corridor’s development impacts for local communities; and project management including performance monitoring and reporting. The fourth component, contingent emergency response component (CERC) will draw from the uncommitted resources under the project from other project components to cover emergency response."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P175483",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Skills Development for Employment Project",
+    "sector1": {
+      "Name": "Public Administration - Education",
+      "Percent": 62
+    },
+    "sector2": {
+      "Name": "Workforce Development and Vocational Education",
+      "Percent": 38
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2022-03-23T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P175483",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178033",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Health System Strengthening",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 85
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 15
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "19,500,000",
+    "boardapprovaldate": "2022-05-26T00:00:00Z",
+    "closingdate": "5/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178033",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Health System Strengthening Project for Djibouti is to improve the utilization of quality reproductive, maternal, neonatal, child, adolescent health, and nutrition (RMNCAH-N) services, with priority given to underserved areas, refugees and host communities. The project comprises of three components. The first component, strengthening service delivery platforms consists of following sub-components: (i) service delivery optimization; (ii) supporting the performance-based financing (PBF) and direct facility financing (DFF) schemes; and (iii) supporting the community health platform. The second component, strengthening institutions, citizen engagement and project management aims to strengthen the government’s capacity to implement and coordinate programs, within the Ministry of Health (MOH), across other ministries and agencies on cross-sectoral issues (e.g., stunting, female genital mutilation (FGM), refugees, climate), and between the central government and regional hospitals. It consists of following sub-components: (i) strengthening institutions; (ii) social mobilization for health; and (iii) project management. The third component, contingent emergency response component (CERC) will allow for rapid reallocation of project proceeds in the event of a natural or man-made disaster or health outbreak or crisis that has caused or is likely to imminently cause a major adverse economic and or social impact."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178992",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Social Protection Emergency Crisis Response Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 93
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 7
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "30,000,000",
+    "boardapprovaldate": "2022-06-27T00:00:00Z",
+    "closingdate": "9/30/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178992",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Social Protection Emergency Crisis Response Project is to provide safety net transfers to targeted households affected by the multiple crises facing Djibouti and strengthen adaptive social protection mechanisms to respond to future crises. This project has three components. 1) The first component, Emergency Safety Nets Transfers, aims to support the horizontal scale-up of the national safety net program by providing targeted transfers in cash and in-kind to the poor and vulnerable households affected by drought, food, and fuel price increases. 2) The second component, Strengthening Adaptive Social Protection and Community Resilience Mechanisms, aims to finance activities to strengthen and further develop adaptive social protection systems; scale up productive inclusion activities under the Integrated Cash Transfers and Human Capital Project (PITCH) project with an emphasis on making the activities more responsive to crises; and contribute to the overall community engagement and awareness about crises impacts, preparedness and mitigations. 3) The third component, Project Management and Coordination, aims to support coordination, monitoring, evaluation, and the additional project operational costs of Ministry of Social Affairs and Solidarity (MASS) and other institutions involved in implementation support at the central and local levels."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178988",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Emergency Food Security Crisis Response Project",
+    "sector1": {
+      "Name": "Public Administration - Agriculture, Fishing & Forestry",
+      "Percent": 8
+    },
+    "sector2": {
+      "Name": "Other Industry, Trade and Services",
+      "Percent": 68
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "20,000,000",
+    "boardapprovaldate": "2022-10-26T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178988",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Emergency Food Security Crisis Response Project for Djibouti is to contribute to mitigating food security risks posed by food supply shocks and drought. This project has three components. 1) The first component, Mitigating food security risks posed by food supply shock, has the following sub-components: (i) Strengthening capacity for risk management; (ii) Establishing an emergency food stock; and (iii) Establishing a Food Shortage Preparedness Fund (FPF). 2) The second component, Mitigating food security risks posed by drought, has the following sub-components: (i) Improving access to water; (ii) Restoring agricultural and pastoral livelihoods; and (iii) Supporting the establishment and operationalization of a drought warning system and the preparation of a rapid response plan. 3) The third component, Project management and preparation of a preparedness plan, aims to finance activities related to project management and implementation.  "
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P176772",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Affordable Housing Finance Project",
+    "sector1": {
+      "Name": "Capital Markets",
+      "Percent": 50
+    },
+    "sector2": {
+      "Name": "Housing Construction",
+      "Percent": 33
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2022-12-21T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176772",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Affordable Housing Finance Project for Djibouti is to expand access to affordable housing finance for underserved populations in the Recipient’s territory. The project comprises of three components. The first component, mortgage guarantee mechanism will establish a mortgage guarantee mechanism aimed at supporting low-to-middle income households, by capitalizing a partial credit guarantee fund for affordable housing loans. The second component, innovative financing of affordable housing will mobilize the financial markets to provide innovative financial solutions for low-to-middle-income households. It consists of following sub-components: (i) financial solutions to low-income households for self-construction; and (ii) transformation of the rent-to-own contracts of low-to-middle income households into mortgage loans. The third component, technical assistance and project management will provide technical assistance to support the other components and help low-and middle-income households access affordable housing finance."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178836",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Djibouti Agri-Food Value Chain Development Project",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "15,000,000",
+    "boardapprovaldate": "2023-12-11T00:00:00Z",
+    "closingdate": "12/31/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178836",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The  objective of the Agri-Food Value Chain Development Project for Djibouti is to improve the competitiveness and the resilience of selected agri-food value chains in the areas targeted by the project. There are four components to the project, the first component being public infrastructure and services for agri-food value chain development. This component aims at improving the enabling environment for agri-food value chains development, with a focus on areas with growth potential. This component includes three subcomponents: public infrastructure, regulatory and institutional framework, and innovation support. The second component is the support to agri-food investment and access to financing. This component aims at providing (i) support to agri-food investors in the development and implementation of bankable and climate-informed business plans, and support to financial institutions to improve their knowledge of the agri-food sector and develop financial tools adapted to the sector, and (ii) financing resources tailored to the needs of agri-food investors. It will have two sub-components: support to business plans and advisory services, and support to financial services providers. The third component is the project management. This component will finance the daily project implementation activities. The project will finance the operations of a Project Implementation Unit (PIU) at the MAEPE-RH, including a Project Coordinator, and staff dedicated to administrative and fiduciary management, technical tasks, Environmental and Social compliance, communications and Monitoring and Evaluation (M&E). Finally, the fourth component is the Contingent Emergency Response Component (CERC). This component will include a Contingent Emergency Response Component (CERC), designed to provide a swift response in the event of an eligible crisis or emergency, defined as “an event that has caused, or is likely to imminently cause, a major adverse economic and/or social impact associated with natural or man-made crises or disasters."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P181612",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "AF Economic Management and Statistics Development for Policy Making",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "5,000,000",
+    "boardapprovaldate": "2024-03-15T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181612",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181415",
+    "regionname": "Middle East and North Africa",
+    "countryname": [
+      "Republic of Djibouti"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Horn of Africa Initiative: Djibouti Regional Economic Corridor  AF",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "160,000,000",
+    "boardapprovaldate": "2024-09-16T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181415",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  }
+]
