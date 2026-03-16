@@ -13,6 +13,8 @@ Run AFTER:
 
 from pathlib import Path
 import json
+import re
+import base64
 from datetime import datetime
 import numpy as np
 
@@ -856,6 +858,23 @@ def build_html(results, proj_meta):
     return html
 
 
+def make_standalone(html: str, script_dir: Path) -> str:
+    """
+    Replace all relative PNG chart references with inline base64 data URIs,
+    producing a single fully self-contained HTML file that can be shared
+    without any accompanying image files.
+    """
+    def encode_png(match):
+        fname = match.group(1)
+        img_path = script_dir / fname
+        if img_path.exists():
+            data = base64.b64encode(img_path.read_bytes()).decode('ascii')
+            return f'src="data:image/png;base64,{data}"'
+        return match.group(0)  # leave unchanged if file missing
+
+    return re.sub(r'src="(chart[\w]+\.png)"', encode_png, html)
+
+
 def main():
     print('Somalia FCV Portfolio Report — HTML Generation')
     print('=' * 52)
@@ -866,11 +885,21 @@ def main():
     print('Building HTML report...')
     html = build_html(results, proj_meta)
 
+    # Standard version (relative image paths — for local use)
     print(f'Writing {REPORT_FILE.name}...')
     with open(REPORT_FILE, 'w', encoding='utf-8') as f:
         f.write(html)
     print(f'  Saved: {REPORT_FILE}')
     print(f'  Size:  {REPORT_FILE.stat().st_size / 1024:.0f} KB')
+
+    # Standalone version (embedded images — for sharing as a single file)
+    standalone_file = REPORT_FILE.with_name(REPORT_FILE.stem + '-standalone.html')
+    print(f'Writing {standalone_file.name} (self-contained)...')
+    standalone_html = make_standalone(html, SCRIPT_DIR)
+    with open(standalone_file, 'w', encoding='utf-8') as f:
+        f.write(standalone_html)
+    print(f'  Saved: {standalone_file}')
+    print(f'  Size:  {standalone_file.stat().st_size / 1024:.0f} KB')
 
 
 if __name__ == '__main__':
