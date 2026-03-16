@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "P152379",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Towage Services in Berbera Port",
+    "sector1": {
+      "Name": "Ports/Waterways",
+      "Percent": 50
+    },
+    "sector2": {
+      "Name": "Other Industry, Trade and Services",
+      "Percent": 50
+    },
+    "theme1": "Infrastructure services for private sector development!$!100!$!39",
+    "totalcommamt": "4,900,000",
+    "boardapprovaldate": "2015-10-02T00:00:00Z",
+    "closingdate": "6/30/2017 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P152379",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P151492",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second Public Financial Management Capacity Strengthening Project",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 90
+    },
+    "sector2": {
+      "Name": "Sub-National Government",
+      "Percent": 10
+    },
+    "theme1": "Public expenditure, financial management and procurement!$!90!$!27",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2015-07-07T00:00:00Z",
+    "closingdate": "6/30/2023 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P151492",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Second Public Financial Management (PFM) Capacity Strengthening Project for Somalia is to establish and strengthen institutional capacity for the management of public funds in central finance agencies and targeted sectors. The project comprises of six components. The first component, revenue mobilization, planning, and budget preparation consists of following two sub-components: (i) strengthening planning and budget preparation; and (ii) revenue mobilization and tax administration. The second component, treasury management, budget execution, procurement, accounting, and financial reporting consists of following five sub-components: (i) treasury management and budget execution; (ii) accounting and financial reporting; (iii) concessions, procurement, and contract management; (iv) bespoke financial management information systems (FMIS); and (v) modernizing Central Bank of Somalia banking operations and financial control environment. The third component, strengthening the integrity pillars consists of following two sub-components: (i) foundations for supreme audit institutions (SAI); and (ii) planning, finance, and public accounts committee (PAC). The fourth component, PFM professionalization will build capacity at the individual level for planning and budget preparation officials, procurement officers, accountants, and internal and external auditors to obtain the required capability knowledge, skills, abilities, and other characteristics (values, integrity etc.). The fifth component, PFM oversight, coordination, and management will anchor the reform and capacity building efforts. The sixth component, demand-driven just-in-time services (Bank Executed) will be implemented by the Bank on behalf of the beneficiaries according to paragraph (12)(d) of the Bank\u2019s operating policy (OP) 10.00 due to insufficient capacity by the beneficiaries to undertake such technical analytic and advisory work. It consists of following two sub-components: (i) social accountability and open government data (OGD); and (ii) governance and PFM reviews and advisory notes."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P154875",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Recurrent Cost & Reform Financing Project - Phase 2",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 40
+    },
+    "sector2": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 25
+    },
+    "theme1": "Conflict prevention and post-conflict reconstruction!$!10!$!58",
+    "totalcommamt": "144,000,000",
+    "boardapprovaldate": "2015-06-25T00:00:00Z",
+    "closingdate": "6/30/2022 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P154875",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Second Phase of the Recurrent Cost and Reform Financing Project for Somalia is to enable the Somali Government to achieve reliable and transparent financing of critical civil service operations to help strengthen the legitimacy of the state. The project comprises of four components. The first component, support to core government functions of ministries, departments, and agencies (MDAs) in Federal Government of Somalia (FGS) will finance: the salaries of eligible non-security sector civil servants in the MDAs; the cost of staff injected under the capacity injection mechanism (CIM); and non-salary operating costs for MDAs. It consists of following three sub-components: (i) financing of eligible civil service salaries in non-security sectors in FGS; (ii) financing of salaries and allowances to government staff and young graduates recruited under the capacity injection mechanism (CIM) in FGS; and (iii) financing of eligible non-salary recurrent costs in MDA in the FGS. The second component is inter-governmental fiscal transfers to core government functions of eligible federal member states, interim, and emerging administrations. It consists of following two sub-components: (i) transfers to interim and emerging states for core government functions; and (ii) inter-governmental fora on transfers and information exchanges. The third component, support of recurrent costs in health and education sectors in FGS and eligible member states, interim, and emerging administrations will support the FGS, Puntland, and interim Jubba administration (IJA) to expand their service delivery systems through improvement of accountability systems and support of recurrent costs in the education and health sectors. The fourth component, project management and coordination will support coordination, administration, communication, management, procurement, monitoring and evaluation (M and E), as well as impact-evaluation, auditing, and dissemination of project activities in FGS, Puntland, and the IJA."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P152358",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "ICT Sector Support in Somalia Phase II",
+    "sector1": {
+      "Name": "Other Information and Communications Technologies",
+      "Percent": 40
+    },
+    "sector2": {
+      "Name": "ICT Infrastructure",
+      "Percent": 30
+    },
+    "theme1": "Infrastructure services for private sector development!$!50!$!39",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2015-06-08T00:00:00Z",
+    "closingdate": "6/30/2020 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P152358",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P152024",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Water for Agropastoral Livelihoods Pilot Project",
+    "sector1": {
+      "Name": "Other Water Supply, Sanitation and Waste Management",
+      "Percent": 40
+    },
+    "sector2": {
+      "Name": "Fisheries",
+      "Percent": 30
+    },
+    "theme1": "Rural services and infrastructure!$!40!$!78",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2015-05-21T00:00:00Z",
+    "closingdate": "7/31/2018 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P152024",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P155123",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somaliland Civil Service Strengthening Project",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 80
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 20
+    },
+    "theme1": "Other public sector governance!$!38!$!30",
+    "totalcommamt": "10,000,000",
+    "boardapprovaldate": "2016-06-30T00:00:00Z",
+    "closingdate": "12/30/2022 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P155123",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P156257",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Special Financing Facility for Local Development",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 48
+    },
+    "sector2": {
+      "Name": "Other Water Supply, Sanitation and Waste Management",
+      "Percent": 13
+    },
+    "theme1": "Conflict prevention and post-conflict reconstruction!$!50!$!58",
+    "totalcommamt": "6,000,000",
+    "boardapprovaldate": "2016-01-11T00:00:00Z",
+    "closingdate": "3/31/2020 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P156257",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Special Financing Facility for Local Development Project for Somalia is to support the construction and reconstruction of infrastructure and the development of public service delivery capacity in targeted areas of Somalia and support the Federal Government and regional administrations\u2019 capacity to respond to an eligible crisis or emergency. The project comprises of three components. The first component, small-scale infrastructure will finance small-scale local development activities in the pre-1991 regions of the Federal Government of Somalia (FGS). The second component, program operations and capacity building will finance costs associated with overall project implementation and additional capacity-building activities that will support the strengthening of the project implementation unit (PIU), the new name of the temporary implementation unit (TIU), and the new emerging interim regional administration (IRAs). It consists of following components: (i) PIU operating costs; and (ii) capacity building. The third component, contingency emergency response will allow for project funds to be used to address emergency works or activities resulting from potential natural disasters."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P166591",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somali Urban Investment Planning Project Additional Financing",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "3,000,000",
+    "boardapprovaldate": "2018-11-27T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P166591",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P166206",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "20,000,000",
+    "boardapprovaldate": "2018-09-25T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P166206",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P163857",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Urban Resilience Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 34
+    },
+    "sector2": {
+      "Name": "Rural and Inter-Urban Roads",
+      "Percent": 33
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2018-08-02T00:00:00Z",
+    "closingdate": "9/30/2021 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163857",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of  for Somalia is to strengthen public service delivery capacity at the sub-national level and support the reconstruction of key urban infrastructure in targeted areas. This project has three components. 1) The first component, Mogadishu Municipality, has the following subcomponents: (i) Infrastructure; (ii) Capacity Building; (iii) Operation and Maintenance; and (iv) Project Management. 2) The second component, Garowe Municipality, has the following subcomponents:  (i) Infrastructure; (ii) Capacity Building; (iii) Operation and Maintenance; and (iv) Project Management. 3) The third component, contingent emergency response (CERC), serves as an immediate response mechanism (IRM) CERC to allow the reallocation of uncommitted funds from the project portfolio to the IRM designated account (DA) to address emergency response and recovery costs, if approved by the World Bank."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P170922",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Urban Resilience Project II",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "133,500,000",
+    "boardapprovaldate": "2019-12-09T00:00:00Z",
+    "closingdate": "12/31/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170922",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Second Urban Resilience Project for Somalia is to strengthen public service delivery capacity of local governments and increase access to urban infrastructure and services in selected areas. The project comprises of four components. The first component, urban infrastructure and services will support the preparation and implementation of all infrastructure investments in the project. It consists of following sub-components: (i) preparatory activities for urban infrastructure and services in existing cities; (ii) preparatory activities for urban infrastructure and services in new cities; and (iii) investment in urban infrastructure and services. The second component, institutional strengthening and analytics will support various thematic technical assistance (TA) and related analytics. The third component, project management and capacity building will finance the overall project management costs (including monitoring and evaluation) as well as the capacity building of the project coordination unit (PCU), project implementation unit (PIUs), and relevant municipal staff. The fourth component, contingent emergency response will be included under the project in accordance with the World Bank policy on investment project financing dated September 30, 2018 for situations of urgent need of assistance. This will allow for rapid reallocation of uncommitted project funds in the event of a natural or man-made crisis in the future, during the implementation of the project, to address eligible emergency needs under the conditions established in its operations manual."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P171346",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Shock Responsive Safety Net for Human Capital Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 95
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "65,000,000",
+    "boardapprovaldate": "2019-08-08T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171346",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Shock Responsive Safety Net for Human Capital Project for Somalia is to provide cash transfers to targeted poor and vulnerable households and establish the key building blocks of a national shock-responsive safety net system. This project has three components. 1) The first component, Nutrition-linked Unconditional Cash Transfers, aims to provide unconditional cash transfers to households that are chronically poor and vulnerable to drought and malnutrition and link them to complementary nutritional support programs. 2) The second component, Delivery Systems and Institutional Capacity Building, aims to establish the key building blocks of a Social Protection (SP) delivery system, advance policy development, and strengthen institutional capacity of relevant government ministries to manage and implement it. 3) The third component, Project Management, Monitoring and Evaluation, and Knowledge Management, aims to establish a Project Implementation Unit (PIU), strengthen Ministry of Labor and Social Affairs (MoLSA's) coordination arrangements, promote learning and knowledge management through robust monitoring and evaluation, and support the design of a pilot productive safety net activity targeted at youth."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P167826",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia - Water for Agro-pastoral Productivity and Resilience",
+    "sector1": {
+      "Name": "Livestock",
+      "Percent": 9
+    },
+    "sector2": {
+      "Name": "Public Administration - Agriculture, Fishing & Forestry",
+      "Percent": 53
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "42,000,000",
+    "boardapprovaldate": "2019-07-01T00:00:00Z",
+    "closingdate": "2/28/2023 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167826",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Water for Agro-Pastoral Productivity and Resilience Project for Somalia is to develop water and agricultural services among agro-pastoralist communities in dryland areas of Somalia. The project comprises of four components. The first component, support the development of multiple use water sources will finance investments in key water management infrastructure for harvesting, storing, and delivering water for people, livestock, and agriculture. It consists of following sub-components: (i) construction of new community water points; and (ii) rehabilitation of community water points. The second component, institutional and capacity development will help build a strong foundation for a gradual transition to more integrated and sustainable agriculture and water development - promoting the farmers\u2019 adoption of drought-resistant seed varieties and climate-smart technologies - by strengthening local, state, and national institutions and capacities. It consists of following sub-components: (i) national and state institutional capacity building; and (ii) community development and demand mobilization. The third component, supporting sustainable land management and livelihoods development around water points will catalyze priority investments, facilitated by participating Federal Member States (FMS) line ministries, to create and strengthen productive livelihoods among target communities. It consists of following sub-components: (i) integrated landscape management; and (ii) agriculture and livestock support. The fourth component, project management, monitoring and evaluation (M and E), knowledge management, and learning will finance the operational costs of the project management units in participating FMS and Somaliland, as well as project coordination and fiduciary support at the Federal Republic of Somalia (FRS) level. It consists of following sub-components: (i) project management; (ii) M and E, knowledge management, and learning; and (iii) contingent emergency response."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P168115",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP)",
+    "sector1": {
+      "Name": "Public Administration - Information and Communications Technologies",
+      "Percent": 7
+    },
+    "sector2": {
+      "Name": "Banking Institutions",
+      "Percent": 31
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "31,000,000",
+    "boardapprovaldate": "2019-03-07T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P168115",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Capacity Advancement, Livelihoods and Entrepreneurship through Digital Uplift Project for Somalia is to support progress towards increased access to basic digital financial and government services targeting entrepreneurship and employment, particularly for women. This project has three components. 1) The first component, Strengthening Institutions, is focused on stabilizing core government functions enabling access to services for individuals and businesses. 2) The second component, Enabling Financial and Digital Services, focuses on increasing individuals\u2019 and businesses\u2019 access to services that expand economic opportunities and help restore resilience in a gender-sensitive manner. 3) The third component, Project Management and Coordination, aims to fund project management and coordination activities."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P173637",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somali Electricity Access Project Additional Financing",
+    "sector1": {
+      "Name": "Public Administration - Energy and Extractives",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "1,450,000",
+    "boardapprovaldate": "2020-07-06T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173637",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P171160",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somali Integrated Statistics and Economic Planning Capacity Building",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 82
+    },
+    "sector2": {
+      "Name": "ICT Services",
+      "Percent": 4
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "25,000,000",
+    "boardapprovaldate": "2020-06-30T00:00:00Z",
+    "closingdate": "8/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171160",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Somali Integrated Statistics and Economic Planning Capacity Building Project for Somalia is to strengthen the national statistical system in the collection, processing and dissemination of poverty and selected macro-economic data to inform development policy and poverty reduction activities. The Project has four components. 1. Strengthening coordination, statistical infrastructure and data development of the national statistical system component will provide support to the client\u2019s key official statistics producing agencies in strengthening the capacity of the country\u2019s National statistical system (NSS) to collect data for poverty and macroeconomic monitoring. 1.1. Supporting the Development and Coordination of the NSS subcomponent will support the strengthening of the recipient\u2019s legal and organizational framework for the NSS as well as statistical infrastructure. 1.2. Somali Integrated Household Budget Survey subcomponent will support the design and implementation of the Somali Integrated Household Budget Survey (SIHBS) for monitoring welfare, providing macroeconomic baselines and establishing a baseline survey for a frequent data collection system. 1.3. Strengthening Sources of Business and Administrative Data needed for the Compilation of National Accounts and Key Social Statistics subcomponent will address key data gaps needed to produce quality national accounts statistics that meet the basics of the System of National Accounts 2008 (SNA2008) and other international statistical standards. 1.4. Strengthening Human Capacity in Poverty, Consumer Price Index (CPI) and National Accounts Statistics subcomponent will support the training of staff to compile poverty indicators and indexes as well as to draw poverty lines, using new data from the poverty survey and new CPI. 1.5. Development of a Compendium of Statistical Concepts and Definitions, Data Access and Information Dissemination Policy subcomponent will support improvement in data management and dissemination practices to strengthen statistical confidentiality and microdata sharing. 2. Information and Communications Technology (ICT) Development and Equipment of the National Statistical System component will provide supports the ICT infrastructure in the DNS and selected key federal level MDAs. It will provide computers, laptops and related IT networking equipment. 2.1. ICT Needs Assessment and ICT Strategy subcomponent will support an ICT needs assessment to identify the hardware/software needed to support the production and dissemination of the social and macroeconomics statistics needed for the compilation of national accounts, CPI and poverty indicators. 2.2. Statistical Software and Hardware subcomponent will finance the acquisition of information technology and communications infrastructure. 3. Data Utilization for Monitoring and Evaluation (M and E) and Planning component has two subcomponents. 3.1. Strengthening Monitoring and Evaluation Directorate (MED) Capacity subcomponent will strengthen the capacity of MED to monitor the implementation of public projects and programs of NDP9. 3.2 Supporting Economic Policy Analysis and Planning Capacity subcomponent will support the Federal Government of Somalia (FGS) authorities in developing economic policies, rebuilding institutions of economic management, and enhancing institutional capacity necessary for policy formulation and implementation. 4. Project Management component will provide support to the Recipient to strengthen its capacity for project planning and budgeting, management, coordination, monitoring and evaluation activities, all through the provision of technical advisory services, training, operating costs and the acquisition of goods."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P173731",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Recurrent Cost & Reform Financing Project - Phase 3",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 41
+    },
+    "sector2": {
+      "Name": "Other Public Administration",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "83,000,000",
+    "boardapprovaldate": "2020-06-11T00:00:00Z",
+    "closingdate": "12/31/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173731",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Third Phase of Recurrent Cost and Reform Financing Project for Somalia is to support the Federal Government of Somalia and Eligible Federal Member States to strengthen resource management systems, the inter-governmental fiscal framework, and service delivery systems in health and education. The project has five components. 1. Recurrent cost finance to reform resource management systems component has two subcomponents. 1.1. Financing eligible civil service salaries in Federal Government of Somalia (FGS): baseline subcomponent will continue to provide a decreasing \u2018baseline\u2019 level of input-based financing of the FGS civil service wage bill. 1.2. Financing eligible civil service salaries in FGS: reform benchmarks subcomponent will enable the FGS to access financial support through reimbursement against eligible expenditures over the project period. 2. Strengthen inter-governmental fiscal relations component has the following subcomponents: 2.1. Supporting inter-governmental Fiscal Forums and Secretariat subcomponent will build on the successful establishment of the Inter-governmental Fiscal Forum (IGFF), and dedicated Secretariat, which needs to be institutionalized to sustain the gains. 2.2. Reform benchmarks for improved governance and service delivery at Federal Member States (FMS) level subcomponent will ensure that on-budget fiscal transfers for education and health service delivery flow beyond FMS administrative capitals to frontline service delivery units, such as schools and health centers. 2.3. Strengthening resource management systems subcomponent will support a common approach to implementation of World Bank operations at FMS-level. 3. Transfers for core government functions and foundational education and health service delivery mechanisms in eligible FMS component has the following subcomponents: 3.1. Financing core government functions subcomponent will continue the financing of FMS recurrent costs. 3.2. Financing education service delivery subcomponent will incentivize FMS to ensure that the recurrent cost financing delivered under Recurrent Cost and Reform Financing (RCRF) III can drive improved performance of payroll-supported schools. 3.3. Financing health service delivery subcomponent will expand the gains under RCRF II by scaling up the Marwo Caafimaad Female Health Worker (FHW) program and strengthening the government\u2019s stewardship and management capacities. 4. Citizen engagement and feedback component will support the designing and use of tools to advance transparency and generate citizen feedback mechanisms up to the facilities level. 4.1. Deepening and widening the existing budget transparency efforts subcomponent will support stronger budget transparency. 4.2. Support mapping, citizen feedback and corrective measures at the local level subcomponent will promote citizen participation in service delivery at community level by building on already significant attendance to community meetings across eligible provinces by promoting inclusive and deeper community engagement in service delivery. 4.3 Impact evaluation to citizen feedback in education and health subcomponent will strive to incorporate citizen feedback into the provision of education and/or health services particularly the staff supported by the project and evaluate the possible impact of the interventions on health and education access and quality. 5. Project management component will support the coordination, administration, communication, management, procurement, monitoring and evaluation, audit and dissemination of project activities in FGS, and FMS."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P173315",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Crisis Recovery Project",
+    "sector1": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 4
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 37
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "137,500,000",
+    "boardapprovaldate": "2020-05-15T00:00:00Z",
+    "closingdate": "5/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173315",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Crisis Recovery Project for Somalia is to support the recovery of livelihoods and infrastructure in flood and drought affected areas and strengthen capacity for disaster preparedness nationwide. The Project has five components. Component 1: Immediate basic services and livelihood support to the flood-affected states and locust-affected areas nationally through: (a) establishing a cash-for-work scheme for vulnerable households; (b) controlling the desert locus population through ground and aerial spraying operations; (c) restoring and protecting farmers\u2019 capacity for agricultural production; (d) revitalizing basic health provisions strengthening response services; and (e) supporting household hygiene promotion and treatment. Component 2: Medium-term flood recovery to rehabilitate critical public and community infrastructure. The component will rehabilitate water and sanitation systems, health facilities, bridges, and small feeder roads. It will also support local mitigation efforts for risk reduction, such as slope protection and environmental rehabilitation. Component 3: Longer-term disaster risk preparedness will strengthen the institutional capacity and preparedness of governmental ministries agencies and departments to respond to flood and drought-related emergencies. Component 4: Project Management will strengthen the institutional capacity PIU (Project Implementation Unit) and State Project Teams for the implementation of the Project. Component 5: Contingency Emergency Response Component (CERC) will serve as a first-line financing option for an emergency response."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P171570",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Somalia Reengagement and Reform Development Policy Financing",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 33
+    },
+    "sector2": {
+      "Name": "ICT Infrastructure",
+      "Percent": 17
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "420,000,000",
+    "boardapprovaldate": "2020-02-27T00:00:00Z",
+    "closingdate": "7/15/2021 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171570",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "This Program Document proposes a Reengagement and Reform Development Policy Financing (DPF) for the Federal Republic of Somalia in the amount of US dollar 420 million from International Development Association (IDA) grant resources. The objectives of the proposed DPF are to facilitate full normalization of relations with the World Bank Group (WBG) and support Somalia\u2019s economic recovery through policy reforms that strengthen fiscal management and promote inclusive private sector-led growth. Up to SDR 271.2 (up to US dollar 375 million equivalent) of the proposed grant will be disbursed to the bridge-loan creditor assisting with arrears clearance (\u2018Portion A of the Financing\u2019); and SDR 32.6 million (US dollar 45 million equivalent) will be disbursed to the Federal Government of Somalia (FGS) as budget support to meet cash flow needs after Somalia has cleared its arrears to IDA (\u2018Portion B of the Financing\u2019). The DPF complements a rapidly expanding engagement to build human capital and strengthen resilience to climate change and other shocks. In FY2020, the World Bank is currently delivering technical assistance to develop livestock insurance, a major Urbanization Review, and upstream analysis on health and education that are expected to inform new financing. The DPF also addresses the above challenges by enabling full reengagement with the WBG. The DPF will facilitate Somalia\u2019s clearance of arrears to IDA, which is a requirement to qualify for international debt relief under the Heavily Indebted Poor Countries (HIPC) Initiative. Full reengagement with the international community through the HIPC process is expected to enable Somalia to access the financial and technical support the country needs for sustained poverty reduction and inclusive economic growth. Normalization of Somalia\u2019s relationship with IDA would give the government\u2019s access to financing from IDA\u2019s Crisis Response Window, Regional Window, and Window for Host Communities and Refugees. Normalization is also a prerequisite for the International Finance Corporation (IFC) to make investments in Somalia\u2019s private sector."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P173088",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somali Electricity Sector Recovery Project",
+    "sector1": {
+      "Name": "Energy Transmission and Distribution",
+      "Percent": 50
+    },
+    "sector2": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 40
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "150,000,000",
+    "boardapprovaldate": "2021-12-08T00:00:00Z",
+    "closingdate": "12/31/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173088",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Somali Electricity Sector Recovery Project for Somalia is to increase access to lower cost and cleaner electricity supply in project areas and to reestablish the electricity supply industry. The project comprises of four components. The first component, sub-transmission and distribution network reconstruction, reinforcement, and operations efficiency in the major load centers of Mogadishu and Hargeisa will improve network reliability and operational efficiency by interconnecting the current energy services provider (ESPs\u2019) distribution networks and existing generation to optimize overall distribution network operations. It consists of following sub-components: (i) generator synchronization and automation; and (ii) sub transmission and distribution network interconnection in the major load center of Mogadishu and Hargeisa. The second component, hybridization and battery storage systems for minigrids will support activities aimed at the hybridization and optimization of existing mini grids. The third component, stand-alone solar off-grid access to public institutions will finance the delivery, installation, and operation and maintenance (O and M) for lighting global - certified solar photovoltaic (SPV) systems over the lifetime of the project for selected education and health facilities. The fourth component, institutional development and capacity building will support the implementation of the recommendations provided under the ongoing electricity supply industry (ESI) institutional design option analysis for sector development and project implementation arrangements: (i) policy and regulatory development; (ii) sector planning and feasibility studies for renewable energy projects; (iii) ESP and Ministry of Energy and Water Resources (MOEWR) and Ministry of Energy and Mines (MOEM) business support services; (iv) project implementation support including for environment and social safeguards; and (v) implementation of a gender action plan."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P176956",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia COVID-19 Emergency Vaccination Project",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 69
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 31
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "48,000,000",
+    "boardapprovaldate": "2021-09-28T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176956",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Coronavirus Disease 2019 (COVID-19) Emergency Vaccination Project for Somalia is to support the Federal Republic of Somalia to acquire and deploy Project COVID-19 vaccines and to strengthen national immunization capacity. The project comprises of two components. The first component, vaccine deployment and acquisition objective is to support the deployment of the Covid vaccine access (COVAX) acquired vaccines to cover about 20 percent of the target population and other Project COVID-19 vaccines which meet World Bank financing criteria to cover up to an additional 10 percent of the target population. It consists of following sub-components: (i) transportation, supply chain, and logistics capacity strengthening; (ii) social mobilization efforts; (iii) acquisition of additional project COVID-19 vaccines; and (iv) health care waste management. The second component, implementation management will support the national COVID-19 vaccination program by strengthening planning and implementation capacity at different levels (example, national, and federal member state). It consists of following sub-components: (i) program management support; (ii) supervision, coordination, human resources management, and training; and (iii) implementation support."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P172031",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Improving Healthcare Services in Somalia Project (\u201cDamal Caafimaad\u201d)",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 74
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 24
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "100,000,000",
+    "boardapprovaldate": "2021-06-28T00:00:00Z",
+    "closingdate": "5/30/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P172031",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Improving Healthcare Services in Somalia (Damal Caafimaad) Project for Somalia is to improve the coverage of essential health and nutrition services in project areas and strengthen stewardship capacity of Ministries of Health. The project comprises of four components. The first component, expanding the coverage of high-impact health and nutrition services in select geographic areas will finance delivery of high-impact and integrated health and nutrition services to enhance service coverage and quality, focusing on primary healthcare services. The second component, strengthening government\u2019s stewardship to enhance service delivery aims to support development of the government\u2019s stewardship capacities at both the Federal and Federal Member States of Somalia (FMS) levels to enhance quality service delivery, a priority area in Somalia\u2019s investment case. It consists of following sub-components: (i) health management information systems (HMIS) and data use for decision making; (ii) public financial management (PFM), contract management, and health financing; (iii) private sector development and regulatory reforms; and (iv) organizational development. The third component, project management, knowledge management, and learning will support day-to-day project management, including coordination, administration, communication, management, procurement, monitoring and dissemination of project activities at both Federal Government of Somalia (FGS) and FMS levels. The fourth component, contingent emergency response component will allow for rapid reallocation of project proceeds in the event of a natural or man-made disaster or health outbreak or crisis that has caused or is likely to imminently cause a major adverse economic and or social impact."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P176343",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Additional Financing to the Somalia Crisis Recovery Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 90
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 10
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2021-06-24T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176343",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P176368",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Shock Responsive Safety Net for Human Capital Project Additional Financing",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 98
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 2
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "110,000,000",
+    "boardapprovaldate": "2021-06-17T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176368",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P172434",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Education for Human Capital Development Project",
+    "sector1": {
+      "Name": "Primary Education",
+      "Percent": 55
+    },
+    "sector2": {
+      "Name": "Other Education",
+      "Percent": 25
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "40,000,000",
+    "boardapprovaldate": "2021-06-16T00:00:00Z",
+    "closingdate": "6/30/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P172434",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Education for Human Capital Development Project for Somalia is to increase access to primary education in underserved areas, with a focus on girls, and improve quality of instruction. The project comprises of four components. The first component, system building will provide support to the government for developing and operationalizing fundamental elements of a functional education system. It consists of following sub-components: (i) strengthening government\u2019s stewardship role; (ii) establishing a national student learning assessment system; and (iii) strengthening system-level monitoring and evaluation. The second component, expansion of access to quality schooling for the disadvantaged will provide out-of-school children from disadvantaged backgrounds with access to good quality schooling opportunities at no cost to their families. The third component, enhanced instruction quality will improve the capacity of Somalia\u2019s teachers is central to enhancing learning outcomes of its students. The fourth component, project management will likely be the largest investment managed directly by Ministry of Education, Culture and Higher Education (MoECHE) and investments are required for staffing key positions to deliver the project successfully."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P174769",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) Additional Financing",
+    "sector1": {
+      "Name": "Banking Institutions",
+      "Percent": 51
+    },
+    "sector2": {
+      "Name": "ICT Services",
+      "Percent": 46
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "70,000,000",
+    "boardapprovaldate": "2021-06-09T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174769",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P179775",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Urban Resilience Project Phase II Second Additional Financing",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2022-12-22T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179775",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P177298",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Enhancing Public Resource Management Project",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "75,000,000",
+    "boardapprovaldate": "2022-12-14T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177298",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Enhancing Public Resource Management Project for Somalia is to strengthen accountability, transparency, and institutional capacity in public resource management, across participating entities. The project comprises of five components. The first component, public financial management (PFM) objective is to strengthen budget preparation, execution, and oversight for Federal Government of Somalia (FGS), Federal Member States (FMSs), and Somaliland (SL). It consists of following sub-components: (i) support essential budget execution functions; (ii) strengthen PFM in the health and education sectors; (iii) facilitate the harmonization of PFM systems between FGS and FMSs; (iv) improve budget preparation and transparency; and (v) strengthen climate-informed public investment management. The second component, domestic revenue mobilization (DRM) objective is to support the DRM priorities of FGS, FMSs, and SL to strengthen their inland revenue systems and capacity and contribute to harmonizing tax administration in FGS and FMSs. It consists of following sub-components: (i) improve tax policy capacity; and (ii) improve and harmonize inland revenue and selected customs administration systems and capacity. The third component, public sector management (PSM) objective is to support the enhancement of systems, staff skills, and effectiveness of civil service management to improve government capacity to deliver services to citizens. It consists of following sub-components: (i) strengthening the capacity of central and line Ministries, Departments, and Agencies (MDAs); and (ii) implement civil service management systems and policies, pay and grading, and pension. The fourth component, integrated governance support outlines the way in which PFM, DRM and PSM come together to support financial governance reforms and change management to guide the process. It consists of following sub-components: (i) interconnectivity of public finance and human resource (HR) systems; (ii) HR management in PFM and DRM; and (iii) change management to support DRM and PFM systems and civil service reform. The fifth component, project management, coordination, and support in delivery will support the management, coordination, and monitoring and evaluation (M and E) of project activities. It consists of following sub-components: (i) project management; and (ii) results monitoring and impact evaluation."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P177627",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Barwaaqo - Somalia Water for Rural Resilience Project",
+    "sector1": {
+      "Name": "Water Supply",
+      "Percent": 64
+    },
+    "sector2": {
+      "Name": "Agricultural markets, commercialization and agri-business",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "70,000,000",
+    "boardapprovaldate": "2022-12-09T00:00:00Z",
+    "closingdate": "2/29/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177627",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Barwaaqo\u2019 Somalia Water for Rural Resilience Project for Somalia is to develop water, agriculture, and environmental services for rural communities in Somalia\u2019s drylands. The project comprises of four components. The first component, development of multiuse water sources will be implemented by the ministries of water in Somaliland and Federal Member State (FMSs), and Puntland Water Development Agency. It consists of following sub-components: (i) construction of new water points; (ii) rehabilitation of existing water points; and (iii) institutional and capacity development. The second component, development of agriculture and livestock services around water points will be implemented by the ministries of agriculture and livestock in the Federal Government of Somalia (FGS), FMSs, and Somaliland. It consists of following sub-components: (i) increased sustainable farming production and development; (ii) increased sustainable livestock production and development; and (iii) institutional and capacity development. The third component, development of environmental catchment services in project areas will be implemented by the Ministries of Environment in the FGS, FMSs, and Somaliland. It consists of following sub-components: (i) environmental restoration; and (ii) institutional and capacity development. The fourth component, project management, community development, and enhancing livelihoods planning will be implemented by the Ministries of Planning in the FGS, FMSs, and Somaliland. It consists of following sub-components: (i) project management; (ii) community-driven development (CDD) planning; (iii) monitoring and evaluation (M and E), knowledge management, and learning; and (iv) contingent emergency response."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P173119",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia - Horn of Africa Infrastructure Integration Project",
+    "sector1": {
+      "Name": "Trade",
+      "Percent": 7
+    },
+    "sector2": {
+      "Name": "Rural and Inter-Urban Roads",
+      "Percent": 43
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "63,000,000",
+    "boardapprovaldate": "2022-09-30T00:00:00Z",
+    "closingdate": "9/30/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173119",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Horn of Africa Infrastructure Integration Project for Somalia is to prepare a spatially coordinated investment pipeline of economic corridor projects, and to strengthen the national government\u2019s management of selected sectors. The project comprises of five components. The first component, development of regional economic corridors will carry out the identification of a regional economic corridor, prioritizing corridor road sections, including technical design of road works, preparation of environmental and social management instruments, conducting diagnostics of area wide trade facilitations and development measures and actions, economic analysis, and other preparatory analysis and design studies. The second component, connectivity to economic corridors will prepare a national level program of activities to leverage the development of economic corridors through local connectivity and accessibility. The third component, institutional and capacity development will support select institutional and capacity development within the Federal Government of Somalia (FGS), especially within the transport and trade sectors. The fourth component, project management will finance overall project implementation, coordination, and management costs of the project, including costs associated with a project coordination unit (PCU) in the Ministry of Public Works, Reconstruction, and Housing (MPWRH). The fifth component, contingent emergency response component will draw from the uncommitted resources under the project from other project components to cover emergency response."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P174889",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Somalia Inclusive Growth DPO Series",
+    "sector1": {
+      "Name": "Fisheries",
+      "Percent": 15
+    },
+    "sector2": {
+      "Name": "Other Industry, Trade and Services",
+      "Percent": 15
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "100,000,000",
+    "boardapprovaldate": "2022-07-27T00:00:00Z",
+    "closingdate": "1/31/2024 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174889",
+    "status": "Closed",
+    "_instrument_category": "DPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178886",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Additional Financing for Somalia COVID-19 Emergency Vaccination Project",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 73
+    },
+    "sector2": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 15
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "23,000,000",
+    "boardapprovaldate": "2022-06-29T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178886",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P176898",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Empowering Women through Education and Skills Project - \"Rajo Kaaba\"",
+    "sector1": {
+      "Name": "Tertiary Education",
+      "Percent": 38
+    },
+    "sector2": {
+      "Name": "Adult, Basic and Continuing Education",
+      "Percent": 24
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "52,000,000",
+    "boardapprovaldate": "2022-06-27T00:00:00Z",
+    "closingdate": "6/30/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176898",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Empowering Women Through Education and Skills Rajo Kaaba Project for Somalia aims to improve literacy and numeracy skills of women in selected areas and to prepare women for leadership roles. This project has three components. 1) The first component, Skills for Life and Labor Market Success, aims to support adolescent girls and women16 to acquire basic literacy and numeracy skills, cross-cutting socioemotional and life skills, and basic vocational skills to improve their livelihoods. 2) The second component, Higher Skills Development for Women\u2019s Leadership, has the following sub-components: (i) Establishing Women\u2019s Development Centers; and (ii) Developing a Consortium of Autonomous Women\u2019s Colleges. 3) The third component, Technical Assistance and Project Management, will finance systems strengthening efforts, technical assistance, and project management."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P177900",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Additional Financing for Somalia Recurrent Cost & Reform Financing Project - Phase III",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 46
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 41
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "92,000,000",
+    "boardapprovaldate": "2022-06-23T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177900",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178730",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "143,000,000",
+    "boardapprovaldate": "2022-06-22T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178730",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178887",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Urban Resilience Project Phase II Additional Financing",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "41,500,000",
+    "boardapprovaldate": "2022-06-03T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178887",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P181469",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Shock Responsive Safety Net for Human Capital Project Third Additional Financing",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "100,000,000",
+    "boardapprovaldate": "2023-12-15T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181469",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P181341",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Accelerating Sustainable and Clean Energy Access Transformation in SOMALIA",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "100,000,000",
+    "boardapprovaldate": "2023-11-28T00:00:00Z",
+    "closingdate": "11/30/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181341",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Accelerating Sustainable and Clean Energy Access Transformation Program using the Multiphase Programmatic Approach Project, to which participating countries and regional institutions will contribute, is to increase access to sustainable and clean energy in Eastern and Southern African countries. There are five components to the project, the first component being Digital Monitoring, Reporting, and Verification (D-MRV) platforms for energy access and climate finance. The second component is the Project Preparation Facility (PPF). This component includes three subcomponents: Project development support to national agencies, Cross-border solutions, and Support to private-sector DRE and clean cooking companies. The third component is the advisory support facility. This component will support participating countries on strengthening the policy and regulatory environment for energy access. The fourth component is the knowledge exchange, skills development, consumer engagement, convening and partnerships. This component will build data, knowledge, and skills for energy-access planners, funders, and providers, as well as their current and prospective employees and energy-access consumers. Finally, the fifth component is the project management and capacity-building support to the COMESA Project implementation unit. This component will provide the COMESA PIU specific support for building capacity to implement and monitor activities under the regional Platform and strengthen capacities in specific areas, including DRE, E&S, and gender."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P179307",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Somalia Second Inclusive Growth DPO",
+    "sector1": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 4
+    },
+    "sector2": {
+      "Name": "Fisheries",
+      "Percent": 15
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "75,000,000",
+    "boardapprovaldate": "2023-07-28T00:00:00Z",
+    "closingdate": "1/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179307",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Second Inclusive Growth Development Policy Financing (DPF) for Somalia is to promote inclusive growth by strengthening intergovernmental fiscal relations and transparency as well as enhancing economic resilience and investment. The operation supports critical elements of the ninth national development plan (NDP)9 as well as the government\u2019s efforts to reach its key priority, the heavily indebted poor country (HIPC) completion point. This operation builds on lessons emerging from DPFs prepared in fragility, conflict, and violence (FCV) contexts."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P501988",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "First Somalia Economic Resilience Development Policy Financing",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2024-07-30T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P501988",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the First Somalia Economic Resilience Development Policy Financing for Somalia is to promote economic resilience through more sustainable public finances and resilient private sector development. Pillar A aims to ensure sustainable public finances. This will contribute to the macroeconomic stability and will expand fiscal space required to meet Somalia\u2019s large development needs in the context of high volatility to climate change and fragility, conflict, and violence. Pillar B aims to enable resilient private sector development. This pillar supports structural reforms that enhance the environment for private-sector-led growth and create conditions for job creation, increasing the resilience of households."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P178032",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somali Sustainable Fisheries Development Project - Badmaal",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2024-06-12T00:00:00Z",
+    "closingdate": "6/30/2030 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178032",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Sustainable Fisheries Development Badmaal Project for Somali is to improve the capacity of targeted communities and authorities to benefit from and effectively manage selected fisheries. The project comprises of three components. The first component, increasing the capacity of dependent communities to benefit from sustainable marine fisheries aims to establish or improve small-scale fisheries sustainable infrastructure that is climate resilient, and financially viable and value chains with primary beneficiaries being fishers, fish workers and their communities including cooperatives and micro-small-medium enterprises (MSMEs). It consists of following sub-components: (i) climate-resilient fisheries infrastructure; and (ii) improving fishing, handling, processing, and marketing techniques to enhance quality and value-addition. The second component, strengthening marine fisheries governance and management will set the foundation for long-term climate resilient Somali fisheries that are managed for sustainability by investing in fisheries governance as laid out in the 2023 Fisheries Law. It consists of following sub-components: (i) laying a foundation for effective, transparent, and equitable fisheries resource governance and management; (ii) developing a comprehensive Monitoring Control and Surveillance (MCS) system to fight illegal unregulated and reported (IUU) fishing in Somali waters; (iii) fisheries statistics and stock assessments; and (iv) strategic studies on fisheries development and blue economy. The third component, project management monitoring and evaluation will ensure effective implementation of project activities and fiduciary management and effective monitoring and evaluation, and conformity with the World Bank environmental and social framework (ESF)."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181407",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second Additional Financing for Somalia Recurrent Cost and Reform Financing Phase III",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "69,000,000",
+    "boardapprovaldate": "2024-05-21T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181407",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181512",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Somali Democratic Republic"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Somalia Urban Resilience Project Phase II Third Additional Financing",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2024-05-02T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181512",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  }
+]

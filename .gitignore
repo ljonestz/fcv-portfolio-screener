@@ -1,0 +1,41 @@
+# Secrets and credentials
+.env
+*.key
+*credentials*
+.credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw data and intermediates (archive locally, not committed)
+raw_all_*.json
+project_documents.json
+project_documents_v2.json
+batch_*_targets.json
+screening_results_batch_*.json
+extraction_results.json
+extracted_texts/
+
+# Large data files (>1MB JSON, >1MB CSV/XLSX)
+# Exceptions: normalized results and filtered portfolio are committed (both <1MB)
+
+# Temp
+*.tmp
+*.log
