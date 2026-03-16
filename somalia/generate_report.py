@@ -383,7 +383,7 @@ def build_html(results, proj_meta):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Somalia World Bank Portfolio — FCV Screening Report</title>
+  <title>Somalia World Bank Portfolio — FCV Portfolio Screening Report</title>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
@@ -542,8 +542,8 @@ def build_html(results, proj_meta):
       font-weight: 700; font-size: 15px; color: var(--navy); margin-bottom: 4px;
     }}
     details.meth > summary::-webkit-details-marker {{ display: none; }}
-    details.meth > summary::before {{ content: '&#9654;  '; font-size: 0.7em; color: var(--muted); }}
-    details.meth[open] > summary::before {{ content: '&#9660;  '; }}
+    details.meth > summary::before {{ content: '\\25B6\\00A0\\00A0'; font-size: 0.7em; color: var(--muted); }}
+    details.meth[open] > summary::before {{ content: '\\25BC\\00A0\\00A0'; }}
 
     /* ── Footer ── */
     .page-footer {{ background: var(--navy); color: rgba(255,255,255,.38); font-size: 11px; padding: 16px 32px; text-align: center; letter-spacing: .04em; }}
@@ -582,8 +582,8 @@ def build_html(results, proj_meta):
 <div class="hero">
   <div class="hero-inner">
     <div class="hero-eyebrow">FCV Portfolio Assessment — Somalia 2015–2024</div>
-    <h1>Somalia World Bank Portfolio<br><strong>FCV Screening Report</strong></h1>
-    <div class="hero-sub">Systematic FCV Sensitivity &amp; Responsiveness assessment of {stats['n']} operations approved 2015–2024, using the WBG FCV Screener framework.</div>
+    <h1>Somalia World Bank Portfolio<br><strong>FCV Portfolio Screening Report</strong></h1>
+    <div class="hero-sub">Systematic FCV Portfolio Assessment of {stats['n']} operations approved 2015–2024, applying the WBG FCV Sensitivity and Responsiveness Screener framework.</div>
     <div class="hero-chips">
       <span class="hero-chip">&#128197; {today}</span>
       <span class="hero-chip">&#128203; {stats['n']} projects screened</span>
@@ -615,7 +615,7 @@ def build_html(results, proj_meta):
   <div class="report-section" id="overview">
     <h2>What This Assessment Found</h2>
 
-    <p>This report presents a systematic FCV (Fragility, Conflict and Violence) assessment of the World Bank Group's Somalia portfolio — {stats['n']} operations approved between 2015 and 2024, covering {stats['n_ipf']} Investment Project Financing (IPF) and {stats['n_dpf']} Development Policy Financing (DPF) instruments. Somalia is classified as <strong>Tier 1 — Crisis/Red</strong> under the WBG FCV traffic-light scheme, placing it among the most acutely fragile and conflict-affected environments in the Bank's portfolio. That classification matters: it means the bar for FCV integration is high, and operations that would be considered adequate in a less fragile context need to do more here.</p>
+    <p>This report presents a systematic FCV (Fragility, Conflict and Violence) Portfolio Assessment of the World Bank Group's Somalia portfolio — {stats['n']} operations approved between 2015 and 2024, covering {stats['n_ipf']} Investment Project Financing (IPF) and {stats['n_dpf']} Development Policy Financing (DPF) instruments. Somalia is a country directly affected by FCV challenges, placing it among the most acutely fragile and conflict-affected environments in the Bank's portfolio. That context matters: the bar for FCV integration is high, and operations that would be considered adequate in a less fragile setting need to do considerably more here.</p>
 
     <p>Each project was assessed against the WBG FCV Sensitivity and Responsiveness Screener, which evaluates eight analytical dimensions across two composites. <strong>FCV Sensitivity</strong> (Dimensions 1–3) measures how well a project understands Somalia's conflict dynamics — its drivers, political economy, and do-no-harm risks. <strong>FCV Responsiveness</strong> (Dimensions 4–8) measures whether the operational design actually adapts to that context: the theory of change, targeting logic, implementation flexibility, results framework, and One WBG integration. Scores run from 1 to 10; 7.0 is the high-performance threshold.</p>
 
@@ -687,16 +687,14 @@ def build_html(results, proj_meta):
 
     <p>Perhaps the most important story in this data is about trajectory rather than absolute levels. Both sensitivity and responsiveness have been improving over the portfolio period at rates of {trend_s:+.2f}/yr and {trend_r:+.2f}/yr respectively. The two charts below illustrate this: each point is an individual project, and the line tracks the annual average. The upward slope in both charts is consistent with the influence of the 2020 WBG FCV Strategy and its operational guidance, which raised analytical expectations for all operations in FCV contexts. The improvement in sensitivity has been somewhat faster than responsiveness, meaning the gap has narrowed but not closed — which is why responsiveness should be the priority focus for the next CPF cycle.</p>
 
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0">
-      <figure class="chart-figure" style="margin:0">
-        <img src="chart2_sensitivity_over_time.png" alt="Sensitivity over time" class="chart-img">
-        <figcaption>FCV Sensitivity by approval year</figcaption>
-      </figure>
-      <figure class="chart-figure" style="margin:0">
-        <img src="chart3_responsiveness_over_time.png" alt="Responsiveness over time" class="chart-img">
-        <figcaption>FCV Responsiveness by approval year</figcaption>
-      </figure>
-    </div>
+    <figure class="chart-figure">
+      <img src="chart2_sensitivity_over_time.png" alt="Sensitivity over time" class="chart-img">
+      <figcaption>FCV Sensitivity by approval year</figcaption>
+    </figure>
+    <figure class="chart-figure">
+      <img src="chart3_responsiveness_over_time.png" alt="Responsiveness over time" class="chart-img">
+      <figcaption>FCV Responsiveness by approval year</figcaption>
+    </figure>
   </div>
 
 
@@ -782,7 +780,7 @@ def build_html(results, proj_meta):
   <div class="report-section" id="conclusions">
     <h2>What This Means for Somalia Operations</h2>
 
-    <p>The Somalia portfolio demonstrates {'reasonably strong' if stats['avg_s'] >= 6 else 'mixed'} FCV sensitivity and {'moderate' if 4 <= stats['avg_r'] < 7 else 'strong' if stats['avg_r'] >= 7 else 'weak'} FCV responsiveness across {stats['n']} screened operations. Given Somalia's Tier 1 classification, the portfolio {'approaches but does not fully meet' if stats['avg_s'] < 7 else 'meets'} the high-performance threshold on sensitivity, and {'falls short of' if stats['avg_r'] < 7 else 'meets'} it on responsiveness. The positive trajectory is encouraging — but the sensitivity-responsiveness gap is structural and will not close without deliberate action.</p>
+    <p>The Somalia portfolio demonstrates {'reasonably strong' if stats['avg_s'] >= 6 else 'mixed'} FCV sensitivity and {'moderate' if 4 <= stats['avg_r'] < 7 else 'strong' if stats['avg_r'] >= 7 else 'weak'} FCV responsiveness across {stats['n']} screened operations. Given Somalia's acute FCV context, the portfolio {'approaches but does not fully meet' if stats['avg_s'] < 7 else 'meets'} the high-performance threshold on sensitivity, and {'falls short of' if stats['avg_r'] < 7 else 'meets'} it on responsiveness. The positive trajectory is encouraging — but the sensitivity-responsiveness gap is structural and will not close without deliberate action.</p>
 
     <p>Five priorities stand out from this analysis:</p>
 
@@ -806,7 +804,7 @@ def build_html(results, proj_meta):
         <h3>Data collection</h3>
         <p>Project metadata was retrieved via the World Bank Open Data API (search.worldbank.org), filtering for Somalia (country code: SO), approval year ≥ 2015, and IPF or DPF lending instruments. Document metadata was retrieved using the World Bank Documents and Reports API, prioritising Project Appraisal Documents (PADs) for IPF projects and Program Documents for DPF operations, with Project Papers included where applicable. PDF text was extracted using PyMuPDF (fitz), capped at 120,000 characters per document.</p>
         <h3>FCV screening framework</h3>
-        <p>Each document was screened against the WBG FCV Sensitivity and Responsiveness Screener, grounded in the WBG FCV Strategy (2025) and FCV Operational Manual for FCV Country Coordinators (June 2025). Each dimension is rated on a 4-point scale (Strong / Substantially Addressed / Partially Addressed / Not Addressed), converted to a 1–10 numeric scale. Composite scores are weighted averages of contributing dimensions, with red flag deductions applied to the Sensitivity composite (–0.5 per red flag, floor 1). Somalia is classified as Tier 1 — High FCV intensity (Crisis/Red).</p>
+        <p>Each document was screened against the WBG FCV Sensitivity and Responsiveness Screener, grounded in the WBG FCV Strategy (2025) and FCV Operational Manual for FCV Country Coordinators (June 2025). Each dimension is rated on a 4-point scale (Strong / Substantially Addressed / Partially Addressed / Not Addressed), converted to a 1–10 numeric scale. Composite scores are weighted averages of contributing dimensions, with red flag deductions applied to the Sensitivity composite (–0.5 per red flag, floor 1). Somalia is a country directly affected by FCV challenges (high FCV intensity).</p>
         <h3>Scope and limitations</h3>
         <ul>
           <li>3 of 43 projects (P152379, P173637, P178887) excluded — no PDF URL available via API</li>
