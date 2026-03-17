@@ -289,6 +289,24 @@ Threshold: Sensitivity ≥ 6.0 = "High", Responsiveness ≥ 5.5 = "High"
 
 ---
 
+## Report Narrative Guidelines
+
+### FCS classification — verify before labelling
+Do **not** assume a country is on the WBG's Harmonized List of Fragile and Conflict-Affected Situations (FCS List). Before generating any report narrative, verify the country's current status against the latest FCS list published at:
+- https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations
+
+If the country **is** on the current FCS list, it can be referred to as an FCS country. If it is **not** on the list (e.g. Djibouti as of FY25), describe it as "affected by drivers of fragility, conflict, and violence" or "FCV-affected" — do not call it an FCS or FCAS country. This distinction matters for institutional credibility.
+
+### Sensitivity–responsiveness gap — do not overplay small differences
+The gap between portfolio-average sensitivity and responsiveness scores is a useful analytical signal, but on a 1–10 scale with inherent measurement uncertainty, differences of less than ~1 point should not be overstated. Specifically:
+- Do **not** call a sub-1-point gap "the central finding" of an assessment
+- Do **not** describe it as "widening" or "closing" unless the trend data clearly supports that claim across cohorts
+- **Do** note the direction of the gap (sensitivity > responsiveness is the typical pattern) and contextualise it as consistent with broader FCV portfolio patterns
+- **Do** focus narrative weight on the **trend** (are the composites converging or diverging over time?) rather than the **level** of the gap at a single point in time
+- Where the gap is modest (<1 point), acknowledge measurement uncertainty explicitly
+
+---
+
 ## Adapting for Another Country
 
 1. **Create a new subfolder:** `Documents\GitHub\fcv-portfolio-screener\<country>\`
