@@ -1,0 +1,102 @@
+{
+  "project_id": "P151712",
+  "project_name": "Urban Productive Safety Net Project (UPSNP)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2015,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides solid poverty and labour market diagnostics but contains no explicit FCV conflict analysis, and the FCV cross-cutting tag is unchecked. Political governance risks are acknowledged but not linked to conflict drivers or fragility dynamics in the project's cities."
+    },
+    "responsiveness": {
+      "numeric_score": 4.7,
+      "rating": "Partially Addressed",
+      "rationale": "Design flexibility and phased learning are genuine strengths, but the theory of change, targeting design, results framework, and institutional linkages contain no FCV-specific adaptations. There is no contingency planning for conflict-related access disruptions and IFC/MIGA integration is absent."
+    }
+  },
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia is a large and geographically diverse country, with a representation of 98 nationalities who speak 93 languages... Ethiopia marked an important milestone in August 2012 with the first peaceful and constitutional transition of power.",
+      "rationale": "Country context is thorough on poverty and urbanisation but contains no FCV or conflict analysis. The FCV cross-cutting tag is explicitly unchecked in the PAD data sheet, and project cities in fragile regions (Gambella, Somali, Afar) receive no differentiated contextual treatment."
+    },
+    {
+      "id": 2,
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "In the case of large covariate shocks affecting urban areas, the project will closely coordinate a required response with the Disaster Risk Management and Food Security Sector of the MoA, PSNP, and other programs.",
+      "rationale": "Social safeguards, a GRM, and governance/corruption risk mitigation (Annex 11) are in place. However, there is no conflict-sensitivity analysis, no assessment of how targeting or public works assignments could exacerbate inter-group or inter-community tensions, and no explicit do-no-harm framing."
+    },
+    {
+      "id": 3,
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 4.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The capacity building and program coordination and management component of the project will promote social accountability and active involvement of urban citizens in the planning, targeting, and implementing of the safety net.",
+      "rationale": "Citizens' engagement and social accountability are well-developed (Annex 10), and the 'developmental state' political economy is acknowledged. However, there is no mapping of politically sensitive stakeholder groups, no analysis of ethnic or political dynamics in fragile project cities, and no identification of potential spoilers."
+    },
+    {
+      "id": 4,
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The UPSNP is grounded in the unique challenges that shape and perpetuate urban poverty... the project will put a significant premium on adaptation and learning, including establishing flexible arrangements that can be molded based on prevailing circumstances.",
+      "rationale": "The three-phase integrated pathway (transfers → livelihoods → graduation) is evidence-based and well-articulated. However, FCV-specific pathways — such as how safety nets contribute to social cohesion or resilience to conflict shocks — are entirely absent from the theory of change."
+    },
+    {
+      "id": 5,
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "Those who have been residing in their current place of residence for 6 months or more at the start of the targeting process will be considered for the program.",
+      "rationale": "The multi-layered targeting system (geographic, CBT, PMT, categorical, self-selection) is sophisticated and poverty-responsive. The 6-month residency threshold risks excluding IDPs and recent conflict-affected migrants in cities like Gambella and Jijiga, with no FCV-adjusted design provisions to address this."
+    },
+    {
+      "id": 6,
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Learning and adaptation will be emphasized in years 1 and 2 and activities will gradually be scaled up to reach all eligible individuals... it is important to acknowledge that the proposed approach will be piloted, evaluated, course-corrected, and expanded as needed.",
+      "rationale": "Built-in piloting, phased scale-up, and food price early warning are genuine adaptive mechanisms. However, there are no contingency protocols for conflict-related access disruptions, no security escalation pathways, and no discussion of how operations would adapt if political conditions deteriorate in fragile project cities."
+    },
+    {
+      "id": 7,
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Beneficiaries reporting that project investments reflected their needs (percentage), of which female (number) and male (number)... Project beneficiaries reporting increased household consumption as a result of the project.",
+      "rationale": "The results framework is gender-disaggregated and includes a rigorous impact evaluation design. No FCV-adjusted indicators are present — there are no social cohesion measures, conflict-sensitivity tracking indicators, or resilience metrics beyond consumption change."
+    },
+    {
+      "id": 8,
+      "name": "One WBG Integration",
+      "composite": "Responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No... To ensure synergy and complementarity with other ongoing projects in the urban environment, UPSNP will work closely with the ULGDP, the Competitiveness and Job Creation project and the WEDP.",
+      "rationale": "Annex 8 documents linkages to other WB urban programs (ULGDP, CJC, WEDP, PSNP), reflecting moderate WBG coordination. IFC and MIGA integration is explicitly absent, and there is no alignment with a broader WBG FCV strategy for Ethiopia."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The UPSNP is a well-designed poverty-focused safety net with genuine adaptive mechanisms but no FCV framing — conflict context, do-no-harm analysis, and FCV-adjusted targeting and indicators are entirely absent. Three red flags (elite capture risk in CBT, potential IDP exclusion via residency threshold, and no FCV indicators) highlight meaningful gaps for a project operating across Ethiopia's most fragile cities."
+}

@@ -1,0 +1,100 @@
+{
+  "project_id": "P181550",
+  "project_name": "Urban Productive Safety Net and Jobs Project Second Additional Financing",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2024,
+  "screened_document_note": "Extracted text is from the original UPSNJP PAD (P169943, September 2020, Report No: PAD3553). The Second AF (P181550) builds on this parent design; screening reflects the foundational PAD that governs the AF.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 6.5,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD provides a rich country context covering Ethiopia's political and social crises, COVID-19 impacts, refugee situation, urban unemployment, and climate vulnerability. FCV drivers — political unrest, displacement, exclusion of youth and women, destitution — are named and linked to project rationale. The refugee integration component explicitly addresses conflict-sensitive social cohesion risks and requires a pilot risk management plan including refugee protection risks before scale-up. Do-no-harm is addressed through a legal covenant mandating a refugee protection framework and a pilot plan that accounts for social cohesion risks. The main gap is that internal displacement and sub-national conflict (e.g. Tigray, Amhara, Oromia) are not explicitly diagnosed even though they are major FCV drivers in Ethiopia during the project period."
+    },
+    "responsiveness": {
+      "numeric_score": 6.1,
+      "rating": "Substantially Addressed",
+      "rationale": "The project design is substantially responsive: it targets the urban poor, unemployed youth, destitute, refugees and host communities; uses a graduation model with adaptive public works, livelihood grants, and tailored intermediation services; and includes a CERC for crisis response. Operational flexibility is embedded through city-wave rollout, adaptive benefit adjustments indexed to food CPI, and a pilot-before-scale approach for refugees. The results framework includes PDO indicators for consumption, youth wage employment, and homeless reintegration. Gaps include limited FCV-adjusted indicators in the results framework, no explicit conflict-sensitive monitoring, and limited One WBG integration (IFC/MIGA checkbox explicitly unchecked)."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Prime Minister Abiy Ahmed came to power in April 2018 during Ethiopia's worst political and social crises in decades, which had forced the Government to declare a state of emergency twice in three years.",
+      "rationale": "The PAD provides a substantive political economy and FCV context: state of emergency declarations, political unrest affecting firm recruitment and youth unemployment, refugee inflows from five conflict-affected neighbours, COVID-19 as a compounding shock, and climate vulnerability. The diagnostic links FCV drivers (exclusion, unemployment, destitution) to project objectives. The main limitation is the absence of a sub-national conflict analysis covering Tigray, Amhara, and Oromia tensions that were emerging during the project period."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 6,
+      "rating": "Substantially Addressed",
+      "key_quote": "Prior to start of implementation of Part 1.3, the Recipient shall furnish a draft plan including design, implementation arrangements, and risk management (e.g., Refugee protection risks and risks to social cohesion).",
+      "rationale": "Do-no-harm is operationalised through a legal covenant requiring a refugee protection framework as an effectiveness condition, and a pre-implementation pilot plan that explicitly names refugee protection and social cohesion risks. GBV training is included for public works beneficiaries. However, there is no explicit conflict-sensitivity assessment for public works site selection in cities affected by political tensions, and harm pathways related to elite capture in city-level targeting and public works contracting are identified in the risk table but not fully mitigated in design."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 6,
+      "rating": "Substantially Addressed",
+      "key_quote": "Young people, women, and the less-educated face significant disadvantages in Ethiopia's urban labor markets... Women face additional constraints including gender norms, occupational segregation, and limited mobility.",
+      "rationale": "The PAD demonstrates a solid political economy understanding of urban exclusion patterns: youth, women, less-educated, elderly, disabled, homeless, and refugees are identified as systematically marginalised groups with data on unemployment rates, poverty levels, and structural constraints. Stakeholder engagement is addressed through community preselection, citizen report cards, and community score cards. The weakness is limited analysis of inter-community tensions between host populations and refugees, and of the political economy risks from city governments' discretion in beneficiary targeting and public works planning."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The Project will support the GoE in improving the incomes of the urban poor and the labor market inclusion of disadvantaged urban youth.",
+      "rationale": "The PDO is well-calibrated to FCV-relevant outcomes: income support, labor market inclusion, social reintegration of the destitute, and refugee-host integration. The results chain explicitly links public works, livelihood grants, and employment intermediation to income and employment outcomes, with a graduation model providing a credible pathway. The theory of change is also FCV-relevant in its humanitarian-development nexus ambition. The gap is that the PDO does not explicitly reference social cohesion or conflict-reduction as intended outcomes, limiting accountability for FCV-specific change."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The project will expand the urban safety net to up to 83 cities... targeting the urban poor including refugees, elderly, disabled, and homeless as well as disadvantaged urban youth.",
+      "rationale": "Targeting is multi-layered (geographic, community preselection, PMT, community validation) and explicitly reaches the most FCV-affected urban groups: refugees, host communities, destitute, homeless children, disabled, and less-educated youth. The refugee component uses a pilot approach with risk management before scale-up, demonstrating conflict-sensitive design. The daily wage rate is calibrated not to undercut labor markets. The design gap is that in conflict-affected cities beneficiary validation processes could be captured by local elites, a risk identified in SORT but not specifically mitigated at the design level."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Substantially Addressed",
+      "key_quote": "A Contingent Emergency Response Component (CERC), a zero-dollar component that will be activated and funded in case of a declared emergency that affects urban populations.",
+      "rationale": "Operational flexibility is demonstrated through the CERC, city-wave rollout sequenced by readiness, adaptive benefit indexation to food CPI, and a COVID-19 protocol that suspended then resumed public works with safeguards. The pilot approach for refugees before national scale-up is an explicit adaptive management mechanism. However, the implementation framework relies heavily on JOBFSA and city governments, whose capacity is rated Substantial risk in SORT, and there is limited provision for rapid pivoting if security conditions deteriorate at the woreda level."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO-level indicators: (a) Increase in household consumption of PW and PDS households; (b) Share of youth wage-employed three months after apprenticeship; (c) Homeless integrated socially, economically or through education.",
+      "rationale": "The results framework measures core poverty and employment outcomes that are FCV-relevant, and the evaluation framework (Annex 6) includes a rigorous difference-in-differences design. However, none of the PDO or intermediate indicators explicitly measure FCV-specific outcomes such as social cohesion, conflict incidents at work sites, or protection outcomes for refugees. There are no FCV-adjusted indicators or conflict-sensitive monitoring triggers in the results framework, meaning the project cannot formally track its contribution to or against FCV dynamics."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly indicates no IFC collaboration. The project does reference MFD principles and a private sector apprenticeship program that invites firms to participate in skills development, and MSME development support is embedded in the livelihood component. However, there is no evidence of IFC or MIGA co-investment, blended finance, or coordinated private sector engagement to address the structural job creation constraints in urban Ethiopia that the PAD identifies. The MFD framing is aspirational rather than operationally structured."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "red_flag_notes": {
+    "RF2": "Elite capture risk is rated Substantial in the SORT under 'Other' risk category. City-level targeting through JOBFSA/woreda offices and community preselection creates structural opportunity for capture of public works beneficiary lists and livelihood grants by local officials or community leaders. The PAD identifies this risk but the mitigation — citizen report cards and community score cards — is participatory rather than systemic.",
+    "RF4": "Social cohesion risks from refugee-host integration are named in legal covenants but the PAD does not fully specify how social friction risks will be monitored and mitigated during scale-up beyond the initial pilot. The harm pathway (community tension from perceived preferential access for refugees) is identified but mitigation post-pilot is underspecified.",
+    "RF5": "The results framework has no FCV-adjusted indicators. PDO indicators measure consumption, wage employment rates, and homeless reintegration but do not include any protection, social cohesion, or conflict-sensitive metrics. There are no triggers for adaptive management based on deteriorating security or conflict conditions."
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "The UPSNJP PAD demonstrates strong FCV sensitivity through its multi-layered diagnosis of urban exclusion, refugee dynamics, and political instability, and solid responsiveness through its graduation model, refugee-host integration component, and CERC. The principal gaps are the absence of FCV-adjusted results indicators and the underspecification of mitigation for named social cohesion and elite capture risks."
+}

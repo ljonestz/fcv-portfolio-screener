@@ -1,0 +1,94 @@
+{
+  "project_id": "P169943",
+  "project_name": "Urban Productive Safety Net and Jobs Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2020,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 6.83,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD demonstrates strong FCV contextual awareness, explicitly acknowledging Ethiopia's history of political crises, ethnic tensions, refugee displacement, and the compounding shock of COVID-19 on fragile urban labor markets. The document clearly identifies conflict-adjacent risks including social cohesion risks from refugee-host integration and the political volatility context post-Abiy Ahmed transition. Do-no-harm framing is present but not fully operationalised — refugee protection risks are named and a pilot approach with risk management plan is legally required, but the design does not comprehensively analyse how public works targeting or youth employment design could inadvertently sharpen inter-group competition. Stakeholder and political economy analysis is moderately strong, with recognition of fragmented institutional landscape and ethnic/regional equity in city selection, though elite capture risks in local targeting processes receive insufficient treatment."
+    },
+    "responsiveness": {
+      "numeric_score": 6.10,
+      "rating": "Partially Addressed",
+      "rationale": "The project's theory of change is logically constructed and responds to the specific vulnerability profile of Ethiopia's urban poor, youth, and refugees, with clear FCV-adjacent adaptations including the CERC, COVID-19 protocols, and the refugee-host community integration component funded through the IDA Window for Host Communities and Refugees. Design targeting is reasonably well-calibrated to FCV-affected groups — refugees, homeless, disabled, women, less-educated youth — and the three-year graduation model with adaptive payment modalities shows operational flexibility. However, responsiveness is weakened by the absence of FCV-specific indicators in the results framework (PDO indicators measure consumption, wage employment, and social integration but not conflict sensitivity, social cohesion, or protection outcomes), and One WBG integration is explicitly flagged as absent (Bank/IFC Collaboration: No). Adaptive management provisions are partially addressed through the CERC and ISM structure but lack explicit triggers linked to conflict or social tension escalation."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Prime Minister Abiy Ahmed came to power in April 2018 during Ethiopia's worst political and social crises in decades, which had forced the Government to declare a state of emergency twice in three years.",
+      "rationale": "The PAD provides a substantive country context section covering political transition risks, ethnic tensions, rapid urbanisation pressures, COVID-19 shock, climate vulnerability, and the large refugee caseload. The refugee situation is analysed in detail including protection framework adequacy and socioeconomic exclusion. The document connects these drivers to urban poverty and unemployment outcomes that the project targets. A key gap is that subnational conflict dynamics — particularly ethnic federalism tensions in project cities and in regions hosting refugee camps — are not systematically diagnosed."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Prior to start of implementation of Part 1.3 of the Project, the Recipient shall furnish a draft plan... including design, implementation arrangements, and risk management (e.g., Refugee protection risks and risks to social cohesion).",
+      "rationale": "The PAD explicitly names social cohesion risks from refugee-host community integration and requires a pilot risk management plan as a legal covenant, which is a meaningful do-no-harm safeguard. SORT rates Political and Governance risk as Substantial, and the document acknowledges social and political unrest as a driver of youth unemployment. However, the broader do-no-harm analysis — particularly whether public works assignments, targeting exclusions, or livelihood grant allocations could exacerbate inter-group tensions in ethnically diverse cities — is not systematically addressed. GBV risks at worksites are named but mitigation is limited to training."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The landscape of job-related services is fragmented with public employment agencies having limited capacity, and the GoE intends to streamline the jobs agenda institutionally.",
+      "rationale": "The PAD maps the fragmented institutional landscape across MoLSA, MoUDC, JOBFSA, JCC, and ARRA, and identifies coordination challenges. Regional and city-level equity in beneficiary selection is considered in the roll-out design. The document acknowledges the political sensitivity of institutional reforms tied to upcoming elections and notes that 73 percent of unemployed lack information about government services. However, political economy analysis of how local power structures may shape targeting or community preselection processes — a key elite capture risk — is not addressed, and civil society engagement is mentioned mainly in the context of NGOs providing services rather than as accountability actors."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The Project will support the GoE in improving the incomes of the urban poor and the labor market inclusion of disadvantaged urban youth.",
+      "rationale": "The theory of change is clearly articulated and links context drivers (COVID-19 shock, rapid urbanisation, refugee exclusion, youth unemployment) to outputs (public works, apprenticeships, livelihood grants, services for destitute) and outcomes (household consumption, wage employment, social integration). The results chain diagram and the graduation model pathway are explicitly linked to FCV-relevant vulnerability profiles. The inclusion of refugees and host communities in the PDO logic is implicit rather than explicit, and the project does not define a theory of change specific to the social cohesion dimension of refugee integration."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Selected beneficiaries would include poor urban households with able-bodied household members selected using a combination of geographic targeting, community preselection, a Proxy Means Test (PMT), and community validation.",
+      "rationale": "The targeting methodology is multi-layered and specifically adapted to reach FCV-affected groups: refugees and host communities receive a dedicated subcomponent (1.3) with US$48.2 million from the IDA WHR window; homeless and destitute have a separate component (3.2); elderly and disabled are covered under PDS (3.1); and women constitute approximately 60 percent of public works beneficiaries. Regional equity in city selection is explicitly considered. The pilot approach for refugee integration with a required risk management plan before scale-up demonstrates conflict-sensitive phasing, though the criteria for scaling beyond the pilot are not specified."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Component 5 is a Contingent Emergency Response Component (CERC), a zero-dollar component that will be activated and funded in case of a declared emergency that affects urban populations.",
+      "rationale": "The CERC provides a formal mechanism for rapid response to declared emergencies, and the project demonstrated adaptive capacity in its COVID-19 response — suspending public works conditionalities, advancing payments, and increasing benefit levels. Cash payments via mobile banking and ATMs reduce implementation vulnerability. However, operational flexibility specifically tied to conflict or social tension escalation — as distinct from natural disasters or pandemics — is not addressed. The rollout design is sequential (waves) but does not include explicit pause-or-pivot criteria linked to conflict indicators or protection risks."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO-level indicators: (a) Increase in household consumption of PW and PDS households; (b) Share of participating youth who are wage-employed three months after completion of the apprenticeship; (c) Homeless integrated socially, economically or through education.",
+      "rationale": "The three PDO indicators measure core economic outcomes but none captures FCV-relevant dimensions such as social cohesion between refugees and host communities, protection outcomes, conflict-sensitivity of targeting, or beneficiary perceptions of fairness and safety. Intermediate results indicators include citizen report card and community score card measures which provide some accountability feedback, and disaggregation by refugee/host community status is implied by the WHR component structure. Adaptive management provisions exist via the CERC and ISM schedule, but the M&E framework does not include conflict or social tension monitoring as an explicit trigger for course correction."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The PAD explicitly states there is no Bank/IFC collaboration on this project. However, the design does engage the private sector indirectly — through the apprenticeship model (Component 2.1) that invites firms to participate in skills development, the MFD enabling framing, and the public-private partnership approach of the JCC. The project explicitly references IFC engagement context in Ethiopia's broader portfolio (financial sector, industrial parks) but does not establish joint programming or complementary IFC/MIGA instruments to address private sector development in FCV-affected urban areas. This limits the project's ability to crowd in private investment for the jobs agenda in conflict-sensitive cities."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "P169943 is a well-contextualised urban safety net operation with strong FCV sensitivity grounded in Ethiopia's political transition, refugee hosting, and COVID-19 crisis, and meaningful responsiveness through refugee-host integration components and flexible delivery modalities; however, the results framework carries no FCV-specific or social cohesion indicators (RF5), and the named social cohesion risks from refugee integration lack full mitigation in the broader programme design beyond the pilot covenant (RF4)."
+}

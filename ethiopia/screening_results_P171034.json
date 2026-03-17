@@ -1,0 +1,94 @@
+{
+  "project_id": "P171034",
+  "project_name": "Ethiopia Digital Foundations Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2021,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.83,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD acknowledges Ethiopia's location in the conflict-affected Horn of Africa and the Tigray crisis, including the suspension of WBG activities in the region. Gender disparities, IDP/refugee vulnerabilities, and the intersection of COVID-19 with socioeconomic fragility are noted with some specificity. However, the FCV context is treated primarily as background rather than as a driver of project design: conflict dynamics, exclusion risks from digital infrastructure in contested or underserved areas, and the potential for digital tools to exacerbate political polarisation or surveillance are not systematically assessed."
+    },
+    "responsiveness": {
+      "numeric_score": 4.10,
+      "rating": "Partially Addressed",
+      "rationale": "The project includes some adaptive features — a CERC, a grievance redress mechanism, and gender-disaggregated PDO indicators — and explicitly pauses activities in Tigray. However, the theory of change does not integrate FCV risk into the causal logic; operational flexibility in conflict-affected or fragile sub-national contexts is not elaborated; the results framework lacks FCV-adjusted indicators; and One WBG coordination, while present through IFC on telecom licensing, is not oriented around conflict-sensitive delivery. The project is primarily a digital economy/infrastructure operation with partial adaptation to fragility rather than a conflict-sensitive design."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia, a growing economy with a population of over 100 million located in the conflict-affected Horn of Africa (HoA) region... the situation in the region remains fragile.",
+      "rationale": "The PAD situates Ethiopia in the conflict-affected HoA and dedicates a paragraph to the Tigray crisis, including humanitarian figures and the suspension of WBG activities. Gender inequality, IDP/refugee concentrations, and COVID-19 impacts are documented. However, there is no systematic FCV diagnostic — conflict drivers, fragility typology, or how political economy dynamics (e.g., ethnic federalism, telecom sector as state instrument) interact with project objectives are not analysed."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The state of emergency, declared in Tigray region in November 2020, and the economic crisis may have the potential to increase the risks of domestic violence.",
+      "rationale": "The PAD notes the Tigray emergency and pauses activities there, and references GBV risks linked to the crisis. The SORT rates political and governance risk as High. However, the document does not assess specific do-no-harm risks from the project itself — for instance, whether state-controlled digital ID infrastructure could enable surveillance of ethnic minorities, or whether telecom liberalisation in an ethnically polarised political environment could create winners and losers along conflict lines. No conflict-sensitivity review or harm pathway mitigation is documented."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "A strong telecommunications sector is built on market competition, private sector participation and effective, independent regulation, all of which have been lacking in Ethiopia to date.",
+      "rationale": "The PAD acknowledges the concentration of power in the incumbent SOE (Ethio Telecom), the weak regulatory environment, and the risks of elite capture in public procurement. The political economy of telecom reform is partially explored. However, analysis of how ethnic, regional, or conflict-aligned political interests may shape reform outcomes or benefit distribution is absent. Civil society and conflict-affected community voices are not reflected in the stakeholder analysis."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The Project Development Objective is to increase the inclusiveness and affordability of digital services and digital job creation in Ethiopia.",
+      "rationale": "The PDO and results chain focus on digital inclusion, affordability, and job creation — legitimate development objectives in a fragile context. However, the theory of change does not incorporate FCV dynamics: how conflict affects connectivity rollout, whether digital access can reduce or exacerbate grievances, and what happens to the project logic if political instability worsens are not addressed. The project's FCV relevance is implicit rather than designed-in."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Lack of availability, affordability, and low quality of broadband connectivity is particularly significant among socially vulnerable populations, including children and the elderly, women, disabled, low-income, and rural populations.",
+      "rationale": "The project targets socially excluded populations in its framing and includes gender-disaggregated indicators and a matching grants program aimed at women entrepreneurs. However, conflict-affected populations (IDPs, refugees, residents of Tigray and other contested areas) are not explicitly targeted or ring-fenced. The geographic rollout strategy does not account for differential access in FCV-affected regions, and there is no explicit commitment to conflict-sensitive procurement or community targeting."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "A Contingent Emergency Response Component (CERC) has been added to the program design to allow for greater flexibility in responding to any emergency crises during the duration of the project.",
+      "rationale": "The CERC provides a formal mechanism for emergency reallocation, and the Tigray pause demonstrates de facto operational flexibility. A grievance redress mechanism is legally covenanted within 60 days of effectiveness. However, the implementation arrangements do not include conflict-sensitive delivery protocols, FCV-specific risk mitigation for implementation in volatile sub-national contexts, or adaptive management triggers linked to conflict escalation. Flexibility is generic rather than FCV-designed."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Penetration rate of internet users (fixed and/or mobile) per 100 inhabitants, disaggregated by gender... Broadband internet prices per month... Increase in the number of jobs created.",
+      "rationale": "The results framework centres on digital penetration, affordability, and job creation indicators, with gender disaggregation. There are no FCV-specific indicators — no measures of access in conflict-affected areas, no tracking of exclusion of IDPs or minority communities, no adaptive management protocols linked to conflict risk monitoring. The results chain does not include FCV as a pathway variable, and there is no mention of conflict-sensitive M&E approaches."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The IFC and the WB are working closely together in Ethiopia, which is amongst the priority countries of the WBG's Digital Infrastructure Initiative... IFC has benefitted from a grant of US$3 million from the GIF to facilitate this process.",
+      "rationale": "IFC collaboration on telecom licensing is explicitly documented and operationally integrated — IFC leads on the competitive award of new telecoms licenses while the WB supports regulatory reform. This is a meaningful One WBG coordination arrangement. However, the collaboration is not oriented around conflict sensitivity or FCV-responsive delivery; it is a market development partnership. MIGA is not mentioned. The FCV dimension of joint WBG engagement in a fragile context is not explored."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The Ethiopia Digital Foundations Project is a technically sound digital economy operation with partial fragility awareness — it acknowledges Tigray, names FCV risks, and includes adaptive mechanisms — but stops short of conflict-sensitive design: the theory of change, results framework, and operational strategy do not integrate FCV dynamics, and conflict-affected populations are structurally absent from targeting and M&E."
+}

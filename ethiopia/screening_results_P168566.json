@@ -1,0 +1,102 @@
+{
+  "project_id": "P168566",
+  "project_name": "Ethiopia Growth and Competitiveness",
+  "doc_type": "Program Document",
+  "instrument_category": "DPF",
+  "approval_year": 2018,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.37,
+      "rating": "Not Addressed",
+      "rationale": "The document briefly situates Ethiopia in the conflict-affected Horn of Africa and notes 2.8 million IDPs, two states of emergency, and ethnic-regional disparities, but this framing is instrumental — political change is cast as an economic opportunity rather than analysed through a conflict-risk lens. No systematic FCV diagnostic, no subnational fragility mapping, and no analysis of how conflict dynamics interact with the structural economic reforms supported. A harm pathway from electricity tariff increases on the poor is identified but not elaborated; RF4 deduction applied (-0.3)."
+    },
+    "responsiveness": {
+      "numeric_score": 3.30,
+      "rating": "Not Addressed",
+      "rationale": "The three-pillar DPF structure and programmatic series provide technical sequencing but contain no FCV-adapted design features. Prior actions cover PPP, power tariff, logistics, telecom, and transparency reforms without differentiated targeting for conflict-affected regions or displaced populations. The results matrix of 14 indicators is entirely economic with no FCV-sensitive or conflict-adjusted metrics. One WBG integration with IFC is the strongest responsiveness feature. RF5 deduction applied (-0.3) for absence of FCV-adjusted indicators."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia, a growing economy with a population of over 100 million located in the conflict-affected Horn of Africa region, is experiencing an unprecedented political and economic change.",
+      "rationale": "The document acknowledges the FCV context at a high level — conflict-affected region, two states of emergency, 2.8 million IDPs, 920,000 refugees, and intra-regional disparities — but does not provide a systematic conflict or fragility diagnostic. The political transition under PM Abiy Ahmed is framed primarily as an economic reform window, not as a fragile moment requiring FCV-informed risk assessment. No subnational conflict mapping or driver analysis is present."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The Council of Ministers has approved a multi-year electricity tariff-increase framework with a detailed implementation schedule to improve cost recovery while protecting the poor.",
+      "rationale": "The operation includes politically sensitive reforms — electricity tariff increases, SOE privatisation, and liberalisation of strategic sectors — in a context of ethnic-political tensions and mass displacement. The PSIA section acknowledges distributional risks from energy tariff reform but does not assess conflict-sensitivity. No harm pathway analysis is conducted for reforms with high political economy risk (e.g. SOE privatisation, telecom opening). The 'protecting the poor' clause in Prior Action #2 lacks elaborated safeguards."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "All Ethiopian civil society organizations (CSOs) are eligible to engage in Social Accountability activities: 0 (2018) → All (2021).",
+      "rationale": "The document recognises the new political opening and includes a prior action on CSO access to social accountability activities. Consultations with development partners are noted. However, there is no analysis of who wins and loses from SOE privatisation or logistics/telecom liberalisation across ethnic or regional lines. Political economy analysis is implicit and confined to national-level narrative; subnational stakeholder differentiation is absent."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The proposed operation is structured around three strategic pillars: (i) maximizing finance for development; (ii) improving the investment climate and developing the financial sector; and (iii) enhancing transparency and accountability.",
+      "rationale": "The theory of change connecting prior actions to economic reform outcomes is logically structured and internally consistent. The programmatic series allows sequenced reform with iterative triggers. However, the theory of change contains no FCV-adjusted pathway explaining how reforms remain viable under political instability or how fragility conditions shape the reform trajectory. No conflict-sensitive development objective is included."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia also hosts more than 920,000 refugees, primarily from neighboring Somalia, Sudan, South Sudan, and Eritrea, and the number of internally displaced people (IDPs) has risen from 1.6 million to 2.8 million since the beginning of this year.",
+      "rationale": "Prior actions are technically specific and sequenced but target national-level regulatory and institutional reforms. There is no differentiated design for conflict-affected regions (Somali Region, Oromia, Tigray) or for displaced and refugee populations. The electricity tariff reform includes a general 'protect the poor' clause but no IBT mechanism or targeting instrument is detailed. No provisions address the needs of the 2.8 million IDPs or 920,000 refugees acknowledged in the country context."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Overall Risk Rating: Substantial. The reform process is still in its early stage and this programmatic series will allow the World Bank to partner with the Government, both technically and financially, as the reforms gather pace.",
+      "rationale": "The programmatic DPF structure across three operations provides inherent sequencing flexibility and the indicative trigger mechanism allows pacing adjustments. However, no conflict-contingency provisions are included, no pause-and-review trigger for political deterioration is specified, and no implementation modalities address conflict-affected or displacement-affected areas. The 'Substantial' overall risk rating is not translated into FCV-specific mitigation."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Indicator Name / Baseline / Target: Power sector losses (commercial and technical): 23% (2018) → 15% (2021); Foreign Direct Investment value: US$3.7 billion (2018) → US$5 billion (2021).",
+      "rationale": "The results matrix contains 14 indicators covering PPP transactions, power sector efficiency, customs clearance times, FDI, telecom licensing, mobile money uptake, CSO access, and SOE transparency. All indicators are economic or institutional; none are FCV-sensitive. No conflict-adjusted baseline, no social cohesion measure, no humanitarian indicator, and no adaptive management mechanism for political risk deterioration is present."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The proposed operation complements ongoing WBG engagement in Ethiopia in support of the GTP II, a US$11 billion portfolio that includes 38 operations and advisory services... supported through an extensive technical assistance program supported by the World Bank, International Finance Corporation (IFC), IMF and development partners.",
+      "rationale": "IFC is explicitly referenced as a partner in implementation, particularly in financial sector development and private sector engagement. The DPF is positioned within a US$11 billion WBG portfolio of 38 operations, indicating meaningful cross-sector coordination. MIGA is not mentioned. The WBG integration is substantive in economic terms but not coordinated around an FCV or conflict-sensitive lens."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This macroeconomic DPF operates in a high-FCV context — 2.8 million IDPs, two recent states of emergency, ethnic-political tensions — but applies a standard competitiveness reform template with minimal FCV adaptation: no conflict diagnostic, no FCV-adjusted indicators, no differentiated design for conflict-affected regions, and harm pathways from politically sensitive reforms (SOE privatisation, energy tariff increases) are identified but not mitigated."
+}

@@ -1,0 +1,94 @@
+{
+  "project_id": "P160395",
+  "project_name": "Ethiopia Electrification Program (ELEAP)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2018,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides a detailed socioeconomic country context but frames Ethiopia's challenges purely through a development and poverty lens, without engaging with fragility or conflict dynamics. Ethiopia in 2018 was experiencing significant political turbulence and ethnic tensions that went unacknowledged in the document. The SORT table is referenced (Annex 7) but no FCV-specific risk framing is present in the main text, and no conflict or political economy analysis informs the design."
+    },
+    "responsiveness": {
+      "numeric_score": 3.60,
+      "rating": "Not Addressed",
+      "rationale": "The program design is technically strong and pro-poor in intent, but is not adapted to fragility or conflict risks. The PforR instrument and DLI structure are oriented toward sector performance rather than FCV-sensitive delivery. Gender is addressed through specific DLIs and indicators, but no FCV-adjusted targeting, conflict-sensitive geographic sequencing, or adaptive management provisions for instability are present. IFC engagement is noted but not integrated with any conflict or fragility lens."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia is a large, land-locked, and diverse country... a historic legacy of underinvestment still bears its mark.",
+      "rationale": "The country context section provides a competent macro development overview but does not engage with Ethiopia's fragility drivers — ethnic federalism tensions, intercommunal conflict, the Oromo protests underway in 2017–2018, or governance fragility. The State and Peacebuilding Fund is mentioned in one sentence as a prior engagement but no FCV diagnostic underpins the ELEAP design. Conflict sensitivity and fragility analysis are entirely absent."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The Program will not support activities that are likely to have significant adverse impacts that are sensitive, diverse or unprecedented on the environment and/or affected people.",
+      "rationale": "Do-no-harm framing is limited to environmental and social safeguards language with no conflict-sensitivity component. The document does not assess how large-scale electrification infrastructure — including geographic prioritisation of grid densification — could exacerbate regional inequalities or be instrumentalised politically. GBV appears in the acronym list but is not substantively addressed as a risk or mitigation area."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The Steering Committee, comprising cross-sectoral leaders and other experts, will provide high-level strategic direction and policy guidance; facilitate effective coordination across the GoE's ministries, departments, and agencies.",
+      "rationale": "The PAD includes a reasonably detailed institutional and stakeholder mapping of the electricity sector, covering utilities, ministries, development partners, and the private sector. However, this is framed as an implementation governance analysis rather than a political economy assessment. The power dynamics of ethnic regional bureaus, risks of elite capture in connection prioritisation, and political sensitivities around tariff reform are not analysed."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The PDO is to increase access to electricity in Ethiopia and to enhance institutional capacity for planning and implementation of the Government's electrification program.",
+      "rationale": "The PDO and results chain are coherent and technically well-developed, with a clear logic from infrastructure connections to access outcomes. However, the theory of change does not account for conflict or fragility pathways — for instance, how electricity access in contested or marginalized regions could build or undermine social cohesion, or how institutional reform is complicated by political instability. The program is development-oriented without an FCV lens."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Given that the majority of the unelectrified households in Ethiopia are in rural areas, the Program activities are substantially geared toward being 'pro-poor'.",
+      "rationale": "The NEP's geospatial least-cost planning approach and focus on last-mile connections is pro-poor in intent and technically sophisticated. The program explicitly targets rural and female-headed households as beneficiaries and includes off-grid components for communities not proximate to the grid. However, there is no conflict-sensitive geographic targeting — no consideration of whether grid expansion sequences could reinforce or alleviate regional political grievances or exclusion dynamics."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The PforR instrument rewards achievement of and accountability for results... the instrument provides the World Bank with leverage to inform and influence key strategic and policy orientations.",
+      "rationale": "The PforR instrument provides results-linked disbursements but inherently limits flexibility, as payments are conditional on verified outcomes rather than adaptive implementation. The document does not include any contingency provisions for political instability, conflict-related access constraints, or operational disruption scenarios. No early warning or crisis response mechanisms are referenced."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "DoE is established and has put in place integrated M&E system, that is maintained throughout the Program [DLI3]... Annual customer satisfaction in key aspects of the Program was equal or higher than last year's.",
+      "rationale": "The results framework is detailed and multi-layered, with seven DLIs covering connections, institutional capacity, gender, and safeguards. Customer satisfaction surveys and annual rollout plans reflect some adaptive management intent. However, no FCV-specific indicators are present — no measures of social cohesion, conflict incidence, or fragility-adjusted access outcomes. The framework does not include any provisions for adjusting targets or approach in response to deteriorating security conditions."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The IFC is supporting the development of the private sector-led SAS market through the World Bank Group/IFC 'Lighting Africa Program', as well as supporting the development of the mini-grid market through advisory activities.",
+      "rationale": "The PAD explicitly references IFC's role in the SAS and mini-grid markets, and the WBG has prepared a Joint Implementation Plan for the NEP. IDA and IFC coordination is more substantive here than in many energy PADs. However, this integration is purely commercial and market-development oriented — there is no IFC/MIGA engagement framed through a conflict or fragility lens, nor any coordination with the State and Peacebuilding Fund work mentioned earlier."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "ELEAP is a technically ambitious electrification program with pro-poor targeting and meaningful gender provisions, but it has virtually no FCV sensitivity — Ethiopia's fragility context, ethnic tensions, and political economy risks are entirely absent from the design. The results framework lacks any FCV-adjusted indicators, and the PforR instrument provides no flexibility for conflict-related disruption."
+}

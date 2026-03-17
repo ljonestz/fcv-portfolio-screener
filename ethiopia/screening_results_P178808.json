@@ -1,0 +1,94 @@
+{
+  "project_id": "P178808",
+  "project_name": "Governance Modernization to Enable Efficient Service Delivery Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2024,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.67,
+      "rating": "Not Addressed",
+      "rationale": "The document checks the 'Conflict' modality box and references internal conflict as one of several macro-stressors, and notes alignment with the WBG FCV Strategy, but provides no diagnostic analysis of conflict dynamics, drivers of fragility, or their links to governance failures. Political economy challenges (merit-based recruitment, federal-regional tensions) are discussed in technical governance terms without FCV framing. Do-no-harm analysis is entirely absent despite the substantial political and governance risks rated in SORT."
+    },
+    "responsiveness": {
+      "numeric_score": 2.20,
+      "rating": "Not Addressed",
+      "rationale": "The PDO and theory of change do not incorporate FCV objectives or conflict-transition goals; alignment with the FCV Strategy is referenced only in passing in the higher-level objectives section. Design features include some gender-sensitive targeting but no provisions for conflict-affected populations or regions. Results indicators are standard governance metrics with no FCV-adjusted measures, and the project explicitly excludes IFC/MIGA collaboration."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Internal conflict, the COVID-19 pandemic, and drought [exacerbated macroeconomic pressures]... aligned with FCV Strategy commitments to remain engaged during conflicts and crisis situations.",
+      "rationale": "The document acknowledges internal conflict as a macroeconomic stressor and checks the 'Conflict' modality box, but provides no analysis of conflict dynamics, fragility drivers, or the political economy of instability in Ethiopia. There is no reference to the Tigray war, ethnic federalism tensions, displacement, or how these shape governance reform risks. FCV is treated as contextual backdrop rather than an analytical lens."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "SORT Risk Category 1. Political and Governance: High. SORT Risk Category 2. Macroeconomic: High.",
+      "rationale": "High political and governance risks are flagged in the SORT table but are not translated into conflict-sensitivity analysis or do-no-harm provisions. There is no discussion of how civil service reform, tax administration modernisation, or PFM changes could exacerbate existing tensions, resource grievances, or elite capture dynamics in a conflict-affected country. ESF standards are listed but do not address conflict-specific harm pathways."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Recruitment is weakly linked to competencies... Federal civil servants self-reported significant concerns regarding implementation bias and minimal repercussions for poor performance.",
+      "rationale": "Some political economy awareness is embedded in technical sections — notably merit-recruitment weaknesses, motivation deficits, and fragmented federal-regional governance — and civil servant surveys are cited as evidence. However, there is no systematic stakeholder mapping, no analysis of how conflict-affected groups or excluded communities relate to these institutions, and no conflict-sensitive framing of power dynamics or reform resistance."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The theory of change of the project is based on the recognition that public sector management inefficiencies contribute to inefficiencies in revenue collection, low quality services and inequities in outcomes.",
+      "rationale": "The PDO focuses on institutional capacity for public resource management efficiency, with no FCV-specific objectives. The theory of change links governance reform to service delivery improvements but does not articulate how this pathway supports conflict reduction, social cohesion, or fragility transition. The FCV Strategy alignment cited in para 24 is not reflected in the project's own logic model."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Addressing shortcomings in public participation will require the MoF and OFAG to consider piloting mechanisms to engage the public, including women, vulnerable and underrepresented communities.",
+      "rationale": "Gender-sensitive design features are a genuine strength — gender-disaggregated HR data, women-friendly e-tax services, and gender-inclusive recruitment frameworks are embedded across components. However, targeting does not extend to conflict-affected regions, displaced populations, or conflict-vulnerable communities, and the sub-national focus addresses regional governance capacity rather than conflict-specific targeting."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "CERC: [not checked]. Fragile State(s): [not checked]. The PSC shall be responsible for facilitating coordination of Project activities and removal of any obstacle(s) to the implementation of the Project.",
+      "rationale": "Standard implementation arrangements — a PSC, three PIUs, and a PMCSO — are established without adaptive mechanisms for conflict disruption or political instability. The CERC modality is not activated despite High political and governance risk ratings. No scenario planning, flexible disbursement triggers, or conflict-contingent implementation protocols are described."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "PDO indicators: (a) Increase in competency-based assessments in civil servant recruitment; (b) Reduction in VAT compliance gap; (c) Public availability of budget execution reports; (d) Increase in civil servant experience with quality HRM practices.",
+      "rationale": "All four PDO-level indicators are standard governance efficiency metrics with no FCV-specific dimension — no indicators for social cohesion, conflict sensitivity, inclusion of conflict-affected populations, or resilience outcomes. The results framework does not include any adaptive management provisions tied to conflict escalation or fragility dynamics."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no Bank/IFC collaboration, and there is no mention of MIGA engagement anywhere in the document. No private sector development or investment climate linkages to IFC or MIGA are referenced, despite the project's focus on tax administration and PFM systems that could facilitate private investment."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This governance modernisation project operates in an active conflict context (flagged in the datasheet) but contains no conflict-sensitivity analysis, no do-no-harm provisions, and no FCV-adjusted results indicators — a significant gap given Ethiopia's ongoing instability and the political economy risks inherent in civil service and tax reform. The project's gender-sensitive design features are a relative strength but do not compensate for the absence of FCV integration across all other dimensions."
+}

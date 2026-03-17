@@ -1,0 +1,94 @@
+{
+  "project_id": "P179092",
+  "project_name": "Second Additional Financing for Strengthen Ethiopia's Adaptive Safety Net",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.67,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides substantial analysis of drought, climate, and COVID-19 shocks as drivers of vulnerability, and acknowledges the 'evolving political environment' weakening accountability, with SORT Political & Governance risk rated High. However, the document does not include a dedicated conflict or FCV analysis — there is no treatment of inter-ethnic tensions, displacement dynamics, or fragility drivers beyond climate and economic shocks. Stakeholder engagement and targeting of marginalised groups (lowland pastoral communities, women) are addressed but without explicit conflict-sensitivity framing."
+    },
+    "responsiveness": {
+      "numeric_score": 5.20,
+      "rating": "Partially Addressed",
+      "rationale": "The project design shows meaningful responsiveness to shock and fragility contexts through its CERC/Early Response Financing mechanism, differentiated lowland/pastoral implementation modalities, and Performance-Based Conditions tied to service delivery. The PDO and theory of change are framed around adaptive shock response but remain anchored in drought/poverty rather than an explicit FCV lens. Results indicators and adaptive management features are present but not oriented toward FCV-specific outcomes."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "In recent years the upward accountability mechanisms weakened due to the evolving political environment... SORT Political and Governance risk rated High.",
+      "rationale": "The country context section provides detailed analysis of poverty, climate shocks, COVID-19, land degradation, and labour market vulnerabilities — contextually thorough for a safety net operation. Political governance risk is flagged at the highest SORT level, and decentralisation challenges are noted, but there is no dedicated FCV diagnostics section or conflict analysis. The document does not engage with Ethiopia's internal conflict dynamics, displacement, or fragility drivers beyond drought and COVID-19 shocks."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The view that able-bodied beneficiaries should contribute in return for their safety net benefits remains an important factor in the political economy of the program.",
+      "rationale": "The document acknowledges the political economy of the public works conditionality and includes a grievance redress mechanism (Kebele Appeals Committees), both of which reflect awareness of community tensions and fairness. However, there is no explicit do-no-harm analysis, no assessment of how the safety net targeting or operations could exacerbate local tensions, and no mitigation measures framed against conflict risk. The ESCP covers environmental and social standards but conflict-specific harm pathways are not addressed."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Setting and enforcing a single set of implementation standards and rules remains a balancing act... gaps remain in the lowland regions.",
+      "rationale": "The document contains a substantive political economy analysis of PSNP's institutional architecture — covering decentralisation tensions, Government-DP financing dynamics, the MoA-MoLSA-NDRMC coordination structure, and PW conditionality as a political economy feature. Differentiated treatment of lowland pastoral communities using clan-based planning units demonstrates engagement with local governance structures. The analysis stops short of a systematic stakeholder mapping that includes marginalised or conflict-affected groups, and political economy risks related to elite capture in targeting are acknowledged but not systematically assessed."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The adaptive approach of PSNP will integrate... an increased focus on climate change adaptation, building resilience, and shock responsive social protection that can be easily scaled up to respond to climate-related and other types of shocks.",
+      "rationale": "The PDO explicitly includes shock responsiveness as a second objective alongside core safety net expansion, and the theory of change connects transfers, livelihoods, and shock response mechanisms into a coherent resilience-building logic. The framing is driven by drought and COVID-19 rather than conflict or fragility, meaning the ToC does not account for how FCV conditions might affect pathway assumptions — for instance, how conflict-driven displacement could disrupt targeting or how political instability could interrupt service delivery. The inclusion of 'other types of shocks' in the PDO provides an implicit but underdeveloped FCV hook."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "In lowland pastoral and semi-pastoral areas, the PW community planning process will cover an administrative area such as a kebele, or an area of clan or sub-clan/community rangeland.",
+      "rationale": "The design shows meaningful differentiation for lowland pastoral communities — adapting work norms, planning units, and subproject menus to their specific context — and explicitly targets the poorest 15 percent who have not benefited from growth. Gender-sensitive targeting (mother-and-child package, childcare exemptions, female-headed households) is systematically integrated. However, the targeting methodology does not explicitly account for conflict-affected or displaced populations, and there is no design provision for areas with active security constraints limiting PSNP reach."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The proposed project will be an Investment Project Financing with a Contingent Emergency Response Component and Early Response Financing mechanism to respond promptly and effectively to Eligible ERF Events.",
+      "rationale": "The CERC and Early Response Financing components provide an explicit and pre-resourced adaptive mechanism for responding to shocks — a notable strength that goes beyond standard IPF design. The project also employs Performance-Based Conditions and Annual Work Plan reviews as adaptive management tools. Operational flexibility for conflict-driven disruptions (access restrictions, security incidents, displacement flows) is not explicitly addressed, and the adaptive provisions are oriented to natural disaster and economic shocks rather than political violence."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO indicators: number of new woredas in PSNP systems; percentage of payments made according to timeliness standards; average months of food insecurity.",
+      "rationale": "The results framework includes a set of PDO indicators measuring geographic coverage expansion, payment timeliness, and household food security outcomes — relevant and measurable targets. Biannual impact evaluations and Joint Review and Implementation Support missions provide a structured adaptive management process. No FCV-specific indicators are present (e.g. no indicators tracking coverage of conflict-affected or displaced households, no measures of social cohesion or community trust), and the indicators do not distinguish performance across fragility-differentiated contexts such as highland versus lowland or conflict-affected versus stable woredas."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no Bank/IFC collaboration for this operation. The broader World Bank portfolio context is described (references to UPSNP, women's entrepreneurship, SME financing), indicating portfolio-level awareness of complementarity, but this is not structured One WBG engagement. IFC or MIGA instruments are not referenced in the design as complements to the safety net's livelihood or market-development components, representing a missed opportunity for private sector linkage in the livelihoods pathway."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "SEASN (PSNP5) demonstrates strong operational responsiveness to climate and economic shocks through its CERC mechanism and differentiated lowland design, but lacks an explicit FCV diagnostic and conflict-sensitive framing — a significant gap given Ethiopia's High SORT Political & Governance risk at appraisal. The results framework contains no FCV-adjusted indicators, and conflict-related disruptions to program delivery are not addressed in the risk or operational flexibility sections."
+}

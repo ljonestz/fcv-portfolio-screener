@@ -1,0 +1,94 @@
+{
+  "project_id": "P177233",
+  "project_name": "Response - Recovery - Resilience for Conflict-Affected Communities in Ethiopia Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 8.33,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD provides one of the most comprehensive FCV diagnostic sections in the Ethiopia portfolio, with a structured three-part conflict typology (regional, armed group vs. federal, inter-communal), ACLED-sourced conflict incidence data, detailed IDP statistics (4.23 million), and an explicit conflict-climate nexus analysis. Do no harm is operationalised through a security risk assessment and management plan, SEA/SH prevention plans, and explicit recognition that local government actors may exacerbate conflict. Stakeholder and political economy analysis is systematic, covering federal-regional dynamics, armed group actors, elite competition, IDP protection clusters, and GBV sub-cluster coordination."
+    },
+    "responsiveness": {
+      "numeric_score": 7.40,
+      "rating": "Substantially Addressed",
+      "rationale": "The project is explicitly structured around conflict response, with a PDO, component design, and targeting logic all anchored in conflict-affected communities and IDP status. Operational flexibility is institutionalised through a CERC, HEIS, adaptive budget allocation covenants, separate NGO implementing agencies for high-risk-of-ongoing-conflict areas, and a third-party monitoring arrangement. The results framework tracks disaggregated outcomes by displacement status and GBV survivor access, though some PDO indicators are service-count metrics rather than FCV-specific outcome measures. IFC/MIGA integration is absent, limiting the responsiveness composite."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Recent conflicts in Ethiopia can be differentiated into three types: (i) Regional conflicts... (ii) Conflicts between armed groups and the Federal Government... (iii) Local conflicts... layers of contributing factors and conflict fault lines overlap, creating a complex web of stakeholders.",
+      "rationale": "The PAD contains a detailed, multi-layered conflict analysis covering three typologically distinct conflict drivers, supported by ACLED data and SIPRI references. The document quantifies IDP populations (4.23 million), disaggregates causes of displacement (85% conflict, 7% drought), identifies regional variation in conflict intensity, and explicitly links the conflict-climate nexus as a threat multiplier. Economic impacts of conflict on GDP, inflation, and supply chains are also analysed."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "Local government entities, being part of the political (and thus conflict) system, may fail to address, and perhaps exacerbate, conflicts, warranting close monitoring systems of local level engagements.",
+      "rationale": "The PAD explicitly names the risk that project implementation through local government could exacerbate conflict, and establishes monitoring systems to mitigate this. Legal covenants require a Security Risk Assessment and Management Plan and an SEA/SH prevention and response action plan before disbursement. SORT rates political/governance and environmental/social risks as High, and the CERC provides a mechanism to respond to conflict-related emergencies."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "Issues of regional peace and security, conflict, and displacement usually fall first within the realm of regional security agencies... local authorities have played a critical role in responding... although their approach has seen criticism for privileging return and relocation without allowing IDPs to make adequate free and informed choices.",
+      "rationale": "The PAD maps federal, regional, and local government actors with their mandates, limitations, and political incentives, including critical assessment of their performance. GBV sub-cluster and protection cluster stakeholders are identified with lead UN agencies. The Woreda Needs, Conflict, Climate, and Capacity Assessments (WNCCA) tool embeds PEA into implementation. The analysis also covers non-state armed groups and their typological distinctions."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "The PDO is to (i) rebuild and improve access to basic services and climate-resilient community infrastructure and (ii) improve access to multi-sectoral response services for GBV survivors; in selected conflict-affected communities in Ethiopia.",
+      "rationale": "The PDO is entirely FCV-shaped, explicitly naming conflict-affected communities and GBV survivors as beneficiary groups. The theory of change links infrastructure recovery to IDP return conditions, GBV services to women's agency and resilience, and climate-resilient design to reducing future conflict risk over scarce resources. The project is explicitly aligned to WBG FCV Strategy Pillars 2 (remaining engaged during conflict) and 4 (mitigating FCV spillovers)."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "The Work Plan and Budget shall ensure equitable allocation of funds to all regional states participating in the Project based on identified conflict impacts, including damages to public infrastructure and services as well as the hosting of Internally Displaced People.",
+      "rationale": "Targeting is systematically structured around conflict impact: geographic selection covers five regions (Afar, Amhara, Benishangul-Gumuz, Oromia, Tigray) on the basis of IDP concentration and infrastructure damage. HROC vs. NROC area classification is operationalised in contracting, with separate implementing NGOs for high-risk areas. GBV component specifically targets survivors and includes Women and Girl Friendly Spaces, OSCs, and MHPSS services. PDO indicators are disaggregated by gender and displacement status."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Financing & Implementation Modalities: [✓] Contingent Emergency Response Component (CERC)... [✓] Hands-on Enhanced Implementation Support (HEIS)... [✓] Fragile State(s)... [✓] Conflict",
+      "rationale": "The project activates four conflict-adaptive implementation modalities: CERC for emergency reallocation, HEIS for intensive Bank supervision in high-risk environments, separate NGO contractors for HROC areas (reducing government capture risk), and a Security Risk Assessment and Management Plan. Budget allocation covenants require conflict-impact-based equity across regions, and Third-Party Monitoring is included for areas where direct supervision is constrained by access."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "Beneficiaries with rebuilt and improved access to climate-resilient community infrastructure (Number, disaggregated by gender and displacement status)... GBV survivors with access to multi-sectoral response services.",
+      "rationale": "The results framework explicitly tracks GBV survivor access, climate-resilient infrastructure, and disaggregates outcomes by displacement status and gender — all FCV-relevant dimensions. GEMS geo-monitoring provides spatial tracking of implementation in conflict-affected areas. However, some intermediate result indicators are standard service-delivery counts rather than FCV-specific outcome measures (e.g. conflict sensitivity of community relations or IDP return rates), which slightly limits the score."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly states no IFC collaboration. No mention of MIGA instruments is made anywhere in the document. Given the humanitarian and community infrastructure focus of the project, private sector engagement through IFC/MIGA would be structurally limited; nonetheless the absence is confirmed and explicit."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "P177233 is the most explicitly FCV-oriented project in the Ethiopia portfolio, purpose-built to respond to the Tigray/Amhara/Afar conflict crisis with comprehensive conflict diagnostics, IDP-targeted design, conflict-adaptive implementation mechanisms (CERC, HEIS, HROC differentiation), and a results framework tracking GBV survivor access and displacement status. The sole weakness is the complete absence of IFC/MIGA integration, which modestly constrains the responsiveness composite."
+}

@@ -1,0 +1,99 @@
+{
+  "project_id": "P176354",
+  "project_name": "ENHANCING SHARED PROSPERITY THROUGH EQUITABLE SERVICES (ESPES) Second Additional Financing",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2021,
+  "screener_note": "DOCUMENT MISMATCH: The extracted text (P176354.txt) contains the 2015 original ESPES PAD (P151432), not the 2021 Second Additional Financing. The data collection script assigned P151432's PDF URL to P176354 in screening_targets.json (doc_id: 24957514). Scores reflect the 2015 parent PAD. The 2021 Second AF would likely show higher FCV sensitivity given the Tigray conflict context.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.67,
+      "rating": "Partially Addressed",
+      "rationale": "The document acknowledges conflict-adjacent risks through the Inspection Panel case on Gambella (ethnic displacement linked to CDP overlap) and commits to operational interface screening. However, the FCV context analysis is reactive rather than proactive — there is no systematic conflict or fragility diagnostic, and the Gambella issue is framed as a reputational/safeguards problem rather than an FCV lens on the programme as a whole. Political economy analysis touches on decentralisation dynamics but does not examine power asymmetries or elite capture risks in service delivery at depth."
+    },
+    "responsiveness": {
+      "numeric_score": 3.20,
+      "rating": "Not Addressed",
+      "rationale": "The programme's PDO, theory of change, and DLI framework are standard service delivery and accountability objectives with no FCV-adaptive framing. Targeting of lagging woredas and bottom income quintiles has implicit equity benefits but is not designed around conflict sensitivity. There are no contingency mechanisms (CERC or equivalent), no FCV-specific results indicators, and no substantive IFC/MIGA engagement on FCV dimensions. The PforR instrument's rigidity (disbursement against fixed DLIs) limits operational flexibility in a fragile context."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The Panel expressed the view that given the geographical and sectoral overlap between the PBS and CDP, PBS 3 should have acted to mitigate adverse developments associated with the CDP, specifically those stemming from the relocation.",
+      "rationale": "The document references ethnic conflict and displacement risks in Gambella through the Inspection Panel case, which prompted the ESPES redesign. However, this is a reactive acknowledgement of a specific incident rather than a forward-looking conflict and fragility analysis. No systematic FCV diagnostic, fragility drivers, or displacement data are presented, and the document does not situate the programme within Ethiopia's broader fragility landscape across the Somali, Afar, or other conflict-affected regions."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The government has approved the environmental and social screening tool to manage potential risks associated with any operational interface between Bank-financed projects and the CDP.",
+      "rationale": "The Inspection Panel case explicitly raised a harm pathway (geographic overlap between ESPES block grants and the government's forced relocation programme in Gambella), and the document commits to an environmental and social screening tool and ESMS operational manual to mitigate this. This represents a named and partially mitigated harm pathway. However, the mitigation relies on woreda-level ESMS implementation whose capacity is acknowledged as weak, and no systematic conflict-risk screening beyond the CDP interface is described."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Social accountability, FTA, and GRM activities have opened up space for citizens' engagement at the local level... the citizenry at the center is a more concrete and practical approach.",
+      "rationale": "The document has a strong citizen engagement focus — social accountability, GRMs, FTA, and pre-budget discussions are DLIs — and explicitly targets women, the bottom 20%, and poorly performing woredas. However, deeper power and political economy analysis is absent: there is no examination of how local elites, ethnic majorities, or government cadres might capture block grants or exclude marginalised groups, beyond the Gambella incident. The 'developmental state' framing of government delivery is accepted largely uncritically."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of the proposed program is to improve equitable access to basic services and strengthen accountability systems at the decentralized level.",
+      "rationale": "The PDO is a standard service delivery and accountability objective with no FCV framing. The theory of change rests on the effectiveness of the IGFT mechanism and national accountability systems — assumptions that presuppose a stable state capable of transferring resources predictably, which is not examined under conflict or fragility scenarios. No FCV-specific objectives or conflict-sensitive theory of change is articulated."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The PforR beneficiaries are the whole population... particularly the bottom 20 percent of income groups and most poorly performing woredas... regions that were historically more underdeveloped are rapidly gaining ground.",
+      "rationale": "The programme targets lagging woredas and bottom income quintiles through the block grant equity formula, and explicitly notes that historically underdeveloped regions (Gambella, Benishangul-Gumuz) receive higher per-capita allocations. This has indirect FCV-targeting value. However, the design does not explicitly target conflict-affected or displaced populations, and there are no FCV-specific targeting mechanisms beyond geographic underdevelopment proxies."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The PforR will feed into the government's broader program for service delivery... using vast program systems that are already supporting service delivery.",
+      "rationale": "The PforR instrument disburses against fixed DLIs verified biannually, providing limited ability to redirect resources in response to conflict or fragility shocks. No contingency emergency response component, CERC trigger, or adaptive management protocol is described. The document notes that government can slow capital spending to maintain block grants, but this is a macro-fiscal buffer rather than an operational flexibility mechanism tailored to FCV disruptions."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO indicators: Improved geographic equity in NER outcomes; Improved geographic equity in Penta3 outcomes; Increased # of woredas screening projects for their environmental and social effects.",
+      "rationale": "The results framework includes equity indicators (geographic NER, Penta3 equity, women agricultural services) that are indirectly FCV-sensitive in targeting lagging and marginalised populations. The ESMC screening DLI monitors woreda-level environmental and social management. However, there are no FCV-specific indicators measuring conflict exposure, displacement-adjusted access, or adaptive management triggers linked to fragility conditions. Data quality assurance is a DLI, but verification assumes a functioning system."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The CPS supports... Pillar One (Fostering Competitiveness and Employment)... a particular area of focus for the IFC.",
+      "rationale": "IFC is mentioned only as part of the Country Partnership Strategy competitiveness pillar — there is no description of IFC or MIGA engagement on FCV dimensions in Ethiopia or any coordination with ESPES on private sector development in conflict-affected areas. WBG integration in this document is limited to the Bank's own portfolio linkages (PSNP, ULGDP, AGP) with no IFC/MIGA FCV role."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "red_flag_notes": {
+    "RF4": "The Gambella harm pathway (geographic/sectoral overlap with the CDP forced relocation programme) is explicitly named in the document (Inspection Panel case), and the mitigation (ESMS screening tool) relies on woreda-level capacity that is acknowledged as weak and still under development at appraisal — leaving residual implementation gap.",
+    "RF5": "No FCV-adjusted indicators in the results framework. All PDO indicators measure standard service delivery equity (NER, Penta3, agricultural services) without conflict-sensitivity adjustments, displacement-disaggregation, or fragility-linked adaptive triggers."
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The 2015 ESPES PAD (the document on record for this Second AF) reflects a programme designed before Ethiopia's major FCV deterioration — the Gambella/CDP interface is the primary conflict reference, treated as a safeguards issue rather than a systemic FCV lens. With sensitivity and responsiveness both below the thresholds, the programme falls in the Low FCV integration quadrant, though its equity targeting and social accountability DLIs provide partial foundations for FCV responsiveness."
+}

@@ -1,0 +1,94 @@
+{
+  "project_id": "P176731",
+  "project_name": "Power Sector Reform, Investment and Modernization in Ethiopia (PRIME-1)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2024,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.33,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD names Ethiopia's FCV context explicitly — the Tigray conflict, ongoing regional conflicts, conflict-induced humanitarian crisis, GBV escalation, and climate displacement are all acknowledged in the country context section. However, this awareness does not translate into project design: the FCV context is framed as macroeconomic background rather than a driver of design choices, and no systematic conflict analysis or harm pathway assessment is conducted. Some stakeholder attention is given to women in the energy workforce but displaced and conflict-affected populations are not analysed as distinct groups."
+    },
+    "responsiveness": {
+      "numeric_score": 3.40,
+      "rating": "Not Addressed",
+      "rationale": "The project PDO and Theory of Change are structured entirely around sector reform, grid modernisation, and private sector participation with no FCV-sensitive framing. No CERC is included. The results framework relies exclusively on standard energy infrastructure KPIs with no FCV-adjusted indicators. The MPA architecture provides some adaptive management capacity across phases, and lessons learned explicitly note the need for flexibility in a complex political environment, but these design principles are not operationalised into FCV-responsive mechanisms in Phase 1."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "While a peace agreement with Tigray was reached in 2022, the conflict-induced humanitarian crisis has not abated and internal conflicts within regions are still ongoing. Gender-based violence (GBV) has escalated due to the conflict.",
+      "rationale": "The PAD provides substantive acknowledgement of Ethiopia's FCV drivers — the Tigray conflict and post-peace humanitarian crisis, ongoing regional conflicts, climate-induced displacement, and GBV escalation are explicitly named. The SORT rates Political & Governance risk as High and E&S risk as High, reflecting awareness of the operating environment. However, the FCV diagnosis is not deepened into a conflict analysis that links specific dynamics to project risks or design choices, limiting the score to the mid-range."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "1. Political and Governance: High. 7. Environment and Social: High. [SORT risk table, PAD datasheet]",
+      "rationale": "The SORT flags High political/governance and E&S risks, and all eight ESS standards are triggered including community health/safety, land acquisition, and indigenous peoples. However, no conflict-specific harm pathway analysis is conducted: the project does not assess whether infrastructure siting in conflict-affected regions could benefit armed actors, displace communities, or create new grievances. The conflict context named in D1 is not carried through into a do-no-harm assessment."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Humanitarian assessments note the vulnerability of displaced women and children to food insecurity, loss of livelihood, increased care burden, and disruption in access to education and basic health.",
+      "rationale": "Annex 3 is dedicated to closing the gender gap in Ethiopia's energy sector, and the vulnerability of conflict-displaced women is acknowledged in the country context. ESS 10 on stakeholder engagement is triggered. However, no systematic political economy analysis is conducted: elite capture risks (e.g. in procurement or tariff reform) are not assessed, conflict-affected communities are not identified as a distinct stakeholder group, and the analysis does not examine how ongoing regional conflicts affect the political economy of sector reform."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "PDO: To strengthen and expand the electricity network and enable renewable energy generation in Ethiopia.",
+      "rationale": "The PDO is framed entirely in sector-reform and infrastructure terms with no FCV-sensitive language. The Theory of Change links grid investments and structural reforms to improved electricity access and private sector participation but does not address how conflict dynamics, displacement, or fragility affect the causal chain. A reference in lessons learned to the 'complex political and economic environment' is not reflected in the PDO or ToC."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Distribution rehabilitation across 72 towns... Local employment opportunities will emerge through construction and rehabilitation project activities.",
+      "rationale": "The project targets 72 towns for distribution rehabilitation but provides no conflict-sensitive targeting criteria: towns in conflict-affected regions (Tigray, Amhara, Afar) are not specifically identified or assigned differentiated risk management approaches. Displaced populations are not included as a target beneficiary group. The gender annex focuses on workforce inclusion in the energy sector rather than on targeting vulnerable or conflict-affected energy consumers."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Given the complex political and economic environment, it is important to ensure that the design of activities is simple with flexibility in implementation and in approach to monitoring and evaluation.",
+      "rationale": "The MPA structure provides genuine adaptive management capacity: later phases are explicitly designed to incorporate lessons from Phase 1 and adapt to changing circumstances, and PBCs are phased over six years to allow reform progress tracking. The lessons learned section explicitly flags the need for flexibility in a complex political environment. However, no CERC is included, there are no explicit contingency mechanisms for conflict-related disruptions, and the flexibility provisions are oriented toward reform sequencing rather than FCV risk management."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "PDO Indicators: Average frequency of interruptions per 100 km network; Network capacity (MW); Geothermal resource established (MW); Expected tCO2eq reduced per year.",
+      "rationale": "The results framework consists entirely of standard energy infrastructure KPIs — interruption frequency, network capacity, geothermal resource establishment, and emissions reduction. There are no FCV-sensitive or conflict-adjusted indicators, no indicators tracking outcomes for conflict-affected or displaced populations, and no adaptive management triggers linked to conflict or fragility dynamics. The absence of FCV indicators in a context where Political & Governance risk is rated High is a notable gap."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will closely coordinate with IFC and MIGA to identify joint approaches to unlock private capital in later phases of the MPA. IFC and MIGA will be invited to join the learning agenda.",
+      "rationale": "The PAD datasheet records 'Bank/IFC Collaboration: No' for Phase 1, indicating no operational IFC/MIGA integration in the current phase. However, paras 16 and 30–31 articulate a deliberate sequencing strategy: PRIME-1 lays the enabling framework conditions that IFC/MIGA will leverage in PRIME-3 for private renewable energy investment, and IFC/MIGA are invited into the learning agenda. This planned but not yet operational coordination warrants a partial score."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "PRIME-1 acknowledges Ethiopia's active conflict dynamics and high political/governance risks in its country context but fails to translate this awareness into FCV-responsive project design: the PDO, Theory of Change, targeting approach, and results framework are all standard infrastructure/sector-reform instruments with no conflict-sensitive features. Two red flags are triggered — the conflict context is named but no harm pathway mitigation is designed in, and the results framework contains no FCV-adjusted indicators — placing this project in the Low FCV Integration quadrant despite operating in one of Sub-Saharan Africa's most conflict-affected settings."
+}

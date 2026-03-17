@@ -1,0 +1,102 @@
+{
+  "project_id": "P159382",
+  "project_name": "Livestock and Fisheries Sector Development Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.67,
+      "rating": "Not Addressed",
+      "rationale": "The PAD briefly notes 2016 political unrest, a lifted state of emergency, and ethnic tensions on the Somali-Oromia border, but treats these as background rather than as inputs to a systematic fragility or conflict analysis. No FCV diagnostic framework is applied, and the links between Ethiopia's conflict drivers (resource competition, ethnic federalism, pastoral land tenure) and livestock sector dynamics are not explored. The SORT rates Political and Governance risk as High, but this finding is not translated into conflict-sensitive design choices."
+    },
+    "responsiveness": {
+      "numeric_score": 3.84,
+      "rating": "Not Addressed",
+      "rationale": "The project's theory of change is grounded in agricultural development logic and does not integrate FCV dynamics. The CERC sub-component provides emergency response flexibility, and IFC linkage is documented. However, the pastoral lowlands — Ethiopia's primary conflict-prone areas — are explicitly excluded from Component A without a conflict-sensitivity rationale. The results framework has no FCV-specific indicators, and implementation arrangements do not include conflict monitoring or adaptive management mechanisms linked to the security environment."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Political unrest in 2016 has largely settled but pockets of uncertainty remain. Strikes and signs of unrest erupted in some parts linked to ethnic tensions on the borders between Somali and Oromia regions.",
+      "rationale": "The PAD acknowledges political unrest and ethnic tensions in passing, but offers no structured FCV or conflict analysis. There is no fragility classification, no conflict driver mapping, and no assessment of how Ethiopia's structural drivers of fragility (ethnic federalism, land tenure, pastoralist-highland tensions, drought-conflict nexus) relate to the project's operational context. The SCD is referenced for economic growth logic, not fragility analysis."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Special attention will be given to include underserved peoples and vulnerable groups as potential beneficiaries as identified in the Social Assessment (Social Development Plan, see PAD Annex 7).",
+      "rationale": "The project triggers multiple safeguard policies including OP 4.10 (Indigenous Peoples) and OP 4.12 (Involuntary Resettlement), and prepares a Social Development Plan — indicating awareness of exclusion risks. However, no explicit analysis is conducted of how livestock value chain investments in communal grazing areas, or the exclusion of pastoral lowlands from Component A, could exacerbate inter-ethnic resource competition. The CERC component signals crisis awareness but does not substitute for a conflict risk assessment."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will support inclusive targeting of those groups for them to access productive assets. Consensus building to ensure that new policies reflect the views and needs of women, youth, smallholder farmers and larger participants.",
+      "rationale": "The PAD acknowledges the political economy of the newly established MoLF and the need for institutional capacity building. Policy dialogue and stakeholder consultation processes are planned for Sub-component B.2. However, a political economy analysis of power dynamics within the livestock value chain — including how cooperative structures could be captured by local elites or how ethnic identity intersects with market access — is absent. The treatment of pastoralist communities as a distinct stakeholder group with specific conflict-related concerns is not undertaken."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Increase productivity and commercialization of producers and processors in selected value chains, strengthen service delivery systems in the livestock and fisheries sectors, and respond promptly and effectively to an eligible crisis or emergency.",
+      "rationale": "The PDO includes an explicit crisis response element through the CERC sub-component, which represents a meaningful concession to Ethiopia's emergency-prone context. The transformation pathway is coherent for development purposes. However, the theory of change does not account for how FCV dynamics (conflict, political instability, displacement) might affect the causal pathway from inputs to outcomes, nor does it articulate how the project would adapt if the security environment deteriorated."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The arid and semi-arid lowland regions, where pastoralism dominates, are already supported by ongoing IDA-funded projects and therefore are not being considered here under component A.",
+      "rationale": "The project targets smallholders, women-headed households, and unemployed youth, which reflects a poverty focus relevant to vulnerability. The geographic footprint includes Gambella and Benishangul-Gumuz — both conflict-affected regions — but their inclusion appears to follow agro-ecological suitability criteria rather than an FCV-informed targeting rationale. The deliberate exclusion of the pastoral lowlands from Component A, while administratively logical, is not analysed for its potential do-no-harm implications given the pastoralist-highland tensions in Ethiopia."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Sub-component B.5. Contingent Emergency Response aims to support immediate and rapid response to an Eligible Crisis or Emergency, as needed.",
+      "rationale": "The CERC sub-component (B.5) provides a formal mechanism for rapid reallocation of funds in response to a crisis, which is a genuine flexibility provision appropriate for Ethiopia's context. Multi-level PCUs down to Woreda level provide decentralised implementation capacity. However, there are no contingency plans specific to security deterioration, no provisions for staff safety or remote monitoring in conflict-affected areas, and no guidance on how implementation sequencing would adapt if violence escalated in project areas."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Time lapse between early warning information and disbursement toward response, in case of crisis or emergency (in weeks).",
+      "rationale": "The results framework includes five PDO-level indicators: productivity change, sales increase, service delivery improvements, training application, and CERC response time. Gender indicators are included. However, there are no FCV-adjusted indicators — no measures of conflict sensitivity, social cohesion, community trust in institutions, or context change relevant to the fragility dynamics identified in the country context. The CERC response-time indicator addresses emergency speed but not the broader adaptive management of FCV risks."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: Yes — Complementary or Interdependent project requiring active coordination. IFC non-lending advisory services (Livestock Micro-Reform for Agribusiness — L-MIRA) support regulatory reform and capacity building.",
+      "rationale": "The PAD documents an active IFC linkage through the L-MIRA project, which provides regulatory reform and capacity building to Ethiopia's veterinary drugs and feed control authority. This is described as a complementary and interdependent relationship requiring active coordination. The WBG integration is genuine and relevant to private sector development in the livestock sector, though it does not extend to FCV-specific private sector engagement or conflict-sensitive investment screening."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This livestock and fisheries development project operates across conflict-affected regions of Ethiopia with a High SORT political risk rating, yet applies no systematic FCV analysis to its design — pastoral exclusion from Component A is not conflict-sensitivity assessed, the results framework contains no FCV-adjusted indicators, and the theory of change does not account for how fragility dynamics could undermine the agricultural transformation pathway."
+}

@@ -1,0 +1,94 @@
+{
+  "project_id": "P178821",
+  "project_name": "Third Additional Financing for the Ethiopia COVID-19 Emergency Response Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.33,
+      "rating": "Partially Addressed",
+      "rationale": "The document acknowledges Ethiopia's fragility-adjacent context — proximity to fragile states, hosting 1.5 million refugees, and high political and governance risk (SORT: High) — but these are framed primarily as epidemiological transmission risks rather than as drivers of vulnerability requiring FCV-specific analytical treatment. Conflict dynamics, displacement-related health gaps, and structural fragility are not examined. The do-no-harm dimension is addressed only through generic ESF/ESMF provisions for lab biosafety and waste management, with no analysis of how emergency procurement or facility rehabilitation might interact with local conflict or exclusion dynamics."
+    },
+    "responsiveness": {
+      "numeric_score": 4.30,
+      "rating": "Partially Addressed",
+      "rationale": "The project's PDO and components are technically sound COVID-19 emergency response design but are not adapted to Ethiopia's FCV context. Targeting logic does not prioritise conflict-affected or refugee-hosting regions, though border-adjacent investment is mentioned. There is no FCV-adjusted theory of change. Flexibility provisions (CERC not triggered, budget adjustability) are generic emergency design features rather than FCV-responsive adaptations. The results framework uses standard pandemic preparedness indicators with no FCV-adjusted metrics. IFC/MIGA engagement is explicitly absent (Bank/IFC Collaboration: No)."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia currently shelters about 1.5 million registered refugees from neighboring fragile states... All of Ethiopia's neighboring fragile states are highly susceptible to outbreaks at subnational levels.",
+      "rationale": "The PAD identifies Ethiopia's proximity to fragile states and refugee population as epidemiological risk factors, and the SORT assigns High ratings to Political and Governance and Fiduciary risks. However, there is no systematic FCV diagnostic: no analysis of how conflict, displacement, or state fragility shape health system capacity, community trust, or service access. The fragility context is instrumentalised to justify regional disease preparedness investment rather than to inform project design."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The key risk related to the operation are public and occupational health risks deriving from engagement with people and samples contaminated with COVID19.",
+      "rationale": "Do-no-harm analysis is confined to biohazard and occupational health risks (ESF, ESMF, lab biosafety). No assessment is made of whether emergency procurement, facility rehabilitation, or quarantine centre establishment could interact with existing conflict dynamics, exclude marginalised groups, or create security risks for health workers in conflict-affected zones. The document does not flag conflict or fragility as a risk pathway for project activities."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The SEP outlines a structured approach to engagement with stakeholders... considering the specific challenges associated with COVID-19... addressing cultural sensitivities, as well as challenges deriving from illiteracy or disabilities.",
+      "rationale": "A Stakeholder Engagement Plan (SEP) was prepared and disclosed, with provisions for multilingual communication, disability inclusion, and cultural sensitivity. The RCCE component (US$8.5m) includes behavioural and sociocultural risk factor assessments. However, engagement is framed around COVID-19 communication rather than navigating contested political economy or conflict-sensitive stakeholder dynamics specific to Ethiopia's fragility context."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The objective of the project is to prevent, detect and respond to the threat posed by COVID-19 and strengthen national systems for public health preparedness in Ethiopia.",
+      "rationale": "The PDO is clear and aligned to the global SPRP results chain. The theory of change follows standard pandemic preparedness logic (prevent-detect-respond) without FCV adaptation. There is no articulation of how conflict-driven health system weakness, displacement, or fragility-specific barriers (e.g. community distrust of government health services) affect the results chain. The MPA framework provides some adaptive capacity at the programme level but not at the individual project level."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "A significant level of the proposed project investment will occur adjacent to the borders with these fragile states.",
+      "rationale": "Border-adjacent targeting is mentioned but not operationalised into explicit geographic or population prioritisation criteria. The 1.5 million refugees are noted as a vulnerability factor but are not named as a priority beneficiary group. Emergency procurement flexibilities (direct contracting, shortened timelines) are standard COVID fast-track design, not tailored to FCV operational constraints such as insecurity or limited government reach in conflict-affected regions."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The specific budgets for each activity are indicative at the time of appraisal and can be adjusted during implementation... to allow for agility and flexibility in responding to evolving country needs.",
+      "rationale": "The project includes budget adjustability and emergency procurement flexibilities as part of its fast-track COVID design. However, CERC is not triggered (checkbox unchecked in the datasheet), and there is no contingency planning for insecurity-driven implementation interruptions. The High FM risk rating acknowledges institutional weaknesses but does not develop FCV-specific implementation modalities such as remote oversight, third-party monitoring, or community-driven delivery in hard-to-reach areas."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The proposed PDO level indicators are: Achieving the required timeliness of reporting for COVID-19... Responding within 24 hours to confirmed outbreaks... Percentage of health facilities with trained staff in infection prevention control.",
+      "rationale": "The results framework uses standard pandemic preparedness indicators aligned to the global SPRP. None of the PDO indicators are disaggregated by geography, displacement status, or conflict-affected population. There are no FCV-adjusted process indicators (e.g. coverage in refugee-hosting regions, health worker security incidents) or adaptive management triggers linked to conflict deterioration. The learning agenda mentions behavioural assessments but not FCV-related learning questions."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no Bank/IFC collaboration. The document makes no reference to private sector health system engagement, IFC health investment leverage, or MIGA political risk instruments. For an emergency health operation in a context with significant private sector health provision and FCV-adjacent private sector risk, the absence of WBG integration is a missed opportunity but is consistent with the fast-track emergency nature of the operation."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The project provides technically competent COVID-19 emergency health response but applies minimal FCV analysis despite Ethiopia's proximity to fragile states and its role as host to 1.5 million refugees; the 1.5 million refugees are noted as a transmission risk factor but are not designated as priority beneficiaries, the results framework lacks FCV-adjusted indicators, and conflict-sensitive targeting of border-adjacent or displacement-affected populations is not operationalised."
+}

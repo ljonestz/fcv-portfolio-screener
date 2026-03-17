@@ -1,0 +1,94 @@
+{
+  "project_id": "P181545",
+  "project_name": "Additional Financing for the Second Urban Water Supply and Sanitation Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2024,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.33,
+      "rating": "Not Addressed",
+      "rationale": "The document acknowledges Ethiopia's historical experience with conflict and drought and rates political/governance risk as High due to the state of emergency and political unrest, but this acknowledgement does not translate into substantive FCV diagnostics. No conflict analysis framework is applied, and the country context section is structured around economic growth and urbanization trends rather than fragility or conflict drivers. Stakeholder fragmentation is documented but without a political economy or power-dynamics lens."
+    },
+    "responsiveness": {
+      "numeric_score": 3.20,
+      "rating": "Not Addressed",
+      "rationale": "The project development objective is framed purely around service access and operational efficiency, with no FCV-responsive design elements. While the project includes some pro-poor targeting (LIAs, women and youth-led CBOs) and a phased stepped approach, these are driven by urbanisation and poverty rationale rather than conflict or fragility considerations. The results framework tracks standard WASH metrics without any FCV-adjusted or adaptive management indicators, and IFC/MIGA engagement is explicitly absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Political and governance risks are rated high because of the recently declared state of emergency and political unrest. The political situation appears to be improving, which may result in lifting the state of emergency.",
+      "rationale": "The document mentions Ethiopia's historical volatility from drought and conflict (para 1) and flags political unrest in the risk section (para 59), but these references are brief and not developed into a systematic FCV context analysis. There is no application of a fragility or conflict diagnostic framework, no discussion of how conflict dynamics affect service delivery, and no mapping of fragility drivers such as ethnic tensions, regional inequalities, or displacement. The Somali and Afar regional cities included in the project receive no differentiated contextual treatment."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Political and governance risks are rated high because of the recently declared state of emergency and political unrest... a resurgence of the unrest would impede implementation progress.",
+      "rationale": "The PAD triggers Involuntary Resettlement (OP/BP 4.12) and Environmental Assessment (OP/BP 4.01) safeguards, and acknowledges political risk from unrest. However, there is no explicit do-no-harm analysis examining how infrastructure siting, beneficiary targeting, or procurement decisions could exacerbate tensions. The 'Not In My Backyard' syndrome is noted as a stakeholder risk (para 63) but is not analysed through a conflict lens; mitigation is limited to community dialogue and communication strategies."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The involvement of various ministries and bureaus in the planning, implementation, management and regulation of urban water and sanitation, and the lack of adequate coordination among these stakeholders may pose substantial risk.",
+      "rationale": "The document provides relatively detailed mapping of institutional actors across federal, regional, and city levels (paras 19-24, 47-48, 63), and identifies inter-ministerial fragmentation and accountability gaps as substantive risks. There is attention to women and youth as targeted beneficiaries (paras 29, 46) and mention of CBOs in service delivery. However, the analysis does not extend to political economy dynamics such as elite interests in contracting, exclusion of minority or conflict-affected communities, or how decentralisation interacts with inter-ethnic or regional tensions."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of the project is to increase access to enhanced water supply and sanitation services in an operationally efficient manner in Addis Ababa and selected secondary cities.",
+      "rationale": "The PDO is a standard service delivery objective with no FCV framing. The theory of change links infrastructure investment to improved utility operations and health outcomes without acknowledging that in the Ethiopian context — with ethnic federalism tensions and a recent state of emergency — access to basic services has conflict prevention and social cohesion dimensions. No FCV-adjusted pathways, no fragility-sensitive assumptions, and no acknowledgement that conflict risk could undermine the development hypothesis."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "To ensure that the project benefits the most disadvantaged, an appropriate targeting approach has been established. It will include: (a) creating opportunities for groups of women and unemployed youth... (d) investing in affordable and safely positioned public pay-and-use toilets in LIAs, to be managed by women and youth-led CBOs.",
+      "rationale": "The project includes explicit targeting of low-income areas (LIAs), women, and youth in operational roles, and a stepped eligibility approach for secondary cities that incorporates equity considerations. Several secondary cities covered (Jijiga, Degeh Bur in Somali region; Semera in Afar) are in conflict-affected or volatile areas, but no differentiated design provisions are made for these contexts. The targeting logic is driven by urbanisation and poverty rather than conflict vulnerability, and there is no design adaptation for areas of active instability."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will introduce DBO contracts to engage experienced operators, thus minimizing the interface risk between the design, construction and operation stages... The stepped approach is appropriate to ensure sustainable service delivery.",
+      "rationale": "The phased stepped approach with eligibility criteria for secondary cities provides some programmatic flexibility, and DBO contracts introduce private operator capacity to adapt technically. The MTR is explicitly designed to assess project performance and trigger design adjustments (para 53). However, there are no contingency protocols specifically linked to conflict or political instability scenarios, and the implementation manual (PIM) is a standard fiduciary document without FCV-specific provisions."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The following indicators will be used to measure progress toward achieving the PDO: (1) People in urban areas whose excreta is safely managed... (2) People in urban areas with access to improved water sources... (3) Operation cost-coverage ratio... (4) Savings from NRW interventions.",
+      "rationale": "All PDO indicators are standard WASH access and operational efficiency metrics. There are no FCV-specific indicators, no conflict-sensitivity tracking, no indicators for social cohesion or inclusion of conflict-affected or displaced populations, and no adaptive management triggers linked to the political risk environment. Job creation for women and youth is to be documented in implementation reports but is not elevated to a PDO indicator, and there is no indicator for community trust or grievance resolution."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No",
+      "rationale": "The PAD data sheet explicitly records no joint IFC engagement. No MIGA involvement is mentioned anywhere in the document. While the project does promote private sector participation through DBO contracts and performance-based management (paras 23, 45), this is framed as an operational efficiency mechanism rather than a coordinated WBG private sector development strategy. There is no reference to IFC advisory services, MIGA guarantees, or broader WBG coordination for private sector development in a fragile context."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This infrastructure PAD treats Ethiopia's political unrest and state of emergency as an implementation risk rather than a substantive analytical context, with no FCV diagnostics, no conflict-sensitive design adaptations for volatile secondary cities in the Somali and Afar regions, and a results framework entirely devoid of FCV-relevant indicators. The project's pro-poor targeting and phased approach offer a partial foundation for sensitivity, but without deliberate FCV integration across the design and results architecture, the portfolio contribution to conflict prevention and social cohesion remains unaddressed."
+}

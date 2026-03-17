@@ -1,0 +1,94 @@
+{
+  "project_id": "P181591",
+  "project_name": "Ethiopia First Sustainable and Inclusive Growth Development Policy Operation",
+  "doc_type": "Program Document",
+  "instrument_category": "DPF",
+  "approval_year": 2024,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 6.00,
+      "rating": "Partially Addressed",
+      "rationale": "The document provides substantive FCV-contextual grounding: the Tigray conflict's displacement of 20M+ people, ~$20B reconstruction cost, and compound shocks (conflict, drought, COVID) driving poverty from 27% to 34.6% are all documented. The DPO explicitly references the WBG FCV Strategy and frames tax/safety-net reforms as aiding Ethiopia's 'transition out of fragility.' However, FCV analysis is largely confined to macro-level shock description — there is no regional disaggregation, no analysis of ongoing Amhara/Oromia conflicts in 2024, and no systematic conflict-sensitivity review of individual prior actions."
+    },
+    "responsiveness": {
+      "numeric_score": 4.20,
+      "rating": "Partially Addressed",
+      "rationale": "Pillar 3 embeds social resilience through safety net expansion, land tenure reform, and ESIA regulation, and the FCV Strategy is cited to justify domestic resource mobilisation and delivery system reforms. However, the core PDO is macroeconomic stabilisation; FCV responsiveness is secondary framing rather than design architecture. The results matrix has no FCV-specific indicators, no conflict-adjusted triggers, and no explicit provisions for adapting implementation to conflict dynamics — limiting the depth of operational FCV integration."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The Tigray conflict displaced over 20 million people and destroyed essential infrastructure and health services, and reconstruction cost estimates are US$20 billion... poverty rate is estimated to have risen to 34.6 percent in 2023.",
+      "rationale": "The document situates the DPO within Ethiopia's compounding FCV shocks — Tigray conflict, persistent drought, COVID — and explicitly links conflict and climate change as amplifiers of macroeconomic fragility (para. 5). The FCV Strategy is cited in para. 36 as a reference framework. The context is analytically grounded, citing poverty data and fiscal compression as conflict-linked outcomes. The analysis stops short of a comprehensive FCV diagnostic: no subnational conflict mapping, no treatment of the Amhara/Oromia active conflict context in 2024, and no conflict-economy linkage analysis."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Two of the three new private-sector licensees are companies owned by regional government endowment funds... the initial phase of such reforms is unpredictable and can generate further budgetary and external financing needs.",
+      "rationale": "The document acknowledges that macroeconomic adjustment (FX liberalisation, energy tariff reform) will spike inflation to 35-40% and erode household purchasing power, and it proposes mitigation through safety net expansion and food-staple VAT exemptions. However, there is no dedicated do-no-harm assessment of individual prior actions against Ethiopia's active conflict dynamics, no analysis of how banking or trade reforms may differentially disadvantage conflict-affected populations, and the endowment-fund capture of logistics licences is noted without design-level remediation."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The reforms being pursued by the government... challenge longstanding policies that carry an inherent risk of opposition from vested interests... Two of the three new private-sector licensees are companies owned by regional government endowment funds.",
+      "rationale": "The document identifies vested interests (SOEs, endowment funds, politically connected entities) as reform opponents and presents creditor/OCC dynamics in detail. The PSIA section analyses distributional impacts across income deciles. However, no systematic analysis is provided of how political economy dynamics intersect with ethnic or regional conflict lines, and conflict-affected population groups are not identified as a distinct stakeholder category in reform consultations."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Tax reforms, e-procurement and e-payment of rural safety net benefits respond to the World Bank Group's FCV Strategy recommendations to prioritize domestic resource mobilization and delivery systems to finance core state functions, build trust and aid the transition out of fragility.",
+      "rationale": "The PDO includes 'social resilience' as a stated objective, and the document explicitly invokes the WBG FCV Strategy to frame Pillars 2 and 3. Reforms supporting state legitimacy (revenue mobilisation, e-procurement transparency, safety nets) are connected to fragility transition logic. However, macroeconomic stabilisation remains the dominant theory of change; FCV considerations are supplementary framing rather than a shaping logic for the reform matrix as a whole."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Pillar 3 actions would cushion the poor from the impact of macroeconomic reforms by expanding and improving social safety nets, enhancing land tenure and forest management, and incorporating climate considerations in public investment.",
+      "rationale": "Pillar 3 prior actions (PA8–PA10) address social protection, land tenure, and environmental governance — all of which have indirect FCV relevance in Ethiopia's context. The cereal export liberalisation (PA3) could benefit smallholders in conflict-affected lowland areas. However, no prior actions are explicitly targeted to conflict-affected regions or populations, and the safety net expansion is framed as a poverty/adjustment buffer rather than an FCV-sensitive delivery mechanism."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "There is a high risk that the Program Development Objectives will not be fully achieved... The programmatic nature of the DPO provides an opportunity for the World Bank to adapt to uncertainties.",
+      "rationale": "The programmatic two-operation series provides structural flexibility to adapt the second DPO to evolving conditions, and a high overall risk rating is acknowledged with mitigation through frontloaded reforms. However, there are no FCV-specific triggers, no explicit provisions for adapting the reform matrix if active conflict (Amhara/Oromia) escalates, and no contingent financing mechanisms. The flexibility is generic to the DPF instrument rather than specifically designed for an FCV context."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "RI10: Government contribution to the financing of rural and urban safety nets, % of GDP... RI11: Share of female beneficiaries benefitting from livelihoods and jobs components of the urban and rural safety net programs.",
+      "rationale": "The 14 result indicators include social protection metrics (RI10, RI11) and land registration (RI13) that have indirect FCV relevance. RI11's gender targeting is positive. However, no indicator measures conflict sensitivity, access in conflict-affected regions, FCV-related vulnerability, or trust-building outcomes. The results matrix is a standard macroeconomic and governance scorecard with no FCV-adjusted metrics."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The operation complements macroeconomic and exchange rate reforms supported under the IMF ECF and parallel World Bank-financed operations to support capacity building and reform implementation.",
+      "rationale": "No IFC or MIGA engagement is mentioned in the document. The banking sector liberalisation prior actions (opening to foreign investment) could theoretically create conditions for IFC private sector engagement, and the operation is flagged as MFD-enabling, but there are no concrete IFC/MIGA co-investments or complementary activities described. This is expected for a DPF instrument."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "The DPO demonstrates solid FCV contextualisation — linking Tigray conflict, drought, and fiscal crisis — and explicitly invokes the WBG FCV Strategy to anchor Pillar 3 social resilience reforms. However, FCV considerations do not penetrate the design architecture: prior actions are not targeted to conflict-affected areas, the results matrix has no FCV indicators, and there are no conflict-specific implementation flexibility provisions, leaving a meaningful gap between FCV-aware framing and operationally responsive design."
+}

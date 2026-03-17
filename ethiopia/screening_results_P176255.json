@@ -1,0 +1,108 @@
+{
+  "project_id": "P176255",
+  "project_name": "ADDITIONAL FINANCING - TRADE LOGISTICS PROJECT",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2023,
+  "screener_note": "Extracted text contains the original 2017 PAD (P156590, PAD2035) rather than an AF-specific document. Screening reflects the foundational design logic extended by the 2023 AF.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.3,
+      "rating": "Not Addressed",
+      "rationale": "The document provides an extensive economic and logistics sector context but does not engage with Ethiopia's FCV dynamics. Conflict and drought are mentioned in passing as past growth inhibitors but there is no structured fragility or conflict analysis. The SORT rates Political & Governance and Stakeholder risks as Substantial/High respectively, yet no narrative elaborates on conflict drivers, displacement, or how Ethiopia's fragility shapes logistics sector vulnerabilities. Do-no-harm analysis is absent beyond standard safeguards."
+    },
+    "responsiveness": {
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "rationale": "The PDO and all four PDO-level indicators are purely logistics performance metrics with no FCV adaptation. Beneficiary targeting does not reference conflict-affected or displacement-affected populations. Implementation arrangements show no contingency provisions for conflict disruption. The results framework contains no FCV-adjusted indicators. IFC/MIGA integration is explicitly marked as absent. The project design is conventional infrastructure/competitiveness intervention with no FCV-responsive features."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia has experienced rapid and stable economic growth over the past decade... the country avoided the volatility brought by spells of drought and conflict, which plagued growth in the past.",
+      "rationale": "The country context section focuses entirely on economic growth, poverty reduction, and trade corridor performance. Fragility, conflict, and violence are referenced only as historical impediments to growth, with no forward-looking FCV analysis. Ethiopia's position as an FCS-listed country with active conflict dynamics (Tigray, Oromia) is not acknowledged. No fragility or conflict diagnostics are drawn upon."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Safeguard Policies Triggered: Environmental Assessment OP/BP 4.01 [X]; Involuntary Resettlement OP/BP 4.12 [X].",
+      "rationale": "Safeguard instruments (RPF, Livelihood Restoration Plan) address physical displacement but there is no conflict-sensitivity analysis. The project does not assess whether corridor infrastructure investments could be captured by elite actors, militarized, or used to entrench ESLSE's state monopoly in ways that exacerbate political economy tensions. The ESLSE monopoly and regulatory barriers are noted as problems but not framed through a do-no-harm lens."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "composite": "Sensitivity",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Logistics services in Ethiopia are dominated by ESLSE, a government-owned enterprise... Current government policy means that ESLSE is the only provider of multimodal services.",
+      "rationale": "The document contains a substantive political economy analysis of the logistics sector (Box 3), identifying the ESLSE monopoly, regulatory barriers, and competition restrictions as key structural problems. However, this analysis is framed in terms of market efficiency rather than conflict risk or elite capture. Conflict-affected communities, displaced populations, and ethnically marginalised groups are entirely absent from the stakeholder mapping."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of this project is to enhance the performance of the Ethio-Djibouti corridor through improvements in operational capacity, efficiency, and range of logistics services at the Modjo Dry Port.",
+      "rationale": "The PDO is narrowly framed around logistics performance at a single facility. There is no FCV dimension to the theory of change. The causal chain runs from infrastructure investment to trade costs to economic growth with no acknowledgement of how conflict, displacement, or fragility mediate these pathways. No FCV-adapted objectives are present."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Project beneficiaries will primarily be private sector exporters, importers, manufacturers and farmers, those working for companies producing goods for export, government agencies involved in exporting and importing, and consumers.",
+      "rationale": "Beneficiary targeting is broad and economy-wide, with no differentiation for conflict-affected, displaced, or marginalized populations. The industrial park focus and ESLSE monopoly context create conditions for elite capture that are not mitigated in design. Small and medium enterprises are mentioned but with no attention to whether conflict-affected areas or communities are systematically excluded from logistics services."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The Recipient shall establish a Project Implementation Unit (PIU) within EMAA, responsible for day-to-day implementation of the project.",
+      "rationale": "Implementation arrangements are standard PIU-within-government-agency structures with no conflict-adaptive features. There are no contingency protocols for conflict-related disruptions to the Ethio-Djibouti corridor, no alternative implementation pathways, and no provisions for operating in conflict-affected areas. The GRM is mentioned but not designed with conflict-sensitivity."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "PDO level indicators: (a) Throughput of the Modjo Dry Port (total tons per year); (b) Container dwell time in Modjo Dry Port (days); (c) Moves within Modjo facility (number per hour); (d) Containers returning to Djibouti stuffed with exports (number per year).",
+      "rationale": "All four PDO-level indicators are purely logistics performance metrics. There are no FCV-adjusted indicators, no equity or inclusion indicators, and no measures of conflict sensitivity or adaptive management triggers. The results framework does not allow for tracking how conflict conditions may affect project outcomes or who benefits from improved logistics performance."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No.",
+      "rationale": "IFC/MIGA involvement is explicitly absent. The document references private sector participation as a goal (transforming Modjo into a multi-user facility with private logistics providers) but there is no IFC engagement to support this transition. Given the scale of private sector development ambitions, the absence of IFC engagement represents a missed opportunity for integrated WBG support."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "red_flag_notes": {
+    "RF2": "ESLSE state monopoly over multimodal logistics and regulatory barriers that restrict competition to Ethiopian nationals create structural conditions for elite capture of project benefits; the document acknowledges this political economy problem but does not mitigate it in project design.",
+    "RF3": "Beneficiary targeting is economy-wide and industrial-park-focused; conflict-affected communities, internally displaced persons, and ethnically marginalised populations in Ethiopia's fragile regions are structurally excluded from project design and results tracking.",
+    "RF5": "All PDO-level indicators are pure logistics performance metrics with no FCV-adjusted or equity indicators."
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This trade logistics project is a conventional infrastructure and competitiveness intervention with no FCV integration: Ethiopia's fragility context is not analysed, the theory of change ignores conflict dynamics, and all results indicators are logistics performance metrics. The ESLSE monopoly and industrial-park focus create unmitigated elite capture and exclusion risks in an FCS-listed country."
+}

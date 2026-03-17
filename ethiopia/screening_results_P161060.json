@@ -1,0 +1,103 @@
+{
+  "project_id": "P161060",
+  "project_name": "General Education Quality Improvement Program Phase 2 - GPE 2 Grant",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2017,
+  "note": "Extracted text appears to be GEQIP Phase 1 PAD (P106855, Nov 2008) rather than the Phase 2 GPE 2 document. Screening reflects content of extracted text as provided.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.33,
+      "rating": "Not Addressed",
+      "rationale": "The document provides basic country context (poverty, decentralization post-Derg, pastoralist regions) but does not analyse Ethiopia's conflict or fragility dynamics. No conflict diagnostics, no reference to ethnic tensions, regional insurgencies, or FCV drivers. The treatment of Somali and Afar regions as underserved areas is framed solely as an equity-access issue, not a fragility or conflict concern."
+    },
+    "responsiveness": {
+      "numeric_score": 2.10,
+      "rating": "Not Addressed",
+      "rationale": "The program's theory of change and design are conventional education sector interventions with no FCV-adaptive logic. Targeting of vulnerable groups (pastoralists, girls, children with disabilities) provides partial responsiveness, but implementation arrangements, results frameworks, and the overall PDO contain no conflict-sensitive provisions. IFC/MIGA integration is absent. RF5 deduction applied for results framework lacking any FCV-adjusted indicators."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Access to education opportunities continues to be an obstacle, especially for females and other 'most vulnerable children', poor students and pastoral areas (e.g., Somali and Afar).",
+      "rationale": "The document provides a poverty and development context but does not engage with Ethiopia's conflict or fragility landscape. Disadvantaged regions (Somali, Afar) are identified as access gaps, not as conflict-affected or fragile areas. No analysis of how FCV dynamics drive education deprivation."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Does the project include any critical risks rated 'substantial' or 'high'? [X] Yes.",
+      "rationale": "The risk table references substantial/high risks but these relate to institutional capacity, fiduciary performance, and government ownership — not conflict or fragility risks. There is no do-no-harm analysis, no conflict-risk screening, and no mitigation of potential harm from uneven regional resource flows in a multi-ethnic context."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The possibility that GEQIP funding (as part of PBS) may be cut or suspended in the event of any 'political' issues between the donor community and the Government.",
+      "rationale": "Political economy is partially acknowledged — donor-government political dynamics, government ownership, and institutional performance incentives are discussed. However, analysis does not extend to intra-Ethiopian political economy, ethnic federalism tensions, or elite capture risks within specific conflict-affected regions."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The development objectives of Phase 1 of the GEQIP are to: (i) improve teaching and learning conditions in primary and secondary education; and (ii) improve management planning and budget capacity of the MOE and Regional Bureaus.",
+      "rationale": "The PDO and theory of change are standard education quality improvement objectives with no FCV adjustment. There is no acknowledgement that conflict or fragility conditions require differentiated approaches in emerging or conflict-affected regions. The program logic does not account for how FCV dynamics may undermine educational outcomes."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The most vulnerable children in Ethiopia are 'rural & pastoralist children, orphans, children in remote locations, street children and drop outs', as well as those with disabilities.",
+      "rationale": "The project explicitly targets the most marginalised populations including pastoralists (Somali, Afar), girls, and children with disabilities. Alternative Basic Education (ABE) for out-of-school children and gender budgeting are designed in. However, targeting rationale is equity-driven rather than FCV-adaptive — there is no differentiation for conflict-affected zones or adjustment for insecurity-driven exclusion."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "A flexible approach in design so that resources are provided to MOE and implementing units at the national level and regions based on their work plans; base costs under the components are indicative only.",
+      "rationale": "The APL instrument and annual work plan approach provide general operational flexibility. Budget allocations are indicative and adjustable. However, there is no conflict-contingency mechanism, no provision for accelerated implementation in stable areas while pausing in insecure ones, and no regional differentiation for fragile or conflict-affected contexts."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "A gender and equity needs assessment that covers all of the GEQIP components during Year 1 will be developed and implemented.",
+      "rationale": "The results framework includes learning assessments, EMIS data, school grants utilization surveys, and gender/equity needs assessments. These provide a solid monitoring base for an education project. However, no FCV-adjusted indicators are included — there are no indicators tracking conflict-related disruptions, displacement effects on enrollment, or security-conditional implementation progress."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "The proposed support from IDA will be provided within the framework and principles of a thematic Sector Wide-Approach (SWAp) through a pooled funding mechanism.",
+      "rationale": "No IFC or MIGA involvement is mentioned or referenced. The program is a pooled IDA/bilateral DP operation. There is no private sector engagement strategy and no attempt to leverage IFC instruments for education service delivery in fragile regions."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV Integration",
+  "key_finding": "GEQIP Phase 1 (as extracted) is a well-designed education quality program that explicitly targets marginalised populations but operates entirely outside an FCV analytical frame — conflict, fragility, and violence are not diagnosed, and the results framework contains no FCV-adjusted indicators. The program's equity-focused design provides a partial foundation for FCV responsiveness that is not built upon."
+}

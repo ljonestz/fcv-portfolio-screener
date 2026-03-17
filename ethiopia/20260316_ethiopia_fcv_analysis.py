@@ -243,10 +243,7 @@ def chart2_sensitivity_over_time(df):
         if instr in df['instrument'].values:
             legend_handles.append(mpatches.Patch(color=color, alpha=0.7, label=instr))
 
-    handles, labels = ax.get_legend_handles_labels()
-    ax.legend(handles + [mpatches.Patch(color=c, alpha=0.7, label=l)
-                         for l, c in instr_colors.items() if l in df['instrument'].values],
-              frameon=False, loc='lower right', fontsize=9)
+    ax.legend(handles=legend_handles, frameon=False, loc='lower right', fontsize=9)
 
     ax.set_xlabel('Approval Year')
     ax.set_ylabel('FCV Sensitivity Score (1-10)')
@@ -288,10 +285,13 @@ def chart3_responsiveness_over_time(df):
     ax.axhspan(4, 7,  alpha=0.05, color=WB_ORANGE)
     ax.axhspan(1, 4,  alpha=0.05, color=WB_RED)
 
-    handles, labels = ax.get_legend_handles_labels()
-    ax.legend(handles + [mpatches.Patch(color=c, alpha=0.7, label=l)
-                         for l, c in instr_colors.items() if l in df['instrument'].values],
-              frameon=False, loc='lower right', fontsize=9)
+    legend_handles3 = [ax.get_lines()[0]]
+    if len(ax.get_lines()) > 1:
+        legend_handles3.append(ax.get_lines()[1])
+    for instr, color in instr_colors.items():
+        if instr in df['instrument'].values:
+            legend_handles3.append(mpatches.Patch(color=color, alpha=0.7, label=instr))
+    ax.legend(handles=legend_handles3, frameon=False, loc='lower right', fontsize=9)
 
     ax.set_xlabel('Approval Year')
     ax.set_ylabel('FCV Responsiveness Score (1-10)')

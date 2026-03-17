@@ -1,0 +1,102 @@
+{
+  "project_id": "P161373",
+  "project_name": "Enhancing Shared Prosperity through Equitable Services",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.67,
+      "rating": "Partially Addressed",
+      "rationale": "The document provides substantive country context covering Ethiopia's ethnic diversity, decentralized governance, and regional inequalities, and explicitly addresses the Inspection Panel investigation into human rights abuses linked to the CDP in Gambella. However, FCV context is consistently framed through a poverty and equity lens rather than a conflict-fragility lens. There is no analysis of armed conflict dynamics, inter-ethnic tensions in fragile regions (Somali, Afar, Oromia), or Ethiopia's broader fragility profile. The do-no-harm response to the Gambella CDP case is reactive and procedural, with mitigation resting on institutional safeguards systems rather than conflict-sensitive operational adaptations. Political economy analysis is limited to describing the developmental state model without examining elite capture risks across ethnically diverse regions."
+    },
+    "responsiveness": {
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "rationale": "The PforR design includes equity-focused DLIs targeting poorly performing woredas and marginalized groups, and the IGFT instrument provides some operational flexibility through decentralized allocation. Social accountability, GRM, and financial transparency mechanisms represent partial responsiveness to governance risks. However, the theory of change does not articulate FCV-specific pathways, there are no conflict-contingency mechanisms or adaptive triggers for fragility hotspots, and the results framework lacks FCV-adjusted indicators. IFC/MIGA integration is absent. Implementation relies on government systems that may be non-functional in active conflict zones, with no parallel delivery mechanisms envisaged."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia is a large and geographically diverse country, with a representation of 98 nationalities and peoples who speak 93 languages... The NER of the bottom 10 percent of the woredas is 19 percent, far below the national average of 83 percent.",
+      "rationale": "The document provides a detailed country context covering demographics, decentralization, growth trajectory, and regional service delivery disparities. The Inspection Panel case in Gambella surfaces an implicit conflict/displacement risk context. However, there is no explicit fragility or conflict diagnostic — Ethiopia's classification as a fragile state is not referenced, armed conflict in border regions is not analysed, and the FCV context is subordinated entirely to a development/poverty framing."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The Panel expressed the view that given the geographical and sectoral overlap between the PBS and CDP, PBS 3 should have acted to mitigate adverse developments associated with the CDP, specifically those stemming from the relocation.",
+      "rationale": "The document directly acknowledges a harm pathway: PBS 3's overlap with the CDP, which involved the forced relocation of Anuak communities in Gambella. A Management Action Plan and environmental/social screening tool were developed in response. However, harm mitigation is confined to the CDP interface and does not extend to a broader conflict risk analysis for other fragile regions. The ESMS capacity-building response is developmental rather than conflict-targeted, and no harm pathway analysis is conducted for other potentially conflict-affected woredas."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "composite": "sensitivity",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia's current government system was established in the early 1990s by the Ethiopian People's Revolutionary Democratic Front... the government has followed a 'developmental state' model with a strong role for the government in certain aspects of the economy.",
+      "rationale": "The document acknowledges the dominant EPRDF governance model and describes citizen engagement as operating through government-controlled accountability channels. It notes the imperative to address the CDP interface through DAG-level dialogue. However, there is no analysis of how ethnically aligned political structures affect service delivery distribution, no examination of elite capture risks in block grant allocation, and no assessment of how political economy dynamics in fragile regions (Gambella, Somali, Afar) shape implementation risks."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The general theory of change underpinning the key results areas centers on the effectiveness of the IGFT mechanism in expanding service delivery, supported by robust national accountability systems for citizen engagement, fiduciary management, environmental and social management capacity, and quality data assurance.",
+      "rationale": "The PDO explicitly targets equitable access and accountability, and the theory of change is well-structured around IGFT effectiveness plus governance systems. DLIs include geographic equity indicators that implicitly benefit fragile regions. However, the theory of change does not articulate a conflict-sensitive logic — it does not explain how improved service delivery reduces grievances or conflict risks, nor does it account for how conflict could undermine IGFT effectiveness."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "responsiveness",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Gambella and Benishangul-Gumuz, two of the most underdeveloped regions in the country, have the highest percentages of their woredas spending more than twice the national average on basic services per capita.",
+      "rationale": "The program explicitly targets the bottom 20% of poorly performing woredas, women-headed households, and regions with historically lower service levels including Gambella and Benishangul-Gumuz. Block grant formula allocations favour underdeveloped regions. However, there is no targeting of IDPs, returnees, or conflict-affected populations as distinct groups, and no conflict-sensitive service delivery adaptations for woredas experiencing active insecurity or displacement pressures."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The PforR provides important leverage for policy reform... the institutional and capacity support provided under the program has the potential to be strongly transformative—particularly given the greater opening of space offered for citizen engagement at the local level.",
+      "rationale": "The PforR instrument provides results-based flexibility through DLI disbursements rather than input-tied financing, and IGFT allocations are discretionary at woreda level. Social accountability and GRM mechanisms are institutionalised into design. However, there are no contingency clauses or adaptive mechanisms specifically for conflict disruptions, no provision for parallel delivery in non-functional government areas, and reliance on woreda government systems creates implementation risk in fragility hotspots."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO monitoring indicators include: Improved geographic equity in NER outcomes; Improved geographic equity in Penta3 outcomes; Increased # of woredas screening projects for their environmental and social effects.",
+      "rationale": "The results framework includes equity-disaggregated indicators (geographic equity in NER and Penta3, female-headed households in agriculture) and environmental/social screening rates. Annual JRIS missions and independent verification agents provide adaptive oversight. However, there are no FCV-specific indicators measuring outcomes in conflict-affected areas, no conflict sensitivity monitoring, and no adaptive triggers linked to security or displacement events that would prompt design modifications."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The CPS supports the GoE in implementing the GTP... Pillar One (Fostering Competitiveness and Employment) aims to support Ethiopia in achieving... increased competitiveness and productivity (a particular area of focus for the IFC).",
+      "rationale": "The document references IFC's role in the CPS competitiveness pillar but provides no evidence of coordinated IFC/MIGA engagement within or alongside the ESPES program. There is no joint programming, shared analysis, or cross-referencing of IFC investments in fragile regions. MIGA is not mentioned. The program operates exclusively through public systems with no private sector FCV integration."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": true,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "ESPES is a large-scale PforR supporting decentralized basic services with genuine equity targeting, but FCV integration is weak: the project was triggered by an Inspection Panel finding on harm to Anuak communities yet frames its response procedurally through ESMS capacity-building rather than conflict-sensitive design, while providing no analysis of fragility dynamics in volatile regions beyond Gambella."
+}

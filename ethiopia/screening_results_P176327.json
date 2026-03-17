@@ -1,0 +1,94 @@
+{
+  "project_id": "P176327",
+  "project_name": "Ethiopia Flood Management Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 7.33,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD demonstrates strong contextual grounding: it explicitly links floods, droughts, and conflict (Tigray, inter-communal violence) as compounding FCV drivers, cites the Ethiopia Risk and Resilience Assessment, and details how climate shocks exacerbate displacement and land/resource-based conflict. Gender-differentiated vulnerability is analysed with specific evidence on GBV risk during displacement. The do-no-harm framing (conflict-sensitive geographic targeting, exclusion of Tigray) is clearly articulated, though mitigation of residual conflict risks at basin fringes is addressed only at a high level."
+    },
+    "responsiveness": {
+      "numeric_score": 6.20,
+      "rating": "Substantially Addressed",
+      "rationale": "The project adapts its design to Ethiopia's FCV context through conflict-sensitive geographic targeting (Priority Basins outside high-conflict areas), a strategic investment framework that builds in flexibility for Ethiopia's volatile environment, a CERC for rapid crisis response, and gender-sensitive communication and awareness strategies. Results indicators are gender-disaggregated and include early warning beneficiaries. However, One WBG integration is limited (Bank/IFC collaboration flagged as 'No'), and adaptive management provisions for security-triggered replanning are described only generically."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "Floods and other climate-related shocks exacerbate fragility, conflict, and violence (FCV) dynamics in Ethiopia, and have the potential to trigger conflict and violence in instable areas.",
+      "rationale": "The PAD provides a detailed multi-hazard FCV diagnosis: the Tigray conflict, inter-communal land/water competition, pastoralist-agriculturalist tensions, and climate-induced displacement are all identified as intersecting drivers. The Ethiopia Risk and Resilience Assessment (RRA) is explicitly referenced as informing project design. The SORT rates political and governance risk as High. The analysis is substantive and evidence-based, with citations to IDMC, IOM, and ACLED-adjacent conflict mapping, and acknowledges that FCV dynamics are region-specific within Ethiopia."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The project proposes a conflict-sensitive targeting approach where physical investments and activities are geographically concentrated outside of conflict-affected areas... the project will not engage in Tigray or any other conflict-affected areas.",
+      "rationale": "The primary do-no-harm mechanism is geographic exclusion of conflict-affected areas, particularly Tigray, with a commitment to monitor the security situation in target woredas during implementation. The PAD acknowledges residual conflict risk at basin fringes but relies primarily on geographic avoidance rather than detailed intra-community conflict sensitivity measures for the Priority Basins. A security risk assessment and management plan is required as a disbursement condition for Component 2, which partially addresses this gap."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Women remain inadequately represented in decision-making, planning, policy formulation, and evaluation in DRM, and there is need to update the Guideline in alignment with the DRM policy reform.",
+      "rationale": "The PAD identifies key political economy constraints including fragmented institutional mandates across EDRMC, MoWE, MoUDI, and BDOs, coordination weaknesses between federal and subnational levels, and gender gaps in DRM participation. A gender-sensitive awareness and communication strategy is funded. However, the analysis of community-level stakeholder power dynamics in the target basins and the risks of elite capture in sub-project selection are not elaborated; the Stakeholder Engagement Plan is referenced but its conflict-sensitivity provisions are not detailed in the PAD."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "The project will support the shift from reactive to proactive and anticipatory responses by addressing some of the underlying drivers, including climate and disaster-related factors, that jeopardize livelihoods and fuel conflicts.",
+      "rationale": "The PDO links directly to FCV-relevant outcomes: reducing flood-driven displacement and the resource competition that fuels inter-communal violence. The theory of change traces a credible pathway from institutional strengthening and infrastructure investment to reduced vulnerability and fragility. The project explicitly references the WBG FCV Strategy 2020-2025 as a framing document. However, the ToC does not articulate how institutional capacity gains will persist under continued political instability, nor how the project will respond if conflict displaces into Priority Basins."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The framework will further consider the targeting of poor/vulnerable communities to better contribute to poverty reduction.",
+      "rationale": "The strategic investment framework prioritises flood risk, urgency, and sub-project readiness, with an explicit criterion for targeting poor and vulnerable communities. Gender-disaggregated beneficiary indicators and gender-sensitive DRM guidelines are funded. However, specific targeting criteria for conflict-affected or displacement-affected populations within the Priority Basins are not specified, and the project's focus on river basin infrastructure may structurally advantage peri-urban areas over more remote, marginalised communities with higher FCV exposure."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "This framework approach also allows flexibility in implementation, which is pertinent in Ethiopia's current FCV context.",
+      "rationale": "A Contingent Emergency Response Component (CERC) is included to allow rapid reallocation of funds in the event of a crisis. The strategic investment framework's framework approach and phased basin studies also build in some adaptability. However, explicit protocols for suspending or redirecting activities if conflict escalates into target basins are not detailed in the PAD; the security monitoring commitment is stated but procedural triggers for operational changes are absent."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "People benefiting from reduced risks from floods (number, gender disaggregated, climate change adaptation); People benefitting from impact-based flood early warnings (number, gender disaggregated, climate change adaptation).",
+      "rationale": "PDO indicators are gender-disaggregated and climate-tagged, and include early warning reach as a proxy for the most vulnerable. However, no FCV-specific indicators (e.g. conflict-related displacement avoided, flood-conflict nexus monitoring) are included in the results framework. The M&E framework references a National Digital Risk Information Platform but does not specify how conflict dynamics or social cohesion outcomes will be tracked. Adaptive management language is present but not operationalised with explicit decision rules."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. The PAD references the WBG FCV Strategy and Africa Strategy but does not describe any IFC or MIGA involvement in supporting private sector resilience, disaster risk financing, or enabling environment reform in the flood-affected basins. Given Ethiopia's FCV context and the scale of the investment, the absence of private sector partnership — particularly for disaster risk financing and long-term O&M — represents a missed integration opportunity."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": false
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "The Ethiopia Flood Management Project demonstrates strong FCV sensitivity — explicitly linking floods to conflict dynamics, citing the RRA, and applying conflict-sensitive geographic targeting — paired with substantially adapted design features (CERC, flexible investment framework, gender-disaggregated indicators); RF4 is triggered because conflict risks at basin fringes are identified but specific mitigation protocols for escalation scenarios are not operationalised."
+}

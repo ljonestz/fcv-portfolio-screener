@@ -1,0 +1,94 @@
+{
+  "project_id": "P178047",
+  "project_name": "Development Response to Displacement Impacts Project in the Horn of Africa Phase II",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 8.33,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD provides a comprehensive, multi-layered FCV analysis covering the Tigray conflict, 4M+ IDPs, ethnic political rivalry, climate-conflict nexus, regional spillovers, and gender-differentiated impacts. SORT rates Political & Governance and E&S risks as High, and the conflict context is directly linked to project design choices. Refugee-host dynamics are analysed with regional granularity across Gambella, Somali, Tigray, Benishangul-Gumuz, and Afar, with explicit acknowledgement of deteriorating relations between refugees and hosts in Tigray."
+    },
+    "responsiveness": {
+      "numeric_score": 7.40,
+      "rating": "Substantially Addressed",
+      "rationale": "Responsiveness is very strong across objectives, design, and implementation flexibility, with the entire project rationale built around displacement and FCV spillover response. The HROC/NROC classification system, third-party implementation in conflict zones, CERC, and social cohesion sub-component represent systematic operational adaptation to conflict. The score is moderated by the absence of dedicated FCV-specific outcome indicators (e.g. social cohesion scores) in the PDO results framework, and no IFC/MIGA engagement."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Any engagement in Ethiopia at present must consider the fluid conflict-related developments in the country and the rapid pace at which these developments could lead to changes in the country's context.",
+      "rationale": "The PAD provides an exceptionally thorough FCV diagnostic covering the Tigray conflict (Nov 2020), spillover to Amhara and Afar, 4M+ IDPs, climate change as a conflict multiplier, ethnic mobilisation and elite rivalry, historical marginalisation, and GBV elevated by conflict. Regional displacement drivers across the HoA are systematically linked to Ethiopia's hosting burden. The analysis is current (as of May 2022) and directly informs design decisions including HROC categorisation and expanded geographic scope in Amhara."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "The scale of the damage has raised concerns over the potential for tensions with refugees, justifying an additional investment of funds to support inclusion and stability in Amhara.",
+      "rationale": "Explicit conflict harm pathways are identified and mitigated: the HROC/NROC woreda classification system triggers third-party implementation in conflict zones; a legally-mandated TPMA must be contracted within 3 months of effectiveness; a Security Risk Assessment and Management Plan (SRAMP) is a legal condition of disbursement. Refugee-host tensions in Tigray are named and addressed through the social cohesion sub-component. GBV risks elevated by conflict are mitigated through 120 GBV focal persons and referral pathways."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "Political competition and rivalry between elites has intensified over this period – locally, and at the national and regional levels. These tensions have manifested across both rural and urban areas and have largely been organized along ethnic lines.",
+      "rationale": "The PAD conducts systematic political economy analysis covering elite rivalry, ethnic conflict drivers, local government capacity deficits (especially in new refugee-hosting woredas), and the contested politics of the humanitarian-development nexus. Refugee-host dynamics are differentiated by region with nuanced analysis of varying integration levels. Women's participation barriers and gender-differentiated impacts are explicitly analysed, and the stakeholder ecosystem (UNHCR, RRS, IGAD, WoFED, community institutions) is mapped with clear coordination structures."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "By addressing the spillovers of fragility, conflict and violence (FCV), the project is aligned with the World Bank's FCV Strategy 2020-2025... support for building human and social capital and meeting the basic needs of displaced communities.",
+      "rationale": "The PDO is wholly shaped by displacement and FCV spillover logic — the entire project exists to address the development consequences of forced displacement in a conflict-affected country. The theory of change explicitly links reduced FCV spillovers through host-refugee service access and social cohesion to regional stability. Phase II design additions (refugees as direct beneficiaries, social cohesion sub-component, HROC/NROC differentiation, GBV prevention) are all direct responses to an evolving conflict context."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Project woredas will be categorized as HROC or non-high risk of ongoing conflict (NROC) on the basis of a rapid Woreda Needs, Conflict and Capacity Assessment (WNCCA) to be conducted by a third-party.",
+      "rationale": "Design is systematically FCV-responsive: geographic targeting is based on refugee presence and conflict risk classification; HROC/NROC distinction determines implementation modality; 740,000 refugees are direct beneficiaries alongside 1.76M host community members; social cohesion sub-component directly targets host-refugee tensions; 120 GBV focal persons are embedded in implementation; CERC provides emergency response capacity. The CDD approach is explicitly adapted for conflict contexts with third-party facilitation in HROC woredas."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Activities in HROC woredas will be implemented by a third-party implementation entity. This will allow the project to meet urgent needs in the conflict-affected locations.",
+      "rationale": "The project has multiple explicit adaptive mechanisms: CERC enables rapid emergency financing reallocation; HROC/NROC woreda classification can be revised following updated WNCCA assessment; a legally-required TPMA monitors implementation in conflict areas; GEMS and iterative beneficiary monitoring (IBM) enable real-time course correction; remote monitoring tools are expanded in Phase II. Legal covenants requiring third-party implementation in HROC areas as an effectiveness condition represent a structural operational adaptation to conflict."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Number of beneficiaries with access to social and economic services and infrastructure (disaggregated by refugee/host community status, service type and gender).",
+      "rationale": "PDO indicators are systematically disaggregated by refugee/host community status and gender, which are FCV-relevant categories directly tied to displacement dynamics. The RMEAL system supports adaptive management. However, there are no dedicated FCV outcome indicators measuring social cohesion, conflict incidence, or perceptions of security at the PDO level, and the social cohesion sub-component — a key conflict-responsive innovation — is not visibly tracked by a specific PDO indicator."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no IFC collaboration, and there is no reference to MIGA engagement. The project demonstrates strong inter-GP coordination within the Bank (FCV, Agriculture, Water, Environment practice areas) and close programmatic alignment with 3R-4-CACE (P177233) and other IDA operations, but the private sector arm of the WBG is not engaged. Given the livelihoods and economic inclusion focus of Component 3, there was potential for IFC engagement on market systems or private sector partnerships that is not realised."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "DRDIP II is among the most FCV-integrated projects in the Ethiopia portfolio, with its entire rationale, design, and implementation architecture built around displacement response and conflict adaptation — including HROC/NROC classification, third-party implementation in conflict zones, and a dedicated social cohesion sub-component. The only significant gap is the absence of explicit social cohesion or conflict-outcome indicators in the PDO results framework and no IFC/MIGA engagement despite the project's livelihoods focus."
+}
