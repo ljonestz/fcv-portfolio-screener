@@ -272,11 +272,13 @@ Each dimension scored 1–10. Red flags apply a deduction to the relevant compos
 
 Red flags are **binary pass/fail checks** applied *after* dimension scoring. They capture specific design failures that dimension scores alone may miss — a project can score adequately on a dimension and still trigger a related RF. Each triggered flag deducts **−0.5 from the Sensitivity composite** (floored at 1.0). Red flags are evidence-based: they trigger only when the project document itself provides evidence of a gap, not from absence of content.
 
+> **⚠ Agent drift warning — RF3:** In past screenings (Somalia, Djibouti, Ethiopia), agents over-applied RF3 to general exclusion, safeguards, and pastoralist/resettlement gaps — which are not what OP 7.30 governs. Only accept RF3=true if the agent's rationale quotes explicit OP 7.30 language or names a de facto authority from the project document. Where RF3 rates look anomalously high and rationale does not reference OP 7.30 language, include a caveat in the report narrative explaining the likely interpretive drift.
+
 | Flag | Short label | Description |
 |---|---|---|
 | RF1 | Unmitigated Conflict Risk | Do-no-harm violation — design could exacerbate conflict |
 | RF2 | Missing Distributional Analysis | Elite capture — benefits systematically diverted |
-| RF3 | OP 7.30 Weakly Handled | Exclusion — marginalised groups structurally excluded |
+| RF3 | OP 7.30 Weakly Handled | **Narrow definition:** triggers only when a project document explicitly references engagement with a *de facto* or unconstitutionally constituted authority (OP 7.30) and fails to address the governance/legitimacy risks this creates. It is **not** a general safeguards, resettlement, or marginalised-group inclusion check. |
 | RF4 | Elite Capture Unmitigated | Harm pathway named but not mitigated in design |
 | RF5 | Macro Framework Unrealistic | Results framework has no FCV-adjusted indicators |
 
@@ -319,7 +321,7 @@ The red flags section of each report must follow this structure:
    - **Country-specific context** explaining *why* the rate is what it is (e.g. conflict history, governance structure, macro shocks, instrument mix)
    - What it implies for portfolio management or project design going forward
 
-4. **Brief contextualisation of mid-frequency flags** (typically RF2, RF3) — 2–3 sentences each linking to the country's specific policy/operational context.
+4. **Brief contextualisation of mid-frequency flags** (typically RF2, RF3) — 2–3 sentences each linking to the country's specific policy/operational context. For RF3 specifically: always explain the narrow OP 7.30 definition (de facto authority engagement, not a general safeguards flag) and — if the reported rate looks high relative to the country's governance context — include a caveat that agents are known to have drifted from the strict definition, inflating the rate.
 
 5. **Interpretive note on RF1 = 0%.** RF1 triggers only when a document names a conflict pathway *and* fails to mitigate it. A 0% rate may mean projects avoid naming conflict risks explicitly rather than that all risks are mitigated. Cross-reference with the D2 (Do No Harm) dimension average — low D2 + zero RF1 suggests under-analysis, not effective mitigation.
 
@@ -401,4 +403,4 @@ Never commit directly to `main` for non-trivial changes.
 
 ---
 
-*Last updated: 2026-03-18 — Red flags narrative guidelines added; RF methodology explanation expanded; Ethiopia completed (56 projects)*
+*Last updated: 2026-03-18 — RF3 definition corrected to narrow OP 7.30 scope; agent drift warning added; RF3 narratives corrected in all three country reports*
