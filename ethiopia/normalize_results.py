@@ -64,10 +64,16 @@ def normalize_dims(dims):
         result = []
         for d in dims:
             if isinstance(d, dict):
+                # Handle both schemas: {id, numeric_score} and {dimension_id, score}
+                dim_id = d.get('id') or d.get('dimension_id', '0')
+                if isinstance(dim_id, str) and dim_id.startswith('D'):
+                    dim_id = int(dim_id[1:])
+                dim_id = int(dim_id) if dim_id else 0
+
                 score = d.get('numeric_score', d.get('score', 0))
                 result.append({
-                    'id':           d.get('id', 0),
-                    'name':         d.get('name', ''),
+                    'id':           dim_id,
+                    'name':         d.get('name') or d.get('dimension_name', ''),
                     'composite':    d.get('composite', ''),
                     'numeric_score': float(score) if score is not None else 0.0,
                     'rating':       d.get('rating', score_to_rating(score)),
