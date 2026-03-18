@@ -8,7 +8,7 @@ Each country's analysis lives in its own subfolder: `<country>/`
 Current countries:
 - `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16
 - `djibouti/` — completed 2026-03-16 (22 projects, 2015–2024)
-- `ethiopia/` — scripts created 2026-03-16; data collection and screening pending
+- `ethiopia/` — completed 2026-03-16 (56 projects, 2015–2024); red flags narrative expanded 2026-03-18
 
 ---
 
@@ -270,13 +270,15 @@ Each dimension scored 1–10. Red flags apply a deduction to the relevant compos
 
 ### Red flags (RF)
 
-| Flag | Description |
-|---|---|
-| RF1 | Do-no-harm violation — design could exacerbate conflict |
-| RF2 | Elite capture — benefits systematically diverted |
-| RF3 | Exclusion — marginalised groups structurally excluded |
-| RF4 | Harm pathway named but not mitigated in design |
-| RF5 | Results framework has no FCV-adjusted indicators |
+Red flags are **binary pass/fail checks** applied *after* dimension scoring. They capture specific design failures that dimension scores alone may miss — a project can score adequately on a dimension and still trigger a related RF. Each triggered flag deducts **−0.5 from the Sensitivity composite** (floored at 1.0). Red flags are evidence-based: they trigger only when the project document itself provides evidence of a gap, not from absence of content.
+
+| Flag | Short label | Description |
+|---|---|---|
+| RF1 | Unmitigated Conflict Risk | Do-no-harm violation — design could exacerbate conflict |
+| RF2 | Missing Distributional Analysis | Elite capture — benefits systematically diverted |
+| RF3 | OP 7.30 Weakly Handled | Exclusion — marginalised groups structurally excluded |
+| RF4 | Elite Capture Unmitigated | Harm pathway named but not mitigated in design |
+| RF5 | Macro Framework Unrealistic | Results framework has no FCV-adjusted indicators |
 
 ### Gap Matrix (2×2)
 
@@ -304,6 +306,28 @@ The gap between portfolio-average sensitivity and responsiveness scores is a use
 - **Do** note the direction of the gap (sensitivity > responsiveness is the typical pattern) and contextualise it as consistent with broader FCV portfolio patterns
 - **Do** focus narrative weight on the **trend** (are the composites converging or diverging over time?) rather than the **level** of the gap at a single point in time
 - Where the gap is modest (<1 point), acknowledge measurement uncertainty explicitly
+
+### Red flags narrative — explain, contextualise, don't just list
+The red flags section of each report must follow this structure:
+
+1. **Open with methodology explanation.** Readers will not have seen the screener skill. Explain that red flags are binary pass/fail checks distinct from dimension scores, that they are evidence-based (triggered by documentary evidence, not absence), and that each deducts −0.5 from the Sensitivity composite. Explain how a project can score well on a dimension but still trigger the related RF.
+
+2. **Portfolio overview.** State how many projects trigger at least one flag (the "any RF" count), then present Chart 6.
+
+3. **Deep-dive on the 1–2 most prevalent flags.** For each, provide:
+   - The rate and what it means operationally
+   - **Country-specific context** explaining *why* the rate is what it is (e.g. conflict history, governance structure, macro shocks, instrument mix)
+   - What it implies for portfolio management or project design going forward
+
+4. **Brief contextualisation of mid-frequency flags** (typically RF2, RF3) — 2–3 sentences each linking to the country's specific policy/operational context.
+
+5. **Interpretive note on RF1 = 0%.** RF1 triggers only when a document names a conflict pathway *and* fails to mitigate it. A 0% rate may mean projects avoid naming conflict risks explicitly rather than that all risks are mitigated. Cross-reference with the D2 (Do No Harm) dimension average — low D2 + zero RF1 suggests under-analysis, not effective mitigation.
+
+**Common mistakes to avoid:**
+- Do **not** highlight RF1 as "most concerning" when it has 0% prevalence
+- Do **not** just list flag rates without explaining what they mean in context
+- Do **not** treat high RF5 rates as individual project failures — in volatile FCV contexts, unrealistic macro assumptions are a systemic challenge, not a design flaw
+- **Do** ensure the narrative matches the actual data (verify counts against the normalized results JSON before writing)
 
 ---
 
@@ -377,4 +401,4 @@ Never commit directly to `main` for non-trivial changes.
 
 ---
 
-*Last updated: 2026-03-16 — Ethiopia scripts added; 1-per-agent screening approach documented; head+tail extraction documented*
+*Last updated: 2026-03-18 — Red flags narrative guidelines added; RF methodology explanation expanded; Ethiopia completed (56 projects)*
