@@ -1,0 +1,102 @@
+{
+  "project_id": "P168566",
+  "project_name": "Ethiopia Growth and Competitiveness",
+  "doc_type": "Program Document",
+  "instrument_category": "DPF",
+  "approval_year": 2018,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.83,
+      "rating": "Not Addressed",
+      "rationale": "The document situates the operation in Ethiopia's conflict-affected context and notes the political crisis, IDPs (2.8 million), and the state of emergency declared twice in three years, but treats FCV drivers as background framing rather than a diagnostic shaping design. Do-no-harm analysis is limited to a general protect-the-poor clause on electricity tariff reform, with no systematic assessment of how structural economic liberalisation interacts with inter-ethnic or regional tensions. Stakeholder analysis is implicit rather than explicit, with no identification of how patronage networks or regional political dynamics could distort reform implementation or benefit distribution. Two red flags (RF2, RF4) each deduct 0.5 points, reflecting the absence of substantive distributional safeguards and unmitigated elite capture risk in the SOE privatisation and PPP agenda."
+    },
+    "responsiveness": {
+      "numeric_score": 3.4,
+      "rating": "Not Addressed",
+      "rationale": "The theory of change is a standard economic-growth pathway — private sector competition leads to jobs and poverty reduction — with no FCV-adjusted pathways or acknowledgment that reform sequencing may interact with conflict dynamics. Prior actions are technocratic-institutional with one notable exception: the CSO social accountability action enables all civil society organisations to engage in accountability activities, which is contextually significant given the political transition. Results indicators are entirely economic and sectoral with no FCV-adjusted metrics, no adaptive management provisions for conflict-triggered disruption, and no tracking of distributional or stability outcomes. The two-tranche structure offers limited built-in flexibility but without an explicit conflict-sensitivity lens."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia...is experiencing an unprecedented political and economic change...forced the Government to declare a state of emergency twice in three years...the number of internally displaced people (IDPs) has risen from 1.6 million to 2.8 million",
+      "rationale": "The document acknowledges Ethiopia's conflict-affected regional context, the recent political crisis, the peace agreement with Eritrea, and the spike in IDPs, providing a richer FCV framing than most DPFs in this portfolio. However, the country context section does not constitute a systematic conflict analysis — it does not identify subnational fragility drivers, inter-ethnic tensions, or the structural roots of instability that could affect the reform agenda. FCV context is used to motivate the reform rationale rather than to shape conditionality or risk design."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "the Council of Ministers has approved a multi-year electricity tariff-increase framework with a detailed implementation schedule to improve cost recovery while protecting the poor",
+      "rationale": "The tariff reform includes a 'protect the poor' commitment and references a PSIA (Annex 4 mentioned in table of contents), representing a minimal do-no-harm acknowledgement for one prior action. However, the document does not assess how structural liberalisation reforms — opening telecoms, logistics, and SOE privatisation — could interact with regional inequalities, displacement, or inter-ethnic competition for economic resources. No explicit analysis of how reform sequencing could exacerbate grievances in a country with 2.8 million IDPs and a history of ethnically charged political conflict."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "sensitivity",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Actions to enhance transparency and accountability include: (i) promoting citizen engagement and social accountability; and (ii) improving SOE management, transparency and accountability",
+      "rationale": "The document incorporates a CSO social accountability prior action (enabling all CSOs to engage in accountability activities) and an SOE transparency pillar, reflecting implicit awareness of political economy risks. However, there is no explicit stakeholder mapping, no identification of powerful actors likely to benefit from or resist privatisation, and no analysis of how EPRDF/ruling coalition-era patronage networks could capture reform dividends. The political economy analysis is underdeveloped relative to the scale and sensitivity of the reform agenda."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "the proposed operation is structured around three strategic pillars: (i) maximizing finance for development; (ii) improving the investment climate and developing the financial sector; and (iii) enhancing transparency and accountability",
+      "rationale": "The theory of change is coherent for an economic competitiveness DPF — structural reforms unlock private investment, generate jobs, and sustain poverty reduction — but it is entirely growth-centric with no FCV lens. The operation does not explain how its reform agenda interacts with conflict drivers or fragility processes, and does not identify pathways through which transparency and accountability reforms could reduce political violence or improve social stability. The FCV context acknowledged in the country overview is not translated into the theory of change."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "responsiveness",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "All Ethiopian civil society organizations (CSOs) are eligible to engage in Social Accountability activities: 0 (2018) → All (2021)",
+      "rationale": "The CSO social accountability prior action is the most FCV-relevant design element — removing restrictions on civil society engagement in accountability activities is a meaningful governance reform in the context of Ethiopia's political transition. Tariff reform includes a poverty protection clause. However, no prior action or trigger explicitly targets conflict-affected populations, IDPs, or regions with elevated fragility; the reform package is national-economy-wide with no conflict-sensitive geographic or population targeting. Distributional analysis of who benefits from logistics and telecoms liberalisation is absent."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "The first tranche will be made upon completion and verification of prior actions...The second tranche will be made upon completion and verification of specific policy-related tranche-release conditions",
+      "rationale": "The two-tranche structure and programmatic series of three DPFs provide a degree of sequential adaptability — the Bank retains leverage through indicative triggers and tranche conditions. However, there is no explicit conflict-sensitivity provision: no mechanism to pause or redirect disbursement if political instability disrupts the reform trajectory, no scenario planning for ethnically or regionally driven reform reversals, and no monitoring of social stability risks during implementation."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "Foreign Direct Investment value: US$3.7 billion (2018) → US$5 billion (2021); Number of licensees operating in Ethiopian telecom sector: 1 (2018) → 3 (2021)",
+      "rationale": "All results indicators are economic or sectoral — FDI, customs clearance days, telecom licensees, SOE audit publications, power sector loss ratios. There are no FCV-adjusted indicators, no markers for social stability or distributional equity, and no indicators tracking outcomes for conflict-affected or displaced populations. The Grievance Redress Service (GRS) is listed in the acronym table but not discussed in the results framework or monitoring section. This is among the weakest results frameworks in FCV terms across the portfolio."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "The proposed operation complements ongoing WBG engagement in Ethiopia in support of the GTP II, a US$11 billion portfolio that includes 38 operations and advisory services",
+      "rationale": "IFC is referenced in the team composition and implicitly in the private sector reform agenda (PPP, logistics, telecoms liberalisation), and the document notes complementarity with the broader $11bn WBG portfolio. However, there is no explicit account of IFC or MIGA engagement for FCV purposes, no description of how IFC investments will be sequenced or coordinated with DPF conditionality to avoid do-no-harm risks, and no joint FCV analysis or integrated country strategy narrative."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This 2018 DPF is a landmark economic reform operation — the first World Bank budget support to Ethiopia in over a decade — but it applies a purely economic lens to a country in active political transition with 2.8 million IDPs, providing no FCV-adjusted design, distributional safeguards against elite capture in the SOE privatisation agenda, or conflict-sensitive indicators in its results framework. The operation's strongest FCV-relevant element is the CSO social accountability prior action, which is contextually significant in Ethiopia's political transition, but this one measure does not compensate for the absence of a conflict sensitivity framework across the full reform agenda."
+}

@@ -6,9 +6,9 @@ This repo contains the workflow for running **World Bank FCV Sensitivity and Res
 Each country's analysis lives in its own subfolder: `<country>/`
 
 Current countries:
-- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16
-- `djibouti/` — completed 2026-03-16 (22 projects, 2015–2024)
-- `ethiopia/` — completed 2026-03-16 (56 projects, 2015–2024); red flags narrative expanded 2026-03-18
+- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16; RF3 re-screened 2026-03-18 → corrected to 0%
+- `djibouti/` — completed 2026-03-16 (22 projects, 2015–2024); RF3 re-screened 2026-03-18 → corrected to 0%
+- `ethiopia/` — completed 2026-03-16 (56 projects, 2015–2024); red flags narrative expanded 2026-03-18; RF3 re-screened 2026-03-18 → corrected to 0%
 
 ---
 
@@ -383,6 +383,44 @@ These are backed up via OneDrive sync.
 | Old `generate_report.py` wrote to hardcoded `Claude_Outputs` path | Fixed 2026-03-16: now uses `Path(__file__).parent` — script writes to its own directory |
 | WB Documents API returns >200 PADs for large countries (e.g. Ethiopia) | Script paginates up to 800 docs per document type |
 | Head+tail separator causes minor discontinuity in extracted text | Separator `[... procurement/fiduciary sections omitted ...]` is visible to screener — agents handle it correctly |
+| Agent Write permission denied mid-session | Agent returns full JSON in text output; parent session saves using Write tool directly |
+| Extracted text file contains wrong project's PAD (e.g. P175045, P174874, P169079) | Flag in `screener_note` field; scores are indicative; re-extract when AF PAD becomes available |
+
+---
+
+## RF3 Re-screening Workflow
+
+When RF3 rates look anomalously high and rationales do not cite OP 7.30 language or de facto authorities, run a targeted re-screen of all RF3=true projects with an explicit strict definition. Each country has a `patch_rf3_recheck.py` script that:
+
+1. Reads `screening_results_<PID>_rf3recheck.json` files (one per project)
+2. Patches the normalized JSON in-place (backing up first)
+3. Updates all 5 RF flags, composite scores, dimensions, gap matrix, and key_finding
+4. Reports post-patch flag counts
+
+**Agent prompt template for RF3 recheck:**
+```
+Screen this project using the FCV screener skill.
+Project ID: <PID> | Name: <name> | Year: <year> | Instrument: <IPF/DPF/P4R>
+
+⚠ RF3 OVERRIDE (strict definition):
+RF3 must ONLY trigger if the project document explicitly names engagement with,
+or transfer of resources to, a de facto or unconstitutionally constituted
+authority (OP 7.30). Do NOT trigger RF3 for: exclusion of marginalised groups,
+safeguards gaps, resettlement, community consultation, pastoralist targeting.
+Constitutional regional states, woredas, federal ministries = NOT de facto.
+
+Save result to: <country>/screening_results_<PID>_rf3recheck.json
+[extracted text below]
+```
+
+**Re-screening results (2026-03-18):**
+| Country | Original RF3 | Corrected RF3 | Explanation |
+|---|---|---|---|
+| Djibouti | 4/22 (18%) | 0/22 (0%) | Stable constitutional governance; no OP 7.30 scenarios |
+| Somalia | 1/40 (2%) | 0/40 (0%) | P173119 did not explicitly name non-state authority engagement |
+| Ethiopia | 20/56 (36%) | 0/56 (0%) | Pre-Tigray docs; no PAD explicitly names TPLF/OLA engagement |
+
+Note: correcting RF3 may surface other flags that agents missed in the original pass (RF2, RF4, RF5). Scores may also shift. Run patch script and regenerate charts + report after each re-screening batch.
 
 ---
 
@@ -403,4 +441,4 @@ Never commit directly to `main` for non-trivial changes.
 
 ---
 
-*Last updated: 2026-03-18 — RF3 definition corrected to narrow OP 7.30 scope; agent drift warning added; RF3 narratives corrected in all three country reports*
+*Last updated: 2026-03-18 — RF3 re-screened across all three countries; corrected to 0% in Djibouti, Somalia, and Ethiopia; patch_rf3_recheck.py workflow documented; known extraction errors noted*

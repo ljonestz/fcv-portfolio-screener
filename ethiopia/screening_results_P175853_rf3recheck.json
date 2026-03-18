@@ -1,0 +1,102 @@
+{
+  "project_id": "P175853",
+  "project_name": "Additional Financing for Ethiopia COVID-19 Emergency Response",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2021,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "rationale": "The PAD acknowledges Ethiopia's vulnerability as a major travel hub hosting 1.5 million refugees from fragile neighbouring states and rates Political and Governance risk as High, but treats these almost entirely as epidemiological transmission risks rather than FCV-contextual design inputs. There is no substantive analysis of how active conflict dynamics, displacement, or governance fragility shape the COVID-19 response challenge, and no do-no-harm or conflict-sensitivity lens is applied to project design. Stakeholder and political economy analysis is absent beyond procedural references to government coordination structures."
+    },
+    "responsiveness": {
+      "numeric_score": 3.2,
+      "rating": "Not Addressed",
+      "rationale": "The project's objectives, components, and results framework are drawn directly from the standard WHO/WBG COVID-19 MPA template and are not adapted to Ethiopia's FCV context. There are no FCV-adjusted indicators, no provisions for reaching conflict-affected or displaced populations, and no adaptive management mechanisms linked to conflict risk. The One WBG integration field records no IFC or MIGA engagement. While the RCCE component acknowledges socio-cultural diversity, it is not calibrated to fragility or conflict-affected zones."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia currently shelters about 1.5 million registered refugees from neighboring fragile states... All of Ethiopia's neighboring fragile states are highly susceptible to outbreaks.",
+      "rationale": "The PAD references Ethiopia's proximity to fragile states, refugee hosting burden, and elevated epidemiological risk, which signals partial awareness of the FCV context. However, these factors are framed exclusively as public health transmission risks; there is no analysis of internal conflict drivers, armed group activity, or how Ethiopia's own fragility (which would intensify from November 2020 with the Tigray conflict) interacts with COVID-19 response. The FCV diagnostic is shallow and externally focused."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "key_quote": "The FM risk is considered High... key risks include multiple implementing entities at the federal and regional levels, some with capacity gaps, and high rates of staff turnover.",
+      "rationale": "The PAD identifies fiduciary and implementation risks but does not apply a do-no-harm or conflict-sensitivity lens to project activities. There is no assessment of whether procurement of medical supplies, establishment of quarantine centres, or subnational EOC functionalization could differentially benefit or exclude conflict-affected populations. No conflict pathways or harm mitigation measures are articulated."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "The approaches taken will thereby ensure that information is meaningful, timely, and accessible to all affected stakeholders, including usage of different languages, addressing cultural sensitivities.",
+      "rationale": "The SEP and RCCE component reference inclusive communication across languages and socioeconomic groups, which is positive. However, there is no political economy analysis of how power dynamics, elite interests, or subnational governance fragmentation might affect resource flows or community engagement. The political and governance SORT rating is High but no corresponding stakeholder risk analysis is provided in the body of the document."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of the project is to prevent, detect and respond to the threat posed by COVID-19 and strengthen national systems for public health preparedness in Ethiopia.",
+      "rationale": "The PDO is a direct replica of the standard COVID-19 MPA programme objective, with no FCV-adapted framing. There is no theory of change linking Ethiopia's fragility, internal displacement, or governance deficits to the proposed health system strengthening activities. The PAD does not explain how national system strengthening will reach populations in areas affected by sub-national conflict or humanitarian crisis."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "key_quote": "The proposed project will be a standalone operation for Ethiopia to address critical country-level needs for preparedness and response for COVID-19.",
+      "rationale": "Project components (medical supplies, capacity building, RCCE, quarantine centres, implementation support) follow the standard MPA template and are not targeted to fragile sub-national areas or conflict-affected populations. Beneficiary identification is national in scope and framed around global connectivity risks, not fragility or displacement. There is no geographic targeting rationale for subnational areas most affected by conflict or humanitarian need."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "The specific budgets for each activity are indicative at the time of appraisal and can be adjusted during implementation... to allow for agility and flexibility in responding to evolving country needs.",
+      "rationale": "The PAD explicitly builds in budget flexibility and allows reallocation across components, which is appropriate for an emergency operation. Emergency procurement modalities (direct contracting, shortened bid timelines) also add operational agility. However, this flexibility is framed around COVID-19 supply chain volatility, not conflict-related access constraints or security disruptions — the FCV dimension of operational risk is not addressed."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "key_quote": "Responding within 24 hours to confirmed outbreaks of COVID-19 and other immediately reportable diseases. (Percentage) / Percentage of district health centers/district hospitals with pandemic preparedness and response plans per MoH Guidelines.",
+      "rationale": "PDO indicators are standard MPA surveillance and response timeliness metrics with no FCV adjustment. There are no indicators disaggregated by conflict-affected zones, displacement status, or fragile sub-regions. No adaptive management triggers are specified for conflict escalation or access constraints. The results framework would not capture differential performance across Ethiopia's diverse and increasingly conflict-affected subnational landscape."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. Given the emergency nature of the operation and the health sector focus, the absence of private sector engagement is not unexpected. However, no consideration of IFC or MIGA instruments for private sector health delivery, medical supply chain, or FCV-related private sector risk is documented anywhere in the PAD."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "Designed before the Tigray conflict erupted, this COVID-19 emergency response PAD applies a standard MPA template with no substantive FCV-contextual adaptation: there is no conflict-sensitive theory of change, no targeting of conflict-affected populations, and results indicators are not calibrated to Ethiopia's fragile subnational landscape. RF5 triggers because the results framework contains no FCV-adjusted indicators that could accommodate the conflict-driven health system disruptions that would materialize within months of approval."
+}

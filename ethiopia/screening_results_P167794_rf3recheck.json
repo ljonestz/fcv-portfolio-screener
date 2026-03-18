@@ -1,0 +1,102 @@
+{
+  "project_id": "P167794",
+  "project_name": "One WASH — Consolidated Water Supply, Sanitation, and Hygiene Account Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2019,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.67,
+      "rating": "Not Addressed",
+      "rationale": "The PAD notes Ethiopia's diversity, displacement (920,000+ refugees, doubled IDPs), sporadic unrest, and GBV risks, but treats these as background context rather than as structuring analytical inputs. Conflict dynamics — including inter-ethnic tensions over water resources in pastoral zones — are absent from the design logic. Two red flags triggered (RF4 elite capture in regional performance allocation; RF5 absence of FCV-adjusted indicators) reduce the raw sensitivity score of 4.67 to 3.67."
+    },
+    "responsiveness": {
+      "numeric_score": 4.20,
+      "rating": "Partially Addressed",
+      "rationale": "The project includes a CERC mechanism, targets drought- and flood-prone hotspots, and builds in some operational flexibility through the CWA pooled financing structure. However, implementation arrangements do not explicitly adapt for conflict-affected or FCV-sensitive woredas, IFC/MIGA integration is absent, and the results framework carries no FCV-sensitive indicators. Responsiveness is predominantly climate-oriented rather than conflict-sensitive."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia hosts more than 920,000 refugees...and the number of internally displaced people has recently doubled due to sporadic unrest.",
+      "rationale": "The PAD describes Ethiopia's ethnic diversity (98 nationalities), displacement, poverty, and GBV risks. The SORT flags Political & Governance risk as High. However, the conflict and fragility context is presented as demographic background, not as an operational analysis of how FCV dynamics affect WASH delivery or create differentiated risks across regions."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "In some areas, influxes of refugees and internally displaced people further complicate WSS service delivery and strain local water sources.",
+      "rationale": "The PAD acknowledges displacement-driven service strain and GBV risks, and includes a Social Assessment and CERC component. However, there is no do-no-harm analysis examining whether infrastructure siting or resource allocation could exacerbate inter-community or inter-ethnic tensions over water — a well-documented conflict driver in Ethiopia's pastoral areas. The SORT rates Environment and Social risk as Substantial without conflict-specific mitigation detail."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Responsibilities are fragmented. Four federal ministries and their respective regional bureaus share responsibility for the implementation of the OWNP.",
+      "rationale": "The PAD provides a reasonably detailed analysis of the institutional fragmentation across federal, regional, woreda, and community levels, and acknowledges gender disparities in WASHCOM participation. However, it does not map politically sensitive stakeholders, analyse how ethnic or political dynamics shape local governance, or examine power asymmetries that could affect equitable service delivery."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The lesson learned is that both 'hard' and 'soft' investments are needed to sustain safe water supply.",
+      "rationale": "The PDO is clearly articulated and the results chain is detailed, linking infrastructure investment to service quality and sustainability outcomes. The theory of change integrates climate resilience. However, the PDO and its logic model do not frame FCV sensitivity as a design objective; there is no recognition that conflict or political instability could disrupt the causal pathway from investments to outcomes."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Smaller regions and predominantly pastoralist areas with weaker capacities have seen poorer human development outcomes.",
+      "rationale": "The project targets pastoralist zones, climate hotspots, and areas with displacement, and includes gender-informed design criteria and performance-based regional allocation. However, targeting criteria are primarily climate- and poverty-driven; there are no explicit provisions for conflict-affected woredas or FCV-adjusted selection criteria. The performance incentive allocation risks systematically disadvantaging weaker fragile regions."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "This subcomponent will allow, on an as-needed basis, a reallocation or replenishment of the Project resources to woreda- and regional-level implementing agencies to address elements of an emergency response.",
+      "rationale": "The CERC mechanism provides meaningful emergency reallocation capacity and the CWA pooled financing structure adds programmatic flexibility. However, there are no explicit provisions for adjusting implementation modalities — such as community facilitation approaches, safeguard application, or contract management — in areas experiencing active conflict or intercommunal violence."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Once the majority of contributing DPs commit their resources, consolidated CWA results will be reviewed at Mid-Term Review stage and revised accordingly.",
+      "rationale": "The six PDO indicators cover access, functionality, cost recovery, and use of WRM data, with gender disaggregation. MTR provides an adaptive management opportunity. However, there are no FCV-sensitive indicators — no tracking of conflict-affected beneficiary inclusion, displaced population coverage, or social cohesion outcomes — and the MIS required for results-based financing is still under development."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The Datasheet explicitly states no IFC collaboration. There is no mention of IFC or MIGA engagement anywhere in the PAD, including in the private sector development components (sanitation marketing centers, MSE support) where IFC engagement might have been relevant. One WBG integration is absent."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The One WASH CWA project is a well-designed, large-scale WASH investment that integrates climate resilience and gender action, but its FCV integration is limited — conflict dynamics in Ethiopia's diverse and displacement-affected context are treated as background, not as analytical inputs shaping design or targeting. The absence of FCV-adjusted indicators and the risk of stronger regions capturing performance-based allocations at the expense of fragile pastoral areas are the most operationally significant gaps."
+}

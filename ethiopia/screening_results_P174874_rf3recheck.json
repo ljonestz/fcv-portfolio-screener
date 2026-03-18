@@ -1,0 +1,110 @@
+{
+  "project_id": "P174874",
+  "project_name": "ETHIOPIA WOMEN ENTREPRENEURSHIP DEVELOPMENT PROJECT ADDITIONAL FINANCING",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2020,
+  "note": "Extracted PDF (P174874.txt) resolved to the original WEDP parent project PAD (P122764, April 2012), not the 2020 AF document; the screening_targets.json URL points to the wrong document. Scores reflect the parent PAD text only and are inherently conservative. RF3 confirmed false on recheck: original screening_results_P174874.json had triggered RF3 on a gender-exclusion/intra-community tension rationale that does not meet the strict OP 7.30 definition. No named de facto or unconstitutionally constituted authority appears in the document.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "rationale": "The document provides strong socioeconomic diagnostics on gender inequality and MSE constraints but contains no conflict or fragility analysis. Ethiopia's drivers of fragility — ethnic tensions, governance weakness, displacement pressures — are entirely absent from the country context. Do-no-harm framing is absent; political economy considerations are limited to a brief acknowledgement of GAC concerns and the dominance of state-owned MFIs. No red-flag deductions applied (RF1–RF4 all false)."
+    },
+    "responsiveness": {
+      "numeric_score": 4.2,
+      "rating": "Partially Addressed",
+      "rationale": "The PDO is clearly defined and operationally anchored to measurable outcomes (enterprise earnings and employment). Project design includes adaptive features — demand-driven training selection, feedback mechanisms, phased PFI onboarding, and a transparent complaint mechanism. However, no FCV-adjusted implementation modalities are present: geographic targeting defers the four fragile emerging regions without a conflict-sensitivity rationale, and the results framework uses standard enterprise-level indicators with no conflict-adjusted baselines or adaptive triggers."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia's rapid GDP growth has not trickled down equally; women face unemployment rates more than twice as high as men in urban areas (CSA 2010).",
+      "rationale": "The country context section provides detailed socioeconomic diagnostics on gender inequality, MSE sector weakness, and financial access barriers, drawing on multiple data sources. However, there is no acknowledgement of Ethiopia's fragility drivers — ethnic federalism tensions, ongoing conflict, displacement, or governance deficits. The document treats Ethiopia as a stable development context, missing the fragility dimensions shaping the operating environment for women entrepreneurs."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The training module for CDAs will include the specifics of cluster development, conflict management and resolution, gender issues, network building and project management.",
+      "rationale": "The only mention of conflict is in CDA training — a standard cluster-facilitation competency, not a do-no-harm analysis. No assessment of how credit flows through state-linked MFIs in ethnically divided cities could affect inter-community tensions, nor how the project might interact with gender-based conflict dynamics, is present. The ESMF is referenced in the table of contents but its content is not available in the extracted text."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will ensure public access to information; outreach to husbands of participants to ensure consent; complaint mechanisms publicly available at all levels.",
+      "rationale": "The project demonstrates reasonable stakeholder awareness at the community level including consent outreach to male household members, transparent selection criteria, and complaint mechanisms. However, the political economy of MFI ownership (regional governments own 80%+ of major MFIs) and implications of working through politically-affiliated implementing agencies are not critically examined. Power dynamics between regional governments and project beneficiaries are not addressed."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The PDO is to increase the earnings and employment of MSEs owned or partly owned by participating female entrepreneurs in targeted cities through tailored finance and skills development.",
+      "rationale": "The theory of change is coherent and well-articulated: access to finance plus skills plus cluster linkages leads to enterprise growth. The PDO is gender-specific and measurable. However, the theory of change does not account for conflict and fragility as mediating variables — how insecurity, displacement, or governance shocks could disrupt enterprise growth trajectories is not considered."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "WEDP covers four major regional cities plus Addis Ababa and Dire Dawa; Afar, Somali, Benishangul-Gumuz and Gambela will be assessed during implementation for potential expansion.",
+      "rationale": "The targeting of women entrepreneurs in major cities is grounded in MSE activity evidence. Phased PFI onboarding with mandatory TA, individual lending methodology, and demand-driven training selection are adaptive design features. The deliberate exclusion of the four emerging/fragile regions is acknowledged with a commitment to assess expansion — contextually reasonable sequencing, though not framed in conflict-sensitivity terms."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "WEDP is designed so that female entrepreneur participants choose the activity most beneficial for growing their MSE; no compulsory combination or sequence of activities is imposed.",
+      "rationale": "The project builds meaningful operational flexibility through demand-driven component selection, membership cards, and phased scaling. The PFI onboarding process allows gradual expansion. However, there are no conflict-contingency provisions — no protocol for suspending or redirecting activities in areas affected by insecurity or ethnic unrest — a notable gap given project operations across contested ethnic regional states."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Key PDO results indicators will be (1) enterprise earnings and (2) enterprise employment; intermediate results indicators for sub-components included; see Results Framework, Annex 1.",
+      "rationale": "The M&E system is well-designed for a standard private sector development project with baseline/endline surveys and rigorous impact evaluation. However, the results framework contains no FCV-adjusted indicators, no conflict-sensitive outcome proxies, and no adaptive triggers linked to security conditions. The impact evaluation design does not reference conflict or fragility variables as confounders or effect modifiers."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No.",
+      "rationale": "The PAD data sheet explicitly records 'Joint IFC: No.' There is no mention of IFC engagement, MIGA coverage, or private sector arm coordination. Given the project's focus on MSE finance through MFIs and its rationale for leveraging the private financial sector, the absence of IFC collaboration is a missed opportunity for developing sustainable market-based MSE finance beyond the project's direct credit line."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "red_flag_rationale": {
+    "RF1": "No conflict harm pathway is named in the project document. The 0% RF1 rating reflects under-analysis (D2 = 3) rather than effective mitigation — the document simply does not engage with conflict risks.",
+    "RF2": "Distributional analysis is present at the targeting level with clear selection criteria and transparent processes. While the dominance of regionally government-owned MFIs raises political economy concerns, the document does not provide evidence of systematic benefit diversion. PFI eligibility criteria and TA requirements function as partial safeguards.",
+    "RF3": "RF3 confirmed false. The original screening_results_P174874.json incorrectly triggered RF3 on the basis that women-only targeting excluding male-headed households could generate intra-community tensions — this does not constitute engagement with a de facto or unconstitutionally constituted authority under the strict OP 7.30 definition. All implementing agencies (FEMSEDA, DBE, REMSEDAs, TVET colleges) are constitutional federal and regional state institutions. No named non-state armed group or de facto authority appears in the document.",
+    "RF4": "No elite capture harm pathway is explicitly named and unmitigated. Transparency and complaint mechanism provisions partially mitigate capture risk.",
+    "RF5": "The results framework uses standard enterprise-level indicators without FCV-adjusted baselines, but the PAD does not present macro-level results claims that are unrealistic. Indicators are conservative and operationally grounded. RF5 does not trigger on the documentary evidence available; the gap is better captured by the D7 low score."
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The WEDP project (screened via the 2012 parent PAD due to document extraction mismatch) demonstrates strong private sector development design for women's economic empowerment but is entirely silent on Ethiopia's fragility and conflict context, scoring Not Addressed on sensitivity with responsiveness only partially addressed through demand-driven design features that are not explicitly FCV-adapted, placing the project in the Low FCV Integration quadrant."
+}

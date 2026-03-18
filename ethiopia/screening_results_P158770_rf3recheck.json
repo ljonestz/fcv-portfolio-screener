@@ -1,0 +1,102 @@
+{
+  "project_id": "P158770",
+  "project_name": "PRODUCTIVE SAFETY NET PROJECT (PSNP 4) ADDITIONAL FINANCING",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2016,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.17,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a detailed food security and shock-vulnerability context, including drought frequency, El Nino impacts, and regional poverty disparities, and flags High Political and Governance risk in the SORT table. However, the FCV analytical lens is almost entirely absent from the body of the document: conflict drivers, intercommunal tensions, and state-society dynamics in fragile pastoral regions are not interrogated. Do-no-harm analysis is limited to ESMF screening of public works subprojects without a conflict sensitivity lens. Stakeholder analysis is strong on gender and community participation but superficial on political economy of local power structures. RF2 is triggered (deduct 0.5), bringing the adjusted sensitivity composite to 4.67."
+    },
+    "responsiveness": {
+      "numeric_score": 5.40,
+      "rating": "Partially Addressed",
+      "rationale": "The project's scalable safety net design, contingency budgets, PW waivers in drought hotspot woredas, and integration of PSNP and HFA into a common framework represent meaningful operational flexibility for shock response. Enhanced oversight in Afar and Somali (quarterly FM missions, spot-checks) demonstrates adaptive management for underperforming fragile regions. However, the theory of change does not explicitly link safety net transfers to conflict risk reduction or social cohesion, the results framework contains no FCV-adjusted indicators, and IFC/MIGA integration is absent."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Falling—and converging—poverty rates across regions mask significant disparities within regions and among woredas... during the El Nino-induced drought of 2016/17, almost 20% of the rural population required safety net support.",
+      "rationale": "The PAD situates the program in Ethiopia's food insecurity and shock landscape with reasonable depth, including regional targeting weaknesses in Afar and Somali. The SORT records High Political and Governance risk but the document body does not interrogate conflict drivers, political fragility, or intercommunal tensions as structural determinants of vulnerability. The diagnostic is food security-first without a parallel FCV analysis."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "PW subprojects will be screened using the GoE's Environmental and Social Management Framework (ESMF)... standard safeguard procedures will be applied to all PW subprojects.",
+      "rationale": "Environmental and social safeguards are applied (ESMF, RPF, OP 4.10 Indigenous Peoples, OP 4.12 Involuntary Resettlement) and implementation gaps in pastoral areas are acknowledged. However, there is no conflict sensitivity analysis examining how transfer design, community-based targeting, or public works could exacerbate intercommunal tensions or be captured by local power structures in Afar and Somali. The harm pathway of weak implementation in fragile pastoral regions is named but not mitigated through a conflict lens."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy Analysis",
+      "composite": "sensitivity",
+      "numeric_score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Women's participation in various local-level program implementation structures... has led some women to move into other kebele leadership structures. A Gender Action Plan and Social Development Plan are included.",
+      "rationale": "Gender analysis is thorough (Annex 5 Gender Action Plan, Gender Tag with indicators), community-based targeting processes are documented, and social accountability mechanisms (GRM, ESAP, Kebele Appeals Committee) are included. Political economy of local power structures, elite capture risk in community targeting processes, and the role of regional governments in Afar and Somali as political actors rather than neutral implementers receive insufficient attention given the acknowledged targeting failures in these regions."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "numeric_score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The PDO is to support the Government of Ethiopia in improving the effectiveness and scalability of its rural safety net system... Improved scalability refers to consolidating the PSNP and HFA delivery systems into a single framework.",
+      "rationale": "The theory of change is internally coherent for food security and resilience, targeting chronically food insecure households and building a scalable shock-response system that implicitly addresses FCV-relevant risks such as drought-induced displacement. However, FCV objectives are not explicit in the PDO: the project does not articulate how the safety net contributes to social cohesion or conflict risk reduction, and the ToC does not account for how conflict dynamics in pastoral regions could undermine its logic."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "responsiveness",
+      "numeric_score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Targeting accuracy of the PSNP has been considerably weaker in pastoral regions (specifically Afar and Somali)... The livelihood component will not roll out to Somali and Afar until evaluations show improvements.",
+      "rationale": "The design adapts to context in several respects: variable transfer schedules for pastoral areas, PW waivers in nutrition hotspot woredas, differentiated support for labor-constrained households, and explicit acknowledgement of implementation gaps in Afar and Somali. Community-based targeting is supported by social accountability mechanisms. However, deferring livelihood support from the most fragile pastoral regions risks deepening inequality, and the design does not address conflict-affected or displacement-affected sub-populations."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "numeric_score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "In severe drought years, PW conditions will be waived for all households receiving safety net support... contingency budgets held at woreda and federal levels... quarterly FM supervision missions to improve FM in [Afar and Somali] region.",
+      "rationale": "Substantive operational flexibility provisions are in place: woreda-level contingency budgets, PSNP-HFA common framework for scalable shock response, PW waivers triggered by early warning hotspot classifications, and enhanced oversight for Afar and Somali through spot-checks and quarterly supervision missions. These represent genuine adaptive mechanisms. However, flexibility is framed around climate and drought, not conflict or security risks, and there are no provisions for conflict-related access constraints or security-related payment disruptions."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Key results: % of core safety net transfers paid on time; # of PSNP beneficiaries receiving e-payments; % of households in beneficiary list who are poor; % of PW subprojects meeting common standards.",
+      "rationale": "The results framework is technically well-designed for safety net effectiveness (timeliness, targeting accuracy, payment modernisation, PW quality) and includes a planned independent evaluation in 2018 to inform design modifications for pastoral regions. However, there are no FCV-specific indicators measuring social cohesion, grievance resolution rates, conflict-related service disruptions, or inclusion of conflict-affected populations. The GRM is operational but not tracked as an indicator."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no IFC/MIGA collaboration. Contributing practice areas include Finance and Markets and Social, Urban, Rural and Resilience Global Practices, but there is no discussion of private sector mobilisation or IFC/MIGA engagement. Given the livelihood and microfinance dimensions of the project (the Government allocated US$33 million to MFIs for PSNP households), there was a natural entry point for IFC engagement that was not pursued."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "The PSNP Rural Safety Net PAD is a technically sophisticated social protection instrument with strong drought-responsive design, but its FCV sensitivity is constrained by the near-total absence of conflict risk analysis and a theory of change that does not account for conflict dynamics in fragile pastoral regions. RF2 is triggered by acknowledged targeting weaknesses in Afar and Somali combined with community-based selection via kebele structures, creating elite capture pathways that the document names but does not systematically mitigate. RF3 does not trigger: the document contains no explicit reference to engagement with de facto or non-constitutional armed authorities under OP 7.30."
+}
