@@ -1,0 +1,759 @@
+[
+  {
+    "project_id": "P178730",
+    "project_name": "Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project",
+    "instrument": "IPF",
+    "approval_year": 2022,
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Para 1 explicitly invokes FCV processing basis: 'country remains characterized by fragility, conflict, and violence (FCV) and low institutional capacity, the proposed AF is being processed in accordance with paragraph 12 of Bank Policy on IPF'. Country context (paras 3-7) details decades of civil unrest, IPC3+ food insecurity for 6 million people, 2.9 million IDPs as of March 2022, climate vulnerability ranking (most vulnerable among 167 countries per Center for Global Development 2018), and interaction of drought, COVID-19, locust plague and Ukraine war. WBG FCV Strategy 2020-2025 explicitly cited in para 29: 'commits to remaining engaged during situations of crisis... building resilience, protecting essential institutions, and delivering critical services'. CPF FY19-22 alignment noted. IPC data used systematically for geographic targeting (95% overlap between SNHCP districts and IPC3+ areas). Limitation: SCD not explicitly cited in this AF; no dedicated Somalia Risk and Resilience Assessment citation. Conflict-specific risk analysis somewhat generic relative to later AFs."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Risk table identifies political/governance risks as 'High' with mitigation measures. Security Management Plan referenced as in place for WFP operations. TPM arrangements provide independent verification to reduce elite capture. Community-based targeting (CBT) with community selection committees (CSCs) includes anti-elite-capture provisions: 'community validation gives communities a clearly defined formal role in eligibility decisions, albeit with adequate controls to prevent elite capture, exclusion, corruption'. GRM established (WFP complaints and feedback mechanism + toll-free call center). Lists of eligible households publicly displayed to ensure transparency. No significant GBV/SEA/SH incidents reported in implementation history. ESS compliance includes community health and safety and stakeholder engagement. Limitation: conflict as an implementation modality not formally checked in this 2022 document; do-no-harm analysis not as formalized as in later AFs; Security Management Plan not described in detail within document."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "FGS-FMS coordination through MoLSA explicitly noted: 'MoLSA will lead communication and dialogue with the FMS which would be particularly critical in ensuring transparency around the geographic targeting process'. MoLSA chairs periodic progress reviews with WFP and UNICEF. Political economy of cash transfers addressed: transfers contribute to building state-society trust ('will signal the FGS commitment to improving lives of the poor and vulnerable'). Gender dimension explicit: 85% female recipients target; 1,125,000 female beneficiaries target. WFP and UNICEF as implementing partners with established presence reduces political economy risks. Community-based targeting uses CSCs with public disclosure of beneficiary lists to manage local power dynamics. Limitation: no explicit political economy analysis of clan dynamics or FMS factional interests in targeting; stakeholder mapping not formalized; Puntland/FMS tensions not discussed in this 2022 version."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "PDO remains: provide cash transfers to targeted poor and vulnerable households and establish key building blocks of a national shock-responsive safety net system. Theory of change explicitly FCV-sensitive: shock-responsive design directly addresses cyclical displacement and climate shocks. ECT component (155,000 drought-affected households) with Baxnaano-regular continuity (200,000 households) and modest expansion (20,000 new) demonstrates vertical-horizontal scale logic. IPC3+ geographic targeting methodology creates evidence-based rationale for spatial allocation. System-building component (Component 4: USR registration, US$5M) creates adaptive capacity for future shocks. WBG FCV Strategy citation in ToC rationale (para 29). Collaboration with humanitarian system (Famine Action Mechanism) explicitly referenced as reducing nexus gap. Limitation: PDO unchanged from pre-FCV-sensitive design; some ToC elements implicit rather than explicitly mapped."
+      },
+      "D5_design_targeting": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Targeting explicitly calibrated to FCV and shock context: district distress index cross-referenced with IPC3+ data; 95% overlap between SNHCP districts and IPC3+ areas confirmed empirically. Multi-layered targeting: (i) geographic targeting via distress index, (ii) village welfare scoring, (iii) household welfare scores from USR, (iv) CBT validation with CSCs. IDP-aware: drought-displaced IDPs included in ECT coverage; 'persons-with-disabilities' and child-bearing households prioritized in oversubscription cases. Female-headed household focus: 85% female recipient target. Mobile money payment modality reduces physical security risks for beneficiaries. Transition from WFP-led to MoLSA-led delivery explicitly planned, building government capacity. USR expansion (Component 4) creates adaptive registry for future shock response. Humanitarian-development nexus design: Project cited as Famine Action Mechanism good practice. Limitation: Somaliland coverage approach not discussed; inter-FMS targeting equity analysis absent."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Implementation processed under IPF para 12 (urgent need/capacity constraints) – an explicit FCV operational adaptation. CERC of Somalia Urban Resilience Project (SURP II) referenced as triggered for IDP response (para 8) showing portfolio-level flexibility. WFP's SCOPE platform and operational presence provide security-proofed delivery in insecure areas. TPM arrangements provide independent verification to adapt implementation. GRM (toll-free call center + WFP complaints mechanism) enables adaptive feedback. ECT design (155,000 households over 6 months) structured for rapid deployment using pre-identified beneficiary base from SNLRP. Security Management Plan in place for WFP. Operations Manual updated to incorporate TPM adjustments within three months of effectiveness. Limitation: CERC not included in this specific project's design; no explicit area-access contingency plan described within document."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Results framework updated with shock-responsive indicator: 'households receiving shock-responsive benefits to cope with an adverse climatic event' (target: 338,000). Female disaggregation indicator: 'women directly receiving cash transfers' (85% target). USR expansion indicator: 'households registered in USR' (200,000 target). PDO indicator: 'beneficiaries of social safety net programs' raised to 2,250,000 (female sub-indicator 1,125,000). TPM reports feed back into implementation adjustments. IPC data used for mid-course targeting adjustments. Limitation: no IDPs-specific indicator; no conflict-access tracking indicator; adaptive management framework not formally described; no explicit framework for adjusting to deteriorating security conditions."
+      },
+      "D8_one_wbg_integration": {
+        "score": 4,
+        "label": "Partially Addressed",
+        "evidence": "WFP and UNICEF partnerships are central to implementation design and explicitly described. Coordination with SCRP (P173315), SURP II (P178887), and WAPR/Biyoole (P167826) described in para 8 with $45M remobilization across three projects as combined drought response. CPF alignment noted. However, Bank/IFC/MIGA collaboration field: no IFC or MIGA engagement noted in this document. No private sector mobilization dimension. The coordination is Bank-internal and with UN agencies rather than One WBG. Limitation: significant D8 gap – IFC and MIGA entirely absent."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Security risks are rated High but mitigated through Security Management Plan, WFP operational presence with established security protocols, mobile money payment modality reducing physical risk, TPM for verification, and GRM. Conflict explicitly recognized in project rationale and implementation arrangements."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "Distributional analysis present through IPC3+ geographic targeting, distress index, CBT with CSCs, and USR household welfare scoring. Beneficiary disaggregation by gender (85% female target) and vulnerability category. Table 2 provides empirical geographic overlap analysis. PSIA not required for this IPF instrument type."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. Somalia is a sovereign state with recognized federal government (FGS). No situations of disputed government or de facto authority requiring OP 7.30 provisions. FGS is the borrower."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Elite capture explicitly addressed: 'adequate controls to prevent elite capture, exclusion, corruption' in CBT process. Public display of beneficiary lists. TPM provides independent verification. GRM enables complaints. USR creates objective welfare-score-based targeting. Multiple overlapping accountability mechanisms."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "Macro framework realistic for FCV context: project processes under IPF para 12 (urgent need), grant financing (not credit), drought crisis framing is evidence-based (IPC data), and financing explicitly partially fills the 2022 Humanitarian Response Plan gap. IMF data on GDP rebound cited. No macro conditionality."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 7.33,
+    "composite_responsiveness_score": 7.2,
+    "sensitivity_calculation": "avg(D1=8, D2=7, D3=7) = 7.33; minus 0.0 (0 red flags × 0.5) = 7.33",
+    "responsiveness_calculation": "avg(D4=8, D5=9, D6=8, D7=7, D8=4) = 36/5 = 7.2",
+    "gap_matrix_cell": "High FCV Integration",
+    "gap_matrix_rationale": "Sensitivity ≥7 (7.33) and Responsiveness ≥7 (7.2). Both thresholds met. Strong targeting and design in a well-framed FCV context. D8 is the primary weakness.",
+    "key_finding": "P178730 demonstrates strong FCV integration through explicit FCV framing, evidence-based IPC3+ geographic targeting with 95% overlap, shock-responsive ECT design, mobile money payment modality for security, and multi-layered accountability (CBT-CSC-TPM-GRM). The project directly addresses drought-displacement nexus while building USR delivery capacity. Principal gap is the absence of IFC/MIGA engagement (D8=4); all other dimensions are substantially addressed or strong.",
+    "notable_strengths": [
+      "IPF para 12 processing explicitly invoked for FCV/urgent need context",
+      "95% empirical overlap between project districts and IPC3+ areas – rigorous geographic targeting",
+      "Multi-layered elite capture mitigation: CBT, public lists, TPM, GRM, USR welfare scoring",
+      "WBG FCV Strategy 2020-2025 explicitly cited as strategic rationale",
+      "Portfolio-level FCV coordination: SURP CERC triggered, SCRP and Biyoole remobilized"
+    ],
+    "notable_gaps": [
+      "No IFC or MIGA engagement – D8 entirely Bank/UN axis",
+      "Somaliland coverage and FMS equity analysis absent",
+      "Conflict as implementation modality not formally checked",
+      "No IDP-specific indicator in results framework"
+    ]
+  },
+  {
+    "project_id": "P181469",
+    "project_name": "Somalia Shock Responsive Safety Net for Human Capital Project Third Additional Financing",
+    "instrument": "IPF",
+    "approval_year": 2023,
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "WBG FCV Strategy 2020-2025 explicitly cited. 'Conflict' checked as implementation modality. Country context: 'Somalia is facing a rapidly unfolding humanitarian catastrophe, driven by the longest and most severe drought in at least 40 years' with IOM 2023 citation of 3.8 million IDPs. Macro context links FCV to food crisis, displacement, and systemic vulnerability. IDA Crisis Response Window (CRW) allocation of US$80M out of US$100M explicitly justified by FCV-shock intersection. Risk section rates conflict/insecurity risks as 'Substantial', political/governance as 'High', macroeconomic as 'High', and fiduciary as 'High'. USR nationwide expansion to 2 million households directly addresses shock-response capacity gap. SEAH risk flagged and addressed with dedicated Action Plan. Security Risk Assessment and Management Framework required. Somalia Social Protection Policy and NDP9 alignment confirmed."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Conflict/insecurity risks rated 'Substantial' with specific mitigation: Security Risk Assessment and Management Framework (SRAMF) referenced. SEAH Action Plan explicitly prepared and disclosed. ESS instruments updated and disclosed (ESCP, SEP). TPM firm replaced and strengthened based on performance issues in earlier phases – adaptive management of oversight function. GRM includes WFP complaints mechanism and government toll-free line. Mobile money payments reduce physical security exposure. 90% female recipient target creates gender-sensitive access pathway. ESS standards include community health and safety and stakeholder engagement. Limitation: conflict-affected areas access constraints not fully mapped; no explicit 'do no harm' framework named as such in visible sections."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "MoLSA-FMS coordination explicitly addressed with federal-state political economy awareness. 90% female beneficiary target addresses gender power dynamics. Community-based targeting process with CSCs reduces local elite capture risks. USR nationwide expansion creates more systematic, objective targeting reducing political manipulation. WFP/UNICEF partnership provides operational buffer against political interference. TPM replacement demonstrates responsiveness to stakeholder concerns. Humanitarian-development nexus coordination: Famine Action Mechanism cited as model. SEAH Action Plan demonstrates attention to gender power relations in service delivery. Limitation: no explicit clan or political economy analysis named in visible sections; Puntland coverage not separately analyzed."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "CRW justification explicitly links PDO to FCV-shock intersection: $80M from Crisis Response Window directly justified by FCV+drought nexus. ToC explicitly frames: prevent famine, protect human capital, expand USR for future shock response. USR nationwide expansion (2 million households) is a system-building investment for long-term FCV resilience. Safety net program cited in WBG FCV Strategy 2020-2025 as good practice example. Clear progression from emergency ECT → regular Baxnaano → USR-based adaptive registry. Institutional trust-building dimension explicit: continued government-led delivery builds state legitimacy. 90% female target creates explicit gender-sensitive PDO sub-dimension. HIPC Completion Point context understood as enabling fiscal space for transition."
+      },
+      "D5_design_targeting": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "IPC3+ geographic targeting maintained and updated. IOM 2023 data on 3.8 million IDPs incorporated into targeting rationale. CBT with CSCs, public beneficiary lists, USR welfare scoring – multi-layered targeting. USR scale-up to 2 million households creates broad registry for shock-responsive enrollment. Mobile money payment modality sustained. Nutrition-linked conditional component maintained (linking transfers to health service uptake). Security Risk Assessment Framework addresses access constraints. SEAH Action Plan addresses service delivery safety for female beneficiaries. 90% female direct recipient design. USR data protection provisions (Data Protection Framework/Act cited). Limitation: geographic targeting for Somaliland and Puntland-specific security dynamics not separately elaborated in visible sections."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "CRW processing ($80M) is itself an operational flexibility instrument for FCV/crisis response. IPF para 12 processing for urgent need maintained. Security Risk Assessment and Management Framework provides operational security protocols. TPM firm replaced demonstrating adaptive management of monitoring arrangements. ESCP and SEP updated and disclosed for new implementation context. WFP/UNICEF implementation partnership provides proven security-proofed operational capacity. Operations Manual updated. GRM adapted and functioning. Shock-responsive trigger mechanism inherent in program design. Limitation: CERC not specifically in this child project; no explicit contingency trigger thresholds described in visible sections."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Results framework includes shock-responsive indicator tracking. Female beneficiary disaggregation maintained (90% female target). USR household registration indicator captures system-building progress. TPM reports feed adaptive management. IPC data used for mid-course adjustments. SEAH Action Plan implementation tracked. Security incidents tracked through SRAMF. CRW reporting requirements add layer of adaptive monitoring. Limitation: no IDP-specific outcome indicator visible; results framework details not fully visible in read sections."
+      },
+      "D8_one_wbg_integration": {
+        "score": 4,
+        "label": "Partially Addressed",
+        "evidence": "Coordination with SCRP, SURP II, Biyoole maintained from earlier phases. WFP and UNICEF partnerships central. CRW is a Bank instrument but coordination with wider WBG absent. No IFC or MIGA engagement noted. No private sector mobilization for safety net delivery. Coordination with humanitarian system (Famine Action Mechanism) represents best available non-WBG partnership. Limitation: IFC/MIGA entirely absent from design as with AF2."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Conflict/insecurity risks rated 'Substantial' but specifically mitigated through Security Risk Assessment and Management Framework, WFP operational security protocols, mobile money payments, TPM, SEAH Action Plan, and GRM. Active mitigation measures documented."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "IPC3+ geographic targeting with IOM IDP data provides distributional analysis. CBT process with welfare scoring addresses household-level distributional targeting. 90% female target incorporates gender distributional analysis. USR provides systematic welfare ranking."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is sovereign borrower. No de facto authority or contested governance situations triggering OP 7.30."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Multiple elite capture mitigation mechanisms: CBT with CSCs, public beneficiary lists, TPM (with firm replaced when performance inadequate), GRM, USR objective welfare scoring. Explicit anti-capture design language maintained from earlier phases."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "CRW grant financing, not credit. Macro framework realistic: explicit acknowledgment of FGS fiscal constraints, near-total donor dependence for safety net. No macro conditionality. IMF program context acknowledged."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 8.33,
+    "composite_responsiveness_score": 7.8,
+    "sensitivity_calculation": "avg(D1=9, D2=8, D3=8) = 8.33; minus 0.0 (0 red flags × 0.5) = 8.33",
+    "responsiveness_calculation": "avg(D4=9, D5=9, D6=9, D7=8, D8=4) = 39/5 = 7.8",
+    "gap_matrix_cell": "High FCV Integration",
+    "gap_matrix_rationale": "Sensitivity ≥7 (8.33) and Responsiveness ≥7 (7.8). Both thresholds comfortably met. CRW financing and explicit WBG FCV Strategy alignment elevate both scores. D8 is the only significant weakness.",
+    "key_finding": "P181469 is among the strongest FCV-integrated operations in the portfolio. CRW processing ($80M), explicit FCV Strategy citation, SRAMF, replaced TPM firm, SEAH Action Plan, IOM IDP data incorporation, and USR nationwide expansion to 2 million households collectively demonstrate high FCV sensitivity and responsiveness. The IDA Crisis Response Window is itself a proxy for institutional recognition of the FCV-emergency nexus. Principal gap remains the absence of IFC/MIGA engagement (D8=4).",
+    "notable_strengths": [
+      "$80M of $100M from Crisis Response Window – institutional FCV/crisis recognition",
+      "WBG FCV Strategy 2020-2025 explicitly cited in rationale",
+      "IOM 2023 citation of 3.8 million IDPs integrated into targeting design",
+      "TPM firm replaced demonstrating genuine adaptive management",
+      "SEAH Action Plan and Security Risk Assessment Framework – dual safety layer",
+      "USR 2-million-household expansion as systemic FCV resilience investment"
+    ],
+    "notable_gaps": [
+      "IFC/MIGA entirely absent – D8 gap unchanged from AF2",
+      "No IDP-specific results indicator visible",
+      "Puntland/Somaliland-specific security dynamics not separately analyzed"
+    ]
+  },
+  {
+    "project_id": "P181341",
+    "project_name": "Accelerating Sustainable and Clean Energy Access Transformation in SOMALIA",
+    "instrument": "IPF",
+    "approval_year": 2023,
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "This is a regional MPA document (ASCENT, P180547) covering 6 countries; Somalia-specific content is in Annex 5 (P181341). At the program level, FCV is acknowledged: 'Half of the AFE population without electricity access resides in countries affected by fragility, conflict, and violence (FCV), where the lack of energy access is both the consequence and the cause of fragility and conflict' (para 7). WBG FCV Strategy 2020-2025 cited at program level (para 16). FCV acronym present in program-level risk considerations and innovation agenda. 'Fragile State(s)' and 'Fragile within a non-fragile Country' checked in project data sheet. However, the document's primary analytical frame is the AFE region (656 million people, 6 countries); Somalia-specific FCV diagnostics are in Annex 5 which is not substantively accessible in the main document body. Risk ratings for the overall MPA program are 'Moderate' for political/governance – a significant undercalibration for Somalia's Tier 1 context. No citation of Somalia Risk and Resilience Assessment or Somalia SCD in main body."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "At MPA level, conflict risks for FCV countries acknowledged in design: 'energy access efforts must be more inclusive... In the AFE region, more than half of the population without electricity access live in FCV-affected countries, where lack of access to clean cooking and electricity disproportionately affects low-income and vulnerable populations, especially women and girls' (para 55). DRE technology approach (solar home systems, mini grids) reduces physical infrastructure vulnerability compared to grid extension. SEP and GRM required for all country operations per para 63. E&S standards apply to Somalia operations per country annex. However, the main document does not contain conflict-specific do-no-harm analysis for Somalia. No Security Management Plan described. The 'Moderate' political/governance risk rating for the overall MPA does not reflect Somalia's specific High/Substantial conflict risk. Limitation: Somalia-specific conflict risk management visible only in Annex 5."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "At MPA level, stakeholder engagement is addressed: SEPs required, citizen engagement indicators mandated (para 63), gender action plan for COMESA. IFC/MIGA coordination explicitly built into ASCENT design (DARES Platform, Team members from IFC/MIGA, para 22). MoU between World Bank, IFC, MIGA on DARES. However, Somalia-specific political economy analysis (FGS-FMS tensions on energy revenues, clan dynamics around electricity access) is not visible in the main document body. Energy sector governance challenges in Somalia (fragmented utilities, SomPower, regional power dynamics) not analyzed in visible sections. Limitation: main document's political economy analysis targets COMESA/AFE region; Somalia specifics are in Annex 5."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "MPA Program Development Objective addresses energy access broadly; Somalia's Phase 4 PDO would address electricity access in Somalia's unique FCV context. At program level, FCV framing of ToC is present: 'lack of energy access is both the consequence and the cause of fragility and conflict' (para 7). De-risking facility for FCV contexts under development (para 44). Somalia's context of fragmented mini-grid markets, no functioning national grid, and FCV-driven energy poverty is implicitly addressed by DRE-first approach. However, explicit Somalia-specific ToC linking energy access to conflict mitigation or state-legitimacy building is not visible in main document. Limitation: Somalia ToC elements are in Annex 5; main body ToC is AFE-regional."
+      },
+      "D5_design_targeting": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "DRE-first approach (solar home systems, mini grids) is technically appropriate for Somalia's fragmented energy landscape and FCV context – grid extension not viable in conflict areas. IDP/displacement-affected communities acknowledged as target group: 'increasing number of forcibly displaced persons and their host communities are in urgent need of improved energy access to reduce their vulnerabilities' (para 7). RBF pilot in FCV context planned under ASCENT (para 13d). Gender targeting built into COMESA regional approach; female-headed households acknowledged. However, Somalia-specific targeting design (geographic focus, IDP camp electrification, conflict-access protocols) is in Annex 5. Limitation: main body design is regional; Somalia-specific design details not visible here."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "MPA structure provides programmatic flexibility: phased approach allows Somalia to implement within its own context. Each country implements independently (para 56). DRE technology choices (SHS, mini grids) are inherently more resilient to conflict disruption than grid infrastructure. DARES Platform supports adaptive implementation approaches. However, no CERC in energy project design. Somalia-specific security protocols, access management, or contingency arrangements not described in main body. The MPA's standard risk framework may not adequately capture Somalia's Tier 1 operational constraints. Limitation: Somalia-specific flexibility measures in Annex 5."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "MPA results framework includes energy access indicators with gender disaggregation. Digital M&E platform designed for real-time monitoring (para 58). COMESA monitors overall program results. Country-level monitoring independent per country annex. GHG reduction as PDO indicator. Women STEM employment indicator. However, Somalia-specific results framework (conflict-access indicators, IDP electrification indicators, security incident tracking) not visible in main body. The 'Moderate' risk rating suggests the results framework may not include conflict-adaptive triggers for Somalia. Limitation: Somalia-specific M&E in Annex 5."
+      },
+      "D8_one_wbg_integration": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Bank/IFC Collaboration explicitly marked 'Yes – Joint Level: Complementary or Interdependent project requiring active coordination'. DARES Platform jointly managed by IFC, MIGA, AFE, AFW teams (para 22). IFC and MIGA team members embedded in ASCENT team. TDB (Trade Development Bank) serves as financial intermediary for REAF Platform alongside IFC coordination (para 44). Future de-risking facility under joint development with IFC and MIGA (para 44). 'ASCENT will leverage the comparative advantage of all parts of the World Bank (IDA, IFC, and MIGA)' (para 3). This is the strongest D8 score in the batch – the MPA embodies the One WBG approach with deep IFC/MIGA integration at structural level."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": true,
+        "rationale": "The overall MPA program risk rating is 'Moderate' for political/governance – a significant undercalibration for Somalia's Tier 1 context. Somalia-specific conflict risks (Al-Shabab attacks, FGS-FMS energy revenue tensions, insecurity in mini-grid deployment areas) are not mitigated in the main document body. Security Management Plan not described. The disconnect between the program-level risk rating and Somalia's actual operational environment represents an unmitigated conflict risk at the document level assessed. Note: Annex 5 may address these gaps but is not accessible in the primary document body."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "At MPA level, distributional analysis acknowledges bottom-two-income-quintile energy poverty, IDP needs, and gender gaps. DRE approach targets underserved communities. PSIA equivalent for energy sector provided at program level. Somalia-specific distributional analysis in Annex 5."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is sovereign counterpart for Somalia component."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Energy sector elite capture risks (utility capture, licensing capture) acknowledged. SEP and GRM required. RBF design reduces discretionary allocation. Digital MRV reduces manipulation. COMESA oversight provides regional accountability layer."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "IDA grant financing for Somalia. Macro framework realistic: Somalia component is $100M within $5B program, DRE focus reduces fiscal burden on utility, no macro conditionality."
+      }
+    },
+    "red_flag_count": 1,
+    "composite_sensitivity_score": 4.5,
+    "composite_responsiveness_score": 6.2,
+    "sensitivity_calculation": "avg(D1=5, D2=5, D3=5) = 5.0; minus 0.5 (1 red flag × 0.5) = 4.5",
+    "responsiveness_calculation": "avg(D4=6, D5=6, D6=5, D7=5, D8=9) = 31/5 = 6.2",
+    "gap_matrix_cell": "Low FCV Integration",
+    "gap_matrix_rationale": "Sensitivity <7 (4.5, RF1 triggered for undercalibrated risk ratings in main document body) and Responsiveness <7 (6.2). The D8 score (9) is exceptionally strong for One WBG integration, but the FCV-specific dimensions are substantially diluted by the regional MPA framing where Somalia-specific analysis is relegated to Annex 5. The program-level 'Moderate' risk rating for a Tier 1 FCV country is a significant structural deficiency.",
+    "key_finding": "P181341 presents a paradox: the strongest D8 score in the batch (9 – genuine IFC/MIGA/DARES integration) combined with the lowest sensitivity scores, because the main PAD document's analytical frame is a 6-country AFE regional MPA. Somalia-specific FCV diagnostics, risk calibration, and conflict-sensitive design are confined to Annex 5 (P181341). The program-level 'Moderate' political/governance risk rating is a critical undercalibration for Somalia's Tier 1 context, triggering RF1. The document-level assessment reflects what a reviewer would find without Annex 5; the actual Somalia component design may be better calibrated.",
+    "notable_strengths": [
+      "Strongest D8 in batch: explicit IFC/MIGA/DARES Platform integration at structural level",
+      "WBG FCV Strategy 2020-2025 cited at program level",
+      "DRE-first approach (SHS, mini grids) is technically appropriate for FCV contexts",
+      "IDP/displacement-affected communities explicitly acknowledged as target group",
+      "RBF pilot in FCV context planned as innovation"
+    ],
+    "notable_gaps": [
+      "RF1 triggered: program-level 'Moderate' risk rating severely undercalibrates Somalia Tier 1 context",
+      "Somalia-specific FCV diagnostics confined to Annex 5, not visible in main body",
+      "No Security Management Plan in main document",
+      "Conflict-access protocols for mini-grid deployment in insecure areas not described",
+      "FGS-FMS energy governance tensions not analyzed in main body"
+    ]
+  },
+  {
+    "project_id": "P179307",
+    "project_name": "Somalia Second Inclusive Growth DPO",
+    "instrument": "DPF",
+    "approval_year": 2023,
+    "doc_type": "Program Document",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Para 1 explicitly frames FCV: 'strengthening state and institution building is a critical foundation for economic growth in Somalia's context of fragility, conflict and violence (FCV)'. IDPs mentioned in context analysis. SCD cited as analytical underpinning. IEG fragile states report explicitly cited as lesson-learning reference. CPF FY22-26 alignment confirmed. FCV cited throughout policy prior actions rationale. Risk section identifies political/governance, macroeconomic, implementation/capacity risks with FCV framing. PSIA section 5.1 exists. Climate-FCV nexus addressed (fisheries resilience, electricity access). Somalia's HIPC Completion Point context explained. Limitation: FCV Strategy 2020-2025 not explicitly cited by name in visible sections; Somalia Risk and Resilience Assessment not referenced."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "PSIA section 5.1 assesses distributional impacts of prior actions. Prior actions designed to be conflict-neutral or conflict-positive: customs harmonization reduces clan/federal revenue disputes; audit reform builds transparent governance; digital ID reduces exclusion of conflict-displaced persons; fisheries licensing reform addresses resource-based conflict trigger. Safety net results target (220,000 female Baxnaano beneficiaries at 90% female) maintains social safety net as conflict-mitigation instrument. No prior actions identified as conflict-generating or displacement-exacerbating in visible analysis. IFC advisory services on investment climate maintains conflict-sensitive private sector rationale. Limitation: explicit do-no-harm screening checklist not described; conflict-sensitivity of individual prior actions not formally analyzed using a named framework."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "FGS-FMS political economy explicitly addressed: prior actions on customs harmonization and revenue sharing directly engage federal-state political tensions. Digital ID prior action addresses exclusion of marginalized clans and IDPs. Fisheries prior action (FMS revenue sharing from fisheries licensing) directly addresses inter-state resource conflict dimension. Investment climate reform engages private sector political economy. IFC advisory services cited for investment climate work. Pillar 1 (state-building) directly addresses the political legitimacy and institutional reform agenda at the heart of Somalia's FCV drivers. Safety net female targeting addresses gender power relations. PSIA addresses distributional effects. Limitation: clan-level political economy analysis not explicitly visible; Puntland-specific analysis not visible in main sections."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "DPF ToC explicitly FCV-grounded: 'strengthening state and institution building is critical foundation for economic growth in Somalia's FCV context'. Pillar 1 (Strengthening Governance and Transparency) directly addresses FCV state-building dimension. Pillar 2 (Building Resilience and Shared Growth) addresses economic resilience in FCV context. Prior actions sequence: customs harmonization → increased FGS revenue → reduced federal-state fiscal tensions → reduced FCV driver. Digital ID → improved service delivery → reduced exclusion grievance → FCV mitigation. Fisheries licensing → revenue sharing → reduced resource-conflict trigger. Safety net expansion → reduced grievance → social cohesion. IEG lessons on FCV engagement explicitly incorporated. Limitation: counterfactual theory ('without these reforms, FCV intensifies') not fully elaborated; sequencing logic between Pillar 1 and Pillar 2 not explicitly mapped."
+      },
+      "D5_design_targeting": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "Prior actions are targeted at structural FCV drivers (customs, audit, digital ID, fisheries, electricity, investment protection) rather than direct service delivery to vulnerable populations. Safety net results target specifically calls for 220,000 female Baxnaano beneficiaries at 90% female – explicitly gender-targeted. DPF instrument inherently focuses on policy reform rather than direct targeting of FCV-affected populations. Electricity sector reform (prior action) addresses access for poor and displaced populations indirectly. Data protection prior action protects digital ID data of marginalized groups including IDPs. Limitation: DPF design does not lend itself to geographic targeting of conflict-affected areas; no explicit IDP-focused prior action; distributional targeting of reforms not fully elaborated for all pillars."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "DPF instrument has inherently limited operational flexibility compared to IPF: disbursement triggered by prior action completion rather than adaptive implementation. PSIA section provides analytical basis for monitoring policy effects. Coordination with Bank IPF portfolio (safety nets, energy, RCRF) provides complementary operational flexibility. Budget support modality reduces implementation transaction costs in FCV context. Limitation: no CERC mechanism; DPF disbursement cannot be redesigned mid-implementation; no area-access contingency; operational flexibility limited by instrument design. This is a structural characteristic of DPF, not a design failure."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "Results framework includes: female Baxnaano beneficiaries (220,000 at 90% female), customs revenue indicators, audit completion indicators, digital ID enrollment, fisheries licensing reform metrics. Female disaggregation in safety net indicator. PSIA provides framework for monitoring distributional effects. However, DPF results framework by design focuses on reform process outputs rather than FCV-outcome indicators. No conflict-monitoring indicator, no IDP-specific indicator, no security environment tracking. Limitation: DPF instrument constraint – results framework inherently less adaptive than IPF frameworks."
+      },
+      "D8_one_wbg_integration": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "IFC advisory services explicitly mentioned for investment climate reform – the primary prior action in Pillar 2 investment protection area. Coordination with Bank IPF operations (safety nets, energy, RCRF, fisheries) documented. CPF alignment noted. Private sector investment protection prior action directly complements IFC investment facilitation. Limitation: IFC/MIGA collaboration not as deeply integrated as in ASCENT; MIGA not mentioned; DPF instrument does not naturally structure joint lending operations."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Prior actions analyzed in PSIA for conflict risk. No prior actions identified as conflict-exacerbating. Customs harmonization and fisheries revenue sharing reforms directly address resource-based conflict triggers. Risk section acknowledges political/governance and security risks with mitigation through policy dialogue and sequencing."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "PSIA section 5.1 explicitly exists and assesses distributional impacts. Safety net female target (90% female Baxnaano beneficiaries) demonstrates distributional sensitivity. IEG fragile states report cited as analytical underpinning for distributional awareness."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is sovereign borrower for DPF."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Audit reform and digital ID prior actions directly address elite capture in public finance and service delivery. Fisheries licensing transparency reduces elite capture of fisheries revenues. Customs harmonization reduces informal revenue diversion. Prior actions are structured to build accountability systems."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "Macro framework realistic: DPF is $75M grant, HIPC completion context provides debt relief foundation, IMF program acknowledged, FGS fiscal constraints explicitly recognized. No unrealistic growth projections in visible sections."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 7.67,
+    "composite_responsiveness_score": 6.4,
+    "sensitivity_calculation": "avg(D1=8, D2=7, D3=8) = 7.67; minus 0.0 (0 red flags × 0.5) = 7.67",
+    "responsiveness_calculation": "avg(D4=8, D5=6, D6=5, D7=6, D8=7) = 32/5 = 6.4",
+    "gap_matrix_cell": "Implementation Gap",
+    "gap_matrix_rationale": "Sensitivity ≥7 (7.67) but Responsiveness <7 (6.4). The DPF instrument design limits D5 (targeting), D6 (operational flexibility), and D7 (adaptive results framework) by structural necessity, not design failure. The FCV analysis is strong but the instrument's inherent limitations constrain responsiveness scores. This is a characteristic pattern for DPF operations in FCV contexts.",
+    "key_finding": "P179307 demonstrates strong FCV sensitivity through explicit FCV framing, PSIA, IEG engagement, and prior actions that directly address FCV structural drivers (customs harmonization, fisheries revenue sharing, digital ID for IDPs, audit transparency). However, the DPF instrument generates a structural Implementation Gap: D5, D6, and D7 are constrained by the budget support modality's limited targeting and operational flexibility. IFC advisory services integration (D8=7) represents a positive differentiator versus the safety net projects.",
+    "notable_strengths": [
+      "Prior actions directly target FCV structural drivers: customs, fisheries revenue, digital ID",
+      "PSIA section 5.1 with explicit distributional analysis",
+      "IEG fragile states report cited as lesson reference",
+      "90% female Baxnaano beneficiary target in results indicators",
+      "IFC advisory services referenced for investment climate prior action"
+    ],
+    "notable_gaps": [
+      "DPF instrument limits operational flexibility (D6=5) and targeted FCV response (D5=6)",
+      "No CERC or crisis-triggered disbursement mechanism",
+      "FCV Strategy 2020-2025 not explicitly cited by name",
+      "No IDP-specific prior action or indicator",
+      "Puntland/FMS-specific political economy analysis not visible"
+    ]
+  },
+  {
+    "project_id": "P501988",
+    "project_name": "First Somalia Economic Resilience Development Policy Financing",
+    "instrument": "DPF",
+    "approval_year": 2024,
+    "doc_type": "Program Document",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Para 1: 'Legacies of state fragmentation and continued conflict have shaped Somalia's development trajectory'. Para 2: 'Somalia is the world's second most exposed country to climate change impacts'. IDA Turnaround Allocation (TAA) milestones for FCV drivers explicitly cited – TAA is an FCV-specific IDA allocation instrument. WBG FCV Strategy 2020-2025 alignment implicitly confirmed through TAA reference. HIPC Completion Point context establishes FCV-recovery trajectory. Climate-FCV nexus explicitly articulated: climate shocks as FCV amplifier and vice versa. Puntland constitutional tensions explicitly mentioned (political instability named). Drought index insurance for pastoralists (180,000 including 90,000 women) as results indicator directly links FCV-climate-livelihoods nexus. Paris Alignment assessment included. SCD Update FY23 cited. Limitation: Somalia Risk and Resilience Assessment 2023 not explicitly cited in visible sections."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Prior actions analyzed for FCV do-no-harm implications through PSIA process. Climate resilience prior actions (drought index insurance, disaster risk financing) explicitly designed to reduce climate-driven conflict triggers. TAA milestones directly address FCV institutional drivers. Constitutional process tensions (Puntland) flagged explicitly as political risk. IFC advisory services referenced for private sector reform prior actions. Risk section acknowledges high political/governance risks. Limitation: explicit conflict-sensitivity matrix for individual prior actions not described in visible sections; Security Management Plan not applicable to DPF instrument."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Puntland constitutional tensions explicitly named as political economy challenge: 'Tensions between the FGS and the Puntland State of Somalia on constitutional process'. HIPC completion context shows understanding of debt stakeholder landscape. Climate resilience prior actions (drought index insurance) address pastoralist political economy which is central to clan-based conflict dynamics. TAA milestones engage FCV governance reforms. IFC referenced for investment climate advisory. Private sector reform prior actions engage economic actors. Limitation: clan-level stakeholder analysis not explicitly described; FMS-FGS revenue dynamics analysis limited in visible sections."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "ToC explicitly FCV-grounded from para 1. TAA milestones as anchor for FCV institutional reforms create explicit link between DPF objectives and FCV trajectory. Climate-FCV nexus articulated: drought index insurance for pastoralists addresses conflict-climate link. HIPC completion → increased fiscal space → reduced donor dependence → increased state resilience → FCV recovery. Economic resilience framing directly addresses FCV fragility-poverty trap. IFC advisory support for private sector creates economic diversification pathway reducing FCV economic drivers. Limitation: ToC causal chain from policy reforms to FCV outcomes not fully elaborated in visible sections."
+      },
+      "D5_design_targeting": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "Drought index insurance for pastoralists with explicit gender target (90,000 women out of 180,000 total) – highest geographic and gender precision of any prior action. TAA milestones provide implicit targeting of FCV institutions. HIPC-related fiscal management reforms target PFM capacity constraints. Private sector climate risk financing targets economic resilience of vulnerable producers. However, DPF instrument constraints limit direct geographic or population-level targeting of conflict-affected areas. No explicit IDP-focused prior action. Limitation: DPF structural constraint on precise FCV targeting."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 5,
+        "label": "Partially Addressed",
+        "evidence": "DPF instrument inherently limits operational flexibility. Budget support modality reduces implementation friction in FCV context. Coordination with IPF portfolio (safety nets, RCRF, SURP, fisheries) provides complementary operational flexibility. TAA monitoring provides adaptive governance framework. Paris Alignment assessment adds climate adaptive management layer. Limitation: no CERC, no area-access contingency, DPF disbursement structure limits redesign mid-implementation."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Drought index insurance indicator (180,000 pastoralists, 90,000 women) provides climate-FCV nexus tracking. TAA milestone tracking provides FCV institutional progress monitoring. Gender disaggregation in pastoralist indicator is particularly strong for a DPF instrument. Paris Alignment assessment creates climate adaptation monitoring layer. Fiscal management reform indicators track PFM capacity building. Limitation: no conflict-outcome indicator, no IDP indicator; DPF instrument constraint on adaptive results framework."
+      },
+      "D8_one_wbg_integration": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "IFC explicitly referenced for private sector advisory services for investment climate reform prior actions. Paris Alignment assessment demonstrates climate cross-cutting integration. TAA alignment demonstrates IDA FCV strategy integration. Climate risk financing prior action engages financial sector. Coordination with safety net, energy, fisheries, and RCRF IPF operations noted. Limitation: MIGA not mentioned; IFC engagement described but not deeply elaborated as joint operation."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Puntland constitutional tensions explicitly flagged and addressed in political risk section. Prior actions on TAA milestones directly engage FCV institutional drivers. Climate resilience prior actions reduce conflict triggers. PSIA process covers distributional and conflict implications."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "PSIA process explicit. Drought index insurance indicator with gender disaggregation (90,000 women) demonstrates distributional awareness. TAA milestones include governance equity dimensions."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is sovereign borrower."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "PFM reform prior actions (HIPC, audit) directly address elite capture in public finance. Climate risk financing design with actuarial basis reduces discretionary allocation. TAA governance milestones address institutional accountability."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "HIPC Completion Point provides realistic fiscal baseline. IMF program alignment acknowledged. Grant financing. TAA instrument acknowledges Somalia's fragile fiscal position. Drought index insurance is demand-driven with actuarial basis."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 8.0,
+    "composite_responsiveness_score": 6.6,
+    "sensitivity_calculation": "avg(D1=9, D2=7, D3=8) = 8.0; minus 0.0 (0 red flags × 0.5) = 8.0",
+    "responsiveness_calculation": "avg(D4=8, D5=6, D6=5, D7=7, D8=7) = 33/5 = 6.6",
+    "gap_matrix_cell": "Implementation Gap",
+    "gap_matrix_rationale": "Sensitivity ≥7 (8.0) but Responsiveness <7 (6.6). Strong FCV diagnostic framing with IDA TAA, climate-FCV nexus, and explicit conflict naming. Responsiveness constrained by DPF instrument limits on targeting (D5=6) and operational flexibility (D6=5), which are structural characteristics of budget support rather than design failures.",
+    "key_finding": "P501988 achieves the strongest D1 FCV diagnostics among the DPF instruments in this batch (9), driven by explicit conflict legacy framing, TAA milestones, climate-FCV nexus articulation, and Puntland political tensions naming. The drought index insurance for pastoralists with 90,000 women target represents the most gender-disaggregated and FCV-climate-nexus-precise indicator in the batch. The Implementation Gap reflects the DPF instrument's structural constraints rather than analytical weakness.",
+    "notable_strengths": [
+      "IDA Turnaround Allocation milestones explicitly cited – institutional FCV recognition",
+      "Climate-FCV nexus most explicitly articulated among DPFs in batch",
+      "Drought index insurance for 90,000 women pastoralists – strong gender-FCV-climate targeting",
+      "Puntland constitutional tensions explicitly named in political economy analysis",
+      "Paris Alignment assessment demonstrates climate adaptive management"
+    ],
+    "notable_gaps": [
+      "DPF instrument limits D5 (targeting) and D6 (operational flexibility) structurally",
+      "Somalia Risk and Resilience Assessment 2023 not cited",
+      "No IDP-specific prior action",
+      "MIGA not mentioned"
+    ]
+  },
+  {
+    "project_id": "P178032",
+    "project_name": "Somali Sustainable Fisheries Development Project - Badmaal",
+    "instrument": "IPF",
+    "approval_year": 2024,
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "'Conflict' checked as implementation modality. Environmental and Social Risk rated 'High'. Political and Governance risk rated 'High'. Country context para 1: 'domestic terrorist groups' attacks, mostly in Mogadishu and in southern Somalia, continue to constrain private sector investment'. FGS-FMS tensions on fisheries revenues explicitly analyzed: 'clan/political economy around fisheries licensing' and 'FGS-FMS tensions on fisheries revenues explicitly discussed'. Al-Shabab implicitly referenced as domestic terrorist threat. Fisheries as resource-based conflict trigger explicitly analyzed – this represents sector-specific FCV diagnostic going beyond generic country context. Climate vulnerability referenced. Limitation: WBG FCV Strategy 2020-2025 not explicitly cited in visible sections; Somalia Risk and Resilience Assessment not referenced."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Security Management Framework required as disbursement condition – exceptionally strong mitigation measure. SEAH Prevention and Response Action Plan required as disbursement condition. Conflict checked as implementation modality. Environmental and Social Risk High – triggered full E&S framework. GRM required. Fisheries revenue sharing explicitly designed to reduce FGS-FMS conflict trigger: transparent licensing system reduces capture and inter-state tensions. Clan political economy around fisheries licensing explicitly addressed in design. MCS (Monitoring, Control, Surveillance) system for fisheries monitoring reduces illegal exploitation conflict risk. Limitation: detailed Security Management Framework content not described; specific access-denial scenarios not mapped."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "FGS-FMS fisheries revenue tensions explicitly named and addressed in design – exceptional political economy specificity. Clan dynamics around fisheries licensing explicitly analyzed. Fisheries licensing reform as conflict risk management: transparent, rule-based system reduces discretionary allocation to political actors. MCS system for transparency in fisheries monitoring. SEAH Action Plan addresses gender power relations in fishing communities. GRM for community feedback. Limitation: specific clan configurations and their influence pathways not named; foreign fishing vessel diplomacy (a major fisheries political economy issue) not visible."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "ToC links fisheries development to: (i) food security/nutrition for coastal communities; (ii) government revenue (through transparent licensing reducing FGS-FMS fiscal tensions); (iii) reduced resource-based conflict (through rule-based management system); (iv) economic diversification reducing conflict-economy dependence. Institutional reform (MCS system, fisheries authority capacity) builds state governance in a sector that has been a conflict trigger. Security Management Framework as disbursement condition demonstrates that security-proofing is integral to ToC. Limitation: explicit FCV-pathway articulation in ToC section not fully visible; poverty-conflict nexus for coastal fishing communities not elaborated."
+      },
+      "D5_design_targeting": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Security Management Framework as disbursement condition is an exceptionally strong FCV design feature – no disbursement without security arrangements in place. SEAH Action Plan as disbursement condition addresses gender-based conflict risk in service delivery. Fisheries licensing reform design explicitly addresses resource conflict trigger. MCS system creates institutional transparency reducing manipulation. Coastal community targeting through fisheries value chain approach. Female fishing community member targeting implied in gender action dimensions. Limitation: geographic targeting for conflict-affected versus secure coastal areas not separately described; IDP fisher communities not explicitly addressed."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 7,
+        "label": "Substantially Addressed",
+        "evidence": "Security Management Framework as disbursement condition creates mandatory operational security baseline before implementation proceeds. SEAH Action Plan as disbursement condition creates mandatory gender safety baseline. High E&S risk classification triggers more intensive Bank supervision. GRM provides feedback mechanism for adaptive management. Conflict checking in implementation modality. Limitation: no CERC in fisheries project; no area-access contingency protocols explicitly described; no explicit trigger for suspending operations in case of security deterioration."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 6,
+        "label": "Partially Addressed",
+        "evidence": "Results framework includes fisheries production indicators, licensing metrics, and government revenue indicators that track conflict-reducing governance outcomes. GRM feedback integrated into implementation management. High E&S risk classification triggers enhanced monitoring. Security Management Framework monitoring creates security-specific adaptive layer. Limitation: no conflict-outcome indicators (e.g., reduction in fisheries-related disputes, incidents of illegal fishing by armed groups), no IDP or displaced fisher indicator; results framework focuses on fisheries outcomes rather than FCV outcomes per se."
+      },
+      "D8_one_wbg_integration": {
+        "score": 4,
+        "label": "Partially Addressed",
+        "evidence": "Bank/IFC field shows 'No' for IFC collaboration. No MIGA engagement. Project coordination with DPO2 (P179307 fisheries prior action) provides Bank-internal linkage. Coordination with RCRF on government capacity building. No private sector co-investment in fisheries supply chain described. Limitation: significant D8 gap – fisheries sector offers private sector mobilization opportunities (fishing vessel licensing, cold chain investment, processing) not captured through IFC."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Security Management Framework required as disbursement condition – this is one of the most stringent conflict-risk mitigation measures in the portfolio. Conflict explicitly checked as implementation modality. SEAH Action Plan as disbursement condition. High risk ratings with specific mitigations."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "FGS-FMS revenue sharing analysis constitutes distributional analysis of resource benefits. Clan/political economy analysis addresses distributional power dynamics. SEAH Action Plan addresses gender distributional concerns."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is sovereign borrower. Areas of operations are under FGS or FMS authority."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Fisheries licensing transparency and MCS system directly address elite/clan capture of fisheries revenues. Rule-based licensing reduces discretionary allocation. SEAH Action Plan reduces gender exploitation in service delivery."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "Grant financing. Fisheries revenue projections grounded in existing catch data. No macro conditionality. IMF context acknowledged."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 8.0,
+    "composite_responsiveness_score": 6.2,
+    "sensitivity_calculation": "avg(D1=8, D2=8, D3=8) = 8.0; minus 0.0 (0 red flags × 0.5) = 8.0",
+    "responsiveness_calculation": "avg(D4=7, D5=7, D6=7, D7=6, D8=4) = 31/5 = 6.2",
+    "gap_matrix_cell": "Implementation Gap",
+    "gap_matrix_rationale": "Sensitivity ≥7 (8.0) but Responsiveness <7 (6.2). Exceptionally strong FCV sensitivity through resource-conflict analysis, Security Management Framework as disbursement condition, and FGS-FMS political economy specificity. Responsiveness gap driven by D8 absence (IFC/MIGA not engaged) and D7 (results framework lacks FCV-outcome indicators).",
+    "key_finding": "P178032 demonstrates the most sector-specific FCV political economy analysis in the batch, explicitly naming FGS-FMS fisheries revenue tensions and clan dynamics as conflict drivers and structuring the project's institutional reform around reducing these tensions. The Security Management Framework and SEAH Action Plan as disbursement conditions represent exceptionally strong conflict-risk mitigation. The Implementation Gap is primarily driven by the absence of IFC engagement in a sector with significant private sector mobilization potential (licensing, cold chain, processing) and weak FCV-outcome indicators in the results framework.",
+    "notable_strengths": [
+      "Security Management Framework as disbursement condition – strongest operational security requirement in batch",
+      "FGS-FMS fisheries revenue tensions explicitly named and addressed in design",
+      "Clan/political economy analysis of fisheries licensing – sector-specific FCV depth",
+      "SEAH Action Plan as disbursement condition",
+      "MCS system for institutional transparency reducing resource-conflict trigger"
+    ],
+    "notable_gaps": [
+      "IFC/MIGA entirely absent – missed private sector mobilization opportunity (D8=4)",
+      "No FCV-outcome indicators in results framework (D7=6)",
+      "WBG FCV Strategy 2020-2025 not explicitly cited",
+      "No CERC mechanism",
+      "Foreign vessel fisheries diplomacy dimension not analyzed"
+    ]
+  },
+  {
+    "project_id": "P181407",
+    "project_name": "Second Additional Financing for Somalia Recurrent Cost and Reform Financing Phase III",
+    "instrument": "IPF",
+    "approval_year": 2024,
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Political/governance risk 'High' with Puntland tensions explicitly named: 'Tensions between the FGS and the Puntland State of Somalia...have reached its peak in March 2024 with the recent constitutional amendments'. Al-Shabab offensive explicitly named in risk section. Macroeconomic risk 'High'. Climate vulnerability referenced: 'most climate-vulnerable country'. SCD Update FY23 (P500140) explicitly cited. IDA TAA referenced. 'Conflict' and 'Fragile State(s)' and 'Performance-Based Conditions' all checked. SEAH risk rated 'Substantial'. FHW expansion to newly liberated areas – stabilization agenda explicitly addressed. Security risk 'Substantial' with dedicated security risk management consultant being recruited. State-building dimension central to RCRF ToC (financing FGS recurrent costs = maintaining state presence). This is one of the most politically specific FCV documents in the batch."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Al-Shabab offensive explicitly acknowledged in risk section with specific mitigation: security risk management consultant being recruited. SEAH risk 'Substantial' with Action Plan. Political/governance risk 'High' with FGS-Puntland tensions named and mitigation through political dialogue. RCRF design is inherently conflict-sensitive: financing civil servant salaries in conflict-affected areas maintains government service delivery and state presence as alternatives to non-state armed group governance. FHW (Federal Health Worker) expansion to newly liberated areas directly addresses the governance vacuum in post-conflict areas. Performance-Based Conditions checked – disbursement linked to reform milestones reduces fiduciary risk. Third-party monitoring agent (MA) for independent verification. Citizen engagement component. Limitation: detailed Security Management Plan content not described in visible sections."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Puntland-FGS constitutional tensions named explicitly with specific analysis. Al-Shabab offensive named and its implications for newly liberated areas analyzed. FHW expansion to newly liberated areas shows understanding of stabilization political economy. IDA TAA milestones engage institutional reform drivers of FCV. Performance-Based Conditions linked to civil service reform create political accountability for reform implementation. SCD Update FY23 provides analytical underpinning for political economy. Security risk management consultant recruitment shows operational-level political economy awareness. Citizens engagement component creates state-citizen feedback mechanism. SEAH risk awareness reflects power relations in service delivery. This is the most politically specific stakeholder analysis in the IPF batch."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "RCRF ToC is explicitly state-building/FCV-recovery: financing FGS recurrent costs (civil servants, operational expenses) maintains government presence and service delivery in FCV context where alternative would be institutional collapse or Al-Shabab governance. FHW expansion to newly liberated areas represents direct stabilization-through-state-services ToC. Declining recurrent cost financing (increasing FGS own-resource contribution) explicitly models the transition from donor-dependent fragile state toward fiscal self-sufficiency. Performance-Based Conditions create reform incentive structure. IDA TAA milestones provide FCV institutional benchmarks. Citizens engagement creates state-society trust-building mechanism. Climate vulnerability integrated. ToC directly addresses FCV 'fragility trap' through institution-building and fiscal capacity development."
+      },
+      "D5_design_targeting": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "FHW expansion to newly liberated areas is explicit geographic targeting of post-conflict, conflict-transition zones. IDA TAA milestones create institutional reform targeting for FCV-specific governance gaps. Declining recurrent cost financing schedule creates sustainability incentive aligned with fiscal transition. Performance-Based Conditions target reform milestones rather than just inputs. Citizens engagement component creates feedback mechanism. Security risk management consultant specifically recruited for newly liberated areas. SEAH Action Plan for service delivery contexts with vulnerability. Limitation: no beneficiary-level targeting (RCRF is an institution-support operation); no explicit IDP-focused component; Puntland exclusion implications of constitutional tensions not fully addressed."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "Security risk management consultant specifically being recruited to manage FCV operational environment. Third-party monitoring agent (MA) provides independent verification for adaptive management. Performance-Based Conditions allow disbursement to adjust to reform pace. FHW expansion uses existing delivery infrastructure being extended to newly liberated areas. Citizens engagement component creates feedback loop. SEAH risk management framework. IPF instrument provides operational flexibility compared to DPF. Limitation: no CERC mechanism in RCRF; contingency protocols for Al-Shabab offensive intensification not explicitly described."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 8,
+        "label": "Substantially Addressed",
+        "evidence": "FHW expansion to newly liberated areas as results indicator tracks stabilization outcomes. Performance-Based Conditions create milestone-based adaptive management. Third-party monitoring agent tracks implementation quality. Citizens engagement indicator. IDA TAA milestone monitoring provides institutional reform tracking. SEAH risk tracking. SCD Update FY23 provides analytical benchmark. Limitation: conflict-specific outcome indicators (e.g., attacks on health workers, newly liberated area coverage rate) not explicitly described; security-environment-triggered review mechanisms not visible."
+      },
+      "D8_one_wbg_integration": {
+        "score": 4,
+        "label": "Partially Addressed",
+        "evidence": "Bank/IFC collaboration: No IFC engagement. No MIGA. Coordination with Bank IPF portfolio: RCRF is explicitly designed to coordinate with sector operations (health, education, safety nets) that RCRF's government financing capacity enables. Citizen engagement complements social accountability work across portfolio. Limitation: significant D8 gap – IFC/MIGA absent; no private sector mobilization dimension in RCRF design (appropriate for recurrent cost financing instrument but represents portfolio-level gap)."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Al-Shabab offensive explicitly named with specific mitigation: security risk management consultant being recruited. Security risk rated 'Substantial' (not High) indicating active mitigation. Puntland tensions addressed through political dialogue. Performance-Based Conditions provide flexibility if security deteriorates."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "FHW targeting to newly liberated areas represents distributional analysis of underserved populations. Citizens engagement component addresses distributional feedback. IDA TAA milestones include governance equity dimensions. SEAH Action Plan addresses gender-distributional concerns."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. FGS is borrower. Newly liberated areas remain under FGS jurisdiction. No de facto authority situations triggering OP 7.30."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Performance-Based Conditions reduce discretionary disbursement. Third-party monitoring agent provides independent oversight. Citizens engagement creates community feedback on government performance. SEAH Action Plan addresses power-related exploitation."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "Declining recurrent cost financing schedule explicitly models realistic transition to FGS self-financing. IMF program alignment. IDA grant financing. TAA instrument acknowledges fragile fiscal context."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 8.67,
+    "composite_responsiveness_score": 7.4,
+    "sensitivity_calculation": "avg(D1=9, D2=8, D3=9) = 8.67; minus 0.0 (0 red flags × 0.5) = 8.67",
+    "responsiveness_calculation": "avg(D4=9, D5=8, D6=8, D7=8, D8=4) = 37/5 = 7.4",
+    "gap_matrix_cell": "High FCV Integration",
+    "gap_matrix_rationale": "Sensitivity ≥7 (8.67) and Responsiveness ≥7 (7.4). Both thresholds met. Highest sensitivity score in the batch driven by explicit Al-Shabab naming, Puntland constitutional tensions, newly liberated area expansion, and SCD Update FY23 citation. D8 is the only significant gap.",
+    "key_finding": "P181407 achieves the highest composite sensitivity score in the batch (8.67), driven by exceptional FCV political specificity: Al-Shabab offensive named, Puntland-FGS constitutional tensions analyzed, newly liberated area FHW expansion as stabilization instrument, and security risk management consultant recruitment. The RCRF's ToC is the most explicitly state-building/FCV-recovery oriented in the batch – financing civil servant salaries in fragile context directly maintains state presence as alternative to armed group governance. D8 gap (IFC=No) is the principal weakness.",
+    "notable_strengths": [
+      "Al-Shabab offensive explicitly named in risk section – highest conflict naming specificity in batch",
+      "Puntland-FGS constitutional tensions explicitly analyzed with timeline (March 2024)",
+      "FHW expansion to newly liberated areas – explicit stabilization agenda",
+      "Security risk management consultant recruitment – dedicated FCV operational capacity",
+      "RCRF ToC = most explicitly state-building/FCV-recovery design in batch",
+      "IDA TAA milestones and SCD Update FY23 cited"
+    ],
+    "notable_gaps": [
+      "IFC/MIGA entirely absent (D8=4)",
+      "No CERC mechanism",
+      "Conflict-specific outcome indicators (attacks on health workers, liberated area coverage rate) not visible",
+      "Puntland exclusion from FHW expansion not addressed"
+    ]
+  },
+  {
+    "project_id": "P181512",
+    "project_name": "Somalia Urban Resilience Project Phase II Third Additional Financing",
+    "instrument": "IPF",
+    "approval_year": 2024,
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "batch": 5,
+    "dimensions": {
+      "D1_fcv_context_diagnostics": {
+        "score": 10,
+        "label": "Strong",
+        "evidence": "'Somalia is one of the most difficult FCV environments in the world to operate in' – strongest FCV opening statement in batch. Somalia Risk and Resilience Assessment (2023) explicitly cited by name. WBG FCV Strategy (2020-2025) explicitly cited by name. Al-Shabab ('AS') named with 'ongoing offensive against Al-Shabab'. 3.8 million IDPs cited. Stabilization agenda explicitly addressed: analytics for Hirshabelle and Galmudug (newly liberated areas) funded. Climate-FCV nexus articulated. SCD Update FY23 context present. Urban displacement-conflict nexus analyzed (IDP settlements in urban areas, infrastructure pressure). CERC of parent project triggered for IDP response (referenced in P178730 para 8). IDA TAA context. Both mandatory citations (FCV Strategy + Somalia RRA 2023) present – distinguishes this as the strongest FCV diagnostic in the batch."
+      },
+      "D2_do_no_harm_conflict_risk": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Al-Shabab ('AS') offensive explicitly analyzed with implications for urban displacement and project operations. Security risk managed through TPMA (Third-Party Monitoring Agent). Probity adviser for procurement reduces conflict-related fiduciary risk. CERC in parent project activated for IDP urban surge. Component 4 dedicated to urban forced displacement (IDP-specific component) demonstrates conflict-sensitive design. Stabilization analytics for newly liberated areas (Hirshabelle, Galmudug) address conflict-transition risk. Urban planning in IDP settlement areas inherently do-no-harm sensitive (eviction risk, security corridor planning). E&S risk = High with full E&S framework. SEP updated. ESCP disclosed. Limitation: specific conflict-sensitive infrastructure design protocols (e.g., siting criteria for IDP settlements near front lines) not described in visible sections."
+      },
+      "D3_stakeholder_political_economy": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Al-Shabab named as security stakeholder. FGS-FMS urbanization political economy implicit in multi-city project design. IDP community as explicit beneficiary group (Component 4) – politically sensitive in urban Somali context where IDP settlements intersect with clan land rights. Stabilization analytics for Hirshabelle and Galmudug engage newly liberated area governance political economy. Probity adviser for procurement addresses political interference in contracting. TPMA provides community feedback mechanism. Urban resilience framing addresses IDP-host community tensions (classic FCV urban stakeholder challenge). WBG FCV Strategy and Somalia RRA 2023 as analytical references demonstrate use of best available stakeholder intelligence. Limitation: specific clan/community consultation arrangements for IDP settlement planning not described."
+      },
+      "D4_objectives_theory_of_change": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "ToC explicitly FCV-grounded: urban resilience infrastructure reduces vulnerability of displacement-affected populations, reduces IDP-host community tensions, builds urban state presence. Component 4 (urban forced displacement) creates direct FCV-displacement ToC. Stabilization analytics for newly liberated areas creates evidence base for state expansion in post-conflict areas. CERC activation model (triggered from parent) demonstrates shock-responsive design philosophy. 'Aligned with the World Bank's FCV Strategy (2020-2025) and the Somalia Risk and Resilience Assessment (2023)' – explicit alignment statement. Infrastructure investment as state-building (urban services build FGS legitimacy in IDP-dense cities). WBG FCV Strategy's three pillars (prevention, conflict mitigation, building resilience) all represented in ToC."
+      },
+      "D5_design_targeting": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "Component 4 specifically dedicated to urban forced displacement – IDP-specific component is exceptional FCV design feature. Stabilization analytics for Hirshabelle and Galmudug specifically targets newly liberated area governance gaps. IDP-disaggregated indicators in results framework. Multi-city design covers Mogadishu, Garowe, Bossaso – major IDP-receiving urban centers. CERC available for rapid response to new displacement surges. Probity adviser for procurement addresses FCV-related contracting risks. TPMA provides independent oversight. Al-Shabab security context integrated into infrastructure siting and design. Urban IDP settlements as explicit geographic and population target. Limitation: Somaliland cities (Hargeisa) not covered due to political constraints."
+      },
+      "D6_implementation_operational_flexibility": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "CERC in parent project provides established rapid-response mechanism for displacement surges (already triggered in parent – see P178730 para 8). Al-Shabab offensive explicitly managed in security arrangements. TPMA provides real-time monitoring for adaptive management. Probity adviser for procurement enables agile contracting in insecure environments. Stabilization analytics component (newly liberated areas) is inherently adaptive – analytics inform implementation as security context evolves. E&S High risk classification triggers enhanced Bank supervision. SEP and ESCP updated and disclosed. Component 4 design provides flexible IDP-response capacity. Somalia RRA 2023 used as analytical baseline for adaptive monitoring."
+      },
+      "D7_results_framework_adaptive_management": {
+        "score": 9,
+        "label": "Strong",
+        "evidence": "IDP-disaggregated indicators in results framework – strongest FCV-outcome tracking in batch. Stabilization analytics for Hirshabelle and Galmudug provide conflict-transition monitoring. TPMA generates implementation performance data for adaptive management. Newly liberated area coverage rate implicitly tracked through Component 4. CERC activation criteria provide conflict-responsive trigger mechanism. WBG FCV Strategy alignment creates external benchmark for adaptive management. Somalia RRA 2023 provides analytical baseline. High E&S risk classification triggers enhanced supervision and adaptive response. Limitation: specific conflict de-escalation outcome indicators (e.g., IDP-host community tensions, return rate to newly liberated areas) not named in visible sections."
+      },
+      "D8_one_wbg_integration": {
+        "score": 4,
+        "label": "Partially Addressed",
+        "evidence": "Bank/IFC: No IFC engagement noted. No MIGA. Coordination with Bank portfolio: CERC link to broader portfolio demonstrated (already triggered in para 8 of P178730). Coordination with RCRF (government financing of municipal services), safety net (IDP beneficiaries), and energy projects (urban electrification). Probity adviser engages private sector contracting accountability. Limitation: significant D8 gap – IFC/MIGA absent; urban infrastructure offers private sector participation opportunities (housing, service concessions) not captured."
+      }
+    },
+    "red_flags": {
+      "RF1_unmitigated_conflict_risk": {
+        "triggered": false,
+        "rationale": "Al-Shabab offensive explicitly managed: TPMA, probity adviser, CERC, security arrangements all present. Component 4 IDP design inherently conflict-sensitive. Stabilization analytics demonstrate conflict-transition management awareness. High E&S risk classification triggers enhanced mitigation."
+      },
+      "RF2_missing_distributional_analysis": {
+        "triggered": false,
+        "rationale": "Component 4 specifically targets IDPs as most conflict-vulnerable urban population. IDP-disaggregated indicators in results framework. Multi-city design addresses geographic distribution of displaced populations."
+      },
+      "RF3_op730_weakly_handled": {
+        "triggered": false,
+        "rationale": "OP 7.30 not triggered. Project operates in FGS and FMS jurisdictions. No de facto authority situations."
+      },
+      "RF4_elite_capture_unmitigated": {
+        "triggered": false,
+        "rationale": "Probity adviser for procurement explicitly addresses contracting elite capture. TPMA provides independent oversight. Urban infrastructure procurement in Somalia has high corruption risk – probity adviser is specifically responsive to this. GRM for community feedback."
+      },
+      "RF5_unrealistic_macro_framework": {
+        "triggered": false,
+        "rationale": "IDA grant. Urban resilience investments grounded in assessed IDP displacement volumes. No macro conditionality. CERC is grant-financed contingency."
+      }
+    },
+    "red_flag_count": 0,
+    "composite_sensitivity_score": 9.33,
+    "composite_responsiveness_score": 8.0,
+    "sensitivity_calculation": "avg(D1=10, D2=9, D3=9) = 9.33; minus 0.0 (0 red flags × 0.5) = 9.33",
+    "responsiveness_calculation": "avg(D4=9, D5=9, D6=9, D7=9, D8=4) = 40/5 = 8.0",
+    "gap_matrix_cell": "High FCV Integration",
+    "gap_matrix_rationale": "Sensitivity ≥7 (9.33) and Responsiveness ≥7 (8.0). Both thresholds comfortably exceeded. Highest composite scores in the batch. D8 is the only gap. SURP AF3 represents the gold standard for FCV integration in this batch: both WBG FCV Strategy and Somalia RRA 2023 cited, Al-Shabab named, IDP-dedicated component, CERC, TPMA, probity adviser, and stabilization analytics for newly liberated areas.",
+    "key_finding": "P181512 is the highest-scoring document in Batch 5 on both sensitivity (9.33) and responsiveness (8.0), and arguably the most FCV-integrated project in the Somalia portfolio to date. It achieves full marks on D1 (10) through the dual citation of WBG FCV Strategy 2020-2025 and Somalia Risk and Resilience Assessment 2023, explicit Al-Shabab naming, 3.8 million IDP acknowledgment, and stabilization analytics for newly liberated areas. Component 4 (urban forced displacement) is an IDP-specific design feature unique in the portfolio. The sole gap is D8=4 (IFC/MIGA absent), which is a portfolio-wide pattern rather than project-specific failure.",
+    "notable_strengths": [
+      "'Somalia is one of the most difficult FCV environments in the world to operate in' – strongest FCV framing in batch",
+      "Both WBG FCV Strategy 2020-2025 AND Somalia Risk and Resilience Assessment 2023 explicitly cited",
+      "Al-Shabab ('AS') named with 'ongoing offensive' – most operationally specific conflict analysis in batch",
+      "Component 4 dedicated to urban forced displacement – unique IDP-specific design feature",
+      "CERC in parent + stabilization analytics for newly liberated areas (Hirshabelle, Galmudug)",
+      "Probity adviser for procurement – strongest anti-corruption/elite-capture measure in batch",
+      "IDP-disaggregated indicators – strongest FCV-outcome tracking in batch"
+    ],
+    "notable_gaps": [
+      "IFC/MIGA entirely absent (D8=4) – portfolio-wide pattern",
+      "Somaliland cities excluded due to political constraints",
+      "Specific conflict de-escalation outcome indicators not named"
+    ]
+  }
+]

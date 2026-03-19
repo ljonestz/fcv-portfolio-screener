@@ -1,0 +1,4112 @@
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD5593  
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT PAPER 
+ON A  
+PROPOSED SECOND ADDITIONAL GRANT 
+ 
+IN THE AMOUNT OF SDR 49 MILLION 
+(US$65 MILLION EQUIVALENT) 
+ 
+AND A PROPOSED GRANT 
+ 
+IN THE AMOUNT OF US$4 MILLION 
+ 
+FROM THE SOMALIA MULTI-PARTNER FUND 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR THE 
+SOMALIA RECURRENT COST AND REFORM FINANCING PROJECT - PHASE III 
+ 
+April 9, 2024 
+ 
+ 
+ 
+Governance Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+  
+This document has a restricted distribution and may be used by recipients only in the performance of their 
+official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective February 29, 2024) 
+ 
+Currency Unit  =   Somali Shillings 
+US$1 = SDR 0.75 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Country Director: Keith E. Hansen 
+Regional Director: Hassan Zaman 
+Practice Manager: Manuel Vargas 
+Task Team Leaders: Alma Nurshaikhova, Jana Kunicova 
+  
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AF 
+Additional Financing   
+AM 
+Accountability Mechanism 
+BRA 
+Benadir Regional Administration   
+CEC 
+Community Education Committee  
+CoA 
+Chart of Accounts   
+COAPM 
+Comprehensive Operations, Accounting Procedures Manual   
+CPF 
+Country Partnership Framework  
+DA 
+Designated Account 
+DRM 
+Domestic Revenue Mobilization   
+E&S 
+Environment and Social 
+EAFS 
+External Assistance Fiduciary Sections  
+ECF 
+Extended Credit Facility   
+EEP 
+Eligible Expenditure Program 
+ESMF 
+Environment and Social Management Framework 
+ESMP 
+Environment and Social Management Plan 
+FCV 
+Fragility, Conflict and Violence 
+FGS 
+Federal Republic of Somalia   
+FHS 
+Female Health Supervisors 
+FHW 
+Female Health Workers   
+FM 
+Financial Management  
+FMFF 
+Finance Ministers' Fiscal Forum 
+FMS 
+Federal Member State    
+GBV 
+Gender-based Violence   
+GHG 
+Greenhouse Gas 
+GRC 
+Grievance Redress Committee 
+GM 
+Grievance Mechanism 
+GRS 
+Grievance Redress Service   
+HEIS 
+Hands-on Enhanced Implementation Support 
+HIPC 
+Heavily Indebted Poor Countries 
+HMIS 
+Health Management and Information System 
+HRMIS 
+Human Resources Management Information System  
+HTP  
+Health Technical Partner   
+ICT 
+Information and Communications Technology 
+IDA 
+International Development Association   
+IDP 
+Internally Displaced Persons 
+IFI 
+International Financial Institutions 
+IFR 
+Interim Financial Report 
+IGFF 
+Inter-governmental Fiscal Forum   
+IMF 
+International Monetary Fund 
+IPF 
+Investment Project Financing 
+ITAS 
+Integrated Tax Administration Automation System  
+IP 
+Implementation Progress  
+ 
+ISR 
+Implementation Status and Results Report  
+IVA 
+Independent Verification Agent 
+ 
+ 
+MA 
+Monitoring Agent 
+MDA 
+Ministries, Departments, and Agencies  
+MoF 
+Ministry of Finance 
+MoH 
+Ministry of Health 
+NCSC 
+National Civil Service Commission 
+NDCs 
+Nationally Determined Contributions 
+NDP 
+National Development Plan 
+NSRC 
+Non-Salary Recurrent Costs 
+OAG 
+Office of the Accountant General  
+OAuG 
+Office of the Auditor General   
+OBI 
+Open Budget Index 
+PBC 
+Performance-Based Condition  
+PEC 
+Participation Eligibility Criteria 
+PDO 
+Project Development Objective 
+PFM 
+Public Finance Management  
+PIU 
+Project Implementation Unit 
+POM 
+Project Operations Manual   
+PP 
+Procurement Plan   
+PPSD 
+Project Procurement Strategy for Development   
+PREMIS II 
+Public Resource Management in Somalia Project – Phase II 
+PSM 
+Public Sector Management   
+RCRF 
+Recurrent Cost and Reform Financing 
+SEAH 
+Sexual Exploitation Abuse and/or Harassment 
+SERP 
+Somalia Enhancing Public Resource Management Project  
+SFMIS 
+Somalia Financial Management Information System  
+SMPF 
+Somalia Multi-Partner Fund  
+STEP 
+Systematic Tracking of Exchanges in Procurement   
+TA 
+Technical Assistance 
+UCoA 
+Unified Chart of Accounts   
+VA 
+Verification Agent 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+   
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 8 
+II. 
+DESCRIPTION OF ADDITIONAL FINANCING .................................................................... 13 
+III. KEY RISKS ..................................................................................................................... 18 
+IV. APPRAISAL SUMMARY .................................................................................................. 20 
+V. GRIEVANCE REDRESS SERVICE ....................................................................................... 25 
+VI    SUMMARY TABLE OF CHANGES ..................................................................................... 26 
+VII   DETAILED CHANGE(S) .................................................................................................... 26 
+VIII. RESULTS FRAMEWORK AND MONITORING ................................................................... 30 
+ANNEX 1. ENVIRONMENT AND SOCIAL STANDARDS ACTION PLAN ....................................... 92 
+ANNEX 2. RCRF FINANCING BY SUB-COMPONENTS .............................................................. 93 
+ 
+  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 94 
+ 
+       
+BASIC INFORMATION – PARENT (Somalia Recurrent Cost & Reform Financing Project - Phase 3 - P173731) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+IBRD/IDA 
+Alma Nurshaikhova 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P173731 
+Investment Project 
+Financing 
+EAEG1 (9748) 
+AECE2 (6542) 
+Governance 
+  
+Implementing Agency: Federal Member State Galmudug, Federal Member State Southwest, Federal Member State 
+Jubaland, Federal Member State Hirshabelle, Ministry of Finance, Federal Government of Somalia, Federal Member 
+state Puntland 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+ 
+No 
+ 
+Approval Date 
+Closing Date 
+Expected 
+Guarantee 
+Expiration Date 
+Environmental and Social Risk Classification 
+11-Jun-2020 
+31-Dec-2025  
+Moderate 
+ 
+Financing & Implementation Modalities  Parent 
+[  ] Multiphase Programmatic Approach [MPA] 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[✓] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 94 
+ 
+Development Objective(s) 
+ 
+To support the Federal Government of Somalia and Eligible Federal Member States to strengthen resource 
+management systems, the inter-governmental fiscal framework, and service delivery systems in health and 
+education. 
+ 
+Ratings (from Parent ISR) 
+ RATING_DRAFT_
+NO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+26-Apr-2021 
+01-Nov-2021 
+30-May-2022 
+15-Dec-2022 
+11-Jul-2023 
+09-Jan-2024 
+Progress towards 
+achievement of 
+PDO 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+Overall 
+Implementation 
+Progress (IP) 
+MS 
+ 
+MS 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall ESS 
+Performance 
+MS 
+ 
+MS 
+ 
+S 
+ 
+MU 
+ 
+MU 
+ 
+MU 
+ 
+Overall Risk 
+H 
+ 
+H 
+ 
+H 
+ 
+H 
+ 
+H 
+ 
+S 
+ 
+Financial 
+Management 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+Project 
+Management 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Procurement 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Monitoring and 
+Evaluation 
+MS 
+ 
+MS 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Second Additional Financing for Somalia Recurrent Cost and 
+Reform Financing Phase III - P181407) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P181407 
+Second Additional 
+Financing for Somalia 
+Restructuring, Scale Up 
+No 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 94 
+ 
+Recurrent Cost and Reform 
+Financing Phase III 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+IBRD/IDA 
+30-Apr-2024 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+ 
+ 
+30-Apr-2027 
+No 
+ 
+ 
+Is this a regionally tagged project? 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities  Child 
+ 
+ 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[✓] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+[  ] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+IBRD 
+ 
+ 
+ 
+  
+ 
+ % 
+IDA 
+ 130.00 
+  92.86 
+  36.32 
+    
+ 
+72 % 
+Grants 
+  15.00 
+   5.00 
+  10.00 
+    
+ 
+33 % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Second Additional Financing for Somalia Recurrent Cost 
+and Reform Financing Phase III - P181407) 
+  
+ 
+ 
+ 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 94 
+ 
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+145.00 
+69.00 
+214.00 
+Total Financing 
+145.00 
+69.00 
+214.00 
+of which IBRD/IDA  
+130.00 
+65.00 
+195.00 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+ 
+DETAILSNewFinEnh1- Additional Financing 
+World Bank Group Financing 
+     International Development Association (IDA) 
+65.00 
+          IDA Grant 
+65.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+4.00 
+          Somalia Multi-Partner Fund 
+4.00 
+ 
+   
+IDA Resources (in US$, Millions) 
+ Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+Somalia 
+0.00 
+  65.00 
+0.00 
+   0.00 
+  65.00 
+National 
+Performance-Based 
+Allocations (PBA) 
+0.00 
+  65.00 
+0.00 
+   0.00 
+  65.00 
+Total 
+0.00 
+65.00 
+   0.00 
+   0.00 
+65.00 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 94 
+ 
+[    ] Yes   [ ✔ ] No 
+ 
+ESStandards 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Not Currently Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Relevant 
+Cultural Heritage 
+Not Currently Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+ESStandardsNote 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Governance 
+ 
+Contributing Practice Areas 
+Education 
+Health, Nutrition & Population 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 94 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Alma Nurshaikhova 
+Team Leader (ADM 
+Responsible) 
+ 
+EAEG1 
+Jana Kunicova 
+Team Leader 
+ 
+IDD02 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+Procurement 
+EAERU 
+Stephen Diero Amayo 
+Financial Management 
+Specialist (ADM Responsible) 
+ 
+EAEG1 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist 
+Financial Management 
+EAEG1 
+Haroub Ahmed Haroub 
+Environmental Specialist (ADM 
+Responsible) 
+Consultant - Environmental 
+Safeguards 
+SAEE2 
+Jacinta Achote Murunga 
+Social Specialist (ADM 
+Responsible) 
+ 
+SAES2 
+Abdisalam Ahmed Bahwal 
+Team Member 
+Health 
+HAEH2 
+Alyssa Louise Davis 
+Team Member 
+ 
+EAEG1 
+Bernard O. Olayo 
+Team Member 
+Health 
+HAEH2 
+Cem Dener 
+Team Member 
+ 
+EAWG2 
+Evarist F. Baimu 
+Counsel 
+ 
+LEGAM 
+George Ferreira Da Silva 
+Team Member 
+ 
+WFACS 
+Martin M. Serrano 
+Counsel 
+Legal Counsel 
+LEGAM 
+Miriam Tabitha Abongo 
+Team Member 
+ 
+EAEG1 
+Mohamud Yasin Jama 
+Team Member 
+Governance 
+EAEG1 
+Nisha Maria Pinho 
+Team Member 
+ 
+WFACS 
+Ntayi Anfani Bandawa 
+Counsel 
+ 
+LEGAM 
+Nyabicha Omurwa Onang'o Team Member 
+Consultant - Financial 
+Management 
+EAEG1 
+Ousman Abdulahi Ali 
+Team Member 
+Education 
+HAEE2 
+Pamela Chebiwott Tuiyott 
+Team Member 
+Safegurds 
+SAWS1 
+Pedro Cerdan-Infantes 
+Team Member 
+Education 
+HAEDR 
+Rafika Chaouali 
+Team Member 
+PFM 
+EAEG1 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 94 
+ 
+Rita Obioma Itoro-Godfrey 
+Team Member 
+Operations 
+EAEG1 
+Ruth Akisa Oriama 
+Team Member 
+ 
+EAEG1 
+Saad Omer Siddiqui 
+Team Member 
+ 
+EAEG2 
+Simon Sottsas 
+Social Specialist 
+ 
+SAES2 
+Soe Nandar Linn 
+Team Member 
+ 
+EAEG1 
+Stella Ilieva 
+Team Member 
+ 
+EAEM1 
+Vanessa Sigrid Tilstone 
+Social Specialist 
+Social Safeguards 
+SAES2 
+Verena Phipps-Ebeler 
+Team Member 
+Social Safeguards 
+SAES2 
+Vikram Menon 
+Team Member 
+Public Administration 
+EAEG1 
+Violet Tsindori Amani 
+Team Member 
+Program Assistant 
+AEMSO 
+Vishal Ashvin Patel 
+Team Member 
+ 
+EAEG1 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+   
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 94 
+ 
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+A. 
+Introduction 
+1. 
+This Project Paper seeks the approval of the Executive Directors to provide a second additional grant in 
+the amount of SDR 49 million (US$65 million equivalent) to the Federal Republic of Somalia (FGS) for the 
+Recurrent Cost and Reform Financing Project Phase III (RCRF III - P173731). The project will also be co-financed 
+by a grant provided under the Somalia Multi-Partner Fund (SMPF) in the amount of US$4 million (SMPF Grant 
+No.TF0B8760). The additional financing (AF) will be used to scale up support to (i) the reform financing through 
+adding new and revising existing performance-based conditions (PBCs); (ii) recurrent cost financing for the 
+Federal Member States (FMS) and community health service delivery for additional 12 months; (iii) the 
+intergovernmental coordination, local governance, and citizen engagement activities, and (iv) fill the financing 
+gap of US$15 million that was originally envisaged to be funded through the SMPF.1   
+2. 
+In addition, the RCRF III project will be restructured to revise the results framework and extend the 
+closing date from December 31, 2025, to December 31, 2026, as requested by the FGS Ministry of Finance letter 
+dated August 5, 2023. This will be the second extension of the closing date.  
+3. 
+The RCRF III project is part of a series of RCRF projects that first became effective in August 2014. The 
+first phase of the RCRF (P148428), a one-year project, tested the systems for on-budget recurrent cost financing 
+and was fully financed by SMPF. RCRF Phase II (P154875), financed through both International Development 
+Association (IDA) and SMPF grants, supported the implementation of Somalia’s Eighth National Development 
+Plan (2017–2020) and helped Somalia reach the Heavily Indebted and Poor Countries (HIPC) initiative Decision 
+Point in March 2020. RCRF II, closed on June 30, 2022, with a Highly Satisfactory rating as confirmed by the 
+Independent Evaluation Group. The RCRF III project, a US$68 million IDA grant (D658-SO), approved by the 
+World Bank on June 11, 2020, and subsequent first additional financing (AF1) in the amount of US$62 million 
+IDA and US$30 million SMPF approved on July 5, 2022, has a closing date of December 31, 2025. This is the 
+second additional financing (AF2) to the phase 3 of the project.  
+4. 
+The AF2 complies with World Bank procedures. The parent project is currently rated as Moderately 
+Satisfactory (MS) for progress toward achievement of the project development objective (PDO) and Satisfactory 
+for implementation progress (IP). The legal covenants are met under the parent project,2 and there is 
+moderately satisfactory compliance with financial management (FM) arrangements. The World Bank has used 
+a third-party monitoring agent (MA) to perform independent verification of the expenditures upon which 
+payments are made. The Environment and Social (E&S) performance has been Moderately Unsatisfactory (MU), 
+due to the delay in replacing the Senior Social/Gender-Based Violence (GBV) specialist and implementation of 
+sexual exploitation, abuse, and/or harassment (SEAH) prevention and response plan, as well as lack of trust and 
+functionality of the grievance mechanisms (GM) and deficiencies in reporting.  The project has agreed on an 
+action plan to upgrade the rating to at least Moderately Satisfactory as detailed in Annex 1.  
+ 
+1 The first additional financing (AF1) to RCRF III approved on July 5, 2022, was appraised for the total amount of US$92 million, of which 
+US$62 million were International Development Association (IDA) financing and US$30 million was expected to be financed by SMPF 
+against Category 1 and 2 of eligible expenditures. To date, US$15 million was committed from SMPF, while the gap of US$15 million is 
+proposed to be filled through IDA. US$4 million additional SMPF grant will be used to finance Category 3 of eligible expenditures (PBCs) 
+and comes on top of the originally appraised amount.    
+2 The parent project’s requirement for the FGS to select and engage verification consultant(s) to assist the Office of the Auditor General 
+(OAuG) with the preparation of the PBC verification reports is implemented.  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 94 
+ 
+ 
+B. 
+Project Status 
+5. 
+The RCRF III PDO is to support the FGS and eligible Federal Member States (FMS)3 to strengthen resource 
+management systems, the inter-governmental fiscal framework, and service delivery systems in health and 
+education. The PDO has been rated Moderately Satisfactory from the project inception, and the IP has been 
+rated Satisfactory. The parent project is compliant with key loan covenants and financial management reporting 
+and audit requirements. All project components are being implemented satisfactorily as described below. 
+6. 
+Component 1, “Recurrent cost finance to reform resource management systems” (US$41.2 million), has 
+continued to enable the predictable presence and strengthening of the state apparatus during the critical 
+state-building process. This component provides up to US$19.7 million of input-based or “baseline” financing 
+of the FGS civil service wage bill at the sliding scale.4 The share of civil servants’ salaries financed by the 
+government increased from 80 percent in 2020 to 84.6 percent in 2023.5 In 2023, ten of 12 months’ payments 
+for FGS civil service salaries, or 83 percent, were made on time. In addition to input-based financing, RCRF III 
+project provides US$21.5 million through performance-based conditions (PBC) that support a critical reform 
+agenda on domestic revenue mobilization (DRM), payroll management, inter-governmental relations, and 
+public administration reform. Good progress was made in the review of payment processes, implementation of 
+the Unified Chart of Accounts (UCoA), reaching an agreement on the fiscal transfer formula, adoption of the Pay 
+and Grading Policy, implementation of the biometrics system, publishing an annual status report on women in 
+civil service, and agreeing on the action plan on wage bill management.  
+7. 
+Out of 18 PBCs in the amount of US$13.5 million due to date, seven PBCs were met and US$5.5 million 
+disbursed, while additional seven PBCs (US$5.5 million) are pending verification. Despite original delays in the 
+procurement of the Independent Verification Agent (IVA) and subsequent delays in the verification, the 
+consultant is now on board and has conducted the first round of verification with the second round due by April 
+30, 2024. The four pending PBCs on the pension reform, procurement and the implementation of Integrated 
+Tax Administration System (ITAS) and strengthening payment processes for operational expenditures are 
+lagging behind, but the reform effort is expected to intensify with the recent launch of the Somalia Enhancing 
+Public Resource Management Project (SERP, P177298).    
+8. 
+Component 2, “Strengthen inter-governmental fiscal relations” (US$27.4 million), contributes to 
+improved inter-governmental relations and reaching agreements on fiscal federalism structures and resource 
+sharing. Good progress has been made on implementing of the UCoA, which was used to prepare the 2023 
+budget. The Finance Minister’s Fiscal Forum (FMFF) adopted the grants fiscal transfer formula in January 2023, 
+which includes a performance component. After FMS complete their self-assessment on the performance 
+parameters of the formula, the supplementary 2024 budget will be prepared to reflect the inter-governmental 
+allocation to the FMS based on the transfer formula. The component also allows the FMS to achieve agreed 
+PBCs to access up to a total of US$16.8 million fostering improved governance and service delivery at the FMS 
+level.  
+ 
+3 Although not internationally recognized, Somaliland declared independence in 1991, does not participate in the federal system and has 
+therefore also not been part of the RCRF series. While the engagement for development work has been different in Somaliland from the 
+beginning, it does not exclude the potential inclusion of Somaliland in future RCRF phases. 
+4 The sliding scale of FGS civil service financing was introduced by the predecessor RCRF II project, whereby RCRF share of FGS civil service 
+wage bill financing through an advance-replenishment model fell from 100 percent in 2015 to 15 percent in 2023. 
+5 The 2023 target was 86 percent, while that of 2025 is 90 percent.  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 94 
+ 
+9. 
+Out of 11 PBCs costed at US$13.2 million that are due to date, six PBCs were achieved and US$9.1 million 
+has been disbursed to FMS to finance health and education service delivery at the community level.6 Additional 
+two PBCs estimated at US$1 million are pending verification. After a short learning curve, FMS are now familiar 
+with the PBC instrument and are committed to reforms implementation and ready to absorb higher number of 
+PBCs subject to ensuring the timeliness of the verification and immediate disbursement upon the confirmation 
+of results. The exception is the Puntland State of Somalia (PSS), which suspended cooperation with FGS in 
+December 2022 and did not partake in the inter-governmental dialogue, the core of the RCRF supported PBC 
+reforms.  
+10. 
+The local governance sub-component initiated an inter-governmental dialogue on building country 
+systems for transfers from FMS to district councils. FGS and FMS ministries of finance, interior and reconciliation, 
+health and education came together in February 2024 to discuss the institutional framework, regulatory 
+requirements, and eligibility criteria for local transfers. The system of FMS transfers to local governments is set 
+to be piloted by December 2024 paving the way of bringing local governments financing on to government 
+systems.  
+11. 
+Component 3, “Transfers for core government functions and foundational education and health service 
+delivery mechanisms in eligible FMS” (US$77.3 million), scales-up transfers to FMS for increased pro-poor 
+budget allocations for service delivery in health and education. The component has continued helping to 
+reestablish the state as a provider of basic services, notably building basic education and health services delivery 
+through country systems after decades of off-system, off-budget donor financing of services. About 1,300 
+female health workers (FHW) are active in all FMS and Benadir Regional Administration (BRA) with a plan to 
+expand the number to 3,000 and extend support to newly liberated areas in Galmudug and South-West States 
+of Somalia. In the education sector, systems of salary payments to teachers and non-teaching education 
+administration staff were established with a total of 4,467 teachers supported with salaries covering a total of 
+1,736 schools. School supervision exercises are conducted on a regular basis, establishing a baseline, and 
+supporting the development of school improvement plans. The school supervision approach is undergoing 
+revisions with the support of the Education for Human Capital Project (P172434), whereby every school is to be 
+physically supervised once in three years, a self-assessment methodology developed and to be piloted in 2024, 
+and quality assurance framework to be further refined. These changes require reassessment of the project’s 
+PDO indicator on school supervision. The component also supports inter-governmental coordination to support 
+defining and operationalizing functional assignments in the education and health sectors.    
+12. 
+Component 4, “Citizen engagement and feedback” (US$4.1 million), supports transparency and citizen 
+feedback mechanisms. Building on a significant increase in the last Open Budget Index (OBI) rating, the FGS has 
+continued its efforts on increasing the transparency of the budget preparation process, improving oversight, 
+and increasing capacity of budget stakeholders. The Information and Communication Technologies (ICT) based 
+Citizen Engagement Center reached out to 19,581 unique beneficiaries with feedback collected and acted upon 
+since the start of the project. The pilot mass media and behavior campaigns7 focused on budget transparency, 
+grievance redress, and health and education behavior change generating over 200,000 views on social media 
+with over 1,000 comments.  
+13. 
+Component 5, “Project management” (US$10.43 million), supports the coordination, administration, 
+communication, management, procurement, monitoring and evaluation (M&E), audit, and dissemination of 
+ 
+6 Puntland State of Somalia achieved PBC on health service delivery, but did not achieve the education service delivery PBCs, due to its 
+non-participation in the intergovernmental dialogue in the education sector.  
+7 The campaigns entailed talk shows, billboards, animations, social media campaigns, public events, etc. 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 94 
+ 
+project activities. It finances dedicated staff to cover project coordination and management, administration, 
+M&E, financial management, procurement, social and environmental specialist, and communications.  
+ 
+C. 
+Rationale for Additional Financing and Restructuring  
+14. 
+The FGS has requested this AF2 to both scale up and extend the project by 12 months as well as to fill 
+the financing gap of US$15 million. Specifically, the AF2 is requested to help FGS and FMS prepare for a transition 
+after reaching HIPC Completion Point and phasing out of the recurrent cost financing.8    
+15. 
+Recurrent costs in the form of employment compensation continue to constitute almost half of 
+Somalia’s growing public expenditures. Domestic revenues grow at a much slower pace than public 
+expenditures and are not sufficient to finance the expanding state apparatus. With the support from the World 
+Bank, International Monetary Fund (IMF) and other development partners, FGS is implementing several reforms 
+that will contribute to the fiscal sustainability of the public wage bill. On the revenue side, these include 
+automatization of customs and inland revenue, tax policy harmonization efforts, and agreements on the 
+revenue sharing arrangements between FGS and FMS. On the expenditure side, the reforms are targeted at 
+improving the fiscal sustainability of the growing public sector wage bill including the implementation of a pay 
+and grading system, formalization of the non-formal public sector employees and their transition to the pay and 
+grading scheme9, and implementation of the pension reform.  
+16. 
+Implementation of the above reforms will support fiscal sustainability of the wage bill but will require 
+additional time and support. Building on the results and lessons learned from the previous phases, the AF2 
+approach is to support a gradual transition from an “input-based” to “performance-based” financing to: (i) 
+deepen fiscal sustainability reforms; (ii) increase the focus on wage bill sustainability at both the federal and 
+sub-national levels; (iii) enhance transparency and accountability of public expenditures; and (iv) transition out 
+of recurrent cost financing. The proposed approach reflects an evolution of recurrent cost financing in Somalia, 
+and if successful, it will help in a smooth phasing out of recurrent cost support and help Somalia to prepare for 
+changes in IDA financing terms.    
+17. 
+FMS continue to rely on RCRF support for recurrent cost financing, which currently finances 100 percent 
+of formalized civil servants in Jubbaland, Galmudug, Hirshabelle, and Southwest States of Somalia. These FMS 
+rely heavily on inter-governmental transfers to finance its civil service due to extremely low levels of DRM. 
+However, the formalized civil servants’ wage bill comprises between 20 to 40 percent of the overall non-security 
+wage bill in these states, and only 15 percent in the Puntland State of Somalia. The increasing levels of the non-
+formalized wage bill may indicate that FMS, unlike ten years ago when the first phase of RCRF was launched, 
+now have a fiscal space to finance its non-security public sector. At the same time the absence of agreed 
+procedures to govern this non-formalized civil service cadre and limited access to information on the financing 
+sources is alarming and may pose substantial risks to the fiscal sustainability of the wage bill. Therefore, there 
+is an emerging scope for introducing performance-based financing of civil service in FMS with greater focus on 
+ 
+8 Somalia reached the HIPC Completion Point, qualifying for a US$4.5 billion debt relief, by the decision of the IDA Executive Board on 
+December 12, 2023, and the IMF Executive Board on December 13, 2023. The RCRF project series has supported several reforms in PFM, 
+DRM, and service delivery leading to the HIPC decision and completion points. While at the recent IDA20 Mid Term Review, Somalia 
+negotiated to continue accessing grant terms financing for the remainder of IDA20, in a post-HIPC post-IDA20 environment, Somalia will 
+need to ramp up its efforts in strengthening its macroeconomic framework to raise domestic revenues, prioritize public expenditures 
+that promote growth and reduce poverty, and ensure that debt levels remain sustainable (World Bank 2023) Somalia Systematic Country 
+Diagnostic Update FY23, P500140). 
+9 There were around 5,500 temporary workers excluding teachers and health workers as of January 2024.  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 94 
+ 
+strengthened public finance management (PFM) systems, transparency, and wage bill management for fiscal 
+sustainability.    
+18. 
+The AF2 will contribute to the Somalia Country Partnership Framework (CPF) for the FY 2024–2028 
+discussed by the World Bank Board on February 29, 2024 (Report No. 187254-SO), and specifically its Cross-
+cutting Foundational High-Level Objective “Macroeconomic Stability and Governance Foundations”. RCRF III and 
+the AF2 will also incentivize the reforms supported through the Somalia Turnaround Allocation, a series of 
+Development Policy Operations, and SERP. The AF2 is also instrumental in helping Somalia sustain the reform 
+progress post-HIPC by strengthening core government systems and increasing financing for public services, 
+including strengthening DRM, and improving inter-governmental fiscal relations. In this respect it is closely 
+aligned with the IMF’s new Extended Credit Facility (ECF) Arrangements approved on December 19, 2023. The 
+AF2 will continue to closely coordinate with Somalia Improving Health Services Project - Damal Caafimaad 
+(P172031) and Somalia Education for Human Capital Project (P172434) and prepare for gradual phasing-out of 
+RCRF-financed service delivery support. 
+19. 
+Somalia is ranked as the most climate-vulnerable country in the world10 as it faces a wide range of 
+climate risks, including acute climate-induced disasters such as droughts and floods, whose frequency and 
+severity are likely to increase with climate change.11 Droughts, floods, and heat stress induce vector-born and 
+gastrointestinal diseases, damage infrastructure, destroy farmland and livelihoods, disrupt learning in schools, 
+and displace thousands of people with particularly severe impacts on rural populations and the poor.12 The most 
+recent drought, consisting of five consecutive years of below average rainfall caused by climate change, has 
+displaced 2.1 million people since 2021.13 Compounding the crisis have been the October to December 2023 
+seasonal rains and floods across Somalia which alone have displaced an additional one million people and 
+resulted in suspected cases of cholera heightening the risk of an outbreak.14 8.3 million Somalis were expected 
+to face acute food insecurity as of June 2023, including 727,000 facing extreme hunger.15 The AF2 includes 
+climate considerations aimed at reducing Somalia’s vulnerabilities to climate-induced threats.16 
+20. 
+The project is consistent with Somalia’s climate commitments and aligned with the goals of the Paris 
+Agreement on both mitigation and adaptation. The project is informed by the World Bank’s Somalia Climate 
+Risk Review (2023), which serves as a foundation for Somalia’s Country Climate and Development Report 
+(P501734, under preparation) and CPF for FY2024-2028. Somalia's Nationally Determined Contributions (NDCs) 
+include "disaster preparedness and management" and "water resources management and public health" as two 
+of the eight priority areas for adaptation. Somalia’s National Development Plan calls for strengthening Somali 
+institutions’ capacity for effective environmental governance and disaster management. Somalia’s National 
+Adaptation Plan (NAP) (2022) prioritizes adaptation in an integrated and coordinated manner that promotes 
+good governance and institution building. The AF2 responds to Somalia's identified climate risks and priorities 
+by: (i) strengthening local governance mechanisms for disaster preparedness and management financing; (ii) 
+ 
+10 Notre Dame Global Adaptation Initiative (ND-GAIN) 
+11 World Bank (2023) Somalia Climate Risk Review.  
+12 World Bank (2023) Somalia Climate Risk Review. 
+13 UNOCHA (2023), The Horn of Africa Drought Situation Appeal (January – December 2023) Available at: 
+https://reliefweb.int/report/ethiopia/horn-africa-drought-situation-appeal-january-december-2023 
+14 UNOCHA (2023), Somalia Situation Report. Available at: https://reliefweb.int/report/somalia/somalia-situation-report-4-dec-2023 
+15 UNOCHA (2023), The Horn of Africa Drought Situation Appeal (January – December 2023) Available at: 
+https://reliefweb.int/report/ethiopia/horn-africa-drought-situation-appeal-january-december-2023 
+16 For the detailed description of proposed activities, see paragraph 29.   
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 94 
+ 
+supporting an inter-governmental dialogue on environmental taxation; and (iii) improving climate resilience of 
+health and education service delivery. 
+21. 
+The RCRF III project is gender tagged and the AF2 will continue to address gender gaps that exist in 
+public sector recruitment, education, and health service delivery. In the FGS, women make up 29 percent of 
+the total formalized civil service workforce and 19 percent of the three highest grade levels.17 Among teacher 
+cadre, 18 percent of teachers were female in 2023 compared to 33 percent in Sub-Saharan Africa in 2019 (the 
+latest available data).18 Low women's representation in high-level decision-making positions and service delivery 
+positions is primarily due to inequitable recruitment and promotion practices, social norms and attitudes about 
+women's work, and a lack of professional development and networking opportunities for female civil servants.  
+ 
+II. DESCRIPTION OF ADDITIONAL FINANCING 
+A. 
+Key changes  
+22. 
+The PDO of the project remains unchanged. 
+23. 
+The AF2 approach is threefold: (i) to support FGS to fully transition from input-based advance 
+replenishment model (“baseline” financing) to performance-based financing of the recurrent costs; (ii) to 
+introduce performance-based financing of FMS salaries while reducing their baseline financing; and (iii) to 
+increase the share of FMS financing. Participation eligibility criteria (PEC)19 will continue to be leveraged for 
+incentivizing the transparency of financial reporting. The AF2 will benefit about 11,000 civil servants receiving 
+timely salaries; 3,000 FHWs visiting at least 15,000 pregnant women and 45,000 children; and at least 20,000 of 
+project beneficiaries (civil servants, FHWs, teachers, service recipients) reached through digital citizen 
+engagement systems. Table 1 depicts the shift in the approach.  
+Table 1. RCRF financing modes 
+ 
+Original design 
+Additional Financing 
+ 
+Baseline 
+financing 
+(advance):  
+Based on PECs 
+Performance-
+based financing 
+(reimbursement): 
+Conditional 
+on 
+PBCs 
+Input- 
+based IPF 
+(procurement) 
+Baseline 
+financing 
+(advance):  
+Based 
+on 
+PECs 
+Performance-
+based financing 
+(reimbursement): 
+Conditional 
+on 
+PBCs 
+Input- 
+based IPF 
+(procurement) 
+FGS Salaries 
+✓  
+✓  
+ 
+ 
+✓  
+ 
+FMS Salaries 
+✓  
+ 
+ 
+✓  
+✓  
+ 
+Service delivery 
+✓  
+✓  
+✓  
+✓  
+✓  
+✓  
+Technical Assistance  
+ 
+ 
+✓  
+ 
+ 
+✓  
+% of financing 
+~45% 
+~25% 
+~30% 
+~25% 
+~50% 
+~25% 
+24. 
+The AF2 design takes into account the key lessons on performance-based financing under the RCRF 
+series. Specifically, PBCs proved to be an effective mechanism for elevating policy dialogue and focus on key 
+reforms in FGS and FMS. While there is still a time lag in PBC achievement, there is strong government 
+ 
+17 Somalia National Civil Service Commission (2023), Report on the Status of Women in Senior Leadership Positions. (https://ncsc.org.so/reports) 
+18 World Development Indicators (https://data.worldbank.org/) 
+19 The Participation Eligibility Criteria (PEC) are a set of measures that both FGS and the FMS must meet to continue benefiting from each 
+project subcomponent. PEC were established to promote basic system strengthening, including intergovernmental relations, fiscal 
+transparency, and basic payroll and PFM controls. PEC may be revised as part of the RCRF annual and mid-year reviews. 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 94 
+ 
+commitment for the reform implementation. Granular PBCs with several intermediate steps between the policy 
+adoption and its implementation proved to be an effective approach that sustains the reform momentum. 
+Timely and quality achievement of PBCs require intensified implementation support and technical assistance, 
+which will be provided through SERP, Bank-executed PFM support, and close collaboration with education and 
+health Global Practices. The verification mechanism is established albeit the timeliness is still an issue, which 
+will require close attention and reconsideration of the approach, where PBCs are immediately verified upon 
+their completion.20 Performance-based health and education sector financing at the subnational level 
+strengthens the ownership of government-led service delivery and builds lasting capacity for implementation 
+beyond the project duration. The proposed expansion of the eligible expenditure program (EEP) to include 
+government-financed teachers and potentially non-formalized wage bill in FMS will increase transparency and 
+integrity of the expenditures as they will be monitored by the third-party MA.   
+25. 
+Key changes by component are summarized in Table 2 followed by the detailed description of changes. 
+Table 2. Overview of the RCRFIII AF2 (US$ million) 
+ 
+Key changes 
+RCRF III 
+Appraised 
+amount 
+AF2  
+Total 
+Component 1: Recurrent cost finance to reform resource management systems 
+41.2 
+16.2 
+57.4 
+1.1 Financing eligible civil 
+service salaries in FGS: Baseline 
+Zero financing after January 1, 2026.   
+19.7 
+0 
+19.7 
+1.2 Financing eligible civil 
+service salaries in FGS: Reform 
+benchmarks (PBCs) 
+Existing PBCs are revised and new PBCs added to 
+support implementation and sustainability of reforms in 
+the areas of domestic revenue administration; payment 
+and budgeting processes; inter-governmental fiscal 
+framework; public administration; wage bill 
+management, budget transparency (see PBC Matrix in 
+Section VIII) 
+21.5 
+16.2 
+37.7 
+Component 2: Strengthen inter-governmental fiscal relations 
+27.4 
+16.5 
+43.9 
+2.1 Supporting inter-
+governmental forums and 
+Secretariat  
+Continue financing the intensified inter-governmental 
+dialogue on fiscal federalism and functional assignments 
+in health and education  
+2.8 
+2 
+4.8 
+2.2 Reform benchmarks for 
+improved governance and 
+service delivery at FMS-level 
+(PBCs)  
+Existing PBCs are revised and new PBCs added to finance 
+FMS civil service salaries, health and education service 
+delivery. EEP to include FGS ad FMS non-security payroll 
+and teacher incentives.   
+16.8 
+11.3 
+28.1 
+2.3 Strengthening resource 
+management systems  
+Continue financing FMS External Assistance Fiduciary 
+Section (EAFS) and social specialist teams  
+6.1 
+1.2 
+7.3 
+2.4 Local governance  
+Establishment and piloting transfers from FMS to local 
+governments and capacity building for local 
+governments and communities for participatory 
+budgeting 
+1.7 
+2 
+3.7 
+Component 3: Transfers for core government functions and foundational education and 
+health service delivery mechanisms in eligible FMS 
+77.3 
+17.0 
+94.3 
+3.1 Financing core government 
+functions  
+Introduce a declining scale of input-based financing of 
+civil service salaries in FMS. Expand to include financing 
+of non-teacher cadre.   
+30.6 
+4.8 
+35.4 
+ 
+20 See Component 5 description on proposed changes to the verification protocol. 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 94 
+ 
+ 
+Key changes 
+RCRF III 
+Appraised 
+amount 
+AF2  
+Total 
+3.2 Financing education service 
+delivery  
+Scale down of the component as RCRF teachers to be 
+integrated into the Government teacher cadre, while 
+education service delivery activities to be financed 
+though PBC 8. AF will finance key project management 
+positions at the FGS MOECHE and school supervision 
+activities.  
+19.5 
+1.0 
+20.5 
+3.3 Financing health service 
+delivery  
+Continue financing of FHW incentives and expand FHW 
+program to the newly liberated areas, aligning with 
+Damal Caafimaad 
+27.2 
+11.2 
+38.4 
+Component 4: Citizen engagement and feedback  
+4.1 
+1.6 
+5.7 
+4.1 Budget transparency efforts 
+Scale-up of activities 
+1.2 
+0.6 
+1.8 
+4.2 Support mapping, citizen 
+feedback, and corrective 
+measures at the local level 
+Scale-up of activities 
+2.0 
+1.0 
+3.0 
+4.3 Impact evaluation to citizen 
+feedback in education and 
+health 
+As an impact evaluation has not been conducted, initiate 
+impact evaluation activity to enable course-correction 
+actions before the closing date. 
+0.9 
+0 
+0.9 
+Component 5: Project management 
+10 
+2.6 
+12.7 
+5.1 FGS project management 
+costs  
+Continue support on a declining scale  
+5.5 
+0.9 
+6.5 
+5.2 FMS project management 
+costs  
+Continue support on a declining scale 
+3.5 
+0.9 
+4.4 
+5.3 Independent verification 
+agent (IVA) support for PBCs 
+IVA to be contracted through AF 
+1.0 
+0.8 
+1.8 
+Total 
+ 
+160 
+54 
+214 
+Financing gap 
+ 
+-15 
+ 
+ 
+RCRF III AF2 IDA 
+ 
+ 
+65 
+ 
+RCRF III AF2 SMPF 
+ 
+ 
+4 
+ 
+Total financing 
+ 
+145 
+69 
+214 
+26. 
+Component 1 has financed FGS civil service salaries through baseline financing on a declining scale and 
+performance-based financing through PBCs. The AF2 will finance only the performance-based portion of the 
+FGS civil service payroll while the government share of the “baseline” FGS civil service salaries financing 
+(excluding PBCs) will reach 100 percent starting January 2026. Performance-based financing of FGS civil service 
+will comprise around 20 percent of FGS civil service salaries by the end of CY2026. Selected PBCs are revised, 
+and new ones added with the following considerations: (i) fiscal sustainability is prioritized across all PBCs; (ii) 
+the cost of several PBCs was increased to add more value to the reform and provide greater incentives; (iii) one 
+PBC on budget transparency and additional results under original PBC areas were added in 2025-2026 to 
+incentivize sustained implementation beyond the adoption of respective policies and regulations; (iv) the target 
+timelines for selected reforms were extended while intermediate milestones added to reflect current status, 
+realistic timelines and allow for better reform sequencing; (v) four PBC results that were either missed or there 
+was no meaningful progress since the start of the project are proposed for deletion and the amounts to be 
+reallocated to the new refined PBCs in the same reform area; and (vi) the description and verification protocols 
+of existing PBCs refined to reflect the status of reforms implementation, build on lessons, and to align with the 
+implementation support under the SERP, which became effective on October 30, 2023.  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 94 
+ 
+27. 
+Component 2 will scale up the support to the inter-governmental platforms with the objective of 
+strengthening fiscal federalism structures and contribute to the operationalization of inter-governmental 
+agreements following the intensification of the federalism dialogue at the national level. The component will 
+support the Inter-Governmental Education Coordination Forum. Furthermore, additional results under original 
+three PBC areas are added to test the viability of performance-based financing of the FMS civil service, teachers 
+and FHW payroll and introducing the declining scale of “baseline” financing. The FMS PBCs will need to balance 
+the ambition of the reform with its viability to ensure predictable and uninterrupted financing of FMS payroll. 
+Therefore, the verification processes will be refined and detailed in the Project Operations Manual (POM), which 
+will be an effectiveness condition, to allow for timely and predictable disbursements in January-February each 
+year.21 The EEP will be expanded to include FGS and FMS (including Puntland) civil service wage bill, teacher and 
+FHW salaries, as well as FMS non-security permanent employees and regular staff who are not civil servants.22 
+Inter-governmental transfers from FMS to selected local governments will continue to be piloted with the 
+primary goal of strengthening PFM systems and building capacity for participatory and accountable local 
+government transfers for service delivery and climate change mitigation and adaptation. A grant manual 
+agreement will be signed between FGS and FMS and a service delivery agreement signed between FMS and local 
+governments to specify inter alia eligible activities, selection criteria, accountability, reporting, inclusivity, 
+community engagement, and E&S requirements. 
+28. 
+Component 3 will introduce a declining scale for the “baseline” (input-based) recurrent financing for 
+FMS with the target of at least 45 percent of FMS civil service salaries financed from FMS own revenue and 
+reimbursed through PBCs. Non-salary recurrent costs will continue to be financed from advance replenishment 
+to ensure the adherence to the agreed reform roadmap and compliance to the PFM regulations through third-
+party monitoring. AF2 will scale up financing to the Marwo Caafimaad (FHW) program with the focus on the 
+newly liberated areas in close coordination with the Improving Healthcare Services in Somalia Project (“Damal 
+Caafimaad”, P172031). While the target number of FHW remain at 3,000, AF2 will support additional year of 
+salaries to FHW as well as additional costs related to the expansion to the newly liberated areas, which lack basic 
+infrastructure. Input-based support to education sector is expected to scale down after the RCRF-financed 
+teachers have transitioned to Government-financed teacher cadre.   
+29. 
+Component 4 will have a strengthened focus on citizen engagement, open budget, accountability, 
+transparency, and inclusivity. As initial activities laid the foundations for citizen engagement by improving 
+transparency and collecting citizen feedback, the new activities will focus on closing the feedback loop, citizen 
+participation and trust building, and encouraging government accountability. The AF2 will consolidate around 
+successful pilots and incrementally expand them with the above objectives in mind. For the call center, this will 
+entail personalization of messaging, integration of social media, promoting open data, and decentralization of 
+its activities. For the mass media, behavior change, and feedback campaign, this will entail rolling out the pilot 
+to a wider geographic scope with a greater focus on collecting actionable feedback and showing how it is used. 
+Finally, on budget transparency, this will entail strengthening and institutionalizing pilot budget hearings held 
+by parliament and budget consultations held by the MoF along with publication of feedback received and 
+government response. Activities will be closely coordinated with SERP. 
+30. 
+Component 5 will continue providing support to project management and coordination. The component 
+will also extend the services of an IVA or consultants to validate FGS and FMS level PBC achievements. As the 
+ 
+21 See Component 5 description below.  
+22 While RCRF finances 100 percent of FMS (except Puntland) non-security formalized civil service payroll, its share of FMS non-security 
+wage bill on average comprises 24 percent. In addition to formalized civil service, FMS non-security wage bill includes permanent 
+employees/regular staff, contract employees, remuneration to political appointees, wage worker, etc.   
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 94 
+ 
+current IVA contract is about to end, the Project has already initiated the procurement of an individual 
+verification consultant as well as the contracting of an IVA TA firm to ensure timely verification of the next round 
+of PBCs. The new TORs include flexibility as regards the timeline for the verification cycles moving away from a 
+biannual verification cycle to on-demand verification available throughout the year.     
+31. 
+There are several changes made to the results framework. The methodology of the PDO-level indicator 
+on school supervision is revised so that the self-assessment is measured in nominal terms rather than in 
+percentage terms in line with a newly approved school supervision plan.  Targets for the selected PDO-level and 
+intermediate results indicators are extended to reflect an additional year of implementation. The share of FGS 
+civil servants’ salaries financed by the government (baseline salaries excluding performance-based financing) is 
+proposed to reach 100 percent by December 2026. Intermediate results indicators linked to PBCs are revised to 
+align with the updated and more ambitious PBC results. A more ambitious target for the indicator on citizen 
+engagement is set with the number of beneficiaries reached increased from 9,000 to 20,000. The methodology 
+and target for the indicator on closing the feedback loop were refined to distinguish between two different 
+categories of feedback - grievance mechanisms and service delivery feedback.23 Finally, a health service delivery 
+indicator linked to PBC is replaced with the number of pregnant women and children under five visited by FHW 
+to align with the World Bank Corporate Scorecard. 
+B. 
+Crosscutting Activities  
+32. 
+The project contributes to advancing Somalia’s climate goals. The AF2 will finance salaries of FGS and 
+FMS Ministries of Environment and Climate Change prioritizing technical positions that deal with climate 
+mitigation and adaptation measures (subcomponents 1.2 – US$0.2 million and subcomponent 3.1 - US$0.1 
+million). It will also provide technical assistance (TA) on mechanisms and fiscal transfers at the local governance 
+level to enable emergency financing in response to climate-related and other disasters, including TA on 
+decentralizing decision-making for a more effective and efficient response and recovery process following 
+severe floods and cyclones (subcomponent 2.4 – US$1 million). The project will further finance at least one inter-
+governmental fiscal federalism forum a year to enable discussions on financing climate response and introducing 
+environmental taxation to de-incentivize activities that lead to deforestation (subcomponent 2.1 – US$0.2 
+million).  
+33. 
+Digital data reporting and self-assessments will replace the need for physical supervision visits, which 
+can be interrupted by climate-related disasters, as well as reduce travel time at least by half contributing to 
+lower greenhouse gas (GHG) emissions (subcomponents 3.2 and 3.3 – US$0.5 million). The AF2 will finance the 
+procurement of at least 1,000 solar chargers (costing US$55 each) by FHWs, which should contribute to lower 
+GHG emissions. Under subcomponent 3.3 (US$2.3 million), emergency response protocols will be developed 
+and put in place for FHWs program operation and FHWs will be trained to provide emergency response including 
+through rapid information exchange, support to the most vulnerable communities affected by climate change, 
+and prevention and treatment of climate-induced diseases. Increased budget allocations through PBC 7 will, in 
+addition, allow the health sector to allocate at least 5 percent as contingency financing for emergency health 
+response to climate-induced disasters exacerbated by climate change (subcomponent 2.2 – US$0.24 million).  
+ 
+23 Currently, the baseline for GM feedback is at 76 percent, but it is expected to improve and reach 90 percent by December 2026. SD 
+related feedback is based on messages related to implementation support, health, and governance outcomes that are sent to civil 
+servants and beneficiaries to gauge their level of satisfaction, their use of government services and to understand if they are adhering to 
+recommended behavior change and other outcomes. For these SD related campaigns, the target is to achieve a 50% progress toward 
+closing the feedback loop by December 2026 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 94 
+ 
+34. 
+The AF2 will promote the inclusion of women in governance structures, service delivery, and citizen 
+engagement.  Specifically, the AF2 will: (i) enhance the role of women in leadership positions in civil service 
+through a dedicated PBC;24 (ii) enable financing to continue support to 3,000 FHWs during the extended project 
+period, in addition to deploying 500 FHWs in newly liberated areas; (iii) continue incentivizing female 
+participation in the teacher cadre and their transition onto the government-financed regular teacher payroll; 
+and (iv) support gender-sensitive citizen engagement activities, such as outreach to FHW service recipients, 
+especially pregnant women and mothers, through the call center and mobilization of women’s groups at the 
+community level for interactions on health issues including in the newly liberated areas. As a result of these 
+actions, the share of women in the teaching cadre will increase from 14 percent to 20 percent; and the number 
+of FHWs providing services on the ground will increase from 1,300 to 3000, including 500 FHWs in newly 
+liberated areas. Notably, a PDO-level indicator and two intermediate results indicators are gender-focus, i.e.,  
+FHWs selected according to guidelines, trained, and actively providing services; number of total unique 
+beneficiaries connected through citizen engagement ICT systems, disaggregated by target beneficiary group, 
+including women; share of teachers reporting timely payment of salaries through citizen engagement 
+mechanisms, disaggregated by gender, and the share of FHWs complying with the monthly requirements of 
+reporting with the prescribed digital tools. Women-only consultations will be necessary in the identification of 
+activities on local governance under component 2.4 which will need to be facilitated by female Environmental 
+and Social Specialist /GBV focal points or other education/health staff at the FMS level. 
+ 
+III. KEY RISKS 
+35. 
+The overall risk rating for AF2 is Substantial. The key residual risks and proposed mitigation measures are 
+outlined below. 
+36. 
+Political and governance risks are High. Somalia remains a high-risk environment for institution building 
+and development financing. The risk of political instability remains high and could slow or derail reforms over 
+the course of the project. Political contestation, ongoing constitutional review process, and the outcomes of the 
+ongoing Al-Shabab offensive are further risks. Tensions between the FGS and the Puntland State of Somalia in 
+respect to the constitutional process and power sharing arrangements have reached its peak in March 2024 
+with the recent constitutional amendments passed by the Parliament and Puntland’s declared withdrawal from 
+the federation. Since late 2022, Puntland State of Somalia has not sent its representatives to the inter-
+governmental forums, while FGS and the rest of the FMS continued to advance discussions by reaching several 
+inter-governmental agreements without Puntland. Puntland’s position may pose a risk to the achievement of 
+several inter-governmental PBCs, which at the same time can also be used as a risk mitigation measure. Delays 
+in Puntland’s compliance with PEC, have caused and may continue to cause disruptions in FGS transfers to the 
+State and delays in teacher and health worker salaries. The principal mitigation measures for these risks include 
+substantial consultation with, and engagement of, multiple categories of stakeholders beyond politically 
+appointed leaders and establishment of a consultative process in which project management engages on a 
+regular basis during preparation and implementation to ensure visibility and generate expectations for the 
+project’s outcomes. Support to the Inter-governmental Fiscal Federalism Forum and sectoral inter-
+governmental coordination platforms (in health and education) have proved instrumental in reaching 
+agreements at technical levels and preparing the ground for high-level policy dialogue.  
+ 
+24 This is covered under PBC 5 which specifies that a target of 21 percent ratio of women in senior leadership positions is achieved. This 
+will be complimented by technical assistance provided by SERP. 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 94 
+ 
+37. 
+The macroeconomic risk is High. The macroeconomic risk remains high due to limited, yet increasing, 
+capacity of the government to respond to external shocks on the nascent formal economy. Successive droughts 
+and heavy rains have taken a large toll on the country, aggravating the humanitarian challenges. There is no 
+fiscal space to allocate domestic resources to respond to shocks. The FGS is in a challenging fiscal situation, and 
+in the absence of external support, may run out of resources to pay for core government expenditures, which 
+could result in the accumulation of arrears and heightened social tensions. Economic activity is likely to continue 
+to be exposed to significant risks related to insecurity in Mogadishu and large parts of Somalia. Supporting 
+improvements in domestic revenue administration, strengthened wage bill controls, close alignment with DPO 
+and the IMF’s ECF program will help mitigate the risk.  
+38. 
+Sector strategies and policies risk are Substantial. The project builds on a positive trajectory of reform to 
+date, demonstrating government leadership and a trust-based relationship between the government and the 
+World Bank. However, there is significant heterogeneity between strategies and policies across the FGS and 
+FMSs, and this fragmentation is a potential risk. A key risk mitigation measure is the highly consultative 
+processes that will be followed during implementation, as it will be important to maintain a strong dialogue with 
+the FGS, FMSs, and donors throughout project implementation. Co-financing by the SMPF grant will further 
+reinforce the engagement with key development partners at policy and sectoral level, including through the 
+SMPF Consultative Group meetings, coordination, and updates. 
+39. 
+Technical design of project risk is Substantial. The AF2 proposes to restructure and scale up activities of 
+a complex reform agenda across key institutions and governments. Somalia’s administrative and sectoral 
+institutions, however, have limited ability to rapidly absorb resources. In addition, the required intra- and inter-
+governmental coordination is weak. In this regard, the restructuring and scale-up of project components will 
+build on lessons learned from RCRF III and previous phases and will introduce changes to activities and new 
+components gradually to ensure government ownership and incremental capacity building tailored to the 
+context. Extensive implementation support and TA through SERP will mitigate the complexity of risks.  
+40. 
+The institutional capacity for implementation and sustainability risks are Substantial. Risks related to 
+the government’s capacity to implement activities, considering the institutional capacity of the implementing 
+agencies, implementation arrangements, and M&E arrangements, are Substantial. The RCRF III project has been 
+addressing this by building additional capacity in key ministries, as well as by augmenting existing capacity with 
+external support. The AF2 will further enhance these efforts and will continue to strengthen public sector 
+systems and invest in education and health activities to support the development of human capital in the long 
+term. 
+41. 
+The fiduciary risk is Substantial. Financial management and procurement capacity challenges exist that 
+are likely to affect the project. These include: (i) lack of key financial management and procurement 
+competencies and over-reliance on consultants; (ii) nascent internal controls; (iii) weak capacity of bidders and 
+limited service providers and the resulting collusion among bidders due to limited competition; (iv) fraud and 
+corruption; (v) lack of enforcement of the public regulatory framework. The mitigation measures include 
+mainstreaming the project accounting systems and capacity through the EAFS in the Accountant General’s office 
+(OAG), payment processing through Somalia Financial Management Information System (SFMIS), annual 
+internal audit of project activities, annual external audit through the OAuG and existing third-party monitoring 
+arrangements, intensive implementation support, technical assistance through SERP, and capacity building 
+training of project teams. On the procurement side, the mitigation measures include (a) ensuring that the PIU 
+always has in place a dedicated procurement specialist with relevant qualification and experience acceptable to 
+the World Bank as well as ensuring that the POM includes a well-documented step-by-step procurement 
+management process; (b) the World Bank training the project staff on the Procurement Regulations; (c) creating 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 94 
+ 
+awareness among the government, private sector, and other stakeholders on the key issues regarding integrity 
+in procurement and FM; (d) supporting procurement reforms through SERP; (e) incorporate Hands-On Enhanced 
+Implementation Support (HEIS) during project implementation where applicable; (f) encouraging international 
+firms to have joint ventures with local firms due to insecurity; and (h) involving the probity adviser, where 
+appropriate.     
+42. 
+Environmental and Social risk is Substantial. While Environmental risk is Moderate, the Social risk is 
+Substantial due to the vulnerability of FHWs to poor employment practices, GBV/SEAH, as well as overall 
+project-wide low trust in GM. The risk is to be mitigated through training on labor management practices, 
+recruitment of a Senior Social Specialist with GBV related skills; management of GBV and SEAH risks in 
+recruitment/retention of female workers; development of an SEAH prevention and response action plan; and 
+strengthening of the GM with appropriate structures, procedures and channels to enable safe, confidential and 
+ethical reporting of GBV/SEAH and other incidents.  
+43. 
+Other: Security risk is Substantial. Terrorist activity pose a risk to human security, project 
+implementation, and project sustainability. Insecurity can create limitations on access to the operating 
+environment, which in turn poses additional project risks, creating challenges for project implementation and 
+monitoring. FHWs serving in newly liberated areas, Al-Shabab-controlled or nearby areas, are prone to security 
+risks in their catchment areas. As part of the risk mitigation approach, a project-level security risk management 
+consultant is being recruited to support in the implementation of the security risk management plan. 
+ 
+IV. APPRAISAL SUMMARY 
+ 
+A. Economic and Financial Analysis  
+44. 
+The AF2 has a strong economic rationale with important direct and indirect benefits. Anticipated 
+benefits include strengthened inter-governmental fiscal relations, improvements in education and health 
+outcomes, and a strengthened social contract between citizens and the state. Incentives through FGS reform 
+benchmarks aim at generating further improvements in DRM, wage bill management, and public administration. 
+Benefits are corroborated by empirical evidence from the literature estimating high cost-effectiveness of post-
+conflict interventions in areas such as dialogue, institutional reform in core state functions, and redistributive 
+policies, all of which are key areas of the AF2.   
+45. 
+Given the paucity of economic data and the uncertainty in determining costs and benefits, a qualitative 
+approach was chosen to conduct the economic analysis for this project. The following table outline the 
+economic rationale of the investment and present the anticipated direct and indirect benefits of the different 
+project interventions. 
+Table 3. Anticipated RCRF III AF2 direct and indirect benefits by intervention component 
+Intervention area 
+Anticipated Direct Benefits 
+Anticipated Indirect Benefits 
+Component 1: Recurrent cost finance to reform resource management systems 
+FGS level PBCs   
+• Reduced FGS civil service wage bill pressures 
+• Strengthened payroll processes, such as timely, reliable, and streamlined 
+salary payments, input controls, and exceptions handling improvements to 
+public finance systems. to strengthen payment processes for operational 
+expenditures, domestic revenue systems capacity, and wage bill 
+management.  
+• Transition of FGS from recurrent cost financing in the post-HIPC scenario 
+• Increased legitimacy of state 
+institutions 
+• Preparation to financing 
+under new IDA terms 
+• Improved resilience against 
+shocks  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 94 
+ 
+Intervention area 
+Anticipated Direct Benefits 
+Anticipated Indirect Benefits 
+Component 2: Strengthen inter-governmental fiscal relations 
+Inter-governmental 
+transfers and 
+dialogue 
+• Improved inter-governmental communication and coordination 
+platforms and processes 
+• Strengthened inter-governmental fiscal framework 
+• Trust-building 
+• Increased FMS financial capacities 
+• Strengthened political 
+settlement 
+• Increased confidence in all 
+levels of government  
+FMS level PBCs 
+• Strengthened budget transparency 
+• Transparency and fiscal sustainability of wage bill  
+• Health and education service delivery at FMS level 
+• Fiscal sustainability of wage 
+bill 
+• Higher trust of development 
+partners in FMS PFM systems 
+leading to greater funding 
+through government systems  
+• Increased legitimacy of state 
+institutions 
+Local governance 
+• Platform established for greater intra-FMS dialogue with 
+municipal/district governments on functional and fiscal decentralization 
+• Strengthened municipal/district governments’ PFM and citizen 
+engagement capacities at FMS level 
+• Building the systems to enable FMS transfers to local governments and 
+bringing service delivery and decision-making closer to communities 
+• Building citizen engagement structures for decision-making on budget 
+spending at local level 
+• Increased citizen trust in local 
+governments and the state 
+overall 
+• Increased legitimacy of state 
+institutions 
+• More effective service 
+delivery at local level, including in 
+climate adaptation 
+• Improved resilience against 
+shocks at the local level 
+Component 3: Transfers for core government functions and foundational education and health service delivery mechanisms in eligible 
+FMS 
+Declining scale of FMS 
+civil service salary 
+baseline financing 
+• Building foundations for the transition from recurrent cost financing in 
+FMS 
+• Strengthening PFM and payroll accountability  
+• Increasing the transparency of FMS wage bill 
+• Preparation to financing 
+under new IDA terms 
+ 
+Expand FHW coverage 
+and technical capacity 
+building, including 
+contract management 
+capacity in the MoHs 
+• Increased service delivery capacities  
+• Reduced female under-representation in health service delivery 
+• Improved management and quality of health services 
+• State presence in newly liberated areas 
+• Higher human capital 
+accumulation, which in turn can 
+increase innovation, investment, 
+income, and long-term economic 
+growth25 
+• Strengthened trust in 
+government in stabilization 
+districts  
+Component 4: Citizen engagement and feedback  
+Design and use tools 
+to advance 
+transparency and 
+generate citizen 
+feedback mechanisms  
+• Improved communication between citizen and state, which in turn can 
+increase government responsiveness and reduces inefficient spending 
+• Increased budget transparency, which forms the foundation for building 
+public trust in state institutions 
+• Strengthened social contract 
+between citizens and state 
+• Better understanding of 
+communities about public 
+spending can increase local 
+revenue collection26  
+ 
+25 See World Bank (2019), World Development Report 2018: Learning to Realize Education's Promise; World Bank (2019), World 
+Development Report 2019: The Changing Nature of Work.    
+26 See Village Community Support Projects (PACVG) (2015); World Bank / Grandvoinnet & Chasara (2019), Engaging Citizens in Countries 
+Affected by Fragility, Conflict, and Violence (World Bank). 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 94 
+ 
+B. Technical 
+46. 
+The AF2 design builds on lessons learned from RCRF II and III and on an extensive body of recent 
+analytical work conducted in Somalia). Through PBC-based financing, the project design ensures that financing 
+is linked to reform progress. Reform incentives are offered in the form of variable levels of financing for the FGS 
+civil service wage bill conditional upon achieving the reform benchmarks in the core areas, namely: revenue, 
+PFM and payment processes, inter-governmental fiscal relations, public administration, wage bill management, 
+budget transparency. The project’s technical design considers the country’s weak capacity and the right balance 
+between rapid results, i.e., payment of salaries of non-security staff for the establishment of public services, and 
+medium-term objectives to ensure sustainability. An internal control framework to institute controls in 
+payments of salaries and non-salary recurrent cost expenditures in the civil service is included in the design. The 
+technical features of the project design have been examined by World Bank staff over the course of project 
+implementation and are considered sound and robust. This combined approach, which focuses on service 
+delivery with strong fiduciary controls, is also important for building trust in Somalia’s institutions with citizens 
+and international partners. Third-party monitoring of FGS and FMS civil service payroll, non-salary recurrent 
+costs, FHW and teacher salaries will ensure the integrity of transactions. The expanded EEP will include FMS 
+non-civil service payroll and will be monitored by the MA, which will allow to identify systemic issues in payroll 
+management beyond the RCRF financing. 
+47. 
+The AF2 is aligned with the goals of the Paris Agreement on both adaptation and mitigation. In line with 
+the Paris Alignment Method for Investment Project Financing, (i) risks from climate hazards are not likely to 
+have a material impact on the project per the application of the World Bank Climate Change and Disaster Risk 
+Screening Tool and (ii) the project is not at a material risk of having a negative impact on Somalia’s low-carbon 
+development pathways. Therefore, the project is assessed to have low risk on adaptation or mitigation. The 
+project is consistent with the adaptation and mitigation discourse in Somalia in the following manner:  
+• 
+Assessment and reduction of adaptation risks. The AF2 faces no material risk from climate hazards. 
+Components 1 and 2 face no climate risk. Component 3 entails transfers for education and health service 
+delivery, including expansion of the FHW program. Provision of health and education services could be 
+interrupted by climate related crisis; however, provision of financing provided by the AF2 is not at risk. 
+Finally, outputs related to Component 4, which covers citizen engagement are not at risk as they mostly 
+entail communications through digital and traditional media and in-person consultations would only risk 
+delay or be shifted online. Despite the already negligible risk, the AF2 employs the following risk 
+reduction measures specifically related to service delivery: (i) Digital tools for reporting and assessments 
+will be employed to strengthen education and health delivery functions and avert interruptions during 
+climate crisis; (ii) Emergency response protocols will be developed and put in place for operation of the 
+FHWs operation during times of climate disaster; and (iii) Use of solar chargers by FHWs will allow them 
+to be more resilient by maintaining communication and service delivery regardless of climate induced 
+power shortages. 
+• 
+Assessment and reduction of mitigation risks: The activities under the AF2 are expected to have a 
+negligible impact on GHG emissions, aligned with Somalia's NDC commitment of a 30 percent 
+reduction, and Universally Aligned. The AF2's activities that have potential for emissions include the 
+financing of air and land travel to enable inter-governmental discussions and FHW supervision activities. 
+However, given the fact that the AF2 is digitizing some aspects of service delivery, it is expected that the 
+emissions from the AF2 will have negligible impact on Somalia's GHG emissions trajectory. The AF2’s 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 94 
+ 
+activities are Universally Aligned as they are related to public administration and education and health 
+service delivery.27  
+C. Financial Management 
+48. 
+The AF2 will rely on the existing systems and structures already established under the parent project. 
+This includes adequate accounting capacity headed by a consultant financial management specialist supported 
+by a team from the EAFS within the OAG. Payment processing, recording and reporting will be mainstreamed 
+into the country systems through the SFMIS. The PIU will submit quarterly unaudited interim financial reports 
+(IFR) in respect of the AF2 activities to the World Bank within 45 days after the end of the quarter. The existing 
+internal control arrangements including approval and authorization of payments, adequate segregation of 
+functions through the EAFS and regular internal check mechanisms will also apply to the AF2. The internal audit 
+function based at the Ministry of Finance will conduct fiduciary review of the project activities (including the 
+AF2) at least once every year. Under the parent project, the internal audit function was supported to conduct a 
+successful audit of civil service payroll processes in May 2023. The fiduciary risks identified under the parent 
+project also apply to the AF2 and the outlined mitigation measures will continue to be implemented. Funds flow 
+arrangements will also remain the same with disbursements from the World Bank to the designated account 
+(DA) at the Central Bank of Somalia based on submission of withdrawal application and statement of 
+expenditures incurred. An initial advance will be made to the DA based on a six-month cash forecast. Payments 
+to vendors and service providers will be made from the DA based on relevant supporting documentation and 
+evidence of goods supplied or services rendered. Direct payments will also be made to the vendors and service 
+providers from the World Bank following submission of requests from the PIU. The AF2 will be audited as part 
+of the overall project and the external audit report will be submitted to the World Bank within six months after 
+the financial year end. The residual FM risk rating for the project is therefore considered Substantial.  
+D. Procurement 
+49. 
+Procurement for the AF2 will be carried out in accordance with the requirements in the Procurement 
+Regulations for Borrowers under Investment Project Financing (IPF): Goods, Works, Non-Consulting Services 
+and Consulting Services dated July 1, 2016, and updated September 2023. The Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, revised July 1, 
+2016; and the provisions stipulated in the Financing Agreement. 
+50. 
+The existing procurement implementation arrangement of the parent project will be maintained and 
+strengthened under the AF2. The PIU is already staffed with a Project Coordinator, Procurement Specialist, and 
+a National Procurement Specialist among other key staff. The same PIU staff will be responsible for the 
+implementation of the procurement activities under AF2. An adequate number of officials dealing with 
+procurement in the PIU either directly or indirectly have undergone procurement training with the focus on 
+World Bank’s Procurement Regulations/Contract Management. However, some of the PIUs/Stakeholders are 
+not yet fully conversant with the World Bank Procurement Regulations/Contract Management and are still 
+learning. Under the AF2, support will continue to be provided by the World Bank by conducting trainings aimed 
+toward addressing procurement capacity issues for the PIU/technical department/stakeholders. 
+ 
+ 
+ 
+27 Joint MDB Methodological Principles for Assessment of Paris Agreement Alignment of New operations (Version 1.0 June 2023) 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 94 
+ 
+E. Legal Operational Policies 
+. . 
+ 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+.
+ 
+F. Environmental and Social 
+51. 
+Environmental risk is moderate: The main environmental issues for the project relate to the handling and 
+disposal of medical kits and limiting the spread of communicable diseases through health and education 
+provision. The management of medical waste was assessed as satisfactory at the mid-term review stage of the 
+parent project conducted in September 2023. The AF2 will allocate funds for FHW training materials to cover 
+guidelines for medical waste management plans to reduce environmental and climate impact (subcomponent 
+3.3 – US$2.3 million). Other project activities do not pose risks since they relate to technical assistance, capacity 
+building, and training. For component 2.4, activities as part of community service provision are to be carried out 
+by district governments and will be restricted to soft activities or minor rehabilitation of local government offices 
+as specified in the ESMF and in compliance with the environmental and social standards (ESS7) to groups that 
+meet the ESS7 criteria. Any infrastructure works beyond minor rehabilitation will be excluded from the project.  
+52. 
+Social risk is substantial:  FHWs are vulnerable to SEAH and poor employment practices, often operating 
+without contracts and subject to dismissal or salary deductions without warning, and with basic protection such 
+as maternity leave being ignored. They also report feeling insecure, which is likely to increase as they are 
+employed in newly liberated areas which may be hostile to government presence and services. Training on labor 
+management practices should be carried out for all managers and female health worker supervisors (FHS). Trust 
+and openness in the GM need to be strengthened including appointing and training female focal points for FHWs 
+and teachers at community level. This is particularly important as the call center will be devolved and complaints 
+will be referred to the E&S specialists at FMS level and forwarded to the Grievance Redress Committee (GRC), 
+who have limited training and orientation in GBV and are mainly male.  For the new component 2.4 robust criteria 
+and documented evidence-based selection of districts and sites for investments will be required. These 
+investments would be limited to minor rehabilitations only, to reduce the risk of land acquisition or displacement 
+and labor influx which could further exacerbate the SEAH risks. 
+53. 
+GBV/SEAH risks is Substantial: GBV including SEAH in Somalia remains a serious concern both as a 
+contextual and project related challenge. The risks associated with the project are linked to abuse of power, 
+including sexual exploitation and abuse in hiring, employment and retention practices in the public sector 
+recruitment processes which can distort power relations, leading to opportunities for abuse, limitations on the 
+mobility of FHWs travelling long distances to reach communities, particularly those in newly liberated areas, al-
+Shabaab controlled or nearby areas. Female project workers may also be at risk of sexual harassment by 
+colleagues or supervisors, and women may be vulnerable to SEA from project workers. While project related GBV 
+incidents have been reported under the parent project, survivors received timely and appropriate support. The 
+AF2 will continue to adopt a robust and comprehensive approach to address potential project induced GBV/SEAH 
+risks. Relevant mitigation measures to address these risks under implementation include integrating Codes of 
+Conduct with GBV/SEAH-related protections; community consultations and sensitization activities to raise 
+awareness of potential risks; Senior Social Specialist with GBV related skills to guide the project while 
+continuously identifying potential risks and mitigation measures to be adopted; management of GBV and SEAH 
+risks in recruitment/retention of female workers; mapping and collaboration with potential service providers in 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 94 
+ 
+project areas especially in the newly liberated areas; development of an SEAH prevention and response action 
+plan; and strengthening of the GM with appropriate structures, procedures and channels to enable safe, 
+confidential and ethical reporting of GBV/SEAH incidents. The parent project and the proposed AF2 will continue 
+to provide capacity building and training of relevant stakeholders, including contractors and project workers, in 
+addition to capacity building for government partners. 
+V. 
+GRIEVANCE REDRESS SERVICE 
+54. 
+Grievance Redress. Communities and individuals who believe that they are adversely affected by a project 
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the 
+Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in 
+order to address project-related concerns. Project affected communities and individuals may submit their 
+complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection 
+Panel, which determines whether harm occurred, or could occur, as a result of Bank non-compliance with its 
+policies and procedures, and the Dispute Resolution Service, which provides communities and borrowers with 
+the opportunity to address complaints through dispute resolution. Complaints may be submitted to the AM at 
+any time after concerns have been brought directly to the attention of Bank Management and after Management 
+has been given an opportunity to respond. For information on how to submit complaints to the Bank’s GRS, 
+please visit http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s 
+Accountability Mechanism, please visit https://accountability.worldbank.org. 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 94 
+ 
+ 
+ 
+     
+ 
+VI    SUMMARY TABLE OF CHANGES 
+ 
+ 
+Changed 
+Not Changed 
+Results Framework 
+  ✔ 
+   
+Components and Cost 
+  ✔ 
+   
+Loan Closing Date(s) 
+  ✔ 
+   
+Implementing Agency 
+     
+✔ 
+Project's Development Objectives 
+     
+✔ 
+Cancellations Proposed 
+     
+✔ 
+Reallocation between Disbursement Categories 
+     
+✔ 
+Disbursements Arrangements 
+     
+✔ 
+Legal Covenants 
+     
+✔ 
+Institutional Arrangements 
+     
+✔ 
+Financial Management 
+     
+✔ 
+Procurement 
+     
+✔ 
+Other Change(s) 
+     
+✔ 
+ 
+ 
+VII   DETAILED CHANGE(S) 
+   
+COMPONENTS 
+Current Component Name 
+Current Cost 
+(US$, millions) 
+Action 
+Proposed Component 
+Name 
+Proposed Cost (US$, 
+millions) 
+Component 1: Recurrent 
+cost finance to reform 
+resource management 
+systems 
+41.20 Revised 
+Component 1: 
+Recurrent cost finance 
+to reform resource 
+management systems 
+57.40 
+Component 2: Strengthen 
+inter-governmental fiscal 
+relations 
+27.40 Revised 
+Component 2: 
+Strengthen inter-
+governmental fiscal 
+relations 
+43.90 
+Component 3: Transfers for 
+core government functions 
+77.30 Revised 
+Component 3: Transfers 
+for core government 
+94.30 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 94 
+ 
+and foundational education 
+health service delivery 
+mechanisms in eligible 
+Federal Member States 
+(FMS) 
+functions and 
+foundational education 
+health service delivery 
+mechanisms in eligible 
+Federal Member States 
+(FMS) 
+Component 4: Citizen 
+Engagement and Feedback 
+4.10 Revised 
+Component 4: Citizen 
+Engagement and 
+Feedback 
+5.70 
+Component 5: Project 
+Management 
+10.00 Revised 
+Component 5: Project 
+Management 
+12.70 
+TOTAL 
+ 160.00  
+ 
+ 214.00 
+ 
+ 
+LOAN CLOSING DATE(S) 
+Ln/Cr/Tf 
+Status 
+Original Closing 
+ 
+Current 
+Closing(s)  
+ 
+Proposed  
+Closing  
+ 
+Proposed Deadline 
+for Withdrawal 
+Applications 
+IDA-D6580 
+Effective 
+31-Dec-2023 
+31-Dec-2025 
+31-Dec-2025 
+30-Apr-2026 
+IDA-E1020 
+Effective 
+31-Dec-2025 
+31-Dec-2025 
+31-Dec-2026 
+30-Apr-2027 
+TF-B8760 
+Effective 
+31-Dec-2023 
+31-Dec-2025 
+31-Dec-2026 
+30-Apr-2027 
+     
+ Expected Disbursements (in US$) 
+ DISBURSTBL 
+Fiscal Year 
+Annual 
+Cumulative 
+2020 
+0.00 
+0.00 
+2021 
+0.00 
+0.00 
+2022 
+35,000,000.00 
+35,000,000.00 
+2023 
+45,000,000.00 
+80,000,000.00 
+2024 
+47,000,000.00 
+127,000,000.00 
+2025 
+42,000,000.00 
+169,000,000.00 
+2026 
+40,000,000.00 
+209,000,000.00 
+2027 
+5,000,000.00 
+214,000,000.00 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 94 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+Risk Category 
+Latest ISR Rating 
+Current Rating 
+ 
+Political and Governance 
+⚫ High 
+⚫ High 
+ 
+Macroeconomic 
+⚫ High 
+⚫ High 
+ 
+Sector Strategies and Policies 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Technical Design of Project or Program 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Institutional Capacity for Implementation and 
+Sustainability 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Fiduciary 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Environment and Social 
+⚫ Moderate 
+⚫ Substantial 
+ 
+Stakeholders 
+⚫ Substantial 
+⚫ Moderate 
+ 
+Other 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Overall 
+⚫ Substantial 
+⚫ Substantial 
+ 
+   LEGAL COVENANTS2 
+LEGAL COVENANTS – Second Additional Financing for Somalia Recurrent Cost and Reform Financing Phase III 
+(P181407) 
+Sections and Description 
+ 
+ 
+The Recipient shall vest the responsibility for verifying the achievement of PBCs in the OAuG and to that end, select 
+and engage, not later than two months after the Effective Date, an independent third-party consultant(s) (the 
+“Verification Consultant(s)”, with qualifications, experience and terms of reference satisfactory to the Association, 
+to assist the OAuG with the verification process. 
+ 
+ 
+ 
+Conditions 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+(a) 
+the Recipient has updated and adopted the Project 
+Operations Manual, in form and substance satisfactory to 
+the Association 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+(b) 
+the Recipient has: (i) updated and adopted the 
+Environmental and Social Management Framework, Labor 
+Management Procedures, and Sexual Exploitation and 
+Abuse and Sexual Harassment (SEA/SH) Prevention and 
+Response Action Plan, in form and substance 
+satisfactoryto the Association, and (ii) appointed a 
+security risk management consultant, with qualifications, 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 94 
+ 
+experience and under terms of reference satisfactory to 
+the Association 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+(c) 
+the Recipient has prepared the Project Grievance 
+Mechanism Report for the period January 2023 to 
+January 2024, in form and substance satisfactory to the 
+Association 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, 
+IBRD/IDA 
+No withdrawal shall be made under Category 3 until and 
+unless the Recipient has (i)  
+submitted to the 
+Association the applicable IUFR detailing the expenditures 
+incurred under the Project up to the date of the 
+applicable withdrawal application, all pursuant to the 
+Disbursement and Financial Information Letter 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, 
+IBRD/IDA 
+No withdrawal shall be made under Category 3 until and 
+unless the Recipient has (ii) furnished the respective 
+Verification Report, in accordance with the Verification 
+Protocol and in a manner and substance acceptable to 
+the Association, confirming the Recipient’sand/or the 
+FMS’/BRA’s satisfactory achievement of the respective 
+PBCs as set forth in Schedule 3 to this Agreement 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Nov 20, 2023 
+Page 30 of 94 
+ 
+VIII. RESULTS FRAMEWORK AND MONITORING 
+ 
+ 
+     
+ 
+Results Framework 
+COUNTRY: Somalia  
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Phase III 
+RESULT NO PDO 
+Project Development Objective(s) 
+ 
+To support the Federal Government of Somalia and Eligible Federal Member States to strengthen resource management systems, the inter-governmental fiscal framework, 
+and service delivery systems in health and education. 
+ 
+Project Development Objective Indicators by Objectives/ Outcomes 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+Recurrent cost finance to reform resource management systems  
+Share of civil servants' 
+salaries financed by 
+government (Percentage)  
+80.00 
+82.50 
+85.00 
+86.00 
+87.50 
+90.00 
+100.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target is increased from 90 to 100 
+Eligible civil servants 
+salaries paid on time 
+(Percentage)  
+67.00 
+71.50 
+76.00 
+80.50 
+83.00 
+85.00 
+85.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The 2026 target added 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 94 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+Strengthen inter-governmental fiscal relations  
+Number of FMS signing 
+Service Delivery Transfer 
+Agreements with FGS 
+(Number)  
+0.00 
+2.00 
+3.00 
+5.00 
+5.00 
+5.00 
+5.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The 2026 target added, methodology changed for 2025 and 2026 to reflect changes in PBC 7 and 8, which do not require the signing of service delivery 
+agreements in 2025 and 2026 
+Transfers for core Govt functions and foundational education and health service delivery mechanisms  
+Female Health Workers 
+selected according to 
+guidelines, trained, and 
+actively providing services 
+(Number)  
+354.00 
+900.00 
+1,000.00 
+2,000.00 
+3,000.00 
+3,000.00 
+3,000.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target for 2026 remains 3,000 
+Number of schools that are 
+supervised using digital 
+tools, including self-
+assessment (Number)  
+1,554.00 
+1,500.00 
+1,500.00 
+1,700.00 
+2,000.00 
+2,000.00 
+2,000.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The description and the methodology of the indicator changes to removed the "annual" requirement reflecting the approach that every school is supervised only 
+once in three years 
+Number of schools that 
+are self-assessed 
+(cumulative) (Number)  
+0.00 
+0.00 
+10.00 
+30.00 
+80.00 
+200.00 
+320.00 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 94 
+ 
+ 
+PDO Table SPACE 
+ 
+Intermediate Results Indicators by Components 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+Recurrent cost finance to reform resource management systems  
+Strengthen payment 
+process for operational 
+expenditures and payroll 
+(Text)  
+PBC 
+2, 2 
+Payment process 
+involves parallel 
+manual and electronic 
+steps, multiple 
+approval steps are 
+required, new PFM law 
+not yet reflected in 
+business processes. 
+-- 
+MoF has: (i) 
+completed a business 
+process review for 
+FGS’ payment; and 
+(ii) prepared/issued a 
+business process 
+review report. 
+Comprehensive 
+procedures aligned 
+with the business 
+process review, 
+approved for 
+following areas: (i) 
+Planning and 
+Budgeting; (ii) 
+Internal controls; (iii) 
+Accounting 
+Procedures.  
+MoF internal audit 
+department has 
+conducted a special 
+audit on the payroll 
+processes and 
+provided clear 
+recommendations to 
+strengthen the 
+payroll weaknesses. 
+At least 65 percent of 
+identified audit 
+recommendations on 
+payroll management 
+are addressed with 
+evidence provided 
+The MoF has 
+developed and action 
+plan on the 
+implementation of 
+updated 
+comprehensive 
+procedures. 
+The MoF has 
+implemented the 
+approved 
+comprehensive 
+procedures and issued 
+an implementation 
+status report. At least 
+65 percent of 
+identified audit 
+recommendations on 
+payroll management 
+are addressed with 
+evidence provided 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target is revised to reflect changes and new results under PBC 2 
+Strengthen domestic 
+revenue administration 
+(Text)  
+Poor systems capacity: 
+organizational, 
+technology, HR and 
+-- 
+MoF has developed 
+and operationalized 
+the new SOMCAS 
+FGS has procured the 
+services of a ‘third 
+party’ to develop and 
+Harmonized tax 
+identification number 
+(TIN) structure 
+FGS and selected 
+FMS implemented 
+the harmonized 
+SOMCAS and ITAS 
+implemented in FGS 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 33 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+workflows to support 
+effective and efficient 
+customs management. 
+system in Mogadishu 
+Airport and Seaport. 
+SOMCAS manuals of 
+procedures adopted. 
+A simplified 
+functional review of 
+FGS customs to 
+better allocate 
+human resources in 
+customs is 
+completed. 
+implement ITAS 
+implemented 
+between FGS and 
+FMS 
+Income Tax 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target is revised to reflect changes and new results under PBC 1 
+Strengthen inter-governmental fiscal relations  
+Consolidated fiscal reports 
+published online by FGS 
+Ministry of Finance 
+(Number)  
+0.00 
+1.00 
+2.00 
+4.00 
+12.00 
+12.00 
+12.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+2026 target added 
+Strengthen inter-
+governmental fiscal policy 
+framework (Text)  
+PBC 
+3, 3 
+While Inter-
+Governmental Fiscal 
+Transfer Policy Paper 
+has been agreed, it still 
+requires 
+operationalization. 
+Current approach to 
+distribution of funds 
+between FGS and 
+-- 
+A formula on FGS 
+fiscal transfers to 
+FMS/BRA is inter-
+governmentally 
+agreed 
+FGS’ FY 2023 budget 
+provides for 
+appropriations for 
+FGS’ fiscal transfers 
+to FMS/BRA as per an 
+inter-governmentally 
+agreed formula. 
+FGS’ FY 2024 budget 
+provides for 
+appropriations for 
+FGS’ fiscal transfers 
+to FMS/BRA as per an 
+inter-governmentally 
+agreed formula. 
+FGS’ budget provides 
+for appropriations for 
+FGS’ fiscal transfers 
+to FMS/BRA as per an 
+inter-governmentally 
+agreed formula. 
+FGS’ budget provides 
+for appropriations for 
+FGS’ fiscal transfers to 
+FMS/BRA as per an 
+inter-governmentally 
+agreed formula. 
+FMFF adopts a 
+framework for the 
+operationalization of 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 34 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+FMS/Benadir Regional 
+Administration (BRA) is 
+inequitable. 
+the NCC agreement on 
+revenue assignment 
+and expenditure 
+responsibilities 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target is revised to reflect changes and new results under PBC 3 
+Strengthen FGS transfers to 
+FMS (Text)  
+PBC 
+4, 4 
+Selected FMS have 
+minimal sources of 
+revenue, and 
+therefore difficulty in 
+sustaining their 
+operations, while FGS 
+collects tax and 
+customs, partly from 
+goods and services 
+that are destined for 
+delivery in FMS. FGS 
+transfers to FMS have 
+been made on an ad 
+hoc basis. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for 
+FGS’s domestic 
+revenues. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for 
+FGS’s domestic 
+revenues. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for 
+FGS’s domestic 
+revenues. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for 
+FGS’s domestic 
+revenues. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for 
+FGS’s domestic 
+revenues. 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to 
+FMS/BRA is equal to, 
+or greater than, the 
+out turn rate for FGS’s 
+domestic revenues. 
+Action: This indicator has 
+been Revised  
+Rationale:  
+2026 target added 
+Transfers for core govt functions and foundational education and health service delivery mechanism  
+Number of women and 
+children visited by Female 
+Health Workers (Text)  
+PBC 7 0.00 
+2,000 pregnant 
+women, 10,000 
+children 
+5,000 pregnant 
+women, 25,000 
+children 
+7,000 pregnant 
+women, 30,000 
+children 
+10,000 pregnant 
+women; 35,000 
+children 
+13,000 pregnant 
+women; 40,000 
+children 
+15,000 pregnant 
+women; 45,000 
+children 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The indicator is revised to align with the new World Bank corporate scorecard 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 35 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+Community health service 
+delivery plan funds 
+executed in a timely 
+manner, in line with Service 
+Delivery Agreement 
+(Percentage)  
+0.00 
+22.50 
+45.00 
+67.50 
+80.00 
+85.00 
+90.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+2026 target is increased to 90% 
+The share of FHWs 
+complying with the monthly 
+requirements of reporting 
+with the prescribed digital 
+tools (Percentage)  
+0.00 
+0.00 
+20.00 
+40.00 
+60.00 
+70.00 
+75.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The 2026 target added 
+Strengthen education 
+service delivery (Text)  
+PBC 
+8, 8 
+Limited tools to enable 
+government to 
+improved educational 
+quality at school level. 
+Limited funds available 
+to support service 
+delivery at school 
+level. 
+-- 
+Each FMS has: (i) 
+signed functional 
+assignment 
+agreements with FGS, 
+and (ii) approved 
+aggregate FY 2022 
+budgetary 
+appropriations for 
+MoEs equal to the 
+aggregated Allocated 
+Amounts for PBC #8.1 
+Each FMS has: (i) 
+signed functional 
+assignment 
+agreements with FGS, 
+and (ii) approved 
+aggregate FY 2023 
+budgetary 
+appropriations for 
+MoEs equal to the 
+aggregated Allocated 
+Amounts for PBCs 
+#8.2 and # 8.3.  
+Each FMS included 
+Each FMS has: (i) 
+signed functional 
+assignment 
+agreements with FGS, 
+and (iii) approved 
+aggregate FY 2024 
+budgetary 
+appropriations for 
+MoEs equal to the 
+aggregated Allocated 
+Amounts for PBCs 
+#8.4; 8.5. 
+Each FMS has 
+Each FMS (i) adopts 
+the national school 
+financing policy and 
+operational 
+guidelines and 
+submits an action 
+plan on its 
+implementation; (ii) 
+submits a costed plan 
+for education service 
+delivery, and (iii) 
+approves aggregate 
+FY 2025 budgetary 
+Each FMS (i) adopts 
+the national student 
+learning assessment 
+strategy and 
+framework and 
+submits the action plan 
+on its implementation; 
+(ii) submits a report on 
+the implementation of 
+the national school 
+financing policy at the 
+FMS level; and (iii) 
+approves aggregate FY 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 36 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+information in their 
+financial reports on 
+the use of federal 
+(service) transfers 
+covering FY 2022 and 
+the 1st half of FY 
+2023 in line with 
+provisions of Service 
+Delivery Transfer 
+Agreements. 
+included information 
+in their financial 
+reports on the use of 
+federal (service) 
+transfers covering FY 
+2023 and the 1st half 
+of FY 2024 in line 
+with provisions of 
+Service Delivery 
+Transfer Agreements. 
+appropriations for 
+MoEs equal to the 
+aggregated Allocated 
+Amounts for PBCs 
+8.8. 
+2026 budgetary 
+appropriations for 
+MoEs equal to the 
+aggregated Allocated 
+Amounts for PBCs 
+8.10. 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target is revised to reflect changes and new results under PBC 8 
+Share of teachers reporting 
+timely payment of salaries 
+through citizen engagement 
+mechanisms, disaggregated 
+by gender (Percentage)  
+0.00 
+0.00 
+30.00 
+50.00 
+60.00 
+65.00 
+70.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The 2026 target added 
+Share of female teachers 
+reporting timely 
+payment of salaries 
+through citizen 
+engagement 
+mechanisms 
+(Percentage)  
+0.00 
+0.00 
+30.00 
+50.00 
+60.00 
+65.00 
+70.00 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 37 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+Action: This indicator 
+has been Revised  
+Rationale:  
+The 2026 target added 
+Citizen Engagement and Feedback  
+Improved budget 
+transparency through public 
+participation in budget 
+process (Text)  
+2019 rating on budget 
+transparency under 
+OBS (8 in 2018) and 
+public participation (2 
+in 2018) 
+Disclosure of 6 of the 
+8 main budget 
+documents 
+5 rating points on 
+budget transparency 
+and 4 additional 
+points on public 
+participation 
+Disclosure of 8 main 
+budget documents 
+10 additional points 
+on budget 
+transparency and 6 
+additional points on 
+public participation 
+MoF holds their own 
+public hearings for 
+draft appropriations 
+act; Disclosure of 8 
+main budget 
+documents 
+Improved rating under 
+OBS on budget 
+transparency and 
+public participation to 
+18 and 6 points 
+respectively 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The 2026 target added 
+Number of total 
+beneficiaries connected 
+through citizen engagement 
+ICT systems, disaggregated 
+by target beneficiary group 
+(Text)  
+0.00 
+1,000.00 
+3,000.00 
+5,000.00 
+9,000.00 
+15,000.00 
+20,000.00 
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target increased from 9,000 to 20,000 
+Percentage of people who 
+shared feedback through 
+citizen engagement ICT 
+systems and were 
+responded to with 
+corrective actions taken by 
+government, disaggregated 
+by target beneficiary group 
+0.00 
+0.00 
+0.80 
+80% for GM; 15% for 
+service delivery 
+feedback 
+90% for GM; 30% for 
+service delivery 
+feedback 
+95% for GM; 40% for 
+service delivery 
+feedback 
+95% for GM; 50% for 
+service delivery 
+feedback 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 38 of 94 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicator Name 
+PBC Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+(Text)  
+Action: This indicator has 
+been Revised  
+Rationale:  
+The target values are clarified to differentiate between grievance mechanism and service delivery related feedback 
+ 
+IO Table SPACE 
+  
+Monitoring & Evaluation Plan: PDO Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Share of civil servants' salaries financed by 
+government 
+Total non-security sector 
+formalized civil service 
+wage financed by the FGS 
+budget bill minus RCRF 
+“baseline” financing of civil 
+service divided by the total 
+non-security sector 
+formalized civil service 
+wage bill 
+Annual 
+ 
+FGS MoF 
+ 
+FGS Budget documents 
+ 
+FGS MoF 
+ 
+Eligible civil servants salaries paid on time 
+Percentage of civil 
+servants’ salaries paid 
+within 3 days of the end of 
+the nominal payroll month. 
+Month 
+ 
+Progress 
+Report and 
+MA Advisory 
+Reports 
+ 
+Progress Report and MA 
+Advisory Reports 
+ 
+EGS MoF 
+ 
+Number of FMS signing Service Delivery 
+Transfer Agreements with FGS 
+Number of FMS signing 
+Service Delivery Transfer 
+Agreements with FGS in 
+health or education sector. 
+Annual 
+ 
+Signed Service 
+Delivery 
+Transfer 
+Agreement 
+Document collation  
+ 
+FGS/FMS MoF 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 39 of 94 
+ 
+For 2025 and 2026, since 
+the PBC 7 and 8 does not 
+require the signing of the 
+service deliver agreements, 
+number of FMS complying 
+with either PBC 7 or 8 
+requirements. 
+ 
+Female Health Workers selected 
+according to guidelines, trained, and 
+actively providing services 
+Cumulative number of 
+Female Health Workers 
+across all FMS selected 
+according to guidelines, 
+trained, and actively 
+providing services. The 
+cumulative targeted 
+number of 3,000 includes 
+FHWs to be supported by 
+Damal Caafimaad. 
+Annual 
+ 
+FMS SFMIS 
+reports 
+ 
+FMS SFMIS reports 
+ 
+FGS MoF 
+ 
+Number of schools that are supervised 
+using digital tools, including self-
+assessment 
+Number of schools that are 
+supervised using digital 
+tools, including self-
+assessment. There were 
+2,020 primary and 839 
+secondary schools across 
+Somalia (excluding 
+Somaliland) according to 
+2020 EMIS data. The plan is 
+to supervise not more than 
+50 percent of schools 
+annually and gradually 
+increase the share of self-
+assessed schools. 
+Annual 
+ 
+School 
+Supervision 
+Database, FGS 
+MoECHE, FMS 
+MoEs 
+ 
+School Supervision 
+Database 
+ 
+FGS MoECHE 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 40 of 94 
+ 
+Number of schools that are self-
+assessed (cumulative) 
+Self-assessment means 
+submission of 
+questionnaire forms by 
+school head-teachers or 
+CECs using digital tools, 
+such as mobile or web-
+based applications. 
+Annual 
+ 
+FGS MoECHE 
+School 
+Supervision 
+Database 
+ 
+School Supervision 
+Database reports 
+ 
+MoECHE 
+ 
+ 
+ME PDO Table SPACE 
+ 
+Monitoring & Evaluation Plan: Intermediate Results Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Strengthen payment process for 
+operational expenditures and payroll 
+See verification protocol 
+for PBC 2 
+Annual 
+(June 2022 
+and June 
+2023) 
+ 
+Business 
+Process and 
+Institutional 
+Review 
+ 
+Business Process and 
+Institutional Review 
+Reports 
+ 
+FGS MoF 
+ 
+Strengthen domestic revenue 
+administration 
+See the verification 
+protocol for PBC 1 
+Annual 
+ 
+FGS 
+(Mogadishu), 
+PSS (Bosaso) 
+and JSS 
+(Kismayo) 
+MoF Revenue 
+Departments 
+ 
+See the verification 
+protocol for PBC 1 
+ 
+Independent Verification 
+Agent (OAuG) 
+ 
+Consolidated fiscal reports published 
+online by FGS Ministry of Finance 
+Number of 
+monthly/quarterly 
+consolidated fiscal reports 
+published online. End 
+target represents 12 
+monthly reports published 
+Monthly/Q
+uarterly 
+ 
+FGS Ministry 
+of Finance 
+Website 
+ 
+FGS MoF Website 
+ 
+FGS MoF 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 41 of 94 
+ 
+in the last 12 months. 
+Strengthen inter-governmental fiscal 
+policy framework 
+See the verification 
+protocol for PBC 3 
+Annual  
+ 
+FGS Budget 
+Documents 
+ 
+FGS Budget Documents 
+ 
+FGS MoF 
+ 
+Strengthen FGS transfers to FMS 
+FGS’s fiscal transfers 
+execution rate for the 
+previous FY to FMS/BRA 
+and the out turn rate for 
+FGS’s domestic revenues 
+for the previous year. 
+Annual  
+ 
+FGS Budget 
+and SFMIS 
+reports 
+ 
+FGS Budget and SFMIS 
+reports 
+ 
+OAG 
+ 
+Number of women and children visited by 
+Female Health Workers 
+Number of unique 
+pregnant women and 
+children visited by FHW 
+Annual 
+ 
+FGS and FMS 
+FHW 
+dashboard 
+ 
+FHW digital reports 
+ 
+FGS MoH 
+ 
+Community health service delivery plan 
+funds executed in a timely manner, in line 
+with Service Delivery Agreement 
+Percentage of funds 
+executed in timely manner 
+Annual 
+ 
+FMS SFMIS 
+reports 
+ 
+FMS SFMIS reports 
+ 
+FMS MoH, FMS MoF 
+ 
+The share of FHWs complying with the 
+monthly requirements of reporting with 
+the prescribed digital tools 
+The share of FHWs out of 
+the total number of fully 
+trained FHWs at the time 
+of reporting that submit 
+daily activity tracker forms 
+on a regular basis (at least 
+18 days a month) using the 
+prescribed digital tools 
+(ODK or any other digital 
+data collection app) 
+Quarterly 
+ 
+FGS and FMS 
+MoH 
+ 
+ODK reports 
+ 
+FGS MoH 
+ 
+Strengthen education service delivery 
+See the verification 
+protocol for PBC 8 
+Semi-
+Annual 
+starting 
+November 
+FMS Ministry 
+of Education, 
+FMS Ministry 
+of Finance 
+VA to obtain 
+documentation and 
+undertake assessment 
+ 
+OAuG and FMS OAuG 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 42 of 94 
+ 
+2022 
+ 
+ 
+Share of teachers reporting timely 
+payment of salaries through citizen 
+engagement mechanisms, disaggregated 
+by gender 
+Teachers reporting to the 
+Mogadishu-based call 
+center on the date of their 
+monthly salary payments 
+Annual 
+ 
+Call center 
+reports, 
+FGS/FMS FMIS 
+system 
+reports 
+ 
+Call center reports, 
+FGS/FMS FMIS system 
+reports 
+ 
+FMS MoE, FMS MoF, 
+participating schools. 
+ 
+Share of female teachers reporting 
+timely payment of salaries through 
+citizen engagement mechanisms 
+Share of female teachers 
+out of the total number of 
+female teachers that report 
+timely payment of salaries 
+through citizen 
+engagement mechanisms 
+such as voice calls or sms 
+from/to the Call Center 
+Annual 
+ 
+Call Center 
+reports 
+ 
+Share of female teachers 
+out of the total number 
+of female teachers that 
+report timely payment 
+of salaries through 
+citizen engagement 
+mechanisms such as 
+voice calls or sms 
+from/to the Call Center 
+ 
+FGS MOF 
+ 
+Improved budget transparency through 
+public participation in budget process 
+Based on the methodology 
+established by Open 
+Budget Index (OBI) 
+Annual 
+ 
+Open Budget 
+Index 
+ 
+Based on the 
+methodology 
+established by OBI 
+ 
+Open Budget 
+Partnership 
+ 
+Number of total beneficiaries connected 
+through citizen engagement ICT systems, 
+disaggregated by target beneficiary group 
+Number of distinct 
+individuals who have 
+received and then 
+responded to a message 
+from the platform. 
+Beneficiaries may include, 
+among others, FHWs, 
+teachers, pregnant 
+mothers, civil servants, 
+CECs, health committees, 
+Annual 
+ 
+Call Center  
+ 
+Call Center reports 
+ 
+RCRF PIU 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 43 of 94 
+ 
+parents, FHW beneficiaries, 
+and other project direct 
+and indirect beneficiaries. 
+ICT-based engagement 
+platform includes a call 
+center or any other ICT 
+based platform reaching 
+out to beneficiaries 
+through SMS, voice calls, 
+WhatsApp messaging, 
+robocalls, social media, etc. 
+Percentage of people who shared 
+feedback through citizen engagement ICT 
+systems and were responded to with 
+corrective actions taken by 
+government, disaggregated by target 
+beneficiary group 
+The feedback mechanisms 
+for the project are divided 
+into two categories: 
+grievance mechanisms 
+(GM) and service delivery 
+(SD) feedback. SD related 
+feedback is based on 
+messages related to 
+implementation support, 
+health, and governance 
+outcomes that are sent to 
+civil servants and 
+beneficiaries to gauge their 
+level of satisfaction, their 
+use of government services 
+and to understand if they 
+are adhering to 
+recommended behavior 
+change and other 
+outcomes. Beneficiaries 
+may include, among 
+Annual 
+ 
+Call Center 
+ 
+Call Center reports 
+ 
+RCRF PIU 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 44 of 94 
+ 
+others, FHWs, teachers, 
+pregnant mothers, civil 
+servants, CECs, health 
+committees, parents, FHW 
+beneficiaries, and other 
+project direct and indirect 
+beneficiaries. ICT-based 
+engagement platform 
+includes a call center or 
+any other ICT based 
+platform reaching out to 
+beneficiaries through SMS, 
+voice calls, WhatsApp 
+messaging, robocalls, social 
+media, etc. 
+ 
+ME IO Table SPACE 
+ 
+Performance-Based Conditions Matrix 
+ 
+DLI IN01394165 ACTION 
+ 
+PBC 1 
+Strengthen domestic revenue administration 
+Type of PBC 
+Scalability 
+Unit of Measure 
+Total Allocated Amount (USD) 
+As % of Total Financing Amount 
+Output 
+Yes 
+Text 
+3.00 0.00 
+Baseline 
+Poor systems capacity: organizational, 
+technology, human resources and workflows 
+to support effective and efficient customs and 
+inland revenue management. 
+ 
+ 
+2021 
+ 
+0.00 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for Somalia Recurrent Cost and Reform Financing Project Phase III (P181407) 
+ 
+ 
+ 
+ 
+ 
+Page 45 of 94 
+ 
+2022 
+1.1. MoF has developed and put into operation 
+the SOMCAS system in Mogadishu Airport and 
+Seaport. 
+1.00 
+Each location - 50% 
+2023 
+1.2. MoF has (i) completed a simplified 
+functional review of FGS customs to better 
+allocate HR in customs' (ii) adopted SOMCAS 
+procedures manuals. 
+0.50 
+Achievement of (i) and (b) each 
+qualifies to 50% of the allocated 
+amount 
+2024 
+1.3. FGS and PSS have procured the services of 
+a ‘third party’ to develop and implement ITAS 
+0.50 
+Each location - 50% 
+2025 
+ 
+0.00 
+ 
+2026 
+1.4. Harmonized TIN structure implemented 
+between FGS, PSS, JSS 
+0.50 
+FGS and each FMS - 33.3% 
+ 
+1.5. FGS implemented inland revenue 
+Integrated tax administration automation 
+system (ITAS) 
+0.50 
+Each tax instrument - 50% 
+Action: This PBC has been Revised. See below. 
+ 
+ 
+DLI IN01394340 ACTION 
+ 
+PBC 1 
+Strengthen domestic revenue administration 
+Type of PBC 
+Scalability 
+Unit of Measure 
+Total Allocated Amount (USD) 
+As % of Total Financing Amount 
+Output 
+Yes 
+Text 
+6.50 0.00 
+Baseline 
+Poor systems capacity: org

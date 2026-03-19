@@ -1,0 +1,3419 @@
+ 
+ 
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+Report No: PAD 1380 
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+ 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+ 
+SOMALIA MULTI-PARTNER FUND GRANT 
+ 
+IN THE AMOUNT OF US$24.0 MILLION EQUIVALENT 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+RECURRENT COST AND REFORM FINANCING PROJECT 
+PHASE II 
+ 
+ 
+ 
+June 23, 2015 
+ 
+ 
+ 
+ 
+ 
+Governance Global Practice 
+Africa Region 
+ 
+This document has a restricted distribution and may be used by recipients only in the 
+performance of their official duties. Its contents may not otherwise be disclosed without World 
+Bank authorization. 
+ 
+ 
+ 
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ii 
+ 
+CURRENCY EQUIVALENTS 
+ 
+(Exchange Rate Effective June, 2015) 
+Currency Unit = Somali Shilling 
+Somali Shilling 844.5 = US$1.00 
+  
+ 
+ 
+FISCAL YEAR 
+January 1 
+– 
+December 31 
+ABBREVIATIONS & ACRONYMS 
+AFDB 
+African Development Bank 
+AFS 
+Annual Financial Statements 
+AGE 
+Anti-Government Elements 
+AMISOM 
+African Union Mission to Somalia 
+ANRAP 
+Afghanistan National Rural Access Program 
+ANSP 
+Afghanistan National Solidarity Program 
+ARTF 
+Afghanistan Reconstruction Trust Fund 
+CBS 
+Central Bank of Somalia 
+CCSD 
+Global Center for Conflict, Security and Development 
+CIM 
+Capacity Injection Mechanism  
+CIP 
+Capacity Injection Project 
+CIT 
+Component Implementation Team 
+CPFMRP 
+Cambodia Public Financial Management Reform Project 
+CQS 
+Consultant Qualification Selection 
+CSC 
+Civil Service Commission 
+CTRLA 
+Controllers Department, World Bank 
+DA 
+Designated Account 
+DCTT 
+Directorate of Customs, Taxation & Treasury 
+DEO 
+District Education Officer 
+DRC 
+Directorate of Revenue Collection 
+EAFS 
+External Assistance Fiduciary Section (in Office of Accountant 
+General) 
+ERP 
+Economic Recovery Plan 
+EMIS 
+Education Management Information System 
+EPBS 
+Ethiopia Protection of Basic Services Project 
+ESSP 
+Education Sector Strategic Plan 
+FBS 
+Fixed Budget Selection 
+FCS 
+Fragile and Conflict Affected Situation 
+FGC 
+Financial Governance Committee 
+FGS 
+Federal Government of Somalia 
+FMU 
+Financial Management Unit (under the Norway SFF) 
+FRS 
+Federal Republic of Somalia 
+GER 
+Gross Enrollment Ratio 
+GPE 
+Global Program for Education 
+GPI 
+Gender Parity Index 
+HIPC 
+Heavily Indebted Poor Country Initiative 
+HRM 
+Human Resource Management 
+ 
+iii 
+ 
+IC 
+Individual Consultant 
+IE 
+Impact Evaluation 
+IDP 
+Internally Displaced Person 
+IFR 
+Interim unaudited Financial Report 
+IJA 
+Interim Jubba Administration 
+IPSAS 
+International Public Sector Accounting Standards 
+ISA 
+International Standards on Auditing 
+ISN 
+Interim Strategy Note 
+JHNP 
+Joint Health and Nutrition Program 
+LCS 
+Least Cost Selection 
+MDA 
+Ministries, Departments and Agencies 
+MDGs 
+Millennium Development Goals 
+M&E 
+Monitoring and Evaluation 
+MoF 
+Ministry of Finance  
+MPF 
+Multi Partner Fund 
+NCSC 
+National Civil Service Commission 
+NDEFS 
+New Deal for Engagement in Fragile States 
+OAG 
+Office of the Accountant General 
+OAuG 
+Office of the Auditor General 
+OB 
+ODA 
+Oversight Board 
+Overseas Development Assistance 
+OT 
+Operating Team 
+PDO 
+Project Development Objective 
+PEFA 
+Public Expenditure Financial Assessment 
+PFM 
+Public Financial Management 
+PFMCSP 
+Public Financial Management Capacity Strengthening Project 
+PFMRCU 
+Public Financial Management Reform Coordinating Unit 
+PL 
+Puntland Member State of Somalia Federal Republic 
+PSG 
+Peace and State-Building Goals 
+PTR 
+Pupil Teacher Ratio  
+PWC 
+Price Waterhouse Coopers 
+QBS 
+Quality Based Selection 
+QCBS 
+Quantity and Cost Based Selection 
+RCRFP 
+Recurrent Cost and Reform Financing Program 
+REO 
+Regional Education Officer 
+RETF 
+Recipient-Executed Trust Fund 
+RDP 
+Reconstruction and Development Program for Somalia 
+SCoA 
+Standard Chart of Accounts 
+SDRF 
+Somalia Development and Reconstruction Facility 
+SFF 
+Special Financing Facility (Norway) 
+SFMIS 
+Somalia Financial Management Information System 
+SLPAPP 
+Sierra Leone Pay and Performance Project 
+SME 
+SMP 
+Subject Matter Expert 
+Staff-Monitored Program 
+SOP 
+Series of Projects 
+SORT 
+Systematic Operations Risk-rating Tool 
+SPF 
+State and Peace-Building Fund 
+SPSDRP 
+Somalia Private Sector Development Reengagement Project 
+SSF 
+Somalia Stability Fund 
+ 
+iv 
+ 
+SSL 
+Secure Sockets Layer 
+SSS 
+Single Source Selection 
+StAR 
+Stolen Asset Recovery Initiative 
+TAS 
+TFG 
+Treasury Accounting System 
+Transitional Federal Government 
+TICPI 
+Transparency International Corruption Perception Index 
+TSA 
+Treasury Single Account 
+TSC 
+Technical Steering Committee 
+UCS 
+Use of Country Systems 
+UNDP 
+United Nations Development Program 
+UNFPA 
+United Nations Family Planning Association 
+UNHCR 
+UMMPTF 
+United Nations High Commissioner for Refugees 
+United Nations Multi-Partner Trust Fund 
+WBG 
+World Bank Group 
+WDR  
+ 
+World Development Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Regional Vice President: 
+ 
+Makhtar Diop 
+                      Country Director: 
+ 
+Bella Bird 
+Senior Global Practice Director: 
+ 
+Mario Marcel Cullell 
+                      Practice Manager: 
+ 
+Renaud Seligmann 
+                    Task Team Leader: 
+ 
+Adenike Sherifat Oyeyiola 
+Co-Task Team Leader  
+ 
+John Randa 
+ 
+v 
+ 
+ 
+PAD DATA SHEET 
+ 
+Somalia 
+Recurrent Cost & Reform Financing Project: Phase II (154875) 
+PROJECT APPRAISAL DOCUMENT 
+. 
+AFRICA 
+ 
+Report No.: PAD 1380 
+. 
+Basic Information  
+Project ID 
+EA Category 
+Team Leader 
+P154875 
+C - Not Required 
+Adenike Sherifat Oyeyiola 
+Lending Instrument 
+Fragile and/or Capacity Constraints [ X ] 
+Investment Project Financing 
+- Fragile States 
+- Post-Conflict 
+ 
+Financial Intermediaries [   ] 
+ 
+Series of Projects [ X ] 
+Project Implementation Start Date 
+Project Implementation End Date 
+25-June-2015 
+30-June-2020 
+Expected Effectiveness Date 
+Expected Closing Date 
+29-June-2015 
+30-June-2020 
+Joint IFC 
+ 
+ 
+No 
+ 
+ 
+Practice Manager 
+Senior Global 
+Practice Director 
+Country Director 
+Regional Vice 
+President 
+Renaud Seligmann 
+Mario Marcel Cullell Bella Bird 
+Makhtar Diop 
+. 
+Approval Authority 
+Approval Authority 
+RVP Decision 
+. 
+Borrower: Ministry of Finance 
+Responsible Agency : Ministry of Finance 
+  Contact: 
+H.E. Mohamed Aden 
+Ibrahim 
+  Title: Minister of Finance 
+ 
+vi 
+ 
+  Telephone No: 
+252612777738 
+  Email: farkeeti@hotmail.com 
+. 
+Project Financing Data(in US$ Million) 
+[   ] 
+Loan 
+[    ] 
+IDA 
+Grant 
+[   ] 
+Guarantee 
+[   ] 
+Credit [ X ] 
+Grant [   ] 
+Other 
+Total Project Cost: 
+144.0 
+Total Bank Financing: 
+144.00 
+Financing Gap: 
+0.0 
+ 
+. 
+Financing Source 
+Amount 
+Borrower 
+0.0 
+Somalia Multi-Partner Fund (MPF) 
+Other financing 
+144.0 
+0.0 
+Total 
+144.0 
+. 
+Expected Disbursements (in $ Million) 
+Fiscal Year 2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+ 
+ 
+ 
+ 
+Annual 
+24 
+30 
+30 
+30 
+25 
+5 
+ 
+ 
+ 
+ 
+Cumulative 24 
+54 
+84 
+114 
+139 
+144 
+ 
+ 
+ 
+ 
+. 
+Development Objective(s) 
+The Development Objective for the Series of Projects (SOP) is to enable the Somali Government to 
+achieve reliable and transparent financing of critical civil service operations to help strengthen the 
+legitimacy of the state.  
+ 
+The Development Objective of this second project is to support the government to provide 
+credible and sustainable payroll and to establish the foundation for efficient budget execution 
+and payment systems for the non-security sectors in Federal Government of Somalia (FGS) 
+and eligible federal member states, interim and emerging administrations. 
+ 
+This aligns with the MPF objective “to foster socio-economic recovery and stabilization by 
+supporting the payment of civil service salaries, and the running costs of government institutions; 
+financing technical assistance and supporting the building blocks of larger public investment 
+programs across a range of sectors.” 
+. 
+ 
+ 
+ 
+vii 
+ 
+Components 
+Component Name 
+Cost ($ Millions) 
+Support to core government functions of ministries, 
+department & agencies (MDAs) of Federal Government 
+of Somalia 
+81.0 
+Inter-governmental fiscal transfers for core functions in 
+eligible federal member states, interim and emerging 
+administrations 
+34.0 
+Support to recurrent costs in education and health 
+sectors in FGS and eligible federal member states, 
+interim and emerging administrations 
+20.0 
+Project management and coordination 
+9.0 
+Total 
+144.0 
+. 
+Institutional Data 
+Practice Area / Cross Cutting Solution Area 
+Governance 
+Cross Cutting Areas 
+[   ] 
+Climate Change 
+[ X ] 
+Fragile, Conflict & Violence 
+[   ] 
+Gender 
+[   ] 
+Jobs 
+[   ] 
+Public Private Partnership 
+Sectors / Climate Change 
+Major Sector 
+Sector 
+ percentage 
+Adaptation Co-
+benefits  
+percentage 
+Mitigation Co-
+benefits  
+percentage 
+Public Administration, Law, and 
+Justice 
+Central government 
+administration 
+25 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+Sub-national 
+government 
+administration 
+15 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+Public administration- 
+Education 
+10 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+Public administration- 
+Health 
+10 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+General public 
+administration sector 
+40 
+ 
+ 
+Total 
+100 
+ 
+viii 
+ 
+ 
+ 
+ I certify that there is no Adaptation and Mitigation Climate Change Co-benefits information applicable 
+to this project. 
+. 
+Themes 
+Major theme 
+Theme 
+ Percentage 
+Public sector governance 
+Administrative and civil service reform 
+60 
+Public sector governance 
+Other public sector governance 
+20 
+Public sector governance 
+Public Financial Management 
+10 
+Social Development, Gender 
+and Inclusion 
+ 
+10 
+Total 
+100 
+. 
+Systematic Operations Risk- Rating Tool (SORT) 
+Risk Category 
+Rating 
+1. Political and governance 
+Substantial 
+2. Macroeconomic 
+High 
+3. Sector strategies and policies 
+Substantial 
+4. Technical design of project or program 
+Substantial 
+5. Institutional capacity for implementation and sustainability 
+Substantial 
+6. Fiduciary 
+High 
+7. Environment and social 
+Low 
+8. Stakeholders 
+Substantial 
+9. Other 
+High 
+OVERALL 
+High 
+Compliance  
+Policy 
+Does the project depart from the CAS in content or in other significant 
+respects? 
+Yes [   ] 
+No [ X ] 
+. 
+Does the project require any waivers of Bank policies? 
+Yes [   ] 
+No [ X ] 
+Have these been approved by Bank management? 
+Yes [  ] 
+No [   ] 
+Is approval for any policy waiver sought from the Board? 
+Yes [   ] 
+No [ X ] 
+Does the project meet the Regional criteria for readiness for implementation? 
+Yes [ X ] 
+No [   ] 
+. 
+ 
+ix 
+ 
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+ 
+X 
+Natural Habitats OP/BP 4.04 
+ 
+X 
+Forests OP/BP 4.36 
+ 
+X 
+Pest Management OP 4.09 
+ 
+X 
+Physical Cultural Resources OP/BP 4.11 
+ 
+X 
+Indigenous Peoples OP/BP 4.10 
+ 
+X 
+Involuntary Resettlement OP/BP 4.12 
+ 
+X 
+Safety of Dams OP/BP 4.37 
+ 
+X 
+Projects on International Waterways OP/BP 7.50 
+ 
+X 
+Projects in Disputed Areas OP/BP 7.60 
+ 
+X 
+. 
+Conditions 
+Source of Fund 
+Name 
+Type 
+AFS2 
+Somalia Multi Partner Fund (MPF) 
+Disbursement 
+Description of Condition 
+In accordance with Section 3.02 of the Standard Conditions, the World Bank’s payment obligations in 
+connection to the MPF Agreement are limited to the amount of funds made available to it by the donors 
+under the above mentioned trust fund, and the Recipient’s right to withdraw the Grant proceeds is subject 
+to the availability of such funds. 
+ 
+Effectiveness Conditions 
+Source of Fund 
+Name 
+Type 
+AFS2 
+Project Steering Committee and Project 
+Management Team 
+Effectiveness 
+Description of Covenant:  
+The Recipient has established the Project Steering Committee and the Project Management Team in 
+accordance with the provisions of Section I.A of Schedule 2 to the Grant Agreement. 
+Source of Fund 
+Name 
+Type 
+AFS2 
+Project Operation Manual 
+Effectiveness 
+ 
+Description of Covenant:  
+The Recipient has prepared and adopted a Project Operations Manual in accordance with the provisions of 
+Section I.B.1 of Schedule 2 to the Grant Agreement. 
+ 
+Team Composition 
+Bank Staff 
+ 
+x 
+ 
+Name 
+Title 
+Specialization 
+Unit 
+Adenike Sherifat 
+Oyeyiola 
+Senior Financial 
+Management 
+Specialist 
+Team Leader 
+GGODR 
+John Randa 
+Senior Economist 
+Co- Team Leader 
+GMFDR 
+Huihui Wang 
+Senior Economist 
+Health Sector  
+GHNDR 
+Nalin Jena  
+Senior Education 
+Specialist 
+Education Sector 
+GEDDR 
+Thilasoni Benjamin 
+Musuku 
+Senior Financial 
+Sector Specialist 
+Financial Sector 
+GFMDR 
+Geoff Handley 
+E T Consultant 
+Macro & Fiscal 
+GGODR 
+Stephen Mugendi 
+Mukaindo 
+Counsel 
+Legal 
+LEGAM 
+Christiaan Johannes 
+Nieuwoudt 
+Finance Officer 
+Disbursement 
+CTRLA 
+Donald Mphande 
+Lead Financial 
+Management 
+Specialist 
+Financial Management in 
+Conflict & Fragile States 
+GCFDR 
+Diego Garrido Martin 
+Senior Operations 
+Officer 
+Monitoring and Evaluation 
+GCFDR 
+Wolfhart Pohl 
+Adviser 
+Safeguards 
+GCFDR 
+Marie J. Bolou 
+Senior Operations 
+Assistant 
+Program Support 
+GGODR 
+Agnes Yvonne Masaka E T Temporary 
+Team Administration 
+GGODR 
+Winston Cole 
+Senior Financial 
+Management 
+Specialist 
+Public Financial Management GGODR 
+Stephan Massing 
+E T Consultant 
+Civil Service 
+GGODR 
+Yoko Kagawa 
+Senior Operations 
+Officer 
+Monitoring and Evaluation 
+GPSOS 
+Non-Bank Staff 
+Leonard Mutuku 
+Matheka 
+Consultant 
+Financial Management 
+GGODR 
+John Etidau 
+Consultant 
+Procurement 
+GGODR 
+Leonard Mawiooj 
+Consultant 
+Risk management 
+GGODR 
+Richard A. Cambridge Consultant 
+Operations Adviser 
+GGODR 
+Ousman Abdulahi Ali Consultant 
+Macro-Economics 
+GFMDR 
+Salome Aganda 
+E.T Temporary 
+Program Support 
+AFCE4 
+Locations 
+ 
+xi 
+ 
+Country 
+First Administrative 
+Division 
+Location 
+Planned Actual Comments 
+Federal Republic of 
+Somalia 
+Mogadishu 
+Mogadishu 
+ 
+ 
+Security 
+Concerns 
+ 
+Federal Republic of 
+Somalia 
+Puntland 
+Puntland 
+ 
+ 
+Security 
+Concerns 
+Federal Republic of 
+Somalia 
+Interim Jubba 
+Administration 
+Jubbaland 
+ 
+ 
+Security 
+Concerns 
+ 
+ 
+ix
+FEDERAL REPUBLIC OF SOMALIA 
+Recurrent Cost and Reform Financing Project: Phase 1I 
+ 
+Table of Contents 
+ 
+I. 
+STRATEGIC CONTEXT .................................................................................................1 
+A. Country Context ........................................................................................................................ 1 
+B. Economic and Sectoral Context ................................................................................................ 3 
+C. Relationship to the Interim Strategy Note (ISN) ..................................................................... 12 
+D. Situations in Urgent Need of Assistance or Capacity Constraints .......................................... 12 
+II.  
+PROJECT DEVELOPMENT OBJECTIVE AND RESULTS....................................13 
+A. Higher-Level Objectives to Which the Program/Project Contributes ..................................... 13 
+B. The Project Development Objective ....................................................................................... 13 
+C. Project Beneficiaries ................................................................................................................ 13 
+D. Project Development Objective (PDO)-Level Indicators ........................................................ 14 
+E. Results Monitoring and Evaluation ......................................................................................... 14 
+III.  
+PROJECT DESCRIPTION ............................................................................................14 
+A. The RCRF Program ................................................................................................................. 14 
+B. Project Components ................................................................................................................ 16 
+C. Project Financing ..................................................................................................................... 19 
+D. Lessons Learned and Reflected in the Project Design ............................................................ 20 
+E. Linkages with other Projects in Somalia ................................................................................. 21 
+IV.   IMPLEMENTATION .........................................................................................................23 
+A. Institutional and Implementation Arrangements ..................................................................... 23 
+V.  KEY RISKS AND MITIGATION MEASURES ................................................................24 
+A. Risk Rating Summary ............................................................................................................. 24 
+B. Overall Risk Rating Explanation ............................................................................................. 24 
+VI. 
+APPRAISAL SUMMARY ..............................................................................................25 
+A. Economic and Financial Analysis ........................................................................................... 25 
+B. Technical Evaluation ............................................................................................................... 25 
+C. Financial Management ............................................................................................................ 26 
+D. Procurement............................................................................................................................. 26 
+E. Social Impact (including Safeguards) ..................................................................................... 26 
+F. Environmental Impact (including Safeguards) ........................................................................ 26 
+ 
+ 
+x
+ANNEXES 
+Annex 1: Results Framework and Monitoring ................................................................................................. 28 
+Annex 2: Detailed Project Description ............................................................................................................ 30 
+Annex 3: Implementation Arrangements ......................................................................................................... 39 
+Annex 4: Systematic Operations Risk-rating Tool (SORT) ............................................................................ 57 
+Annex 5: Support Strategy and Implementation Action Plan .......................................................................... 64 
+Annex 6: RCRF Phase I: Performance and Achievements .............................................................................. 67 
+Annex 7:  Eligibility Criteria for Financing of Non-Salary Recurrent Costs ................................................... 73 
+Annex 8: Map of Somalia ................................................................................................................................ 74 
+ 
+TABLES 
+ 
+Table 1: FGS Revenue Performance 2012-2015 ............................................................................................... 4 
+Table 2: Total Disaggregated Government Expenditure for the 2012-2014 Period. ......................................... 7 
+Table 3: Revenue and Expenditure Performance in Puntland ........................................................................... 9 
+Table 4: Revenue and Expenditure in IJA for 2014 and 2015 ......................................................................... 10 
+Table 5: Total Projects Costs and Financing ................................................................................................... 20 
+Table 6: Summary SORT Assessment ............................................................................................................. 24 
+ 
+FIGURES 
+Figure 1: FGS Revenue Trends in 2014 ............................................................................................................. 6 
+Figure 2: Somali Governance Results Chain ................................................................................................... 23 
+ 
+ 
+ 
+ 
+ 
+1 
+I. 
+STRATEGIC CONTEXT  
+A. Country Context   
+1. 
+Somalia has been in conflict for over twenty years. Since the collapse of the Siad 
+Barre government in 1991, southern Somalia has experienced cycles of conflict that 
+fragmented the country, destroyed legitimate institutions and created widespread vulnerability.  
+Between 1988 and 1993, civil war destroyed Mogadishu and Hargeisa, resulted in massive 
+civilian deaths and exacerbated the 1991 famine that had thousands of victims.  Peace 
+conferences finally led to the formation in 2000 of the Transitional National Government, and 
+then the Transitional Federal Government in 2004, though a still unconducive environment for 
+constructive and productive development.  In 2012, there was a peaceful and legal transfer of 
+power from the transitional to a full-fledged federal government in Mogadishu, with a four-
+year term under a provisional constitution approved by an appointed parliament.  This 
+generated domestic political momentum and triggered international re-engagement.  Regional 
+countries and international actors have strengthened their efforts to support and sustain this 
+window of opportunity, endorsing a New Deal1 for Somalia at the September, 2013 Brussels 
+Conference and pledging US$2.4 billion against a set of five priority Peace-building and State-
+building Goals (PSG) set out in a Somali Compact (Compact)2 and the Somaliland Special 
+Arrangement. The Compact preparation process sought to be inclusive of Somalia’s different 
+regions and communities and also establish a new aid framework- the Somalia Development 
+and Reconstruction Facility (SDRF), which provides a single governance platform for 
+coordinating international assistance with Compact priorities delivered through windows 
+administered by technical agencies (including the World Bank). 
+2. 
+In contrast to the war-torn south, northern areas have put in place functioning 
+institutions that have succeeded in sustaining stability, although considerable 
+development challenges remain. Somaliland and Puntland have developed hybrid forms of 
+governance, which have guaranteed higher levels of peace, security and institutional 
+development.  While substantial development challenges remain, the starting point for 
+development work is nevertheless different in the north.  
+3. 
+Somalia has experienced a rapid, fluid and complex process of political 
+agreements for emerging federal member states. The Federal Government of Somalia 
+(FGS) is leading political dialogue with regional entities as a basis for incremental state 
+formation within a federal model.  Starting with the August 27, 2013 Addis Ababa agreement 
+on the formation of the Interim Juba Administration (IJA), this process has led the FGS to 
+articulate a framework within which Somalia’s resources, including international assistance, 
+are shared between the levels of government- in line with agreements on administrative and 
+functional assignments.  As a result of the de facto highly devolved revenue and expenditure 
+assignments that have developed in Somalia, the delivery of basic public services currently 
+takes place at a sub-national level. Similarly, the Puntland constitution of 2009 amended and 
+approved by parliament on April 18, 2012 specifies that Puntland is committed to participate in 
+Somalia’s federal system. Pending the completion of the federal constitution ratified by 
+Puntland and approved by a popular referendum, Puntland state shall have the status of an 
+independent state. It was agreed that Puntland's priorities for revenue and public financial 
+management reforms (2014-2016) should be taken into account in the Somali Compact and 
+                                                          
+1 http://www.somalia-newdeal-conference.eu/  
+2 The five PSGs are inclusive politics, security, justice, economic foundations and revenue & services. 
+ 
+ 
+2 
+that Puntland's participation in the New Deal aid architecture was important- particularly in the 
+Somali Development and Reconstruction Facility (SRDF). 
+4. 
+The Interim Jubba Administration (IJA); Interim Southwest Administration and the 
+Banadir Region have been formed. Two more emerging states are being formed.   
+5. 
+With years of conflict and low investments in health, Somalia is ranked 
+comparatively low globally on various health indicators and is off-track to achieve health-
+related Millennium Development Goals (MDGs).  Globally, it ranks second highest for total 
+fertility rate (6.3), fourteenth lowest for life expectancy at birth (51), and second highest for 
+maternal mortality ratio (1,000 per 100,000 live births). Coverage of essential health services is 
+very low in Somalia.   
+6. 
+Somalia continues to face complex and multidimensional challenges in the areas of 
+curriculum, teacher training, school infrastructure, lack of public education, unregulated 
+private education, school finance and untrained educational professionals. A recent 
+Heritage Institute Report3 highlights the fact that the most pressing challenges facing the 
+education system include: addressing the current curriculum chaos by developing a national 
+curriculum; resolving such teacher-related challenges as improvement in pedagogical and 
+teaching skills; designing a teacher pay structure and addressing the broad teacher shortage. 
+7. 
+Despite the increase in the number of schools, enrollment and the pupil-teacher 
+ratio since 2006 in both Somaliland and Puntland is far below the Sub-Saharan Africa 
+average.  In Somaliland, the gross enrollment ratio (GER) at the primary level is 44 percent, 
+with the GER for boys and girls at 50 percent and 38 percent respectively. Although the 
+teachers’ cohort has continued to grow, the pupil teacher ratio (PTR) stands at 31:1, with 
+significant regional disparities. The Gender Parity Index (GPI) increased from 2006, with the 
+GPI as high as 0.8; and gender gaps continue at all levels in education sectors. The status of 
+primary education in Puntland is quite similar to Somaliland. There’s no data available on 
+either completion rates or learners’ achievements.  
+8. 
+While transition rates from grade 8 have increased, the increase in the number of 
+pupils in primary schools, combined with limited investment in expanding the secondary 
+education provision, has resulted in a serious bottleneck. Over 55 percent of children in the 
+6-13 age-group are out of school and about 21 percent of youth (age 14-29) are neither 
+working nor in schools. Though Somalia is a young country, with over 70 percent of the 
+population under the age of 30 and a growing youth population, there are inadequate education 
+and skills-development programs to provide a second chance for out-of-school youth. This 
+poses a huge challenge to the socio-economic development of Somalia. These challenges are 
+further accentuated by gender disparities, especially in lower secondary schools with only 28 
+percent of girls transitioning to such schools. 
+9. 
+In Puntland State, the government has made some significant progress in the 
+education sector in the last few years. A revised Education Sector Strategic Plan (ESSP) for 
+the period 2014-16 covering the whole spectrum from early childhood education to 
+tertiary/higher education has been developed.  The key focus of the Strategic Plan is to 
+improve the outcomes of the education sector by enhancing investment and strengthening 
+governance, policy and the institutional framework of the education system4.  The objectives of 
+                                                          
+3 http://www.heritageinstitute.org/wp-content/uploads/2015/04/Educational-challenges-in-post-transitional-Somalia_ENG.pdf 
+4 The key challenges that the ESSP identifies include: (i) a decentralized system with low capacity, (ii) inequality of access to 
+education; (iii) low capacity for efficient teacher management; (iv) inadequate financing; and (v) low capacity for policy 
+development. In the context of these challenges, financing of salaries of teachers, head teachers, District Education Officers 
+ 
+ 
+3 
+the ESSP are clearly aligned with the overall objectives of the proposed Recurrent Cost and 
+Reform Financing Project: Phase II (RCRF II). 
+ 
+B. Economic and Sectoral Context 
+10. 
+Somalia’s economy has been shaped by sustained conflict and remains vulnerable 
+to shocks. In the absence of state regulation and institutions, a vibrant informal sector has 
+developed, boosted by approximately US$1.3 billion in annual remittances from the roughly 
+one million Somalis living in the Diaspora.5 While the informal sector has thrived, the absence 
+of regulation coupled with elite capture in key economic sectors undermines the inclusiveness 
+of economic development.  Somalia is highly reliant on Overseas Development Assistance 
+(ODA). Development partners finance more than half of the government budget. Budget 
+support for 2014 totaled US$87.0 million (51 percent), compared with US$82.0 million in 
+domestic revenue (data as of October, 2014). Total aid to Somalia has hovered around US$1.0 
+billion since 2011; however, an increasing proportion of this aid is being directed toward 
+longer-term development in Somalia under the New Deal, as evidenced by donor reporting of 
+2014-15 planned disbursements to the Aid Coordination Unit of the FGS.6 
+11. 
+Somalia’s overall macroeconomic situation is very difficult to assess because of 
+severe data limitations. Accurate national accounts data do not yet exist for the whole of 
+Somalia. However, Gross Domestic Product (GDP) in 2014 was estimated at approximately 
+US$5.7 billion, comprising US$1.8 billion for Somaliland and US$3.9 billion for southern 
+Somalia, including Puntland. Public expenditure is estimated to account for 6.5 percent of 
+GDP, compared with private sector consumption of 138 percent of GDP; agriculture and 
+services are the key contributors to GDP. Somalia’s trade deficit is estimated to have grown in 
+recent years, reaching more than US$2.5 billion in 2014, up from US$165.0 million in 2000 
+(financed by assistance and remittances). Imports consist mainly of manufactured and 
+petroleum products from regional trading partners. The exchange rate is volatile and has 
+appreciated against the dollar in 2013 with inflows of investment and aid- leading to a Dutch 
+disease problem. The shillings in circulation are old, depreciated, and, in some instances, 
+counterfeit, which limits their use in transactions. The economy is largely dollarized and the 
+Somali shilling is used only for smaller transactions. With little or no control over the domestic 
+money supply, and little foreign reserves, the Central Bank has no influence over the exchange 
+rate. 
+12. 
+Revenue growth was very robust in 2013 and 2014.  Revenue and grants outturns 
+in 2014 increased by 29 percent (US$33.9 million), in nominal terms over 2013 figures. 
+The increase was as a result of tax revenues, which increased by 23 percent (US$14.8 million), 
+and non-tax revenue that increased by 302 percent (US$12.6 million). Taxes on incomes, 
+goods and services, and trade increased by 54, 51 and 20 percent, respectively, in 2014. As a 
+share of GDP, revenues and grants increased from 1.0 percent in 2012 to 3.8 percent in 2014- 
+almost four times the 2012 level. 
+13. 
+The FGS revenue forecasts in the 2015 budget were unrealistically high when 
+compared to both the 2013 and 2014 outturns. The 2014 budget revenue projection was 
+US$188.0 million, a 60 percent increase from the 2013 outturn of US$117.0 million. The 
+                                                                                                                                                                                       
+and Regional Education Officers and non-salary recurrent costs would be targeted toward supporting the Government of 
+Puntland in addressing these challenges, in general and strengthening the education system in a sustainable manner, in 
+particular 
+5 Orozco, Manuel and Julia Yansura (2013), “Keeping the Lifeline Open: Remittances and Markets in Somalia,” Oxfam. 
+6 ACU/WB (2014), "Aid Flows in Somalia: Analysis of aid flow data," Federal Government of Somalia. 
+ 
+ 
+4 
+revenue outturn for 2014 was US$151.0 million, a shortfall of US$37.2 million or 20 percent 
+on budgeted levels. The 2014 budget was predicated on significant increases in revenue from 
+income and corporate taxes, and taxes on goods and services, but this did not fully materialize.  
+ 
+ 
+Table 1: FGS Revenue Performance 2012-2015 
+ 
+Source: Ministry of Finance, FGS - (Appropriation Act for 2015 Budget and various budget 
+documents) 
+ 
+14. 
+Domestic revenue (excluding grants) increased by 27 percent in 2014. Revenue 
+from domestic sources increased from US$75.8 million in 2013 to US$96.3 million in 2014. 
+This enhanced revenue enabled the financing of 64 percent of recurrent expenditures. Taxes on 
+income underperformed by 78 percent while those from goods and services underperformed by 
+75 percent with combined revenue from these sources realising US$9.6 million against a target 
+of US$39.0 million. Grants generated US$55.0 million against a target of US$73.2 million. 
+15. 
+Forecasting revenues in Somalia is an onerous task due to data challenges. 
+Mobilization of revenues is a function of a number of macro indicators, the knowledge of 
+which enables reasonable estimates and trend-of-revenue performance. The challenge for 
+Somalia is that, over time, reliable estimates do not exist for most of these macro-indicators- 
+despite the fact that reliable fiscal data disaggregated by sources only started being released in 
+2013. As such, there are no time series that can enable robust revenue projections. 
+16. 
+Despite data limitations, it seems clear that the 2015 revenue estimates projected 
+at US$240.0 million (i.e. 59 percent above 2014 preliminary collections) are unrealistically 
+high. The FGS has drawn out revenue measures it will undertake in 2015 to support increased 
+collections. Revenue mobilization is expected to soar in 2015 from income and corporate taxes, 
+and sales and telecommunications taxes. An analysis of the government plan indicates that 
+while there is scope for an increase of these revenues if there is political will to improve 
+2012
+2015
+Growth in Revenue
+(Million US$)
+Actual
+Budget
+Actual
+Budget Preliminary
+Budget 2012-2013 
+2013-2014
+Revenue and Grants
+35.1
+114.3
+117.4
+188.5
+151.3
+239.9
+234%
+29%
+Domestic Revenue
+30.2
+53.9
+75.8
+115.3
+96.3
+123.4
+151%
+27%
+Tax Revenue 
+25.3
+51.4
+65.1
+108.0
+79.8
+103.1
+157%
+23%
+Tax on Income, Profit and Capital Gains
+3.5
+0.7
+5.1
+1.1
+4.6
+57%
+Taxes on goods and services
+1.3
+14.4
+5.6
+33.9
+8.5
+25.8
+331%
+52%
+Trade taxes
+24.0
+33.4
+58.7
+69.0
+70.3
+72.7
+145%
+20%
+Non-Tax Revenue
+2.5
+4.1
+7.3
+16.5
+20.3
+302%
+Domestic loan and grants
+0.0
+0.0
+6.6
+0.0
+0.0
+-100%
+Grants
+4.9
+41.7
+73.2
+55.0
+116.5
+751%
+32%
+Bilateral
+4.9
+41.7
+64.0
+53.1
+39.9
+751%
+27%
+Multilateral
+0.0
+9.2
+1.8
+76.7
+Revenue and Grants
+1.0
+            
+3.1
+            
+3.2
+          
+4.8
+               
+3.8
+               
+5.9
+            
+Domestic Revenue
+0.9
+            
+1.5
+            
+2.1
+          
+2.9
+               
+2.4
+               
+3.0
+            
+Tax Revenue 
+0.7
+            
+1.4
+            
+1.8
+          
+2.7
+               
+2.0
+               
+2.5
+            
+Tax on Income, Profit and Capital Gains
+-
+            
+0.1
+            
+0.0
+          
+0.1
+               
+0.0
+               
+0.1
+            
+Taxes on goods and services
+0.0
+            
+0.4
+            
+0.2
+          
+0.9
+               
+0.2
+               
+0.6
+            
+Trade taxes
+0.7
+            
+0.9
+            
+1.6
+          
+1.8
+               
+1.8
+               
+1.8
+            
+Non-Tax Revenue
+-
+            
+0.1
+            
+0.1
+          
+0.2
+               
+0.4
+               
+0.5
+            
+Domestic loan and grants
+-
+            
+-
+            
+0.2
+          
+-
+              
+-
+              
+-
+            
+Grants
+0.1
+            
+-
+            
+1.1
+          
+1.9
+               
+1.4
+               
+2.9
+            
+Bilateral
+0.1
+            
+-
+            
+1.1
+          
+1.6
+               
+1.3
+               
+1.0
+            
+Multilateral
+-
+            
+-
+            
+-
+         
+0.2
+               
+0.0
+               
+1.9
+            
+ Total GDP (Current US$ Millions) 
+5,008
+5,352
+5,352
+5,706
+5,706
+5,953
+Somaliland
+1,550
+       
+1,657
+       
+1,657
+     
+1,771
+          
+1,771
+          
+1,894
+       
+Somalia (excluding Somaliland)
+3,458
+       
+3,695
+       
+3,695
+     
+3,935
+          
+3,935
+          
+4,059
+       
+2013
+2014
+% of GDP
+ Memorandum: 
+ 
+ 
+5 
+collection, it is unlikely that the totality of the expected increase will materialize in 2015.  This 
+optimistic revenue estimate conceals a continued structural fiscal shortfall driven by the desire 
+to hire more civil servants without regard for budget constraints. Revenue forecasts in 2015 are 
+estimated to increase 29 percent, the same rate as in 2014.7  Revenue is projected to increase to 
+US$195.0 million in 2015.8 From a budget implementation perspective, there will therefore be 
+a significant shortfall (US$45.0 million) that will require cutbacks to expenditures approved by 
+parliament through ‘cash rationing’ during budget execution. 
+17. 
+A realistic revenue estimate of US$195.0 million will be adequate to meet all 
+categories of expenditure except costs of arrears repayment. Assuming the same 85 percent 
+budget execution rate for compensation of employees during 2015, as was the case in 2014, 
+monthly cash expenditures on employees could be around US$7.7 million, or about 47.5 
+percent of monthly revenue under a realistic scenario. Approximately US$102.0 million would 
+then remain (after paying wages, salaries and allowances) to finance other lines of the budget. 
+Revenues would cater for Goods and Services (budgeted at US$80.5 million), Grants 
+(budgeted at US$16.0 million) and Contingencies. However, budget funds would not be 
+enough to cover repayment of arrears on the order of US$17.0 million, as well as capital 
+spending of US$13.9 million, since only US$2.3 million would be available.  Hence, the RCRF 
+II operation in 2015 at the FGS level is both supportive of the predictable payment of civil 
+service salaries while also creating fiscal space for non-salary operating expenditures to enable 
+government to provide basic services to the citizens. 
+18. 
+The extent of further accumulation of arrears during 2015 will depend in large 
+part on how quickly commitment controls can be introduced into the payment process 
+and the Somalia Financial Management Information System (SFMIS) during 2015. The 
+strengthening of the non-salary payment process controls is therefore of material fiscal 
+importance.  Since revenues are likely to fall short of the legally appropriated expenditure 
+levels, the 2015 budget needs to be revised. The government also needs commitment control 
+system to avoid further arrears accumulation. Commitment control is however a major aspect 
+of the SFMIS. 
+19. 
+The FGS needs to strengthen its revenue mobilization efforts with a strong focus 
+on planning and the required human and financial resources that could result in 
+significant revenue increases. The Public Financial Management (PFM) strengthening project 
+is supporting government in revenue administration that focuses on improving tax 
+mobilization; including, sequencing and a timetable and likely resourcing implications for 
+reform actions sufficient to provide an adequate revenue base for FGS.  In addition, this project 
+is providing the needed capacity enhancements through the payment of salaries of civil 
+servants needed to support the government’s revenue generation activities. 
+ 
+ 
+ 
+                                                          
+7 In the base scenario, the same institutions (who are now in the tax bracket) which paid taxes last year continues to do so in 
+2015. It also assumes that the economic growth in 2015 is the same rate as in 2014. 
+8 Budget execution in 2015 was at 80%. If this rate is maintained in 2015, this will yield revenues at US$192 million 
+ 
+ 
+6 
+Figure 1: FGS Revenue Trends in 2014 
+ 
+ 
+Source: FGS Ministry of Finance 
+ 
+20. 
+Monthly expenditures have closely matched monthly revenues during 2014, 
+reflecting the cash-based nature of budget management. Expenditures have averaged 
+US$12.5 million per month, while revenues have averaged US$12.6 million per month. Budget 
+figures in 2014 suggest that total monthly expenditures on compensation of employees 
+(including security sector allowances), amount to an average of US$6.4 million per month.   
+This mainly comprises wages and salaries at US$2.0 million, and allowances at US$4.3 
+million. In September 2014, the RCRF Phase I project reimbursed US$1.4 million in 
+compensation to employees (both wages/salaries and allowances of eligible civil servants), 
+equivalent to 57.5 percent of the budget level and 71.7 percent of actual monthly spending on 
+wages and salaries. Figure 1 indicates that at the beginning of the year, revenues and 
+expenditures outturns tend to be slow but this picks up towards the end of the year.  
+21. 
+FGS expenditures are dominated by wages and salaries, which accounted for 44 
+percent and 51 percent of expenditures in 2013 and 2014 respectively.  The next largest 
+category of expenditure is goods and services, which accounted for 46 percent and 38 percent 
+of 2013 and 2014 expenditures. However, operating expenditures are primarily concentrated in 
+the security sector and most line ministries have very little funding available for operating 
+expenditures; for example, only 5 percent of education and 14 percent of health spending was 
+dedicated to operating costs in 2014. 
+22. 
+The major spending organisation during 2014 was the Armed Forces, with 28.8 
+percent of actual spending, or US$43.3 million, and with over half accounted for by 
+allowances (US$20.9 million).  There has been a progressive build-up of arrears in general but 
+more in the armed forces- which signals a lack of expenditure control and undermine the 
+credibility of the budget.  Arrears at the end of 2013 were US$30.4 million (16.1 percent of the 
+0
+5,000,000
+10,000,000
+15,000,000
+20,000,000
+25,000,000
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+US$
+Monthly Revenue and Spending in 2014 (US$)
+Revenue
+Expenditure
+Linear (Revenue)
+ 
+ 
+7 
+budget), which were carried into the 2014 budget. However, only US$1.3 million was paid in 
+2014 and an additional US$13.8 million accrued, mostly for wages and salaries of FGS 
+employees. The build-up of arrears is not a good signal and affects service-delivery. As of the 
+end of 2014, the estimated stock of outstanding arrears was US$43.0 million. 
+ 
+Table 2: Total Disaggregated Government Expenditure for the 2012-2014 Period. 
+ 
+Source: FGS Ministry of Finance 
+23. 
+In line with revenue projections, expenditure is projected at US$240.0 million in 
+the 2015 budget, an increase of US$88.9 million on the 2014 estimated outturn (60 
+percent). The main components of the increase in expenditure are: (i) a 42 percent (US$32.0 
+million) increase in compensation of employees; (ii) a 40 percent (US$22.9 million) increase in 
+goods and services; (iii) a 1,280 percent (US$15.7 million) increase in repayment of arrears 
+and advances. These increases are unlikely to be fully realized during budget execution due to 
+anticipated revenue shortfalls. 
+24. 
+The increase in compensation of employees is particularly important to note because of 
+its non-discretionary nature. The increase is driven by: (i) a US$2.0 million increase in wages 
+and salaries, including a planned 20 percent increase in the number of civil servants from 3,756 
+to 4,486- which poses a fiscal risk and would contribute to arrears build-up; and, (ii) a US$10.0 
+million increase in allowances concentrated on 15 organizations, with security sector 
+organizations receiving the biggest increases.  
+25. 
+  In addition to the public workforce captured in budget documentation, 
+development partners currently pay health and education workforces off budget. They 
+have significantly greater geographic dispersion than those currently on budget. In the case of 
+2015
+Budget
+Actual
+Budget
+Preliminary Budget
+2012-2013
+2013-2014
+Total Expenditure 
+35.1
+143.9
+117.4
+216.2
+151.1
+239.9
+235%
+29%
+Recurrent Expenditure
+35.1
+136.7
+117.4
+203.9
+137.1
+226.0
+235%
+17%
+Compensation of employees
+13.5
+70.4
+51.9
+91.0
+77.2
+109.4
+285%
+49%
+Use of goods and services
+18.9
+62.7
+54.5
+67.4
+57.6
+80.5
+189%
+6%
+Grants
+2.7
+0.0
+7.5
+11.5
+10.1
+16.0
+177%
+35%
+Contingency
+0.0
+3.6
+3.5
+3.6
+37.8
+3.2
+n/a
+973%
+Repayment of arrears and advances
+0.0
+0.0
+0.0
+30.4
+2.2
+17.0
+n/a
+n/a
+Capital Expenditure
+0.0
+7.2
+0.0
+12.4
+0.2
+13.9
+n/a
+n/a
+Capital
+0.0
+7.2
+0.0
+12.4
+0.2
+13.9
+n/a
+n/a
+Total Expenditure 
+1.0
+3.9
+3.2
+5.5
+3.8
+5.9
+Recurrent Expenditure
+1.0
+3.7
+3.2
+5.2
+3.5
+5.6
+Compensation of employees
+0.4
+1.9
+1.4
+2.3
+2.0
+2.7
+Use of goods and services
+0.5
+1.7
+1.5
+1.7
+1.5
+2.0
+Grants
+0.1
+0.0
+0.2
+0.3
+0.3
+0.4
+Contingency
+0.0
+0.1
+0.1
+0.1
+1.0
+0.1
+Repayment of arrears and advances
+0.0
+0.0
+0.0
+0.8
+0.1
+0.4
+Capital Expenditure
+0.0
+0.2
+0.0
+0.3
+0.0
+0.3
+Capital
+0.0
+0.2
+0.0
+0.3
+0.0
+0.3
+Memorandum:
+Total GDP (Current US$ millions)
+5,008
+5,352
+5,352
+5,706
+5,706
+5,953
+Somaliland
+1,550
+1,657
+1,657
+1,771
+1,771
+1,894
+Somalia (excluding Somaliland)
+3,458
+3,695
+3,695
+3,935
+3,935
+4,059
+(Million US$)
+2012 Actual
+2013
+2014
+Growth in Expenditure
+% of GDP (excluding Somaliland)
+ 
+ 
+8 
+education, the Global Partnership for Education (GPE) pays US$100.0 matched by the 
+government to 1,400 teachers through a government payroll process managed by the Ministry 
+of Education. In the case of health, workers are paid through implementing partner agencies.  
+26. 
+However, the Ministry of Health has recently assumed responsibility for paying 
+Regional and District Health teams, funded by the Joint Health and Nutrition program 
+(JHNP), and will need a payroll solution to be developed for these staff, possibly involving 
+their incorporation into the FGS payroll. There is an estimated 3,741 health service delivery 
+staff working in public facilities in southern Somalia as a whole (including Puntland and IJA). 9 
+This number – paid by a variety of NGOs and donor funds – comprises an estimated: 321 
+doctors; 169 pharmacists; 817 registered nurses; 65 registered midwives; 17 community 
+midwives; and, 1,838 auxiliary nurses. The Ministry of Health estimates that between 30 to 40 
+percent of these personnel are entirely unpaid, and some are unqualified. 
+Fiscal Issues: Puntland 
+27. 
+The Government of Puntland has been facing serious fiscal challenges in 2012 and 
+2013, resulting in the accumulation of arrears. The arrears are primarily in the form of 
+unpaid salaries and allowances of public servants and unpaid bills to run day-to-day operations 
+of the government. Although accurate accounting of arrears is not available, the stock of 
+arrears as of December 2014 was estimated at about US$25.0 million (about 63 percent of total 
+revenue). 
+28. 
+The Puntland government’s revenues have been on an upward trajectory, albeit 
+heavily reliant on taxes on international trade.  Since 2007, domestic revenues have 
+increased by 92 percent from US$16.0 million to US$38.0 million, although that trend was 
+reversed in 2013, with a decline of six percent. Most of the government revenues come from 
+customs and related taxes on international trade, which contributed 67 percent of revenues in 
+2013. This lack of diversity makes revenues vulnerable to external shocks. An estimated 
+US$8.0 million are collected in off-budget revenues. 
+29. 
+The rapid growth of the public sector payroll has presented a significant fiscal 
+challenge for Puntland.  Despite the challenge of paying salaries and allowances of existing 
+employees, the number of non-security public servants has increased by 47 percent since 2010 
+and 27 percent since 2012. The growth of security personnel was more dramatic at first, 
+increasing 53 percent since 2010, but tapered later- increasing a modest 16 percent since 2012.  
+The share of salaries and allowances of all public service employees in the total budget was 41 
+percent in 2010 and has since shown modest increases to 44 percent in 2013 and 47 percent in 
+2014.10  The total salary budget increased by 55 percent between the original budget of 2011 
+and the 2014 revised budget, and 52 percent since 2013. The largest increase in the budget was 
+between 2011 and 2012 when the total wage bill increased by 36 percent (34 percent for the 
+non-security sector), while in 2013 the growth rate slowed down to 11 percent (4 percent in the 
+non-security sector).11 The changes in the wage bill are largely driven by the increase in the 
+number of public servants. In March 2015, the government stopped the recruitment of new 
+civil servants until salary arrears and other reform issues are addressed. 
+ 
+                                                          
+ 
+10 Annualized number based on April-December budget. 
+11 The wage bill for 2014 increased by only 2% and wage bill for non-security public servants is expected to 
+decline by 8% despite the fact that number of non-security public servants has increased by 23%. This is further 
+evidence of the poor quality of the data.  
+ 
+ 
+9 
+Table 3: Revenue and Expenditure Performance in Puntland 
+  
+2012 
+2013 
+2014 
+2015 
+Details/US$  
+Budget 
+Actual 
+Budget 
+Actual 
+Budget 
+Budget 
+  
+  
+  
+  
+  
+  
+  
+On Budget  - Total Domestic Revenue  
+41.4  
+40.9  
+42.3  
+38.4  
+      40.9  
+ 46,7  
+Tax Revenue  
+33.8 
+31.8 
+37.2 
+32.4 
+      34.0  
+      36.2  
+Non-Tax Revenue  
+7.6 
+9.0 
+5.1 
+6.0 
+        6.7  
+        6.7  
+Surcharge 
+  
+  
+  
+  
+          -    
+        3.8  
+Off budget Revenue 
+          -   
+10.1  
+          -    
+9.5  
+          -    
+          -    
+Surcharge 
+          -   
+8.2 
+  
+8.4 
+          -    
+          -    
+remittance - Regional Accountants 
+0 
+0.7 
+  
+0.0 
+          -    
+          -    
+Advances 
+  
+1.2 
+  
+1.1 
+          -    
+          -    
+Total Revenue and Grants 
+41.4  
+51.0  
+42.3  
+47.9  
+40.9  
+46.7  
+On budget - Total Expenditure  
+41.4 
+42.4 
+42.3 
+52.5 
+40.9 
+46.7 
+Salary  
+13.9 
+12.5 
+15.7 
+19.1 
+15.6 
+16.6 
+Allowance 
+2.8 
+2.6 
+3.2 
+4.2 
+3.5 
+3.5 
+Operations 
+24.6 
+27.3 
+23.4 
+29.2 
+21.8 
+26.6 
+Capital 
+          -   
+          -    
+          -    
+          -    
+          -    
+          -    
+Off budget Expenditure 
+          -   
+10.3 
+          -    
+9.6 
+  
+  
+Surcharge Expenditure 
+  
+8.2 
+  
+8.4 
+  
+  
+remittance - Regional Accountants 
+  
+0.9 
+  
+0.0 
+  
+  
+Advances 
+  
+1.2 
+  
+1.1 
+  
+  
+Total Expenditure 
+41.4  
+52.7  
+42.3  
+62.1  
+40.9  
+46.7  
+Surplus/(deficit) 
+          -          (1.7) 
+           0  
+     (14.3) 
+  
+  
+Source: Puntland Ministry of Finance. 
+ 
+Fiscal Issues: Interim Juba Administration (IJA) 
+30. 
+The IJA prepared its first ever six-month budget for the period July to December 
+2014.  This budget was based on total revenue and expenditures of US$7.6 million, of which 
+65 percent (US$4.9 million) was allocated to the Armed Forces, including US$4.6 million in 
+wages and salaries. The new government is currently being established from scratch, and is 
+therefore growing rapidly, with an estimated 394 civil servants and 4,895 non-civil servants 
+(primarily the Jubbaland Security Force), envisaged by the end of 2015. The 2015 budget is for 
+a total revenue of US$16.7 million- mostly made up of custom duties on imported goods, road 
+taxes and fees.  Compensation of employees represents 68 percent of recurrent costs but is 
+mostly with respect to the police, Intelligence forces, prisons and political office holders. 
+ 
+ 
+ 
+ 
+10
+Table 4: Revenue and Expenditure in IJA for 2014 and 2015 
+Details 
+2014  
+July to December 
+US$ million 
+2015 
+January -December 
+US$ million 
+Total Revenue 
+3.1 
+16.7 
+Tax 
+2.0 
+11.4 
+Non-tax rental income 
+0.1 
+0.8 
+Grants – FGS 
+1.0 
+2.2 
+Grants – International Org 
+0.0 
+2.3 
+ 
+ 
+ 
+Total Expenditure 
+2.9 
+27.8 
+  Recurrent Expenditure 
+2.8 
+16.7 
+   Compensations of employees 
+1.6 
+12.1 
+   Use of goods & services 
+1.18 
+4.3 
+   Grants (transfers to local government) 
+0.02 
+0.3 
+   Capital expenditure 
+0.1 
+11.1 
+Balance 
+0.3 
+11.1 
+Source: Extract from IJA Ministry of Finance presentation and 2015 Appropriation Act 
+31. 
+At the macroeconomic level, the project aims to break the cycle of over-optimistic 
+revenue projections, which are used to justify rapid growth in civil service payrolls that 
+cannot be sustained.  In fact, the recent track record shows that despite strong revenue 
+growth, albeit from a low base, fiscal space has, declined due to the increase in recurrent 
+obligations and arrears.  Under the project, along with related Public Financial Management 
+(PFM) activities and policy dialogue, the government would face a well-defined revenue 
+envelope, and strengthened budget formulation and financial management procedures would 
+work to contain commitments within this envelope.  At the same time, the financing of 
+recurrent costs would be linked to the provision of critical human development services and the 
+activation of rudimentary fiscal federalism.  The experience of other fragile and conflict 
+situations (e.g. Iraq) shows that without restraint on payroll expansion and associated building 
+of PFM capabilities, states emerging from conflict will fail to build resilience to inevitable 
+revenue volatility. This will imperil investments in state legitimacy once a subsequent revenue 
+downturn is realized- with no buffers available to absorb it. At the minimum, fragile states 
+need to limit arrears and establish a link between the size of the state and a sustainable revenue 
+flow. These goals are embedded in the operation's design. 
+Payroll System 
+32. 
+FGS: Until recently, monthly payroll processing involved ministries, departments and 
+agencies (MDAs) submitting pay lists in hard copy to the Ministry of Finance. These 
+submissions are subject to multiple manual checks, first by the Accountant General’s 
+Department against both the annual budget, and against a list of civil servants provided by the 
+NCSC. The Auditor General’s office also performs a check on these pay lists. Once checked, 
+the Accountant General forwards the pay lists to the Central Bank of Somalia (CBS). The CBS 
+is responsible for payroll execution, and provides a final check with civil servants required to 
+present a photographic identification card and provide finger print identification through a 
+biometric system to collect their monthly salary payment in cash at the CBS in Mogadishu.  
+33. 
+A number of incremental payroll and human resources reforms are planned and 
+under implementation.  In 2014, the SFMIS was expanded to include a payroll module. This 
+will help to automate the process within the Ministry of Finance (MoF), generating checks 
+automatically and strengthening the payroll execution process. The February 2015 FGS payroll 
+ 
+ 
+11
+was, for the first time, processed through the SFMIS payroll module- parallel to the established 
+Excel-based approach. The Excel-based payroll system will be retired soon and the SFMIS will 
+be used exclusively for payroll processing.  
+34. 
+The Puntland State has a basic manual payroll and human resource management 
+systems.  Regional accountants are responsible for all receipts and disbursements through 
+authorization by the MoF and Office of the Accountant General (OAG).  The Chart of 
+Accounts does not conform to the Government Financial Statistics Manual (GFSM 2001). 
+There are also gaps in the payment mechanism. In some cases, authorized officials from some 
+MDAs withdraw cash from the Puntland State Bank to pay salaries to employees and for goods 
+and services from vendors.  
+35. 
+IJA, with the assistance of the Somali Stability Fund (SSF) implemented BISAN 
+Financial Management Information System (FMIS) to provide fundamental support to revenue 
+and expenditure controls, help with budget execution and supervision, and to support overall 
+fiscal discipline and enhance the efficiency and effectiveness of public revenue collection and 
+expenditure. Currently, staff in five IJA entities receives stipend payments through the BISAN 
+FMIS. Each Ministry or Agency submits a Payment of Salaries and Allowances request for the 
+aggregate salary amount, with a pay list as an attachment, to the Treasury Department in the 
+Ministry of Finance. The Treasury Department processes the aggregate payment to the 
+Ministry official identified to receive the check. The cheque is then cashed with the Dahabshiil 
+International Bank and the individuals identified are paid. This arrangement controls the 
+aggregate amount of salary payments but does not provide measures to ensure that the list of 
+payees is accurate, that staff have actually attended for work, or that they receive their full 
+salary entitlement. A Civil Service Commission is being established and an improved payroll 
+management system is being developed. This will lead to maintaining a permanent record and 
+personnel files for all approved Civil Servants. Additionally, the FMIS is being enhanced to 
+enable the recording of details of authorised Civil Service payees.  
+Inter-Governmental Fiscal Issues 
+36. 
+At present, revenues and expenditures are de facto highly devolved in Somalia, 
+and de jure revenue and expenditure assignments are unclear. Both the FGS and sub-
+national authorities collect all taxes simultaneously. In particular, most governments are 
+heavily reliant on taxes collected at ports and airports (import, export and sales taxes), with 
+these taxes accounting for 78 percent of FGS domestic revenues, 70 percent for Puntland (from 
+imports and exports), and 48 percent for IJA in 2014. As a result, the FGS has one of the 
+lowest domestic revenue to GDP ratios in the world at 1.7 percent (the Sub-Saharan average is 
+13.7 percent). 
+37. 
+There is some limited experience with inter-governmental fiscal transfers in 
+Somalia.  The FGS made inter-governmental transfers totaling US$10.0 million in 2014. This 
+was primarily channeled to the Banadir Regional Administration which receives 15 percent of 
+Mogadishu port revenues- and a US$1.0 million transfer to IJA.  Puntland and Somaliland 
+have well established intra-governmental transfer systems, based on a categorization of 
+districts from A-C, on the basis of size and capacity. 
+38. 
+Levels of public sector capacity and economic development are highly asymmetric 
+across Somalia. While Puntland has a well-established civil service and associated payroll and 
+PFM systems, the newly emerging interim administrations in southern Somalia are in the 
+process of setting up their governments. Likewise, given the fiscal reliance on port and airport 
+revenues to finance public services, major disparities are likely to emerge between those sub 
+ 
+ 
+12
+national entities that control ports on major trade routes and those that do not, meaning that 
+fiscal equalization will become increasingly important for long-term cohesion. 
+ 
+C. Relationship to the Interim Strategy Note (ISN) 
+39. 
+The ISN for FY14-16 was discussed by the World Bank Board on December 17, 2013 
+and aims to lay the foundations for poverty reduction and shared prosperity, delivering selected 
+activities by: (i) strengthening core economic institutions; and, (ii) expanding economic 
+opportunity. The project’s focus on stabilizing the budget through salary payment and the 
+establishment of a core payroll system that provides a financial and institutional platform for 
+the Government corresponds with Strategic Objective I (Strengthening Core Economic 
+Institutions) of the ISN. 
+40. 
+The Recurrent Cost and Reform Financing Project (RCRFP) Phase II project is one 
+of the World Bank operations designed to address institutional governance issues 
+through multiple approaches, over immediate and longer terms.  Somalia’s governance 
+challenges are complex and do not lend themselves to linear or singular approaches.  The 
+World Bank is addressing these challenges through a multi-nodal approach that includes fiscal 
+support (recurrent costs), capacity injection, and core systems building and policy-dialogue. 
+Implementation support will be coordinated under the Bank’s Governance Global Practices 
+and, as well, coordinated to the extent feasible, with other UN and donor engagements in the 
+area through the Somalia Development and Reconstruction Facility (SDRF).  
+41. 
+This operation will provide one of several platforms for a stronger policy dialogue 
+with the authorities on their macro-fiscal and economic governance track record.  As the 
+World Bank reengages with Somalia through the MPF, and provides larger levels of financial 
+support, the RCRF Phase II project will provide an opportunity to engage the Government in 
+dialogue on its budget, especially as regards its non-military civil service wage bill and the 
+priority of the Federal Government of Somalia (FGS) to, ultimately, fully finance these costs 
+with its own domestic revenues, utilizing a realistic and balanced budget.   
+ 
+D. Situations in Urgent Need of Assistance or Capacity Constraints 
+42. 
+Under the existing exceptional circumstances of conflict, security issues and acute 
+institutional capacity constraints, pursuant to OP/BP 10.00, this project is being processed 
+under provisions of paragraph 12  (Projects in Urgent Need of Assistance or Capacity 
+Constraints) given the fragility and capacity constraints in the country.  Somalia meets these 
+requirements because: (i) it has experienced violent conflicts for the past twenty years; (ii) it is 
+currently still experiencing conflict, with incessant bombings; and (iii) it is at risk of future 
+violence. Additionally public revenue generation is still very low and severely constrained by 
+on-going conflict, with significant under-performance relative to the 2014 budget. As 
+reconstruction proceeds, the future expenditure needs of the government will increase.  Failure 
+to ensure a seamless transition of salary payments from the RCRFP Phase I project to RCRFP 
+Phase II would undermine domestic and international confidence in the FGS.  The SDRF will 
+be the main source of funding over the next five years of implementation.  
+ 
+ 
+13
+II.  
+PROJECT DEVELOPMENT OBJECTIVE AND RESULTS 
+A. Higher-Level Objectives to Which the Program/Project Contributes 
+43. 
+The higher-level objectives are the same as for the RCRFP Phase I project and in 
+keeping with operational guidance for a Series of Projects (SOP).  These objectives are as 
+follows: 
+ Support macro-fiscal stability by providing predictable financing (salary payments 
+and other recurrent costs for a given period) and strengthened controls for expansion 
+of social sectors, especially education and health and the injection of high-capacity 
+human resources; 
+ Increase government legitimacy and credibility through support of service delivery 
+by center/regional government authorities and associated inter-governmental fiscal 
+transfers; 
+ Support institutional capacity-building in human resources and provide a dialogue 
+around human resource issues; and, 
+ Provide a reliable financing mechanism to allow government to have a financial 
+buffer in case of unforeseen, but likely, internal and external shocks. 
+ 
+B. The Project Development Objective  
+44. 
+The Development Objective for the Series of Projects (SOP) is to enable the 
+Somali Government to achieve reliable and transparent financing of critical civil service 
+operations to help strengthen the legitimacy of the State. The Development Objective of 
+this second project is to support the government to provide credible and sustainable payroll 
+and to establish the foundation for efficient budget execution and payment systems for the non-
+security sectors in FGS and eligible federal member states, interim and emerging 
+administrations. 
+45. 
+This aligns with the Multi Partner Fund (MPF) objective “to foster socio-economic 
+recovery and stabilization by supporting the payment of civil service salaries, and the running 
+costs of government institutions; financing technical assistance and supporting the building 
+blocks of larger public investment programs across a range of sectors.”      
+ 
+C.  Project Beneficiaries  
+46. 
+The main beneficiaries of the proposed project are: (a) the government, civil servants 
+and employees of the implementing ministries, departments and agencies (MDA) in FGS, 
+Puntland, IJA and other interim and emerging states; (b) the civil servants whose salaries 
+would be covered under the project; (c) the Civil Service Commission that has the 
+responsibility of providing the payroll; (d) social service workers (i.e., teachers and health 
+workers in FGS, Puntland, IJA and other interim and emerging administrations); (e) citizens; 
+and, (f) Development Partners who will have a convenient platform to provide technical advice 
+and financial assistance.  
+ 
+ 
+ 
+ 
+14
+D. Project Development Objective (PDO)-Level Indicators   
+ 
+47. 
+The key PDO–level indicators of the project are as follows: 
+(a) Credible payment to non-security civil servants, measured by: 
+• 
+The percentage of eligible civil servants’ salaries in non-security sectors 
+paid on time. 
+• 
+The number of payroll verifications undertaken by independent agents. 
+(b) Sustainable payment to non-security civil servant, measured by: 
+• 
+Share of the salaries of the non-security civil servants financed by the 
+government. 
+(c)  Efficient budget execution and payment system to eligible interim and emerging 
+states, measured by: 
+• 
+Percentage annual increase of inter-governmental transfers to sub-national 
+governments. 
+                                  
+E. Results Monitoring and Evaluation 
+48. 
+Progress in achieving the PDO will be measured and monitored through the 
+indicators and intermediate results described in Annex 1.  The Annex provides details 
+concerning reference data, targets, and frequency of data collection, including sources and 
+methodology. A results framework, including monitoring, evaluation and reporting on progress 
+and results, will be maintained by the External Affairs Fiduciary Section (EAFS) in FGS and in 
+parallel units in Puntland and IJA (Annex 3) and in other eligible interim and emerging states. 
+This arrangement will promote a high level of synergy and complementarities that will 
+eliminate unnecessary duplication and promote program ownership by FGS and eligible federal 
+member states, interim and emerging administrations. 
+ 
+III.  
+PROJECT DESCRIPTION 
+A. The RCRF Program 
+49. 
+The project will be the fourth operation to be financed from the World Bank’s 
+MPF. Both RCRFP Phase I and RCRFP Phase II are part of an approved wider RCRF 
+“program” to be delivered through the SOP modality that allows for predictable financing 
+within the framework of a macro-fiscal and reform-based dialogue between the Bank and the 
+authorities.12  The RCRFP Program aligns with the Government’s policies and priorities and is 
+prepared as a SOP, 13 using a condensed procedure and taking into consideration the need for 
+                                                          
+12 “Investment Project Financing – Series of Projects Guidance Note,” OPSPQ, April 9, 2013. 
+ 
+13 Series of Projects: In cases of single-borrower sequential Projects, in addition to regular requirements, the documentation for 
+the first Project presents the rationale for a phased approach, the potential benefits and risks of such an approach, the 
+overarching DOs for the series, overall expected results, and a timeline for expected completion of each phase of the series; it 
+also gives an indicative funding envelope for the entire series. Subsequently, each Project in the series is prepared and 
+appraised individually, taking into account the performance to date of the preceding Project(s) in the series. 
+ 
+ 
+ 
+15
+the client to make gradual improvements in capacity and overall performance. The Program 
+focuses both on a short-term emergency operation designed to meet the urgent fiscal needs of 
+the FGS, as well as a more sustained program of institutional reform and strengthening through 
+follow-on projects. It is designed to support the government’s agenda on core systems 
+strengthening, through better budget execution, fiscal stability, and sound Public Financial 
+Management (PFM). It is also designed as a platform for engagement and dialogue on core 
+economic governance issues, including: (a) a strengthened fiscal and budgetary framework; (b) 
+more reliable and effective service delivery (i.e. in education and health); (c) laying the 
+foundations for an inter-governmental financing framework, with eligible interim 
+administrations and federal member states (initially Puntland and IJA); (d) increased 
+transparency in budget management- i.e., reliable, transparent and verifiable salary payment 
+and HR systems, procurement, and PFM; and, (e) engagement with citizens by promoting 
+greater public access to information.  
+50. 
+The first project in the series (RCRFP Phase I) financed and supported the 
+development of an operational payroll and payment system at the Federal Government 
+level for the non-security sector, paid for salaries of existing non-security sector staff of the 
+Federal Government, 14  and provided technical assistance and non-salary recurrent costs 
+support to targeted departments in the FGS Ministries of Finance. This was intended to 
+facilitate the strengthening of core government functions and basic service delivery, both of 
+which are essential contributors to the increased relevance and legitimacy of Somali 
+Government institutions.  
+51. 
+Strategic Approach: There are important political and state building milestones in 
+the state formation process that directs the context for RCRF II.  The elements of 
+Somalia’s future federation are emerging and there is increasing strategic importance to ensure 
+that interim and emerging states are part of the broader fiscal and administrative discussions. 
+This is a new and important factor in the context for development assistance in Somalia. The 
+interim and emerging states will engage with RCRFP II on the basis of a series of ‘Readiness 
+Criteria’ before receiving financing, as set out under Component 2 below. The readiness 
+criteria will cover strategic; macro-fiscal; and PFM/administration and will be followed by an 
+ongoing process of routine monitoring relative to an agreed set of benchmarks in subsequent 
+years.  The indicative allocations for 2016-2019 consequently reflect a gradual increase in the 
+proportion of RCRFP II financing available for interim and emerging states in anticipation of 
+this trend. 
+52. 
+The project will adopt a flexible approach to macro-fiscal dialogue through a 
+series of annual reviews, timed to inform the various governments’ budget preparation 
+processes. These annual reviews will: (i) agree on the following year’s financial support; and, 
+(ii) make any adjustments to the remaining project years. The output of the annual review 
+process would be an agreed document between the government and the Bank on the specific 
+allocation for each of the components and activities for the fiscal year. 
+53. 
+Macro-Fiscal Approach:  The RCRF Phase II project represents a move away 
+from gap-filling emergency support, towards a more developmental multi-year 
+framework.  This framework aims to provide predictability and stability, while ensuring a 
+flexible and effective platform for dialogue around macro-fiscal performance, strategic impact 
+                                                          
+14 The following are considered core security actors and not eligible for financing under the project: armed forces; police; 
+paramilitary forces; gendarmeries; presidential guards; intelligence and security forces; the coast guard; and customs 
+authorities. 
+ 
+ 
+ 
+16
+of the budget, and inter-governmental fiscal relations. The macro-fiscal dialogue would focus 
+on issues such as the eligibility of expenditures at federal and regional government levels, and 
+assessed revenue, expenditure, and PFM reform benchmarks. The project will contribute to 
+macro-fiscal and budgetary stability and will support government’s efforts at ensuring stability 
+and sustainability including setting up (i) a public sector employment plan and a fiscally 
+sustainable pathway for wages and salaries in relation to domestic revenues; and (ii) a balanced 
+cash-based budget, based on a credible resource envelope, assessed by the World Bank in 
+conjunction with the IMF to assess its fiscal dimension.  In order to support the transition from 
+RCRFP Project financing to domestic revenue financing of the wage bill, the Project will work 
+with government and the PFM strengthening project on a revenue generation incentive activity 
+from 2017 to support revenue policy and administration, within the existing resource envelope 
+and as part of the annual review process.    
+B. Project Components 
+54. 
+The Project has four components. A more detailed description of the project 
+components and sub-components is given in Annex 2. 
+55. 
+Component 1: Support to core government functions of ministries, departments 
+and agencies in FGS (US$81.0 million).  The Project will finance: the salaries of eligible non-
+security sector civil servants in the MDAs; the cost of staff injected under the capacity 
+injection mechanism (CIM); and non-salary operating costs for MDAs.  
+56. 
+Sub-Component 1:1: Financing of eligible civil service salaries in non-security 
+sectors in Federal Government of Somalia (FGS) (US$49.0 million). The Project would 
+support the FGS to maintain core government functions during fiscal years 2015 to 2020. The 
+project would finance the salaries of non-security sector civil servants at a cost of about 
+US$48.0 million over the five-year project period. To underline the understanding that the 
+government will ultimately finance all civil service salary payments from its domestic 
+revenues, the project would finance these salary costs on a declining scale with the objective 
+that these would be phased out by the end of the Project. The government would have to pay, 
+on a timely basis, 100 percent of the salaries of the civil servants with the Project contributing 
+an agreed proportion on a monthly basis. A detailed review of 100 percent of the government 
+civil service salary expenditures will be carried out by the independent agent, confirming that 
+the expenditures are eligible and meet agreed procurement and control procedures, including 
+processing through the Somalia Financial Management Information System (SFMIS). From 
+January 2016, payment of salaries to civil servants in the FGS is expected to be through their 
+various bank accounts.  The project will support the Central Bank of Somalia (CBS) in 
+establishing the necessary payment systems and arrangements to facilitate this. 
+57. 
+Sub-Component 1:2: Financing of salaries and allowances to government staff and 
+young graduates recruited under the capacity injection mechanism (CIM) in FGS (US$17.0 
+million).  The Project would finance the salaries and allowances of a cadre (525) of critical 
+advisory, managerial and technical staff to fill urgent staffing gaps identified by the FGS 
+through the CIM.  This includes salaries and allowances of a number of young graduates who 
+are expected to be absorbed into the civil service.  All salary payments for government 
+contracts will be made through the regular payroll process and directly to the bank accounts of 
+the staff.  Staff will be recruited through a central mechanism and at enhanced pay scales, on 
+the basis of an agreed salary structure developed under the CIM.  Recruitment will draw from a 
+national, regional and diaspora candidate pool. Core government functions that will be 
+strengthened under the CIM include: (i) policy and strategy management (planning, 
+implementation and M&E); (ii) financial management (budgeting, accounting and auditing); 
+ 
+ 
+17
+(iii) procurement management; (iv) revenue mobilization; and, (v) human resource 
+management. Beneficiary institutions and eligible positions will be identified with the support 
+of the World Bank and UNDP Capacity Injection Projects on the basis of agreed criteria.  
+58. 
+Sub-Component 1:3:  Financing of eligible non-salary recurrent costs in MDA in the 
+FGS (US$15.0 million). The efficient operation of the MDA requires resources for non-salary 
+operations costs; including, rent, petrol, oil and lubricants, repair and maintenance of vehicles 
+and equipment, office materials, travel of civil servants, and utilities.  In light of the pilot 
+experience in four MDA under the RCRF Phase 1 project, where it was agreed that existing 
+controls on these types of expenditures are weak, particularly in respect of confirmation of the 
+actual expenditure incurred, the government established a task force to examine these issues 
+and it has developed a new and updated set of processes and procedures for the procurement of 
+these goods and services with appropriate financial management controls that ensure 
+transparency, competition and accountability (Annex 7).  All non-salary recurrent cost 
+expenditures would be paid by the government and reimbursed by the Bank up to an agreed 
+amount and for specific operating costs, based on a detailed review of 100 percent of these 
+expenditures by the independent agent. The review will confirm that the expenditures are 
+eligible, and that they have met agreed procurement and control procedures.  
+59. 
+Component 2: Inter-governmental fiscal transfers to core government functions of 
+eligible federal member states, interim and emerging administrations (US$34.0 million). 
+RCRFP sub-national financing will reward accountable and transparent government in line 
+with RCRFP broader principles.  Interim and emerging states will need to comply with clearly 
+defined readiness criteria before receiving financing. These criteria covers the following 
+dimensions: (a) macro-fiscal, including fiscal, assessments; (b) PFM; (c) public administration; 
+and, (d) social service delivery impact, (e) institutional and fiduciary capacity (see Annex 2.) It 
+is expected that RCRF financing would be accompanied by matching funds for targeted service 
+delivery expansion.  The readiness criteria will be reviewed and updated on an annual basis to 
+ensure adaptation to the rapidly evolving country context, and to manage the trade-off between 
+the imperative of delivering expanded basic public services while also maintaining minimum 
+fiscal and fiduciary management practices and systems in recipient governments.  Essentially, 
+the criteria will form the basis for inter-governmental fiscal transfers under the Project.  At this 
+stage, and on the basis of staff assessments and judgments, two regions have achieved a level 
+of readiness for RCRF Phase II project support: i.e., Puntland and the IJA. Financing would be 
+through an inter-governmental fiscal transfer, reflected in the FGS budget appropriation.15 
+60. 
+Sub-Component 2:1: Transfers to interim and emerging states for core government 
+functions (US33.0 million). The sub-component through the transfer grants from FGS to 
+Puntland, IJA and other interim and emerging states will finance: (i) reforms to meet the 
+readiness criteria; (ii) a pilot program of financing salaries and allowances of civil servants 
+(excluding elected officials) in selected MDA; salaries and allowances to government staff and 
+young graduates recruited under the CIM in interim and emerging states; (iii) systems-
+strengthening and the establishment of basic accountability systems; and, (iv) eligible non-
+salary recurrent costs for these selected MDA.  Initially, allocations will be based on appraised 
+needs, within the overall project resource envelope, although this approach to allocation will be 
+subject to review over time and would evolve towards norm-based allocations with specific 
+and developmental objectives. All payments will be made directly into the bank accounts of the 
+respective staff or contractors. 
+                                                          
+15 Although, it should be noted that, as an interim measure, funds flow may not initially be channeled through CBS in all cases 
+until such time as CBS develops a functioning regional payment modality. 
+ 
+ 
+18
+61. 
+Sub-Component 2:2: Inter-governmental fora on transfers and information 
+exchanges (US$1.0 million).  As the constitutional framework and analytical basis are 
+developed, the project will support government to lay the foundations for a simple system of 
+inter-governmental dialogue, and associated resource transfers to strengthen inter-
+governmental trust, and, ultimately, of fiscal arrangements that promote greater equity in 
+resource distribution among federal and sub-national governments. This will also finance 
+technical assistance from FGS to support the interim and emerging states in inter-governmental 
+relations. 
+62. 
+Component 3: Support of recurrent costs in health and education sectors in FGS 
+and eligible member states, interim and emerging administrations (US$20.0 million). The 
+Project would support the FGS, Puntland and IJA to expand their service delivery systems 
+through improvement of accountability systems and support of recurrent costs in the education 
+and health sectors. The specific activities include financing: (i) the establishment of basic 
+accountability systems in both sectors (US$1.5 million); (ii) eligible salaries and allowances 
+for teachers and health workers from 2015 to 2020 (US$15.0 million); and, (iii) eligible non-
+salary recurrent costs in the sectors (US$0.5 million). 
+63. 
+The Project will finance the salaries and allowances of eligible health workers and 
+support the strengthening of the payroll system. In the education sector, in addition to 
+financing the salaries of eligible teachers, deputy head teachers, head teachers, regional 
+education officers (REOs) and district education officers (DEOs), the project will support 
+efforts to strengthen the public education delivery system so as to address the issues of access, 
+equity and quality in a sustained manner. In Puntland, the project will finance teachers, 
+including head teachers.  The project will also support incentive payments to a number of the 
+DEOs and REOs.  Based on defined criteria, these payments will be made ensuring that RCRF 
+financing of salaries does not replace existing community, donor and government of Puntland 
+financing of teacher salaries. 
+64. 
+In addition, the Project will support implementation of some key systemic steps 
+(including preparing a teacher recruitment, remuneration and career progression policy) in line 
+with the Education Sector Strategic Plan (ESSP) linking the system strengthening with the 
+financing of salary recurring costs.  This will ensure that all new teachers be recruited based on 
+criteria defined in the policy. Under the Project, technical assistance would also be provided to 
+strengthen the Education Management Information System (EMIS) in interim and emerging 
+states (Puntland and IJA), and some minimal hardware support may also be considered, 
+depending on need. If required, technical support to develop and implement the teacher 
+accountability framework will be financed under the Project.  
+65. 
+Component 4: Project management and coordination (US$9.0 million).  The 
+component would support coordination, administration, communication, management, 
+procurement, monitoring and evaluation (M&E), as well as impact-evaluation, auditing and 
+dissemination of Project activities in FGS, Puntland and the IJA.  It would finance dedicated 
+staff to cover administration, financial management, procurement and communications.  It 
+would also support efforts to develop and strengthen the Fiduciary Sections of the Offices of 
+Accountant General in FGS, Puntland, IJA and interim and emerging states through the 
+financing of equipment, furniture and fittings, capacity-building, technical assistance, and other 
+inputs as required. The Project would also support the Offices of the respective Auditor 
+Generals with technical assistance to provide annual audits, and support the CBS with 
+technical assistance to strengthen the payments systems.  
+ 
+ 
+19
+66. 
+The Project will undertake two impact evaluation (IE) studies.  The first evaluation 
+would look at Control Mechanisms for Non-salary Recurrent Expenses. Given the potential 
+for misuse of these expenditures and the fact that existing controls of these types of 
+expenditures are weak- despite new operational guidelines, including the use of an independent 
+agent- the evaluation would examine whether pre-announcing audits by the MA would change 
+the behavior of responsible officials. For some MDA, a high probability of an audit would be 
+announced and a low probability, or nothing at all, would be announced for others, and the IE 
+would observe and measure how different approaches influence mismanagement and corrupt 
+behavior.  The second study would cover the Linkages of pay to performance in the health 
+and education sectors. The Project would support the development and implementation of 
+accountability systems in both health and education, including the use of standard attendance 
+sheets and enhanced supervision protocols. The IE will question whether or not these mandated 
+checklists for health and education facilities differentiate performance, and, therefore, the 
+quality of service delivery.  The study will also look at how checklists for service delivery can 
+be made more effective through the introduction of independent party monitors. Last, the IE 
+would look at additional effects of capacity-building activities on administrators and inspectors 
+and determine how to use supervisor check lists effectively. 
+ 
+C. Project Financing 
+67. 
+The Project is prepared as an Investment Project Financing to be implemented by the 
+FGS, and sub-national regional authorities and financed from the Somalia MPF that is 
+administered by the International Development Association (IDA). The MPF operates in close 
+partnership with government, donors and international agencies, within the context of the new 
+Somalia Development and Reconstruction Facility (SDRF). Table 5 below shows total Project 
+costs and financing (according to component and year), while Table 9 in Annex 2 indicates 
+detailed total Project costs, disbursement percentages and the estimated amount of the MPF 
+grant each Project year. It is based on the following assumptions: (a) salaries in FGS for civil 
+servants are financed on a declining scale; (b) eligible expenditures for non-salary recurrent 
+costs are reimbursed at 100 percent-up to a maximum allocated balance; (c) transfers from 
+FGS to sub-regional authorities increase over the Project period; and (d) allocations and 
+expenditures on social service delivery in education and health increase over the Project 
+period.  
+68. 
+The MPF Grant is US$144.0 million over a five-year period.  MPF financing of the 
+project has been confirmed at US$24.0 million for calender year 2015.  Since the MPF must 
+have donor cash deposits in hand before any Project commitments can be made, the allocations 
+of US$30.0 million in 2016, 2017, 2018 and 2019 are indicative targets at this stage.  Should 
+these funds not be available at the required levels at the start of each project year, the 
+allocations to each Project component would be reduced and the MPF grant agreement 
+accordingly modified.  
+ 
+ 
+ 
+ 
+ 
+20
+Table 5: Total Projects Costs and Financing 
+Component 
+ 
+Annual Amount of MPF Grant 
+(US$ million) 
+Total Amount 
+(US$ million) 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+ 
+ 
+ 
+Indicative Amounts 
+ 
+COMPONENT 
+1: 
+Support 
+to 
+core 
+government functions of MDAs in FGS. 
+16.0 
+18.0 
+18.0 
+16.0 
+13.0 
+0.0 
+81.0 
+COMPONENT 2: Inter-governmental fiscal 
+transfers for core functions (grants from 
+FGS to eligible federal member states, 
+interim and emerging administrations).16 
+4.3 
+6.2 
+6.2 
+8.2 
+9.1 
+0.0 
+34.0 
+COMPONENT 3: Support of recurrent 
+costs in health and education sectors in FGS 
+and eligible federal member states, interim 
+and emerging administrations.17 
+2.0 
+4.0 
+4.0 
+4.0 
+4.2 
+1.8 
+20.0 
+COMPONENT 4: Project management and 
+coordination: Includes EAFS consultants; 
+workshops, 
+seminars, 
+training, 
+travel, 
+communications, translation of documents, 
+operational expenses, bank charges etc. 
+1.7 
+1.8 
+1.8 
+1.8 
+1.9 
+0.0 
+9.0 
+TOTAL 
+24.0 
+30.0 
+30.0 
+30.0 
+28.2 
+1.8 
+144.0 
+ 
+D. Lessons Learned and Reflected in the Project Design 
+69. 
+The design of the RCRFP Phase I took into consideration lessons learnt from 
+substantial international experience in supporting interventions in fragile and conflict-affected 
+countries in Africa and in other regions of the world. These lessons are still relevant to the 
+Phase II Project, and, in general, they indicate the need to keep project designs simple and to 
+have clear fiscal sustainability plans; i.e., linking the amount of recurrent cost financing to 
+clear revenue generation, expenditure controls, and budget management benchmarks.   
+70. 
+The Afghanistan Reconstruction Trust Fund (ARTF) was established in 2002 and is still 
+ongoing.  That project has put in place a well-structured and regular salary-payment system 
+that has a positive impact in supporting government reform processes and government 
+legitimacy. Similar to what is planned under the RCRF Phase II, the ARTF demonstrates how 
+budget and revenue generation targets can be a part of a broader dialogue of macro-fiscal 
+performance and stability and can be an incentive to enhance project financing. There are 
+similarities in Afghanistan and Somalia regarding the implementation challenges faced by 
+different provinces. These challenges, and appropriate mitigation measures, were taken into 
+                                                          
+16 The annual amounts of these transfer grants would have to be fully budgeted in FGSs Annual Approved Budget.   For 2015, 
+only US$3.0 million has been approved, hence a supplementary allocation would have to be approved by FGS before this 
+component can be fully financed under the project. 
+17 This component would be included in the approved annual budget of the FGS and transfers made to the appropriate sub-
+national authority.  
+ 
+ 
+21
+account in regard to the differences in governmental reach and control in Mogadishu versus 
+Puntland and IJA.  
+71. 
+Similarly, The Liberia Governance and Economic Management Assistance Program 
+(GEMAP) showed that, in a conflict country, it is crucial to protect the revenue streams of key 
+revenue-generating agencies and institutions, as well as to secure revenues from customs 
+duties, import levies, and taxes. This was accomplished in this project through a variety of 
+means, such as: deploying international experts with binding co-signatory rights and authority 
+to improve financial management system practices in selected institutions; and establishing 
+escrow accounts for revenue generation. Revenue generation and collection is pertinent for the 
+gradual reduction in financing of civil servants’ salaries under this project and informs the 
+proposed annual dialogue that is central to the project and the RCRF program in general. 
+72. 
+Experience in the Democratic Republic of Congo reveals that outsourcing of 
+implementation to technical partners, coupled with a clear exit strategy and the transfer of 
+ownership to the Government, is an effective transition strategy in fragile states and helps to 
+facilitate the achievement of “quick wins” during implementation. In the Somali context, this 
+“outsourcing” experience is seen in the role played by Somali Subject Matter Experts (SMEs) 
+who are consultants drawn mainly from the Somali Diaspora and bring with them extensive 
+technical and professional knowledge from abroad, coupled with a deep understanding of the 
+socio-political context of the country.  Clearly these SMEs have already provided the FGS with 
+some quick wins in establishing core functions in MDA under the RCRF Phase I Project. 
+Finding effective ways for SMEs to transfer their knowledge to Somali civil servants in 
+Puntland and the IJA, and providing appropriate incentives to retain the SMEs in service for 
+longer periods of time, is a strategic priority and objective that has been factored into this 
+Phase II Project and other MPF-funded projects.   
+73. 
+Last, the Sierra Leone Pay and Performance Project supported three reform areas: pay 
+reform; recruitment and staffing; and, performance management. It also financed civil 
+servants’ salaries, according to the pay structure. The most important lesson learned is that 
+recurrent salary support from the World Bank and donors to a country must be accompanied by 
+the recipient government’s commitment to salary-payment system reform (including civil 
+service recruitment, staffing and performance).  The linkages between the RCRF Project and 
+the PFM, Capacity Injection, and other projects (see below) confirm that these lessons have 
+been internalized and used in the design of the operation. 
+74. 
+The RCRFP Phase I Project is rated satisfactory, both in terms of the achievement 
+of development objective and the implementation progress.  All Project funds of US$16 
+million are almost fully disbursed and all Project activities are fully implemented. The phase II 
+Project will address the challenges encountered by the Special Financing Facility (SFF) and 
+RCRFP Phase I projects.  A detailed description of the Phase I Project Performance and 
+Experience is given in Annex 6.   
+ 
+E. Linkages with other Projects in Somalia  
+75. 
+This project is linked to the on-going World Bank/MPF-financed Public Financial 
+Management Capacity Strengthening Project (PFMCSP) and the Public Sector Capacity 
+Injection Project (CIP). The two projects are establishing controls that are critical in 
+supporting the control and payment processes for the RCRFP Project. The PFMCSP will 
+establish the PFM fundamentals to underpin the RCRFP and provide the much-needed 
+technical assistance for the Federal Government to meet the PFM commitments of the 
+ 
+ 
+22
+Financial Governance Program. The scale-up project under preparation involves the upgrade 
+of the payroll module of the SFMIS web-based technology in order to support the transfer of 
+payroll responsibilities from the CBS to the Accountant General’s department. The SFMIS 
+includes a framework for the Human Resource Management (HRM) module that will inform 
+payroll calculations and, subsequently, a common platform for the HRM-Payroll.  The 
+National Civil Service Commission (NCSC) will establish a comprehensive employee HR 
+database that will be linked to the payroll, building on the biometric verification currently 
+being done by the CBS. This would involve payment instructions to CBS to transfer funds to 
+the regulated commercial banking institutions to directly pay government workers, instead of 
+the current situation in which civil servants queue at the CBS to collect their salaries.  
+76. 
+The CIP will recruit Somali diaspora advisors, young graduates and managers into the 
+civil service, based on the recruitment policies, systems, guidelines, terms of reference and job 
+descriptions developed under the PFMCSP. It will also put in place credible data to support 
+payment of salaries under the RCRFP, based on harmonized salaries and allowances.   
+77. 
+The World Bank and IMF are leading in engaging the CBS in its payment system 
+and banking arrangements. These include support in establishing and finalizing 
+correspondent banking arrangements and relations with foreign financial institutions and due 
+diligence of respective financial institutions. In addition, the World Bank is supporting the 
+development of the FGC- a partnership between the FGS, MoF, CBS, and Office of the 
+President- and international financial institutions (i.e., the AFDB [African Development Bank], 
+World Bank and IMF- participating as an observer) to provide enhanced oversight of FGS 
+concessions and procurement, CBS strengthening, PFM reform, and the development of 
+adequate partnering in these areas. Figure 2 is a governance results chain which shows the 
+linkages between the outcomes of the proposed project and other projects being supported by 
+the World Bank. 
+78. 
+The Project also engages with projects and programs supported by other 
+Development Partners. The European Union (EU) has just completed an assessment of the 
+HR and payroll systems in Somalia. The NCSC, through support from other development 
+partners, is developing policies and procedures for maintaining establishment information with 
+pre-defined compensation entitlements (grade/pay and allowances), and this will further 
+strengthen payroll controls and ensure consistency between the nominal roll and the payroll. 
+ 
+ 
+ 
+ 
+ 
+23
+ 
+Figure 2: Somali Governance Results Chain 
+ 
+ 
+IV.   IMPLEMENTATION 
+A. Institutional and Implementation Arrangements 
+79. 
+The RCRF Phase II Project implementation arrangements.  The FGS will provide 
+strategic direction with respect to policy and financing. To avoid an overly complex structure 
+and to lower transaction costs, the Project will use existing aid coordination architecture under 
+Levels                                 Outcomes  
+Indicators 
+National 
+Compact 
+World Bank 
+Portifolio 
+PSG 5: Increased service delivery 
+that promote national peace and 
+reconciliation 
+ 
+Improved Core government functions & 
+capacity development 
+Projects & 
+Outcomes  
+Recurrent Cost Project: 
+Credible and sustainable 
+payroll and establish the 
+foundations for efficient 
+budget execution and 
+payroll systems for non-
+security sectors in FGS 
+and eligible sub-national 
+authorities 
+ 
+Capacity Injection 
+Project:  
+Strengthen the staffing 
+and institutional capacity 
+of selected line ministries 
+and central agencies to 
+perform core government 
+functions 
+PFM Project:  
+Establish institutional 
+capacity for the 
+management of public 
+funds in central 
+finance agencies and 
+targeted sectors 
+SOM-PREP II: 
+Strengthen bank 
+supervision legal 
+framework  
+ 
+1. Percentage of eligible  
+civil servants salaries 
+in non-security sectors 
+paid on time  
+2. Number of payroll 
+verification 
+undertaken by 
+independent agent  
+3. Share of the salaries of 
+non-security civil 
+servants financed by 
+government  
+4. Percentage annual 
+increase of inter-
+governmental 
+transfers to sub-
+national governments 
+in a year 
+ 
+1. Staff appointed to 
+key positions by the 
+CIM through 
+approved 
+procedure 
+2. Proportion of 
+injected staff 
+remaining in service 
+more than 12 
+months 
+3. Change 
+management plans 
+developed and at 
+least partially 
+implemented 
+4. Ministries/agencies 
+with operational 
+HR & FM 
+functions 
+ 
+1. Reduced variance 
+between actual 
+primary expenditure 
+and the originally 
+budgeted primary 
+expenditure 
+2. Time elapsed (in 
+months) between 
+end of period 
+covered and 
+submission of audit 
+reports to the 
+legislature 
+3. Percentage 
+increase in domestic 
+revenue collection 
+ 
+1. Commercial 
+banking legal and 
+regulatory 
+framework 
+operational 
+2. Operational 
+supervision 
+department in 
+Bank of 
+Somaliland 
+3. At least two 
+formal bank 
+licenses issued by 
+Central Bank of 
+Somalia 
+ 
+ 
+ 
+24
+the SDRF. The proposed governance arrangements will consist of a Project Steering 
+Committee, a Project Management Team and a PFM Reform Coordination Unit, which would 
+work closely with the EAFS team in the Offices of the Accountant General for project 
+implementation.  An EAFS team would support implementation in the FGS and Puntland and 
+subsequently in IJA and other sub-national entities as they are established and join the Project.  
+The Project would leverage the SSF, supported by multi donors, to pilot IJA salaries in year 1. 
+An independent agent is being engaged under the MPF umbrella. The FGS will engage a 
+project coordinator while each participating interim and emerging states will engage a project 
+manager that will be responsible for implementation in their entity. Implementation 
+arrangements for interim and emerging states will be updated when the authorities come into 
+existence and are included in the project. The details of Project implementation organizational 
+arrangements, agreed financial management and procurement processes and procedures-
+including the Flow of Funds- are outlined in Annex 3.  An Implementation Strategy and 
+Action Plan is given in Annex 5.  
+V.  KEY RISKS AND MITIGATION MEASURES 
+A. Risk Rating Summary  
+80. 
+A full Systematic Operations Risk-rating Tool (SORT) is outlined in Annex 4.  A 
+Summary is presented below. 
+Table 6: Summary SORT Assessment 
+ 
+Risk Category 
+Rating 
+1. 
+Political and governance 
+Substantial 
+2. 
+Macroeconomic 
+High 
+3. 
+Sector Strategies and Policies 
+Substantial 
+4. 
+Technical design of project or program 
+Substantial 
+5. 
+Institutional capacity for implementation and sustainability 
+Substantial 
+6. 
+Fiduciary 
+High 
+7. 
+Environment and social 
+Low 
+8. 
+Stakeholders 
+Substantial 
+9. 
+Others (security) 
+High 
+10. Overall Implementation Risk 
+High 
+ 
+B. Overall Risk Rating Explanation 
+81. 
+The overall risk rating for the Project is high.  Somalia is a high-risk environment 
+and careful management of risks is required.   Major country risks include bad governance and 
+corruption, the volatile security situation, incessant instability because of an active insurgency 
+led by Al-Shabab, and weak capacity to manage projects. This could have a number of direct 
+ 
+ 
+25
+and indirect impacts on the program, ranging from periodic travel restrictions to a direct attack 
+by Al-Shabab on Government institutions, including the CBS- the primary pay-point for civil 
+servants. Given the declining scale of project funding of salaries, the sustainability of salary 
+payments and full takeover by the end of the Project is a major risk.  The program will mitigate 
+these risks by taking account of regular security advice issued by the World Bank and UN, and 
+by relying heavily on the more flexible security arrangements and access arrangements by the 
+independent agent engaged for all MPF projects to ensure that implementation can continue 
+when staff travel is restricted. The project will also rely on the security measures that the FGS 
+has taken to protect the CBS and other core PFM institutions from attack. An early mid-term 
+review, after eighteen months of implementation, will include budget, revenue and inter-
+governmental fiscal discussions to assess the sustainability of salary payments by the 
+government. 
+VI. 
+APPRAISAL SUMMARY   
+A.  Economic and Financial Analysis  
+82. 
+The usual economic and financial analysis for this Project was not carried out, 
+given the paucity of economic data, the ongoing conflict and fragility in southern Somalia, 
+and the uncertainty in determining costs and benefits. However, the implementation of the 
+Project would increase the legitimacy and functionality of the State and bring benefits to the 
+public. The payment of salaries and support of expenditures in the social sectors, particularly 
+health and education, is an essential precondition for the restoration of public confidence in the 
+legitimacy of state structures and could support a peaceful State, with security dividends 
+resulting from the improved fiscal position of recipient governments. This will also reduce the 
+accumulation of State financial obligations, particularly arrears that are a fiscal challenge for 
+the FGS and regional governments. Leveraging the lessons from implementation of the Project, 
+Phase I – which has been incorporated in the current design, - the impact is likely to further 
+enhance State legitimacy.  More so, an impact evaluation will be conducted to assess improved 
+social service performance, and will provide the foundation for strengthening service delivery 
+systems. 
+83. 
+Sustainability and restoration of key economic institutions will be essential for 
+growth and development in Somalia. The long-term challenge for all recurrent financing 
+instruments is the Government’s own fiscal sustainability. The Government has stated the 
+policy goal of financing existing recurrent costs (reflected in the 2014 budget), or ‘core costs,’ 
+entirely from domestic resources as soon as feasible. The Project supports: regular discussion 
+of the budget, prioritization, revenue generation and expenditure controls; a forum for dialogue 
+with the regions on the readiness criteria for inter-governmental fiscal transfers; payroll and 
+payments systems reforms; and, the development of the CBS’s proper role as fiscal and 
+financial agent to the FGS, supporting the transition of payroll execution within the CBS to 
+payroll execution within the Ministry of Finance. 
+B. Technical Evaluation 
+84. 
+The Project is an integral part of the World Bank and donor community response 
+to the government’s urgent need to foster socio-economic recovery and stabilization. It 
+will do this by supporting the payment of civil service salaries and the running costs of 
+government institutions, and financing technical assistance. The Project is based on a simple 
+technical design, which takes into account the country’s weak capacity and the right balance 
+between rapid results (payment of salaries of non-security staff for the establishment of public 
+ 
+ 
+26
+services) and medium-term objectives to ensure sustainability. The technical design includes 
+an internal control framework to institute controls in payments of salaries and non-salary 
+recurrent cost expenditures in the civil service. 
+C. Financial Management 
+85. 
+The financial management risk is assessed as High. This is confirmed in the JNA-
+RDP and the PFM Needs Assessment which recognizes that systems managing public 
+resources are very weak with a rudimentary, unregulated banking sector, high potential for 
+money-laundering and vulnerability to acts of financial and other kinds of terrorism.  In 
+addition, there is the potential of restricted movement, high insecurity and volatility due to 
+active Al-Shabaab-led insurgency. While recognizing this, the Bank will work closely with the 
+government to support and strengthen the Use of Country Systems (UCS) without creating 
+parallel arrangements and in line with the provisions of the “Somalia New Deal”. The FM 
+arrangements will be continuously monitored through frequent FM supervisions and 
+independent monitoring, and will be updated to reflect the emerging developments in the FM 
+systems. A detailed description of the project financial management system and flow of funds 
+arrangements are detailed in Annex 3.  
+ 
+D. Procurement 
+86. 
+The procurement risk is assessed as high. Procurement for the Project will be carried 
+out in accordance with the EAFS Operational Manual and the latest revision of the World Bank 
+Procurement Guidelines. The detailed procurement assessment is given in Annex 3 and 
+includes a simplified procurement plan for Project implementation. 
+ 
+E. Social Impact (including Safeguards)  
+87. 
+The timely payment of civil servant salaries supported by this Project is expected 
+to have a positive social impact. Phase I directly benefited up to 4,000 households in and 
+around the Benadir region of southern Somalia. This Phase II Project will extend those benefits 
+to other regions and Federal Member States (Puntland and IJA). Additionally, the support to 
+non-recurrent cost expenditures in the health and education sectors will support service 
+delivery and have a positive social impact on the populace.  
+ 
+F. Environmental Impact (including Safeguards) 
+88. 
+The activities supported by the Project will have no adverse environmental 
+impacts. The Project is therefore classified as Environmental Category C. No specific 
+environmental safeguard instrument will be required. Consequently, World Bank policies in 
+this area are not triggered. 
+ 
+G. World Bank Grievance Redress  
+89. 
+Communities and individuals who believe that they are adversely affected by a World 
+Bank (WB)-supported project may submit complaints to existing project-level grievance 
+redress mechanisms or the WB’s Grievance Redress Service (GRS). The GRS ensures that 
+complaints received are promptly reviewed in order to address project-related concerns. 
+Project-affected communities and individuals may submit their complaints to the WB’s 
+independent Inspection Panel that determines whether harm occurred, or could occur, as a 
+result of WB non-compliance with its policies and procedures. Complaints may be submitted at 
+ 
+ 
+27
+any time after concerns have been brought directly to the World Bank's attention, and Bank 
+Management has been given an opportunity to respond.  For information on how to submit 
+complaints to the World Bank’s corporate GRS, please visit http://www.worldbank.org/GRS. 
+For information on how to submit complaints to the World Bank Inspection Panel, please visit 
+www.inspectionpanel.org. 
+ 
+ 
+ 
+28 
+ 
+SOMALIA: Recurrent Cost and Reform Financing Project: Phase II 
+Annex 1: Results Framework and Monitoring 
+ 
+Project Development Objectives 
+ 
+The Development Objective of the project is to support the government to provide credible and sustainable payroll and to establish the foundation for efficient budget 
+execution and payment systems for the non-security sectors in FGS and eligible federal member states, interim and emerging administrations. 
+ 
+Project Development Objective Indicators 
+ 
+ 
+ 
+ 
+ 
+Target Values 
+Frequency 
+Data Source/ 
+Methodology 
+Responsibility for Data 
+Collection 
+Indicator Name 
+Core Unit of Measure 
+Baseline 
+ 
+2016 
+ 
+2017 
+ 
+2018 
+ 
+2019 
+ 
+2020 
+End 
+Target 
+ 
+ 
+ 
+1. Percentage of eligible 
+civil servants’ salaries 
+in non-security sectors 
+paid on time18  
+ Percentage 
+ 
+0 
+ 
+30 
+ 
+ 
+50 
+ 
+ 
+70 
+ 
+80 
+ 
+80 
+ 
+80 
+Monthly 
+Progress Report and MA 
+Advisory Report 
+EAFS/Office of Accountant 
+General; Independent agent 
+2. Number of payroll 
+verifications 
+undertaken by 
+independent agent 
+ 
+ 
+Number 
+ 
+6 
+ 
+10 
+ 
+ 
+14 
+ 
+ 
+ 
+18 
+ 
+22 
+ 
+26 
+ 
+26 
+ 
+Quarterly 
+Progress Report and MA 
+Advisory Report 
+EAFS/Office of Accountant 
+General; Independent agent 
+3. 
+The share of the 
+salaries of the non-
+security civil servants 
+financed by the 
+government 
+ 
+Percentage 
+0 
+30 
+ 
+ 
+40 
+ 
+ 
+60 
+80 
+100 
+100 
+Annual 
+Government Budget, 
+Progress Report and MA 
+Advisory Report 
+EAFS/Office of Accountant 
+General; independent agent 
+4. 
+Percentage annual 
+increase of inter-
+governmental transfers 
+to sub-national 
+governments 
+ 
+Percentage 
+ 
+ 
+0 
+ 
+ 
+10 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+20 
+ 
+ 
+40 
+ 
+ 
+50 
+ 
+ 
+50 
+ 
+ 
+Annual 
+Government Budget, 
+Progress Report and MA 
+Advisory Report 
+EAFS/Office of Accountant 
+General; independent agent 
+ 
+ 
+                                                          
+18 Paid on time means ready for payment with the CBS or the commercial bank between the government statutory pay period of 25th and 30th of the month 
+ 
+29 
+ 
+Intermediate Results Indicators
+Indicator Name 
+Core 
+ 
+ 
+Cumulative Target Values 
+ 
+Data Source/ Responsibility for 
+ 
+ 
+Unit of 
+Measure Baseline 
+ 
+ 
+2016 
+ 
+ 
+2017 
+ 
+ 
+2018 
+ 
+ 
+2019 
+ 
+ 
+2020 
+ 
+End 
+Target 
+Frequency 
+Methodology Data Collection 
+5. Number of monthly payroll 
+reports published on MoF 
+website 
+ 
+Number 
+4 
+12 
+12 
+12 
+12 
+12 
+12 
+Monthly 
+Progress 
+Report and 
+MA Advisory 
+Report 
+EAFS and 
+Independent agent 
+6. Establishment of payment 
+systems by the Central Bank 
+of Somalia/ Dahabshiil 
+International Bank 
+ 
+Yes/No 
+No 
+Yes 
+Yes 
+Yes 
+Yes Yes 
+Yes 
+Bi-Annual 
+Progress 
+Report, 
+Central Bank 
+of Somalia 
+Central Bank of 
+Somalia/EASF/Office 
+of Accountant 
+General 
+7. Verified reimbursements of 
+non-salary recurrent cost 
+expenditures  
+ 
+ 
+Number  
+0 
+12 
+12 
+12 
+12 
+12 
+60 
+Monthly 
+Progress 
+Report, MA 
+Advisory 
+Report; MoF 
+website 
+EAFS and 
+independent agent 
+8. 
+Number of annual inter-
+governmental fiscal transfer 
+dialogues held 
+ 
+Number 
+0 
+3 
+3 
+3 
+3 
+1 
+13 
+Quarterly 
+Progress 
+Report 
+EAFS and Office of 
+Accountant General 
+9. Fully functional EMIS with 
+integrated teacher profile and 
+HR System 
+ 
+Yes/No 
+No 
+IT-based 
+payroll system 
+adopted 
+ 
+Teacher recruitment 
+policy developed 
+  
+Teachers 
+recruited 
+under 
+new 
+policy  
+Yes  Yes 
+Yes 
+Annual 
+Progress 
+report 
+MoE 
+ 
+ 
+ 
+ 
+30 
+ 
+Somalia: Recurrent Cost and Reform Financing Project: Phase II 
+Annex 2: Detailed Project Description 
+1. 
+The project has four components 
+2. 
+Component 1:  Support to core government functions in MDA of FGS (US$81.0 million).  
+The Project will finance: (i) salaries of eligible non-security-sector civil servants in the MDA, 
+including teachers and health sector workers; (ii) the cost of staff injected under the capacity injection 
+mechanism (CIM); and, (iii) non-salary operating costs for MDA. 
+3. 
+Sub-Component 1:1: Financing of eligible civil service salaries in non-security sectors in 
+FGS (US$49.0 million). The Project would finance the salaries of non-security-sector civil servants on 
+a declining scale over the project implementation period, with the objective that these would be phased 
+out by the end of the Project when the government will ultimately finance all civil service salary 
+payments from its domestic revenues. The independent agent will carry out a detailed review of 100 
+percent of the government civil service salary expenditures confirming that expenditures are eligible 
+and meet agreed procurement and control procedures—including, processing through the SFMIS. Any 
+ineligible salary payment will be reduced from the Project’s contribution for the month. From January 
+2016, payment of salaries to the civil servants is expected to be through their various bank accounts.  
+The project will support the CBS in establishing the necessary payment systems and arrangements to 
+facilitate this process. 
+4. 
+Sub-Component 1:2: Financing of salaries and allowances to government staff and young 
+graduates recruited under the CIM in FGS (US$17.0 million).  The Project would finance the 
+salaries and allowances of a cadre of critical advisory, managerial and technical staff to fill urgent 
+staffing gaps identified by the FGS through the CIM.  It will also pay salaries and allowances of a 
+number of young graduates who are expected to be absorbed into the civil service.  All salary 
+payments for government contracts will be made through the regular payroll process. Staff will be 
+recruited through a central mechanism and at enhanced pay scales on the basis of an agreed salary 
+structure developed under the CIM.  Recruitment will draw from national, regional and diaspora 
+sources. Core government functions that will be strengthened include: (i) policy and strategy 
+management (planning, implementation and M&E); (ii) financial management (budgeting, accounting 
+and auditing); (iii) procurement management; (iv) revenue mobilization; and (v) human resource 
+management.  Beneficiary institutions and eligible positions will be identified with support of the 
+World Bank and UNDP Capacity Injection Projects on the basis of agreed criteria.  
+5. 
+In the FGS, the estimated number of government staff and young graduates to be financed over 
+the course of five years is expected to be 525 and their estimated salaries would cost US$17.0 million 
+over five years.  These include 15 senior advisers, 30 technical advisers, 30 senior managers, 75 
+middle level management staff and 375 young graduates. Table 3 below shows the number and 
+projected salary and allowance costs for government staff and young graduates under the CIM. 
+ 
+ 
+ 
+31 
+ 
+Table 7: Projected Annual and Total Salary and Allowance Costs for Staff recruited through the 
+Capacity Injection Mechanism over the Five-year Project Period 
+  
+Total 
+number of 
+staff & 
+young 
+graduates 
+recruited 
+under 
+CIM 
+Estimated Annual Salary Costs 
+US$ 
+ 
+Projected 
+Total 
+Salary 
+costs for 
+five years 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+FGS 
+ 
+ 
+525 
+  
+2,000,000 
+4,000,000 
+5,000,000 
+4,000,000 2,000,000 17,000,000 
+ 
+6. 
+Sub-Component 1:3:  Financing of eligible non-salary recurrent costs for MDA in the FGS 
+(US$15.0 million).  The efficient operation of the MDA requires resources for non-salary operations 
+costs, including rent, petrol, oil and lubricants, repair and maintenance of vehicles and equipment, 
+office materials, travel of civil servants, and utilities.  The existing controls on these types of 
+expenditure are weak, particularly in respect to confirmation of actual expenditures incurred. A 
+government Task Force has developed processes and procedures for the procurement of these goods 
+and services with appropriate financial management and payment controls that ensure transparency, 
+competition and accountability (Annex 7).  All non-salary recurrent cost expenditures would be paid 
+by the government and reimbursed every two months by the Bank, based on a detailed review of 100 
+percent of these expenditures by the independent agent, confirmation that the expenditures are eligible, 
+and that they have met agreed procurement and control procedures.  
+7. 
+Component 2: Inter-governmental fiscal transfers for core government functions in 
+eligible federal member states, interim and emerging administrations (US$34.0 million).  RCRFP 
+sub-national financing will reward accountable and transparent government in line with RCRFP 
+broader principles and would be through an inter-governmental fiscal transfer, reflected in the FGS 
+budget appropriation.  Regions and federal member states will need to comply with clearly defined 
+readiness criteria before receiving financing. These criteria cover the following dimensions: (a) macro-
+fiscal, including fiscal, assessments; (b) PFM; (c) public administration; and, (d) social service delivery 
+impact. Table 4 below outlines the criteria. It is expected that RCRFP financing would be accompanied 
+by matching funds for targeted service delivery expansion. The readiness criteria will be based on 
+consultations with FGS and eligible federal member states, interim and emerging administrations, and 
+will be updated on an annual basis to ensure that states adapt to the rapidly evolving country context, 
+and to manage the trade-off between the urgent imperative to deliver expanded basic public services 
+while also maintaining minimum fiscal and fiduciary management practices and systems in recipient 
+governments. Essentially, the criteria form the basis for inter-governmental fiscal transfer under the 
+project.  
+ 
+ 
+ 
+32 
+ 
+Table 8: Proposed Dimensions, Challenges and Objectives for Readiness Criteria 
+ 
+8. 
+Sub-Component 2:1: Transfers to interim and emerging states for core government 
+functions (US$33.0 million).  This will support core government functions in the Puntland State, IJA 
+and other interim and emerging states (including Interim Southwest Administration, Interim Central 
+States Administration, and the Interim South Central East Administration), based on meeting the 
+eligibility criteria as detailed in annex 7.  The Project, through the transfer grant from FGS to Puntland, 
+IJA and other interim and emerging states (as they emerge), will finance: (i) reforms to meet readiness 
+criteria; (ii) a pilot program to finance eligible non-military civil service salaries in selected MDA; (iii) 
+salaries and allowances to government staff and young graduates recruited under the Capacity 
+Injection Mechanism (CIM) in interim and emerging states; and (iv) non-salary recurrent costs for 
+these selected MDA. Initially, allocations will be based on 

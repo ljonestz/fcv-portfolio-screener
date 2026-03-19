@@ -1,0 +1,2269 @@
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD3015  
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+ 
+PROPOSED GRANT 
+(PRE-ARREARS CLEARANCE GRANT) 
+IN THE AMOUNT OF SDR 12.9 MILLION 
+ 
+(US$18 MILLION EQUIVALENT) 
+TO THE 
+FEDERAL REPUBLIC OF SOMALIA 
+FOR A 
+ SOMALIA CAPACITY ADVANCEMENT, LIVELIHOODS AND ENTREPRENEURSHIP, 
+THROUGH DIGITAL UPLIFT PROJECT  
+February 22, 2019 
+Finance, Competitiveness, and Innovation Global Practice 
+Africa Region 
+ 
+ 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+Exchange Rate Effective January 31, 2019 
+ 
+Currency Unit = Somali Shilling 
+SOS 578 = US$1 
+US$1.40 = SDR 1 
+ 
+January 1 – December 31 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ALM 
+Assets and Liabilities Management 
+AMC 
+Annual Maintenance Contract 
+AML/CFT 
+Anti-Money Laundering and Countering Financing of Terrorism  
+AMISOM 
+African Union Mission in Somalia 
+ATS 
+Automated Transfer System 
+BDS 
+Business Development Services 
+CBS 
+Central Bank of Somalia 
+CDD 
+Customer Due Diligence  
+CPF 
+Country Partnership Framework 
+DA 
+Designated Account 
+DE4A 
+Digital Economy for Africa 
+DFI 
+Development Finance Institution 
+E&S 
+Environmental and Social 
+EAFS 
+External Assistance Fiduciary Section 
+ESMF 
+Environmental and Social Management Framework 
+ESMS 
+Environmental and Social Management System 
+FATF 
+Financial Action Task Force 
+FCV 
+Fragility, Conflict, and Violence 
+FGS 
+Federal Government of Somalia 
+FIDEP 
+Financial Institutions Development Program 
+FIDP 
+Financial Institutions Development Plan 
+FIL 
+Financial Institutions Law 
+FIU 
+Financial Intelligence Unit 
+FM 
+Financial Management 
+FMIS 
+Financial Management Information System 
+FMS 
+Federal Member States 
+FRC 
+Financial Reporting Center 
+G2P 
+Government-to-Person 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+ 
+ 
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GEEL 
+Growth, Enterprise, Employment, and Livelihoods 
+GRM 
+Grievance Redress Mechanism 
+HIPC 
+Heavily Indebted Poor Country 
+ICT 
+Information and Communications Technology 
+ID4D 
+Identification for Development 
+IDP 
+Internally Displaced Person 
+IFC 
+International Finance Corporation 
+IFR 
+Interim Financial Report 
+IMF 
+International Monetary Fund 
+IPSAS 
+International Public Sector Accounting Standards 
+IRR 
+Internal Rate of Return 
+IRU 
+Indefeasible Right of Use 
+ISA 
+International Standards on Auditing 
+KYC 
+Know Your Customer 
+LEA 
+Law Enforcement Agency 
+M&E 
+Monitoring and Evaluation 
+MDAs 
+Ministries, Departments, and Agencies 
+MEF 
+Monitoring and Evaluation Framework 
+MFD 
+Maximizing Finance for Development 
+MFI 
+Microfinance Institution 
+MIS 
+Management Information System 
+MNO 
+Mobile Network Operator  
+MoCI 
+Ministry of Commerce and Industry 
+MoF 
+Ministry of Finance 
+MoIFAR 
+Ministry of Interior, Federal Affairs, and Reconciliation 
+MOU 
+Memorandum of Understanding 
+MPF 
+Multi-Partner Fund 
+MPTT 
+Ministry of Posts, Telecommunications, and Technology 
+MSMEs 
+Micro, Small, and Medium Enterprises 
+MTB 
+Money Transfer Business 
+MTO 
+Money Transfer Operator 
+NADRA 
+National Database and Registration Authority 
+NCA 
+National Communications Authority 
+NDP 
+National Development Plan 
+NGO 
+Nongovernmental Organization 
+NPL 
+Nonperforming Loan 
+NPS 
+National Payment Systems 
+NPV 
+Net Present Value 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+ 
+ 
+NRA 
+National Risk Assessment 
+OSS 
+One-Stop Shop 
+PACG 
+Pre-Arrears Clearance Grant  
+PAFS 
+Project Annual Financial Statement 
+PDO 
+Project Development Objective 
+PFI 
+Participating Financial Institution 
+PFM 
+Public Financial Management 
+PIU 
+Project Implementation Unit 
+POM 
+Project Operations Manual 
+PP 
+Procurement Plan 
+PPA 
+Public Procurement, Concessions, and Disposal Act 
+PPD 
+Public-Private Dialogue 
+PPSD 
+Project Procurement Strategy for Development 
+PSC 
+Project Steering Committee 
+QPR 
+Quarterly Progress Report 
+RA 
+Reflows Account 
+RegTech 
+Regulatory Technology 
+SBCF 
+Somali Business Catalytic Fund 
+SCALED-UP 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital 
+Uplift Project 
+SCoA 
+Standard Chart of Accounts 
+SCORE 
+Somali Core Economic Institutions and Opportunities Project 
+SEAP 
+Somali Electricity Access Project 
+SMEs 
+Small and Medium Enterprises 
+SMEF 
+SME Facility 
+SMP 
+Staff Monitored Program 
+SMPF 
+Somalia Multi-Partner Fund 
+SOE 
+Statement of Expenditure 
+SomaliREN 
+Somalia Research and Education Network 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TA 
+Technical Assistance 
+TOR 
+Terms of Reference 
+TTL 
+Task Team Leader 
+TTWG 
+Tripartite Technical Working Group 
+UNDB 
+United Nations Development Business 
+UNDP 
+United Nations Development Programme 
+WFP 
+World Food Programme 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Bella Bird 
+Senior Global Practice Director: Sebastian Molineus 
+Practice Manager: Niraj Verma 
+Task Team Leader(s): Thilasoni Benjamin Musuku, Axel Rifon Perez 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+TABLE OF CONTENTS 
+DATASHEET ........................................................................................................................... 1 
+I. STRATEGIC CONTEXT .......................................................................................................... 7 
+A. Country Context ............................................................................................................................... 7 
+B. Sectoral and Institutional Context ................................................................................................ 10 
+C. Relevance to Higher Level Objectives ........................................................................................... 15 
+II. PROJECT DESCRIPTION ..................................................................................................... 17 
+A. Project Development Objective .................................................................................................... 17 
+B. Project Components ...................................................................................................................... 17 
+C. Project Beneficiaries ...................................................................................................................... 24 
+D. Results Chain .................................................................................................................................. 25 
+E. Rationale for World Bank Group Involvement and Role of Partners ........................................... 26 
+F. Lessons Learned and Reflected in the Project Design ................................................................... 28 
+III. IMPLEMENTATION ARRANGEMENTS .............................................................................. 30 
+A. Institutional and Implementation Arrangements ........................................................................ 30 
+B. Results Monitoring and Evaluation Arrangements ...................................................................... 32 
+C. Sustainability .................................................................................................................................. 32 
+IV. PROJECT APPRAISAL SUMMARY ..................................................................................... 33 
+A. Technical, Economic, and Financial Analysis ................................................................................ 33 
+B. Fiduciary ......................................................................................................................................... 38 
+C. Safeguards ...................................................................................................................................... 38 
+V. KEY RISKS ........................................................................................................................ 41 
+VI. RESULTS FRAMEWORK AND MONITORING ..................................................................... 45 
+ANNEX 1: IMPLEMENTATION SUPPORT PLAN AND FIDUCIARY ARRANGEMENTS .................. 57 
+ANNEX 2: DESCRIPTION OF COMPONENTS ........................................................................... 71 
+ANNEX 3: RECENT MONETARY AND FINANCIAL SECTOR DEVELOPMENTS ............................. 86 
+ANNEX 4: FINANCIAL INTERMEDIARY FINANCING ................................................................ 92 
+ANNEX 5: GENDER ANALYSIS ............................................................................................. 105 
+ANNEX 6: DIGITAL ID and MSME FINANCING FACILITY RISKS ASSESSMENT ......................... 111 
+ANNEX 7: TEAM LIST .......................................................................................................... 118 
+ANNEX 8: MAP OF SOMALIA .............................................................................................. 119 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+  
+Page 1 of 119 
+ 
+ 
+     
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift 
+Project (SCALED-UP) 
+Project ID 
+Financing Instrument 
+Environmental Assessment Category 
+Process 
+P168115 
+Investment Project 
+Financing 
+B-Partial Assessment 
+Urgent Need or 
+Capacity Constraints 
+(FCC) 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-linked Indicators (DLIs) 
+[  ] Small State(s) 
+[✓] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+07-Mar-2019 
+30-Jun-2023 
+Bank/IFC Collaboration    
+Joint Level 
+Yes 
+Complementary or Interdependent project requiring active coordination 
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective (PDO) is to support progress towards increased access to basic digital financial 
+and government services targeting entrepreneurship and employment, particularly for women. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 2 of 119 
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Strengthening Institutions  
+7,000,000.00 
+ 
+Enabling Financial and Digital Services  
+20,000,000.00 
+ 
+Project Management and Coordination  
+4,000,000.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Ministry of Finance, Federal Republic of Somalia  
+Implementing Agency: 
+ Ministry of Finance, Federal Republic of Somalia  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+31.00 
+Total Financing 
+31.00 
+of which IBRD/IDA  
+18.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+18.00 
+          IDA Grant 
+18.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+13.00 
+          Somalia Multi-Partner Fund 
+13.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 3 of 119 
+ 
+ National PBA 
+   0.00 
+  18.00 
+   0.00 
+  18.00 
+Total 
+   0.00 
+  18.00 
+   0.00 
+  18.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+2019 
+2020 
+2021 
+2022 
+2023 
+Annual 
+ 
+ 
+ 
+ 
+ 
+   0.50 
+   3.66 
+   3.93 
+   4.41 
+   5.50 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+   0.50 
+   4.16 
+   8.09 
+  12.50 
+  18.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Finance, Competitiveness and Innovation 
+Transport 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+Gender Tag 
+Does the project plan to undertake any of the following? 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of 
+country gaps identified through SCD and CPF 
+Yes 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or 
+men's empowerment 
+Yes 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+Yes 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ High 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Substantial 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 4 of 119 
+ 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ High 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ Substantial 
+8. Stakeholders 
+⚫ Substantial 
+9. Other 
+ 
+10. Overall 
+⚫ High 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+✔ 
+   
+Performance Standards for Private Sector Activities OP/BP 4.03 
+  
+✔  
+Natural Habitats OP/BP 4.04 
+  
+✔  
+Forests OP/BP 4.36 
+  
+✔  
+Pest Management OP 4.09 
+  
+✔  
+Physical Cultural Resources OP/BP 4.11 
+  
+✔  
+Indigenous Peoples OP/BP 4.10 
+  
+✔  
+Involuntary Resettlement OP/BP 4.12 
+  
+✔  
+Safety of Dams OP/BP 4.37 
+  
+✔  
+Projects on International Waterways OP/BP 7.50 
+  
+✔  
+Projects in Disputed Areas OP/BP 7.60 
+  
+✔  
+ 
+Legal Covenants 
+  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 5 of 119 
+ 
+ Sections and Description 
+The Recipient shall not later than 30 days after the Effective Date, establish and thereafter, maintain throughout 
+the project implementation, the Project Steering Committee with a mandate, resources, terms of reference and 
+functions, satisfactory to the Association. 
+ 
+ 
+ 
+ Sections and Description 
+The Recipient shall, not later than October 31 of each year prepare and furnish to the Association, a consolidated 
+annual program of activities proposed for implementation under the Project during the following Fiscal Year, 
+together with a proposed budget for the purpose. 
+ 
+ 
+ 
+ Sections and Description 
+The Recipient shall furnish to the Association each Project Report not later than forty-five (45) days after the end of 
+each calendar semester, covering the calendar semester. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Description 
+Effectiveness 
+The Recipient shall have (i) established the MSME Financing Facility, in form and substance 
+satisfactory to the World Bank;  and (ii) appointed to said MSME Financing Facility a 
+governing board consisting of members drawn from the private and public sector, all with 
+qualifications, terms of reference and functions, acceptable to the Association; and (iii) 
+recruited to said MSME Financing Facility adequate staff in accordance with the provisions of 
+the Procurement Regulations. 
+ 
+Type 
+Description 
+Effectiveness 
+The Subsidiary Agreement, acceptable to the World Bank, shall have been duly executed and 
+delivered on behalf of the Recipient and the  MSME Financing Facility and shall have become 
+effective and binding upon such parties in accordance with its respective terms. 
+ 
+Type 
+Description 
+Effectiveness 
+The Recipient has submitted, in form and substance satisfactory to the World Bank, its policy 
+statement regarding its digital identity system, including data protection; 
+ 
+Type 
+Description 
+Effectiveness 
+The Recipient has prepared and adopted, in form and substance satisfactory to the World 
+Bank, the Project Operational Manual. 
+ 
+ 
+ 
+Type 
+Description 
+Effectiveness 
+Effectiveness of each Agreement: (1) For the Financing Agreement:  “the SMPF Grant 
+Agreement has been executed and delivered and all conditions precedent to its effectiveness 
+or to the right of the Recipient to make withdrawals under it have been fulfilled.”; and (2) For 
+the SMPF Grant Agreement: “the Financing Agreement has been executed and delivered and 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 6 of 119 
+ 
+all conditions precedent to its effectiveness or to the right of the Recipient to make 
+withdrawals under it have been fulfilled." 
+ 
+Type 
+Description 
+Disbursement 
+For payments made prior to the date of the Grant Agreement, or payments under the line of 
+credit, no withdrawal shall be made unless: (i) a technical and fiduciary (procurement and 
+financial management) assessment of MSME Financing Facility (as an implementing entity for 
+the financial intermediary), has been carried out, in a manner acceptable to the Association; 
+(ii) a Project Agreement has been executed between the Association and the MSME 
+Financing Facility; and (iii) the MSME Subproject Manual (forming an annex or schedule to 
+the Project Operations Manual) is prepared and submitted, in form and substance 
+satisfactory to the Association. 
+ 
+Type 
+Description 
+Disbursement 
+For payments under the large loans window for MSMEs no withdrawal shall be made unless 
+the Technical Agreement has been executed between the IFC and the MSME Financing 
+Facility. 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 7 of 119 
+ 
+. 
+I. STRATEGIC CONTEXT 
+A. Country Context 
+1. 
+Somalia remains a fragile country despite the substantial progress made in recent years to lay 
+the foundations for stability and development. Since 2011, Somalia has had a sustained period of 
+political, economic, and security-related progress. Consequently, the country has a unique opportunity to 
+escape from decades of conflict and fragility, and the Government is demonstrating a strong commitment 
+to wide-ranging institutional and economic reforms. Yet, substantial challenges remain, including access 
+barriers to services enabling economic opportunities, reconciliation, security sector reform, widespread 
+malnutrition, recurrent drought, and poverty. Limited fiscal space constrains service delivery by the 
+Federal Government of Somalia (FGS) leading to low trust in the state. The United Nations Population 
+Fund’s Population Estimate Survey in 2014 produced the first population estimates for Somalia in many 
+years. Total population was estimated at 12.4 million—42 percent urban, 26 percent nomadic, 23 percent 
+rural, and 9 percent displaced. In 2017, Somalia’s population was about 14 million, and it is estimated that 
+about 69 percent of the population is poor.1 A poverty gap of 29 percent suggests that the consumption 
+levels of many of the poor are far from the poverty line and they face deprivations in both monetary and 
+non-monetary dimensions.2 
+2. 
+Somalia’s economic development challenges are equally daunting, and growth remains 
+insufficient for reducing vulnerability for a large segment of the population. With an estimated per 
+capita gross domestic product (GDP) of US$511 in 2017,3 Somalia remains one of the poorest countries in 
+the world. Despite the perpetual civil conflict, the economy has grown at a moderate pace, averaging 2.5 
+percent, real GDP growth in 2013–17. Growth is mainly consumption driven, enabled by large remittance 
+and aid inflows (US$1.4 billion4 and US$1.75 billion,5 respectively in 2017), while construction, 
+telecommunications, and money transfer services have been the key growth sectors. The diaspora 
+remittances enable household consumption at 132 percent of GDP and represent an important 
+component of income for the bottom 40 percent of households.6 Low electrification rates, especially in 
+rural areas, are one of the key constraints for economic growth in Somalia. 
+3. 
+Unemployment is widespread within Somalia’s young population. With 70 percent of the 
+population below the age of 30,7 youth unemployment is at 74 percent and 61 percent for women and 
+men, respectively.8 Similarly, for persons with disabilities, unemployment is widespread.  In this setting, 
+remittances and humanitarian aid alone are not sufficient to support the development of sustainable 
+livelihoods that are necessary for poverty reduction and mitigation of political, social, and economic 
+vulnerability. The domestic economy and many local livelihoods are dependent on the livestock sector, 
+                                            
+1 World Bank. 2018. Somalia High Frequency Survey. December 2017, Wave 2. 
+2 Ibid. 
+3 World Bank Group. 2018. Somalia Economic Update: Rapid Growth in Mobile Money - Stability or Vulnerability? 
+4 IMF (International Monetary Fund). 2017. 2016 IMF Somalia Country Report 17/61. 
+5 Ministry of Planning, Investment and Economic Development, Federal Republic of Somalia. 2018. Aid Flows in Somalia: 
+Analysis of Aid Flow Data. 
+6 World Bank Group. 2018. Somalia Economic Update: Rapid Growth in Mobile Money - Stability or Vulnerability? 
+7 World Bank Group. 2015. Somalia Economic Update: Transition Amid Risks with a Special Focus on Intergovernmental Fiscal 
+Relations. 
+8 World Bank Group Gender Data Portal. http://datatopics.worldbank.org/gender/country/somalia. 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 8 of 119 
+ 
+which generates trade worth an estimated 40 percent of Somalia’s GDP and represents over 50 percent 
+of Somalia’s exports, but which is itself highly vulnerable to drought and trade-related shocks.  
+4. 
+Poor access to tailored finance to women contributes to limiting female entrepreneurship. An 
+analysis of gender gaps in Somalia, in relation to financial and digital access, suggests that women face 
+discrimination and considerable socioeconomic barriers to accessing jobs and livelihood opportunities.9 
+Traditional gender roles still limit women’s employment opportunities, often excluding them from work 
+in formal sectors, generating gender gaps in labor market participation. Gender gaps in education and 
+basic literacy translate into weak digital and financial skills among women, which in turn limits their 
+financial and digital services access. Nevertheless, Somali women are largely responsible for growth in 
+microenterprise activity and yet are not supported to grow and expand their businesses. A recent review 
+of the World Bank’s Small and Medium-Size Enterprise Facility (SMEF), which provided business 
+development services (BDS) to small and medium enterprises (SMEs) in Somalia under the Somali Core 
+Economic Institutions and Opportunities Project (SCORE) (P152241), reiterates that women-led 
+businesses struggle to access funding even though there is demand for financing among female-headed 
+SMEs. This is partly because financial service providers do not necessarily offer financial products that 
+target women, nor do they implement a cohesive policy that targets women in a way that removes 
+barriers that currently restrict access. For example, women face discrimination in accessing credit due to 
+existing collateral requirements. Even when women have the required collateral, banks typically ask for a 
+male guarantor, and when women do receive loans, they are typically microcredit, that is, in the range of 
+US$1,000. 
+5. 
+Somalia has a vibrant private sector, a networked business community and a desire for 
+international trade and investment. The agriculture sector, mainly livestock, remains the backbone of 
+the Somali economy. Preliminary gross production estimates for the agriculture sector show that the 
+sector accounts for the largest share of GDP since the pre-war period—62 percent in 1986–88 to an 
+average estimate of about 70 percent in 2013–16 (World Bank and FAO 2018).10 Somalia’s Doing Business 
+ranking is the lowest at 190 out of 190 (Doing Business 2019). Somalia has one of the most expensive 
+electricity rates, at almost US$1 per kilowatt, and correspondingly the lowest rates of electricity usage in 
+the world. Moreover, informality dominates the private sector, making market-based financial 
+intermediation challenging particularly in key sectors of the real economy such as energy and livestock. In 
+addition, regulatory and institutional capacity gaps—in key enabling sectors such as financial and 
+information and communication technology (ICT)—result in an uneven playing field undermining 
+economic growth and potential. The development of the manufacturing sector is limited by the harsh 
+business environment and the high electricity and transport costs. This, combined with barriers that 
+restrict access to services—compounded by fears of money laundering and terrorist financing, as well as 
+poor banking relationships between domestic and international banks—creates unpredictability of 
+remittance channels and connectedness of the country to international capital sources, deterring large-
+scale private and public investment. These service access barriers may, in turn, exacerbate political 
+tensions and result in the development of parallel underground ‘shadow markets’. Thus, to support 
+                                            
+9 See annex 5 for detailed discussion on gender gap analysis in Somalia across labor markets and financials markets and ID 
+ownership. 
+10 It is difficult to determine sectoral contribution to GDP in Somalia due to lack of national accounts data. New GDP estimates 
+by World Bank and International Monetary Fund (IMF) staff are used to compute the sector shares post 2013. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 9 of 119 
+ 
+livelihoods and inclusive growth, there is a pressing need to stabilize core institutions offering basic 
+services enabling economic opportunities for individuals and businesses.  
+6. 
+The lack of a robust and inclusive foundational ID system limits financial access and poses 
+challenges for broader service delivery and economic growth. Over 77 percent of Somalia’s population 
+are estimated to lack an official proof of identity. Although data on ID coverage is scarce, recent surveys 
+indicate that women are more likely than men to lack an ID, with an estimated gender gap of at least 9 
+percentage points. Existing ID systems are fragmented and designed to meet specific program needs 
+rather than to serve as a foundational, multipurpose identification for the entire population (see box 1). 
+Moreover, there are no reliable and broadly accessible ID verification or authentication mechanisms, 
+further compounding challenges for accessing crucial financial and government services. The lack of a 
+robust and inclusive foundational ID system makes it difficult for financial service providers to fulfill 
+international customer due diligence (CDD) requirements. Failure to adequately comply with international 
+anti-money laundering and countering financing of terrorism (AML/CFT) requirements, due, in part, to a 
+lack of robust ‘Know Your Customer (KYC)’ verification mechanisms, have resulted in many Somali 
+remittance providers and other financial institutions losing their correspondent banking relationships in 
+recent years, posing a threat to the livelihood of millions of Somalis and further impeding financial access 
+and entrepreneurship.  
+7. 
+Somalia’s security situation hampers development initiatives and freedom of movement in the 
+country. All development initiatives and staff movements within Somalia are continuously analyzed for 
+security threats. If security restrictions are put in place for certain locations, then project activities and 
+Box 1. Registration and Identification Approaches in the Humanitarian Sector 
+A historic lack of a robust foundational identification system has led to a proliferation of disconnected functional 
+registers and, as a result, Somalis must rely on a patchwork of non-interoperable systems and documents to prove 
+their identity, most of which are of low quality, with coverage limited to specific municipalities, states, or program 
+beneficiaries.  
+International organizations, such as the United Nations World Food Programme (WFP), the United Nations Office 
+for Project Services (UNOPS), as well as the National Commission for Refugees and Internally Displaced Persons 
+(NCRI), collect identity data and issue credentials, often using sophisticated digital and/or biometric identification 
+technologies. For example, WFP’s SCOPE system, which is used to register and manage benefit transfers to the 
+beneficiaries of WFP assistance in Somalia, contains information on over 4 million individuals (biometric 
+registration of 2 million individuals, and additional 2 million individuals registered by collecting their biographic 
+data only). Registered beneficiaries are issued electronic transfer cards (e-cards) allowing card holders to 
+purchase food at vetted local shops or to receive food assistance.  
+While these functional systems can support effective program delivery for the organizations that own and manage 
+the beneficiary registries, they offer only limited utility for broader identification purposes. These functional 
+systems often use proprietary data management solutions and lack interoperability, making it difficult for third 
+parties to reliably verify identities. Because humanitarian organizations often focus on a particular area and only 
+a limited number of people per household are issued a credential for service delivery, existing, functional ID 
+systems tend to also be limited in scope—both demographically and geographically. At the same time, the 
+previous registration experience of humanitarian agencies as well as enrollment strategies and outreach 
+campaigns can provide important lessons for achieving high coverage and ensuring the robustness of the 
+proposed foundational digital ID. Existing registries could also be leveraged in the future as the FGS will begin to 
+deliver its own social protection programs.  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 10 of 119 
+ 
+staff movements are limited, potentially excluding those locations from development initiatives. 
+Alternately, initiatives may be redirected when possible to other appropriate locations, delayed, or 
+altogether cancelled. All existing and newly designed World Bank Group operations must be flexible to 
+adapt to the changing security context affecting the whole economy in Somalia.  
+8. 
+Somalia has achieved significant progress in laying the foundations for stability and 
+development; however, political and institutional gains must have tangible benefits for people if 
+Somalia’s transition is to hold. The World Bank Group’s Country Partnership Framework (CPF) for Somalia 
+for FY19-22 (Report No. 124734-SO) aims to increase citizen’s access to services and help restore 
+economic resilience—laying the foundations for longer-term poverty reduction and inclusive growth. The 
+CPF is based on an analytical framework elaborated in the recently concluded Systematic Country 
+Diagnostic as well as the outcome of country level dialogue between the World Bank Group, its Somali 
+partners, and the international community. With debt arrears outstanding, Somalia has been ineligible for 
+assistance from International Development Association (IDA) and other international finance institutions 
+(IFIs)—but the World Bank Group’s reengagement in 2012 funded by the Multi Partner-Fund (MPF) has 
+helped stabilize institutions and initiate IFI normalization. With support of eight key donors, the MPF has 
+enabled the World Bank Group to strengthen federal institutions and establish basic economic regulatory 
+foundations. The MPF will remain the core financing vehicle for the CPF—but will be complemented in 
+FY19 by IDA Pre-Arrears Clearance grants of US$140 million targeting the key milestones to reach Decision 
+Point under the Heavily Indebted Poor Country (HIPC) Initiative. Provided its reform momentum 
+continues, Decision Point is feasible within the CPF period, allowing Somalia access to concessional 
+resources from IDA and other IFIs, together with investment of private capital from the International 
+Finance Corporation (IFC).  
+9. 
+This project builds on the foundations laid by predecessor projects’ early successes that is, 
+SCORE (P152241) and ICT Sector Support (P152358) projects.11 With financing from IDA’s Pre-Arrears 
+Clearance Grant (PACG) facility as well as the MPF, the project proposes to further support reforms 
+associated with stabilizing core government functions that will help Somali communities overcome 
+restrictions on access to services. The supported government institutions are those considered key to 
+enabling access to basic financial and government services that offer economic opportunities for 
+individuals and businesses. In so doing, the project initiates the development of sustainable mechanisms 
+for delivery of targeted accessible government services, enabling efficient and market-based financial 
+intermediation, and inclusive growth. These basic financial and government services contribute to 
+breaking the cycles of violence and setting Somalia on the path toward economic development. The 
+project is initially designed as a four-year program, which if successful in its first phase, additional 
+financing may be considered. 
+B. Sectoral and Institutional Context 
+10. 
+Somalia’s financial sector is limited in size, simple in structure, and extremely isolated from the 
+global financial system. Access to global banking systems remains uncertain. Over the past three years, 
+banks in international jurisdictions such as Australia, the United Kingdom, and the United States have 
+closed accounts of some Somali remittance companies due to risks related to money laundering, as well 
+as legal and regulatory weaknesses. This makes it essential to enhance the understanding of AML/CFT 
+                                            
+11 See box 2 for further details on the predecessor projects, that is SCORE (P152241) and ICT Sector Support (P152358) projects. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 11 of 119 
+ 
+risks of the Financial Reporting Center (FRC), Somalia’s financial intelligence unit,  and to strengthen its 
+institutional capability and core systems to receive and analyze financial intelligence on AML/CFT and 
+disseminate this intelligence to law enforcement agencies (LEAs), as appropriate. In this setting, the 
+impetus for institutional reform is driven by external pressures on Somali policy makers and financial 
+institutions to improve governance and institutional effectiveness.  
+11. 
+Overall, there is meagre intermediation taking place in the Somali credit market, which meets 
+only 7 percent of the current demand. Lending is heavily concentrated on short-term trade finance, which 
+makes up approximately 85 percent of the total portfolio of financial institutions leaving a large unmet 
+market demand in the real economy. This lack of progress to expand access to finance in underserved 
+economic segments is partly explained by slow progress in elaborating a financial inclusion strategy to 
+underpin public and private sector commitments to address some key institutional and structural 
+challenges. In addition, Somali financial institutions are not experienced in lending outside trade finance, 
+have a weak pipeline of bankable micro, small, and medium enterprises (MSMEs) operating in productive 
+sectors of the economy and limited understanding of what constitutes a well-prepared loan application 
+for MSMEs operating in productive sectors resulting in little to no provision of credit to businesses and/or 
+poor credit quality. 
+12. 
+The financial system comprises central banks (including in Somaliland), banks, microfinance 
+institutions (MFIs), money transfer businesses (MTBs), and mobile network operators (MNOs) providing 
+mobile money services. As of January 2019, eight banks and 11 MTBs were licensed by the Central Bank 
+of Somalia (CBS), but three banks are not yet operational.12 The total banking industry assets were at 
+US$351 million as of September 2018.13 Most banks met the minimum capital requirement of US$7 
+million. There are several MFIs operating in the country. However, as explained in box 2, the MFI industry 
+remains unregulated. In 2015, the mobile phone penetration rate stood at 59 percent, and in 2017, some 
+70 percent of Somalis with a mobile phone regularly used mobile money services, transacting for 
+approximately US$2.7 billion per month—yet, mobile money remains unregulated.14 In 2011, the FGS 
+passed the Central Bank of Somalia Act, which reinstated the CBS. In 2012, the FGS passed the Financial 
+Institutions Law (FIL), which created a national framework for financial institution regulation and 
+supervision by the CBS. However, the FIL only covered banks and MTBs, and there are plans currently 
+underway to modernize the FIL. 
+Box 2. Microfinance Industry in Somaliaa 
+• 
+The Somalia microfinance industry is currently unregulated. The 2012 FIL only recognizes commercial 
+banks and MTBs as financial institutions which has left microfinance players in a legal vacuum. The FIL is 
+to be amended and modernized during 2019. 
+• 
+Six major MFIs operate in Somalia either as affiliated subsidiaries of commercial banks or registered as 
+nongovernmental organizations (NGOs). This includes MicroDahab, IBS Microfinance, Premier 
+Microfinance, AMAL Microfinance, KAABA Microfinance, and Kaah International Microfinance Services 
+(KIMS). Additionally, many local and international NGOs provide heavily subsidized microfinance 
+products. Women are overrepresented as clients within the microfinance industry. MFIs lend both for 
+business and private purposes. 
+                                            
+12 For more detailed information regarding Somali financial institutions kindly refer to annex 3. 
+13 Central Bank of Somalia Quarterly Report, 2018. 
+14 World Bank. 2017. Mobile Money Ecosystem in Somalia: Household Survey and Market Analysis. Washington, DC. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 12 of 119 
+ 
+• 
+Microfinance regional coverages differs by institution. Microfinance operators affiliated with commercial 
+banks generally operate in the same regions as their parent institutions while NGO-based MFIs are 
+usually concentrated in major urban centers such as Mogadishu, Hargeisa, Garowe, and Kismayo. 
+• 
+Asset sizes of MFI players in Somalia range from US$0.3 million to US$3 million. 
+• 
+MFIs provide services using Islamic financing instruments. The two most utilized financial instruments 
+within the industry are Qardu Hassan (charity-based and often subsidized with donor money) and 
+Murabaha (cost-plus). 
+• 
+Average microfinance loans currently stand at around US$1,000. Tenors are short, often less than a year. 
+Note: a. Limited data are available on the financial condition of MFIs in Somalia. The data are based on World Bank. 
+2017. Mobile Money Ecosystem in Somalia: Household Survey and Market Analysis. Washington, DC, and interviews 
+by the task team with financial sector stakeholders in Somalia conducted in September 2018. 
+13. 
+An emerging trend in the sector is the consolidation of financial service operators into a few 
+large companies, which deters competition from prospective entrants. Somali money transfer and 
+MNOs have always been intertwined, but the rapid growth of mobile money has forced key players in the 
+strategic sectors of banking and money transfer services to not only protect their market niche but also 
+occupy new ones as well. They do so largely through mergers and alliances. There is also a growing trend 
+of partnerships to facilitate international remittances directly to customers, resulting in large 
+conglomerates and the crowding out of smaller MTBs. As a result, there is overlapping business interest 
+ownership in the financial sector covering banking, microfinance, and mobile money. 
+14. 
+Limitations exist in financial, technical, and managerial capacity to implement targeted 
+interventions to enhance provision of and access to basic financial and government services by 
+individuals and businesses. Capacity improvements will take time to overcome, while the urgency of 
+expanding access to basic services is increasing. Missing financial infrastructure and rules affecting the 
+coverage, scope, and accessibility of credit information such as credit referencing or moveable collateral 
+registries limit expansion of financial access.  
+15. 
+Providing a robust and verifiable government-recognized ID is among the most pressing 
+priorities in Somalia at this time. A unique identifier linked to each transaction account, will help ensure 
+that financial transactions can be more accurately tracked. This will enable scale-up of access to finance 
+and other basic services for Somalis, including for women and vulnerable people in rural areas, and 
+promote safe and orderly migration within and across Somalia’s borders. A robust digital ID system is also 
+instrumental for improving the robustness of business registration and access to finance for MSMEs as 
+implementation of a central registry for companies offers access to information ensuring transparency 
+around who really owns and controls Somali companies which is useful in tackling AML/CFT risks.  
+16. 
+The FGS has already taken steps to enable the implementation of a digital ID system, although 
+large gaps remain in the enabling environment and several risks will need to be addressed. A 
+Memorandum of Understanding (MOU) dated May 23, 2018, was signed between the FGS Ministry of 
+Interior, Federal Affairs, and Reconciliation (MoIFAR) acting through the Office of the President and 
+National Database and Registration Authority (NADRA)15 of Pakistan for the development of a digital ID 
+system, including the design and installation of data management systems for multiple foundational and 
+functional IDs, skills, and knowledge transfer, and maintenance and support for one year. However, for 
+                                            
+15 https://www.nadra.gov.pk/. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 13 of 119 
+ 
+the digital ID system to achieve its full potential, risks associated with, among others, exclusion, vendor 
+lock-in, and potential misuse of the system will need to be appropriately addressed. In addition, Somalia 
+currently lacks a robust legislative and regulatory framework to govern the implementation of a robust, 
+inclusive, and responsible foundational ID system and has not yet set up a dedicated entity to oversee and 
+manage the proposed digital ID system. Ensuring that the ID system rests on solid legal and institutional 
+foundations will be critical for its ability to ensure that IDs are accessible for all, to protect users’ data and 
+privacy, to build and maintain trust in the system, and to ensure its long-term sustainability.  
+17. 
+Addressing the multifaceted challenges of lack of access to basic services enabling economic 
+opportunities for individuals and businesses requires approaches that are both innovative and flexible. 
+First, lack of reliable identity documents and identity verification mechanisms, compounded by a lack of 
+connectivity are important barriers to the efficient delivery of basic services by the Government and 
+private sector service providers. The design and implementation strategy of the ID system will draw on, 
+and adapt to the Somali context as needed, the latest international good practices and lessons learned 
+from digital ID systems all around the globe. For example, to enable rapid take-up of the ID credentials 
+and to make registration accessible for members of vulnerable populations, the project proposes to follow 
+an ‘ecosystem’ approach for enrollment, leveraging private sector entities and local NGOs as enrollment 
+agents. Second, there are spatial and gender disparities in access to basic financial and government 
+services making credible demand assessments from final beneficiaries essential to ensure 
+appropriateness of products or services and sustainability of investments. Addressing these specificities, 
+as well as the challenges posed by the operating environment and all-round capacity weaknesses, the 
+project proposes to set up dedicated entities to operate on a sustainable basis to expand access to 
+services. Based on the Government’s policy commitments, these entities will be highly agile and use 
+private sector governance principles in constructing sustainable and effective service delivery 
+mechanisms supported by appropriate fiscal plans, financing instruments, and performance reporting 
+tools. 
+18. 
+Digital technologies will remain critical in Somalia for the foreseeable future to help curb 
+economic isolation and rapidly transform the way people, businesses, and the FGS communicates, 
+transacts, and accesses information and services. The World Bank, in partnership with public and private 
+digital stakeholders, launched the Digital Economy for Africa (DE4A) Initiative in April 2018.16 DE4A 
+recognizes that traditional economic sectors of Africa are paving the way to new growth models with 
+rising mobile phone penetration, improving broadband Internet, and growing use of mobile money—
+unleashing new opportunities for people, businesses, and governments. As such, the project aims to build 
+on the DE4A codified pillars for the development of an inclusive digital economy in Africa17 by making 
+steady and incremental improvements on accomplishments delivered under the SCORE (P152241) and 
+ICT Sector Support in Somalia (P152358) projects. The project achieves this by enhancing the linkage and 
+synergy between digital developments and digitization of finance to support entrepreneurship and 
+livelihoods. While the preceding projects set up the foundational infrastructure and platforms to kick-start 
+the process of enabling economic opportunities and expanding access to basic financial and government 
+services to support entrepreneurship and sustainable jobs (see box 3), this project leverages technology 
+                                            
+16 http://live.worldbank.org/digital-economy-africa. 
+17 The DE4A conceptual framework includes the basic elements of the digital economy as a whole (a) a highly efficient digital 
+infrastructure, (b) public digital platforms, (c) digital finance services, (d) digital and innovative entrepreneurship, and (e) digital 
+skills. Progress must be made in each of these elements to develop relevant digital services for the growth of various sectors of 
+the economy. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 14 of 119 
+ 
+as an enabler and anchor to build and strengthen key institutions and financial market infrastructure and 
+support efficient financial intermediation.  
+Box 3. Building on the Accomplishments of Preceding Projects 
+The SCORE (P152241) and ICT Sector Support (P152358) projects involve strengthening legal and regulatory 
+foundations, institutional capacity, and financial and private sector development. This project makes a strategic 
+shift from the two predecessor projects, as the Somalia Capacity Advancement, Livelihoods, and 
+Entrepreneurship, Through Digital Uplift Project (SCALED-UP) is supporting the FGS to deliver on its commitments 
+to improve robustness and expand coverage of key services enabling entrepreneurship and supporting livelihoods 
+(digital ID, transaction accounts, KYC e-verification services, e-registration services for businesses, and 
+interoperable retail payment services). Figure 2.1 in annex 2 provides additional details on the phased and 
+iterative approach of implementing activities under the two predecessor projects. 
+SCORE Project. This is a US$28.5 million investment lending operation running from May 2016 to June 2020. 
+Under SCORE, the World Bank is helping build core financial and private sector foundations, concretely, the legal 
+and regulatory framework, financial sector infrastructure, and institutional and enforcement capacity—all of 
+which have effectively been absent. This has involved developing foundational legislation and priority functions 
+of the CBS and the Ministry of Commerce and Industry (MoCI) as follows: 
+• 
+Improving Somalia’s business climate through modernization of the 2012 FIL, passage of a modern 
+Company Law, and a new Payment Systems and Insurance Act utilizing the IFC Public-Private Dialogue 
+(PPD) platform as an instrument to hold constructive dialogue among the relevant stakeholders 
+regarding the development and passage of these legislations.  
+• 
+Delivering a core banking and accounting system at the CBS to strengthen the operating environment 
+from a fiscal agency point of view. 
+• 
+Supporting examination of the MTBs and providing on-the-job training for CBS staff in support of safe 
+and low-cost remittance flows to Somalia and establishment of mobile money regulations. 
+• 
+Building a platform for engagement between the CBS and the financial services industry to drive national 
+payment systems (NPS) developments to allow humanitarian assistance to be transferred more securely, 
+improve FGS service delivery, and deepen financial sector intermediation.  
+• 
+For the FRC, a National Risk Assessment (NRA) has been initiated and once concluded will inform both a 
+capacity-building program for the FRC and a national strategy to manage AML/CFT risks.  
+SCORE Project is also contributing to the development of entrepreneurship and SMEs in support of the jobs 
+agenda, by launching a US$5.5 million BDS program for entrepreneurs through the SMEF and mobilizing SME 
+financing through the Somali Business Catalytic Fund (SBCF), which as of June 2018 has reached 82 firms, 
+committed to disburse US$6.5 million (to be matched by the recipients) to SMEs in the agriculture, manufacturing, 
+and fisheries sectors, and catalyzed the mobilization of further US$1.06 million in private financing from financial 
+institutions. The SBCF was closed in January 2019, and SMEF will be phased out in April 2019. There is no overlap 
+between the two MSME financing mechanisms under the SCORE and SCALED-UP largely because the SBCF 
+bypassed financial intermediaries as it was operated as an SME matching grants scheme. 
+ICT Sector Support project. This is a combined US$14 million investment lending operation running from 2015 to 
+2020. Under the ICT Sector Support project, the World Bank has supported the passage of the Communications 
+Act of 2017 and subsequent creation of the National Communications Authority (NCA). Other key 
+accomplishments include the following: 
+• 
+Supported infrastructure such as a fiber-optic loop around Mogadishu which boosted Internet capacity 
+for 26 FGS ministries in 15 different locations and establishing the first Internet Exchange Point. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 15 of 119 
+ 
+• 
+Supported the adoption of the National Numbering Plan and schedule of spectrum and licensing fees 
+that will contribute to the National Treasury and are benchmarks linked to the Recurrent Cost and 
+Reform Financing (RCRF) project (P167224). 
+• 
+Internet capacity was also acquired, and doubled recently, for the higher education sector, connecting 
+10 Somali universities, for the higher education sector through the Somalia Research and Education 
+Network (known as ‘SomaliREN’). This was done under a 20-year and 10-year pre-purchase of Internet 
+bandwidth from the optical fiber operators in the form of an indefeasible right of use (IRU)18 contract. 
+The IRU refers to the right to use a specific amount of capacity on the cable for the duration of the 
+contract.  
+• 
+Supported the creation of around 40 communications rooms across the country. 
+• 
+Supported public/private dialogue between the operators, Internet service providers, and the FGS. This 
+has stimulated investment in the information and communications technology (ICT) sector both from 
+the private sector and from donor partners.  
+• 
+Provided support to a youth-owned and youth-led tech hub called ‘IRise’. It is one of the first tech hubs 
+in Somalia aiming to promote innovation and increase access for support to local innovative 
+entrepreneurs.  
+Additionally, under the second phase of the ICT Sector Support project, an operational pilot is underway for 
+making salary payments to civil servants, and for making humanitarian payments in areas affected by drought 
+and flood, using mobile money bulk payments. 
+19. 
+To respond to the development challenges, effective coordination mechanisms among 
+institutions are needed to improve performance and delivery of the most crucial services to overcome 
+economic isolation and expand economic opportunities for individuals and businesses. Several 
+institutions and stakeholders are to be involved if a harmonized policy framework and agenda to offer 
+economic opportunities and enhance access to basic financial and government services is to be pursued. 
+However, unclear mandates and structures, overlap of responsibilities, and lack of a shared strategy 
+remain as key challenges, creating tensions, and delaying the decision-making process. In this regard, the 
+project proposes to update and fill gaps in existing government policy frameworks and strategies 
+pertaining to the financial and digital developments, particularly addressing gender gaps in sectoral 
+strategies as well as those related to direct project interventions on digital ID enrollment, access to 
+financial services, and operation of the MSME Financing Facility.19 This will include development of 
+eligibility criteria for participation in the MSME Financing Facility by bank and nonbank financial 
+institutions involving holistic assessments of factors ranging from fitness and propriety of owners, 
+controllers, and managers of PFIs and final beneficiaries to assessing the capability of PFIs to credibly serve 
+underfunded and underserved market segments and sectors including women and female-owned 
+MSMEs.  
+C. Relevance to Higher Level Objectives 
+20. 
+Alignment to the CPF (FY19–22). The project is anchored under the Somalia CPF for FY19–22 
+(discussed by the Board in September 2018, Report No. 124734-SO), specifically Focus Area 2 (Restoring 
+Economic Resilience and Opportunities). The CPF’s objective on increasing financial and digital access 
+                                            
+18 Indefeasible right of use (IRU) is a permanent contractual agreement, that cannot be undone, between the owners of a 
+communications system and a customer of that system. 
+19 The MSME Financing Facility refers to the entity to be set up by the FGS and mandated to manage the line of credit under the 
+project. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 16 of 119 
+ 
+directly relates to Somalia's National Development Plan (NDP) which sets out the country’s priorities for 
+national recovery and development for 2017–2019, particularly on actions to address constraints faced 
+by MSMEs. The NDP specifically highlights the importance of enhancing capacity building for the private 
+sector, especially the MSMEs as one of the prerequisites for inclusive growth and employment creation.  
+21. 
+The project is also aligned with the 2018–2020 Financial Sector Roadmap developed by the CBS, 
+in partnership with the International Monetary Fund (IMF) and World Bank. The broad structure of 
+financial sector reforms supported by the Financial Sector Roadmap is a key element of the ongoing IMF’s 
+Staff Monitored Program (SMP). The roadmap integrates the process of defining and sequencing 
+supported reforms along four pillars:20  
+(a) 
+Improving CBS capacity for core functions and organization in banking operations, and the 
+licensing and supervision departments, as well as internal audit, and financial reporting and 
+accounting.  
+(b) 
+Developing a payments system by establishing a national switch and Automated Transfer 
+System (ATS) that will integrate a Real Time Gross Settlement System and Automated 
+Clearing House (functionality onto a single platform with seamless links between the CBS, 
+commercial banks, and mobile money. Other aspects relate to stabilizing MTB foreign 
+banking relationships and minimizing risks in the mobile money sector.  
+(c) 
+Strengthening legal and regulatory frameworks by modernizing the FIL and other laws to 
+improve the legal basis for provision of financial services as well as CBS regulation and 
+supervision of the financial system that is consistent with internationally accepted practice. 
+(d) 
+Developing the financial infrastructure to support efficient intermediation and to support 
+collateralized lending and mitigate credit risk. 
+22. 
+Division of labor between the World Bank and IMF around the 2018–2020 Financial Sector 
+Roadmap is such that IMF takes the lead on aspects related to Pillar (a) above while the World Bank takes 
+the lead in Pillars (b), (c), and (d) with some of the support already in progress under the SCORE Project 
+(P152241). In Pillar (a), the World Bank has supported the implementation of the core banking and 
+accounting system and helped to kick-start MTB onsite and offsite examinations.  Moreover, the project 
+is being implemented in close partnership with other key development partners supporting the 
+Government’s wide-ranging reform agenda which relates to the broader objective of IFI normalization 
+through the HIPC framework. 
+23. 
+The project also supports the Maximizing Finance for Development (MFD) agenda by creating 
+and expanding markets for private sector investment to maximize development results. The project 
+supports the setting up of a digital ID system using the ID4D principles and targets entrepreneurship and 
+MSME access to financial services with a new apex institution set up to leverage private capital, when it 
+is ready and forthcoming. To crowd-in investment capital from private sector sources, the new apex 
+                                            
+20 Figure 2.2 in annex 2 provides additional details on the broad structure of the financial sector road map and the connections 
+across the four key pillars.  The road map and its four key pillars acting as the coordinating vehicle between the World Bank, 
+IMF and other development partners in supporting CBS and other key institutions to financial sector development in a joined-
+up manner that takes into account the comparative advantages of each supporting institution. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 17 of 119 
+ 
+institution is structured on private sector principles and will benefit from a range of blending tools 
+consisting 
+of 
+supporting 
+instruments 
+that 
+enable 
+channeling 
+of 
+core 
+equity 
+and/or 
+subordinated/mezzanine debt to help attain far greater leverage of public funds (relative to more typical 
+approaches to MSME financing), in line with the MFD approach.  The project also will support the FGS to 
+stabilize core government institutions that are key to the provision of services enabling economic 
+opportunities for individuals and businesses, and to create legislative and institutional framework 
+enabling financial and digital development. All these activities are essential preconditions or critical 
+enablers for leveraging private capital.  
+II. PROJECT DESCRIPTION 
+A. Project Development Objective 
+24. 
+The Project Development Objective (PDO) is to support progress towards increased access to 
+basic digital financial and government services targeting entrepreneurship and employment, 
+particularly for women. The Theory of Change is depicted in the Results Chain in section II.D.   
+25. 
+Achievement of PDO will be measured by the following indicators: 
+• 
+Number of people who have received their unique ID number, of which (%) are female 
+• 
+Number of people accessing financial services using their digital ID, of which (%) are female 
+• 
+Number of firms that benefit from reformed business registration requirements, of which 
+(%) are female-owned 
+• 
+Value of MSME loans from the MSME Financing Facility (US$), of which (%) are female-
+owned 
+• 
+Jobs created by firms that access the MSME Financing Facility, of which (%) are for females, 
+and of which (%) sustainable jobs21  
+B. Project Components 
+26. 
+The project has three components, which are summarized in this section (see annex 2 for 
+detailed description). The project adopts a highly graduated and integrated approach that is well-adapted 
+to the country context. Initially, the project focuses on establishing an enabling legal and regulatory 
+                                            
+21 Sustainable jobs are referred to as paid direct full-time equivalent (FTE) lasting a minimum of six months created by SMEs 
+who have accessed the line of credit (microloans are assumed to support livelihoods of final beneficiaries and not generate new 
+jobs). Jobs lasting less than one month (or less than 20 days excluding weekends) are not counted to emphasize those jobs that 
+provide more stability through length. Jobs should be converted to FTE. One FTE equals 260 days (excluding weekends) or 12 
+months. Thus, a job that lasts 4 months should be counted as 1/3 FTE and a job that lasts for 130 days (excluding weekends) 
+should be counted as 1/2 FTE. Number of hours worked per day or per week is not restricted as work hours may vary greatly. 
+Furthermore, Jobs must be formalized with a written employment contract. Lastly, relevance is not placed on remuneration 
+scale for jobs created as there is no regulated minimum wage in Somalia. (For the definition of sustainable jobs, SCALED-UP has 
+chosen to employ a tested model utilized by USAID for its ongoing Growth, Enterprise, Employment, and Livelihoods [GEEL] 
+project in Somalia). 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 18 of 119 
+ 
+environment for financial and digital development. The project then focuses on stabilizing core 
+institutions and their governance as preconditions for enabling access to basic inclusive financial and 
+government services that offer economic opportunities and expand provision of sustainable jobs. 
+Subsequently, project focus shifts to expanding the coverage and number of service users. 
+27. 
+At the core of the project is the establishment of two specialized Somali entities. The first entity 
+will administer a digital ID system and the second will be an apex MSME Financing Facility to manage a 
+line of credit that the project will make available to eligible financial institutions. The project will provide 
+initial funding to the two institutions with IDA and donor financing. In the case of the MSME Financing 
+Facility, it would be subsequently opened to sequential private sector investing and shareholding through 
+follow-on fund-raising. In this way, the MSME Financing Facility represents the first step in creating a 
+Somali entity with a commercial orientation that can act as a platform to crowd-in additional investments 
+of private capital from international sources, including development finance institutions (DFIs), thereby 
+fostering financial sector development, financial inclusion while sustaining the most dynamic MSMEs and 
+provision of jobs, in a capital-constrained environment. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 19 of 119 
+ 
+Figure 1. Components of the Project 
+ 
+  
+  
+Component 1: Strengthening Institutions (SDR 5 million, US$7 million equivalent)  
+28. 
+This component is focused on stabilizing core government functions enabling access to services 
+for individuals and businesses. This is a reform area requiring progress across multiple ministries, 
+departments, and agencies (MDAs) in several areas. This is intended to strengthen governance and 
+institutional effectiveness thereby contributing to building state legitimacy and improving citizens’ trust 
+in institutions. The key areas covered by this component are as follows: (a) support to the CBS on 
+improving financial institutions regulations and supervision, promoting efficient financial intermediation 
+and strengthening policies and strategies for digital financial services and expanding financial access; (b) 
+support to the FRC on enhancing its understanding of Somalia’s AML/CFT risks, analyzing financial 
+intelligence, and disseminating reports to LEAs as appropriate; (c) support to the Ministry of Posts, 
+Telecommunications, and Technology (MPTT)/NCA to strengthen policy development and effective 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 20 of 119 
+ 
+regulation of the ICT sector; and (d) support to the MoIFAR to create the legislative and institutional 
+enabling environment for the digital ID system, including the setup and operationalization of a new 
+dedicated ID Authority.  
+29. 
+The project proposes to support regulatory technology (RegTech) solutions for financial 
+reporting by financial institutions and communications service providers to regulatory agencies and 
+rigorous data analysis thereby improving the effectiveness of institutions. The objective is to use 
+RegTech to drive improved and timely regulatory reporting by regulated entities to ensure that they are 
+accurately reporting their financial condition and performance, combined with strengthened 
+management information systems (MIS) used by the regulators for collecting, managing, and analyzing 
+financial data from regulated entities. This will help regulators rigorously assess risks and build robust 
+cases for possible follow up actions. As such, the RegTech solutions will be aligned with principles around 
+data privacy and confidentiality. Other important considerations in the implementation of RegTech 
+solutions will include (a) business modelling to ensure financial sustainability and affordability; (b) 
+operations and technology governance to guarantee convenience and security for data collection, 
+transfer, exchange, and storage; (c) interoperability and interconnection considerations, including a 
+review of application programing interface or web services to be created to provide the interface for 
+reporting entities and how this is to be secured; and (d) the policies, standards, guidelines, and 
+frameworks needed to guarantee a resilient, open and flexible technology solution offering rigorous 
+analytical capability, protection of data privacy, and control of regulatory processes. Alongside support to 
+the MDAs, the Attorney General’s Office will be critical to the development of legal and regulatory reform 
+packages. As such, incidental capacity-building support will be provided to the Attorney General’s Office 
+on technical drafting of laws and regulations related to this project. 
+30. 
+This component includes a focus on support for building a robust ID enabling environment, 
+including the adoption of comprehensive policy and legislative frameworks and the establishment of a 
+competent and well-governed digital ID Authority (for a detailed sequence of activities refer to table 2.1 
+in annex 2). Although under the MOU signed by the FGS and NADRA in 2018, NADRA is expected to provide 
+the technical components—for example, software and hardware—for the digital ID system, critical 
+legislative and institutional gaps will need to be addressed to ensure the system’s successful 
+implementation. Building a robust legislative and institutional foundation for the digital ID system is 
+critical for mitigating the risk of misuse, building the trust needed in the new system to achieve high 
+coverage and use, and ensuring long-term sustainability. The support for a comprehensive legal 
+framework will help the FGS to, among others, define the basic purposes of the ID system, establish and 
+specifying the mandate, governance arrangements, and functions of the ID Authority, and lay out key 
+system features and principles, such as those related to registration processes, credential issuance, 
+system interoperability, and the use of identity verification and authentication mechanisms for financial 
+service providers and beyond. It will also facilitate the adoption of appropriate policies related to data 
+protection, the rights of data subjects over their data, and cybersecurity, among others. This component 
+will also support the setup of a dedicated and competent ID Authority—operating with legal, institutional, 
+and financial independence—to provide identification services. To ensure that it operates in an inclusive 
+manner and that it remains responsive to a broad set of user needs, the ID Authority’s governance 
+structures will aim to include representatives of users and a wide range of stakeholders, including from 
+both the private and public sectors. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 21 of 119 
+ 
+31. 
+Activities to be financed will include provision of goods, consultancy services, capacity building, 
+training, and workshops for carrying out implementation activities supporting policy makers, 
+regulators, and supervisors, and other beneficiaries and stakeholders. These activities will enable the 
+FGS to (a) develop and implement effective sector policies and strategies and legal and regulatory 
+frameworks; (b) strengthen regulatory reporting, compliance, and transaction monitoring through the use 
+of regulatory technology (RegTech) tools; (c) implement shared IT systems and related utility services for 
+identification verification as well as fraud detection and control; and (d) improve business processes and 
+streamline workflows. 
+Component 2: Enabling Financial and Digital Services (SDR 14.3 million, US$20 million equivalent) 
+32. 
+This component focuses on increasing individuals’ and businesses’ access to services that 
+expand economic opportunities and help restore resilience in a gender-sensitive manner. Under this 
+component, the project will support sustainable mechanisms for service delivery. In addition, the project 
+will encourage a gender-sensitive approach to the delivery of targeted services and promote the 
+development of gender-sensitive sector policies and strategies to help address the gender gaps identified. 
+Areas covered by the component are as follows:  
+(a) 
+Setting up the MSME Financing Facility as a dedicated apex institution providing financing to 
+bank and nonbank financial institutions, with implementation support from the World Bank. 
+Discussions have also been held with IFC to engage in supporting implementation of the 
+facility (see annex 2). The entity will follow private sector management and governance 
+principles, as well as embed AML/CFT controls in accordance with the Financial Action Task 
+Force (FATF) standards. Eligible financial institutions will be those which are appraised by 
+the MSME Financing Facility and meet World Bank Group policies as well as other risk 
+considerations (including environmental and social [E&S] safeguards and AML/CFT risk 
+controls).  
+(b) 
+Digital ID enrollment for at least the first one million registrants, including dedicated support 
+for outreach to the poorer and marginalized groups, and support for the use of the digital ID 
+for increased financial access through more accurate identity verification and authentication 
+mechanisms available to, among others, mobile money companies, banks, and MTBs.  
+(c) 
+Government digital payments, construction of interoperable retail payments services, and 
+integrated Government digital services thereby contributing to strengthened systems for 
+revenue mobilization and expenditure management in an increasingly coherent federal 
+government structure for service delivery.  
+(d) 
+e-business registration services for SMEs through operationalization of one-stop shop (OSS), 
+thereby enabling access to a centralized information service to verify the identity of the 
+beneficial owners of all legal entities operating in Somalia. The digital business registration 
+services would also enable CDD as a pillar of an effective AML/CFT program by financial 
+service providers operating in Somalia as well as the MSME Financing Facility set up under 
+the project. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 22 of 119 
+ 
+33. 
+The MSME Financing Facility will be set up as a dedicated and autonomous Somali body to 
+ensure long-term sustainability. The entity will be initially publicly funded using IDA financing but would 
+be structured to operate through private sector management and governance principles and with the 
+provision to allow transition toward private sector majority shareholding over time. To avoid crowding-
+out private sector financing, any subsidy component in the pricing will be explicit and transparent and will 
+be gradually phased out to build a commercial market segment for lending to MSMEs in underserved 
+market segments.  
+34. 
+The MSME Financing Facility will be supported by the World Bank Group to build its operational 
+capacity and establish credibility in the market. The project will also help protect the integrity of the 
+institution by requiring the MSME Financing Facility to operate in accordance with World Bank-reviewed 
+appraisal procedures and standards as a condition of the IDA Grant Agreement and the World Bank 
+project agreement. The World Bank Group implementation support to the MSME Financing Facility will 
+indirectly help build capacity to improve the quality of subproject loan applications prepared by the 
+participating financial institutions (PFIs). This is because the MSME Financing Facility will adopt an MSME 
+Subproject Manual developed with World Bank Group assistance. The key design elements of the MSME 
+Subproject Manual will ensure (a) access to finance by MSMEs in underserved economic segments, 
+especially women and female-owned businesses and (b) clarity, transparency, and administrative 
+efficiency in MSME Financing Facility appraisal operations under a single institution using a single MSME 
+Subproject Manual. 
+35. 
+The project will support the MSME Financing Facility to develop the institutional capacity to 
+screen, appraise, and supervise funded subprojects. This will involve supporting the MSME Financing 
+Facility to manage its operations on a sustainable basis; building capacity in PFIs and other relevant 
+parties; developing standardized documents and procedures for PFIs to use in preparing subproject loan 
+applications and requiring the use of such documents and procedures for subprojects to receive funding 
+from the MSME Financing Facility; and supporting on-demand sub-loan preparation activities, including 
+feasibility studies, transaction advisory support, and other activities that PFIs consider complex. The 
+MSME Financing Facility will operate through two separate financing windows addressing different 
+customer-facing channels and lines of business emphasizing the need to tailor the framework to an 
+individual bank’s line of business structure, products, and priorities as follows: 
+• 
+A ‘large loans’ window to cover large loans to SMEs (large businesses). The eligibility criteria 
+for borrowers would be flexible. However, informal companies would not be accepted. All 
+advances will be in U.S. dollars and all types of credit would be eligible (working capital and 
+investment loans), except trade finance. 
+• 
+A ‘micro and small loans’ window that would be open to SMEs, individuals, and groups. This 
+will include informal small and microenterprises and groups with a commitment to formalize 
+during the loan repayment period. All advances will be in U.S. dollars and all types of credit 
+would be eligible (working capital and investment loans) except trade finance.  
+36. 
+The project will also support enrollment in the digital ID system of at least the first one million 
+registrants. The project proposes to use an ecosystem approach to rapidly reach high volume and ensure 
+the inclusion of vulnerable and marginalized populations such as women, internally displaced persons 
+(IDPs), and persons living with disabilities. Under such an approach, public and private sector service 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 23 of 119 
+ 
+providers, local NGOs, and entrepreneurs would also serve as registration agents and/or ID service 
+partners. These stakeholders could also be engaged to raise awareness about the importance of obtaining 
+an ID and could play an active role in designing key features of the ID system itself. To develop an inclusive 
+and collaborative enrollment strategy, the project will build on early analytical work22 delivered advising 
+the Somali authorities on good practices and will facilitate consultations with the private sector, civil 
+society, and humanitarian agencies. The FGS can draw on lessons from previous biometric registration 
+efforts by WFP and other humanitarian organizations and should explore ways to leverage their existing 
+network of registration partners for enrollment and ID service provision related to the new digital ID 
+system. The planned project activities also include the preparation of a social management plan to address 
+risks of exclusion as well as a comprehensive outreach and communications strategy to be completed 
+before the rollout of the digital ID system to ensure the ID system’s accessibility for women and other 
+vulnerable populations, such as persons with disabilities. Collaboration with humanitarian organizations 
+can also be valuable in this context, because they have considerable experience of serving vulnerable 
+communities across the country and can provide guidance on outreach strategies as well as the 
+implementation of an effective project-level grievance redress mechanism (GRM). 
+37. 
+Activities to be financed will include provision of goods, capacity building, training, workshops, 
+and consultancy services to support stocktaking exercises; implementation of interoperability measures 
+including data exchange protocols, and scheme regulations and rules; procedural reforms, process 
+reengineering, simplified forms and documentation, and digital ID enrollment services; and citizen 
+engagement, consultation, and communication campaigns on delivery of robust and sustainable financial 
+and digital services. 
+Component 3: Project Management and Coordination (SDR 2.9 million, US$4 million equivalent)  
+38. 
+The component will fund project management and coordination activities. The project will be 
+implemented by the FGS using a single Project Implementation Unit (PIU) anchored in the Ministry of 
+Finance (MoF) in Mogadishu, with a multilayer implementation and oversight structure. The PIU will be 
+responsible for day-to-day project management and will coordinate closely with MDAs covering the 
+project target areas. The PIU will also coordinate activities across the FGS including Federal Member States 
+(FMS). Project focal persons will be appointed and embedded within MDAs covering project target areas. 
+The project will set up a single Project Steering Committee (PSC) comprising the key MDAs to coordinate 
+and oversee the implementation of activities, with attention to sequencing and timing issues, as well as 
+ensuring effective stakeholder consultations and engagements. The project will also fund an independent 
+monitoring agent to provide an added layer of physically monitoring the flow and use of project funds, 
+including the MSME Financing Facility. In addition, funding will be allocated to establish a project-level 
+GRM.  Activities to be financed by this component will include provision of goods, consulting services, 
+training, and operating costs of the PIU to support project coordination, implementation, monitoring and 
+evaluation (M&E), and management. 
+                                            
+22 See: World Bank. 2018. Toward a Robust, Inclusive and Responsible Digital ID System in Somalia. Washington, DC: The World 
+Bank Group; World Bank. 2016. Toward a Somali Identification System: ID4D Diagnostic. Washington, DC: The World Bank.  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 24 of 119 
+ 
+C. Project Beneficiaries 
+39. 
+Direct beneficiaries of the project will be the residents of Somalia, especially women and female 
+owners of MSMEs, who will benefit from more formalization and growth in economic participation. 
+Women and female owners of MSMEs will derive direct benefit from improved access to financial services 
+through ownership of transaction accounts enabled by the digital ID system and from the MSME Financing 
+Facility. In addition, all those enrolled in the digital ID system and issued a unique ID number will benefit 
+from greater access to financial services by having a robust and verifiable official proof of identity. ID 
+holders, of which 50 percent are expected to be women, will also be more able to participate in the formal 
+economy more broadly and capitalize on economic opportunities arising, for example, from greater 
+freedom of movement, as facilitated by the digital ID system.  
+40. 
+Other beneficiaries of this project will be FGS institutions that are key to delivery of targeted 
+financial and digital services. These include the MoF, MoIFAR, MoCI, MPTT, CBS, FRC, NCA, a new 
+dedicated ID Authority, and the newly created MSME Financing Facility. Banks and nonbank financial 
+institutions participating in the MSME Financing Facility will also directly benefit from the strengthened 
+capacity to provide MSME banking and conduct E&S assessments. The project would enable delivery of 
+support across FMS depending on the readiness of the states. 
+41. 
+More broadly, a more robust and inclusive financial and digital ecosystem will benefit the entire 
+Somali population including the economic empowerment of women. This is accomplished by helping the 
+FGS with clear policies and specific strategies, plans, and road maps to help ‘leapfrog’ a few development 
+steps and effectively respond to the demands of the domestic economy for robust and inclusive financial 
+and Government services enabled by highly efficient digital infrastructure and an enabling institutional, 
+legal, and regulatory framework.  
+42. 
+In addition, the MSME Financing Facility will benefit financial institutions and the market at 
+large through possible links with DFIs attracting additional capital overtime. The MSME Financing Facility 
+is expected to result in (a) the upstream benefit of raising the standards of subproject preparation by PFIs 
+and (b) the downstream benefit of providing financing to MSMEs based on transparent appraisal of 
+subproject risks and viability as well as eligibility criteria and realization of the Government’s commitment 
+to financial inclusion targeting access to marginalized groups including women and female-owned 
+MSMEs.  
+43. 
+Over time, once a track record is established, the MSME Financing Facility may raise funds from 
+private investors and DFIs. To crowd-in investment capital from private sector sources, the MSME 
+Financing Facility is expected to benefit from a range of blending tools consisting of core equity (with the 
+FGS accepting a high-risk for a relatively low return) and/or subordinated/mezzanine debt (with the FGS 
+accepting first losses ahead of private creditors/investors). In this way, private investors (such as DFIs 
+when they can invest further down the line) will be afforded the opportunity to achieve better returns at 
+lower risk than other core equity shareholders such as the FGS, to the extent that they can provide finance 
+and achieve additionality. Equity and subordinate instruments will also help attain leverage of public 
+funds, in line with the MFD approach.  
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 25 of 119 
+ 
+D. Results Chain  
+ 
+Note: The list of activities, outputs, and outcomes are not all inclusive. Component 3 (Project Management and 
+Coordination) is excluded because it primarily relates to administrative activities and does not directly contribute 
+to the PDO and intermediate indicators. 
+Impact 
+Outcomes 
+Outputs 
+Activities  
+Component 1: Strengthening Institutions 
+ 
+•
+Support to policy makers, regulators, and supervisors 
+of key institutions for effective policies and 
+strategies; adoption of robust and comprehensive 
+legal and regulatory frameworks; and sustainable 
+mechanisms for service delivery 
+•
+Regulatory technology (RegTech) solutions for 
+regulatory reporting, compliance and transaction 
+monitoring, shared ID and KYC utility services, and 
+fraud detection and control 
+Increased access to basic digital financial and government services 
+targeting entrepreneurship and employment, particularly for women 
+Outcomes 
+•
+Increased business and consumer confidence in 
+decisions made by regulators and supervisors 
+•
+Strengthened institutional capacity, transparency, 
+and accountability of regulators and supervisors 
+•
+Improved enabling environment for financial and 
+digital developments  
+Component 2: Enabling Financial and Digital Services 
+ 
+•
+Support to the MoF for the establishment of the MSME 
+Financing Facility 
+•
+Capacity building and TA (E&S Safeguards) for PFIs to 
+access MSME Financing Facility 
+•
+Support for digital ID enrollment and effective use for 
+financial sector applications 
+•
+Operationalization of infrastructure developed under 
+previous projects; creating sustainable mechanisms of 
+service delivery for e-business registration and links to 
+tax, and ID services under OSS process for MSMEs, 
+Outcomes 
+•
+Increased access to financial services for targeted 
+beneficiaries and sectors 
+•
+Additional private capital mobilized by PFIs 
+•
+Improved ownership of transaction accounts enabled by 
+digital ID and/or business registry 
+Increased competition in markets and reconfiguration of 
+the financial and digital communications sector to 
+improve service delivery 
+Increased capacity for businesses to innovate, adopt new 
+technologies and adapt products and processes to meet 
+market needs 
+Component 1: Strengthening Institutions 
+(Key institutions = CBS, FRC, NCA/MPTT, ID admin body) 
+ 
+(a) Support on main functions for key institutions: 
+•
+Digital ID Authority legally established and functional 
+•
+NCA functional and issues strong policies and 
+effective regulations to communications service 
+providers 
+•
+CBS reorganized and regulators/supervisors 
+trained/certified 
+•
+Strengthened risk assessment capacity for FRC 
+through case-based system for management of 
+AML/CFT risks 
+•
+Operational and sustainability business plans 
+developed by the CBS, FRC, NCA, and new ID 
+Authority to assist MoF fiscal planning 
+•
+Interagency coordination body established 
+ (b) Regulatory technology solutions implemented: 
+•
+Digitization of regulatory reporting and examinations 
+Component 2: Enabling Financial and Digital Services 
+ 
+(a) Line of Credit/MSME Financing Facility: 
+•
+Dedicated and autonomous MSME Financing Facility 
+established using private sector management and 
+governance principles 
+•
+PFIs access MSME Financing Facility for on-lending to 
+target sectors/beneficiaries 
+(b) Digital ID for financial access: 
+•
+Accessible digital ID system operational and enabled for 
+use in the financial sector, including for mobile 
+money/SIM card registration, banks, and MTBs 
+(c) e-Registration Services for SMEs: 
+•
+One-stop shop (OSS) operational for e-business 
+registration, tax, and ID services based at the MoCI 
+(d) Government and Retail Payment Services: 
+•
+National Payment Systems Committee established 
+•
+Payment systems interoperable for mobile money 
+platforms and interbank payments 
+Communities and businesses facing access barriers to capital sources/international financial system 
+Domestic digital and physical infrastructure gap limiting connectivity and trade 
+Market failures related to information asymmetries in access to finance 
+Development  
+Challenge 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 26 of 119 
+ 
+E. Rationale for World Bank Group Involvement and Role of Partners 
+44. 
+The World Bank Group brings extensive international experiences in all components of the 
+project. This includes World Bank-supported interventions establishing digital ID systems, establishing 
+dedicated entities to manage lines of credit, strengthening central banks, Financial Intelligence Units 
+(FIUs), ICT regulators, and promoting access to finance for MSMEs around the world. The World Bank 
+Group also brings strong analytical expertise underpinning reforms and informing decisions and 
+investments. Rigorous diagnostics and studies will continuously feed the project implementation. The 
+proposed M&E Results Framework will generate evidence-based findings that will inform future 
+interventions and adjustments to support financial sector and digital developments in Somalia and 
+beyond. 
+45. 
+The MSME Financing Facility is designed to support initial stages of mobilizing investments of 
+private capital in underserved economic sectors in Somalia. The strategic rationale for the World Bank 
+and proposed IFC supporting the setup of the MSME Financing Facility is two-fold:  
+(a) 
+By helping the MSME Financing Facility establish credible appraisal standards and other 
+operational and institutional procedures and codifying them in the MSME Subproject 
+Manual (which includes the E&S safeguards assessments), the World Bank and IFC can help 
+the facility demonstrate that its appraisal standards are of a high standard and its 
+institutional integrity is protected by the FGS-World Bank agreements under the project.  
+(b) 
+World Bank and the proposed IFC support to the MSME Financing Facility can contribute to 
+improved quality of loans provided to MSMEs by PFIs. This is because PFIs will use the IFC 
+implementation TA23 to inform improvements in credit risk policies used in the evaluation of 
+loan applications seeking funding support from the MSME Financing Facility. Leveraging IFC 
+experience in this regard will be critical for the MSME Financing Facility as it will signal to the 
+market that the quality of its appraisal standards, governance and other internal controls 
+are high. 
+46. 
+The World Bank has the convening power to bring to Somalia technical expertise, best practices, 
+and lessons learned from around the world. The World Bank Group has unique advantages to convene 
+both public and private stakeholders and local, national, and global levels of expertise at all the stages of 
+the project. In 2014, the World Bank established the Identification for Development (ID4D) program, 
+which provides dedicated support on the design and implementation of digital identification systems, 
+building on a growing body of evidence and good practices from across the globe. ID4D will provide 
+specialized expertise for strengthening the enabling environment and mass registration for the digital ID 
+system, including through providing practical advice from members of ID4D’s Technical Expert Group. 
+47. 
+The project builds upon experiences and accomplishments of SCORE (P152241) and ICT Sector 
+Support in Somalia Phase II (P152358) projects. These operations involve strengthening legal and 
+regulatory foundations, institutional capacity, and financial and telecommunications infrastructure. 
+                                            
+23 See annex 4, box 4.1 for a description of IFC’s Financial Institutions Development Program (FIDEP) (ID: 602159) currently 
+under preparation.  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 27 of 119 
+ 
+Several proposed activities are incremental improvements that scale up past accomplishments (see box 
+2). 
+48. 
+The project is closely linked to the World Bank’s project - Somali Electricity Access Project (SEAP, 
+P165497, approved by the Board in December 2018). SEAP’s objective is to expand electricity access in 
+targeted urban, peri-urban, and rural communities in Somalia. SEAP is expected to increase access to 
+affordable and reliable renewable energy services for households and small businesses by incentivizing 
+private companies in the off-grid solar photovoltaic sector to enhance their business operations and reach 
+currently untargeted populations. SEAP will leverage the MSME Financing Facility under the project to 
+support MSMEs within the renewable energy value chain as one of its target sectors. It is expected that 
+MSMEs supported under SEAP will also be strong candidates for commercial financing under the MSME 
+Financing Facility. 
+49. 
+The project complements other development partner programs addressing access to financial 
+and digital services in Somalia. The MSME Financing Facility will act as a vehicle through which the FGS, 
+DFIs, and other donors could channel additional funds to build up market-based financial intermediation 
+at the lower end of the financial sector. In this way, the MSME Financing Facility helps the FGS (a) 
+coordinate donor funding to the poorest segment of financial services customers, thereby avoiding 
+possible duplication of efforts and distortion of markets; (b) kick-start MSME banking in key underserved 
+service and productive sectors by supporting the PFIs to scale up rapidly and become sustainable; and (c) 
+build sustainable mechanisms for advancing market-based financial intermediation by instilling a 
+commercial orientation to MSME banking by PFIs supporting the lower end of the financial sector. On the 
+financial intermediation front, there are two main donor programs in operation that the project will 
+closely coordinate with: (a) Swedish International Development Cooperation Agency Partial Guarantee, 
+and; (b) Nordic Horn of Africa Fund. On the TA side, USAID’s Growth, Enterprise, Employment, and 
+Livelihoods (GEEL) Project is working to develop a few selected agricultural product value chains by 
+providing specialized technical support. The MSME Financing Facility introduces private sector orientation 
+and MFD-enabling dimensions to the financial intermediation interventions. This is very much part of the 
+institution building agenda and value addition envisaged with possible involvement of IFC in provision of 
+implementation support. On the energy side, the World Bank developed a study in cooperation with 
+Lighting Africa on ‘Market Assessment of the Off-grid Solar Lighting Sector in Somalia’ that was completed 
+in March 2018 and helps to uncover the market demand for off-grid systems.  
+50. 
+On the digital ID side, the project is supporting the FGS to set up a foundational digital ID 
+together with the institutional and legal framework. This provides an opportunity for the FGS to leverage 
+the lessons learned from previous registration experience of humanitarian agencies such as the WFP for 
+achieving high coverage and ensuring the robustness of the foundational digital ID. The World Bank has 
+developed two studies in cooperation with the United Nations Development Programme (UNDP) which 
+suggests pathways to building robust digital ID system in Somalia. The first of these (‘Toward a Somali 
+Identification System: ID4D Diagnostic’) had been completed in 2016, and the second (‘Toward a Robust, 
+Inclusive and Responsible Digital ID System in Somalia’) was completed in June 2018.  
+51. 
+On enhancing the integrity of financial markets, the project builds on the NRA delivered under 
+the SCORE Project (P152241) and supplements support provided by other developing partners. The U.S. 
+State Department has been providing some support to the FRC and CBS in the form of AML/CFT mentors 
+and capacity building as well as improving physical security of FRC premises, while the IMF has been 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 28 of 119 
+ 
+engaged in the financial sector, through a legal review of CFT laws and regulations, and with the CBS 
+mainly through the SMP. The European Union has been channeling support jointly with UNDP to the 
+justice sector through the Joint Justice Program which is being implemented by UNDP. The program 
+foresees capacity building to the Attorney General’s Office, including the possible establishment of 
+specialized units to deal with cases relating to juveniles, gender-based violence (GBV), or corruption.  
+F. Lessons Learned and Reflected in the Project Design 
+52. 
+The following lessons learned from similar projects in Somalia as well as from other 
+international experiences were considered in the design of the project: 
+• 
+Fragile security situation. Operating in a fragile and conflict-affected country and all-around 
+capacity weaknesses affects the project both in terms of the safety of staff and contractors, 
+as well as implementation time lines of project activities and budgets due to high costs of 
+client hand-holding efforts and challenging logistics within the country. Client absorptive 
+capacity will be continually assessed and interventions carefully calibrated. Similarly, the 
+security situation will continually be assessed. ‘Duty of Care’ responsibilities will be upheld 
+always to ensure the health, safety, security, and well-being of all staff and contractors. The 
+project will maintain high level of planning and coordination of activities on an ongoing basis 
+and adjust as needed to achieve successful project activities and outcomes. 
+• 
+Fiscal sustainability. Somalia is highly fiscally constrained meaning the adoption of new 
+budgetary units should be treated with caution and managed carefully in coordination with 
+the MoF. The project adopts the following measures: (a) Government financing: to ensure 
+sustainability, solution selection will be based on confirmation of adequate sources of funds 
+needed to meet operations and maintenance costs of completed service facilities, and; (b) 
+stakeholder participation: stakeholder participation is crucial in solution identification and 
+preparation and in securing stakeholder contributions in cash or kind. Local ownership of 
+completed service facilities would also provide additional assurance of subsequent 
+sustainability of operations and maintenance. Moreover, while the structure of the MSME 
+Financing Facility is initially publicly financed, the intent is to transition to majority private 
+sector shareholding over time and use public capital to private leverage funding which 
+contributes to fiscal sustainability in the medium term. 
+• 
+Autonomous project management and staff competency. There is a need for highly 
+efficient project management capacity that can cope with many beneficiary MDAs and 
+management of the MSME Financing Facility. The management of the MSME Financing 
+Facility will use private sector governance principles covering an independent board of 
+directors, an outside advisory panel, and recruitment of competent management staff 
+through open competition. 
+• 
+Risk mitigation through a phased and iterative approach to project implementation and 
+institutional reform, based on technical assessments. The first phase of the project will 
+support the building of the enabling policy, legal, and regulatory frameworks and the setting 
+up of the specialized entities. This will be followed by efforts to scale up access to the basic 
+services targeted by the project. Iterative technical assessments will be essential to ensure 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 29 of 119 
+ 
+healthy and sustained delivery of services beyond the life cycle of the project through the 
+provision of technical experts and more complete and relevant analytical work on 
+sustainable business models. In all cases, project support will ensure transparency and 
+accountability on all procurements and financial governance issues. This will be aimed at 
+affording the FGS the opportunity to generate a complete evidence base and information 
+needed to renegotiate unfavorable contract terms and/or correct technical weaknesses or 
+gaps in service facilities or business model sustainability including addressing cybersecurity 
+risks. 
+• 
+E&S safeguards mitigation. During the selection of subprojects, strict screening of E&S 
+safeguards is necessary, which will also determine investment needs to provide appropriate 
+mitigation measures. 
+53. 
+The design of the MSME Financing Facility is based on lessons learned from across similar 
+financial sector development projects offering lines of credit. The MSME Financing Facility is intended to 
+serve as a stepping stone that facilitates the adoption of traditional lending by Somali financial institutions 
+and create sufficient scale of market-based funding to MSMEs in nontraditional sectors which generally 
+have difficulties accessing finance. The MSME Financing Facility target sectors include energy and 
+livestock. Lessons were drawn from previous World Bank projects in Afghanistan (ARTF-Microfinance 
+[P091264]), Indonesia (Indonesia Infrastructure Guarantee Fund Project [P118916]), Yemen (Yemen 
+Emergency Electricity Access Project [P163777]), Rwanda (Rwanda Housing Finance Project [P165649]), 
+Kenya (Kenya Affordable Housing Finance Project [P165034]) and Pakistan (Pakistan Housing Financing 
+Project [P162095]) whereby public funding created the market opportunities while operations were on 
+private sector principles and in some cases, with an enabling provision to allow private sector participation 
+and majority shareholding over time. This was confirmed in the Letter of Policy Commitments from the 
+Prime Minister, dated January 22, 2019 (see annex 6). As such, the charter for the MSME Financing Facility 
+will create a domestic Somali entity with a commercial orientation that can act as a platform and benefit 
+from blending tools to crowd-in additional private and public financing from other sources including DFIs. 
+It also creates a revolving fund able to create sufficient scale through multiple financing rounds. This will 
+help to gain trust and reduce the risk perceived by lenders in MSMEs sectors and by private investors in 
+Somali financial institutions. 
+54. 
+The project also draws on lessons learned from other ID projects and on the wealth of analytical 
+and global convening work on identification by the World Bank’s ID4D program. The 10 Principles on 
+Identification for Sustainable Development, which have been endorsed by over 24 development partners, 
+United Nations agencies, and private sector organizations, synthesize lessons learned from around the 
+globe about maximizing the benefits of identification systems for development while mitigating important 
+risks. The proposed digital ID system’s design and implementation strategy will be aligned with the 
+Principles, including with regard to the accessibility of the system, the adoption of robust, secure, 
+responsive, and sustainable system features and technologies, and governance arrangements that 
+facilitate trust and help protect privacy and user rights. This was confirmed in the Letter of Policy 
+Commitments from the Prime Minister, dated January 22, 2019 (see annex 6). To this end, the ID Authority 
+will include representatives of users and a wide range of stakeholders, including from both the private 
+and public sectors within its governance structures such as its board. A public entity with a dedicated 
+mandate for ID service provision and with legal, institutional, and financial independence will be more 
+likely to operate in an inclusive and efficient manner, to be responsive to user needs, and build up public 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 30 of 119 
+ 
+trust due to its greater perceived political neutrality. To be able to effectively implement the digital ID 
+system, the ID Authority will also need to have sufficient capacity, including capable and dedicated staff, 
+to manage large-scale registration efforts, safeguard the integrity of identity data, and ensure integration 
+of the ID into service delivery.  
+III. IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements 
+55. 
+The project will adopt a layered and inclusive project oversight structure to ensure coordination 
+among different participating government stakeholders. The MoF will be the executing agency of the 
+project. The project will set up a single Project Steering Committee (PSC). The PSC, headed by the MoF 
+with representatives from the MoCI, MPTT, MoIFAR, CBS, FRC, NCA, and the new ID Authority, will provide 
+policy guidance and monitor the progress through the Secretariat, represented by the Director General in 
+the MoF. The FGS can make changes in the membership composition of the PSC or its terms of reference 
+(TOR) in consultation with IDA. Furthermore, the MoF will appoint an independent board of directors in 
+accordance with the charter of the MSME Financing Facility. In turn, the board of directors will appoint a 
+competent management and investment committee selected through a clearly defined TORs and criterion 
+which are set out on the Project Operations Manual (POM) including an annex MSME Subproject Manual. 
+The FGS will submit to IDA for review and clearance the proposed charter of the MSME Financing Facility, 
+TORs for the board of directors and management, job descriptions for directors/staff proposed to be 
+recruited, and MSME Subproject Manual. 
+56. 
+The existing SCORE Project (P152241) PIU in the MoF, created in 2016, will implement the 
+project. An effective management structure is in place, and the PIU had demonstrated its capacity to 
+deliver results efficiently. It has established a strong track record of performance, has familiarity with the 
+World Bank’s fiduciary guidelines, as well as functional MIS and M&E systems. Lessons learned from the 
+implementation arrangements for the predecessor SCORE and ICT Sector Support projects have been 
+considered when designing implementation arrangements for this project.  
+57. 
+The PIU will coordinate activities across the FGS where necessary at the FMS level, making it 
+unnecessary to establish subsidiary implementation arrangements with the FMS. The PIU will include 
+focal persons from MDAs to coordinate and oversee the implementation of activities at sponsoring MDAs, 
+with attention to sequencing and timing issues, as well as ensuring effective stakeholder consultations 
+and engagements. As such, the project would enable delivery of support across the FMS depending on 
+the readiness of the states. 
+58. 
+The duties and functions of the PIU will include (a) providing assistance to MDAs (including the 
+FMS depending on the readiness of the states) and initial support to the MSME Financing Facility in 
+preparing priority investment programs; (b) appointing consultants and stakeholders for specific 
+assignments, including participation in the supervision of technical solutions requiring stakeholder 
+participation; (c) monitoring quality and costs of executed assignments; (d) validating results on the 
+ground through stakeholders and third parties, as needed; (e) establishing proactive communications and 
+consultations with project stakeholders; (f) coordinating with MDAs, the MSME Financing Facility, and the 
+private sector; and (g) revising and updating documents governing PIU staffing hiring. To facilitate early 
+project readiness, the PIU will support the MSME Financing Facility in the initial setting-up period. As a 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 31 of 119 
+ 
+condition of project effectiveness, the authorities will submit to IDA a satisfactory POM that the PIU would 
+follow in helping MDAs and others to prepare and implement project activities. The POM would specify 
+the managerial, financial, administrative, procurement, environmental, and social safeguard policies and 
+procedures for the execution of the project as well as operating the GRM, and the eligibility criteria for 
+the selection of PFIs and final beneficiaries of the MSME Financing Facility. Similarly, as a condition of 
+disbursement under the MSME Financing Facility, the authorities will prepare and submit to IDA a 
+satisfactory MSME Subproject Manual (forming an annex or schedule to the POM). 
+59. 
+The MoF will establish the MSME Financing Facility to provide funding and capacity building to 
+PFIs. For the dedicated entity to have credibility in the market, the newly established institution must 
+quickly demonstrate that it has the capacity to appraise projects on technical and financial merits, and 
+that it will be allowed to operate as an independent institution with the mandate for appraisal of all PFIs 
+requiring access to the MSME Financing Facility. It will take some time for the entity to develop full in-
+house capacity to appraise projects. As such, there is a need for investment advisory support for the entity 
+to demonstrate early on that its appraisal standards are not only sound, but that they will also stand the 
+test of time and occasional pressure when the institution is forced to reject popular projects which are 
+not financially or technically viable.  
+60. 
+The MSME Financing Facility will be managed by a board of directors and a competent 
+management team. The independent board of directors (majority private sector) will be assigned 
+oversight responsibility for the MSME Financing Facility and hiring of a professional management team 
+which will include competency in environment and social safeguards assessment and other technical 
+areas to support effective operations. The MSME Financing Facility setup will include an external advisory 
+board to provide specialists’ advice on specific topics to the board of directors and management. 
+61. 
+Under the project, the selection of PFIs will be done by the MSME Financing Facility without 
+undue outside interference. The participation of banks and nonbank financial institutions in the MSME 
+Financing Facility will be based on criteria that will ensure their capacity to implement as well as embed 
+World Bank Directive on Investment Policy Financing and draw on the IFC investment standards. The E&S 
+management consultant will be involved in the identification exercises undertaken by this entity. The 
+selection criteria related to the World Bank Directive focuses on adherence to prudential regulatory ratios, 
+minimum capital and operational standards, appropriate governance, policies, and risk management 
+functions. PFIs will be subjected to fit and proper tests, AML/CFT controls, and reporting obligations to 
+the FRC and will fall under the supervision of the CBS, according to FATF standards and the Somali 
+AML/CFT legal framework, based on their risk. Additional requirements may be set out in the MSME 
+Subproject Manual. Segregation of duties and responsibilities will ensure that all MSME funding requests 
+are assessed by PFIs and not the MSME Financing Facility. The MSME Financing Facility will assess PFIs’ 
+eligibility to participate against well-established selection criteria set out in the MSME Subproject Manual 
+to avoid possible undue political interference. The MSME Financing Facility will submit, once each quarter, 
+‘MSME Financing Facility Quarterly Progress Reports (QPRs)’, no later than one month after the end of 
+that quarter, to its board of directors and IDA for review and clearance. 
+62. 
+The QPRs are to be provided to the Board of Directors, World Bank Group, and other 
+stakeholders. These reports will be reviewed by World Bank and commented upon, as neccessary. 
+Biannual reviews based on quarterly reports prepared by the MSME Financing Facility will form the basis 
+of at least two implementation support reviews per year. An independent monitoring agent hired under 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 32 of 119 
+ 
+the project will provide an added layer of physically monitoring the flow and use of the MSME Financing 
+Facility by PFIs and final beneficiary verifications and reporting cases of fraud and corruption complaints 
+by submitting periodic inspection reports covering standard audits of PFIs and sample checks of 
+compliance in line with the accountability framework set out in the MSME Subproject Manual. These 
+reports will be submitted to the board of directors, the MoF, and other participating investors and the 
+World Bank Group for review and clearance. The monitoring agent will complement the safeguards 
+responsibility of the MSME Financing Facility and will also act as an ‘early warning’ whistleblower in case 
+governance issues are detected. The QPRs and monitoring agent periodic inspection reports will inform, 
+among other issues, (a) perfomance indicators, (b) compliance with remedial actions to be taken for E&S 
+safeguards and GRM, (c) implementation progress of activities, and (d) status of funds. At the end of the 
+second year, the FGS and World Bank will carry out a joint midterm review of progress made in carrying 
+out the project. 
+B. Results Monitoring and Evaluation Arrangements 
+63. 
+Results M&E will involve both the PIU measuring and monitoring results and a World Bank 
+review. The PIU will be responsible for monitoring and reporting results. The newly established M&E Unit 
+in the PIU will systematically gather and enter data from different sources into an MIS, thereby constantly 
+keeping it updated. The M&E function is expected to develop an M&E plan and socialize with the PIU and 
+other stakeholders highlighting the theory of change, data collection methodology with time line and 
+definitions of indicators. For specific monitoring activities on the MSME Financing Facility and digital ID 
+services, the FGS will establish autonomous management bodies that will be assigned oversight and M&E 
+responsibilties. The MSME Financing Facility may procure a technology-based solution that will allow PFIs 
+to report efficiently. An external M&E specialist may also be hired to conduct MSME beneficiary surveys 
+to measure satisfaction with quality of on-lending processes and services provided by PFIs. As part of the 
+ID services subcomponent, the autonomous entity will be responsible for measuring key enrollment 
+statistics, as well as conducting surveys of registrants and spot checks to measure service delivery and 
+satisfaction of the planning and enrollment process of the digital ID system. All other PDO and 
+intermediate-level monitoring activities will be monitored and reported on by the M&E Unit in the PIU. 
+Strategic alliances will be established with communities, final beneficiaries, and PFIs to support M&E 
+efforts. The PIU will ensure that the M&E specialist is equipped with the tools and capacity to undertake 
+their duties effectively and will capacitate the rest of the PIU to understand their role in contributing to 
+project results in addition to implementing project activities. 
+C. Sustainability 
+64. 
+Somalia is fiscally constrained, meaning that the adoption of new budgetary units under the 
+project will be treated with caution and managed carefully in coordination with the MoF to ensure fiscal 
+sustainability. The selection of solutions will be based on confirmation of adequate sources of funds 
+needed to meet operations and maintenance costs of completed service facilities, including confirmation 
+of stakeholder contributions in cash or kind which contributes to fiscal sustainability. In this regard, fiscal 
+sustainability of service delivery from project interventions will be ensured by (a) requiring full stakeholder 
+involvement in solution selection; (b) requiring the subsidy component, if any, in pricing by the MSME 
+Financing Facility to be explicit and transparent and gradually phased out as a commercial market segment 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+(P168115) 
+ 
+ 
+ 
+ 
+Page 33 of 119 
+ 
+is established for lending to MSMEs in underserved key sectors such as energy and livestock24; and (c) 
+reviewing responsibility for operations and maintenance costs as an explicit feature of project 
+validation/confirmation at the time of design of specific solutions and rejecting solutions with inadequate 
+or no provisions for sustainability. For digital Government services, the responsibility for sustainability of 
+completed service delivery facilities resides with the MDAs in consultations with the MoF to ring-fence 
+annual operation and maintenance budgets. The project-supported 

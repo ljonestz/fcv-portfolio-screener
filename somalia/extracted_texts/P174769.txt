@@ -1,0 +1,2373 @@
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4375  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+PROJECT PAPER 
+ON A  
+PROPOSED ADDITIONAL GRANT 
+ 
+IN THE AMOUNT OF SDR 34.9 MILLION 
+(US$50 MILLION EQUIVALENT) 
+ 
+TO THE 
+FEDERAL REPUBLIC OF SOMALIA 
+FOR THE 
+SOMALIA CAPACITY ADVANCEMENT, LIVELIHOODS AND ENTREPRENEURSHIP, THROUGH 
+DIGITAL UPLIFT (SCALED-UP) PROJECT ADDITIONAL FINANCING 
+ 
+May 26, 2021 
+ 
+ 
+ 
+Finance, Competitiveness, and Innovation Global Practice 
+Eastern and Southern Africa Region  
+This document has a restricted distribution and may be used by recipients only in the performance of their 
+official duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+Exchange Rate Effective April 30, 2021 
+ 
+Currency Unit =  Somali Shilling (SOS) 
+US$1 = SOS 578.50 
+US$1 = SDR 0.70 
+ 
+FISCAL YEAR 
+January 1 – December 31 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ACH 
+Automated Clearing House  
+AF 
+Additional Financing 
+AfDB 
+African Development Bank 
+AML 
+Anti-Money Laundering 
+ATS+ 
+Automated Transfer System  
+BAU 
+Business as Usual 
+BDS 
+Business Development Service 
+BRS 
+Business Registration System  
+CBS 
+Central Bank of Somalia  
+CDD 
+Customer Due Diligence 
+CERC 
+Contingent Emergency Response Component 
+CERT-SOC 
+Computer Emergency Response Team - Security Operations Center  
+CFT 
+Combating the Financing of Terrorism 
+CIP 
+Capital Injection Plan 
+CISP 
+Communications Infrastructure and Services Provider 
+COVID-19 
+Coronavirus Disease 2019 
+CPF 
+Country Partnership Framework  
+CPRP 
+Country Preparedness and Response Plan 
+CVS 
+Customer Verification System  
+DFI 
+Development Finance Institution 
+DFS 
+Digital Financial Service(s) 
+DNFBP 
+Designated Nonfinancial Businesses and Professions 
+DPO 
+Data Protection Office 
+EEP 
+Eligible Expenditure Program  
+eKYC 
+Electronic KYC  
+ERP 
+Enterprise Resource Planning  
+ESF 
+Environmental and Social Framework  
+ESMF 
+Environmental and Social Management Framework  
+FACTS 
+Financial Accounting Control and Transactions System  
+FATF 
+Financial Action Task Force  
+FGS 
+Federal Government of Somalia  
+FHW 
+Female Health Worker 
+FI 
+Financial Institution 
+ 
+ 
+FM 
+Financial Management 
+FMoH 
+The Federal Ministry of Health 
+FMS 
+Federal Member State(s) 
+FRC 
+Financial Reporting Center  
+FT 
+Financing of Terrorism  
+GBV 
+Gender-Based Violence  
+GDP 
+Gross Domestic Product  
+GHG 
+Greenhouse Gas 
+GRM 
+Grievance Redress Mechanism  
+GRS 
+Grievance Redress Service 
+HIPC 
+Heavily Indebted Poor Countries 
+HR 
+Human Resource 
+IAD 
+Internal Audit Department  
+ICT 
+Information Communication Technology 
+ID 
+Identification 
+IDP 
+Institutional Development Plan 
+IFC 
+International Finance Corporation 
+IFRS 
+International Financial Reporting Standards 
+IMF 
+International Monetary Fund  
+IPF 
+Investment Project Financing  
+IT 
+Information Technology  
+IVA 
+Independent Verification Agent  
+KYC 
+Know Your Customer  
+M&E 
+Monitoring and Evaluation 
+MDAs 
+Ministries, Departments, and Agencies  
+MFD 
+Maximizing Finance for Development  
+ML 
+Money Laundering  
+MoCI 
+Ministry of Commerce and Industry  
+MoCT 
+Ministry of Communications and Technology 
+MoF 
+Ministry of Finance 
+MPF 
+Multi-Partner Fund  
+MRIA 
+Matter Requiring Immediate Action 
+MSMEs 
+Micro, Small, and Medium Enterprises  
+NAPA 
+National Adaptation Program of Action  
+NCA 
+National Communications Authority 
+NDP9 
+Ninth National Development Plan 
+NEC 
+National Economic Council 
+NGO 
+Nongovernmental Organization 
+NNDP 
+Ninth National Development Plan  
+NPV 
+Net Present Value  
+OAG 
+Office of the Accountant General 
+ODA 
+Official Development Assistance  
+OSS 
+One-Stop Shop 
+PBC 
+Performance-Based Condition 
+PCM 
+Private Capital Mobilization 
+PDO 
+Project Development Objective 
+ 
+ 
+PFI 
+Participating Financial Institution 
+PIU 
+Project Implementation Unit  
+POM 
+Project Operations Manual  
+PP 
+Procurement Plan 
+PPSD 
+Project Procurement Strategy for Development  
+PSC 
+Project Steering Committee  
+RBS 
+Risk-Based Supervision  
+RCRF 
+Recurrent Cost and Reform Financing Project 
+RF 
+Results Framework 
+SCORE 
+Somali Core Economic Institutions and Opportunities Program 
+SCRP 
+Somalia Crisis Recovery Project 
+SEA-SH 
+Sexual Exploitation and Abuse and Sexual Harassment 
+SEP 
+Stakeholder Engagement Plan  
+SICRP 
+Somalia Investment Climate Reform Program 
+SMEs 
+Small and Medium Enterprises  
+SPS 
+Somalia Payment Switch  
+STARS 
+Somalia Transaction and Reporting System  
+STEP 
+Systematic Tracking of Exchanges in Procurement  
+TA 
+Technical Assistance 
+ToC 
+Theory of Change 
+TOR 
+Terms of Reference 
+UCS 
+Use of Country Systems  
+ULF 
+Unified Licensing Framework  
+UN 
+United Nations 
+UNIDO 
+United Nations Industrial Development Organization 
+URL 
+Uniform Resource Link  
+WBG 
+World Bank Group  
+WBOPCS 
+World Bank Operations Policy and Country Services 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Asad Alam 
+Practice Manager: Niraj Verma 
+Task Team Leaders: Thilasoni Benjamin Musuku, Asta Bareisaite, Isabella 
+Maria Linnea Hayward 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 7 
+II. 
+DESCRIPTION OF ADDITIONAL FINANCING ......................................................................18 
+III. KEY RISKS........................................................................................................................31 
+IV. APPRAISAL SUMMARY ....................................................................................................35 
+V. WORLD BANK GRIEVANCE REDRESS ................................................................................42 
+VI. SUMMARY TABLE OF CHANGES ......................................................................................43 
+VII. DETAILED CHANGE(S) ......................................................................................................43 
+VIII. RESULTS FRAMEWORK AND MONITORING .....................................................................51 
+ANNEX I: CBS GOVERNANCE AND FINANCIAL INTEGRITY ....................................................76 
+ANNEX II: PBC MATRIX ...........................................................................................................80 
+ANNEX III: SUMMARY OF THE CBS PROGRAM ........................................................................93 
+ANNEX IV: THEORY OF CHANGE .............................................................................................94 
+ANNEX V: CHANGES TO THE RESULTS FRAMEWORK ..............................................................95 
+ANNEX VI: CLIMATE CO-BENEFITS ........................................................................................ 100 
+ANNEX VII: PRIVATE CAPITAL MOBILIZATION AND MAXIMIZING FINANCE FOR DEVELOPMENT 
+-ENABLING ACTIVITIES ......................................................................................................... 103 
+ANNEX VIII: WBG COVID-19 COUNTRY PROGRAM RESPONSE NOTE - SOMALIA ................... 105 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 1 of 113 
+ 
+      
+ 
+BASIC INFORMATION – PARENT (Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through 
+Digital Uplift Project (SCALED-UP) - P168115) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+IBRD/IDA 
+Thilasoni Benjamin Musuku 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P168115 
+Investment Project 
+Financing 
+EAEF1 (9552) 
+AECE2 (6542) 
+Finance, Competitiveness and 
+Innovation 
+ 
+Implementing Agency: Ministry of Finance, Federal Republic of Somalia 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+Joint Level 
+Yes 
+Complementary or Interdependent project 
+requiring active coordination 
+Approval Date 
+Closing Date 
+Expected 
+Guarantee 
+Expiration Date 
+Original Environmental 
+Assessment Category 
+Current EA Category 
+07-Mar-2019 
+30-Jun-2023 
+ 
+Partial Assessment (B) 
+Partial Assessment 
+(B) 
+ 
+Financing & Implementation Modalities  P a re n t 
+[  ] Multiphase Programmatic Approach [MPA] 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[✓] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 2 of 113 
+ 
+ 
+Development Objective(s) 
+ 
+The Project Development Objective (PDO) is to support progress towards increased access to basic digital financial 
+and government services targeting entrepreneurship and employment, particularly for women. 
+ 
+Ratings (from Parent ISR) 
+ 
+RATING_DRAFT_NO 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+30-May-2019 
+17-Dec-2019 
+18-Jun-2020 
+18-Dec-2020 
+Progress towards 
+achievement of PDO 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall Implementation 
+Progress (IP) 
+S 
+ 
+S 
+ 
+S 
+ 
+MS 
+ 
+Overall Safeguards 
+Rating 
+S 
+ 
+S 
+ 
+S 
+ 
+MS 
+ 
+Overall Risk 
+H 
+ 
+H 
+ 
+S 
+ 
+S 
+ 
+Financial Management 
+S 
+ 
+S 
+ 
+S 
+ 
+MS 
+ 
+Project Management 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Procurement 
+S 
+ 
+S 
+ 
+S 
+ 
+MS 
+ 
+Monitoring and 
+Evaluation 
+S 
+ 
+S 
+ 
+S 
+ 
+MS 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Somalia Capacity Advancement, Livelihoods and 
+Entrepreneurship, through Digital Uplift Project (SCALED-UP) Additional Financing - P174769) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P174769 
+Somalia Capacity 
+Advancement, Livelihoods 
+and Entrepreneurship, 
+through Digital Uplift 
+Project (SCALED-UP) 
+Scale Up 
+Yes 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 3 of 113 
+ 
+Additional Financing 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+IBRD/IDA 
+09-Jun-2021 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+Joint Level 
+ 
+30-Apr-2026 
+Yes 
+Complementary or 
+Interdependent project 
+requiring active 
+coordination 
+ 
+Is this a regionally tagged project? 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities  C h ild 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[✓] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[✓] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+[  ] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+IBRD 
+ 
+ 
+ 
+  
+ 
+ % 
+IDA 
+  18.00 
+   6.26 
+  11.99 
+    
+ 
+34 % 
+Grants 
+  13.00 
+   2.09 
+  10.91 
+    
+ 
+16 % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Somalia Capacity Advancement, Livelihoods and 
+Entrepreneurship, through Digital Uplift Project (SCALED-UP) Additional Financing - P174769) 
+  
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 4 of 113 
+ 
+ 
+ 
+ 
+ 
+P R O JE C T  FINANCING DATA (US$, Millions) 
+ 
+S U MMA R Y -N e w Fin 1  
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+31.00 
+75.00 
+106.00 
+Total Financing 
+31.00 
+75.00 
+106.00 
+of which IBRD/IDA  
+18.00 
+50.00 
+68.00 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+  
+DETAILS N e w Fin E n h2- Additional Financing 
+Private Sector Investors/Shareholders 
+Equity 
+Amount 
+Debt 
+Amount 
+                     
+      IFI Debt 
+50.00 
+                     
+           IDA (Credit/Grant) 
+50.00 
+                     
+      Commercial Debt 
+5.00 
+                     
+           Guaranteed 
+5.00 
+                     
+      Trust Funds 
+20.00 
+Total 
+0.00  
+75.00 
+ 
+ 
+ Payment/Security Guarantee 
+ Total 
+0.00 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+0.00 
+50.00 
+0.00 
+50.00 
+National PBA 
+0.00 
+50.00 
+0.00 
+50.00 
+Total 
+0.00 
+50.00 
+0.00 
+50.00 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 5 of 113 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+[ ✔ ] Yes   [    ] No 
+Explanation 
+The waiver of the Environmental and Social Framework, the Environmental and Social Directive for Investment 
+Project Financing, and the Directive on Addressing Risks and Impacts on Disadvantaged or Vulnerable Individuals or 
+Groups to prepare scale-up AF was sought from OPCS VP. 
+Has the waiver(s) been endorsed or approved by Bank Management? 
+Approved by Management  [✔]              Endorsed by Management for Board Approval [  ]                No [  ] 
+Explanation 
+Approval was obtained from OPCS VP on September 11, 2020 
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Finance, Competitiveness and Innovation 
+ 
+Contributing Practice Areas 
+Digital Development 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Thilasoni Benjamin 
+Team Leader (ADM 
+TTL, Senior Financial Sector 
+EAEF1 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769)  
+ 
+ 
+ 
+ 
+ 
+Page 6 of 113 
+ 
+Musuku 
+Responsible) 
+Specialist 
+Asta Bareisaite 
+Team Leader 
+Co-TTL, Senior Private Sector 
+Specialist 
+EAEF1 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+Sr. Procurement Specialist 
+EAERU 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist (ADM Responsible) 
+Sr. FM Specialist 
+EAEG1 
+Raymond Simon Maina 
+Kirwa 
+Social Specialist (ADM 
+Responsible) 
+Social Specialist 
+SAES2 
+Tracy Hart 
+Environmental Specialist (ADM 
+Responsible) 
+Environmental Safeguards 
+Specialist 
+SENDR 
+Alan G. Carroll 
+Team Member 
+Consultant 
+IECT1 
+Anat Lewin 
+Team Member 
+Senior Digital Development 
+Specialist 
+IDD04 
+Anna Zita Metz 
+Team Member 
+Program Officer 
+IDD03 
+Catherine Mclennan Highet Team Member 
+Digital Development 
+Consultant 
+EFICG 
+Dilip Kumar Prusty Chinari 
+Team Member 
+Finance Analyst 
+WFACS 
+Elizabeth Mumbi Kibaki 
+Team Member 
+Business registration 
+CAFA1 
+Eugenia Nafula Konya 
+Team Member 
+Team Assistant 
+AEMSO 
+Haroub Ahmed Haroub 
+Social Specialist 
+Social Safeguards Specialist 
+SAEE2 
+Isabella Maria Linnea 
+Hayward 
+Team Member 
+Co-TTL, Digital Development 
+Specialist 
+IDD04 
+Jean O Owino 
+Team Member 
+Finance Officer 
+WFACS 
+Juan Andres Cartwright 
+Ramon 
+Team Member 
+Financial Sector Consultant 
+EAEF1 
+Peggy Ayako Kwendo 
+Team Member 
+Team assistant 
+AEMSO 
+Shiny Jaison 
+Team Member 
+Operations Assistant 
+EAEF1 
+Taneem Ahad 
+Team Member 
+Business registration 
+CAFA1 
+Yara Quiros Soto 
+Team Member 
+Sr. Financial Specialist 
+EFNFS 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+   
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 113 
+ 
+ 
+ 
+ 
+ 
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+A. Summary 
+1. 
+The Somalia Capacity Advancement, Livelihoods, and Entrepreneurship, through Digital Uplift 
+Project (SCALED-UP) (P168115) has made meaningful progress since effectiveness and is playing a 
+central role in strengthening the capacity of the Federal Government of Somalia (FGS) to respond to the 
+challenges brought by the coronavirus disease 2019 (COVID-19) pandemic. Overall, the parent project 
+has been rated ‘Satisfactory’ in relation to achievement of the Project Development Objective (PDO) and 
+‘Moderately Satisfactory’ for Implementation Progress (IP). At the beginning of May 2021, the total 
+project disbursement stood at US$8.2 million, representing 27 percent of the total available resources or 
+44 percent after factoring in US$5.5 million of additional commitments 1. With 44 percent of total project 
+disbursement and commitments at 19 months since effectiveness, all project components are broadly in 
+line with the projections and on course to utilize 100 percent of the current budget allocations. 
+2. 
+This project paper seeks the approval of the Executive Directors for an additional financing (AF) 
+in the amount of US$50 million for SCALED-UP, financed from the IDA resources. In addition, this project 
+paper seeks the approval of the Regional Vice President for an additional US$20 million of the Somalia 
+Multi-Partner Fund (MPF) trust fund grant (TF0B5774)2. The AF is requested to scale up the parent project 
+activities to aid the FGS in supporting resilient recovery of households and businesses affected by the 
+COVID-19 pandemic. Specifically, the AF aims to leverage the parent project’s platform for institution 
+strengthening and enhancing service delivery to enable over 5,000 micro, small, and medium enterprises 
+(MSMEs) to access finance to build back better; formalize another 5,000 firms through the business 
+registry; support over 250,000 women to access financial transaction accounts; and support 3 million 
+Somali residents to obtain unique identification (ID) numbers. The AF will: 
+(a) Leverage two financing windows of the MSME financing facility established under the parent 
+project, which have already proven to be effective in the expansion of access to finance for 
+MSMEs, to mitigate vulnerable but viable firms’ liquidity shortages caused by the pandemic. 
+The Somali firms’ already low access to finance has been exacerbated by the COVID-19 
+pandemic, leaving a large unmet market demand in the real economy. In effect, about 63 
+percent of firms currently find it difficult to access credit. 3 The AF will help mitigate the 
+liquidity shortages of viable firms. This will in turn play a crucial role in preserving numerous 
+jobs and enabling a faster path to resilient recovery of communities and businesses.  
+ 
+1 Expected to be disbursed by Q1 FY22, 60 percent of which is in commitments under Subcomponent 1.1 supporting the Central 
+Bank of Somalia. 
+2 Additional US$5 million private capital mobilized (PCM) is expected under sub-component 2.1. This amount is only reflected in 
+the datasheet on page 4 which captures the expected PCM, and not in the datasheet on pages 44-45. More details on the PCM 
+are provided in the Annex VII.  
+3 World Bank Group (WBG) and United Nations Industrial Development Organization (UNIDO). Coronavirus and the Private Sector 
+in Somalia: Results from the COVID-19-focused Enterprise Survey - Round 2. March 2021. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 113 
+ 
+(b) Deepen the parent project’s reforms to accelerate outcomes and the transformational 
+results needed to sharpen the FGS’ response to the COVID-19 pandemic and other structural 
+challenges to support business continuity and a resilient recovery. More than ever, COVID-
+19 has led to the realization of the importance of driving the reform benefits related to 
+integrity and proper functioning of financial markets and digital systems. These are essential 
+to the Government’s mitigation of COVID-19 impacts on communities and businesses, but 
+the FGS’ ability to finance the additional investment needed to accelerate reforms and 
+operationalize digital infrastructure and platforms is constrained because of reduced fiscal 
+revenues during the pandemic. To this end, the AF will finance reforms needed to roll out 
+the digital ID in Somalia, support the Central Bank of Somalia (CBS) to implement its Strategic 
+Plan (2020–2024) to become a policy-oriented central bank, expand the Government’s 
+digital capabilities, and scale up the provision of digital services to individuals and 
+businesses, such as online business registration. Through scaling up of the parent project, 
+the AF  attempts to  ensure business continuity and remote service delivery, thus 
+underpinning a resilient recovery and safeguarding sustainable livelihoods. 
+3. 
+The AF is closely aligned with the parent project’s structure and components with no new 
+safeguards policy triggered. The project components, implementation arrangements, and target 
+beneficiaries will remain unchanged, the existing implementing arrangements, safeguards mechanisms, 
+and financial reporting mechanisms in place will continue to ensure sound implementation.  
+4. 
+The AF also includes a restructuring, featuring (a) updates to the Results Framework (RF) to 
+reflect an updated assessment and scaling up of the parent project; (b) changes in disbursement 
+arrangements to introduce performance-based conditions (PBCs) for activities that support the CBS given 
+the growing capacity and the need to incentivize critical financial sector reforms, and scaled up and 
+extended offering by Gargaara; (c) changes in disbursement projections; (d) changes to costs pursuant to 
+the AF; (e) updated covenants; and (f) an extension of the project closing date by 30 months to December 
+31, 2025. The PDO remains unchanged and achievable. 
+5. 
+To enable an urgent response in light of the COVID-19 pandemic, the World Bank has invoked 
+paragraph 12 of the Investment Project Financing (IPF) policy to use condensed procedures for 
+processing in case of an urgent need of assistance due to a natural or man-made disaster or conflict. 
+These flexibilities 4 in project preparation allowed the World Bank management to process the AF with a 
+condensed process and expedite the flow of necessary financing to ensure that Somalis are supported 
+during the crisis. Additionally, in line with its COVID-19-specific risk considerations, the World Bank 
+approved a waiver of the Environmental and Social Framework (ESF), the Environmental and Social 
+Directive for IPF, and the Directive on Addressing Risks and Impacts on Disadvantaged or Vulnerable 
+Individuals or Groups, allowing the AF to continue to apply the safeguards policies that were in use when 
+the parent project was prepared.  
+ 
+ 
+4 Condensed procedures allow for (i) consolidating stages of project identification, preparation and appraisal; (ii) taking the 
+decision to authorize negotiations after a single consolidated review of a complete negotiations package; and (iii) accelerating 
+business standards with shorter turnaround times. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 113 
+ 
+B. Background 
+6. 
+SCALED-UP is a US$31 million operation 5 that was approved on March 7, 2019, and became 
+effective on August 8, 2019. The PDO is to support progress toward increased access to basic digital 
+financial and government services targeting entrepreneurship and employment, particularly for women. 
+The project is designed around three mutually reinforcing components: Component 1: Strengthening 
+Institutions (US$7 million equivalent), Component 2: Enabling Financial and Digital Services (US$20 million 
+equivalent), and Component 3: Project Management and Coordination (US$4 million equivalent) (see box 
+1 for details). 
+Box 1. Description of the SCALED-UP Parent Project 
+Component 1: Strengthening Institutions (US$7 million equivalent) is focused on supporting core government 
+functions and services that play a key role in enabling economic opportunities for individuals and businesses, 
+through strengthening governance, institutional effectiveness, efficiency, and sustainability. This is a reform area 
+requiring progress across multiple ministries, departments, and agencies (MDAs) in several areas. This component 
+has primarily provided support to the, (a) CBS on improving regulations and supervising financial institutions (FIs), 
+promoting efficient financial intermediation and strengthening policies and strategies for digital financial services 
+(DFS), and expanding financial access; (b) Financial Reporting Center (FRC) on enhancing its understanding of 
+Somalia’s anti-money laundering/combating the financing of terrorism (AML/CFT) risks, analyzing financial 
+intelligence, and disseminating reports to law enforcement agencies as appropriate; (c) Ministry of 
+Communications and Technology (MoCT)6/National Communications Authority (NCA) to strengthen policy 
+development and effective regulation of the information and communication technology (ICT) sector; and (d) FGS 
+to create the legislative and institutional enabling environment for the new foundational digital ID system, 
+including the setup and operationalization of a new independent ID Authority.  
+Component 2: Enabling Financial and Digital Services (US$20 million equivalent) focuses on increasing 
+individuals’ and businesses’ access to services that expand economic opportunities and help restore resilience in 
+a gender-sensitive manner. Under this component, the project supports sustainable and digitally enabled 
+mechanisms for service delivery, including (a) the establishment and management of an MSME financing facility 
+(Gargaara) as a dedicated apex institution providing financing to bank and non-bank FIs to reach MSMEs and large 
+firms; (b) enrollment of at least 1 million registrants in a new foundational digital ID system, including dedicated 
+support for outreach to poor and marginalized groups, and the use of the digital ID for increased financial access; 
+(c) support for Government digital payments, including the construction of interoperable retail payments services, 
+and integrated digital Government services; and (d) e-business registration services for small and medium 
+enterprises (SMEs) through the operationalization of a one-stop shop (OSS). 
+Component 3: Project Management and Coordination (US$4 million equivalent) focuses on funding project 
+management by a single Project Implementation Unit (PIU) anchored in the Ministry of Finance (MoF) that 
+coordinates closely with all relevant MDAs across the FGS and Federal Member States (FMS). 
+7. 
+While the Government’s reform agenda supported by SCALED-UP and other IDA/MPF 
+development projects has made considerable progress, the COVID-19 pandemic has deepened the 
+challenges to be addressed by the project. The pandemic comes at a time when the country is navigating 
+a narrow path away from fragility. Since 2012, the country has managed to make sustained progress and 
+ 
+5 With financing from IDA’s Pre-Arrears Clearance Grant facility and the MPF (IDA: SDR 12.9 million [US$18 million equivalent] 
+and MPF: US$13 million). 
+6 Formerly known as the Ministry of Posts, Telecommunications, and Technology. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 113 
+ 
+demonstrated a strong track record of implementing wide-ranging institutional and economic reforms, as 
+evidenced by Somalia reaching the Decision Point under the enhanced Heavily Indebted Poor Countries 
+(HIPC) initiative in March 2020. However, the COVID-19 pandemic has severely affected the Somali 
+economy that was already shaken by an infestation of desert locusts and reoccurring climate change-
+related shocks (floods and droughts). 
+8. 
+The private sector, which has been a major driver of economic growth and employment 
+generation in Somalia, is being adversely affected by the ongoing COVID-19 pandemic in several ways. 
+These include, but are not limited to, curfews and restrictions that disrupted commercial operations, 
+increased business vulnerabilities, disruptions to key supply chains, closed borders, decreased capital and 
+venture inflows, and diminished access to finance. According to Round 1 of the Somalia COVID-19 
+Enterprise Survey, 7 75 percent of firms saw a decline in sales and 71 percent experienced a decrease in 
+the supply of needed inputs by mid-2020. 8 Round 2 of the same survey suggests that about 52 percent 
+and 44 percent of firms remain in these respective situations in early 2021. 9 Accordingly, about 37 percent 
+of firms remain closed, 46 percent of firms are still decreasing their total number of permanent workers, 
+and 54 percent of firms are still reducing the wages and salaries of their staff. 10  
+9. 
+The financial health of Somali firms is also affected, with 49 percent of firms still facing liquidity 
+and cash flow challenges and 80 percent of firms having to delay payments to their service providers 
+and tax authorities.11 Many of these firms remain viable with timely liquidity support, to tide over the 
+economic slowdown due to the COVID-19 pandemic, and consequently preserve previous institutional, 
+social, and financial capital and jobs. 
+10. 
+While Somalia’s financial sector remains stable, the COVID-19 pandemic has increased sector 
+risks and vulnerabilities and diminished its already low capacity to expand access to finance to MSMEs, 
+particularly women and women entrepreneurs. The total capital-to-assets ratio of the consolidated 
+commercial banking system in December 2020 was 12.2 percent, and the loan-to-deposits ratio was 26.7 
+percent. 12 Furthermore, the loan portfolio was still healthy in December 2020, with a nonperforming loan 
+ratio of 4.0 percent. 13 However, according to Round 2 of the Somalia COVID-19 Enterprise Survey, 
+although there have been some signs of recovery in the private sector economy, 14 55 percent of firms in 
+the country anticipate falling in arrears on their outstanding liabilities in the absence of additional 
+support. 15 Given these perceptions of greater vulnerability due to the COVID-19 pandemic, participating 
+ 
+7 There have been two rounds of the COVID-19 Enterprise Survey so far. Round 1 interviewed 550 formally registered businesses 
+between June 14 and July 30, 2020. Round 2 interviewed 494 of the 550 firms interviewed in Round 1, between December 15, 
+2020, and January 30, 2021. One more round of data collection will be performed in Q1 FY22. 
+8 WBG and UNIDO. 2020. Coronavirus and the Private Sector in Somalia: Results from the COVID-19-focused Enterprise Survey - 
+Round 1. September 2020. 
+9 WBG and UNIDO. 2021. Coronavirus and the Private Sector in Somalia: Results from the COVID-19-focused Enterprise Survey - 
+Round 2. March 2021. 
+10 WBG and UNIDO 2021. 
+11 Ibid. 
+12 CBS - Commercial Banks Consolidated Data. 
+13 Ibid. 
+14 Although 50 percent of firms still saw a reduction in sales by December 2020, this is an improvement from the 75 percent of 
+firms that had seen a decrease in the same month in 2019. Relatedly, only 49 percent of firms in Somalia were facing liquidity 
+challenges by December 2020 in comparison to 90 percent of firms in December 2019. 
+15 WBG and UNIDO 2021. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 113 
+ 
+financial institutions (PFIs) have retrenched their outreach efforts—especially with micro and small 
+businesses. 16 Accordingly, financial intermediation in the Somali credit market has diminished from its 
+already modest position—private sector credit in Somalia by November 2020 was just over 4 percent of 
+gross domestic product (GDP), compared to an average of 45 percent of GDP in Sub-Saharan Africa. 
+Furthermore, the little that is being lent remains heavily concentrated on short-term trade finance and 
+relatively large loans, whose weight in the total portfolio of FIs increased in 2020 compared to 2019.17 
+Thus, by early 2021, about 63 percent of firms found access to credit difficult. 18 This leaves a large unmet 
+market demand for financing in the real economy. Access to credit is one of the two most desired COVID-
+19 support options for private enterprises, and the proportion of firms that desire support to access new 
+credit has in effect tripled between mid-2020 and early 2021. Additionally, about 49 percent of micro 
+firms and 34 percent of non-micro firms say that they depend on bank financing to bridge liquidity 
+shortages. 19 
+11. 
+Furthermore, the pandemic and the need for social distancing has increased reliance on DFS, 
+digital communications, and service platforms, as a means of ensuring remote and uninterrupted access 
+to information, financial assistance, and critical public and private services. In this context, ensuring 
+resilience of DFS and communication services remains paramount. While regulatory capacity has 
+increased under the parent project, there is a need for additional support at this critical juncture to ensure 
+business continuity and to enable key sector institutions to develop the necessary capacity to meet the 
+needs of Somalia’s transitioning economy, complicated further by the impact of the COVID-19 pandemic. 
+The demand for mobile communication and mobile money services is expected to increase, as it has in 
+connection with past crises, which has helped propel one of the highest rates of mobile money usage 
+among adults in Africa (80 percent). 20 While many United Nations (UN) agencies and nongovernmental 
+organizations (NGOs) are increasingly using mobile payment channels to deliver front-line services, the 
+FGS’ use is still limited to salary payments through transaction accounts held at licensed banks. In this 
+context, further system integration with a verifiable unique ID for transaction account owners is viewed 
+as instrumental to scale up financial inclusion and wider application to new use cases such as social 
+protection.  
+12. 
+While several digital systems have been introduced by the Government, its digital services 
+capabilities remain nascent and vulnerable in the absence of foundational digital infrastructure and 
+shared platforms that can accelerate readiness, delivery, security, and resilience of basic digital 
+government services. A handful of back-end systems have been/are being introduced to support core 
+public sector functions critical to basic service delivery, but few of these systems leverage shared 
+infrastructure and platforms, which allow systems to be readily integrated or scaled to enable more 
+effective delivery of digital services facing individuals and businesses. The introduction of foundational 
+infrastructure and platforms enabling delivery of digital ID services is also faced with political economy 
+challenges and will require not just further strengthening of technical readiness and capabilities but also 
+consensus building across FMS to ensure broad-based access to ID services across the country. 
+ 
+16 Conversations by the World Bank task team with Gargaara PFIs during the SCALED-UP AF pre-appraisal mission during 
+January/February 2021. 
+17 WBG - Somalia Economic Update. June 2020. 
+18 WBG and UNIDO 2021. 
+19 Ibid. 
+20 World Bank. 2018. Second Wave of Mobile Money Research - Use of Mobile Money during the Drought. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 113 
+ 
+Meanwhile, experience suggests that remote working, in connection with COVID-19, has increased the 
+risk of cybersecurity incidents and data breaches, highlighting the need for adequate safeguards, but 
+related frameworks are still absent in Somalia. 
+13. 
+The COVID-19 pandemic has also increased the urgency of resolution of financial integrity issues 
+and de-risking. Reliance on remittance flows and demand for social and humanitarian assistance have 
+intensified due to the pandemic. However, effective payment delivery is constrained by the lack of reliable 
+means to authenticate recipients or ensure their uniqueness within and across databases (that is, 
+continued reliance on predominantly manual, low-assurance, and informal identification processes). 
+Recent high-profile international reports have highlighted significant gaps in Somalia’s AML/CFT system, 
+including persistent risks of money laundering (ML) and financing of terrorism (FT). Without a trusted and 
+universally accessible digital ID system, meeting international know your customer (KYC) and AML/CFT 
+requirements remains a challenge for financial service providers operating in Somalia. 
+14. 
+The role of the CBS remains critical in the state reconstruction and stabilization of the financial 
+sector and facilitation of remittances in a fragile environment to mitigate COVID-19 impact. The CBS 
+needs to diversify transmittal channels for Official Development Assistance (ODA) and extend Use of 
+Country Systems (UCS) to FMS to mitigate overreliance on a few transmittal channels considering 
+disruptions associated with the pandemic. The CBS continues to benefit from cooperating partners’ 
+support including the World Bank, International Monetary Fund (IMF), and United States Treasury, in 
+boosting central bank governance and FI supervision and examination. The CBS operation systems and FI 
+supervisory oversight capacities have been strengthened over the recent years.21 Channeling of ODA 
+through the CBS as a fiscal agent is expected to further contribute to federal state formation by extending 
+UCS to the FMS level. The legal foundations for the CBS needed to underpin secure and stable transmittal 
+channels are broadly in line with best practices and the internal governance arrangements are developing. 
+However, the CBS needs to urgently strengthen key central banking functions that are critical to boosting 
+financial sector integrity by (a) developing and maintaining good working knowledge of the FIs being 
+supervised and the sorts of risks they are assuming in selected areas, particularly corporate governance, 
+corporate structure, and risk management, and (b) building trust and public confidence in central bank 
+supervisory policies through financial and nonfinancial disclosures of risk in supervised FIs, particularly ML 
+and FT risks. 22  
+C. Status of the Parent Project 
+15. 
+SCALED-UP has made meaningful progress since effectiveness and is playing a central role in 
+strengthening the FGS’ capacity to respond to the challenges brought by the COVID-19 pandemic. 
+Overall, the parent project has been rated ‘Satisfactory’ in relation to achievement of the PDO and 
+‘Moderately Satisfactory’ for Implementation Progress (IP). At the beginning of May 2021, the total 
+project disbursement stood at US$8.2 million, representing 27 percent of the total available resources or 
+44 percent after factoring in US$5.5 million of commitments which are expected to be disbursed by Q1 
+FY22. With 44 percent of total project disbursement and commitments at 19 months since effectiveness, 
+ 
+21 The Somali Core Economic Institutions and Opportunities Program (SCORE) and SCALED-UP supported the CBS to strengthen 
+FI supervision and examination, banking operations, and financial governance controls and accounting using an integrated core 
+banking and accounting technology solution called the Financial Accounting Control and Transactions System (FACTS). 
+22 See annex I for a discussion on central bank governance and financial integrity. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 113 
+ 
+all project components are broadly in line with the projections and are on course to utilize 100 percent of 
+the current budget allocations. 
+16. 
+Under Component 1, the project has made significant headway in strengthening government 
+institutions critical for efficient financial and digital service delivery. While experiencing some delays 
+due to COVID-19, implementation progress of activities to support capacity building at the CBS and FRC 
+has been satisfactory. Building on the foundations laid under Somali Core Economic Institutions and 
+Opportunities Program (SCORE) (P152241), 23 the project is providing technical and financial support to 
+the CBS to strengthen critical systems for FIs’ regulation and supervision and promoting efficient financial 
+intermediation. These efforts are focused on transforming the CBS from a fiscal agent to a policy-
+orientated institution based on independence, responsibility, accountability, and transparency. The 
+progress made on strengthening national payment systems is noteworthy. With successful deployment 
+of a cloud computing hosting solution in September 2020 under SCORE for the Somalia Transaction and 
+Reporting System (STARS)24 and the Somalia Payment Switch (SPS), the national payment system initiative 
+has now entered the ‘go live’ preparations phase expected by the end of June 2021. 25 The CBS has also 
+developed a reorganization strategy for a rapid shift toward policy that was approved by the CBS board. 
+The CBS reorganization program, which is transitional and incremental in nature, is aimed at laying the 
+foundation toward CBS strategic, effective, and efficient resource allocation, further positioning the role 
+of the CBS as a fiscal agent across the country. SCALED-UP has also made progress in strengthening the 
+FRC by providing capacity-building activities and supporting the completion of the national risk 
+assessment as well as providing the necessary infrastructure to strengthen financial sector integrity. 26 
+17. 
+With the project’s support, slow but steady progress has also been made with respect to 
+boosting the Government’s digital communications regulatory capacity. In July 2020, the NCA Board of 
+Directors approved the main licensing category under the new Unified Licensing Framework, a 
+communications infrastructure and services provider (CISP) license. Four out of the six main incumbent 
+operators have been issued CISP licenses under Somalia’s new Unified Licensing Framework, with a fifth 
+currently pending. These developments have also been catalytic for regulatory progress on the mobile 
+money side, where Hormuud’s CISP license allowed it to subsequently obtain Somalia’s first mobile money 
+license in March 2021. Finally, in parallel with the parent project, the World Bank has facilitated in-kind 
+support for a cybersecurity maturity model assessment, which has helped the MoCT identify gaps in 
+Somalia’s cybersecurity ecosystem that need to be addressed. 
+18. 
+Work on building the legal and institutional foundations for the digital ID system has progressed 
+as well, although important gaps remain in the enabling legislative framework and implementation 
+arrangements for the infrastructure ID are still to be defined. A bill to establish the ID Authority was 
+ 
+23 The previous World Bank flagship project on financial and private sector development in Somalia from May 2016 to September 
+2020. 
+24 Which consists of an Automated Transfer System (ATS+) solution integrating functionality of a Real Time Gross Settlement 
+System  and an Automated Clearing House (ACH), along with Instant Funds Transfer. 
+25 As of March 2021, the telecommunication networks and modular tier 3 data center have been deployed, and a private secure 
+data exchange network between the CBS and participant FIs is established. 
+26 The parent project is supporting the rollout of GoAML, a fully integrated software solution developed for use by financial 
+intelligence units and is one of the strategic responses to financial crime by the United Nations Office on Drugs and Crime. This is 
+expected to go live imminently. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 113 
+ 
+passed in Parliament and signed by the President in December 2020. The newly established ID Authority 
+was provided with a budget to cover its operating costs and a core team of local staff has been hired. A 
+consulting firm was onboarded in February 2021 to support the design of a fully inclusive outreach and 
+enrollment strategy for the digital ID system. The procurement of legal and technical advisory firms to 
+support the drafting of the enabling legislation and the planning, procurement, and deployment of the 
+system’s technical infrastructure and technical capacity have not yet taken place. The scope of the 
+Government of Pakistan’s engagement in supporting the digital ID infrastructure is yet to be determined, 
+but no financing or material support is expected in the short term. By providing the necessary resources 
+to the FGS to put in place a robust technical infrastructure to underpin registration, identity management, 
+and authentication services, the AF presents the opportunity to accelerate the operationalization of a 
+digital ID system, including the establishment of the needed enabling legal and institutional 
+underpinnings. The foundational digital ID system is expected to serve as a pillar for future resilience and 
+crisis response, by strengthening financial inclusion and financial sector integrity, as well as enabling more 
+efficient delivery of social assistance and basic services, including health care and future vaccination 
+efforts. Additional support for enrollment will enable a substantial scale-up of the parent project’s target 
+related to the number of people with unique and verifiable ID credentials during the project duration.  
+19. 
+Under Component 2, the project has made great strides to set up and operationalize 
+mechanisms to increase access to financial and digital government services. The need to accelerate the 
+provision of these critical services has been further highlighted by the ongoing COVID-19 pandemic.  
+20. 
+Gargaara Company Limited, the implementing entity for the US$15 million MSME financing 
+facility, is fully operational, with three PFIs lending to Somali firms. Gargaara is the first apex MSME 
+financing facility in Somalia, serving as a platform to crowd-in private capital and foster financial sector 
+development and financial inclusion in the country. It has been operational since April 2019 as a 
+freestanding autonomous institution with its own record of accomplishment, board of directors, and 
+management. As of June 2020, three PFIs were onboarded out of the five expressions of interests received 
+from prospective PFIs in November 2019. With the first disbursements made in June 2020 to Somali 
+MSMEs in productive sectors, in March 2021 Gargaara reported that a total of US$2.9 million was 
+disbursed to 134 MSMEs, and another US$1.1 million is in the pipeline to help firms address liquidity 
+constraints in the COVID-19 environment. It thus plays a transformational role to facilitate the adoption 
+of traditional lending by Somali FIs and create sufficient scale of market-based funding for MSMEs in 
+productive sectors, which have difficulties in accessing finance and are crucial for Somalia’s growth and 
+job creation. 
+21. 
+The project has also shown satisfactory progress in advancing the rollout of digital government 
+services, including the operationalization of full functionality of the online business registration system 
+(BRS) and support to the Office of the Accountant General (OAG). The pilot phase of the rollout of full 
+BRS functionality in Mogadishu saw the submission of 620 applications through the system and the 
+registration and issuance of licenses to 150 businesses as of March 23, 2021. 27 Subject to completion of 
+the prelaunch engagement with key stakeholders and contingent upon the COVID-19 situation, it is 
+ 
+27 The BRS has also been supported through the International Finance Corporation (IFC) Somalia Investment Climate Reform 
+Program (SICRP), and SCORE. SICRP and SCORE provided capacity support to the Ministry of Commerce and Industry (MoCI) and 
+this increased capacity to operate the BRS and contributed to other priorities for the MoCI under the parent project. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 113 
+ 
+expected that an enhanced system with various new features (for example, digital payment capability and 
+business licensing functionalities) will go live by July 2021. The launch of the online BRS is a critical 
+milestone that will enable access to a centralized information service to verify the identity of the beneficial 
+owners of all legal entities operating in Somalia and will thus lower transaction costs, improve transaction 
+traceability, and facilitate implementation of effective AML/CFT measures by financial service providers. 
+Online business registration processes will also help Somalia improve its business environment by 
+lowering transaction costs and strengthen the FGS’ revenue collection from business registration. 
+Furthermore, SCALED-UP is supporting the deployment of an electronic document management system 
+for accountable documents to aid workflows, data analytics, financial control, and cash management at 
+the OAG. This will enable secure and transparent government-to-person and government-to-business 
+digital government payments and vice versa to, among others, facilitate cash management and planning, 
+internal control and compliance, treasury and payroll management, public sector accounting and 
+reporting, and interoperability between the Somalia Financial Management Information System and the 
+CBS core banking system.  
+22. 
+Under Component 3, the project has established the organizational arrangements necessary to 
+support project implementation. A functioning PIU has been established to implement the project and is 
+anchored in the MoF in Mogadishu. The PIU is responsible for day-to-day project management and 
+coordination, working closely with MDAs covering the project target areas. The PIU is currently staffed 
+with a financial management (FM) specialist, a safeguards specialist, a procurement specialist, and an 
+information technology (IT) systems procurement consultant. The recruitment for a new PIU coordinator 
+for the parent project is currently ongoing and expected to be completed by June 2021, with acting 
+arrangements currently in place for the position. 28 The project also has a well-functioning Project Steering 
+Committee (PSC) comprising representatives of the beneficiary MDAs. The PSC meets regularly to 
+coordinate and oversee the implementation of activities, with attention to sequencing and timing issues, 
+as well as ensuring effective stakeholder consultations and engagements. A project-level grievance 
+redress mechanism (GRM) has been set up to enable systematic handling of project-related complaints 
+and grievances. Whereas the GRM has been operational over the life of the parent project, there have 
+been some gaps in its effective and timely uptake, processing and resolution of project-related complaints 
+and grievances 29. A monitoring agent has been brought onboard in Somalia, in view of COVID-19 travel 
+restrictions that have limited the task team’s ability to conduct meetings in Mogadishu. 30  
+D. Rationale for AF 
+23. 
+Designed as a COVID-19 relief and recovery operation, the SCALED-UP AF responds to a request 
+from the FGS made in May 2020 to scale up existing activities to (a) expand access to finance for MSMEs 
+and (b) accelerate critical reform and capacity-building initiatives needed to underpin a resilient recovery 
+and safeguard sustainable livelihoods, particularly among women and women-owned businesses. As the 
+project components and implementation arrangements needed to respond to this request are materially 
+ 
+28 The ongoing recruitment for the replacement has experienced some delay due to COVID-19 and the political situation in 
+Somalia. In the meantime, the PIU FM specialist is successfully fulfilling the role of the acting PIU coordinator. 
+29 These gaps related to the systematic dissemination of information on the availability and the functionality of the GRM over 
+the various levels of project implementation. 
+30 The monitoring agent is acting as an added layer of capacity to undertake implementation review, monitoring, and reporting 
+on all performance aspects of SCALED-UP in the field, with particular focus on Gargaara. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 113 
+ 
+the same as those under the SCALED-UP parent project, this AF enables a swifter response than preparing 
+a new project and helps accelerate the Government’s COVID-19 response activities. The AF will scale up 
+the parent project activities to ensure continuity, timeliness, and effectiveness of the response to COVID-
+19. 
+24. 
+More specifically, activities to be funded under each component through the AF aim to support 
+COVID-19 response and recovery through the following mechanisms: 
+• 
+Under Component 1 (Strengthening Institutions). The AF will provide scale-up support to 
+select project beneficiaries to deepen and accelerate reforms needed to sharpen and 
+strengthen the Government’s COVID-19 response and recovery. This includes introduction 
+of PBCs to incentivize critical central bank and financial sector reforms to secure stable 
+transmittal channels for international remittances, private capital, and ODA. The use of PBC 
+financing with this AF is supported by the need to speed CBS achievement of policy 
+outcomes of reorganization by influencing reform prioritization and strategic resource 
+allocation across core central banking functions, promoting institutional effectiveness in 
+securing transmittal channels, and promoting financial market integrity, contributing to 
+greater financial stability. To complement activities under component 2, the AF will also 
+support institutional, strategic, legal, and regulatory work streams related to enabling rapid 
+scale-up of DFS delivery by FIs. Government digital services will also be supported in aid of 
+remote service delivery in the context of COVID-19. The scale-up of public digital services 
+will focus on areas such as requisite safeguards, including data protection and cybersecurity, 
+and support for a common approach to the rollout of shared public digital infrastructure and 
+platforms to be used by the government digital ID.  
+• 
+Under Component 2 (Enabling Financial and Digital Services). The AF will support scale-up 
+activities focusing on individuals’ and businesses’ recovery and resilience. Accordingly, the 
+AF will support the development of sustainable and digitally enabled mechanisms for 
+expanding access to financial and digital services to mitigate COVID-19 impacts on 
+communities and businesses and to enhance readiness to respond in the face of future 
+crises. To achieve this, data safeguards and digital service enabling frameworks (financed 
+under component 1) will be operationalized, and the rollout of shared public digital 
+infrastructure and platforms underpinning the provision of these services will be supported. 
+Relatedly, the AF will support the scale-up of the number of people who have been enrolled 
+in the ID system and have received the unique ID credential to 3 million, from the 1 million 
+targeted under the parent project. To help vulnerable but viable businesses to mitigate the 
+impact of COVID-19 on operations, employment, and sales, the AF will support the scale-up 
+of the two Gargaara financing windows (micro and small loans window and large loans 
+window). The project will also support the outreach by sound FIs to micro and small firms in 
+productive sectors with a special focus on women-led and women-managed enterprises. In 
+addition, targeted MSMEs will also be eligible for matching grants for business development 
+services (BDS) to help mitigate COVID-19 impacts and strengthen their loan applications. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 113 
+ 
+• 
+Under Component 3 (Project Management and Coordination). The project’s management 
+and coordination arrangements will be scaled up to ensure appropriate implementation of 
+the AF in the context of COVID-19 restrictions.  
+25. 
+The proposed AF is also in line with the World Bank Group (WBG) COVID-19 Crisis Response 
+Approach Paper: ‘Saving Lives, Scaling-up Impact and Getting Back on Track’. The AF aims to alleviate 
+the COVID-19 impact on MSMEs and strengthen the FGS’ core institutions and digital initiatives 
+underpinning the provision of digital financial and government services. Accordingly, the activities under 
+the project fall under the relief and resilient recovery stages, as outlined in the Approach Paper, and will 
+contribute mainly to Pillar 2: Protecting Poor and Vulnerable People; Pillar 3: Ensuring Sustainable 
+Business Growth and Job Creation; and Pillar 4: Strengthening Policies, Institutions, and Investments for 
+Rebuilding Better. 31 The AF’s activities will lay the groundwork for building back better, through 
+improvements to financial and digital infrastructure, by supporting the FGS institutions that are key to the 
+provision of services enabling economic opportunities and providing technical assistance (TA) to PFIs, 
+which will help enhance resilience to similar shocks. Finally, the project will crowd-in investment capital 
+from private sector sources through the apex institution established by the parent project including the 
+lines of credit, risk-sharing facility, and additional development finance institution (DFI) capital mobilized, 
+thereby releasing some of the FGS’ constrained fiscal resources to invest in building back better. 
+26. 
+This AF allows SCALED-UP to continue to deliver these activities in alignment with the Country 
+Partnership Framework (CPF) (FY19–FY22). The AF project is anchored under the Somalia CPF (for FY19–
+FY22), approved by the Board in September 2018 (Report No. 124734-SO), and its Focus Area 2 (Restoring 
+Economic Resilience and Opportunities). In response to COVID-19, the WBG reprioritized the FY20 and 
+FY21 pipelines to bring forward high-priority relief and recovery efforts 32. More specifically, in line with 
+the parent project, the AF will contribute to two higher-level objectives—expanding the use of digital and 
+financial services and strengthening regulatory institutions and market infrastructure. This latter CPF 
+objective also relates directly to Somalia’s Ninth National Development Plan (NDP9), which sets out the 
+country’s priorities for national recovery and development for 2020–2024, particularly on actions to 
+address constraints faced by MSMEs. NDP9’s Pillar 3 specifically highlights the importance of formalizing 
+MSMEs, supporting the promotion of MSME growth in productive sectors, strengthening the business 
+environment, enabling DFS, and deepening financial sector reforms. The AF is also aligned with the CBS 
+Strategic Plan for 2020–2024 that places emphasis on good governance and a management system.33 
+Similarly, the AF is aligned with Somalia National ICT Policy and Strategy (2019–2024), 34 which prioritizes 
+the introduction of an enabling environment for scaling up the use of ICT and uptake of digital services 
+and leveraging ICT to support economic development and social inclusion for all Somalis. The proposed 
+ 
+31 The AF is also aligned with the FGS’ commitment to scale up its response to COVID-19, and the proposed AF activities are fully 
+in line with the relevant government strategies. The FGS’ ‘Socioeconomic Impact and Required Response for COVID-19 in Somalia’ 
+note, prepared in March 2020, prioritizes increasing support to MSMEs to address liquidity constraints in the productive sectors. 
+32 In FY20, the World Bank committed over US$300 million of relief-focused IDA grants. The priority in FY21 shifted to recovery 
+through restructuring of programs and new activities to build back better. The WBG COVID-19 Country Program Response Note 
+for Somalia is included in annex VIII.  
+33 This involves channeling resources to central bank reorganization processes and policy orientation of its operations; 
+independent oversight by its Board of Directors, capacity development, and performance evaluation; strengthening of 
+stakeholder communication, audit, and internal control; and adoption of international best practices.  
+34 See https://mptt.gov.so/en/wp-content/uploads/2019/11/National-ICT-Policy-Strategy-2019-2024.pdf. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 113 
+ 
+AF activities are also in line with the Somali Digital ID Policy, adopted in May 2019, which sets out the goal 
+of providing all residents with a unique, trusted, and verifiable identity and establishing an identity 
+verification platform that can be used by multiple service providers, in a manner aligned with international 
+good practices, including the Principles on Identification for Sustainable Development. 
+II. DESCRIPTION OF ADDITIONAL FINANCING 
+ 
+A. Project Description 
+27. 
+The proposed AF activities are in line with the components of the parent project SCALED-UP 
+(P168115). The AF project description, PDO, project components and sub-components, safeguards, 
+fiduciary, and implementation arrangements will remain materially unchanged, continuing to support 
+progress toward increased access to basic digital financial and government services targeting 
+entrepreneurship and employment, particularly for women. The AF activities will scale up the parent 
+project’s activities through Gargaraa’s financing windows to mitigate MSMEs’ liquidity shortages caused 
+by the pandemic and by accelerating reforms and operationalizing digital infrastructure and platforms to 
+enable the integrity and proper functioning of financial markets and digital financial systems. This will in 
+turn help tackle the negative effects of the COVID-19 pandemic on Somali MSMEs and strengthen the 
+FGS’ ability to build back better. 
+28. 
+The AF project will also be combined with a restructuring of the parent project to reflect (a) 
+updates to the RF to reflect an updated assessment and scaling up of the parent project; (b) changes in 
+disbursement arrangements to introduce performance-based conditions (PBCs) for activities that support 
+the CBS given the growing capacity and the need to incentivize critical financial sector reforms, and scaled 
+up and extended offering by Gargaara; (c) changes in disbursement projections; (d) changes to costs 
+pursuant to the AF; (e) updated covenants; and (f) an extension of the project closing date by 30 months 
+to December 31, 2025.  
+29. 
+The RF and the Theory of Change (ToC) of the parent project were reviewed during the AF 
+preparation. Accordingly, changes to the ToC were identified, and PDO and intermediate-level indicators 
+were adjusted to (a) reflect the scale-up of project activities (for example, introduction of PBCs and scale-
+up of Gargaara offering and digital ID activities); (b) streamline and strengthen the alignment of indicators 
+with the provision of relief support for COVID-19 recovery; and (c) add/modify end target values given the 
+extension of the project closing date to December 31, 2025. The revised ToC is presented in annex IV, and 
+specific changes to PDO and intermediate indicators are presented in annex V. 
+30. 
+The project will retain the same component structure under the AF. Component 1 will continue 
+to focus on strengthening institutions, and Component 2 will continue to support sustainable and digitally 
+enabled mechanisms to increase individuals’ and businesses’ access to services. Component 3 will cover 
+project management and coordination. The details of each component are outlined in the following 
+paragraphs. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 113 
+ 
+Component 1. Strengthening Institutions (US$13 million equivalent) 
+Sub-component 1.1. Support to CBS (US$10 million equivalent) 
+31. 
+In light of the COVID-19 pandemic, the AF will scale up support to the CBS and provide 
+strengthened incentives for the achievement of critical financial sector reforms that safeguard financial 
+stability and integrity and thus secure stable transmittal channels for international remittances, private 
+capital, and ODA. In the face of disruptions to transmittal channels associated with the pandemic 
+witnessed in March 2020, the AF elevates to a higher level the priority the parent project places on helping 
+other IDA and MPF operations and FIs in Somalia secure stable transmittal channels for ODA, international 
+remittances, and other private sector flows. This will be achieved by accelerating the CBS reforms to the 
+next level related to (a) central bank governance and financial reporting to enable CBS capitalization; (b) 
+activation of critical institutional systems to enable functional corresponding banking arrangements; and 
+(c) improved CBS supervisory oversight, capacity building, and staff reorganization into a more effective 
+structure to tackle financial integrity and de-risking. In so doing, this sub-component introduces PBCs 
+focused on building solid service delivery by both the CBS and FIs meeting internationally accepted 
+standards coupled with expanded financial access for individuals and businesses with strong integrity 
+controls (see annex II for the proposed description of the PBCs).  
+32. 
+Given the strong ownership, leadership, and support from CBS management and the new Board 
+of Directors, the use of PBCs’ financing approach provides an opportunity to focus efforts on results and 
+quality. Previous support through SCORE (P152241) financing focused on inputs has been used effectively 
+for CBS policy objectives, strengthening of governance, and enhancement of operational efficiency and 
+systems. The introduction of the PBCs provides an opportunity for the World Bank to deepen technical 
+policy dialogue and technical support transforming ambitions to realities and results. Going beyond input-
+based investments and toward outcomes, the PBCs will be critical in accelerating desired CBS reforms. 
+The use of PBCs only under sub-component 1.1 and no other areas of the AF is because this leverages the 
+improved implementation capacity of reforms by the CBS, as witnessed in recent years under the parent 
+project and predecessor project (SCORE) (P152241), contributing to Somalia reaching the Decision Point 
+under the HIPC Initiative in March 2020. 
+33. 
+The AF support will consist of US$6 million in PBCs’ financing and US$4 million through 
+traditional IPF financing. The allocation is based on the CBS rationalization program submitted to the 
+World Bank, which amounts to US$12.05 million and adjusted to US$11.04 million eligible expenditure 
+program by excluding US$1.01 million voluntary severance scheme package. 35 The bulk of the financing 
+allocations under this sub-component is structured to be disbursed conditionally upon achievement of 
+PBCs as provided under table 1 (on PBC and sub-component expenditure composition), while the 
+remainder of the resources are proposed to be channeled through traditional IPF financing. The US$11.04 
+million CBS reorganization and staffing program outlined under annex III will comprise the eligible 
+expenditures. These expenditures are self-contained and discrete investments focused on laying the 
+ 
+35 The entire budget for the CBS program of US$12.05 million has been adjusted by US$1.01 million for expenditures related to a 
+voluntary severance scheme package. This will be considered when the necessary safeguard assessments are completed. This 
+will call for a restructuring of the project further down the line once the feasibility of support under the AF project for the 
+voluntary severance scheme package is established.  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 113 
+ 
+foundations for strong policy reorientation of central banking as opposed to ongoing expenditures 
+focused on existing fiscal agency organizational structures.  
+34. 
+The AF will also support the hiring of DFS advisers, strengthening of CBS governance and 
+financial reporting, activation of critical enterprise resource planning (ERP) modules at the central bank, 
+and improved CBS supervisory oversight. By strengthening these functions, the CBS would be able to 
+offer improved services and business continuity in the face of COVID-19 and other crises faced by the 
+country and would meet international standards. The PBCs are aligned with the PDO and the CBS 
+rationalization program designed with support from other development partners and are expected to 
+help with transforming and strengthening the CBS’ orientation toward areas of maximum reform impact 
+and influence strategic prioritization and resource allocation36. The CBS remains central to state building 
+and stabilization of the financial and private sector, contributing to tackling the country’s drivers of 
+fragility and fostering state legitimacy. The project will help CBS develop a capital injection plan (CIP) to 
+support attainment of the policy goals of reorganization, sustainability of reorganization interventions, 
+and the possibility of continued investment in strengthening of CBS’ capacity across core central banking 
+functions. 37 
+35. 
+The proposed PBCs would ensure that the AF is linked to results on policy, key reforms, and 
+improved CBS institutional performance contributing to proper functioning of financial markets, 
+considering the pandemic, and accelerating financial inclusion while improving the integrity of markets. 
+The specific program expenditures associated with the activities to be implemented to achieve the PBCs 
+include (a) the CBS core restructuring priorities; (b) human capital development linked to the new policies, 
+procedures, and manuals; (c) infrastructure; and (d) development and operationalization of policies, 
+procedures, manuals, and records management as outlined under annex III. These expenditures outlined 
+in the CBS rationalization program are transitional and incremental and will help the CBS accelerate the 
+transition to a policy-oriented central bank, thereby contributing to greater financial stability and integrity 
+in a fragile context. The focus is on outcomes ensuring that high standards of corporate governance, risk 
+management, and compliance safeguarding against illicit financial flows are met by the FIs and CBS. The 
+use of PBCs also serves as the road map to sustainable reforms and sequenced logical building blocks for 
+ease of implementation monitoring and incentive management.  
+ 
+ 
+ 
+36 The strengthening of CBS governance and financial reporting is aimed at enabling central bank capitalization. The priority of 
+activation of the CBS institutional system and ERP modules is linked to enabling functional correspondent banking relations. This 
+will include the Wolfsberg Group Anti-Money Laundering Principles for Correspondent Banking and financial action task force 
+(FATF) standards, particularly FATF Guidance on Correspondent Banking Services. The AF activities under this subcomponent 
+would also complement the new financial sector initiative, which is in its early stage of design and preparation and is supported 
+by the MPF donors including the United Kingdom, United States, and European Union. 
+37 Required rightsizing of personnel and non-personnel expenses essential for a rapid shift toward policy orientation and push for 
+sustainable results, particularly those affecting financial integrity and the de-risking agenda covering ML/TF risks. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 113 
+ 
+Table 1. Summary of Sub-component 1.1. Financing 
+ 
+Available Amount 
+(US$, thousands equivalent) 
+CBS Reform Benchmarks (PBCs) 
+FY21 
+FY22 
+FY23 
+Total 
+PBC1: Strengthened governance and financial reporting of the 
+CBS to enable capitalization 
+375 
+875 
+2,250 
+3,500 
+PBC2: Activation of critical institutional systems within CBS to 
+enable corresponding banking arrangements 
+500 
+1,000 
+ 
+1,500 
+PBC3: Improved CBS supervisory oversight, capacity building and 
+staff reorganization into a more effective structure to tackle 
+financial integrity and de-risking 
+400 
+600 
+ 
+1,000 
+Total PBC-based financing 
+1,275 
+2,475 
+2,250 
+6,000 
+Traditional IPF input-based financing 
+3,000 
+1,000 
+ 
+4,000 
+Total Sub-component 1.1 financing under the AF 
+ 
+ 
+ 
+10,000 
+36. 
+The AF proposes PBCs designed to be scalable to allow proportionate disbursement in case of 
+partial achievement of performance benchmarks, based on agreed-upon levels and intermediate 
+targets. This allows for lower disbursement amounts when results are only partially achieved. In addition, 
+the disbursements are linked to manageable bundles of result areas to be achieved by the CBS in a 
+stepwise and graduated approach over the first 24 months of the AF so that delivery of these outcomes 
+is not delayed given the COVID-19 emergency. Further, the breakdown of the PBCs into manageable 
+bundles of reforms considers the long development timelines needed to implement activities given the 
+fragile context and urgency for accelerated results and outcomes in light of the COVID-19 pandemic. 
+Sub-component 1.2. Support to FRC (US$0.5 million equivalent) 
+37. 
+The AF will finance additional activities related to the improvement and implementation of the 
+AML/CFT regime and dissemination of results of the ongoing national risk assessment, requested by the 
+FRC. Strengthening financial integrity will continue to support a steady flow of remittances through the 
+COVID-19 crisis and beyond. Furthermore, fighting illicit flows through strengthened financial integrity 
+will support a more inclusive recovery. The AF support will include support for the FRC’s planned outreach 
+initiative to the FMS and subnational MDAs for disseminating ML/FT risks and AML/CFT priority policies 
+and implementation actions. This can be achieved through a series of seminars and retreats, including 
+study visits to neighboring countries to discuss the relevance of the agenda. Additionally, the FRC has 
+identified the need to support all sectors in terms of AML/CFT policy development, implementation, and 
+awareness raising—notably more progress is needed regarding FIs and designated nonfinancial 
+businesses and professions (DNFBP). Consulting services will be financed for the FRC to review and draft 
+relevant regulations, develop policies and procedures, and increase AML/CFT awareness through 
+additional stakeholder engagement. Consulting services will also be hired by the FRC to conduct a mock 
+mutual evaluation of Somalia’s effectiveness in preventing and combating ML/FT, following the FATF’s 
+methodology of 2012, and in preparation for the upcoming Middle East and North Africa-FATF mutual 
+evaluation of 2024. Increased support for dissemination and capacity building on AML/CFT measures to 
+be implemented and transaction analysis in relation to both FIs and DNFBP will also be provided. Increased 
+inter-agency cooperation between the FRC and other agencies, through capacity building, is needed to 
+close the loop, particularly when it comes to appropriate dissemination of intelligence from the FRC to 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 113 
+ 
+relevant authorities. Finally, AF activities may include the FRC study tours to financial intelligence units in 
+the region and sponsoring secondments for its staff to increase their capacity for financial intelligence 
+analysis. Specific financial allocations will be based on results from the ongoing National Risk Assessment. 
+Sub-component 1.3. Support to MoCT and NCA (US$2.5 million equivalent) 
+38. 
+The AF proposes to strengthen the enabling framework for digital service delivery, data 
+management, and data safeguards, critical to supporting remote working and business continuity in the 
+public sector in connection with the COVID-19 pandemic and future emergencies through continued 
+technical and operational support. Support will be provided to the MoCT to introduce a harmonized 
+government approach to data protection and cybersecurity, grounded in inclusive government 
+consultation. TA will be provided to develop shared strategic, governance, legal, 38 and institutional 
+frameworks and action plans aimed at safely expanding e-services (supported under sub-component 
+2.3). 39 Examples of shared frameworks to be supported include development of a National Cybersecurity 
+Strategy; National Guidelines for the Protection of Critical National Information Infrastructure; a National 
+Institutional and Governance Structure for Cybersecurity; an enterprise architecture for the FGS; a shared 
+government business and disaster continuity plan, including for critical infrastructure; and shared 
+cybersecurity compliance standards. The MoCT’s technical and institutional capacity will be bolstered, 
+allowing it to provide stronger technical cross-support to MDAs assisted under the parent project—CBS, 
+FRC, MoCI, NCA, Gargaara, and the digital ID Authority—with respect to their digital initiatives. Support 
+will be provided allowing for the adoption of common frameworks and road maps for e-service scale-up, 
+which can support an incremental movement toward a ‘whole-of-government’ approach grounded in 
+shared framework, platforms, and infrastructure, which is expected to generate operational efficiencies 
+and savings and increase readiness for introducing key digital services such as digital ID. The AF will also 
+accelerate the NCA’s work on major regulatory milestones (such as the adoption and implementation of 
+a new spectrum management framework through additional TA and equipment), strengthen its basic 
+regulatory functions (for example, systems for data collection), and support additional training and 
+business continuity of the agency, which is yet to secure larger financing from the FGS given the 
+Government’s constrained fiscal space in connection with COVID-19.  
+Sub-component 1.4. Support to Digital ID Authority 
+39. 
+No AF is allocated under this sub-component. US$2 million in TA support is already allocated 
+under the parent project, which will cover support for the ID Authority’s institutional setup and related 
+capacity building, including legal advisory support to put in place ID-enabling legislation and technical 
+advisory support for the development of design, strategy, and procurement documents and the early 
+operationalization of the ID system. This support is maintained. The FGS has legally established an ID 
+Authority. At the same time, it will be important to accelerate progress toward the adoption of 
+complementary enabling legislation, including on data protection, and other areas in line with the 
+ 
+38 The MoCT has confirmed that it stands ready to support drafting of legislation enabling the digital economy, that is, data 
+protection, cybersecurity, and e-transactions. A consultant will be embedded at the MoCT as a legal adviser to anchor related TA. 
+39 Somalia currently lacks any related capabilities, including business continuity and recovery plans. The NCA plays a key role with 
+respect to managing cybersecurity threats pertaining to network infrastructure—critical for continuity in communications and 
+mobile money services during the crisis.  
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 113 
+ 
+commitments set out in the Digital ID Policy. 40 The parent project plans to front-load and refocus certain 
+activities initially planned under this sub-component (for example, with respect to enabling frameworks 
+for data protection, cybersecurity, e-transactions, and so on), taking a broader ecosystems approach to 
+the enabling environment support envisioned and increasing related support under the AF, as related TA 
+will help reinforce and increase readiness of all digital initiatives supported and not just the digital ID 
+system.  
+Component 2. Enabling Financial and Digital Services (US$55 million equivalent) 
+Sub-component 2.1. Financial Intermediary Financing for MSMEs (through Gargaara) (US$25 million 
+equivalent) 
+40. 
+Sub-component 2.1 aims to provide relief and accelerate the recovery of MSMEs from the 
+impact of Somalia’s multiple crises through the scale-up of Gargaara’s existing financing windows. The 
+AF would scale up the micro and small loans window for MSMEs by US$9 million and the large loans 
+window by US$4 million. The PFIs onlending those funds will target vulnerable but viable firms in targeted 
+productive sectors, with special focus on women-owned and women-managed firms. This scale-up of both 
+windows under the AF will be done without triggering additional safeguards or adjusting FM 
+implementation arrangements.  
+41. 
+Under the AF, Gargaara will also provide funds for TA and training needs of participating 
+commercial banks and microfinance institutions to be able to efficiently select, assess, and lend to 
+targeted firms. In some cases, the TA may be provided in the form of a matching grant to implement 
+tailored institutional development plans (IDPs)41 to build the capacity of the PFIs. The IDP matching grant 
+requirement will incentivize the crowding-in of private capital to co-finance the IDPs (for systems 
+improvements including FM, monitoring and evaluation (M&E), safeguards, AML/CFT, and developing 
+new products) and outreach to MSMEs, particularly micro and small businesses owned and managed by 
+women. 
+42. 
+Targeted vulnerable but viable micro and small enterprises will also be eligible for matching 
+grants for BDS to help mitigate COVID-19 impacts and strengthen their loan applications.42 Support to 
+firms will be structured on a partial cost-recovery basis to ensure that they are demand driven and avoid 
+creating distortions. Supported BDS beneficiaries would be restricted to MSMEs selected by PFIs and 
+activities will be limited to those with strong economic rationale and long-term sustainability. These firms 
+will be selected based on performance before the COVID-19 pandemic, their relative vulnerability to 
+current business circumstances, and their potential for rapid recovery. Digital innovation skills and 
+technology upgrading for improved resilience and women’s economic empowerment will be an 
+underlying and cross-cutting element across the set of support services provided using short-term 
+ 
+40 The World Bank provided comments on the proposed law in December 2020, which highlighted gaps and areas that may benefit 
+from further clarification to ensure complete alignment with the commitments made by the FGS as part of its Digital ID Policy 
+endorsed by the Cabinet in May 2019. 
+41 IDPs are described in the World Bank Financial Intermediation Guidance Note and help improve internal systems, products, 
+credit allocation systems, and other institutional needs. 
+42 PFIs have retrenched investments in the commercial financing to micro and small enterprises because of perceptions of greater 
+vulnerability and risks during the pandemic. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 113 
+ 
+matching grants. The BDS activities will focus on strengthening MSME business investment plans, adapting 
+their business models and processes with the aim of accelerating their COVID-19 recovery and adaptation, 
+developing new products, increasing their productivity and resilience, and improving their likelihood of 
+accessing PFI financing. The BDS will be provided through a specialized professional entity to be managed 
+by Gargaara. 
+43. 
+In addition, the AF will support Gargaara to crowd-in larger amounts of commercial financing 
+to MSMEs that have been underserved because of perceptions of greater vulnerability and risks during 
+the pandemic. A study43 is under way to assess the feasibility of a risk-sharing mechanism to incentivize 
+PFI outreach to this market segment. 44 If this risk-sharing mechanism is found to be feasible, US$2.5 
+million would be allocated for this activity. 45 This would result in an estimated direct private capital 
+mobilization (PCM) of US$5.0 million.  
+44. 
+The balance of the AF under this sub-component will fund additional operational and 
+administrative costs for Gargaara. Specifically, US$4.5 million will be allocated for operational support 
+for Gargaara, for  IT system upgrade, staffing, and capacity-building activities needed by Gargaara to safely 
+expand its portfolio. Given the COVID-19 challenges, Gargaara working alongside a monitoring agent will  
+adopt new digital tools requirements to track the portfolio and identify problem loans. 46 This also includes 
+US$1.5 million to co-finance investments in IDPs for PFIs.   
+Sub-component 2.2. Digital ID Services (US$15 million equivalent) 
+45. 
+This sub-component will fund the ID system’s technical infrastructure, including components 
+related to enrollment, secure identity management, credential issuance, and digital authentication .47 
+ 
+43 The study would include recommendations on fees, leveraging, portfolio definition, documentation requirements, service 
+standards, and other operational elements of an effective risk-sharing mechanism or facility. Gargaara has commenced 
+preparatory work to conduct the feasibility study together with a team of researchers from Georgetown University and the 
+Brookings Institution, Washington, DC; Brookings Institution, Doha; and Stockholm School of Economics, Stockholm. The study is 
+expected to be completed by September 2021. 
+44 Risk sharing is often employed in high-risk environments where commercial FIs that are committed to expanding their client 
+base hold large amounts of savings and exceeding capital requirements. 
+45 A condition of disbursement would be established to ensure that with the exception of feasibility study expenditures and 
+related consultations with commercial FIs, no funds would be used by Gargaara for the implementation of the risk-sharing 
+mechanism until the study has been completed and the World Bank has provided a technical review and ‘no objection’. The risk-
+sharing mechanism would be consistent with the scaling up approach of the AF; therefore, no new safeguards will be triggered. 
+It would be adjusted after the effects of the pandemic have been overcome and markets return to normal practices. Any final 
+design would meet the 16 principles established for partial credit risk mechanisms promoted by the World Bank (see 
+https://www.worldbank.org/en/topic/financialsector/publication/principles-for-public-credit-guarantee-schemes-cgss-for-
+smes). 
+46 AF allocation of US$25 million for this subcomponent is as follows: (a) US$13 million for the two lending windows; (b) US$2.5 
+million for the risk-sharing mechanism; (c) US$5.0 million for matching grants to eligible MSMEs for BDS providers, with ; and (d) 
+US$4.5 million in operational support for Gargaara, including US$1.5 million for TA and training for PFIs to implement IDPs.  
+47 The design and implementation of the digital ID infrastructure will be aligned with principles, objectives, and features outlined 
+in the Somali Digital ID Policy and aligned with the Principles on Identification for Sustainable Development 
+(https://id4d.worldbank.org/principles). These include that registration and ID credentials are universally accessible to all 
+residents, free from discrimination and free of charge; that data collection will be limited to only those necessary for establishing 
+uniqueness and enabling identity verification and access to basic services; and that registrants will have access to an appropriate 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 113 
+ 
+Accordingly, the AF will enable the issuance of universally accessible, unique, and digitally verifiable IDs, 
+underpinned by a foundational ID system. For the project period, the financed components are expected 
+to include the delivery, operationalization, and maintenance of all hardware and software required to (a) 
+facilitate registration, (b) facilitate biometric de-duplication, (c) provide secure data storage and 
+management, (d) issue credentials, (e) enable timely grievance recording and redress, and (f) provide 
+reliable identity verification and authentication mechanisms for financial service providers and social 
+assistance programs. The design, procurement, deployment, and maintenance of these components will 
+be supported through technical advisory services—for which financing is provided under the parent 
+project—to optimize system costs, security, and utility and build capacity for long-term system operation 
+and maintenance among Somali staff. In parallel, certain components of the broader enabling digital 
+infrastructure, including shared hosting services and disaster recovery and operationalization of basic 
+cybersecurity and data protection provisions, will be front-loaded and rescoped under sub-components 
+1.3 and 2.3 as they serve as a broader enabling function for all digital initiatives supported under the 
+project. 
+46. 
+Given the complexity from a technical, logistical, and political economy perspective of 
+operationalizing a digital ID system, adequate planning, technical expertise, and early stakeholder 
+engagement are critical for success. Support for such preparatory activities is provided under the parent 
+project countrywide across federal and regional leadership. In the Somali context, buy-in from FMS will 
+be particularly important to secure access to and acceptance of the new IDs countrywide and enable the 
+project to achieve its registration targets. Developing an implementation strategy that outlines the roles 
+of key stakeholders and lays out a countrywide enrollment plan built on broad-based consensus across 
+federal and regional leadership will thus be vital for ensuring that the system acquired will be ‘fit for 
+purpose’ and that the ID system can be deployed and integrated into service delivery rapidly. 48 Such a 
+widely supported implementation strategy can then inform the definition of the functional and technical 
+architecture of the system and related procurements. Vendor lock-in and costly, unsuitable technology 
+choices represent significant risks in the implementation of the ID project. It is thus also critical that key 
+planning and procurement documents, such as technical and functional requirements, are prepared with 
+great care and with the engagement of international technical expertise. To this end, authorities are 
+encouraged to fully leverage the resources committed under the parent project for these purposes. 
+47. 
+Disbursement of the AF for this sub-component will be conditional on the adoption of critical 
+components of the legal enabling framework as well as broad-based agreement on the ID system’s 
+implementation arrangements, as aligned with the Digital ID Policy. These legal building blocks and 
+preparatory activities serve as critical safeguards and enablers to ensure successful initial take-up and 
+long-term sustainability of the system. Conditions of disbursement thus stipulate that no withdrawal of 
+AF funds shall be made for digital ID activities until (a) the FGS enacts legislation on the establishment and 
+implementation of the digital ID system49 and general data protection, in alignment with the Digital 
+ 
+grievance redress and resolution mechanisms. In addition, it will be important that the technical architecture and components of 
+the ID system follow an outcome- and standards-based approach and minimize the risk of vendor lock-in and enable future 
+updates and changes in configuration to be implemented cost- and time-efficiently. 
+48 The implementation strategy and the design and deployment of the ID system more broadly will also need to be aligned with 
+the Somali Digital ID Policy.  
+49 Such legislation is expected to, among others, define the basic purposes of the ID system; establish and specify the mandate, 
+ 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 113 
+ 
+Identification Policy and in form and substance satisfactory to IDA, and (b) an ID system implementation 
+strategy, including a countrywide enrollment plan, which has been reviewed by the FMS, is prepared and 
+submitted, in a form and substance that is satisfactory, to IDA.50 These conditions will help mitigate the 
+risks of unsuitable or unsustainable technology and design choices, including vendor and technology lock-
+in; promote the rapid, countrywide take-up of the new ID system by building trust and consensus across 
+FMS; and minimize the risk of fragmentation and duplication in investments.  
+48. 
+The US$3 million planned to support enrollment for the digital ID system under the parent 
+project will be augmented to facilitate enrollment beyond the 1 million individuals targeted under the 
+parent project, to up to 3 million by the end of the project. Specifically, the AF will support operation 
+costs related to enrollment, training, and transportation and costs related to the distribution of ID 
+credentials. Special measures and registration efforts will also be put in place to ensure access to the ID 
+system for remote, marginalized, and vulnerable populations including women, children, persons with 
+disabilities, and internally displaced persons. Concrete recommendations to inform enrollment processes 
+and practices will be developed with support from a social research and advisory firm, financed through 
+the parent project and already onboarded, which will undertake consultations and qualitative research to 
+better map people’s perspectives and constraints with regard to accessing and using IDs. The project will 
+also support the implementation of an information, education, and communications campaign, including 
+targeted messaging for members of vulnerable populations to build trust and describe the benefits and 
+processes for ID enrollment. Reaching populations in areas that may be difficult for government entities 
+to operate in will be facilitated through an ‘ecosystem’ approach to enrollment, leveraging banks, mobile 
+network operators, NGOs, and other service providers as enrollment agents for the ID system. The 
+enrollment processes could also be linked to the opportunity for individuals to concurrently open 
+transaction accounts with banks and/or mobile money, which could help expand financial access 
+substantially while also meeting ML/TF risk management requirements. 
+49. 
+The primary use cases for the digital ID system include the financial sector and social protection. 
+The new ID system and ID credentials issued will initially focus support on boosting financial sector 
+integrity and enable more people to access financial services by facilitating improved identity verification 
+and compliance with customer due diligence (CDD) requirements. The foundational digital ID system and 
+the customer verification system (CVS) will be fully interoperable—that is, able to exchange data in an 
+automated manner and the CVS will draw on the ID system for identity verification and authentication for 
+the implementation of electronic KYC (eKYC) protocols to provide greater assurance about customers’ 
+true identities. In addition, the unified social registry also intends to leverage the unique ID numbers 
+issued by the digital ID system to ensure that each record in the registry is associated with a real, unique 
+individual. 
+ 
+governance arrangements, and functions of the ID Authority; and lay out key system features and principles, such as those related 
+to registration processes, credential issuance, system interoperability, and the use of identity verification and authentication 
+mechanisms for financial service providers and beyond.  
+50 There are several risks, already identified at entry of the SCALED-UP parent project, including the risks of vendor lock-in, with 
+suboptimal technical or other unsuitable features coded into the system; low coverage/exclusion risks; and financial sustainability 
+and security risks, which could materialize if the ID system is not underpinned by a robust enabling environment and if sufficient 
+technical expertise is not engaged throughout the design, planning, and implementation process. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 113 
+ 
+Sub-component 2.3. Government and Retail Payment Services (US$13 million equivalent) 
+ 
+50. 
+The AF will scale up investment in the foundational infrastructure and services that can 
+warehouse and safeguard critical information systems, which can be shared across the Government to 
+ensure more secure data management and exchange. This will help create an enabling environment for 
+key digital systems in the pipeline, including the digital ID system. Investments made will support a 
+common and scalable approach to data management and hosting, which is expected to yield significant 
+operational and efficiency gains and gradually increase readiness for the scale-up of more transactional 
+digital services that require increased data exchange. Thus, it will help accelerate the rollout of digital 
+financial and government services, including the digital ID and social assistance programs, which have 
+been identified as priorities in the context of the Government’s COVID-19 response. This sub-component 
+will explore the feasibility, including optimal business and hosting models, and finance the introduction 
+of a shared government data hosting solution, which is likely to rely on a hybrid approach that includes 
+the introduction of a joint government data center and shared government cloud as well as related 
+recover and/or backup site. The AF would cover related studies, service contracts, and installation of 
+related hardware, including possible refurbishment of the optimal physical hosting site selected. 
+51. 
+As noted earlier, the AF will also increase financing for the operationalization of foundational 
+cybersecurity and data protection frameworks. The Government will be supported to introduce a 
+national Computer Emergency Response Team (CERT) – Security Operations Center (SOC) with an ISO 
+27000 series or equivalent certification based on a build-operate-transfer model (likely to be hosted by 
+the NCA) that could serve as an initial basis for gradually bolstering Somalia’s cybersecurity threat 
+intelligence, monitoring, and prevention capabilities over time, including initial equipment, office 
+refurbishment, related hardware and software, training, and consultancy costs. Financing is also set to 
+cover regular penetration tests by certified ethical hackers and by the CERT to identify vulnerabilities as 
+well as technical solutions for the safe transfer and interoperability of sensitive and personal data. The 
+FGS is currently being supported in conducting a cybersecurity maturity model assessment that should 
+provide guidance on areas where additional capacity building is need, including support for training and 
+awareness raising to reduce cybersecurity incidents in the civil service and specialized training for law 
+enforcement and judiciary. The AF is likely to cover basic cybersecurity awareness training for key MDAs 
+supported, particularly as it pertains to remote working and cybersecurity needs related to key system 
+deployed, including ID.  
+52. 
+Support is also envisioned to operationalize the future data protection law, involving the setup 
+of an independent Data Protection Office (DPO) and launch of a registry of data processors and 
+controllers and complaints reporting system. Given the FGS budget constraints, this office could initially 
+be introduced at the MoCT, with the view of later becoming an independent entity. The AF would cover 
+related office and IT equipment, specialized training (for DPO, government officials, judiciary, and law 
+enforcement), embedded advisers to support initial DPO setup and staffing, and hardware and software 
+for the registration and reporting IT systems deployed (registry of data controllers and processors, 
+compliance and complaints management system, and database of personal information). Support for 
+operational, financial, and human resource (HR) planning for the office would also be covered. The AF 
+would also finance outreach and awareness campaigns needed to sensitize key data users to requirements 
+under the law. Financing will cover a data privacy risk assessment and compilation of a personal data 
+catalogue, support for drafting a first round of regulations on priority topic areas, TA for formulating and 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 113 
+ 
+implementing shared compliance monitoring, auditing, and enforcement frameworks, as well as 
+conducting site visits, including developing a complaint investigation framework. 
+53. 
+The AF will provide limited support related to ensuring that core MDAs have adequate internet 
+connections and basic IT tools to meet immediate needs identified in the context of the COVID-19 
+pandemic and finance quick wins that boost front-facing service delivery. Integration of the Financial 
+Management Information System with the core banking system, STARS and SPS, has, for example, been 
+identified as a quick win to increase the readiness for scaling up the Government’s use of digital payments, 
+which has been identified as a priority in the context of COVID-19 response and recovery where remote 
+services delivery has proved critical to social distancing strategies that need to be employed. The AF will 
+finance requisite integration of systems (hardware and software), business process reengineering, and 
+training related to the digitization of selected government revenue and expenditure streams and 
+associated workflows that are critical for uninterrupted public service delivery in the face of the COVID-
+19 pandemic and other crises. The AF will also finance urgent basic IT equipment needs identified and 
+capacity purchase for MDAs supported, allowing them to support the new functions assigned to them, 
+based on a rapid IT and capacity audit. Finally, the AF will support expenditures related to the CBS setting 
+up a new CVS to enable use of eKYC protocols in the financial services sector. The CVS will be 
+complementary to the foundational digital ID system. Once the foundational ID system is fully 
+operationalized, the two systems will be linked, and the CVS will leverage the digital ID system’s 
+authentication and verification services to strengthen CDD. This will be critical to expanding financial 
+inclusion for individuals by enabling the scale-up of transaction account ownership, particularly for 
+women and women entrepreneurs. 
+Sub-component 2.4. E-registration Services for SMEs (US$2 million equivalent) 
+54. 
+The AF will support the MoCI to sustain registration momentum related to the recent launch of 
+the full functionality of the online BRS. The MoCI is making steady progress with online registration, with 
+620 applications received and 150 companies successfully registered as of March 23, 2021. The rollout of 
+the digital BRS is particularly pertinent in the COVID-19 context, in line with the Government’s efforts to 
+limit physical interactions and scale up online service provision. The digital business registration services 
+would also enable CDD as a pillar of an effective AML/CFT program by financial service providers operating 
+in Somalia, including for Gargaara PFIs. The AF will be used to (a) expand BRS services beyond Mogadishu 
+to other FMS in subsequent phases tentatively planned for rollout in Puntland and Jubaland, subject to 
+final confirmation based on the FMS Readiness Assessment Report and client demand; (b) build the 
+capacity of both internal users at FMS ministries and final users in business communities; and (c) 
+strengthen stakeholder engagement by increasing outreach, media campaigns, and feedback loops of 
+MSMEs using the online BRS. In addition, the AF will support establishment of a virtual one-stop help desk 
+for enterprises using the BRS51. 
+Component 3: Project Management and Coordination (US$2 million equivalent) 
+55. 
+It is proposed that the project’s management and coordination arrangements will be enhanced 
+to ensure appropriate implementation of the AF. The AF will support the scale-up of gender-sensitive 
+ 
+51 This subcomponent has been designed and will be implemented in close coordination with the IFC team. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 113 
+ 
+programming; promoting of compliance with good safeguards practices; improved stakeholder 
+engagement (especially targeting women); and strengthening of GRM and citizen engagement 
+mechanisms to enhance feedback loops to shore up early learning, adaptive, and iterative approaches to 
+implementation. Strengthened project management mechanisms will be particularly needed in the 
+constrained COVID-19 environment. As Gargaara operations scale up, the PIU, Gargaara management, 
+and PFIs will need to employ additional resources and mechanisms to strengthen the monitoring, 
+evaluation, and learning systems in place, especially in view of the COVID-19 restrictions. Furthermore, 
+M&E systems will need to be further scaled up when the digital ID enrollments begin and business 
+registration services commence across different FMS. Strengthening these M&E functions will be 
+supported by the AF. While the AF was prepared under  a waiver to process the AF activities under the 
+safeguards policies rather than the ESF, additional resources 52 will also be needed to ensure full 
+compliance with the additional safeguards requirements 53 outlined in the updated Environmental and 
+Social Management Framework (ESMF) and Stakeholder Engagement Plan (SEP). Finally, the AF will also 
+finance expenditures associated with verification of the PBCs to be introduced under sub-component 1.1. 
+B. AF Budget 
+56. 
+The total amount of the AF requested is US$70 million (US$50 million IDA and US$20 million 
+MPF), with additional US$5 million PCM expected under sub-component 2.1. A breakdown of the AF by 
+component and sub-components is provided in table 2. 
+ 
+ 
+ 
+52 A dedicated social specialist and a part-time GBV adviser will be recruited to support the environmental specialist at the PIU. 
+53 The project triggers OP 4.01 (Environmental Assessment). However, in compliance with waiver conditions, it will identify, assess 
+and mitigate an expanded range of environmental and social risks and impacts consistent with the ESF, including environmental 
+pollution arising from the financing of the livestock sector, child labor, exclusion of minorities and other disadvantaged 
+populations, gender-based violence (GBV), and loss and breaches in data privacy and protection measures. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 113 
+ 
+Table 2. Changes to Allocations by Component (US$, millions) 
+SCALED-UP Components 
+SCALED-UP 
+Allocation 
+AF 
+Total Financing  
+Component 1: Strengthening Institutions 
+7.0  
+13.0 
+20.0 
+Sub-component 1.1: Support to CBS 
+1.5 
+10.0a 
+11.5a  
+Sub-component 1.2: Support to FRC 
+1.5 
+0.5 
+2.0b 
+Sub-component 1.3: Support to MoCT and NCA 
+2.0 
+2.5 
+4.5b  
+Sub-component 1.4: Support to ID Authority 
+2.0 
+— 
+2.0 
+Component 2: Enabling Financial and Digital Services 
+20.0 
+55.0 
+75.0 
+Subcomponent 2.1: Financial Intermediary Financing 
+to MSMEs 
+15.0 
+25.0c 
+40.0c  
+Sub-component 2.2: Digital ID Services 
+3.0 
+15.0d 
+18.0b 
+Sub-component 2.3: Government and Retail Payment 
+Services 
+1.0 
+13.0b 
+14.0b 
+Sub-component 2.4: E-registration Services for SMEs 
+1.0 
+2.0 
+3.0 
+Component 3: Project Management and Coordination 
+4.0 
+2.0 
+6.0 
+TOTAL  
+31.0 
+70.0 
+101.0 
+PCM (under sub-component 2.1) 
+ 
+5.0e 
+5.0 e 
+Note: 
+a. The AF proposes to introduce PBCs as reform incentives for the CBS to attain a number of strategic goals in relation 
+to the enabling environment supported under sub-component 1.1 and critical to securing stable transmittal channels 
+for remittances, private capital, and ODA, focused on the de-risking agenda that can help unlock international 
+investment and support correspondent banking relationships in Somalia by improving the integrity of financial 
+markets and ensuring that high standards of corporate governance, risk management, and compliance safeguarding 
+are in place to prevent illicit financial flows. The said scale-up will complement the financial sector initiative. 
+b. The AF proposes to front-load and refocus interventions for some activities under sub-components 1.2, 1.3, 2.2, 
+2.3, and 2.4 and component 3, aimed at creating an enabling environment for critical digital programs being 
+supported, by introducing a common approach to data safeguards related to cybersecurity, data protection, hosting 
+services, and disaster recovery, all of which serve as critical foundational investments for the FGS with respect to 
+key digital services initiatives being spearheaded including the new foundation digital ID system and are expected 
+to generate significant efficiency gains and support risk mitigation. 
+c. Of the US$25 million AF allocation to Gargaara under sub-component 2.1, US$2.5 million will be linked to a 
+condition of disbursement for the risk-sharing mechanism activity, pending (a) the results of research by Gargaara 
+management that will assess feasible delivery options for risk participation, subordination, and other co-financing 
+approaches to induce greater PCM and impact by leveraging Gargaara capital and (b) the World Bank’s technical 
+review and ‘no objection’.  
+d. Conditions of disbursement will be established in the AF to ensure that no funds will be used on digital ID until (a) 
+the FGS has enacted legislation on the establishment and implementation of the digital ID system and general data 
+protection, in alignment with the Digital ID Policy and (b) an ID system implementation strategy, including an FMS-
+wide enrollment plan, has been prepared and reviewed by FMS.  
+e. The PCM of US$5 million is expected under the risk-sharing mechanism to be introduced under sub-component 
+2.1. See annex VII for details. 
+ 
+C. Implementation Arrangements 
+57. 
+Implementation arrangements will remain the same as in the parent project. The MoF is the 
+executing agency of the parent project. The PSC, headed by the MoF and with representatives from the 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 113 
+ 
+MDAs, 54 will provide policy guidance and monitor progress of the project. The existing PIU will implement 
+the AF activities and coordinate across the FGS and FMS. The Project Operations Manual (POM) which 
+was prepared under the parent project (with the MSME Subproject Manual featured as an annex to the 
+POM) will be updated to reflect AF activities before the AF project effectiveness, including PBC verification 
+protocols and independent monitoring and detailed reporting formats, in form and substance satisfactory 
+to the World Bank.  
+58. 
+The parent project’s implementation arrangements for the lines of credit under Gargaara will 
+also remain the same, and the MSME Subproject Manual will outline implementation arrangements for 
+the risk-sharing mechanism and MSME matching grants. The Board of Directors and management team 
+selected for Gargaara under the parent project will continue to select PFIs, without undue outside 
+interference. Gargaara management will continue to submit ‘MSME Financing Facility Quarterly Progress 
+Reports’ to all relevant stakeholders (for example, Gargaara’s Board of Directors and the WBG). Biannual 
+reviews will continue to form the basis of at least two implementation support reviews of Gargaara per 
+year. Finally, an independent monitoring agent hired under the parent project will continue to (a) provide 
+an added layer of monitoring as set out in Gargaara’s Subproject Manual, (b) complement the safeguards 
+responsibility of Gargaara, and (c) act as an ‘early warning’ whistleblower in case governance issues are 
+detected. The FGS and World Bank will also continue to carry out a joint progress review for the project 
+every two years. The MSME Subprojects Manual will also be updated to outline MSME matching grants 
+and risk-sharing mechanism implementation arrangements and include an augmented RF for Gargaara to 
+capture indicators beyond those reflected in the project RF. 55 The BDS will be provided through a 
+specialized professional entity to be managed by Gargaara, and the selection criterion will be the 
+operational practices and manuals used to select and service MSMEs.  
+III. KEY RISKS 
+59. 
+The overall risk is rated Substantial, in line with the parent project. Somalia remains a high-risk 
+context for the AF project, but the mitigation and the prospects of benefits outweigh the risks, thereby 
+providing a basis for engagement. The current disagreements on election modalities, the ongoing political 
+tensions between the FGS and some FMS, and continued instability and fragility that the country faces 
+may cause delays and difficulties in the implementation of project activities. The introduction of the digital 
+ID system poses high project implementation risks, exacerbated by cybersecurity risks occasioned using 
+digital technologies and low capacity of key stakeholder institutions. The project is managing this risk 
+through multiple layers of monitoring and implementation support. Taking the risk management and 
+mitigation measures into account, the overall residual risk for the AF project is rated Substantial. 
+60. 
+Political and governance (High). The risk of political instability remains high and could slow or 
+derail project implementation over the course of the project. Federally, defining the AF’s activities and 
+implementation plans may prove challenging given the growing impasse between the FGS and FMS over 
+ 
+54 The MoCI, MoCT, Ministry of Interior, Federal Affairs and Reconciliation, CBS, FRC, and NCA. The PSC will also include a 
+representative from the new ID Authority once it becomes operational. 
+55 The last update of the MSME Subprojects Manual was concluded in November 2020 to operationalize the large loans window. 
+A comprehensive review of Gargaara operations in the last 18 months was concluded in March 2021. Results from this review 
+and added AF activities will be reflected in the revised manual. 
+ 
+The World Bank 
+ 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) 
+Additional Financing (P174769) 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 113 
+ 
+constitutional reform, revenue sharing, and national security, as well as the 2020/21 election. This could 
+affect project activities, including digital ID enrollments which would require close collaboration between 
+the FGS and FMS. Reforms supported in the HIPC debt relief initiative, the IMF’s Extended Credit Facility 
+arrangement, and the World Bank financed Somalia Recurrent Cost and Reform Financing Project (RCRF) 
+- Phase 2 (P154875), among others, provide a broader framework for risk mitigation, as reaching progress 
+targets requires stakeholders from the FGS and the FMS to meet and reach agreements. Additional 
+activities planned that reduce this level of risk are the AF’s own support for capacity-building activities to 
+help stabilize core government functions and strengthen governance and accountability frameworks for 
+supported entities. To promote engagement and consensus building across FMS on the digital ID system, 
+a disbursement condition linked to a widely consulted implementation and enrollment plan will also be 
+introduced. Even with this set of mitigation measures, the residual risk remains high for political and 
+governance risk.  
+61. 
+Macroeconomic (Substantial). The Somali economy is vulnerable to shocks, including from 
+adverse weather, disruptions in international trade, and remittances due to the COVID-19 pandemic. 
+Furthermore, despite important and widespread reforms, the FGS’ fiscal position remains weak due to 
+the limited ability to generate domestic revenues, security sector expenditures dominating the budget, 
+and only limited fiscal transfers between the FGS and FMS. The risk that this could result in 
+macroeconomic instability that might overwhelm the reform momentum supported by the project is high. 
+The Government is working to mitigate these risks through improvements in its macroeconomic 
+management capacity and steady implementation of reforms supported by the HIPC process and the 
+IMF’s Extended Credit Facility arrangement. Additional mitigation that helps reduce this level of risk is the 
+AF’s own support for (a) formalization of businesses; (b) mitigation of liquidity shortages of MSMEs 
+operating in productive sectors; (c) TA for efficient financial intermediation and improved capability of 
+banks; and (d) improvement of the integrity and proper functioning of financial markets and digital 
+financial systems. 
+62. 
+Sector strategies and policies (Moderate). The AF activities proposed are fully aligned with the 
+FGS strategies in place and policy commitment made (for example

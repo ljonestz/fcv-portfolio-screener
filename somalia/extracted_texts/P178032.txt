@@ -1,0 +1,1992 @@
+ 
+ 
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD00140  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION  
+ 
+PROJECT APPRAISAL DOCUMENT  
+ON A  
+ 
+PROPOSED GRANT 
+IN THE AMOUNT OF SDR 37.7 MILLION 
+(US$50 MILLION EQUIVALENT) 
+ 
+AND 
+ 
+CO-FINANCED BY A GRANT 
+IN THE AMOUNT OF US$5 MILLION 
+FROM THE GLOBAL PROGRAM FOR THE BLUE ECONOMY (PROBLUE) MULTI-DONOR TRUST FUND 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+SOMALI SUSTAINABLE FISHERIES DEVELOPMENT “BADMAAL” PROJECT 
+ 
+ 
+MAY 20, 2024 
+ 
+ 
+Environment, Natural Resources and the Blue Economy Global Practice 
+Eastern and Southern Africa Region 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of their official 
+duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective February 29, 2024) 
+ 
+Currency Unit =  
+SDR 
+SDR 0.75 =  
+US$1 
+US$1.32 =  
+SDR 1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Regional Director: Iain G. Shuker 
+Country Director: Keith E. Hansen 
+Practice Manager: Noreen Beg (Acting) 
+Task Team Leaders: Julien Million, Stephen Ling 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+AIS 
+Automatic Identification System 
+BaU 
+Business as Usual 
+BRA 
+Banadir Regional Administration 
+CBS 
+Central Bank of Somalia 
+COAPM 
+Comprehensive Operations and Accounting Procedures Manual 
+CPF 
+Country Partnership Framework 
+DA 
+Designated Account 
+EAFS 
+External Assistance Fiduciary Section 
+EEZ 
+Exclusive Economic Zone 
+ESRS 
+Environmental and Social Review Summary 
+FAO 
+Food and Aquaculture Organization 
+FGS 
+Federal Government of Somalia 
+FI 
+Financial Intermediaries 
+FM 
+Financial Management 
+FMC 
+Fisheries Monitoring Center 
+FMDC 
+Fisheries Management and Development Council 
+FMP 
+Fisheries Master Plan 
+FMS 
+Federal Member State (s) 
+GBV 
+Gender Based Violence 
+GDP 
+Gross Domestic Product 
+GEEL 
+Growth, Enterprise, Employment & Livelihoods 
+GHG 
+Greenhouse gas 
+GRS 
+Grievance Redress Service 
+IDA 
+International Development Association 
+IOTC 
+Indian Ocean Tuna Commission 
+IPF 
+Investment Project Financing 
+IUU 
+Illegal Unregulated and Reported 
+M&E 
+Monitoring and Evaluation 
+MCS 
+Monitoring, Control and Surveillance 
+MFBE 
+Ministry of Fisheries and Blue Economy of the Federal Government of Somalia 
+MFD 
+Maximizing Finance for Development 
+MPA 
+Marine Protected Areas 
+MSMEs 
+Micro-Small-Medium Enterprises 
+NAPA 
+National Adaptation Program of Action 
+NBS 
+Nature Based Solution 
+NCCC 
+National Climate Change Committee 
+NDC 
+Nationally Determined Contributions 
+NPC 
+National Project Coordinator 
+NDP-9 
+Somalia Ninth National Development Plan 
+PA 
+Paris Alignment 
+PBC 
+Performance-Based Condition 
+PCE 
+Private Capital Enabling / Private Capital Enabled 
+PERSGA 
+Regional Organization for the Conservation of the Environment of the Red Sea and 
+the Gulf of Aden 
+PIM 
+Project Implementation Manual 
+PIU 
+Project Implementation Unit 
+PMU 
+Project Management Unit 
+ 
+ 
+ 
+PPA 
+Project Preparation Advance 
+PSMA 
+Port State Measures Agreement 
+RFMO 
+Regional Fisheries Management Organization 
+SCoA 
+Standard Chart of Accounts 
+SEAH 
+Sexual Exploitation, Abuse and Harassment 
+SFMIS 
+Somali Financial Management Information System 
+SoE 
+Statements of Expenditure 
+SPC 
+State Project Coordinator 
+SSTs 
+Sea Surface Temperatures 
+SWIOFC 
+Southwest Indian Ocean Fisheries Commission 
+UCS 
+Use of Country Systems 
+UNCLOS 
+United Nations Convention on the Law of the Sea 
+VMS 
+Vessel Monitoring System 
+WBG 
+World Bank Group 
+ 
+ 
+The World Bank 
+ 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET .......................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ..................................................................................................... 8 
+A. Country Context ............................................................................................................................... 8 
+B. Sectoral and Institutional Context ................................................................................................... 9 
+C. Relevance to Higher Level Objectives ............................................................................................13 
+II. 
+PROJECT DESCRIPTION ................................................................................................ 15 
+A. Project Development Objective .....................................................................................................15 
+B. Project Components ......................................................................................................................15 
+C. Project Beneficiaries ......................................................................................................................20 
+D. Results Chain ..................................................................................................................................20 
+E. Rationale for Bank Involvement and Role of Partners ...................................................................21 
+F. Lessons Learned and Reflected in the Project Design ....................................................................22 
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................... 23 
+A. Institutional and Implementation Arrangements ..........................................................................23 
+B. Results Monitoring and Evaluation Arrangements ........................................................................24 
+C. Sustainability ..................................................................................................................................24 
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 25 
+A. Technical, Economic and Financial Analysis ..................................................................................25 
+B. Fiduciary .........................................................................................................................................26 
+C. Legal Operational Policies ..............................................................................................................28 
+D. Environmental and Social ..............................................................................................................29 
+V. 
+GRIEVANCE REDRESS SERVICES .................................................................................... 30 
+VI. KEY RISKS .................................................................................................................... 31 
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................. 34 
+ANNEX 1: Implementation Arrangements and Support Plan ................................................ 42 
+ANNEX 2: Climate Co-Benefits Assessment ......................................................................... 50 
+ANNEX 3: Economic and Financial Analysis ......................................................................... 57 
+ANNEX 4: Provisional median/equidistance line between Somali and Yemen ...................... 60 
+ANNEX 5: Map of Somalia ................................................................................................... 61 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 1 of 61  
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate 
+DATASHEET 
+BASIC INFORMATION 
+Project 
+Beneficiary(ies) 
+Operation Name 
+Somalia 
+Somali Sustainable Fisheries Development Project - Badmaal 
+Operation ID 
+Financing Instrument 
+Environmental and Social Risk 
+Classification 
+ 
+P178032 
+Investment Project 
+Financing (IPF) 
+High 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternative Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+Expected Approval Date 
+Expected Closing Date 
+12-Jun-2024 
+30-Jun-2030 
+Bank/IFC Collaboration 
+ 
+No 
+ 
+Proposed Development Objective(s) 
+The Project Development Objective is to improve the capacity of targeted communities and authorities to benefit from 
+and effectively manage selected fisheries 
+Components 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 2 of 61  
+ 
+Component Name 
+Cost (US$) 
+Increasing the Capacity of Dependent Communities to Benefit from 
+Sustainable Marine Fisheries 
+27,085,000.00 
+Strengthening Marine Fisheries Governance and Management 
+20,060,000.00 
+Project Management Monitoring and Evaluation 
+7,855,000.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate 
+Organizations 
+Borrower:  
+Federal Republic of Somalia 
+Implementing Agency:  
+Ministry of Fisheries and Blue Economy of the Federal Republic of Somalia 
+ 
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate 
+PROJECT FINANCING DATA (US$, Millions) 
+Maximizing Finance for Development 
+Is this an MFD-Enabling Project (MFD-EP)?  
+Yes 
+Is this project Private Capital Enabling (PCE)? 
+Yes 
+ 
+SUMMARY 
+Total Operation Cost 
+55.00  
+Total Financing 
+55.00  
+of which IBRD/IDA 
+50.00 
+Financing Gap 
+0.00  
+DETAILS 
+World Bank Group Financing 
+   
+International Development Association (IDA) 
+50.00 
+IDA Grant 
+50.00 
+Non-World Bank Group Financing 
+   
+Trust Funds 
+5.00 
+PROBLUE MDTF 
+5.00 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 3 of 61  
+ 
+IDA Resources (US$, Millions) 
+  
+Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+National 
+Performance-Based 
+Allocations (PBA) 
+0.00 
+50.00 
+0.00 
+0.00 
+50.00 
+Total 
+0.00 
+50.00 
+0.00 
+0.00 
+50.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate 
+Expected Disbursements (US$, Millions) 
+WB Fiscal 
+Year 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+Annual 
+12.50 
+17.00 
+12.50 
+5.50 
+4.00 
+1.50 
+Cumulative 
+12.50 
+29.50 
+42.00 
+47.50 
+51.50 
+53.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate 
+PRACTICE AREA(S) 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Environment, Natural Resources & the Blue Economy 
+ 
+CLIMATE 
+Climate Change and Disaster Screening 
+Yes, it has been screened and the results are discussed in the Operation Document 
+ 
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate 
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫   High 
+2. Macroeconomic 
+⚫   Substantial 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 4 of 61  
+ 
+3. Sector Strategies and Policies 
+⚫   High 
+4. Technical Design of Project or Program 
+⚫   Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫   High 
+6. Fiduciary 
+⚫   High 
+7. Environment and Social 
+⚫   High 
+8. Stakeholders 
+⚫   Substantial 
+9. Overall 
+⚫   High 
+ 
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate 
+POLICY COMPLIANCE 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+ 
+ENVIRONMENTAL AND SOCIAL 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+ESS 1: Assessment and Management of Environmental and Social Risks and 
+Impacts 
+Relevant 
+ESS 10: Stakeholder Engagement and Information Disclosure 
+Relevant 
+ESS 2: Labor and Working Conditions 
+Relevant 
+ESS 3: Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+ESS 4: Community Health and Safety 
+Relevant 
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved 
+Traditional Local Communities 
+Not Currently Relevant 
+ESS 8: Cultural Heritage 
+Relevant 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 5 of 61  
+ 
+ESS 9: Financial Intermediaries 
+Not Currently Relevant 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate 
+LEGAL 
+Legal Covenants 
+Sections and Description 
+Schedule 2, Section I.A.1(a). The Recipient shall designate by no later than one month after the Effective Date, and 
+thereafter maintain throughout the period of Project implementation, the Director-General Technical Working Group 
+(DG-TWG) to serve as the Project steering committee, with composition, terms of reference and resources satisfactory 
+to the Association (the “Project Steering Committee” or “PSC”), which shall be: (i) chaired by the director general of the 
+MFBE, and comprised among others, of the directors-general of fisheries of the FMS and Benadir Regional 
+Administration (BRA); and (ii) vested with such powers, functions and competencies, acceptable to the Association as 
+further detailed in the Project Operations Manual, as shall be required to, inter alia: (A) provide policy direction and 
+guidance to the PMU for the implementation of the Project; and (B) review and approve the Annual Work Plans and 
+Budgets and Project Reports.  
+Schedule 2, Section I.E(a). The Recipient shall prepare and furnish to the Association on an annual basis, by no later than 
+October 31 of each year, the annual work plan and budget containing all activities proposed to be included in the 
+Project during the following Fiscal Year, and a proposed financing plan (setting forth the proposed amounts and sources 
+of financing) for expenditures required for such activities; provided that the Annual Work Plan and Budget for the first 
+year of Project implementation shall be prepared and furnished to the Association, not later than one (1) month after 
+the Effective Date;  
+ 
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate 
+Conditions 
+Type 
+Citation 
+Description 
+Financing Source 
+Effectiveness 
+Article V. Section 5.01 (a) 
+The Recipient has prepared 
+and adopted the Project 
+Operations Manual, in form 
+and substance satisfactory 
+to the Association. 
+IBRD/IDA 
+Effectiveness 
+Article V. Section 5.01 (b) 
+The PROBLUE Grant 
+Agreement has been duly 
+executed and delivered, 
+and all conditions 
+precedent to its 
+effectiveness, or to the 
+right of the Recipient to 
+make withdrawals under it 
+IBRD/IDA 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 6 of 61  
+ 
+(other than the 
+effectiveness of this 
+Agreement), have been 
+fulfilled 
+Effectiveness 
+Article V. Section 5.01 
+The Financing Agreement 
+has been executed and 
+delivered and all conditions 
+precedent to its 
+effectiveness or the right of 
+the Recipient to make 
+withdrawals under it (other 
+than the effectiveness of 
+this Agreement) have been 
+fulfilled 
+Trust Funds 
+Disbursement 
+Schedule 2. Section 
+III.B.1(a) 
+No withdrawal shall be 
+made for payments made 
+prior to the Signature Date 
+IBRD/IDA 
+Disbursement 
+Schedule 2. Section 
+III.B.1(b) 
+No withdrawal shall be 
+made under Categories (1), 
+(2) and (3) unless and until 
+the Recipient has: (i) 
+prepared, consulted upon, 
+adopted and publicly 
+disclosed the 
+Environmental and Social 
+Management Framework 
+(including the Labor 
+Management Procedures 
+and the SEA/SH Prevention 
+and Response Action Plan), 
+Resettlement Policy 
+Framework, Security 
+Management Framework, 
+Sectoral Environmental and 
+Social Impact Assessment, 
+and template 
+Environmental and Social 
+Management Plans, in form 
+and substance satisfactory 
+to the Association and (ii) 
+established an accessible 
+grievance mechanism for 
+the Project, in form and 
+IBRD/IDA 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 7 of 61  
+ 
+substance satisfactory to 
+the Association 
+Disbursement 
+Schedule. Section II.B.1(a) 
+No withdrawal shall be 
+made for payments made 
+prior to the Signature Date 
+Trust Funds 
+Disbursement 
+Schedule. Section II.B.1(b) 
+under Categories (1) and 
+(2) unless and until the 
+Recipient has: (i) prepared, 
+consulted upon, adopted 
+and publicly disclosed the 
+Environmental and Social 
+Management Framework 
+(including the Labor 
+Management Procedures 
+and the SEA/SH Prevention 
+and Response Action Plan), 
+Resettlement Policy 
+Framework, Security 
+Management Framework, 
+Sectoral Environmental and 
+Social Impact Assessment, 
+and template 
+Environmental and Social 
+Management Plans, in form 
+and substance satisfactory 
+to the Association; and (ii) 
+established an accessible 
+grievance mechanism for 
+the Project, in form and 
+substance satisfactory to 
+the Bank 
+Trust Funds 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 8 of 61  
+ 
+I. STRATEGIC CONTEXT 
+A. Country Context 
+ 
+1. 
+After more than two decades of civil unrest, Somalia has taken steps towards stability, reconstruction, poverty 
+reduction and inclusive growth. The 2012 Provisional Constitution established the Federal Government of Somalia (FGS) 
+consisting of currently five Federal Member States (FMS) and the capital, Mogadishu, is governed by the Banadir Regional 
+Administration (BRA). Institution-building efforts and fiscal reforms are improving governance and placing the country on 
+a stronger development trajectory. However, the FGS and FMS still face political contestation on core constitutional 
+matters and resource distribution, and domestic revenue remains insufficient to fund expenditures on security and 
+development needs. Limited presence of FGS and FMS agencies outside urban areas, conflict, insecurity, and humanitarian 
+challenges including terrorist groups’ attacks, mostly in Mogadishu and in southern Somalia, continue to constrain private 
+sector investment and delivery of public services relief efforts affecting poverty and economic growth. 
+ 
+2. 
+Somalia is one of the poorest countries in the world with a per capita gross domestic product (GDP) estimated 
+at US$592 in 2022, the seventh lowest in the world1. Growth is mainly consumption-driven, with fisheries having a minor 
+role. Telecommunications and money transfer services are the key growth sectors enabled by large remittances and aid 
+inflows. Governance and transparency should be strengthened to propel equitable private sector-driven growth. Public 
+revenue generation remains an ongoing challenge, but annual domestic FGS revenue rose from US$143 million to US$263 
+million (2.3 percent of GDP) from 2017 to 20222. Somalia reached the completion point of the Heavily Indebted Poor 
+Countries (HIPC) Initiative in December 2023, with the country receiving US$4.5 billion in debt relief. 
+ 
+3. 
+Somalia is highly vulnerable to climate change and has faced persistent humanitarian crises for decades with 
+associated resource depletion. Throughout 2022 and for five consecutive seasons, low rainfall has exacerbated severe 
+drought conditions in terms of severity, duration, and scale.3 Somalia is a chronic food crop deficit country, dependent on 
+remittances and humanitarian assistance to finance food consumption and imports Small urban and rural coastal 
+communities are particularly prone to high levels of food insecurity due as they often face crises or emergencies 
+throughout the year4, living in harsh and isolated environments with poor sanitation, health, and educational services. In 
+coastal areas, a lack of rain may impact the reproduction of some stocks, e.g., shrimp near river mouths, leading to 
+economic and food security stress for some fishing communities.5 Extreme weather events due to climate change will 
+exacerbate these challenges, including in coastal areas. Climate impacts such as drought and flooding lead to failed crops 
+and loss of livestock, exacerbating these challenges in coastal areas. Somalia’s long coastline is home to valuable marine 
+resources which can contribute to food security and economic growth. However, the fishery sector needs climate-resilient 
+and sustainable management of offshore and in coastal areas.   
+ 
+4. 
+Piracy in Somalia has considerably reduced since 2012 but remains a potential threat. Piracy in Somalia was 
+initially linked to illegal fishing activities that emerged after the collapse of the central government in 1991.6 In 2007, due 
+ 
+1 World Bank: World Development Indicator (https://databank.worldbank.org/source/world-development-indicators, accessed April 7, 2024) 
+2 World Bank, 2024. Somalia Country Partnership Framework FY24-28. Report Number 187254-SO), discussed by the Board on February 29, 2024. 
+3 World Bank, 2023. Somalia Systematic Country Diagnostic Update: Accelerating the Building of Inclusive Institutions for Resilience and Jobs 
+(https://openknowledge.worldbank.org/entities/publication/fc6ee8a6-be32-468c-b396-e94b7d202aad) 
+4 Integrated Food Security Phase Classification (IPC). Somalia Acute Food Acute Food Insecurity Situation (https://www.ipcinfo.org/ipc-country-
+analysis/details-map/en/c/1156834/?iso3=SOM) 
+5 FAO, 2023. Addressing the hidden impact of the drought crisis among Somalia’s fishing communities (https://www.fao.org/somalia/news/detail-
+events/ar/c/1646992/).  
+6 World Bank. 2013. The Pirates of Somalia: Ending the Threat, Rebuilding a Nation. Washington, DC. 
+https://openknowledge.worldbank.org/handle/10986/16518  .  
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 9 of 61  
+ 
+to political instability, economic hardships, and the absence of effective governance in the region, armed groups took 
+advantage of the lawlessness at sea, hijacking commercial vessels for ransom. The crisis rapidly expanded, peaked and 
+triggered a response by the international community which deployed naval forces in the region and Somali Exclusive 
+Economic Zone (EEZ) to patrol the waters off Somalia and deter pirate activities since 2008. These efforts, along with 
+increased security measures by the shipping industry and improved local governance, contributed to a significant decline 
+in piracy incidents by the mid-2010s. However, recent incidents in late 2023 and early 2024, fuel fears of piracy resurgence, 
+and highlight the need to stabilize coastal communities through employment and economic growth. 
+ 
+5. 
+Gender inequality and Gender Based Violence (GBV) are prevalent in Somalia. The recent World Bank Somalia 
+Women’s Empowerment Options Paper 7  note that GBV including Sexual Exploitation and Abuse and Sexual 
+Harassment (SEA/SH) remains a challenge and is driven by pervasive insecurity, increased vulnerability and displacement. 
+Studies suggest that about three-quarters of GBV/SEAH survivors are internally displaced persons; some of these survivors 
+work in the fisheries sector.8 
+ 
+6. 
+Despite the challenges, several factors offer entry points for the fisheries sector to contribute to development 
+and poverty alleviation. These include a young population, rapid urbanization which can together create service sector 
+jobs; rapid integration of ICT technologies and financial services for entrepreneurs, including in the fisheries sector, and 
+present opportunities to “leapfrog” towards financial inclusion, e-government, and digital entrepreneurship. These 
+opportunities can be linked to a vibrant private sector connected to a global diaspora network that considers fisheries as 
+an economic growth area; and economic integration efforts in the broader Horn of Africa and Red Sea region and a 
+productive marine ecosystem. These general development opportunities could also enable stronger management and 
+micro-small-medium sized enterprises (MSME) development in the Somali fisheries sector. 
+ 
+B. Sectoral and Institutional Context 
+ 
+7. 
+Somalia’s fisheries resources are extensive, productive and diverse. Strong seasonal upwelling off Somalia’s 
+Indian Ocean coast provides one of the most productive marine ecosystems in the world with numerous fish and shellfish 
+species, including valuable pelagic tuna resources. Conversely, its narrow continental shelf (Annex 5) limits shallow-water 
+habitat and therefore the abundance of demersal species. Reliable data is scarce, but it is estimated that annual domestic 
+catch is around 50,000 tons since 2010, while catches by foreign fleets are estimated to be around 100,000 tons.9 Surveys 
+in the 70s and 80s estimated potential production to be significantly higher, with the latest estimates at 600,000 and 
+835,000 tons. 1011  Some demersal stocks (e.g., sharks, lobster, grouper, and snappers) may be showing signs of 
+overexploitation, especially near urban centers where fishing activity and demand is higher.12 Small pelagic resources are 
+thought to be underutilized within Somali waters, although the large pelagic tuna stocks are assessed to be overfished at 
+a regional level by the Indian Ocean Tuna Commission (IOTC). 
+ 
+ 
+7 World Bank, 2023 Somalia Women’s Empowerment Options Paper 
+8 UNFPA. Overview of Gender-Based Violence Situation in Somalia - Advocacy Brief, 2022. URL: 
+https://somalia.unfpa.org/en/publications/overview-gender-based-violence-situation-somalia-advocacy-brief-2022 
+9 Around Us project, https://www.seaaroundus.org  
+10 Adeso, 2015. Policy Paper: Improving Development and Management of Somalia’s Marine Fisheries and Controlling Illegal, Unreported and 
+Unregulated (IUU) Fishing 
+11 Glaser SM, Roberts PM, Mazurek RH, Hurlburt KJ, and Kane-Hartnett L, 2015. Securing Somali Fisheries. Denver, CO: One Earth Future 
+Foundation. 
+DOI: 10.18289/OEF.2015.001 
+12 Growth, Enterprise, Employment and Livelihoods (GEEL), 2021. Lobster Survey Report 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 10 of 61  
+ 
+8. 
+Climate change directly impacts Somali fisheries, reducing fish stocks and changing the marine ecosystems on 
+which they depend, through acidification, sea-level rise, higher water temperatures, and changes in ocean currents and 
+circulation.13 A 2021 climate and fisheries analysis prepared for the project found that during the Southwest monsoon 
+season when the Somali upwelling occurs, mean sea surface temperatures (SSTs) are projected to reach >28°C by 2030, 
+>29°C by 2050 and >31°C by 2100. By the end of the century, the study projects that the Somali upwelling zone will become 
+about 20 percent less productive overall. Furthermore, the vulnerability of the fisheries is based on cumulative effects of 
+climate change, other drivers of change, and human responses. Where a fish stock is already heavily exploited or 
+overexploited by unsustainable fishing practice, stress from climate-induced changes in ocean conditions or ecosystems 
+may push the stock to a “tipping point,” causing the total collapse of the stock. According to a World Bank study,14 
+Somalia’s socioecological risk of climate change to fisheries scores ‘very high’. Declining productivity will be exacerbated 
+if habitats and species are not sufficiently protected from fishing pressure. Additionally, Somalia’s average mean surface 
+air temperature is projected to increase by 1.9°C in 2040-2059 under a high emission scenario relative to historical 
+reference data,15 affecting the entire fishery value chain. Fishery infrastructure and livelihoods of fishing communities will 
+also be impacted by high risk of flooding in the coastal areas of Somalia. 16  Climate vulnerability also extend to 
+infrastructure and value chains. Higher ambient temperatures will increase the running and maintenance costs of buildings 
+and equipment, while increased storm intensity and frequency risks damaging vessels and infrastructure, including post-
+harvest facilities. The impacts further risk increased food insecurity and lost livelihoods for coastal communities. The 
+climate vulnerability of the Somali fisheries highlights the importance of long-term climate resilience of fisheries by 
+maintaining robust fish stock and marine habitats and reducing non-climate stressors through development and 
+implementation of climate-resilient fisheries’ management, including capacity building of fishing communities, legal and 
+regulatory framework for sustainable fisheries, monitoring control and surveillance to reduce unsustainable fishing 
+practice, including illegal, unregulated and unreported (IUU)), fisher safety, climate-smart fishery infrastructure, and 
+resilient value chains.  
+ 
+9. 
+The new 2023 Federal Fisheries Law establishes the basic division of responsibilities among FGS and FMS. The 
+Law divides fishing grounds into three zones: 
+• 
+Fisheries Restricted Zone (0-12nm): constitutes the Territorial Sea of Somalia and is reserved exclusively 
+for artisanal fishing and related activities by Somali citizens and Somali vessels of up to 12 meters in length 
+overall, and management responsibility lies with the contiguous FMS; 
+• 
+Fisheries Protection Zone (12-24nm): reserved exclusively for fishing and related activities by Somali 
+citizens and Somali vessels of up to 24 meters in length overall. While the contiguous FMS will have the 
+right to issue licenses for artisanal fishing vessels, other management responsibility lies with the FGS; 
+• 
+Fisheries Exclusive Economic Zone (24-200nm): open to all fisheries and fleet under conditions defined by 
+the Fisheries Law (2023) and where management responsibilities lie with the FGS. 
+ 
+10. 
+Illegal fishing has been rampant in Somali waters for decades with the value of the catch caught illegally 
+estimated between US$100 and US$450 million annually.17 Most of the catch taken by foreign vessels has little to no 
+benefit to the Somali economy. Although the great majority of Somali’s demersal fishing grounds lies within 24nm, foreign 
+vessels also compete with domestic fisheries for demersal resources along the narrow continental shelf. A fleet of 
+industrial trawlers operate under non-transparent agreements with some FMS in violation of the Somali Fisheries Law, 
+ 
+13 Federal Government of Somalia. 2022. Somalia’s First Adaptation Communication to the UNFCCC.   
+14 World Bank. 2019. Climate Change and Marine Fisheries in Africa: Assessing Vulnerability and Strengthening Adaptation Capacity. 
+15 World Bank. 2024. Climate Change Knowledge Portal. https://climateknowledgeportal.worldbank.org/   
+16 Global Facility for Disaster Reduction and Recovery (GFDRR). 2024. ThinkHazard! https://thinkhazard.org/en/   
+17 Adeso, 2015. Illegal, Unreported and Unregulated (IUU) Fishing in the Territorial Waters of Somalia  
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 11 of 61  
+ 
+greatly increasing the risk of overexploitation and marine habitat degradation and threatening the current and future 
+potential of the domestic fisheries sector. 
+ 
+11. 
+In 2019, Somalia started mobilizing much-needed revenue from fisheries through the issuance of licenses. 
+Following a revenue sharing agreement reached between the FGS and FMS, international partners, including the World 
+Bank, supported efforts by the FGS to establish a legal and transparent foreign fishing regime in Somali waters beyond 
+24nm. Starting in 2019, licenses were issued to 30 Chinese longliners targeting tuna and tuna-like species, generating to 
+date approximately US$4 million in annual revenue, partly shared among the FGS and FMS. Somalia did not issue licenses 
+between 2020 and 2023. The Ministry of Fisheries and Blue Economy of the Federal Government of Somalia (MFBE) issued 
+19 offshore licenses to Chinese tuna longliners in March 2024, generating US$1 million of revenue which was shared with 
+the FMS.  
+ 
+12. 
+The domestic fishing sector is largely small-scale and primarily using gillnets, handlines and traps and targeting 
+high-value species such as spiny lobster, sharks, and demersal and pelagic bony fish. Approximately 122 fish landing sites 
+have been identified along the Somali coast. Sectoral statistics are woefully outdated; estimates of the number of fishers 
+range from 10,000 fishers to 30,000. In addition, total full and part-time fisheries related indirect employment was 
+estimated to be 90,000 people.18 Somali artisanal vessels are made of wood or glass reinforced plastic and 3 to 10 meters 
+in length with an estimated 20 percent of this fleet being traditional 4-5 meters wooden houris (canoes).  Most artisanal 
+vessels are single-day fishing trip vessels, with the larger Volvo vessels being capable of multi-day trips. A limited number 
+of semi-industrial vessels, including dhows, are mostly operated by local investors. The domestic artisanal and semi-
+industrial fleets largely operate within 24 nm targeting demersal and large pelagic resources. The main fishing season for 
+the domestic fleet extend during the northeast monsoon, between December and February, when sea conditions are 
+calm. During the southwest monsoon, May to October, fishing activity from the domestic fleet is reduced due to strong 
+and persistent winds and rough sea conditions, and climate change will make the monsoon seasons more unpredictable 
+and potentially more damaging to infrastructure and fish production, further risking fisher incomes and livelihoods. 
+ 
+13. 
+Somalia participates in regional fisheries management activities through its membership of several Regional 
+Fisheries Bodies (RFBs).  Somalia is a member of the Southwest Indian Ocean Fisheries Commission (SWIOFC), the Indian 
+Ocean Tuna Commission (IOTC) and the Regional Organization for the Conservation of the Environment of the Red Sea & 
+Gulf of Aden (PERSGA). Somalia compliance rate with IOTC Conservation and Management Measures decreased from 80 
+percent in 2015 to 16 percent in 202219 mostly due to a lack of reporting.  
+ 
+14. 
+Development of domestic fisheries value chains is limited by poor landing infrastructure, handling and 
+processing facilities and equipment, and seasonal rough sea conditions. Valuable spiny lobster export value chains are 
+being developed, reaching Middle Eastern and Asian markets by air with scope for expansion with better infrastructure. 
+Other potentially high-value seafood products are not as developed and are also constrained by lack or poor 
+infrastructure. Improved infrastructure, fishing techniques and handling that incorporate designs, materials, practices, 
+and siting to reduce climate change impacts, could reduce post-harvest losses (currently estimated at between 25 percent 
+and 40 percent), especially in rural areas. Beyond large coastal cities, an active private sector has invested in fishing, cold 
+storage, and processing. However, they struggle to provide larger-scale core investments in landing and cold-storage 
+infrastructure. Improvement and development to critical infrastructure, a clearer legal framework and better knowledge 
+of stock and production potential, would facilitate further private investment. 
+ 
+ 
+18 Lovatelli, Alessandro. 1996. EC Rehabilitation Program for Somalia: Artisanal Fisheries. Final Report. European Commission Somalia Unit, Nairobi. 
+19 IOTC, 2022. Summary Report on the level of compliance. IOTC-2023-CoC20-03[E] 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 12 of 61  
+ 
+15. 
+Somalia’s marine fisheries could make important contributions to local livelihoods, food supply, exports, and 
+public revenue generation. In 2012, fisheries’ contribution to GDP was roughly estimated to be around 2 percent. In 2018, 
+the World Bank estimated that around 4 percent of employed people worked in fishing. Development agencies estimate 
+that export earnings, all of which originate from domestic small-scale landings, range from US$15-20 million, 
+predominantly from lobster. Limited recent offshore fishing licensing represented around 1 percent of public revenue. 
+However, given the possibilities for license fee collection from offshore international vessels, sustainable increase of 
+domestic production, improved handling and access to higher value markets, and revenue collection along the enhanced 
+value chains, the potential for increasing the economic contribution of Somali fisheries, as well as making a significant 
+contribution to food security, is considered to be substantial.   
+ 
+16. 
+Weak governance and the lack of management systems threaten the sustainable exploitation of fish stocks, but 
+initial steps are being taken. The 2023 Fisheries Law provides some initial clarity on the respective fisheries management 
+mandates of FGS and FMS, but efforts to promote cooperation between them is needed, to develop the implementing 
+regulations, and build capacity to enable authorities and local communities to put measures into practice. The MFBE has 
+a broad mandate to provide an enabling environment for the promotion of sustainable development of the fisheries sector 
+yet lacks the capacity to execute many of its basic functions. Facilities, equipment and trained staff are lacking for policy 
+development and implementation, data collection and analysis, monitoring and surveillance to prevent IUU fishing, and 
+promoting safety at sea. Capacity building is also needed for FGS to fully participate in regional cooperation and 
+management mechanisms, in particular, the SWIOFC, IOTC and PERSGA. Each of the five FMS has a ministry in charge of 
+fisheries and the BRA has a fisheries department, all with emerging capacity (human and technical) that needs to be 
+enhanced to support more complex management and planning.  
+ 
+17. 
+Reinforcing Monitoring, Control and Surveillance (MCS), including enforcement and prosecution capacity, is a 
+key priority to reduce illegal fishing activity. Somali authorities have no patrolling assets, limited surveillance capacity or 
+enforcement ability in their maritime waters. In 2017, Somali authorities in the FGS and FMS were equipped with and 
+trained on a Vessel Monitoring System (VMS) to track licensed vessels through satellite devices. This enabled the creation 
+of a first Fisheries Monitoring Center (FMC) at the MFBE. Access to other sources of information, e.g., Automatic 
+Identification System (AIS) was secured for the FMC which was also supported with Technical Assistance in monitoring 
+and surveillance. Somalia is also a party to the Food and Agricultural Organization of the United Nations (FAO) Port State 
+Measures Agreement (PSMA), the first legally binding international instrument that specifically targets IUU fishing, and 
+the 2023 Fisheries Law contains provisions for implementing this agreement. 
+ 
+18. 
+In the Somali fisheries sector, gender roles are distinct. Men primarily engage in fishing, international trade of 
+high-value species and some domestic distribution, while women engage in processing, local markets, wholesale and 
+retail, and restaurants, occupy few decision-making positions and have lower earning potential.20 However, there are a 
+few exceptions where women own boats, particularly in the state of Puntland, and women’s groups are emerging in the 
+sector with two co-managed fisheries that have women in the executive group. Women are also under-represented in 
+pilot fisheries co-management arrangements as well as in public fisheries institutions. In all fisheries ministries, federal 
+and states, there are only three women in decision-making roles (one in the FGS and two in the FMS), the proportion of 
+women in professional positions is very low, and few women are afforded training opportunities to improve their skills’ 
+base. The participation of women in the sector varies among FMS, with women being more involved in economic activities, 
+including fisheries, in northern FMS and less in the southern areas. The participation of the youth, i.e., young men and 
+women between 15 and 24 years old, in the sector is limited, although there is interest especially for internally displaced 
+youth. Lack of access to finance, resources and training, along with cultural pressures, are major barriers to women and 
+youth participation, which constrain the full development of the sector. There are also opportunities to significantly scale 
+ 
+20 Alder, 2023. Somali Fisheries Gender Assessment and Strategy 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 13 of 61  
+ 
+up female and youth participation and benefits from handling and processing fish through targeted training, resource 
+access and the formation of new cooperatives or associations. 
+ 
+19. 
+There is an active private sector, which has invested in fishing, cold storage, fish collection, and processing, but 
+currently it mostly only operates in the vicinity of large coastal cities and has yet to capture the full potential of domestic 
+and high-value export markets. Spiny lobster has emerging value chains which are profitable enough to cover cold chain 
+and collection costs. However other seafood products, caught by local fishers do not have access to or cannot afford 
+sufficient cold storage facilities limiting fishers’ access to international, sizeable but less lucrative regional markets and 
+growing domestic markets. Expanding city populations are driving increases in domestic demand for seafood, particularly 
+in Mogadishu, Garowe and Hargeisa. In rural areas, post-harvest losses are high due to inadequate infrastructure and 
+processing systems, limited human capacity, and under-developed value-chains. Since overall food supply remains 
+uncertain due to annually variable distribution and levels of rainfall and associated pests such as locusts, fisheries managed 
+for sustainability could make a significant contribution to food security. For further development of the private sector, 
+proper landing facilities and efficient and clean cold-chain infrastructures are needed to reduce losses and maintain 
+quality. In addition, better knowledge about the stock would guide investment in the sector that would be further 
+incentivized by management and a sound legal framework.  
+ 
+C. Relevance to Higher Level Objectives 
+ 
+20. 
+The project contributes to the World Bank’s mission to extreme poverty and boost shared prosperity on a 
+livable planet. The project is aligned with the World Bank Group (WBG) Country Partnership Framework (CPF) for the 
+Federal Republic of Somalia for the Period FY24 – 28 (Report Number 187254-SO), discussed by the Board on February 29, 
+2024, in particular, CPF High Level Objectives (HLO) 3 Greater resilience to climatic and other shocks which aims to increase 
+the resilience of urban and rural populations in the context of extreme vulnerability to climate change; straining 
+infrastructure; persistent drought and floods undermining rural livelihoods and food security. The project also contributes 
+to the cross-cutting foundational HLO Macroeconomic stability and governance foundations, in particular objective 0.1 
+Increase the effectiveness, transparency, and accountability of institutions, and HLO 1 Inclusive, private sector-led job 
+creation and economic growth, in particular Objective 1.2 Increase access to infrastructure, energy, and digital services. 
+The project is also aligned with the 2023 SCD Update, supporting in particular HLO 3 Improved Household Resilience to 
+Shocks and contributing to foundational HLO 2: Improved Access to and Quality of Services through Better Economic 
+Governance; and HLO 5: Enhanced Private Sector for Better Jobs. It also directly contributes to the new World Bank Group 
+Strategy for Fragility, Conflict and Violence (FCV) 2020-2025 pillars of engagement – pillar 1 prevention and pillar 3 
+transition out of fragility. The project contributes to the overall engagement of the World Bank in Somalia, with strong 
+links to other operations. It fully supports intergovernmental dialogue between the FGS and the FMS and federalism 
+building. It complements other investments including the Somali Crisis Recovery Project (SCRP, P173315), The Somalia – 
+Horn of Africa Infrastructure Integration Project (P173119) which have activities associated to the fisheries sector. The 
+project is also supported by the Somalia Recurrent Cost and Reform Financing Project (RCRF) and the latest Development 
+Policy Operation (DPO) series which included prior actions and triggers linked to the set-up of an offshore licensing system 
+for revenue generation, the adoption of the 2023Fisheries Law and adoption of the first regulations under the new law. 
+ 
+21. 
+The project is consistent with the country’s Nationally Determined Contribution (NDC).21 In the latest NDC 
+Somalia has committed to 30 percent emission reductions against the business-as-usual scenario by 2030. On adaptation, 
+it aims to enhance adaptive capacity, strengthen resilience, and reduce vulnerability to climate change through 
+mainstreaming climate adaptation into sustainable development. The project contributes to the NDC by promoting energy 
+ 
+21 Somalia. 2021. National Determined Contributions (https://climate-laws.org/documents/somalia-s-updated-ndc_2cbf?id=somalia-s-updated-
+ndc_8ef8) 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 14 of 61  
+ 
+efficiency infrastructure, technologies and fishing and fish processing practices as described in the Project’s Climate 
+Change co-benefits section (Annex 2) and Paris Alignment Assessment for the project. The project’s operational design 
+includes lower-carbon alternatives such as investments in energy-efficient systems and does not hinder transition to 
+lower-carbon alternatives or lead to carbon lock-in risk in the future. The project is also consistent with the National 
+Adaptation Program of Action (NAPA)22 by supporting the siting and construction of infrastructure to be climate proofed, 
+building climate resilience and adaptive fisheries management measures at national, state and local levels, ensuring 
+communities consider climate and nature based solutions (NBS) in co-management of marine resources, and working with 
+key actors to consider climate in value chain improvement efforts, and supporting research to improve fisheries. In 
+addition, the project is aligned with the WBG Climate Change Action Plan 2021–2025. The project contributes to UN 
+Sustainable Development Goal (SDG) 14 by improving fisheries sustainability and access to resources and markets for 
+small scale fishers. The project is also aligned with the 2023 Somalia Country Private Sector Diagnostic, in particular its 
+Recommendation 3: Improve growth and productivity of selected value chains. 
+ 
+22. 
+The project aligns with the World Bank Group’s corporate objectives for Maximizing Finance for Development 
+(MFD), including Private Capital Enabling (PCE), by developing an enabling framework to leverage private capital for 
+fisheries investments. The Somali private sector has begun investing in the sector, including through the diaspora. 
+Investments in processing and exports have faced multiple constraints that inhibit maximizing value. The project’s 
+integrated investments in infrastructure, strengthening governance, policy development and capacity-building among 
+fishers and value chain MSMEs will address some of the binding constraints that prevent private investment and provide 
+further incentives for investment, including for MSMEs. The project will create integrated models of improved fishing 
+practices, strengthened value chains and enhanced product quality in selected communities, which is expected to attract 
+direct private investment. The proposed infrastructure will be supporting fishing processing, retail and trade activities, 
+and stimulate the development of associated private activities e.g., boat/ engine/ fishing gear repair, cold chain equipment 
+maintenance, etc. Furthermore, strengthening the legal and regulatory framework, and providing information on the 
+status of the stocks will create a healthy environment for informed investment by the private sector. The project will also 
+support direct advisory services to the private sector to enhance their business processes and ensure they are empowered 
+to operate collectively at a commercial level, and benefit from sector growth. 
+ 
+23. 
+The project will contribute to the Somalia National Development Plan (NDP-9) 2020-202423. The Economic 
+Development Pillar of this plan aims to build “a more diverse and competitive economy capable of taking advantage of 
+emerging regional trade opportunities [as] the best route to broadening growth and mobilizing revenue in the medium to 
+long term”. The NDP-9 highlights the opportunities provided by the fisheries sector under this pillar which the project will 
+help realize. It will also support thematic pillar 2 (“Promoting Trade and Market Integration”) and thematic pillar 4 
+(“Reinforcing Resilience”) of the 2020 Africa Regional Integration and Cooperation Assistance Strategy Update for FY21–
+FY23.  
+ 
+24. 
+The project aligns with the World Bank Group Gender Strategy (2024-2030) with a focus on elevating human 
+capital, enabling economic opportunities, and engaging women as leaders. The project is also aligned with the Women 
+in the Maritime Strategy endorsed by the MFBE and with the Regional Gender Action Plan for Eastern and Southern Africa 
+(ESA) (FY24–FY28)24. 
+ 
+22 Federal Republic of Somalia, 2013. National Adaptation Programme of Action on Climate Change 
+(https://unfccc.int/resource/docs/napa/som01.pdf) 
+23 Somalia National Development Plan 2020 to 2024: The Path to a Just, Stable and Prosperous Somalia (https://mop.gov.so/wp-
+content/uploads/2022/07/Somali-National-Development-Plan-9-2020-2024.pdf) 
+24 Available at https://documents.worldbank.org/en/publication/documents- 
+reports/documentdetail/099720003042421894/idu1e951cc1f1da4b1450618f67145956c62edae 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 15 of 61  
+ 
+25. 
+The project aligns with the Blue Economy for Resilient Africa Program (BE4RAP) announced at the United 
+Nations Framework Convention on Climate Change’s annual Conference of the Parties (COP27). In particular, the project 
+contributes to the two pillars related to blue food and blue jobs and support Somalia in managing its fisheries resources 
+as public goods. 
+ 
+26. 
+The project aligns with and supports the implementation of the Fisheries Master Plan for the Federal Republic 
+of Somalia recently developed with support of the FAO and endorsed by the Fisheries Management and Development 
+Council (FMDC) in February 2024. The Fisheries Masterplan is an overall strategy that aims to address urgent needs, 
+identify priorities and build a business case for intervention. The plan specifically provides guidance on the policy and legal 
+framework, fisheries management, including stock assessment, fisheries value-chains, supporting infrastructure as well as 
+hygiene standards and certification, fisheries compliance and Monitoring Control and Surveillance (MCS), blue economy 
+development and overall capacity building. The project will also support the implementation of FAO’s Code of Conduct for 
+Responsible Fisheries25 and the Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food 
+Security and Poverty Eradication26.  
+ 
+ 
+II. PROJECT DESCRIPTION 
+A. Project Development Objective 
+ 
+PDO Statement 
+27. 
+The Project Development Objective is to improve the capacity of targeted communities and authorities to 
+benefit from and effectively manage selected fisheries. 
+ 
+PDO Level Indicators 
+a) Climate informed fisheries management plans formulated, and implemented (Number) 
+b) FMDC meetings (Number) 
+c) Fishing communities with improved capacity to benefit (Number) 
+d) Project beneficiaries (direct) (Number)  
+e) Reduction in food loss and waste in targeted value chains (Percentage)  
+ 
+B. Project Components 
+ 
+28. 
+The project implementation area will include the Internal Waters (IW), Territorial Sea (TS) and Exclusive 
+Economic Zone (EEZ) of the Federal Republic of Somalia, including the following specifications: no project activities, 
+including activities associated to i) Monitoring, Control and Surveillance and the implementation of the MCS strategy, ii) 
+fisheries data collection, or iii) fisheries improvement or development activities, will be conducted in the maritime area 
+south of the parallel 1° 39’ 44.0” South and in the maritime area northwest of the line defined by the list of coordinates 
+in Annex 4. Based on previous collaboration agreements, the project will include activities and investment in all five FMS 
+as well as in Mogadishu. No activities are foreseen in Somaliland at this stage, although this could be discussed in the 
+future. 
+ 
+25FAO, 1995. Code of Conduct for Responsible Fisheries (https://www.fao.org/fishery/en/code) 
+26 FAO, 2015. Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication 
+(http://www.fao.org/3/i4356en/i4356en.pdf) 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 16 of 61  
+ 
+29. 
+To maximize impact and benefits, all community activities-under Component 1 and Component 2 will be 
+delivered as a package in selected communities. Through preparatory activities, two potential sites per FMS have been 
+identified for investment as well as Mogadishu.27 For each of the selected communities, support, including planning, 
+investment and associated capacity building, etc. will be provided on, (a) fisheries infrastructure development and 
+operationalization, (b) value-chain improvements, and (c) co-management of fisheries resources, including participatory 
+MCS. National systems such as i) data collection, and ii) fisheries and vessels registration and licensing will also be piloted 
+and introduced first in these selected communities. 
+ 
+30. 
+Component 1. Increasing the Capacity of Dependent Communities to Benefit from Sustainable Marine Fisheries 
+(US$27,085,000 IDA equivalent). This component aims to establish or improve small-scale fisheries sustainable 
+infrastructure that is climate resilient,28 and financially viable and value chains with primary beneficiaries being fishers, 
+fish workers and their communities including cooperatives and MSMEs.29 
+ 
+31. 
+Sub-component 1.1 Climate-resilient fisheries infrastructure (US$22,575,000 IDA equivalent). This sub-component 
+will support identification, planning and construction of climate-resilient30 and gender-responsive small-scale fishing 
+infrastructure at a minimum of 12 sites in consultation with selected communities and stakeholders. These investments 
+are designed to enable private sector investments in catching, processing and transporting seafood as well as associated 
+activities, e.g., boat building, repair, and equipment maintenance (engines, fishing gear, cold-chain equipment, etc.). They 
+will be confirmed before grant effectiveness and preparatory studies will start during the early stage of the project. 
+Investments have been identified and confirmed during preparation for Jazeera in South-West and Warsheik in 
+Hirshabelle. For these two sites, preparatory studies will start before effectiveness. Identification and planning support 
+will include the preparation of feasibility studies, technical designs that consider climate change and the needs of men, 
+women and youth, environment and social instruments and infrastructure management/business plans. Plans will define 
+management options for the infrastructure, e.g., community managed, PPPs, etc. Possible infrastructure includes cold 
+stores fitted with energy-efficient power supply, ice-production facilities, storage facilities, as well as processing facilities, 
+all of which are critical for handling fish catch in increasingly warmer climate; jetties to protect navigation channels from 
+coastal flooding; and local markets (which reduce fish loss and waste compared to exports) to lay the foundation for 
+private sector investment. This sub-component will also support capacity building to manage, operate and maintain the 
+infrastructure considering climate change, including financial sustainability to manage increasing operating costs under 
+projected warmer air temperature. For Mogadishu, given the limited land availability in the two traditional landing sites, 
+Hamarweyne and Lido, a new investment in another area of the city will imply a drastic change for fishers, processors and 
+consumers. The project will therefore support a medium and long-term vision and investment plan that takes climate 
+change considerations, including feasibility studies, socio-economic and environmental assessments, with potentially 
+preliminary infrastructure. 
+ 
+32. 
+Sub-component 1.2. Improving fishing, handling, processing, and marketing techniques to enhance quality and 
+value-addition (US$4,510,000 IDA equivalent). This sub-component will support screening and assessment of various value 
+chains associated with targeted communities and the formulation of climate-resilient improvement plans for up to six fish 
+value chains that support fisheries at each selected infrastructure sites. Value chain improvement plans take climate 
+change considerations to improve and diversify fish supply, species, and products to adapt to changing fisheries due to 
+ 
+27 Jubbaland: Calanley and Kibora sites in Kismayo; Southwest: Jazeera, Barawaa and Merca; Hirshabelle: Ceel Macaan and Warsheik; Galmudug: 
+Ceel Hur and Hobyo; Puntland: Garaad and Bargaal as well as Mogadishu in Banadir. 
+28 Climate resilience infrastructure considers design, construction and materials that reduce the impacts of climate change such as locating above 1 
+in a 100-year tidal surge, planting vegetation to reduce solar radiation, insulation, cold stores running on solar energy and other such measures. 
+29 Unless otherwise indicated, activities in all components aim to be gender-responsive to address the gender barriers described in the I.B Sector 
+Context section. Further details of gender efforts are provided below in IV. PROJECT APPRAISAL SUMMARY, Part C. 
+30 Climate resilience infrastructure considers design, construction and materials that reduce the impacts of climate change. 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 17 of 61  
+ 
+climate change; financial management in preparation for disruptions caused by climate impact; and investment plans for 
+climate-smart equipment and infrastructure. The development of these plans will start and aim to be completed within 
+the first half of the project. This will be done in consultation with beneficiary communities and stakeholders, so the 
+benefits are economically and socially sustainable and climate resilient. Support for implementation of value chain 
+improvement plans include awareness raising, capacity building, training, and advice (technical including climate change 
+impacts and business) based on needs assessments, including financial skills to address gender barriers and to realize new 
+business opportunities. The sub-component will also support strengthening or establishing sectoral organizations, 
+including cooperatives and associations, and improving labor conditions and promoting women into leadership roles 
+through capacity building and mentoring. For selected sites, beneficiaries (fishers, processors, and related businesses) will 
+be supported to transition to climate-informed fishing and processing practices including safety-at-sea,31 new low-carbon 
+technologies and equipment with awareness raising, training, and provision of advisory services as well as organizing 
+communities. This subcomponent aims to reduce fish losses from weather-related impacts, improve product quality and 
+develop new products and improve access to appropriate equipment and training. Additional support will be provided for 
+promoting and marketing seafood products based on value chain improvement plans and market studies, and in 
+consultation with potential beneficiaries.  
+ 
+33. 
+Component 2: Strengthening Marine Fisheries Governance and Management (US$15,060,000 IDA equivalent, 
+US$5 million PROBLUE). This component will set the foundation for long-term climate resilient Somali fisheries that are 
+managed for sustainability by investing in fisheries governance as laid out in the 2023 Fisheries Law. 32.The main 
+beneficiaries will be FGS and FMS fisheries ministries, fishers, fish workers and their communities, as well as investors. 
+ 
+34. 
+Sub-component 2.1: Laying a foundation for effective, transparent, and equitable fisheries resource governance 
+and management (US$11,020,000 IDA equivalent; US$3,720,000 PROBLUE). This sub-component will support marine 
+fisheries governance and management by providing technical assistance and operational support to the Fisheries 
+Management Development Council (FMDC) and its meetings, as well as legal and technical support to FGS and FMS 
+fisheries ministries to develop harmonized legal and regulatory frameworks to implement the 2023 Fisheries law and 
+support sustainable development of the sector, including through private sector investment. In the early stage of 
+implementation, the project will support the finalization and adoption of the Fisheries Policy, revisions of the FMS Fisheries 
+Law for harmonization with the 2023 Fisheries Law33, adoption of regulations on licensing and MCS by FMS, on inspection 
+and quality assurance. The project will further support the adoption of complementary regulations according to Article 
+158 of the 2023 Fisheries law. Building on these initial advances, this sub-component will produce and support initial 
+implementation of ecosystem-based and climate-informed management plans, in a fully consultative and participatory 
+manner, for selected fisheries shared among FMS and the FGS. The project is creating a foundation for sustainable fisheries 
+management, enhancing robust fish stock and long-term resilience of marine ecosystems and addressing gender barriers 
+such as access to resources and training, so that future interventions in the sector can be transformative. The project’s 
+stakeholder engagement plan and the terms of reference for the preparation and implementation of management plans 
+will ensure the active participation of women. A national system for fisher and vessel registration will be established to 
+help formalize and enable transparency and investment in the sector. Initial investments will be made to build capacity 
+and make FGS and FMS ministry staff and offices functional. Other public and research institutions will also be 
+strengthened, including support for effective enforcement and prosecution of illegal fishing operations which can 
+significantly compromise the sustainable fisheries management; generation and data analysis for decision-making, and 
+improvement of food safety standards to contribute to domestic food security and exports. The component will also pilot 
+ 
+31 Safety-at-sea is a climate adaptation measure against extreme weather events. See International Fund for Agricultural Development. 2015. How 
+to do Fisheries, aquaculture and climate change: Guidance for adaptation and mitigation. 
+32 https://mfbe.gov.so/laws/  
+33 The 2023 Fisheries Law was adopted at the federal level and FMS fisheries laws need to be revised to be consistent and aligned with it. 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 18 of 61  
+ 
+the establishment of formal co-management systems 34 in 12 selected communities benefiting from Component 1 
+investments, while accounting for capacity constraints and cultural and social factors, including development and 
+implementation of co-management agreements with consideration of potential climate impacts. These activities will build 
+the capacity of men, women and youth in targeted fishing communities, to participate in managing the resources they 
+depend on. Applied research to improve existing or identify potential new fisheries will also be supported. 
+ 
+35. 
+Sub-component 2.2: Developing a comprehensive Monitoring Control and Surveillance (MCS) system to fight IUU 
+fishing in Somali waters (US$3,740,000 IDA equivalent). 35 As described earlier, the challenges posed by climate change to 
+Somali fisheries require urgent reduction in overfishing and excess capacity to maintain robust fish stock and build long-
+term resilience of marine ecosystems. This sub-component will support the implementation of the MCS strategy recently 
+developed with assistance from the WBG to promote sustainable fisheries management, including investments in: i) the 
+development and implementation of a National Plan of Action to prevent, deter and eliminate Illegal, Unreported and 
+Unregulated Fishing (NPOA-IUU) with a focus on I – Illegal and also U - Unregulated, ii) the upgrading and decentralization 
+of the Fisheries Monitoring Center with equipment, services, technical assistance, standard operating procedures (e.g. 
+SOPs for satellite monitoring such as Vessel Monitoring System (VMS) and Automatic Identification System (AIS)), iii) 
+boarding and inspection of vessels, iv) fisheries observers, v) evidences chain-of-custody, etc. and, vi) associated training).  
+This sub-component will also finance and build capacity for offshore patrols at sea in the EEZ by the FGS, through the 
+chartering of patrol vessels, and capacity building in inspection, and risk assessment. For coastal surveillance in territorial 
+waters by FMS, the sub-component will support with energy efficient equipment such as 4-stroke versus 2-stroke engines, 
+including small patrol boats, to be used exclusively for fisheries enforcement. While the project will support and provide 
+assets, equipment and training exclusively to the ministries in charge of fisheries, collaboration may be sought with the 
+maritime polices who are benefiting from training by partners (e.g., United Nations Office on Drugs and Crime, European 
+Union Capacity Building Mission in Somalia) on at-sea patrolling, boarding procedures, operating and maintenance of 
+patrol vessels, given that these skills are limited within fisheries ministries. Any patrol, onshore, coastal or offshore, at sea, 
+on land or in air, will be led by fisheries authorities. 
+ 
+36. 
+Sub-component 2.3: Fisheries Statistics and Stock Assessments (US$1,280,000 PROBLUE). The project will support 
+research on the likely impacts that climate change may have on fish populations and marine ecosystems and provide 
+technical assistance to enable adaptive management of fishery resources over the next five to twenty years.36 This sub-
+component will support the development and deployment of, and begin to institutionalize, tools and systems to generate, 
+analyze and disseminate information essential for effective fisheries management. In particular, this subcomponent will 
+support: i) the development and implementation of a national harmonized and decentralized system for the collection of 
+fish catch statistics and related data by FGS and FMS ministries, universities and community members, ii) technical 
+assistance and capacity-building for both men and women, to determine the state of selected stocks and provide 
+management advice, iii) the design of an integrated fisheries’ information management system, accessible by relevant 
+FGS and FMS agencies, to collect, store and analyze fisheries related data to inform the management of targeted fish 
+stocks. The system will build on modern technologies (e.g., mobile technologies) while remaining tailored to the needs 
+and capacity in Somalia.   
+ 
+37. 
+Sub-component 2.4: Strategic studies on fisheries development and blue economy (US$300,000 IDA equivalent). 
+This subcomponent will support a set of analytical and strategic studies for long term development of the fisheries sector 
+ 
+34 A process of management in which government shares power with resource users, with each given specific rights and responsibilities relating to 
+information and decision-making (OECD (1996), Synthesis report for the study on the economic aspects of the management of marine living 
+resources. AGR/FI(96)12) 
+35 To cease IUU fishing is a climate adaptation measure included in Somalia’s National Adaptation Programme of Action on Climate Change (2013). 
+36 Research for improved fisheries management is identified among the adaptation options for Somalia in its NAPA (2013). 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 19 of 61  
+ 
+in the changing fisheries environment and the broader blue economy in Somalia, the precise scope of which will be 
+determined during the early stages of the project. 
+ 
+38. 
+The PROBLUE Multi Donor Trust Fund will provide a US$5 million grant to the project specifically for activities 
+under Component 2, specifically 2.1 and 2.3 as described above, to be implemented by the Ministries in charge of fisheries 
+in the FGS and FMS. These activities will include a) meetings of the FMDC, b) the strengthening of all policy, legal and 
+regulatory frameworks at FGS and FMS levels, c) the development and initiation of implementation of all management 
+plans, 4) the development of registrations systems for fishers, vessels and licenses, d) development and implementation 
+of strategies and reforms for gender empowerment, e) the development and implementation of a Fisheries Information 
+Management System and f) the determination of the status of priority stocks. 
+ 
+39. 
+Component 3:  Project Management Monitoring and Evaluation (US$7,855,000 IDA equivalent) This component 
+will ensure effective implementation of project activities and fiduciary management and effective monitoring and 
+evaluation, and conformity with the World Bank Environmental and Social Framework (ESF). It will provide equipment, 
+technical assistance, training, and incremental operating costs to the MFBE to strengthen its capacity to manage, 
+implement, and monitor project activities. Specifically, support will include staffing and operation of a Project 
+Management Unit (PMU) within the MFBE of the FGS, with representatives from the FMS ministries of fisheries; 
+establishing adequate financial and procurement management systems; implementing an overall communication plan 
+and grievance redress mechanism; monitoring and evaluation (M&E); preparing and implementing specific environmental 
+and social instruments as per the ESF; coordinating with other ministries (e.g. Ministry of Environment and Energy) and 
+the private sector; evaluation studies; and sharing knowledge and experience gained through the project related to 
+fisheries management at the regional level. 
+Table 1.Project budget 
+Project Components 
+IDA 
+(US$) 
+PROBLUE 
+(US$) 
+Total 
+Component 1. Increasing the Capacity of Dependent Communities to Benefit from Sustainable Marine Fisheries 
+1.1 Climate-resilient fisheries infrastructure 
+22,575,000 
+0 
+22,575,000 
+1.2 Improving fishing, handling, processing, and marketing techniques to enhance quality 
+and value-addition 
+4,510,000 
+0 
+4,510,000 
+Total component budget 
+27,085,000 
+0 
+27,085,000 
+Component 2. Strengthening Marine Fisheries Governance and Management 
+2.1 Laying a foundation for effective, transparent, and equitable fisheries resource 
+governance and management 
+11,020,000 
+3,720,000 
+14,740,000 
+2.2 Developing a comprehensive Monitoring Control and Surveillance (MCS)37 system to 
+fight IUU fishing in Somali waters 
+3,740,000 
+0 
+3,740,000 
+2.3 Fisheries Statistics and Stock Assessments 
+0 
+1,280,000 
+1,280,000 
+2.4 Strategic studies on fisheries development and blue economy 
+300,000 
+0 
+300,000 
+Total component budget 
+15,060,000  5,000,000 
+20,060,000 
+Component 3. Project Management Monitoring and Evaluation 
+Project management 
+7,855,000  
+0 
+7,855,000 
+Total component budget 
+7,855,000  
+0 
+7,855,000 
+TOTAL 
+50,000,000  5,000,000 
+55,000,000 
+ 
+ 
+37 MCS to cease IUU fishing is a climate adaptation measure to promote sustainable fisheries management (IFAD, op. cit. P.14.) and included in 
+Somalia’s NAPA (2013).  
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 20 of 61  
+ 
+C. Project Beneficiaries 
+40. 
+The project activities are expected to directly benefit people (estimated 165,000) in the 12 targeted 
+communities along the Somali coast, in particular fishing and other associated households, as well as staff from national 
+authorities. For these targeted communities, fishing is essential to their livelihoods. These communities are fragile, located 
+in areas with particularly high food insecurity and are vulnerable. Their livelihoods are highly dependent on natural 
+resources, in particular fisheries’ stocks and the ecosystems that support them. Within these communities, as well as in 
+the rest of the country, the project is also expected to benefit businesses, in particular informal workers and MSMEs 
+involved in the fisheries’ value chains. The private sector will benefit from improved fishing and processing skills, as well 
+as from enhanced cold-chains, which will reduce post-harvest losses and improve the products’ quality. It will also benefit 
+from improved fisheries management, supporting the rebuilding of stocks as well as their sustainability and guiding their 
+investments. Finally, the project will also directly benefit public institutions involved in fisheries’ management, in 
+particular ministries of fisheries in the FGS and FMS (six in total) and the fisheries department of the BRA, as well as other 
+ministries and institutions involved in the MCS. 
+ 
+41. 
+The project aims to improve women’s productivity and earnings in the fisheries sector, as well as their role in 
+local decision making and institutional leadership. To improve women’s earnings, training and technical advice will be 
+provided at convenient time and locations, and through other culturally appropriate modalities, to support the 
+participation of women and women-owned businesses in value chain improvement activities under Subcomponent 1.2. 
+In addition, the subcomponent will also provide training and mentorship to promote women’s leadership in new and 
+existing sectoral organizations (including cooperatives and business associations) and engage these organizations directly 
+in the planning of value chain improvement activities. The impact of these measures will be measured through the 
+indicator: Share of targeted MSMEs benefitted from implementation of value chain improvement plans of which owned/led 
+by women (target 20 percent). 
+ 
+42. 
+Subcomponent 2.1 will establish a target for women’s participation in fishery co-management arrangements, 
+including in executive bodies to improve women’s decision making and leadership in the sector. This subcomponent will 
+also support eligible women to participate in and lead fisheries’ co-management arrangements and build capacity for 
+women in leadership roles in relevant FGS and FMS fisheries ministries. The impact of these measures will be measured 
+through the indicators: Number of-management arrangements with at-least 10 percent women participation (target from 
+0 to 8); and Number of co-management arrangements of which at least one woman in an executive position in its 
+governance body (target from 3 to 8). In addition, the indicator: Share of direct beneficiaries that are women (target 30 
+percent) will be used to measure the beneficial impact of the project on women. 
+ 
+D. Results Chain 
+43. 
+The Theory of Change is that if activities produce fit-for-purpose infrastructure, establish the effective 
+management of fisheries, and strengthen fish value chains, while considering climate change impacts and gender 
+aspects, in an intentionally linked and synergistic manner around targeted fishing communities, the project will have 
+laid the foundation for sustainable fisheries and through a climate resilient perspective. These interlinked activities 
+(Figure 1) will in turn enhance livelihoods, food security and sustainable economic development nationally and in the 
+targeted coastal communities in Somalia. The three areas of work will also seek to create opportunities for marginalized 
+groups such as women, to participate and benefit from this development in the private and public dimensions of the 
+fisheries sector. 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 21 of 61  
+ 
+Figure 1. Project’s Theory of Change 
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+ 
+44. 
+The project builds on previous success in the fisheries sector supported by the World Bank and other donors. 
+The Interim Revenue Sharing Agreement signed in 2018 by the FGS and FMS to license foreign vessels fishing in Somali 
+waters and share the revenue represents a positive step in governance that extends beyond fisheries. The project is 
+specifically designed to build on this past success to begin to institutionalize and then strengthen federal fisheries 
+governance across all FMS. Fisheries also represent a sector with significant economic growth potential if fish stocks are 
+managed sustainably and fish are landed in Somalia to expand nutrition, food security and value chains. The World Bank 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 22 of 61  
+ 
+is well positioned to invest in the institutional capacity needed for effective resource management at FGS and FMS levels 
+as it invests in value-enhancing infrastructure and value chains in targeted communities across the country. The World 
+Bank has also supported the development and adoption of a new Fisheries Law at the Federal level, including through the 
+latest DPO Series. 
+ 
+45. 
+The World Bank has been at the forefront of supporting the management and development of the fisheries 
+sector in the Southwest Indian Ocean region. Since over 15 years, the World Bank invested in fisheries in the region 
+through the implementation of several regional and national operations, (SWIOFish regional program in Comoros, 
+Madagascar, Tanzania, Mozambique, Seychelles, Maldives; KEMFSED (Kenya); SFISH (Yemen); MozBio and MozNorte 
+(Mozambique). In Somalia, the World Bank has supported the sector since 2017 and coordinating with other donors 
+involved in fisheries. The World Bank’s convening power is a critical asset to foster cooperation between various levels of 
+governments, across sectors and donors. 
+ 
+46. 
+The project will support other fisheries intervention in Somalia and in the region. The project will complement 
+the Somalia Crisis Recovery Project (SCRP, P173315) activities through further support to SCRP fisheries activities to 
+promote the sustainability of the investments and scale-up. Proactive coordination will also be promoted with the Horn 
+of Africa Infrastructure Integration Project (P173119) and also the Transforming Fisheries Sector Management in South-
+West Indian Ocean Region and Maldives Project (TRANSFORM, P179242), in particular SWIOFC regional activities. The 
+Global Program for the Blue Economy Multi-Donor Trust Fund (PROBLUE), administered by the World Bank, supported 
+background analytical work that informed the project design and will co-finance its implementation. In particular, 
+PROBLUE supported i) the preparation of a national Monitoring Control and Surveillance (MCS) Strategy which will be 
+implemented through the project, ii) the identification of site for infrastructure development (on-going), iii) a review of 
+fisheries governance and management arrangement in federal settings for presentation at the first meeting of the FMDC. 
+More work is under preparation on the design of data collection system, governance arrangements for priority fisheries 
+and on value-chains. This co-financing enables faster disbursement under the project. This project has been developed 
+with extensive consultation with other development partners, including the EU, USAID, other bilateral aid agencies, the 
+FAO, and a small number of NGOs, all members of the Fisheries Development Working Group with activities associated to 
+fisheries in the country.  
+F. Lessons Learned and Reflected in the Project Design 
+ 
+47. 
+The design of the project draws on lessons learned from recently closed and ongoing fisheries projects as well 
+as Somali projects with infrastructure elements. The first key lesson in developing the fisheries sector requires interlinked 
+investments in management, infrastructure and value chains for the same fisheries and locations. Linking these 
+interventions can create synergies and optimize impacts instead of focusing primarily on management. The project will: 
+a) strengthen management to send a positive signal to potential investors; b) strengthen MSMEs' economic and social 
+performance; and c) establish or rehabilitate fishing infrastructure. The second is harnessing fisheries’ growth potential 
+and setting the sector on a sustainable pathway is a long-term process. For example, in Mozambique and in Pacific Islands 
+Countries, the World Bank is investing in the sector through several consecutive regional or regional operations. The 
+project focuses on setting the foundation for this process with stakeholder dialogue and capacity-building, recognizing the 
+key role of fishing communities, and strengthening of FGS and FMS ministries. The third is compliance with management 
+measures is more likely if ownership of these measures is ensured from the beneficiary communities and the private 
+sector by involving them throughout the development of management plans and through co-management. This was 
+shown in several World Bank projects supporting co-management, like the countries of the Western Africa Regional 
+Fisheries Program (WARFP, P106063) and the South-West Indian Ocean Fisheries Governance and Shared Growth Program 
+(SWIOFish, P132123, P153370, P155642).  
+ 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 23 of 61  
+ 
+48. 
+The project also draws from the operational experience of the World Bank and its partners with previous 
+investment projects in the country.38 Key lessons include: (i) project design and implementation arrangements must be 
+kept simple, transparent and use existing modalities where possible. Implementation is simple with a PMU in Mogadishu 
+and small project implementation unit in each state with fiduciary responsibility at the FGS level, similarly to the SCRP and 
+the Somalia Education for Human Capital Development project, and uses the External Assistance Fiduciary Section (EAFS) 
+model for financial management and procurement, and Capacity Injection Manual (CIM) guidelines, similarly to all projects 
+in Somalia; and (ii) engage FMS early to ensure implementation and flexibility for carrying out eventual changes, like the 
+Biyoole and Barwaaqo projects. The FMS were engaged early to help ensure project activities and interventions have the 
+needed buy-in and participation; and (iii) projects should ensure that preparation is sufficiently advanced to allow the 
+borrower to start a substantial part of the project immediately after approval. The project has secured a project 
+preparation advance (PPA) to prioritize preparation for infrastructure activities since July 2023. The PPA supported the 
+MFBE for the preparation period of the project, as well as its readiness for implementation. In particular, the PPA is helping 
+in establishing and equipping the PMU, kick-starting FGS-FMS coordination, and funding baseline surveys.  
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+49. 
+All project interventions will be carried out in a manner consistent with the Federal Fisheries Law of Somalia.  
+The project will be implemented by the MFBE of the FGS, with the ministries of fisheries in the FMS and in consultation 
+with beneficiary communities. 
+ 
+50. 
+A project management unit (PMU) will be established within the MFBE. This unit will be responsible for overall 
+project implementation and coordination with stakeholders, including procurement and contract management, 
+environmental and social issues, monitoring and evaluation, overall quality control of project activities and execution, and 
+enabling effective communication among stakeholder agencies and beneficiary communities. The PMU will be led by a 
+national project coordinator (NPC) who will report directly to the Minister of Fisheries and Blue Economy (or senior officer 
+designated by the Minister), and the unit will include technical and administrative specialists including environmental, 
+social development, procurement financial management, monitoring and evaluation and communication specialists. 
+Throughout the project implementation, the PMU may also rely on highly specialized technical assistance and expertise 
+on various technical or administrative aspects of the project to fill knowledge gaps and build capacity within the unit and 
+the various ministries. The PMU Specialists will work closely with and support the technical, and administrative needs of 
+FMS and targeted local fishing communities. Specialists will report to the PMU but within work plans agreed to with the 
+relevant FMS fisheries ministries.  
+ 
+51. 
+Project implementation units (PIU) will be established within each FMS Ministry of Fisheries and be responsible 
+for the coordination and implementation of project activities in fishing communities within each of the participating 
+FMS. The PIUs will be composed of a State Project Coordinator (SPC) and administrative staff as deemed necessary. The 
+SPC will report to the State Minister of Fisheries (or other senior officer designated by the respective FMS minister of 
+fisheries). 
+ 
+ 
+38 Key projects include the Somalia Crisis Recovery Project (P176343), Horn of Africa Infrastructure Integration Project (P173119), Water for Agro-
+Pastoral Productivity and Resilience Project (P167826) and Somali Electricity Access Project (P165497)  
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 24 of 61  
+ 
+52. 
+The Technical Working Group of the Director General (DG-TWG), composed of all Director General of fisheries 
+from the FMGS and FMS will serve as Project Steering Committee (PSC) for the project. With two meetings a year, the 
+PSC will review project progress and endorse Annual Work Plan and Budget and Procurement Plan. 
+ 
+53. 
+The project will support other institutions and government agencies that establish formal partnerships, through 
+memoranda of understandings, with the MFBE. This support will facilitate implementation of project activities that fall 
+outside of the core competencies of the MFBE. These include food safety, enforcement, scientific research, and education 
+and may include such entities as the Food Safety and Quality Control Agency, Police and Navy, Research Institutes and 
+Universities respectively. 
+B. Results Monitoring and Evaluation Arrangements 
+ 
+54. 
+The project will support regular monitoring, evaluation, learning and adaptation of project progress under 
+Component 3. Overall responsibility for M&E will be with the MFBE and the PMU. Project progress will be measured 
+against the Results Framework, results indicators, and M&E arrangement across all sub-components. The PMU will hire 
+an M&E specialist as a core part of the unit to manage monitoring, reporting and evaluation planned under the Project. 
+The M&E officer will work closely with the FMS implementation teams to support monitoring and reporting of project 
+outputs and outcomes. Through its Results Framework, the project will also report on PROBLUE results indicators as 
+described in the Monitoring and Evaluation Plan. An M&E manual, part of the Project Implementation Manual, will detail 
+the approach and tools, and clarify the M&E roles and responsibilities. The project will set aside funds for the 
+implementation of the M&E framework, including regular field surveys. 
+ 
+55. 
+World Bank implementation support missions will be conducted at least every six months. These missions will 
+include reviewing progress in strengthening institutional capacity, financial viability, and technical reviews. Where 
+possible, site visits will be made to provide effective monitoring of progress. Specific supervision is planned for the 
+investment in coastal location, which could include third-party monitoring and/or use of the Geo-Enabling initiative for 
+Monitoring and Supervision (GEMS) given the inaccessibility of some of the selected locations, in particular due to security 
+concerns. The project will set aside funds for the implementation of the M&E framework, including regular field surveys.  
+ 
+56. 
+Project M&E will be instrumental in generating scientific information for evidence-based decision making and 
+strengthening the fisheries sector statistics in the country. During the first year of implementation, a fisheries data 
+collection system will be developed to capture information on catches, effort, and other socio-economic information. This 
+will be used to measure stock status and fishing efforts for selected fisheries for strengthened fisheries management 
+decision making and to inform project activities for fisheries infrastructure and value chains. Stock assessments for priority 
+species will be carried out twice during project implementation. This will build technical capacity in MFBE and FMS 
+agencies for the broader application of scientific methodologies in the country’s fisheries management systems. 
+ 
+C. Sustainability 
+ 
+57. 
+Somalia’s commitment to the project is reflected in its recognition of the importance of its fishery resources to 
+the country’s sustainable development; both as a source of public revenue and as a basis for economic growth, jobs 
+and food security. The country’s commitment is also reflected in efforts to modernize its fisheries legislation and attract 
+private investments in the fishing sector. Interventions around fisheries governance, based on the ecosystem approach, 
+including monitoring, control and surveillance will contribute significantly to the sustainable management of Somalia’s 
+fish resources. Fisheries infrastructure including value chain improvements will be based on comprehensive analytical 
+work to ensure no investment results in unintended increases in fishing effort, catches or impacts on ecosystems. The 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 25 of 61  
+ 
+project will strengthen all units responsible for post-construction operation and maintenance at all levels including 
+financial sustainability after the project ends.  
+ 
+58. 
+The project will contribute to public sector financial sustainability by improving the effectiveness of the public 
+institutions and by increasing private sector rents. In the long term, public finances will benefit from resources’ rents and 
+through new and more profitable enterprises entering or improving their economic performance. The project will enhance 
+the capacity of relevant government institutions, targeted beneficiaries, and the private sector to take full ownership of 
+the project’s interventions and results. 
+ 
+ 
+IV. PROJECT APPRAISAL SUMMARY 
+A. Technical, Economic and Financial Analysis 
+ 
+59. 
+The project will bring several non- quantifiable benefits, first the 2023 Fisheries Law passed that ensures zoning 
+of fishing areas will reduce the incidence of IUU fishing, in particular by industrial trawlers which results in unfair 
+competition with small-scale fisher folks and destruction of the fishery habitat. Secondly, preliminary investment in the 
+Mogadishu fishing port through carrying out pre-feasibility and social, environmental, and economic assessments provides 
+an opportunity for future investors and partners, added to the fact that the country has a long coastline of approximately 
+3,300 km, that presents a good opportunity to increase business and investment in the sector. Thirdly, the gender 
+responsive support to small-scale fishing entrepreneur through the development of infrastructure is expected to empower 
+women entrepreneurs which will in turn reduce the high gender inequality in the country (0.776- a score near 1 means 
+high inequality).  
+ 
+60. 
+Investing in the fisheries sector has a positive net present value of US$184.3 million and internal rate of return 
+(IRR) of 82 percent after 10 years when income from licenses and value from fish exports are included. Sensitivity 
+analysis further shows that an increase in resource rent from 3.7 percent to 10 percent will increase the net present value 
+to US$519.5 million, given a discount rate of 15 percent. The benefits associated with the project can largely be categorized 
+as: (a) income from licenses, (b) increase in the value fish exports, (c) attraction of private investments to the fisheries 
+sub-sector, and (d) improvement in the livelihoods of the Somalia fishers, fish workers and their communities, as well as 
+entrepreneurs. Due to lack of data, only benefits from (a) and (b) are included. 
+ 
+61. 
+ Activities proposed under the project are typically financed by governments. Public investment in small-scale 
+fisheries community infrastructure and value-chain improvement will support the enabling environment for private sector 
+investment. Additional interventions in coordination between FGS and FMS, institutional, policy, legal and regulatory 
+reforms, determination of the status of the stocks and improved management of these public goods can only happen 
+through government expenditures. 
+ 
+62. 
+The operation is aligned with the goals of the Paris Agreement on both mitigation and adaptation. 
+ 
+63. 
+Assessment and reduction of mitigation risks: the project is consistent with the country’s strategies on climate 
+change and does not hinder the achievement of national climate goals and commitments outlined in strategic documents. 
+It is aligned with the Paris Agreement’s mitigation goals. Activities in the two main components supports mitigation 
+measures. Most project activities are considered to have a negligible impact on greenhouse gas (GHG) emissions and are 
+not likely to have an adverse effect on the country’s GHG emission targets. Some activities have mitigation potential, 
+including climate smart infrastructure and equipment for the fishing sector and across value chains, fuel reducing fishing 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 26 of 61  
+ 
+practices and reduction in food loss and waste. While the project supports the construction or renovation of physical 
+infrastructure, these physical interventions will not pose major, irreversible impacts on GHG emissions, given their nature 
+and relatively small scale. For infrastructures, which currently do not have lower-carbon alternatives suitable for Somalia’s 
+situation, but are necessary to achieve the PDO, the project design incorporates some decarbonization pathways such as 
+using solar energy where possible and low or zero carbon practices and equipment where available which reduce the 
+residual risk to low risk. Governance and management of fisheries supported by the project also offers opportunities for 
+carbon sequestration through improved stocks status and improved fishing practices. 
+ 
+64. 
+Assessment and reduction of adaptation risks: The project is supporting adaptation and resilience-enhancing 
+measures across the fishing sector, with a particular focus on strengthening small-scale fishing communities’ capacity to 
+manage marine resources and develop value chains sustainably given the impending climate change impacts, with 
+additional attention to gender. The adaptive capacity in coastal fishing communities vulnerable to climate impacts will be 
+strengthened through supporting climate resilient management for sustainable fisheries, which includes co-management 
+activities that will contribute to climate resilience and disaster risk planning with a focus on gender. Capacity building to 
+strengthen value chains will include planning for the impacts of climate change on fish supplies and processing operations. 
+Other activities for resilience building include improving fishers’ disaster preparedness that considers gender needs, 
+safety-at-sea measures for fishers, and the collection of data and information to better inform decision making. The 
+project will support the design and construction of climate-resilient fishing infrastructure and the improvement of climate 
+resilient fish value chains in coastal fishing communities, both activities have capacity building which will include improving 
+climate change awareness, adaptation, and disaster risk planning. 
+ 
+B. Fiduciary 
+(i) Financial Management 
+ 
+65. 
+The Financial Management (FM) arrangements will be mainstreamed into the country’s established FM policies 
+and systems in line with arrangements for Use of Country Systems (UCS). The project’s financial transactions will be 
+processed through the Somali Financial Management Information System (SFMIS) which will also be used to generate 
+periodic financial reports. Project internal control arrangements will be based on the government’s Comprehensive 
+Operations and Accounting Procedures Manual (COAPM). To mitigate the risk of potential diversion of funds and 
+unsupported payments, contractors, consultants and suppliers will be paid through the direct payment method and 
+payment requests will be supported by adequate documentation including evidence of outputs and deliverables. In 
+addition, proper due diligence will be conducted in the recruitment of consultants in line with regular procurement 
+procedures to mitigate the risk of recruitment irregularities and double dipping. The project FM capacity will be supported 
+by the External Assistance Fiduciary Section (EAFS) in the Office of the Accountant General to enhance segregation of 
+functions and build capacity for full Use of Country Systems. External audit of the project will be conducted by the Office 
+of the Auditor General with necessary capacity support from an external audit agent. The main fiduciary risks relate to 
+challenges of monitoring and supervision of planned construction of base infrastructure (including processing facilities 
+and technologies) under component 1 to enable private sector investment in facilities (e.g., cold store and ice plant).  This 
+will be mitigated by the recruitment of a firm to supervise the construction of the project infrastructure. Further support 
+is planned for supervision of the identified works and capacity building for operating and maintaining the infrastructure 
+including financial sustainability. The project will also consider the use of remote monitoring and supervision mechanisms 
+including the Geo-Enabling Initiative for Monitoring and Supervision (GEMS) tool to monitor project activities and outputs 
+in hard-to-reach areas and Kobo toolbox for data collection, integration and analysis. GEMS can be used as a platform to 
+combine all relevant data, for remote supervision, real-time environment and social monitoring, and portfolio mapping 
+for coordination across projects and partners. 
+ 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 27 of 61  
+ 
+66. 
+The project will follow the Statement of Expenditure (SoE) method of disbursements. A designated account (DA) 
+will be opened for the project at the Central Bank of Somalia (CBS) where funds from the World Bank will be deposited 
+and payments made for project activities. An initial advance will be made to the DA based on submission of withdrawal 
+application to the World Bank accompanied by a six-month cash forecast. Subsequent disbursements to the DA will be 
+based on submission of withdrawal application accompanied by a Statement of Expenditures (SoE) incurred. As much as 
+possible, consultants, contractors and suppliers will be paid through the direct payment method to mitigate the fiduciary 
+risks associated with holding funds in the DA.  
+ 
+(ii)  Procurement 
+ 
+67. 
+Procurement Procedures: Procurement will be carried out in accordance with the World Bank’s Procurement 
+Regulations for IPF Borrowers for Procurement of Goods, Works, Non-consulting Services and Consulting Services dated 
+July 2016 and revised in September 2023 (Procurement Regulations); the Guidelines on Preventing and Combating Fraud 
+and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, revised July 1, 2016; and the provisions 
+stipulated in the Financing Agreement.  
+ 
+68. 
+Project Procurement Strategy for Development (PPSD) and the Procurement Plan (PP). The Ministry of Fisheries 
+and Blue Economy (MFBE) has prepared a PPSD and PP for the first 18 months with a focus on key procurement activities 
+to select the optimum fit-for-purpose method and market approach. The PPSD includes a summary on procurement risk, 
+mitigation measures, an action plan, and procurement implementation support and supervision plan. The PPSD along with 
+the initial PP for the first 18 months have been finalized as per the requirement of Procurement Regulations. The PP will 
+be updated in agreement with the World Bank, at least annually, or as required, to reflect changes in the procurement 
+arrangement which might be required due to a change in requirements, market conditions, procurement environment 
+and so on. 
+ 
+69. 
+Procurement Implementation Arrangements. Implementation will be by the MFBE of the Federal Government of 
+Somalia which will serve as the main implementing agency at the Federal level. The Ministry has limited procurement 
+capacity and previous experience with World Bank financed operations. To mitigate the risk, a Project Management Unit 
+(PMU) will be established and housed within MFBE. PMU capacity will be strengthened by recruiting consultants including 
+a Project Coordinator, Financial Management Specialist, Procurement Specialist among others. The PMU will be 
+responsible for project implementation including procurement implementation, management, and oversight. In the 
+proposed arrangements, the Project Procurement Specialist in the PMU will work alongside the relevant government staff 
+in the MFBE for knowledge and skills transfer to enable them to gradually take over the project's activities. In this regard, 
+MFBE will nominate procurement personnel (counterpart staff) for skill transfer during project implementation. Also, the 
+implementing agency procurement capacity will be enhanced through on-the job training, Hands-on Extended 
+Implementation Support (HEIS) and mentoring by the World Bank’s Procurement Team during the project 
+implementation. In addition, designated procurement staff will be encouraged to register and undertake professional 
+procurement courses. Project Implementation Units (PIUs), established in the FMS Ministry of Fisheries, will be led by a 
+State Project Coordinator (SPC) with dual reporting lines to the Project Coordinator and the DG of the respective FMS 
+fisheries ministries. The PIU and FMS Ministries of fisheries will be responsible for the coordination and implementation 
+of project activities in FMS, in particular in fishing communities, and will be involved in procurement activities.  
+ 
+70. 
+Procurement Capacity and Risk Assessment. The procurement capacity assessment was conducted at MFBE, the 
+implementing agency. The objectives of the assessment were: (a) to evaluate the management capability of the 
+implementing agency to effectively carry out the procurement processes; (b) to assess the adequacy of the systems that 
+are in place to administer procurement; (c) to assess the quality and effectiveness of the Procurement arrangements when 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 28 of 61  
+ 
+putting Procurement procedures into practice; (d) to assess the procurement process and market readiness; (e) to develop 
+an action plan to be implemented as part of the project in order to address the deficiencies detected by the assessment 
+aimed at minimizing the risks identified; and (f) to propose procurement supervision plans for the World Bank considering 
+the relative strengths and weaknesses and risks revealed by the assessment. The assessment found that (i) the 
+Implementing Agency does not have previous experience with World Bank financed operations (ii) the national 
+procurement law is not fully operational; (iii) there is weak capacity of bidders/suppliers – bidders are not familiar with 
+bidding procedures of public procurement. Thus, sometimes bids submitted are of poor quality and with unintentional 
+deficiencies that end up being rejected; (iv) the inadequate experience in contract management; (v) this being a fragile 
+environment, the market is unstable and sometimes suffers from limited interest from international 
+contractors/consultants or high price bids/proposals because of country security risk and this sometimes leads to low 
+response to published tenders and also the market is impacted by fraud and corruption risk (including collusion and 
+outside interference in contracting process; (vi) lack of adequate complaint handling mechanism (there is no standardized 
+complaint handling system in place known to the bidding community to review and resolve complaint/disputes at 
+appropriate stages of the procurement cycle; and (vii) weak legal and financial institutions (commercial Banks and 
+Insurance agencies) are not well established.  
+ 
+71. 
+Proposed mitigation measures include (a) establishment of PMU with a dedicated Procurement Specialist with 
+relevant and adequate qualifications and experience acceptable to the World Bank and ensuring that the Project 
+Operations Manual (POM) includes a well described procurement management process, (b) training of the project 
+implementing agency staff by the World Bank on the Procurement Regulations; (c) on high-risk procurement activities, 
+but below prior review threshold, the procurement prior review will be continued with justification, (d) enhance the 
+oversight and supervision of procurement activities, (e) creating awareness among the government, private sector, and 
+other stakeholders on the key issues regarding integrity in procurement and financial management; (f) supporting 
+procurement reforms; (g) encourage international firms to have joint ventures with local firms due to insecurity; (h) 
+establishment of an effective complaint handling system known to the bidding community to review and resolve 
+complaints and (i) the Client may request HEIS throughout the project duration to directly assist project procurement 
+activities for large, complex and high-risk contracts.  
+ 
+72. 
+Risk Assessment: Based on the above, the risk for procurement is considered “High.” The risk is reduced to a 
+residual rating of “Substantial” in view of the mitigation measures proposed. 
+ 
+73. 
+Systematic tracking of exchanges in procurement (STEP). The World Bank’s STEP system will be used to prepare, 
+clear, and update PPs and conduct all procurement transactions for the project. Staff of the PMU will be trained in using 
+STEP. 
+ 
+C. Legal Operational Policies 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate 
+Legal Operational Policies 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Area OP 7.60 
+No 
+ 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 29 of 61  
+ 
+D. Environmental and Social 
+ 
+74. 
+The project’s potential environmental risks and impacts are related to relatively small-scale infrastructure and 
+capacity building investments in the fisheries sector in Somalia. The project’s overall Environmental and Social Risk rating 
+is ‘High.’ Environmental risks are rated as ‘Substantial’ and relate to risks and impacts associated with civil works, 
+contamination of aquatic systems and water quality due to organic waste and wastewater, oil leakage from fishing vessels, 
+hazardous materials, and chemicals during the operation of these facilities. The project is not expected to generate a large 
+volume of hazardous waste during construction and operation. The implementing agencies (IAs) have weak capacities and 
+limited knowledge and experience in applying ESF during subproject implementation and preparation, posing additional 
+risks. However, this will be mitigated by the implementation of a program for ESF capacity building which is described in 
+some detail in the project’s Environmental and Social Commitment Plan (ESCP). Social risks are rated ‘High.’ The project 
+will also need to consider potential tensions between and within communities overfishing rights and access to new public 
+infrastructure. Beyond these specific inclusion and conflict risk, the project will have to carefully treat any land needs and 
+consequent resettlement questions for small-scale community infrastructure, even though strong consultations with 
+beneficiary communities and the small-scale investments may be expected to reduce the risk level. The applicability of 
+ESS7 will be clarified during subproject preparation. Questions on security of project workers and beneficiaries have been 
+addressed in the draft Security Management Framework, which has been submitted formally to the World Bank for review 
+and clearance.  
+ 
+75. 
+The proposed investments will be located in existing Somali fishing communities, with a first set in 12 locations 
+identified with the FGS and FMS during preparation.27 Modification of habitats are not expected to have adverse impacts 
+on critical natural habitats or forests, archaeological or historical sites. While the project may lead to increased 
+community-based, small-scale fishing, improvement of the fisheries’ regulatory framework should overall reduce 
+overfishing risks. The main adverse environmental risks and impacts during construction would be associated with the 
+critical small-scale fisheries infrastructure construction or rehabilitation with the potential for marine works interference 
+with coastal processes causing erosion or accretion. There are risks of temporary waterway and road traffic disturbance, 
+and possible water quality degradation and impacts to aquatic species. These risks and impacts are mostly temporary, 
+predictable, and reversible or avoidable by careful design work. Due to ongoing conflict and terrorism, security risks are 
+widespread in Somalia. Security issues need to be carefully assessed and managed in selected locations for interventions 
+as well as in Mogadishu and in FMS capitals. There are a range of contextual risks of operating in conflict zones like Somalia 
+with complex social contexts, and effective and inclusive community consultations and meaningful stakeholder 
+engagement remains challenging.   
+ 
+76. 
+The SEA/SH risk, rated as substantial, relates to Component 1 (which involves small-scale fisheries value chains). 
+The project induce risks of GBV/SEAH can persist due to social and structural inequalities that create vulnerable conditions 
+such as lack of access to fisheries resources, dangers of trafficking targeting women and girls offering the promise of work, 
+food and/or fish products. Also, shifting social and power dynamics regarding fisheries roles may limit women’s ability to 
+fully participate in the economic opportunities and decision-making by exposing many of them to various forms of GBV, 
+including harassment, particularly when securing licenses or other related business permits along the coastlines. The 
+contextual risks for GBV (including SEA/SH) are generally high in Somalia. The SEA/SH prevention and response action plan 
+has been prepared as part of the ESMF.   
+ 
+77. 
+Technical assistance in Components 1 and 2 will be gender-responsive by: (i) raising awareness of the 
+prospective, collaborative and complementary roles of men and women; (ii) identifying the capacity building needs to 
+realize these roles in the fisheries sector; (iii) mainstreaming women in policy leadership; and capitalizing on their technical 
+expertise to integrate women in the management, enforcement, and research activities. To mitigate the risk of 
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 30 of 61  
+ 
+interventions exacerbating gender inequalities, GBV and SEAH, the project will seek a) equal participation of men and 
+women where possible; b) to ensure women’s voice will be heard in meetings and women’s representation on committees 
+and c) to ensure firms designing infrastructure facilities will explicitly include the needs of men and women based on best 
+practices and the inputs of both groups. The project activities will incorporate gender considerations throughout. These 
+include recommendations in the World Bank Gender Action Plan, the recently FGS-endorsed Women in Maritime Sector 
+Action Plan and the Gendered Fisheries Development in Somalia Report. Actions include gender consideration in feasibility 
+studies, infrastructure designs, capacity building and training including GBV, value chain improvement plans and the 
+provision of equipment. Where pertinent, analytical and diagnostic studies will include gender and broader social inclusion 
+aspects. The client is encouraged to ensure gender responsiveness in hiring of PMU and PIU staffing through awareness 
+raising and targeted gender participation (interviewers and interviewees) in recruitment processes and management 
+activities. 
+ 
+78. 
+To mitigate these environmental and social risks, the project has prepared and disclosed the Environmental and 
+Social Commitment Plan and the Stakeholder Engagement Plan (SEP), both disclosed in-country on April 2, 2024.39 The 
+project has held consultations in the country, including meetings with stakeholders in December 2023 and February 2024, 
+which were organized by the Ministry of Fisheries in Mogadishu, where substantial amount of input into efficacy of the 
+project’s environmental and social risks mitigation measures were received and incorporated into the project design. The 
+project has also prepared other ESF instruments, including a draft Environmental and Social Management Framework 
+(ESMF), which will be reviewed and cleared by the World Bank before disbursement of funds for Component 2. To 
+effectively manage marine resources through an ecosystem approach, the ESMF will ensure the conservation of marine 
+resources sustainability and the resilience of related ecosystems. Capacity building on the ESMF and inclusion of local 
+fishing communities in fisheries management will ensure resilience and sustainability. The technical support to MFBE (FGS) 
+to strengthen its capacity to manage, implement, and monitor project activities, will also support local community 
+resilience and sustainability efforts. The development of well-informed social risk management instruments and grievance 
+redress mechanism is expected to ensure a smooth flow of project implementation with minimal interruptions at the 
+community level where implementation of infrastructure activities takes place. The project has also prepared a draft 
+Sexual Exploitation, Abuse and Harassment (SEAH) Prevention and Response Action Plan, a draft Labor Management 
+Procedures (LMP), a draft Security Management Framework, and a draft Resettlement Policy Framework (RPF), all of 
+which are now under review by the World Bank and shall be disclosed after clearance. During implementation, sub-project 
+specific Environmental and Social Impact Assessments, and Environmental and Social Management Plans will be 
+developed as needed and proportional to the site risk level, consulted upon, and disclosed prior to commencement of civil 
+works. Based on the Project Security Management Framework, these site-specific instruments will also contain site-
+specific security management plans as relevant and appropriate for the respective geographic area.
+V. GRIEVANCE REDRESS SERVICES 
+ 
+79. 
+Grievance Redress. Communities and individuals who believe that they are adversely affected by a project 
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s 
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed to address project-
+related concerns. Project affected communities and individuals may submit their complaint to the Bank’s independent 
+Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred, or 
+could occur, because of Bank non-compliance with its policies and procedures, and the Dispute Resolution Service, 
+which provides communities and borrowers with the opportunity to address complaints through dispute resolution. 
+Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention of Bank 
+ 
+39 Available on the MFBE website at https://mfbe.gov.so/badmaal-project/  
+ 
+The World Bank 
+Somali Sustainable Fisheries Development Project (P178032) 
+ 
+ 
+Page 31 of 61  
+ 
+Management and after Management has been given an opportunity to respond. For information on how to submit 
+complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on 
+how to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org. 
+ 
+VI. KEY RISKS 
+ 
+80. 
+The overall risk for of the project is considered High. 
+ 
+81. 
+The political and governance risk is High. Division of roles and responsibilities between the FGS and FMS is not 
+yet fully anchored in the policy, legal and regulatory frameworks, although progress has been made in the Fisheries Law 
+and the operationalization of the FMDC. The FGS’s ability to effectively lead, coordinate and provide guidance is yet to be 
+established, risking limited participation of the FMS in the project. The project will support the FMDC as a platform for 
+policy dialogue and decisions on fisheries governance. This will secure regular interactions and consultations with the FGS 
+and FMS and reduce the risk of not engaging. The first FMDC meetings took place in November 2023 and February 2024 
+and will meet on a quarterly basis. Political pressure may interfere with some activities. The project will base its work on 
+an assessment of stakeholder needs and will document criteria for prioritization of investments. In addition, the Inter-
+Governmental Fiscal Federalism Forum support high-level dialogue on cooperation and collaboration between the FGS 
+and the FMS, including with regards to revenue generation, and the Financial Governance Committee provides high-level 
+dialogue forum for dialogue on strategic financial governance issues and will also support risk mitigation through their 
+oversight. 
+ 
+82. 
+The macroeconomic risk is Substantial. The increasing capacity

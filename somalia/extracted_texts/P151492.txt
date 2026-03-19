@@ -1,0 +1,2646 @@
+ 
+ 
+Document of 
+The World Bank 
+ 
+ 
+ 
+Report No: PAD1200 
+ 
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+ 
+PROPOSED GRANT 
+ 
+IN THE AMOUNT OF TWENTY MILLION DOLLARS  
+(US$20 MILLION) 
+ 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+SECOND PUBLIC FINANCIAL MANAGEMENT CAPACITY STRENGTHENING 
+PROJECT 
+ 
+ 
+ 
+July 01, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance Global Practice 
+Africa Region 
+This document has a restricted distribution and may be used by recipients only in the 
+performance of their official duties.  Its contents may not otherwise be disclosed without World 
+Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+i 
+ 
+CURRENCY EQUIVALENTS 
+ 
+Exchange Rate Effective (04/09/2015) 
+Currency Unit = Somalia Shilling (SOS) 
+21,000 SOS = US$1 
+ 
+ 
+ 
+FISCAL YEAR 
+January 1 
+– 
+December 31 
+ 
+ABBREVIATIONS AND ACRONYMS  
+AfDB 
+African Development Bank 
+MoF 
+Ministry of Finance 
+AGD 
+Accountant General’s Department 
+MPF  
+Multi Partner Fund  
+AGO 
+Accountant Generals Office  
+NCB  
+National Competitive Bidding 
+AWP 
+Annual Work Plan 
+NDP 
+National Development Plan 
+BCM 
+Business Continuity Management 
+NGOs 
+Non-Governmental 
+Organizations   
+CAATs 
+Computer Aided Audit Techniques  OAuG 
+Office of Auditor General 
+CATT 
+Customs Assessment Trade Toolkit 
+ODL 
+Online Distance Learning  
+CBS 
+Central Bank of Somalia 
+OGD              Open Government Data   
+CBSL   
+Central Bank of  Somaliland 
+OLAP 
+Online Analytical Processing  
+CGG 
+Campaign for Good Governance 
+PAC  
+Public Accounts Committee 
+CIPFA 
+Chartered Institute of Public 
+Finance and Accountancy 
+PAD  
+Project Appraisal Document  
+CMU 
+Country Management Unit 
+PDC 
+Primary Data Center 
+COPM 
+Comprehensive Operating 
+Procedures Manual  
+PDEs  
+ Procuring and Disposal 
+Entities 
+CSO 
+Civil Society Organization 
+PDO 
+Project Development 
+Objectives 
+DA 
+Designated Accounts 
+PEFA            Public Expenditure and 
+Financial Assessment 
+DAD 
+Development Assistance Database 
+PEM  
+Public Expenditure 
+Management 
+DFID 
+Department for International 
+Development  
+PETS  
+Public Expenditure Tracking 
+Survey 
+DRC 
+Disaster Recovery Center 
+PFM   
+Public Finance Management 
+EAFS 
+External Assistance Fiduciary 
+Section 
+PFM   
+Public Finance Management 
+EFT 
+Electronic Funds Transfer   
+PFM TC 
+Public Finance Management 
+Technical Committee 
+EFT 
+Electronic Funds Transfer  
+PFM-JSC 
+Public Finance Management  
+Joint Steering Committee 
+ESI 
+Electronic Stored Information 
+PFM-JSC 
+Public Finance Management  
+Joint Steering Committee 
+EU 
+European Union 
+PFMRCU   
+Public Financial Management 
+Reform Coordinating Unit 
+ii 
+ 
+FCS  
+Fragile and Conflict Affected States PKI  
+Private Key Infrastructure  
+FM 
+Financial Management  
+RPO  
+Recovery Point Objective  
+FR 
+Financial Regulations  
+RTO 
+Recovery Time Objective  
+GoSL 
+Government of Somaliland 
+SBD 
+Standards Bidding Documents  
+GRS 
+Grievance Redress Service 
+SCoA            Standard Chart of Accounts 
+HLACF 
+High Level Aid Coordination 
+Forum 
+SLA               Service Level Agreement 
+HRM 
+Human Resource Management 
+SL-FMIS 
+Somaliland Financial 
+Management Information 
+System 
+HS Codes 
+Harmonized System Codes 
+SMEs             Subject Matter Experts 
+HWA 
+Hargesia Water Agency 
+TA  
+Technical Assistance  
+IATI 
+International Aid Transparency 
+Initiative  
+TIN                Taxpayers Identification 
+Numbers 
+IBRD 
+International Bank for 
+Reconstruction and Development  
+TOR 
+Terms of Reference  
+ICB 
+International Competitive Bidding  
+ToT                Training-of-Trainers 
+ICBF 
+Institutional Capacity Building 
+Framework 
+TPPA 
+Third Party Procurement 
+Agents  
+ICT 
+Information and Communication 
+Technology 
+TSA 
+ 
+Treasury Single Account 
+IDA 
+International Development 
+Association 
+TSC               Technical Steering Committee 
+IEC 
+Information, Education and 
+Communication   
+TTL 
+ 
+Task Team Leader 
+IFAC 
+International Federation of 
+Accountants 
+TWG 
+Technical Working Groups 
+IFRS 
+International Financial Reporting 
+Standards 
+UAT 
+User Acceptance Testing  
+IMF  
+International Monetary Fund  
+UNCITRAL  United Nations Commission 
+on International Trade Law 
+INTOSAI 
+International Organization of 
+Supreme Audit Institutions  
+UNCITRAL  United Nations Commission 
+on International Trade Law 
+IPFM 
+International Public Financial 
+Management   
+UNCTAD 
+United Nations Conference on 
+Trade and Development 
+IPPF 
+International Professional Practices 
+Framework 
+UNCTAD 
+United Nations Conference on 
+Trade and Development 
+IPSAS 
+International Public Sector 
+Accounting Standards 
+UNDP 
+United Nations Development 
+Programme  
+IPSASB 
+International Public Sector 
+Accounting Standards Board 
+UNDP 
+United Nations Development 
+Programme  
+IR 
+Intermediate Result  
+UNDSS 
+United Nations Department 
+for Safety and Security 
+ISN               Interim Strategy Note  
+UNOPS 
+United Nations Office for 
+Projects Services 
+iii 
+ 
+ISO 
+International Organization for 
+Standardization 
+UNSPSC 
+United Nations Standard 
+Products and Services Code 
+ISSAIs 
+International Standards for 
+Supreme Audit Institutions  
+UNSPSC 
+United Nations Standard 
+Products and Services Code 
+ISTQB 
+International Software Testing 
+Qualifications Board 
+VDI 
+Virtual Desktop Infrastructure 
+ITC-ILO       International Training Centre of the 
+International Labour Organization   
+VSAT 
+Very Small Aperture 
+Terminal 
+JIT  
+Just In Time Support  
+WAN 
+Wide Area Network 
+JNA 
+Joint Needs Assessment 
+WCO 
+World Customs Organization 
+M&E 
+Monitoring and Evaluation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President:  
+Makhtar Diop 
+Country Director:  
+Bella Bird 
+                                Senior Global Practice Director:  
+Mario Marcel Cullell 
+Practice Manager:  
+Renaud Seligmann 
+Task Team Leader:  
+Winston Percy Onipede Cole 
+iv 
+ 
+SOMALIA 
+Second Public Financial Management Capacity Strengthening Project 
+TABLE OF CONTENTS 
+ 
+Page 
+I. 
+STRATEGIC CONTEXT .................................................................................................1 
+A. Country Context ............................................................................................................ 1 
+B. Drivers of Fragility and Conflict................................................................................... 5 
+C. Situations of Urgent Need of Assistance or Capacity Constraints ............................... 5 
+D. Sectoral and Institutional Context ................................................................................. 6 
+E. Relationship to Interim Strategy Note (ISN) .............................................................. 12 
+F. Higher Level Objectives to which the Project Contributes ........................................ 13 
+II. 
+PROJECT DEVELOPMENT OBJECTIVES ..............................................................13 
+A. Project Development Objectives................................................................................. 13 
+B. Project Beneficiaries ................................................................................................... 14 
+C. PDO Level Results Indicators ..................................................................................... 14 
+III. 
+PROJECT DESCRIPTION ............................................................................................17 
+A. Project Components .................................................................................................... 16 
+B. Project Financing ........................................................................................................ 22 
+C. Project Components by Regions ................................................................................. 23 
+D. Lessons Learned and Reflected in the Project Design ................................................ 25 
+IV. 
+IMPLEMENTATION .....................................................................................................28 
+A. Institutional and Implementation Arrangements ........................................................ 28 
+B. Results Monitoring and Evaluation ............................................................................ 29 
+C. Sustainability............................................................................................................... 29 
+V. 
+KEY RISKS AND MITIGATION MEASURES ..........................................................30 
+A. Risk Ratings Summary Table ..................................................................................... 30 
+B. Overall Risk Rating Explanation ................................................................................ 30 
+VI. 
+APPRAISAL SUMMARY ..............................................................................................32 
+A. Economic and Financial Analyses .............................................................................. 32 
+B. Technical ..................................................................................................................... 33 
+C. Financial Management ................................................................................................ 33 
+D. Procurement ................................................................................................................ 34 
+E. Social (including Safeguards) ..................................................................................... 34 
+F. Environment (including Safeguards) .......................................................................... 34 
+G. World Bank Grievance Redress .................................................................................. 35 
+v 
+ 
+VII. 
+CONDITIONS AND ASSURANCES ............................................................................36 
+A. Conditions of Grant Effectiveness .............................................................................. 36 
+VIII. ANNEXES ........................................................................................................................37 
+Annex 1: Results Framework and Monitoring .........................................................................37 
+Annex 2: Detailed Project Description .......................................................................................41 
+Annex 3: Implementation Arrangements ..................................................................................76 
+Annex 4: Systematic Operations Risk-rating Tool (SORT) ...................................................100 
+Annex 5: Implementation Support Plan ..................................................................................109 
+Annex 6: Project Phasing and Sequencing ..............................................................................111 
+Annex 7: Somalia Official Map ................................................................................................113 
+ 
+Boxes 
+Box 1: The Somali Compact’s Five Peacebuilding and State-building Goals ............................... 3 
+ 
+Figures  
+Figure 1: Somaliland PFM Reform Pillars and Components ......................................................... 9 
+Figure 2: Inter-relationship Between Governance Projects .......................................................... 12 
+Figure 3: Second Public Financial Management Capacity Strengthening Project Strategic 
+Alignment ..................................................................................................................................... 16 
+Figure 4: Simplified High-level Presentation of FMIS Architecture............................................ 53 
+Figure 5: Course Structure for the CIPFA International Public Financial Management (IPFM) 
+Qualification As Adapted For Somalia and ITC-ILO Procurement Diploma .............................. 67 
+Figure 6: PFM Reform Governance Framework .......................................................................... 77 
+Figure 7: Somalia: External Assistance Fiduciary Section (EAFS) Organizational Chart ........... 80 
+Figure 8: SDRF Governance Structure ......................................................................................... 81 
+Figure 9: Somaliland PFM Reform Oversight, Coordination and Implementation Structure ...... 82 
+Figure 10: EAFS Approval Hierarchy .......................................................................................... 84 
+Figure 11: Funds Flow Processes for (a) Federal Government; Puntland State (b); and 
+Somaliland (c) ............................................................................................................................... 88 
+ 
+Tables 
+Table 1: Budget Estimates by Components .................................................................................. 25 
+Table 2: Lessons Learnt From PFM Reforms in Fragile and Conflict-Affected States ............... 26 
+Table 3: Roles and Responsibilities for the PFM Reforms Governance Framework ................... 77 
+Table 4: Financial Management Action Plan ................................................................................ 90 
+Table 5: Disbursement Table ........................................................................................................ 90 
+Table 6: Action Plan, Procurement Risks and Mitigation Measures ............................................ 92 
+Table 7: Procurement Methods and Thresholds for Goods, Works and Non-consulting Services
+....................................................................................................................................................... 94 
+Table 8: Prior Review Thresholds for Goods and Non-consulting Services ................................ 94 
+Table 9: Selection Methods and Thresholds for Consultants ....................................................... 95 
+Table 10: Prior Review Threshold for Consultants ...................................................................... 95 
+Table 11: Draft Simplified Procurement Plan .............................................................................. 97 
+Table 12: High-level Indicative Work Schedule ........................................................................ 112 
+ 
+ 
+vi 
+ 
+PAD DATA SHEET 
+Somalia 
+Second Public Financial Management Capacity Strengthening Project (P151492) 
+PROJECT APPRAISAL DOCUMENT 
+AFRICA 
+0000009063 
+Report No.: PAD1200 
+Basic Information  
+Project ID 
+EA Category 
+Team Leader(s) 
+P151492 
+C - Not Required 
+Winston Percy Onipede Cole 
+Lending Instrument 
+Fragile and/or Capacity Constraints [ X ] 
+Investment Project Financing 
+- Fragile States 
+ 
+ 
+Financial Intermediaries [   ] 
+ 
+Series of Projects [   ] 
+Project Implementation Start 
+Date 
+Project Implementation End Date 
+01-Jul-2015 
+01-Jul-2018 
+Expected Effectiveness Date 
+Expected Closing Date 
+15-Jul-2015 
+30-Jun-2018 
+Joint IFC 
+ 
+ 
+No 
+ 
+ 
+Practice 
+Manager/Manager 
+Senior Global Practice 
+Director 
+Country Director 
+Regional Vice 
+President 
+Renaud Seligmann 
+Mario Marcel Cullell 
+Bella Bird 
+Makhtar Diop 
+Approval Authority 
+The project will be financed by the Somalia Multi-Partner Fund (MPF) (TF072283) that has 
+been designed to “provide a financing platform to support a coordinated international approach 
+to promoting stability and the sustainable reconstruction and development of Somalia, including 
+in core state functions and socio-economic recovery” (Multi-Partner Fund Board Document, 
+December 17, 2013). 
+ 
+The Somalia New Deal Compact established a new aid framework - the Somalia Development 
+and Reconstruction Facility (SDRF) which provides a single governance platform for 
+coordinating international assistance with Compact priorities delivered through windows 
+administered by technical agencies including the Bank. The SDRF Steering Committee plenary 
+vii 
+ 
+session provides joint oversight (donor and government) of the strategic direction, 
+implementation, and results of the SDRF windows, including the MPF. 
+Borrower: Ministry of Finance 
+Responsible Agency: Ministry of Finance 
+Contact: 
+Mr. Shire Haji Farah 
+  Title: 
+Minister of Finance, Puntland 
+Telephone No.: 252907795113 
+  Email: 
+shire.hfarah@gmail.com  
+Responsible Agency: Ministry of Finance of Somaliland Hargeisa 
+Contact: 
+Mrs Zamzam Abdi Adan 
+  Title: 
+Minister of Finance, Somaliland 
+Telephone No.: +252 634427310                        Email: 
+minfin_somaliland@yahoo.com  
+Responsible Agency: Ministry of Finance Federal Government 
+Contact: 
+Hon. Mohamed Aden 
+Ibrahim 
+  Title: 
+Minister of Finance 
+Telephone No.: +252612777738 
+  Email: 
+farkeeti@hotmail.com  
+Safeguards Deferral (from Decision Review Decision Note)  
+Will the review of Safeguards be deferred?  [ X ]  Yes     [   ]   No 
+Project Financing Data(in US$ Million) 
+[   ] 
+Loan 
+[   ] 
+IDA 
+Grant 
+[   ] 
+Guarantee 
+[   ] 
+Credit [ X ] 
+Grant 
+[   ] 
+Other 
+Total Project Cost: 
+20.00 
+Total Bank Financing: 0.00 
+Financing Gap: 
+0.00 
+ 
+Financing Source 
+Amount(US$ million) 
+Borrower 
+0.00 
+Somalia Multi-Partner Fund 
+20.00 
+Total 
+20.00 
+Expected Disbursements (in US$) 
+Fiscal Year 
+2015 
+2016 
+2017 
+2018 
+ 
+Annual 
+2,500,000.00 
+10,000,000.00 
+5,000,000.00 
+2,500,000.00 
+Cumulative 2,500,000.00 
+12,500,000.00 
+17,500,000.00 
+20,000,000.00 
+Institutional Data 
+viii 
+ 
+Practice Area (Lead) 
+Governance 
+Contributing Practice Areas 
+ 
+Cross Cutting Topics 
+[   ] 
+Climate Change 
+[ X ] 
+Fragile, Conflict & Violence 
+[   ] 
+Gender 
+[   ] 
+Jobs 
+[   ] 
+Public Private Partnership 
+Sectors / Climate Change 
+Sector (Maximum 5 and total % must equal 100) 
+Major Sector 
+Sector 
+% 
+Adaptation 
+Co-benefits 
+% 
+Mitigation 
+Co-benefits 
+% 
+Public Administration, Law, and 
+Justice 
+General public 
+administration sector 
+90 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+Sub-national 
+government 
+administration 
+10 
+ 
+ 
+Total 
+100 
+ I certify that there is no Adaptation and Mitigation Climate Change Co-benefits information 
+applicable to this project. 
+Themes 
+Theme (Maximum 5 and total % must equal 100) 
+Major theme 
+Theme 
+% 
+Public sector governance 
+Public expenditure, financial 
+management and procurement 
+90 
+Public sector governance 
+Tax policy and administration 
+8 
+Social development/gender/inclusion Conflict prevention and post-conflict 
+reconstruction 
+2 
+Total 
+100 
+Proposed Development Objective(s) 
+ix 
+ 
+The Project Development Objective is to establish and strengthen institutional capacity for the 
+management of public funds in central finance agencies and targeted sectors. 
+Components 
+Component Name 
+Cost (US$) 
+Component 1: Revenue mobilization, planning and budget 
+preparation 
+2,750,000.00 
+Component 2: Treasury management, budget execution, 
+procurement, accounting and financial reporting 
+9,880,000.00 
+Component 3: Strengthening the integrity pillars 
+1,945,000.00 
+Component 4: Public financial management 
+professionalization 
+1,000,000.00 
+Component 5: Public financial management reform oversight, 
+coordination and management 
+2,925,000.00 
+Component 6:  Demand-driven just-in-time support (JIT) 
+(Bank Executed) 
+1,000,000.00 
+Unallocated 
+500,000.00 
+Systematic Operations Risk- Rating Tool (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+Substantial 
+2. Macroeconomic 
+High 
+3. Sector Strategies and Policies 
+Moderate 
+4. Technical Design of Project or Program 
+Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+Substantial 
+6. Fiduciary 
+High 
+7. Environment and Social 
+Low 
+8. Stakeholders 
+Substantial 
+9. Other 
+High 
+OVERALL 
+High 
+ 
+ 
+ 
+ 
+Compliance  
+Policy 
+x 
+ 
+Does the project depart from the CAS in content or in other significant 
+respects? 
+Yes [   ] 
+No [ X ] 
+Does the project require any waivers of Bank policies? 
+Yes [   ] 
+No [ X ] 
+Have these been approved by Bank management? 
+Yes [   ] 
+No [     ] 
+Is approval for any policy waiver sought from the Board? 
+Yes [   ] 
+No [ X ] 
+Does the project meet the Regional criteria for readiness for 
+implementation? 
+Yes [ X ] 
+No [   ] 
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+X 
+ 
+Natural Habitats OP/BP 4.04 
+ 
+X 
+Forests OP/BP 4.36 
+ 
+X 
+Pest Management OP 4.09 
+ 
+X 
+Physical Cultural Resources OP/BP 4.11 
+ 
+X 
+Indigenous Peoples OP/BP 4.10 
+ 
+X 
+Involuntary Resettlement OP/BP 4.12 
+ 
+X 
+Safety of Dams OP/BP 4.37 
+ 
+X 
+Projects on International Waterways OP/BP 7.50 
+ 
+X 
+Projects in Disputed Areas OP/BP 7.60 
+ 
+X 
+Legal Covenants 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+ 
+ 
+ 
+ 
+Description of Covenant 
+Conditions 
+Source Of Fund 
+Name 
+Type 
+SOMP 
+Somalia Multi-Partner Fund 
+Effectiveness  
+Description of Condition 
+(a) The Subsidiary Agreement between the Recipient and the Puntland State of Somalia has 
+been executed in accordance with the provisions of Section I.B of Schedule 2 of the Grant 
+Agreement. 
+(b) Puntland State of Somalia has established the Puntland Public Financial Management 
+Reform Coordination Unit, the Puntland PFM Reform Oversight Committee, the Puntland 
+xi 
+ 
+Technical Steering Committee and the Puntland Component Implementation Teams in 
+accordance with the provisions of Section I.A of Schedule 2 of the Grant Agreement. 
+(c) The Recipient has prepared and adopted a Project Implementation Manual in accordance 
+with the provisions of Section I.C of Schedule 2 of the Grant Agreement. 
+Team Composition 
+Bank Staff 
+Name 
+Role 
+Title 
+Specialization 
+Unit 
+Winston Percy 
+Onipede Cole 
+Team Leader 
+(ADM 
+Responsible) 
+Sr Financial 
+Management 
+Specialist 
+Public Financial 
+Management 
+GGODR 
+John F. A Etidau 
+Procurement 
+Specialist 
+Consultant 
+Procurement  
+GGODR 
+Leonard Mutuku 
+Matheka 
+Financial 
+Management 
+Specialist 
+Consultant 
+Financial 
+Management 
+GGODR 
+Stephen Mugendi 
+Mukaindo 
+Counsel 
+Counsel 
+Legal 
+LEGAM 
+Wolfhart Pohl 
+Safeguards 
+Specialist 
+Adviser 
+Safeguards 
+GCFDR 
+Extended Team 
+Name 
+Title 
+Office Phone 
+Location 
+Sharmarke Farah 
+Consultant 
+ 
+Puntland State 
+Locations 
+Country 
+First 
+Administrative 
+Division 
+Location 
+Planned Actual Comments 
+Somalia 
+Sool 
+Sool 
+X 
+ 
+ 
+Consultants (Will be disclosed in the Monthly Operational Summary) 
+Consultants Required? Consultants will be required 
+ 
+ 
+1
+I. 
+STRATEGIC CONTEXT 
+A. Country Context 
+1. Somalia has been in conflict for over twenty years many of which has been without a legally 
+recognized government. Since the collapse of the Siad Barre government in 1991 southern 
+Somalia has experienced cycles of conflict that fragmented the country, destroyed legitimate 
+institutions and created widespread vulnerability. Between 1988 and 1993 civil war destroyed 
+Mogadishu and Hargeisa, resulted in 50,000 civilian deaths in north-west Somalia alone and 
+exacerbated the 1991 famine which had 250,000 victims. Peace conferences finally led to the 
+formation in 2000 of the Transitional National Government, and then the Transitional Federal 
+Government in 2004, but both were undermined by ‘warlordism’, mismanagement and 
+international interference giving rise to militia-based opposition and today’s al Shabab 
+movement. Shaped by long years of conflict, a dynamic has developed in Somalia’s economy in 
+which economic and political actors face incentives to perpetuate conflict in order to sustain and 
+divert associated revenue streams. 
+ 
+2. Despite today’s more positive outlook under a government that has gained international 
+recognition since 2012, Somalia’s economy and population of around 12.3 million1 remain 
+vulnerable to shocks. In the absence of stable institutions, the combination of conflict, 
+environmental degradation and harsh climate have resulted in a series of natural disasters 
+resulting in full-scale humanitarian crises. Today, Somalia is still recovering from the 2011 
+drought which affected 13 million people in the Horn of Africa and resulted in 260,000 deaths in 
+Somalia. Although food security has improved, 870,000 people remain food insecure and an 
+additional 2.3 million – one fifth of the population - remain vulnerable to food insecurity. 
+Displaced by conflict and famine, over 1 million Somalis live as refugees in the Horn of Africa 
+and Yemen and 1.1 million remain inside Somalia as internally displaced persons (IDPs). 
+Poverty is estimated to be 73 percent; extreme poverty 43 percent – however statistical and data 
+work is required to validate the country’s poverty profile.2  
+ 
+3. In contrast to the war-torn south, Somalia’s northern regions have put in place functioning 
+institutions that have succeeded in sustaining stability although considerable development 
+challenges remain. Following their declaration of independence and semi-autonomy respectively, 
+Somaliland and Puntland have developed hybrid forms of governance combining modern 
+institutions with religious authorities, civil society, the private sector and diaspora organizations, 
+which have guaranteed higher levels of peace, security and institutional development. While 
+substantial development challenges remain, the starting point for development work is 
+nevertheless different in the north. Nevertheless, Puntland and Somaliland seek very different 
+futures: while Somaliland’s constitution envisages an independent existence, Puntland is 
+committed to participate in Somalia’s federal system.3  
+ 
+ 
+                                                 
+1 UNFPA (2014)  
+2 The poverty estimates provided here are from the UNDP Human Development Report 2012.  
+3 Although Puntland is committed to participate in the federal system, Puntland is currently concerned that the Federal Government of Somalia 
+(FGS) is itself not fully committed to implement the federal system. Tensions have arisen during 2013 that will need to be addressed at the 
+political level, but also through the balanced and transparent allocation of development effort across Somalia.  
+ 
+2
+ 
+4. A transformational moment: In August 2012 the Federal Government of Somalia (FGS) was 
+brought to power with a four year term under a provisional constitution approved by a new 
+parliament – ending southern Somalia’s long period of revolving transitional government. Since 
+its establishment the FGS has stated its commitment to improved governance and economic 
+management and is preparing to lay the foundations for the implementation of a federal system 
+of governance. The new government is responsible for meeting important political, security and 
+economic milestones during its term, including the passage of a permanent constitution and the 
+preparation for national elections in 2016. From the first days of its government, the FGS 
+embarked on a broad-ranging program of reconstruction and reform with support from 
+development partners. The Government’s Six Pillar Policy provided an initial framework for 
+reforms and deliverables in the areas of security, economic recovery, justice, basic services and 
+infrastructure, and governance and rule of law. The  compact translates the six pillar policy into 
+concrete political, security, and development priorities and milestones over the next three years 
+(2014-2016) based on a set of Peace-building and State-building Goals (PSG). Undertaken in the 
+spirit of the New Deal4  for Engagement with Fragile States, the Compact preparation process 
+sought to be inclusive of Somalia’s different regions and communities: consultations were held 
+in Mogadishu, Baidoa, Galkayo and Garowe, culminating in a multi-stakeholder meeting in 
+September 2013 in Mogadishu. With the inclusion of a Special Arrangement for Somaliland, the 
+Compact priorities also build on the existing plans and strategies of both federal and regional 
+governments and will be the basis for donor alignment and monitoring across the country. 
+ 
+5. In endorsing the Compact (Box 1) at the Brussels conference, donors committed to align 
+their programs with its priorities and nine partnership principles. The Compact also establishes a 
+new aid framework - the Somalia Development and Reconstruction Facility (SDRF) - which 
+provides a single governance platform for coordinating international assistance with Compact 
+priorities delivered through windows administered by technical agencies including the Bank. The 
+SDRF will also enable a phased and calibrated approach to increasing the use of country systems 
+based on clear benchmarks of performance which this project will help to establish over time. 
+ 
+6. Accompanying the Compact, the Federal Ministry of Finance and Planning prepared an 
+Economic Recovery Plan (ERP) with a focus on core economic priorities. The ERP, prepared 
+with technical support from the World Bank, sets out a vision for economic recovery focusing on 
+the 11 regions of southern Somalia in the areas of public administration, infrastructure, natural 
+resource management, and social services. Given limited resources and capacity, the ERP 
+prioritizes five flagship programs5 and emphasizes the role of the annual budget in linking 
+resources to Federal Government priorities. The intention to develop an Interim Poverty 
+Reductions Strategy Paper (IPRSP) by linking the ERP with the Puntland Development Plan and 
+the Somaliland National Development Plan. 
+ 
+ 
+ 
+                                                 
+4 http://blogs.worldbank.org/nasikiliza/new-deal-somalia  
+5 The five flagships include (i) rapid upgrading of state capacity at federal, regional and local authority level, (ii) productive infrastructure (crops, 
+livestock, fisheries), (iii) rapid rehabilitation of infrastructure (ports, urban water and waste), (iv) basic health services; and (v) one million 
+children back in school. 
+ 
+3
+ 
+Box 1: The Somali Compact’s Five Peacebuilding and State-building Goals 
+The Somali Compact’s Five Peacebuilding and State-building Goals 
+PSG1: INCLUSIVE POLITICS 
+Achieve a stable and peaceful Somalia through inclusive political processes. 
+Priority 1:  Advance inclusive political dialogue to clarify and settle relations between the FGS and 
+existing and emerging administrations and initiate processes of social reconciliation to 
+restore trust between communities. 
+Priority 2: 
+Finalize and adopt a Federal Constitution by December 2015. 
+Priority 3: 
+Prepare for and hold credible elections by 2016. 
+PSG2: SECURITY 
+Establish unified, capable, accountable and rights based Somali Federal security institutions providing 
+basic safety and security for its citizens 
+Priority 1: 
+Strengthen the capacity and accountability of state security institutions to recover territory, 
+stabilize and provide basic safety and security. 
+Priority 2 
+Integrate security forces into Federal Institutions. 
+Priority 3: 
+Implement national programme for the treatment and handling of disengaged combatants. 
+Priority 4 
+Develop an effective maritime security strategy within the framework of the Maritime 
+Resource and Security Strategy. 
+PSG3: JUSTICE 
+Establish independent, accountable and efficient justice institutions capable of addressing the justice 
+needs of the people of Somalia by delivering justice for all. 
+Priority 1 
+Key priority laws in the legal framework, including on the reorganization of the judiciary, 
+are aligned with the constitution and international standards. 
+Priority 2 
+Justice institutions start to address the key grievances and injustices of Somalis. 
+Priority 3 
+More Somalis have access to fair and affordable justice. 
+PSG4: ECONOMIC FOUNDATIONS 
+Revitalize and expand the Somali economy with a focus on livelihood enhancement, employment 
+generation, and broad-based inclusive growth. 
+Priority 1: 
+Enhance the productivity of high priority sectors and related value chains, including 
+through the rehabilitation and expansion of critical infrastructure for transport, markets 
+access, trade, and energy. 
+Priority 2: 
+Expand opportunities for youth employment through job creation and skills development. 
+Priority 3: 
+Promote the sustainable development and management of natural resources by developing 
+legal and regulatory frameworks and building capacity in key NRM institutions. 
+PSG5: REVENUE AND SERVICES 
+Increase the delivery of equitable, affordable, and sustainable services that promote national peace and 
+reconciliation amongst regions and citizens and enhance transparent and accountable revenue 
+generation and equitable distribution and sharing of public resources. 
+Priority 1: 
+Increase the provision of equitable, accessible, and affordable social services by creating a 
+regulatory environment that promotes decentralized delivery and prioritizes key 
+investments that extend and increase access to services. 
+Priority 2: 
+Enhance transparent and accountable revenue generation. 
+Priority 3: 
+Strengthen PFM to enable the different levels of governments to better manage financial 
+resources in a transparent and accountable manner in of support national priorities. 
+ 
+4
+ 
+Somaliland  
+ 
+7. Somaliland’s recent political landscape has undergone significant change.  The 2010 
+presidential election, which was generally regarded as having been free and fair, triggered a 
+number of political alterations. First, by expanding the executive from 26 to 35 ministers and 
+deputy ministers, the Silanyo administration has been able to appease diverse political factions, 
+particularly in the eastern regions of Sool, Sanaag and Cayn. Second, the incumbent Kulmiye 
+government has kept one of its election promises and opened up the decade-old political party 
+scene, thus allowing for the formation of new political associations. Finally, recent years saw a 
+resumption of dialogue between the Government of Somaliland and the Federal Government of 
+Somalia through the dialogue hosted by Turkey.  Following a formal request to the international 
+community at the 7th High Level Aid Coordination Forum (HLACF) in Hargeisa in November 
+2014 to support the Turkey dialogue by playing a more active role and to hold all parties 
+accountable a high-level delegation from Somaliland and the federal government met to prepare 
+for the next round of talks.  
+ 
+Puntland 
+ 
+8. The Puntland Constitution which was enacted in 2012 specifies that Puntland is a federal 
+member state of the Federal Republic of Somalia. The state is managed by an elected president 
+and supported by a three-tier structure of government consisting of the state executive, regional 
+governors, and district councils. There are currently nine regions each headed by a governor. The 
+region, which is an administrative level funded through the budget of the Ministry of Local 
+Government and Rural Development, performs mainly coordination, security, and political 
+functions. Below the nine regions, the state is divided into 40 districts. Each district is led by a 
+district council, which is chaired by a district commissioner/mayor. The district councils were 
+originally appointed by the president, but a reform process is currently under way to have them 
+elected. So far, seven districts have completed that process. Puntland witnessed a peaceful 
+transition of power on January 8th 2014 to a highly technocratic President (Abdiwelli Mohamed 
+Ali Gas). 
+ 
+9. The Puntland framework for decentralized governance and service delivery is embedded in 
+the Law No. 7 2003 Local Government Act, which provides a significant degree of devolved 
+power to the districts, backed by revenue and expenditure assignments. It also outlines the 
+districts’ right to domestic and international borrowing, on previous approval from the state 
+government.  Because of extremely limited fiscal capacity, the state government has had little 
+involvement with service delivery responsibilities. It has been concerned largely with regulatory 
+functions and some revenue collection. Appointments down to the district level are made 
+centrally, but the districts have significant autonomy over their revenue sources.  
+ 
+The Interim Jubba Administration (IJA6) 
+ 
+10. Located along the Indian Ocean on the south coast of Somalia (Lower Juba) the Kismayo 
+port is one of the four major ports of Somalia playing a major role in the development of 
+                                                 
+6 IJA Leader, Sheikh Ahmed Madobe 
+ 
+5
+Southern Somalia. Presently, Kismayo is one of the export points of charcoal and to a lesser 
+extent one of the import points of vehicles from the Gulf.  The revenue raising activities of the 
+Kismayo Port Authority consist solely of Customs duty on imported goods passing through the 
+port.  In August 2013, Kismayo Airport was officially brought under the authority of the IJA. Per 
+Addis Ababa agreement the management of the facility is scheduled to be transferred to the 
+Federal Government of Somalia after a period of six months (February 27, 2014).   
+ 
+B. Drivers of Fragility and Conflict 
+11. The binding constraints to poverty reduction are security and re-establishing the rudimentary 
+elements of state legitimacy. While Somalia’s trajectory is now positive, transitions are rarely 
+linear and the situation is likely to remain fragile unless progress is made on the following issues: 
+ Achieving consensus on a federal system that provides for inclusive representation and 
+political accommodation among the regions on power and wealth-sharing; 
+ Establishing core institutions that can deliver basic services to citizens, including security, 
+and can manage the economy transparently and effectively; 
+ Redressing the elite capture and economic exclusion that has resulted in widespread lack of 
+trust in formal institutions and vulnerability among the Somali population. 
+ 
+12. More broadly, Somali society is highly segmented, complicating the development of a 
+unifying vision of the Somali state. Somalia's political development has been oriented around 
+clan and geography-based identities, where groups resolved disputes through a system of 
+collective compensation and consensus. More recently, competing concepts of the state in 
+Somalia have manifested themselves in stark and often violent opposition, and today de-facto 
+authority remains contested between traditional, customary, religious and modern institutions. 
+Against this backdrop of fragmentation and resource competition, Somalia's institutions have 
+failed to build inclusive coalitions, further contributing to a crisis of legitimacy.  
+ 
+13. High dependency on external actors also exacerbates fragility and conflict. Both legitimacy 
+and resources are provided by the international community to support emerging formal 
+governance institutions in Somalia. The dependency on external actors has both positive and 
+negative effects for the emerging formal institutions in Somalia and in particular regarding core 
+economic institutions. The diversion of substantial amounts of resources has led the Western 
+donor community to insist on tight rules for spending those resources as well as externalizing 
+these functions instead of building government systems and processes. Performance, compliance 
+and capacity are crucial to ensure predictable fund flows from the external development partners 
+through Somali government institutions to citizens.  
+ 
+C. Situations of Urgent Need of Assistance or Capacity Constraints 
+14. Pursuant to OP 10.00, this project is being processed under paragraph 12 Projects in 
+Situations of Urgent Need of Assistance or Capacity Constraints due to fragility and acute 
+capacity constraints. However, as was done for the Federal Government, the fiduciary team used 
+existing PFM diagnostics for Puntland and Somaliland to drill down into the fiduciary 
+arrangements in the implementation agencies to establish minimum controls that will provide 
+reasonable assurance that the grant proceeds will be used for the intended purposes.     
+     
+ 
+6
+D. Sectoral and Institutional Context 
+15. The Joint Needs Assessment7 (JNA) of PFM systems in Puntland, Somaliland and South 
+Central Regions done by UNDP, Department for International Development (DFID) and World 
+Bank in 2006-2007 at the request of the Somali authorities and the international community 
+revealed that the “systems that manage public resources are very weak”. The JNA led the UN 
+and World Bank to put together the Somali Reconstruction and Development Program with three 
+main pillars to: (i) deepen peace, improve security and establish good governance; (ii) strengthen 
+basic social services (especially education, health and water supply); and (iii) rebuild 
+infrastructure, together with other actions, to expand economic opportunities, employment and 
+incomes. However, impactful reforms are yet to be undertaken since the JNA and that the PFM 
+systems and processes are still weak and prone to fraud and error. The 2012 UN Monitoring 
+Group Report underscored the linkages between corruption and legitimacy, highlighting that 
+“corruption, embezzlement and fraud are no longer symptoms of mismanagement, but have in 
+fact become a system of management.” Somalia ranked 175 (equal to North Korea and 
+Afghanistan) out of 177 countries in the 2013 Transparency International Corruption Perceptions 
+Index (CPI)8.  
+ 
+16. A number of external assistance has been provided to the Federal Government, Somaliland 
+and Puntland aimed at supporting PFM reforms. This project will build on work done so far to 
+make the key PFM institutions and line ministries gradually more functional. 
+ 
+Federal Government of Somalia  
+ 
+17. The Federal Republic of Somalia Legislature and the Presidency9 have prioritized security, 
+justice and PFM integrity at the top of the country’s development agenda. This is driven by 
+improved security, regaining of political legitimacy, and need to build citizens’ confidence and 
+relationship with Development Partners (DPs) that public funds will be managed in a transparent, 
+equitable and accountable manner. The President’s Foundations of New Beginning: “Six Pillar 
+Policy” are in line with the Peace-building and State-building Goals (PSGs) of the New Deal for 
+Engagement in Fragile States (the “New Deal”) particularly goal 5. The good governance pillar 
+vision is “to ease and eliminate the plight of the people by creating an enabling environment 
+whereby citizens control the government through transparent and accountable policies”.  
+ 
+18. A government-led PFM self-assessment was undertaken to develop a PFM Capacity 
+Strengthening Initiative10 which was launched internationally in May at the Somalia Conference 
+in London. The Federal Government of Somalia ‘PFM Reform Architecture’ is underpinned by 
+the government’s “Foundations of New Beginning: Six Pillar Policy”; particularly pillar one that 
+                                                 
+7 http://www.somali-jna.org/index.cfm?Module=ActiveWeb&Page=WebPage&s=introduction - The JNA analytical/diagnostic studies include 
+the Interim PFM Support for Somalia TFG carried out by PricewaterhouseCoopers and sponsored by DFID; Reports on Need Assessments of 
+Oversight Institutions to Monitor Accountability and Transparency; Roadmap for PFM Process in Somalia; Customs Assessment Report & 
+Modernization and Reform Plan; Procurement Assessment and Recommendations Report, Reports on Budget Preparation, Execution and 
+Monitoring; Report on the Options for Revenue Systems & Administration for TFG Somalia, 2005; and Report on Somalia Joint Needs 
+Assessment Options for Macroeconomic Policy Framework  and Data Development Cluster, 2006. 
+8 http://cpi.transparency.org/cpi2013/results/  
+9 His Excellency Professor Jawari, Mohammad Osman was elected Speaker of the new Federal Parliament of Somalia whilst Parliament elected 
+President Hassan Sheikh Mohamud on 10th September 2012 
+10 http://www.mof.gov.so/wp-content/uploads/2014/10/Somalia-PFM-Self-assessment-report-strategy-April-4-2013-Final.pdf  
+ 
+ 
+7
+deals with good governance. The PFM reforms are anchored on four platforms: (i) instituting 
+PFM fundamentals for budget credibility; (ii) effective budget execution and financial 
+accountability; (iii) improved policy formulation, planning and budget preparation; and (iv) 
+institutional structures; Strategic Human Resource Management; Financial Management 
+Information Systems (FMIS); and cross-cutting issues. The cross-cutting platform provides the 
+beam that holds the whole reform platforms together in order to meet the overall PFM reform 
+objectives. This strategy was endorsed by the Council of Ministers and submitted to the National 
+Assembly; thereby receiving the strong political ownership. The overall PFM reform objective is 
+“to improve the efficiency and effectiveness of public financial management processes, and 
+systems in order to provide timely, transparent and accurate financial information across the 
+public sector to underpin policy formulation and inform Government decision making in support 
+of service delivery”. In addition to achieving the expected budgetary outcomes of (i) aggregate 
+fiscal discipline; (ii) strategic allocation and use of public resources; and (iii) efficiency of 
+service delivery and probity; the reforms specifically aim to: improve transparency and openness 
+of the national budget process; enhance fiscal discipline through internal and external controls; 
+focus public expenditure on priority areas of Government programs; enhance efficiency and 
+effectiveness of public expenditures; and strengthen overall financial management and 
+accountability. 
+ 
+19. Despite the commitments above, the resignation of the Governor of the Central Bank of 
+Somalia in 2013 raised questions regarding the commitment of the Federal Government to good 
+governance. If not promptly and credibly addressed by appropriate actions, it threatens to unravel 
+the Somalia Development Compact with international partners and undermine the legitimacy of 
+the government in the eyes of the Somali public. It is in this context that the Federal Government 
+of Somalia has proposed a program to strengthen financial governance which would both 
+provide a sense of the concrete actions that the FGS will undertake and address doubts about the 
+capacity for implementation. The financial governance program is very much focused on 
+establishing “functionalities” in key agencies which are essential for transparent financial 
+governance and the approach is therefore distinct from a broad based capacity building program.   
+ 
+Somaliland 
+ 
+20. The Public Financial Management (PFM) Capacity Building Project funded by the Low 
+Income Countries Under Stress (LICUS) TF094672 which closed in November 2011 supported 
+only the Government of Somaliland (GoSL) because there were security concerns that restricted 
+the Bank from engaging in South Central and Puntland. The project supported GoSL to develop 
+Bills11 for strengthening the PFM legal and regulatory framework; standard bidding documents 
+for goods, works and consultancies; and the enabling regulations and operating procedures 
+manuals12.  
+ 
+21. Somaliland budgeted revenue grew by 72 percent between 2011 (US$88.32 million) and 
+2014 (US$152 million) and actual collection exceeded revenue estimates by 2 percent and 8 
+                                                 
+11 Public Financial Management and Accountability Bill, Public Procurement Bill, National Audit Bill, Customs Bill and Revenue Bill 
+12 External Audit Manual, Internal Audit Manual (English and Somali version), Public Procurement General Manual, Procurement Regulations, 
+Accounting & Financial Reporting Policies and Guidelines, Customs Regulations, Tax Manual, Public Accounts Committee Guidelines for 
+reviewing Auditor-General’s Reports, Public Accounts Committee Rules of Procedure for House of Representatives, and Budget Rules of 
+Procedure for House of Representatives. 
+ 
+8
+percent in 2012 and 2013 respectively. Budgeted revenue between 2013 and 2014 increased by 
+32 percent. Capital expenditure accounts for only 13 percent of the 2014 approved budget.  The 
+2012 deficit consisted of unpaid bills of goods purchased and services received. There was a 
+surplus of revenue over expenditure of US$8.6 million in 2013.  
+ 
+22. The Somaliland government is determined to continue and to step up reforms of the Public 
+Finance Management. Key PFM gaps and challenges identified by a government-led PFM self-
+assessment include: 
+ 
+(i) Limited capacity in macroeconomic analysis. Revenue estimates are not based on sound 
+methodology which undermines the budget planning, preparation and execution;  
+(ii) Procurement lacks transparency and oversight and fails to adequately consider the role and 
+responsibilities of line ministers (LMs);  
+(iii) Line ministries do not assume sufficient responsibility and control over the execution of their 
+budget ; 
+(iv) Accounting records are maintained exclusively on physical registers by the Accountant 
+General’s Office (AGO), which maintains separate vote books and cash books for each 
+ministry with very little data being captured digitally, which results in an onerous task, 
+incomplete and delayed financial reporting;  
+(v) In support of improved accountability and modernization, the current budget classification 
+system will require revision to move beyond the current functional structure that does not 
+support further expansion nor adhere to international conventions;  
+(vi) Accountant General’s Office (AGO) employees are not adequately trained and the country 
+does not currently have an accounting oversight body to provide certification or set 
+accounting standards;  
+(vii) 
+The ‘Central Bank’ of Somaliland (CBSL) relies exclusively on manual systems to 
+manage the deposits and payments of the GoSL; and 
+(viii) 
+Parliament’s ability to adequately oversee the budget and financial reporting of the 
+government is hampered by weak procedures. 
+ 
+23. A PFM reform strategy has been formulated to improve government’s capacity and systems 
+to utilize public funds towards meeting the National Development Plan (NDP) goals, and 
+ultimately those of Vision 2030. The Somaliland-led PFM reform strategy and action plan 
+(Figure 1) identifies the priorities for reform, provides a structured and sequenced framework to 
+carry out specific reform activities, guide the mobilization of resources, and improve 
+coordination as well as sustainability of the reforms aimed at strengthening PFM systems. The 
+vision is to “achieve the highest possible efficiency, transparency and accountability in the 
+allocation, management and use of public finances to meet the GoSL’s development and 
+economic growth priorities”. 
+ 
+24. The “Somaliland Development Fund” was established within the Ministry of National 
+Planning and Development, with the initial support of DFID and Danish International 
+Development Agency (DANIDA). A Joint Steering Committee chaired by the Minister of 
+National Planning and Development, is composed of the Minister of Finance, donor 
+representatives, with observers from the EU, World Bank, civil society and the Chamber of 
+Commerce provides the strategic decisions. The National Planning Commission, comprised of 
+15 ministers, the Governor of the Central Bank, academia and civil society guides the country-
+level decision-making on priorities, and financing.  The SDF uses an independent firm for 
+ 
+9
+fiduciary arrangements.  Benchmarks for transiting to use of the Somaliland PFM system will be 
+aligned with key performance indicators from the PFM reform action plan and the PSG 5 
+priorities. 
+ 
+Figure 1: Somaliland PFM Reform Pillars and Components 
+ 
+ 
+Puntland 
+ 
+25. In the last several years, the government of Puntland has initiated and implemented several 
+reforms in PFM and public administration reforms. These included tax and budget reforms and 
+the establishment of the civil service commission among other initiatives. Some of the reforms at 
+the Central Government (National) and the Local Government (Sub-National) levels have 
+attracted technical and financial support from the international development partners, notably the 
+United Nations (UN) agencies. Whereas donor support is in most instances aligned with the real 
+needs of the people of Puntland there is a risk of fragmenting the support due to lack of a written 
+country led reform strategy to guide donor support and ensure synergies and coherence from all 
+the reform actors. There are opportunities to improve coordination and effectiveness of donor 
+support by adopting a common government led PFM reform strategy as the basis for all donor 
+support to PFM reforms. In this regard, a government-led PFM self-assessment is planned to be 
+conducted to underpin a comprehensive PFM reform strategy and action plan. The strategy 
+would reflect country specific priorities and be based on a homegrown agenda with strong 
+government ownership and leadership. To implement the strategy, an action plan detailing the 
+actual activities to be implemented to achieve a particular objective, time line and resource 
+requirements such as technical assistance and funding would also be prepared. The PFM reform 
+strategy would come into force through a government policy instrument such as a presidential 
+decree. 
+ 
+26. Most of the laws, regulations and guidelines in use today were inherited from the Somalia 
+central government of Mr. Siad Barre regime and have little relevance for today’s social–
+economic and political setting. Government cannot afford to hire sufficient numbers of skilled 
+personnel as civil servants because of the low pay. The current budget process lacks a link 
+between government policy and budgeting and a perspective beyond the immediate future. The 
+basic mechanisms for controlling public expenditure require improvement. The existing 
+procurements systems and laws were relevant many years ago but clearly need to be revamped to 
+improve competition and realize better value for money. 
+ 
+10
+ 
+27. The Puntland authorities have discussed public sector reforms issues and challenges and 
+proposed  a vision of “effective government and sustainable service delivery for all” to be 
+implemented through four main reform components: (i) managing public finance and 
+procurement; (ii) managing human resources; (iii) building institutions and measuring 
+performance; and (iv) improving service delivery. A Puntland Public Financial Management 
+reform strategy concept note was also prepared and is used to underpin the design of the project 
+activities to be undertaken in Puntland. 
+ 
+28. At the Puntland roundtable with international partners (May 21, 2014); the roundtable 
+underlined the importance of ensuring equitable and fair development throughout Somalia and 
+recognized the criticality of this issue in the New Deal. International partners welcomed the 
+strengthened engagement with Puntland State and committed to continue this form of dialogue. It 
+was agreed that Puntland's priorities (Puntland’s priorities for Revenue and Public Financial 
+Management Reform (2014-2016) - Priority 2: Increasing the Inland Revenue by elimination of 
+tax evasion practices, and the improvement in tax collection mechanisms; and Priority 4: 
+Strengthen Public Financial Management by improving the efficiency and effective use of 
+resources in a transparent and accountable way that includes strengthening the budget process, 
+establishing a chart of accounts and enhancing public procurement) should be taken into account 
+in the Somali Compact and that Puntland's participation in the New Deal aid architecture was 
+important - particularly in the Somali Development and Reconstruction Facility (SRDF). 
+ 
+29. The UNDP-SIDP through (i) Ernst and Young (EY) supported the development of 
+organizational structure and job descriptions for the Office of the Accountant General, revision 
+of the chart of accounts and manual, development of conceptual design, functional and technical 
+IT specifications to facilitate the procurement of an off the shelf accounting software to automate 
+the key processes within the accounting function; drafting of accounting and procedure manual; 
+asset management policies and procedure manual; and (ii) Klynveld Peat Marwick Goerdeler 
+(KPMG) supported the preparation of standard bidding documents and other procurement tools 
+for the Puntland Tender Board; and supported the Auditor General’s Office with  Regularity 
+Audit Manual; working papers; tools and templates; and training of trainers for selected 
+individuals on how to use the manual. The only concern is that the manual is written in English 
+and translation was not part of the contract between UNDP and KPMG. This made it difficult for 
+the staff who prefer the documents to be in Somali language (official working language) to fully 
+understand the contents. 
+ 
+The Interim Jubba Administration (IJA) 
+ 
+30. IJA has determined that 10 ministries should be established. The first step will be to prepare 
+a draft organizational structure for consideration by the IJA leadership13.  This structure initially 
+will only contain the departments necessary to implement the budget preparation, budget 
+execution, cash management and banking, accounting and reporting and limited IT support 
+functions.  Also critical is the Kismayo Port and Airport Authorities with respect to their 
+revenue-raising functions. The Somalia Stability Fund (SSF) is providing support in 
+                                                 
+13 IJA Leader, Sheikh Ahmed Madobe and his advisors, Abdiqhani and Abdi Rage, Minister for Planning and International Cooperation 
+(MoPIC), Mohamed Nur Iftin, the Minister for Finance (MoF), Mohamed Sheikh Yusuf. 
+ 
+11
+“establishing Immediate Public Financial Management Arrangements for the Interim Jubba 
+Administration”; where feasible, the IJA consultants are ensuring consistency with the FGS PFM 
+initiatives.    
+ 
+31. So far, budget preparation manual, budget circular and budget templates were delivered to 
+IJA on April 30, 2014 for distribution to Ministries for preparation of agency budgets.  Plans are 
+in the way for implementation of a Financial Management Information System (FMIS) based on 
+the Bisan Enterprise (Government Edition) application. The current major challenges include: 
+slow progress in staff for MoF; refurbishment of MoF building; and lack of an acceptable 
+banking facility in Kismayo as the use of the Hawala system for this purpose has not been 
+favourably viewed by IJA Ministers. 
+ 
+Strategic approach to respond to the Somalia context 
+ 
+32. As noted by Hilderbrand and Grindle (1997:3114), “governments have failed to fashion 
+appropriate roles for the state in development; they have been unable to organize and manage 
+systems that identify problems, formulate policies to respond to them; implement and sustain 
+activities over time”. Without attention to institutional transformation, countries are susceptible 
+to a vicious cycle of repeated violence (WDR 2011:47). Therefore, to address the capacity 
+weaknesses that affect the ability to perform PFM tasks effectively, efficiently and sustainably, 
+the capacity building efforts (reform activities) will be targeted around the five main dimensions 
+of capacity which are interactive and dynamic: action environment; institutional context of the 
+public service; task network; organizations; and human resources. The capacity dimensions 
+which are elaborated in the PIM are vital for change responsiveness and therefore, public sector 
+organizations will be better positioned to embrace the opportunities that reforms (change) 
+presents, if the structures and leadership (political and administrative) allow individuals to 
+observe the effects of their actions when they recognize unsolved problems and are able to adapt 
+to solve new problems i.e. “learning to learn”.  This will build the states’ resilience and 
+capability in recognizing and responding adequately to the dynamics of reforms. 
+ 
+33. The Bank has therefore taken a strategic decision to be selective and focus on areas that build 
+upon work already started under the PFM capacity strengthening project (P146006). The whole 
+design recognizes the absorptive capacity, resource availability and the need to focus on getting 
+the basics right before venturing into more sophisticated reforms. The Bank is presently 
+supporting 4 public sector governance initiatives. 
+(i) Public sector capacity injection and institutional strengthening project  
+(ii) Recurrent costs and reform facility project (RCRF I&II) 
+(iii) Public financial management capacity strengthening project (PFM 1&2) 
+(iv) Financial governance program 
+ 
+34. This project will establish the PFM fundamentals that will underpin the recurrent cost 
+window project (P148428) and provide critical technical assistance for the Federal Government 
+to meet the PFM commitments of the financial governance program.   
+ 
+                                                 
+14 Hilderbrand ME and MS Grindle (1997) ‘Building sustainable capacity in the public sector: what can be done’, in MS Grindle (ed.) Getting 
+Good Government: Capacity Building in the Public Sectors of Developing Countries HIID, Boston Mass: Harvard University Press. 
+ 
+12
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Inter-relationship Between Governance Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+E. Relationship to Interim Strategy Note (ISN) 
+35. The World Bank Group Interim Strategy Note (ISN) FY14-16 for Somalia will contribute to 
+the international effort to support the country’s transition out of the cycle of fragility and conflict 
+and establish the foundations of peace, national reconciliation and development in the context of 
+a new national government. The program will draw on the experience of other countries 
+emerging from conflict and fragility, and in particular on the lessons of the World Development 
+Report 2011 on Conflict, Security and Development with regards to building coalitions and early 
+confidence-building measures in fragile transitions. It is also grounded in the principles of the 
+G7+ New Deal. The objective of the Somalia ISN is to lay the foundations for poverty reduction 
+and shared prosperity by delivering on selected priorities in the Compact's Peace- and State-
+building Goals. In aligning with the Compact and working in areas of comparative advantage, 
+the Bank will contribute to a well-coordinated international effort in Somalia, based on 
+partnership between agencies that engage across the interlinked areas of politics, security and 
+development. The ISN's activities will initiate and scale up a few activities clustered around two 
+• Improved recruitment 
+processes 
+•  Enhanced capacity of 
+civil service 
+ 
+ 
+• Credible payroll 
+• Efficient payment system 
+ 
+ 
+• Effective PFM and 
+procurement systems 
+• Strong oversight 
+Effective 
+controls for 
+public sector 
+accountability 
+Transparent 
+payment of 
+staff salaries 
+Merit-based 
+recruitment of 
+staff  
+Enhanced 
+civil service 
+capacity 
+ 
+Strengthened 
+financial 
+governance 
+framework
+RECURREN
+T COSTS 
+PUBLIC 
+FINANCIAL 
+MANAGEMENT 
+FINANCIAL 
+GOVERNANC
+E PROGRAM 
+CAPACITY 
+INJECTION 
+FINANCIAL 
+SECTOR 
+DEVELOPMENT 
+ 
+13
+priorities: (i) Priority One: Strengthening Core Economic Institutions; and (ii) Priority Two: 
+Expanding Economic Opportunity 
+ 
+36. While PFM will be an early focus, Somalia's federal institutions face an immense capacity 
+gap and a concerted and coordinated approach is urgently needed if the transition is to be 
+sustained. Somaliland and Puntland also need sustainable capacity development investments 
+including in civil service reform. Working closely with technical UN agencies, the Bank will 
+support the development and delivery of a national framework that balances the need for 
+capacity substitution approaches in the short term with longer-term capacity enhancement. 
+ 
+37. This proposal is anchored on the ISN priority one: strengthening core economic institutions 
+and the proposed activities will deliver timely assistance to support confidence building for the 
+country by supporting discrete aspects of the PFM reform action plans. Also, in line with the ISN 
+and the Bank’s comparative advantage, the Multi Partner Fund (MPF) will focus on selective 
+elements of the compact’s priorities for economic foundations and revenue and services. The 
+ERP’s programs are organized into the following four sectors: (1) core state functions; (2) 
+infrastructure; (3) productive and natural resources; and (4) social sector. The MPF will build the 
+capacities of Somali institutions over time to deliver critical services and infrastructure, at both 
+federal and regional levels. The MPF will also promote coordination between the Federal 
+government’s ERP and other strategic planning documents, including the Somaliland and 
+Puntland Development Plans. The MPF will therefore be a critical tool of the overall New Deal 
+process in Somalia and in ensuring a paradigm shift in the modalities of international assistance. 
+ 
+F. Higher Level Objectives to which the Project Contributes 
+38. The project will contribute to the following high level objectives. 
+ 
+(i) Donor partnerships will be strengthened as this project is part of broader PFM support effort 
+by development partners around a common Government-owned reform agenda. PFM 
+reforms will enable increased donor coordination under the government’s leadership 
+consistent with the Somali Compact. 
+(ii) Contributes to knowledge and learning that will improve operations in sectors for effective 
+service delivery.  
+(iii)More effective, transparent and accountable collection, management and use of public 
+resources that builds citizen trust for the social agenda (state-citizen compact). PFM legal 
+framework will reduce discretion and curb opportunities for corruption. 
+ 
+II. PROJECT DEVELOPMENT OBJECTIVES 
+A. Project Development Objectives 
+39. The Project Development Objective (PDO) is to establish and strengthen institutional 
+capacity for the management of public funds in central finance agencies and targeted sectors.  
+ 
+40. This project directly supports the World Bank Group’s strategic goals of eliminating extreme 
+poverty and promoting shared prosperity as a strengthened PFM system will contribute to more 
+transparent allocation and efficient use of public funds for effective service delivery. Also, the 
+ 
+14
+project is designed from an institutional development standpoint because, institutions are, by 
+definition, mediating structures; it follows then that it is essential to (re)build the PFM 
+institutions to address the engrain accountability challenges to improve citizen and donor 
+confidence/trust in the government and this will enhance state-building and the Government’s 
+legitimacy. Improved PFM institutions and systems will ultimately contribute to positive 
+political and socio-economic outcomes. 
+ 
+B. Project Beneficiaries 
+41. The direct project beneficiaries are the central finance agencies and selected line ministries in 
+the Federal Government of Somalia, Puntland State of Somalia and Government of Somaliland 
+and its citizens. However, it is important to recognize that the PFM reforms will involve changes 
+that will affect the interests of a broad range of stakeholders15 and understanding their relative 
+power and influence will help in reconciling their claims on the project. 
+ 
+C. PDO Level Results Indicators 
+42. Achievement of the PDO will be measured by the following key performance indicators: 
+(i) Reduced variance between actual primary expenditure and the originally budgeted 
+primary expenditure.  
+(ii) Time elapsed (in months) between end of period covered and submission of audit reports 
+to the legislature.  
+(iii) Increase in real terms of domestic revenue collection. 
+Key Intermediate Results and Indicators: 
+Intermediate Result (IR) 1: Improved realism of the budget and fiscal discipline. 
+1. Increased budget execution rate in targeted sectors.   
+2. Revenue mobilization strategy implemented. 
+ 
+Intermediate Result (IR) 2: Strengthened controls for fiscal discipline, transparency and 
+reporting.   
+3. Improvement in coverage and classification of data in in-year budget reports.  
+4. Improvements in information contained in annual financial reports with regard to application 
+of International Public Sector Accounting Standards (IPSAS) – cash basis. 
+5. Percentage of contracts using competitive procurement methods.  
+6. Procurement, installation and commissioning of core banking and accounting systems with 
+an added basic payment system. 
+ 
+Intermediate Result (IR) 3: Strengthened key integrity pillars to hold government accountable for 
+the use of public funds. 
+7. Percentage of expenditures represented by the government entities audited in total public 
+expenditure. 
+8. Percentage of audit recommendations for which there is evidence of follow-up.  
+                                                 
+15 A stakeholder is “any group or individual who can affect or is affected by the achievement of an organization’s objectives” (Freeman 1984:46). 
+ 
+15
+ 
+Intermediate Result (IR) 4: Number of PFM accredited staff. 
+9. Number of students completing certificate and diploma stages. 
+Intermediate Result (IR) 5: Demand-driven Just-in-time Services (Bank Executed). 
+10. Number of PFM reviews and actionable advisory notes. 
+ 
+ 
+16
+Figure 3: Second Public Financial Management Capacity Strengthening Project Strategic Alignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+PFM Outcomes 
+Fiscal 
+discipline  
+Allocative 
+efficiency 
+Efficiency of 
+service delivery 
+and probity  
+ 
+Somali Compact Peace and State-Building Goal (PSG): Revenue and Services 
+Strategic Objective: Increase the delivery of equitable, affordable, and sustainable services that promote national 
+peace and reconciliation amongst Somalia’s regions and citizens and enhance transparent and accountable 
+revenue generation and equitable distribution and sharing of public resources. 
+Second Public Financial Management Capacity Strengthening Project (P151492) 
+ 
+The Project Development Objective (PDO) is 
+“to establish and strengthen institutional capacity for the management of public funds in central finance agencies 
+and targeted sectors”. 
+ 
+Component 1: Revenue mobilization, planning and budget preparation 
+Component 2: Treasury management, budget execution, procurement, accounting and financial reporting 
+Component 3: Strengthening the integrity pillars 
+Component 4: Public financial management professionalization 
+Component 5: Public financial management oversight, coordination and management 
+Component 6: Demand-driven Just-in-time services (Bank Executed) 
+Federal Government of Somalia (FGS) - Foundations of New Beginning: “Six Pillar Policy” 
+Pillar One: full stability- supremacy of the law and good governance - “to ease and eliminate the plight 
+of the people by creating an enabling environment whereby citizens control the government through 
+transparent and accountable policies”. 
+ 
+Puntland (PL) 2nd Five-Year Development Plan (2014-2018)  
+Governance sector priority 3: Public finance management restructured and strengthened with an 
+expected outcome to improve the efficiency and effective use of resources in a transparent and 
+accountable way. It will also ensure the public finance management reform is developed and 
+implemented using international standard system” 
+ 
+Somaliland (SL) Vision 2030 and National Development Plan (NDP)  
+Pillars: (i) economic; (ii) infrastructure; (iii) governance, (iv) social; and (v) environmental  
+“a nation with an effective, efficient, transparent and accountable public sector that guarantees 
+inclusiveness and equity”. 
+WBG’s strategic twin-goals of: 
+(i) eliminating extreme poverty; and 
+(ii) promoting shared prosperity 
+ 
+ 
+17
+III. PROJECT DESCRIPTION 
+ 
+43. The reform activities were developed in close consultation with the key government officials 
+who were empowered to actively participate in deciding on the project components and 
+activities. The PSG5 sub-group on PFM participated in the preparation of the projects. The Aid 
+Coordinating Unit (ACU) provided guidance in presenting the project concept to the SDRF 
+Executive Committee on August 31, 2014 and it was endorsed subject to further consultations at 
+the PSG sub-group level which was held on September 4, 2014 with close involvement of the 
+beneficiaries in preparing the project activities and agreeing on the expected project results. 
+ 
+44. The Organization for Economic Co-operation and Development (OECD) Principles for Good 
+International Engagement in Fragile States (April 2007) guides the design of this project and in 
+particular DPs have agreed on practical coordination mechanisms through the government PFM 
+reform oversight structures. Also, the PFM donor group steering committee actively engaged 
+with government during the PFM self-assessment and aligned its support around the 
+government-owned reform action plans to form a coherent set of mutually reinforcing projects.  
+ 
+A. Project Components 
+45. The activities in the various components/sub-components will directly contribute to the PDO. 
+Mechanisms for implementation are laid out in the Project Implementation Manual (PIM).  
+ 
+Component 1: Revenue mobilization, planning and budget preparation (US$2,750,000) 
+ 
+Sub-component 1.1:  Strengthening planning and budget preparation (US$630,000) 
+ 
+46. Activities will be implemented to better integrate the recurrent and capital budgets, and 
+improve the capacity of MDAs to prepare fully costed Medium-Term Sector Strategies (MTSS) 
+that will inform the planning and budget preparation process in the targeted sectors (health, 
+education, agriculture and environment. 
+ 
+47. Putting ‘aid-on-budget’ is the tipping point towards use of country systems. In Somalia, most 
+Official Development Assistance (ODA) is ‘off-budget’ this inevitably leads to waste and 
+corruption. The use of parallel systems to circumvent limited Government absorptive capacity 
+has impeded aid effectiveness and the building of a more effective State. There are efforts to 
+capture such assistance in the Development Assistance Database (DAD). This component will 
+support the development of a framework to include aid-on-budget. 
+ 
+Sub-component 1.2: Revenue mobilization and tax administration (US$2,120,000) 
+ 
+48. There is a dire need to mobilize domestic resources to complement debt relief and donor aid 
+to achieve development objectives. The main source of revenue for the Federal Government are 
+taxes on international trade (customs duties are specific rather than ad valorem) and little from 
+income and corporation taxes, which is unlike most other countries. Both Somaliland and 
+Puntland are able to collect some revenues from Berbera and Bossasso ports to partially fund 
+ 
+18
+basic administrative structure and security, but not enough to invest substantially in social and 
+economic development.  
+ 
+49. Whilst expanding the tax base; segmentation of taxpayers will be undertaken to introduce 
+simplified and economical procedures for small and micro-size taxpayers to reduce compliance 
+costs; and the tax regimes will be improved for the medium and larger taxpayers. This 
+component will design measures to bring integrity into customs and tax administration. 
+Concerted efforts for staff training including building in-house capacity to undertake tax audits 
+and investigations based on risk analysis will be a long term venture.  
+ 
+Component 2: Treasury management, budget execution, procurement, accounting and 
+financial reporting (US$9,880,000) 
+  
+Sub-component 2.1:  Treasury management and budget execution (US$1,500,000) 
+ 
+50. Somalia is a highly cash-based country and the financial services sector is only now 
+emerging. As commercial banks emerge with appropriate banking sector infrastructure, they will 
+be better placed to collect revenues more efficiently than tax offices which should focus on 
+tracking taxpayers. It is desirable to establish a technical Cash Management Committee (CMC) 
+in the Ministry of Finance with technically skilled staff to project, monitor, analyze and update 
+cash plans. Also, an inter-departmental task force will develop a cash management policy with a 
+framework for deciding on cash ceilings and periodic cash releases for line ministries. 
+ 
+51. Operationalizing the Treasury Single Account (TSA) in the Central Bank through which all 
+revenue collections and authorized payments are made with regular bank reconciliation will lend 
+credibility to the completeness and accuracy of financial reports for decision making and 
+accountability. Training will be conducted for deriving cash plans from the annual work plans 
+and linking same to procurement plans. Each Budget Entity will have a dedicated TSA sub-
+ledger bank account in the FMIS (not actual bank accounts operated outside the view of 
+Treasury) to which monthly cash releases will be made and ring-fenced for exclusive use by the 
+Budget Entity. This will give full control to the accounting officer (permanent secretary or 
+director general) to use the allocations based on payment vouchers that will be prepared by the 
+line ministry and submitted to Treasury (until such time when the FMIS will be roll-out to line 
+ministries) for processing. The FMIS will generate the payment to the direct beneficiaries 
+through 'Payment Instructions' that will be submitted as final authority to the Central Bank for 
+payment.  
+ 
+Sub-component 2.2: Accounting and financial reporting (US$1,000,000) 
+ 
+52. Good quality in-year financial reports and annual financial statements are not consistently 
+produced. Management usually perceive the purpose (or key benefit) of financial statements to 
+be for compliance and accountability, not as useful information for informing decisions. In 
+addition to the statutory compliance dimension, this sub-component will support activities to 
+produce clear and concise financial statements that better articulate the meaning of what is being 
+reported based on the audience/consumer of information to increase the use of financial 
+statements by executive management for decision making; and elected officials and the public 
+for measuring accountability/performance in service delivery.  
+ 
+19
+ 
+53. Simple accounting procedures manual will be prepared to guide the preparation of annual 
+financial statements in accordance with the ‘Financial Reporting under the Cash Basis of 
+Accounting’ standard issued by the International Public Sector Accounting Standards Board 
+(IPSASB). Practical training will be conducted for recognition and measurement of elements of 
+financial statements and preparation of prescribed financial statements and the relevant 
+disclosure notes. Tools will also be prepared to support the upload of in-year budget reports and 
+annual financial statements in government websites in a format that is user-friendly for public 
+consumption.  
+ 
+54. To ensure consistency in arriving at correct tax obligations and weighing the costs/benefits of 
+applying International Financial Reporting Standards (IFRS) and considering the number of 
+owner-managed business, the MoF will work closely with the Chamber of Commerce to adopt 
+the Small and Medium-sized Entities Guidelines on Accounting (SMEGA) Level 3 issued by the 
+United Nations Conference on Trade and Development (UNCTAD). Instead of an audit report 
+that will increase the cost burden of small businesses, the tax authorities will consider relying on 
+an ‘Accountant Report’ for businesses with a certain level of turnover to be determined after due 
+consultation with relevant stakeholders. As security improves and with more establishment of 
+Significant Public Interest Entities and Other Public Interest Entities, mechanisms for application 
+ 
+Sub-component 2.3: Concessions, procurement and contract management (US$1,000,000) 
+ 
+55. Public Procurement regulatory framework and stores regulations are outdated with no well-
+functioning procurement system in place. This sub component will primarily support the FGS‘s 
+public procurement reform and capacity building strategy preparation and implementation of 
+immediate and medium term activities. As recommended by the MoF, the government’s draft 
+public procurement strategy is the basis for these interventions. This sub-component will 
+specifically fund the activities in the following areas: (i) legal and regulatory framework capacity 
+building;  (ii) institutional capacity building; (iii) procurement capacity assessment and 
+development of capacity building strategy followed by training programs; (iv) monitoring and 
+oversight capacity building (to enhance integrity and transparency of procurement). These 
+activities will pave way for long term public procurement reform initiatives to embed sound 
+supply chain and contract management. 
+ 
+Sub-component 2.4: Bespoke Financial Management Information Systems (FMIS) 
+(US$4,380,000) 
+ 
+56. A detailed needs assessment has been undertaken as part of the ongoing project for the 
+Federal Government (P146006) and a similar approach is ongoing for Somaliland for a Bespoke 
+Financial Management Information System (FMIS) that is user-friendly, robust and secure and 
+focusing in the first instance on; capturing the approved budget, purchasing, treasury functions, 
+payroll, tax collection and financial reporting. The following outputs have been delivered to date: 
+(i) Statement of user requirements (SOUR) – hardware and applications; (ii) conceptual design 
+with business process maps; (iii) system design document including conceptual diagram of the 
+FMIS architecture with key functional components of the proposed solution; (iv) upgraded 
+standard chart of accounts (SCoA); (iv) change management and training plan; and (v) an interim 
+bespoke FMIS for treasury management with user guide. This has enabled the Federal 
+ 
+20
+Government to periodically post reliable financial reports on its website16 and thus living up to 
+its commitment of transparency.  
+ 
+57. This project will continue the modular-incremental implementation path with emphasis on 
+Training-of-Trainers (ToT) to create a cohort of FMIS super users who will be competent in 
+supporting and maintaining the system in a sustainable manner and only escalating to the 
+developers for second level support. Inclusive change management and extensive training for 
+various categories of users and sensitization of the political class and the public will form a 
+critical aspect of the implementation approach. This project will build on the interim solution and 
+support the deployment of a web-based version with more modules and features accessible 
+through a dedicated MoF Intranet (not internet!) that will provide secured access using latest 
+security technology ensuring that only certified computers can have access to the system. Except 
+for any proprietary software that is used; the design schemas, operational and technical 
+documentation, and source code of the beskope application will be regulated by a Software 
+Escrow Agreement to manage the ownership and relationship (administrative, financial, material, 
+legal, etc) between the government and the FMIS developers.    
+ 
+Sub-component 2.5: Modernizing Central Bank of Somalia banking operations and financial 
+control environment (US$2,000,000) 
+ 
+58. CBS core banking operations and systems are completely manual with no written procedures 
+and incomplete records. As Somalia emerges from crisis, the volume of banking and accounting 
+transactions processed is expected to grow considerably. This is expected to exert operational 
+and financial control pressures and put additional strain on the manual banking and accounting 
+systems. CBS needs to play its part in building up its operations and support use of country 
+system by operating settlement accounts and maintenance of statutory reserve accounts for 
+licensed financial institutions; operating an inter-bank system and constructing a national 
+payment system; conducting monetary policy and foreign exchange operations. This will form 
+the foundation for potentially linking with the other central banks and forge the beginnings of an 
+interlinked national/federal payment system.  Implementation of strong core banking operations 
+and accounting systems will allow the CBS to deliver on its mandate for traditional central 
+banking services and functions.  
+ 
+Component 3: Strengthening the integrity pillars (US$1,945,000) 
+ 
+Sub-component 3.1: Foundations for Supreme Audit Institutions (SAI) (US$1,795,000) 
+ 
+59. Even though the Supreme Audit Institution (SAI) is part of the state as a whole, it should 
+have the financial, functional and organizational independence laid down in the Constitution in 
+order for it to accomplish its statutory mandates. The SAI should have direct access to the 
+required human, logistics, tools and monetary resources without control by the Executive - the 
+Lima Declaration sections 5 and 7, Mexico Declaration on SAI Independence principle 8. 
+Therefore, this component will support implementation of appropriate Audit Laws to provide for 
+the legal and organizational independence of the Magistrate of Accounts and transform them to 
+                                                 
+16 http://mofep.gov.so/sfmis-generated-summary-of-the-government-revenue-and-expenditure-as-of-june-2013/  
+http://www.mof.gov.so/wp-content/uploads/2014/04/Budget-Utilization-Report-Jan-to-Dec-2013.pdf  
+ 
+21
+function in accordance with the core principles on SAI Independence: Lima Declaration of 
+Guidelines on Auditing Precepts adopted in October 1977.  
+ 
+60. A Strategy and Development Action Plan will also be prepared and benchmarked against the 
+SAI Performance Measurement Framework to enable compliance with the International 
+Standards for Supreme Audit Institutions (ISSAIs) and other established international good 
+practices for external public auditing. Also, the sub-component will support the Office of the 
+Auditor General in its efforts to improve their engagement with civil society and citizens as to 
+enhance the overall impact, relevance, and legitimacy of the audit process towards enhancing the 
+external oversight of public funds. 
+ 
+Sub-component 3.2: Planning, Finance and Public Accounts Committee (PAC) (US$150,000) 
+ 
+61. PAC existence and its success require three basic conditions: proper staffing and information, 
+non-partisan functioning of the committee, and media coverage. They undertake this oversight 
+function in two ways: they oversee the preparation of a given policy (ex-ante oversight), or they 
+can oversee the execution and the implementation of a given policy (ex-post oversight). A major 
+challenge facing SAIs is that quite often; their recommendations are ignored or not implemented 
+by government departments. This sub-component will support the strengthening of the planning, 
+finance and PAC secretariat with procedures to analyze budget, financial statements and audit 
+reports and provide technical advisory services to the committee members for conducting well-
+structured public hearings and vetting minutes with the Chairman before finalization. Also, 
+activities will support the design of follow-up mechanisms to ensure that audited bodies prepare 
+an action plan based on SAI observations and PAC recommendations which is tracked by the 
+SAI and comments provided in subsequent reports on how the audited bodies have responded to 
+the recommendations. Progress against implementation of recommendations when publicized 
+will provide non-state actors with information to advocate for accountability. 
+ 
+Component 4: Public financial management professionalization (US$1,000,000) 
+ 
+62. Beyond availability of good laws and institutional structures, PFM improvement requires 
+capability at the level of individual PFM practitioners. There is a dearth of suitably qualified 
+officers to perform critical PFM functions. A PFM education and training program will build 
+capacity at the individual level for planning and budget preparation officials, procurement 
+officers, accountants and internal and external auditors to obtain the required capability 
+knowledge, skills, abilities and other characteristics (values, integrity etc.). The education and 
+training program is geared to ensure learning to cover the PFM Process Architecture: Elements 
+and Components. To portray the right public service ethos, change management efforts 
+encompassing attitudinal and behavioral change will be required to complement the main output 
+of a cohort of technically skilled PFM practitioners to achieve the expected outcome of improved 
+PFM performance. Procurement will be included as a stream by collaborating with the 
+International Training Centre of the International Labour Organization (ITC-ILO17). The 
+education and training program when implemented will create a cohort of skilled PFM 
+practitioners with the required capabilities and competences to perform core PFM tasks across 
+                                                 
+17 http://www.itcilo.org/en - ITC-ILO in Turin–Italy  is a world-class provider of procurement management training and a pioneer in 
+developing procurement management training curricula for the UN, World Bank, European Union and OECD - 
+http://masterpublicprocurement.itcilo.org/  
+ 
+22
+government. Staff will also need to take personal responsibility for managing their career 
+development. A PFM for managers scheme will ensure that proper workplace coaching and 
+mentoring is provided to students.  
+ 
+Component 5: Public financial management oversight, coordination and management 
+(US$2,925,000) 
+ 
+63. The PFM Reform Oversight Committee (ROC) represents at managerial level the key 
+stakeholders. The ROC has authority because they are the decision makers and responsible for 
+the commitment of human and financial resources needed to implement the strategy successfully. 
+The Technical Steering Committee (TSC) members will be accountable for the success of the 
+various project activities and expected results. Since their responsibilities will be in addition to 
+their normal work, it is important that they direct the project by ‘management by exceptions’, 
+being regularly informed by Component Implementation Teams (CIT) and only asking for joint 
+decision making at key points in the project. 
+ 
+64. The Public Financial Management Reform Coordinating Unit (PFMRCU) will anchor the 
+reform and capacity building efforts. A Government PFM Reform Coordinator will be 
+responsible for day-to-day coordination of the reform activities and serve as the key interlocutor 
+for the Component Implementation Teams (CIT) and ensuring proper sequencing of activities 
+expected to be funded by various donors. PFM Subject Matter Experts (SMEs) will provide 
+technical assistance services with a clear capacity building and exit strategy with skills transfer 
+arrangements (hand-holding approach) by embedding the arrangements within government 
+structures and working closely with the CITs that will be led by heads of the key PFM 
+institutions.  
+ 
+65. Since the PFM legal framework cuts across the various PFM components; the PFMRCU will 
+coordinate the processes of ensuring enactment of and training on the various PFM laws. The 
+PFMRCU will also be responsible for change management; security and logistics; and 
+Monitoring and Evaluation (M&E) for the project.  
+ 
+66. Avoiding surprises by ensuring strategic communication to politicians about benefits of the 
+reforms including exactly what will change, when and how is crucial and will be undertaken 
+through information, education and communication (IEC) campaigns that will target key 
+stakeholders. 
+ 
+Component 6: Demand-driven Just-in-time services (Bank Executed) (US$1,000,000) 
+ 
+67. This component will be implemented by the Bank on behalf of the beneficiaries according to 
+paragraph (12)(d) of the Bank’s Operating Policy OP 10.00 due to insufficient capacity by the 
+beneficiaries to undertake such technical analytic and advisory work. The Recipient requested in 
+writing for the Bank’s execution of this component on their behalf. The bank executed 
+component will follow applicable internal Bank procurement rules and are limited to activities 
+which involve the procurement of small contracts for goods and works, and the provision of 
+technical assistance. 
+ 
+Sub-component 6.1: Social Accountability and Open Government Data (OGD) (US$500,000) 
+ 
+23
+ 
+68. Civil society organizations are emerging to clamor for government effectiveness but the 
+reality is that they are weak. In collaboration with social development specialists in the Bank, 
+support will be provided for establishing, providing tools and training ‘Issue-based Networks’ to 
+have space to work on a regular basis in advocating constructively for change in pursuit of the 
+social agenda. Advocacy networks for Campaign for Good Governance (CGG) comprising of 
+relevant non-sate actors are critical elements of the integrity pillar and will also be trained to 
+undertake independent policy and budget analysis, revenue-watch and expenditure-tracking. As 
+the reforms progress and in anticipation of spending on social services, Public Expenditure 
+Tracking Surveys (PETS) will be undertaken. The results of the PETS will form part of the 
+annual PFM forum and will form part of the information used to judge public perceptions about 
+PFM performance. 
+ 
+69. Making key fiscal data available to the public through Open Government Data portals will 
+provide a platform for holding government accountable for the use of public funds. To push the 
+boundaries for fiscal transparency, support will be provided to disseminate fiscal datasets 
+(revenue and expenditure) in accessible formats (i.e., soft copy), by working closely with the 
+BOOST Initiative18. 
+ 
+Sub-component 6.2: Governance/PFM reviews and advisory notes (US$500,000) 
+ 
+70. The objective is to provide actionable PFM policy notes that respond to emerging PFM 
+issues. Support will be provided by working closely with key government counterparts to 
+formulate focused policy notes that will guide choice of appropriate interventions in tackling 
+socio-economic issues. Support will be provided for conducting a joint-PEFA assessment 
+through a government task force that will be established with participation of development 
+partners and non-state actors. This assessment will provide an opportunity to make adjustments 
+to the reform action plans and feed into the project M&E. 
+ 
+71. With the objective of reforming and modernizing customs administration to increase its 
+efficiency, effectiveness and accountability, and promote trade facilitation; the project will seek 
+to apply the Customs Assessment Trade Toolkit (CATT) targeting subject to political 
+acceptance, the Berbera seaport and Hargeisa airport in Somaliland; the Bosasso seaport in 
+Puntland; the Mogadishu seaport and Mogadishu international airport; Kismayo seaport in the 
+Interim Juba Administration may not be possible at this point as the regional government is just 
+emerging. From the evaluated relative strengths and weaknesses, a performance improvement 
+plan will be prepared for implementation to bring the various customs administration to good 
+practices. 
+ 
+B. Project Financing 
+Lending Instrument 
+ 
+72. The project will be financed by the Somalia Multi-Partner Fund (TF072283) that has been 
+designed to “provide a financing platform to support a coordinated international approach to 
+                                                 
+18 http://wbi.worldbank.org/boost/about 
+ 
+24
+promoting stability and the sustainable reconstruction and development of Somalia, including in 
+core state functions and socio-economic recovery” (MPF Board Document, December 17, 2013). 
+The MPF is one of the key financing windows under the Somalia Development and 
+Reconstruction Facility. The MPF has received contributions from UK, Sweden and EU and 
+further contributions are under consideration from Italy, Germany, Norway, Denmark and 
+Finland. Overall funding levels are estimated at around US$250 million in the first three years of 
+the MPF and a multi-year funding pipeline has been approved for the MPF for this period. The 
+main criteria to be met to participate in the program is the establishment of the project oversight 
+and implementation structures including the external assistance fiduciary section (EAFS). In the 
+case of Somaliland, commitment to the reforms will be assessed by submission of the PFM bills 
+to Parliament.  
+ 
+ 
+Project Cost and Financing 
+ 
+73. The table below sets out the expenditure categories and percentages to be financed out of the 
+total grant proceeds of US$20 million. The grant will be divided between US$10 million to be 
+signed in 2015 and a further US$10 million to be signed in 2016 according to the agreed multi-
+year funding pipeline agreed with donors and the authorities. The unallocated amount will form 
+part of the expenditure category. Bank account maintenance and commission charges for the 
+designated accounts will be financed by the grant.   
+ 
+Project Components 
+Project 
+cost  
+(US$)  
+Percentage of 
+expenditure to be 
+financed 
+(inclusive of 
+Taxes) 
+Component 1: Revenue mobilization, planning and budget 
+preparation 
+ 
+Component 2: Treasury management, budget execution, procurement, 
+accounting and financial reporting 
+  
+Component 3: Strengthening the integrity pillars 
+ 
+Component 4: Public financial management professionalization 
+ 
+ 
+Component 5: Public financial management reform oversight, 
+coordination and management 
+  
+Component 6: Demand-driven Just-in-time services (Bank Executed) 
+ 
+Unallocated (performance based and physical/price adjustments) 
+  2,750,000 
+ 
+  9,880,000 
+ 
+ 
+  1,945,000 
+ 
+  1,000,000 
+ 
+  2,925,000 
+ 
+ 
+  1,000,000 
+ 
+     500,000 
+100% 
+ 
+100% 
+ 
+100% 
+ 
+100% 
+ 
+100% 
+ 
+ 
+100% 
+ 
+ 
+100% 
+Total Project Costs 
+Total Financing Required 
+Multi-Partner Fund 
+20,000,000 
+20,000,000 
+20,000,000 
+100% 
+ 
+ 
+25
+C. Project Components by Regions   
+74. Table 1 below provides breakdown of the project cost for the various components depending 
+on which particular activity will be implemented by the Federal Government of Somalia, 
+Puntland State of Somalia or Government of Somaliland.  Emerging federal member states will 
+be considered in future phases of the project depending on availability of funding; the federal 
+member state’s commitment to reforms and security considerations. 
+Table 1: Budget Estimates by Components  
+Budget estimates by components/sub-components           
+(2015-2018) 
+FGS 
+PL  
+ SL  
+BE 
+US$ 
+(‘000) 
+% 
+1. Revenue mobilization, planning and budget preparation 
+1,705  1,045  
+     -          -  
+  2,750  14% 
+1.1 Strengthening planning and budget preparation 
+  315  
+  315  
+      -  
+       -  
+    630  
+ 
+1.2 Revenue mobilization and tax administration 
+1,390  
+  730  
+      -          -  
+ 2,120  
+ 
+2. Treasury management, budget execution, procurement, 
+accounting and financial reporting 
+ 
+5,525  
+2,400  1,955  
+       -  
+  9,880  51% 
+2.1 & 2.2 Treasury management and budget execution; 
+accounting and financial reporting 
+1,250  
+  750  
+  500          -  
+  2,500  
+ 
+2.3 Concessions, procurement and contract management  
+   500  
+  250  
+  250          -  
+  1,000  
+ 
+2.4 Bespoke Financial Management Information System 
+(FMIS)  
+1,775   1,400  1,205          -  
+  4,380  
+ 
+2.5 Modernizing Central Bank of Somalia banking operations 
+and financial control environment 
+2,000  
+     -  
+     -  
+ 
+   2,000  
+ 
+3. Strengthening the integrity pillars  
+   775  
+  645     525  
+       -  
+  1,945  10% 
+3.1 Foundations for Supreme Audit Institutions (SAI) 
+  725  
+  595  
+  475  
+       -  
+  1,795  
+ 
+3.2 Planning, Finance and Public Accounts Committee (PAC)  
+     50  
+    50  
+   50          -  
+     150  
+ 
+4. Public financial management professionalization  
+   500  
+     -     500          -  
+  1,000  
+5% 
+4.1 Fees for faculty and course administration expenses 
+   100  
+     -  
+  100          -        200  
+ 
+4.2 WYG Consortium fess and reimbursable expenses 
+   100  
+       -  
+ 100  
+ 
+      200  
+ 
+4.3 Procurement stream by International Training Centre of 
+the International Labour Organization (ITC-ILO) 
+  300  
+      -  
+ 100  
+ 
+    400  
+ 
+4.4  Upgrading of ICT infrastructure and other logistics  
+       -  
+       -  
+  200  
+     -  
+     200  
+ 
+5. Public financial management reform oversight, 
+coordination and management 
+   995     910  1,020  
+       -  
+  2,925  15% 
+5.1 ROC, TSC, PFMRCU and related expenses  
+  295  
+  710  
+  920  
+       -  
+ 1,925  
+ 
+5.2 Association of Somali Professional Accountants (ASPA) 
+  200  
+ -  
+ -  
+ -        200  
+ 
+5.3 Security and logistics 
+   500  
+200  
+  100  
+       -  
+    800  
+ 
+6. Demand-driven Just-in-Time support (JIT) (Bank 
+Executed) 
+      -  
+       -  
+      -  1,000  
+  1,000  
+5% 
+6.1 Social accountability; non-state actors; citizen 
+engagement; open government data platform including data 
+migration; and public expenditure tracking surveys (PETS) 
+      -  
+      -  
+      -  
+  500  
+     500  
+ 
+6.2 PFM Reviews: CATT; PEFA/code of good practices on 
+fiscal transparency and advisory notes 
+      -  
+       -         -  
+  500  
+    500  
+ 
+Total Base Cost 
+9,500  
+5,000  4,000  1,000  
+ 19,500  100% 
+Unallocated (performance based and physical/price adjustments) 
+    500  
+ 
+ 
+26
+Total financing required 
+20,000  
+ 
+Proportion of overall project budget excluding unallocated 
+49% 
+26% 
+21% 
+5% 
+100% 
+ 
+D. Lessons Learned and Reflected in the Project Design 
+75. With Bank’s technical guidance and funding from DFID; Ernst & Young (EY) provided 
+technical assistance for: (i) hands-on support to the Parliamentary Finance Committee for 
+conducting public hearing on the 2012 audit report and a procedures manual to do this on a 
+consistent basis, drafting an Audit Bill; (ii) organizational structure and job description for the 
+Accountant General's Department including scheme of service and establishment of the External 
+Assistance Fiduciary Section (EAFS),  development of operations manual and conducting 
+training; and (iii) proving comments on the Public Financial Management Bill. Two individual 
+consultants also supported the implementation of an interim financial management information 
+system that was used to capture transactions for 2013 and produce fiscal reports that are made 
+public on the ministry of finance website. These quick-wins have provided impetus for this 
+longer-term project.  
+ 
+76. Progress to date in implementing the SPF funded US$4.5 million PFM capacity 
+strengthening project (P146006) include: (i) project coordinating unit and external assistance 
+fiduciary section operational and producing project progress reports and interim financial reports 
+as required by the Grant Agreement19; (ii) upgraded the standard chart of accounts (SCoA) from 
+two segments (organization and economic) to a multi-dimensional structure including: 
+organization; fund; programs/projects; economic; and geographic locations. The new fund and 
+program segments are being piloted with the WB-funded projects using country systems and this 
+allows linkage to the ERP. The organization segment has also been mapped to allow for 
+production of reports by Classification of Functions of Government (COFOG) and Peace and 
+State Building Goals (PSG). The economic segment is used to produce IMF-GFS reports; (iii) 
+the budget execution and payment process is well documented in the SFMIS Conceptual Design 
+and User Guide and includes step-by-step flow charts and MoF is recording transactions in the 
+SFMIS to produce in-year budget performance reports but with delay caused by late passage of 
+the 2014 budget in 2014; (iv) PFM education and training program steering committee 
+established and selection of 175 students (of which 14% are female) from the civil service in 
+FGS and Puntland completed, self-study introductory course outline agreed for registered 
+students to help them get started on their studies before the initiation of the online distance 
+learning (ODL); and hands-on budget preparation training focusing on revenue forecasting 
+techniques  held in Nairobi between September 8-12, 2014. 
+ 
+77. The long-term vision for international engagement in fragile states is to help national 
+reformers to build effective, legitimate, and resilient state institutions, capable of engaging 
+productively with their people to promote sustained development. To realize this objective, the 
+design of the project took account of the OECD Principles for Good International Engagement in 
+Fragile States and Situations (April 200720) and Rebuilding Fiscal Institutions in Post-conflict 
+Countries21. 
+                                                 
+19 http://www.mof.gov.so/public-financial-management-pfm/ 
+20 The OECD Principles for Good International Engagement in Fragile States and Situations were formally endorsed by ministers and heads of 
+agencies at the Development Assistance Committee’s High Level Forum on 3-4 April 2007. 
+21 International Monetary Fund Washington DC 2005:8 
+ 
+27
+ 
+78. The principles for “reforming internal agency systems to support rapid action to restore 
+confidence and long-term institution building”22 are adopted in the design of this project. A clear 
+exit strategy will be developed to ensure a smooth transfer of skills over the medium-term. Firms 
+will be identified as independent financial monitoring agents to provide additional assurance that 
+project funds are used for the intended purpose.  
+ 
+79. With due consideration for the Somalia specific situation the implications and 
+recommendations that emerged from PFM reforms in Fragile and Conflict-Affected States 
+(FCS), a study by Overseas Development Institute and Centre for Aid and Public Expenditure 
+sponsored by the Bank on PFM reforms in Fragile and Conflict-Situations (FCS) in eight 
+countries23 were applied in the design of this projects as shown in the Table 2 below.  
+ 
+Table 2: Lessons Learnt From PFM Reforms in Fragile and Conflict-Affected States 
+Implications and recommendations  
+Related design features 
+i. Consider country context (and existing 
+incentives 
+for 
+local 
+stakeholders) 
+systematically in deciding if and how to 
+intervene on strengthening PFM systems. 
+The political class and civil servants are desirous 
+of embarking on PFM reforms which is a top 
+priority in the President’s six pillar policy. 
+ii. Development partners have an opportunity 
+to use aid allocations and aid modalities in 
+ways that incentivize sustained PFM 
+improvements and can also make a 
+fundamental 
+contribution 
+to 
+reducing 
+fragmentation of public finances. 
+Joint reform oversight mechanism including 
+broad government stakeholders and development 
+partners has been established to encourage 
+mutual accountability and will be done by 
+tracking funding of the reforms through 
+government reporting and accountability systems 
+and using a common set of performance 
+indicators. 
+ 
+The Special Financing Facility (SFF) funded by 
+Norway and the Somaliland Development Fund 
+(SDF) funded by DFID, DANIDA, Norway and 
+the Netherlands both provide opportunities to 
+incentivize PFM reforms.  Other sector specific 
+aid could also be released by tranches linked to 
+progress in PFM reforms.  
+iii. Developing clear reform plans based on 
+emerging 
+analysis 
+and 
+the 
+periodic 
+updating of such plans will help ensure that 
+approaches to PFM reforms and the 
+provision of support are strategic and 
+focused. 
+Both South-Central and Somaliland embarked 
+on a PFM self-assessment and developed a 
+country-owned PFM reform strategy and action 
+that underpins this project. In South-Central, the 
+Council of Ministers deliberated on and 
+endorsed the PFM reform action plan on May 2, 
+201324; the plan was also submitted to the 
+                                                 
+22 World Development Report 2011:277 
+23 The eight countries are Sierra Leone, Liberia, Afghanistan, Cambodia, Democratic Republic of Congo, Kosovo, Tajikistan and 
+West Bank and Gaza. The lessons learnt have also been included in a Synthesis Report on PFM Reforms in Post Conflict States 
+authored by Verena Fritz. 
+24 http://www.midnimo.com/2013/05/02/somali-government-adopts-new-public-finance-management-policy/  
+ 
+28
+Parliamentary Financial Treasury Committee of 
+the Parliament for their attention. 
+iv. There are distinct reform challenges and 
+opportunities across the three key phases of 
+the 
+budget 
+cycle 
+(budget 
+planning, 
+execution, and accountability). 
+The project activities respond distinctively to the 
+specific challenges identified in the budget cycle 
+during the self-assessments. The stakeholder 
+analysis also identifies the major entry points 
+and the change path.  
+v. Legal and institutional reforms are an 
+integral part of strengthening PFM systems 
+in post-conflict environments, but there is 
+less of a need to front-load these reforms 
+than has been suggested by previous 
+analysis. 
+Since the public sector is rules-based; PFM 
+cannot operate optimally in the absence of a 
+robust legal framework. There are serious 
+concerns that the PFM Bills developed for 
+Somaliland since 2011 are yet to be enacted. 
+This project will assist in securing their 
+enactment of PFM Bills in the three regions.  In 
+the interim assistance will be provided in issuing 
+Ministerial Orders or Treasury Circulars. 
+vi. Strengthening 
+capacity 
+development 
+requires a phased and layered approach that 
+includes addressing capacity constraints in 
+the short term as well as pursuing longer-
+term improvements. 
+The reform action plan follows a platform 
+approach with specific objectives of each phase 
+in an incremental manner. ‘Quick-wins’ are 
+identified to be implemented to demonstrate the 
+benefits of the reforms.   
+ 
+Lessons are drawn from the ongoing PFM 
+Capacity Strengthening Project (P146006): an 
+efficient coordination mechanism is critical 
+within government PFM stakeholders and 
+amongst DPs;  expectations need to be managed 
+as reforms take time especially with the fragile 
+situation in Somalia; important to focus on key 
+building blocks at the onset of the reforms; and 
+the 
+‘people-factor’ 
+is 
+critical 
+for 
+the 
+sustainability of the reforms and therefore, the 
+education and training program is the flagship of 
+the project to create a cohort of suitably qualified 
+PFM practitioners. 
+vii. Development partners and governments 
+should consider monitoring tools that 
+complement PEFA reports to provide a 
+stronger focus on results chains and on the 
+impact of strengthened PFM systems on 
+service delivery and state building. 
+PEFA is planned as part of the mid-term review 
+of the action plans. The ‘New Deal’ Peace-
+building and State-building Goals (PSGs) 
+particularly goal 5 are aligned with the overall 
+government recovery agenda. Criteria for debt 
+relief will also be aligned with the PFM reform 
+indicators. 
+viii. 
+A more structured inclusion of sectors 
+and subnational levels—going beyond a 
+focus on ministries of finance—should be 
+emphasized to ensure impact of efforts at 
+Considering the generally weak PFM capacity, 
+the approach adopted is to first strengthen the 
+Central Finance Agencies (CFA) extensively 
+before decentralizing PFM operations. In the 
+ 
+29
+strengthening PFM systems. 
+case of Somaliland where there is relative 
+security beyond the capital city, in phase II, the 
+FMIS and accounting and reporting will be 
+piloted in 4 out of the 7 Grade ‘A’ Districts - 
+Hargeisa, Berbera, Boruma, and Burao) and also 
+at the Hargeisa Water Agency. All sub-national 
+activities will be undertaken in close partnership 
+with the UN-JPLG. The FMIS will also be 
+piloted at Ministry of Education, Health, and 
+Agriculture. 
+ix. As emphasized in the 2011 WDR, 
+institutional transformations require a time 
+horizon of at least 20 years, underlining the 
+long-term support needed for achieving and 
+consolidating strengthened PFM systems. 
+A sequenced approach is adopted for the 
+reforms. Considering the political environment, 
+the first phase (2013-2016) is synchronized with 
+the life of the current Federal Government 
+before elections are due. A comprehensive 
+review of the PFM reform efforts will be 
+undertaken to develop the next generation of 
+reforms. 
+x. The reasons for the lack of a clearer link 
+between the level and pace of PFM 
+improvements 
+and 
+service 
+delivery 
+improvements need to be better understood 
+to enable more targeted engagement. 
+Improvements in budget classification as part of 
+the ‘quick-wins’ of the project will provide basis 
+for strategic allocation of resources for service 
+delivery. Publication of disaggregated financial 
+statements by projects and regions will also 
+allow citizens to provide feedback on service 
+delivery 
+and 
+improve 
+transparency 
+and 
+accountability.   
+ 
+IV. IMPLEMENTATION 
+A. Institutional and Implementation Arrangements 
+80. The project will be Recipient-Executed (RE) to ensure ownership and sustainability. Under 
+the existing exceptional circumstances of acute institutional capacity constraints, the State and 
+Peace Building Fund has catalysed the PFM strengthening efforts and this reform program will 
+build on the ‘quick-wins’ through the Multi-Partner Fund (MPF). Using the flexibility in 
+preparation and implementation provided by the new OP 10.0025, the team, in close consultations 
+with fiduciary and safeguards colleagues, is taking advantage of the flexibility provided to fragile 
+and capacity-constrained countries like Somalia. This provides the opportunity to conduct more 
+efficient and better-quality preparation by deferring fiduciary, environmental, and social 
+safeguards to the first year of implementation of the Project.  
+ 
+81. The PFM Reform Oversight Committee (ROC) is set at the political level and has authority 
+because they are the decision makers and responsible for the commitment of human and financial 
+                                                 
+25 The fiduciary and environmental and social requirements set out in OP/BP 4.01, OP/BP 4.10, OP/BP 4.11, OP/BP 4.12, BP 10.00, and OP/BP 
+11.00 that are applicable during the Project preparation phase may be deferred to the Project implementation phase. 
+ 
+ 
+30
+resources needed to implement the strategy successfully. The ROC will report to the Office of 
+the President that set the political tone for the broad governance reform agenda and manage any 
+resistance to the reforms. 
+ 
+82. The Technical Steering Committee (TSC) members comprising of Heads of the various PFM 
+institutions and line ministries representing key front-line service delivery will be accountable 
+for the success of projects to implement the reform strategy. The TSC will be responsible for 
+providing technical guidance for meeting the reform objectives and ensuring cohesion and 
+coordination of the various components by reviewing and endorsing annual work plans and 
+budgets. 
+ 
+83. A Public Financial Management Reform Coordinating Unit (PFMRCU) in the Ministry of 
+Finance will anchor the reform and capacity building efforts. A government PFM reform 
+coordinator will be responsible for day-to-day coordination of the reform activities and serve as 
+the key interlocutor for the Component Implementation Teams (CIT) and ensuring proper 
+sequencing of activities expected to be funded by various donors. The CITs will be led by the 
+functional heads responsible for the PFM subject matter with sub-groups of inter-departmental 
+members formed to deal with specific issues. This will ensure broad understanding, consensus 
+and ownership during implementation. This approach puts the core government functionaries at 
+the centre of the implementation to engender skills transfer and sustainability.  
+ 
+84. The Bank project team is multi-disciplinary to ensure successful implementation and 
+monitoring of this project.  The team is led by a task team leader (TTL) with hands-on 
+experience of leading similar PFM reforms as a government PFM practitioner and also in 
+designing and supporting similar reforms in fragile-state environment. The fragile and conflict 
+situations hub has created a solutions team with a mandate to gather and disseminate best 
+practices in response to the unique implementation challenges in FCS and bring those lessons 
+“straight to the doorstep” of task teams.  
+ 
+B. Results Monitoring and Evaluation 
+85. The PDO level indicators are kept to a reasonable number for which the expected outputs are 
+directly arise from the component activities. The intermediate outcome indicators and other 
+targets/outputs collectively contribute to the PDO. Consistent with the TRUST principles in the 
+‘New Deal’, instead of creating parallel requirements for external assistance; Development 
+Partners can align with the government key performance indicators which will be used by the 
+PFM reform steering committee to monitor and evaluate implementation of the reform action 
+plans. Yearly targets will be set at the reform component level and this will guide the preparation 
+of Annual Work Plans (AWP) and budgets.  
+ 
+86. Monitoring and evaluation of the project will occur at two levels: (i) The PFM reform 
+oversight committee will carry out the monitoring and evaluation at the policy level by relying 
+on reports from the PFMRCU.  Component implementation team members will be involved in 
+compilation of progress reports complemented by the additional data and surveys obtained from 
+the PETS. The annual PFM forum will also provide an opportunity to obtain citizens’ perception 
+of PFM performance; and (ii) the Bank will also monitor the project through its supervision and 
+ 
+31
+implementation support missions. Reliance will also be placed on the independent fiduciary 
+agents. 
+ 
+C. Sustainability 
+ 
+87. The project design provides reasonable assurances regarding the sustainability of the 
+activities supported and outcomes expected. The project components are based on formal request 
+from the authorities as part of the key priorities in the government-owned PFM reform strategy. 
+The high degree of ownership of the reform package at the technical and managerial level and 
+the determination form the political leadership are indications for successful and sustained 
+implementation of the reform agenda.  
+ 
+88. Capacity substitution is avoided as far as possible with alternative arrangements of capacity 
+supplementation through subject matter experts who will be providing technical assistance with 
+rigorous hand-holding for skills transfer. The design of the training program demonstrates good 
+practice principles to ensure sustainability by putting in place a mechanism to gradually build 
+internal capacity to take over functional responsibility from expatriate consultants. 
+ 
+89. PFM in Somalia is receiving high visibility by the internal community as demonstrated by 
+the May 7 London Conference26 where various development partners pledged their support to the 
+government reform agenda. Also, as part of the ‘New Deal’ 'focus' in engaging in fragile states, 
+the Government-owned PFM reform strategy provides "One vision-one plan" to form a compact 
+that will be used in ensuring harmonization and donor coordination, reducing duplication, 
+fragmentation and programme proliferation. Furthermore, the PFM dialogue will be sustained as 
+part of the debt relief/arrears clearance. Civil society organizations though nascent and the 
+emerging vibrant Parliaments also provide an opportunity for continuous state-society 
+engagement. 
+ 
+V. KEY RISKS AND MITIGATION MEASURES 
+A. Risk Ratings Summary Table 
+Risk Category 
+Rating 
+1. Political and Governance 
+Substantial 
+2. Macroeconomic 
+High 

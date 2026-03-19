@@ -1,0 +1,842 @@
+[
+  {
+    "project_id": "P171570",
+    "project_name": "Somalia Reengagement and Reform Development Policy Financing",
+    "instrument_category": "DPF",
+    "approval_year": 2020,
+    "status": "Closed",
+    "doc_type": "Program Document",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "To break out of the trap of political strife, fragility, and violence in Somalia, the Government must build its legitimacy by delivering of public goods and services.",
+        "rationale": "The Program Document situates all reforms squarely within Somalia's fragility narrative. The SCD and NDP9 are cited to frame the four pillars linking security, governance, and economic growth. Al-Shabaab exploitation of unemployment is noted in the country context. Fiscal federalism tensions between FGS and FMSs—themselves a fragility driver—are explicitly addressed through Prior Actions on revenue sharing. Security sector wage bill and PFM vulnerabilities are documented. However, the analysis does not go deep on clan-based political economy dynamics, does not systematically map conflict-economy linkages, and treats fragility primarily as macroeconomic governance failure rather than a multi-dimensional phenomenon."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Prior actions under the DPF are expected to have positive poverty and distributional effects in the medium to long term. Data limitations constrain short-term quantitative analyses of the poverty and social impact of the prior actions.",
+        "rationale": "The poverty and social impact analysis (PSIA-lite) is present but explicitly acknowledges data limitations preventing short-term distributional analysis. Conflict-sensitivity of specific reforms is mostly implicit: the Company Law, Revenue Administration Law, and mobile money regulations could differentially affect clan-controlled economic networks or benefit elite actors disproportionately, but this risk is not systematically assessed. The document does note that 'elite capture' risks exist in the private sector regulatory context ('heighten the risks of elite capture and reduce trust') but does not trace reform pathways through a conflict sensitivity lens. The DPF instrument by nature lacks safeguards provisions equivalent to IPF."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Somalia's chronically low level of revenue mobilization critically limits the government's ability to provide the public goods (security, first and foremost), invest in human and physical capital, and deliver public services that the country needs to reestablish the social contract.",
+        "rationale": "The document explicitly frames reforms through the lens of social contract rebuilding, recognizing that 70%+ of the population lives in poverty and that the poor are differentially vulnerable to state failure. Mobile money regulation is framed as protecting 'consumer funds, which the poor cannot afford to lose.' IDPs and women are mentioned in the country context. Fiscal federalism prior actions explicitly address FMS populations as marginalized by revenue exclusion. However, there is no disaggregated beneficiary analysis by clan, IDP status, region, or gender for the specific prior actions."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 9,
+        "rating": "Strong",
+        "key_quote": "This DPF builds on lessons emerging from DPFs prepared in fragile environments, especially as part of a reengagement process. An Independent Evaluation Group (IEG) report on engaging with fragile states highlights the need to focus on politically feasible reforms that can build momentum for future changes, with an emphasis on restoring and strengthening basic state functions.",
+        "rationale": "State-building is the explicit primary objective of the entire DPF. HIPC arrears clearance—the centerpiece of the operation—is itself a state normalization instrument. All six prior actions directly strengthen state institutional capacity: PFM Law (debt management), Revenue Administration Law (state revenue), fisheries revenue-sharing (intergovernmental legitimacy), Company Law (state regulatory authority), Interconnection Regulation (state regulatory presence in ICT), and Mobile Money Regulation (CBS supervisory legitimacy). The document explicitly links fiscal reforms to social contract rebuilding and state legitimacy. The IEG-informed design principle of 'politically feasible reforms' for fragile reengagement contexts is applied. This is the strongest dimension of the document."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Usage is high in rural as well as urban areas, and by women as well as men. An estimated 155 million transactions take place each month on average.",
+        "rationale": "Gender is mentioned incidentally in the context of mobile money usage patterns. There is no standalone gender analysis, no sex-disaggregated beneficiary targets, and no gender action plan. The prior actions do not include gender-specific measures. The PSIA notes that 'low-income individuals in Somalia tend to be self-employed or own a small business' but does not apply a gender lens to business regulation impacts. Given Somalia's extreme gender inequality context, this is a meaningful gap."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Risks to the economic outlook are high. Over the medium term, economic activity is likely to continue to be exposed to significant risks related to insecurity in Mogadishu and southern Somalia.",
+        "rationale": "The DPF instrument has inherent rigidities compared to IPF (no CERC, no TPM provisions). The document acknowledges high risk from insecurity and models a security shock in its debt sustainability analysis. The programmatic sequencing (prior actions building on previous WBG engagement) provides a form of adaptive management through the reform trajectory, but within a single-tranche operation there is limited formal adaptive mechanism. The document notes working with 'development partners to ensure coordinated and complementary reforms' which provides some flexibility. DPF context procedures for fragile states are implicit in the two management-granted exceptions but not framed as FCV-specific adaptive measures."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Throughout the HIPC process, the World Bank has closely collaborated with other IFIs. Specifically, the World Bank has worked closely with the IMF in reforms concerning fiscal management and financial sector regulation. There has been close collaboration with the AfDB to coordinate progress on seeking resources to support arrears clearance.",
+        "rationale": "The document demonstrates strong multi-partner coordination (IMF, AfDB, EU, UN agencies, bilateral partners) on the HIPC process and DPF prior actions. The Financial Governance Committee (FGC) with FGS and international partners provides an ongoing institutional coordination mechanism. Security sector PFM is explicitly addressed through the Security and Justice PER and biometric verification of security forces. However, there is no explicit coordination with AMISOM, UN political mission (UNSOM), or security actors on the peace dimensions of the reform agenda."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 4,
+        "rating": "Partially Addressed",
+        "key_quote": "Data limitations constrain short-term quantitative analyses of the poverty and social impact of the prior actions.",
+        "rationale": "The results framework uses standard DPF outcome indicators (revenue collection growth %, online business registrations, mobile money operator interconnections). These are technically measurable but are not FCV-sensitive indicators tracking conflict dynamics, social cohesion, or state legitimacy. No third-party monitoring arrangements are mentioned. The document explicitly acknowledges data limitations. There is no FCV-specific M&E framework or provision for monitoring how reforms land in conflict-affected areas outside Mogadishu."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "Conflict risk is acknowledged and the DPF prior actions are designed with fragility in mind. The IEG fragile states lesson on politically feasible reforms is applied. Security shock is modeled in macroeconomic outlook. Risk does not appear unmitigated."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": true,
+        "rationale": "The document explicitly states 'Data limitations constrain short-term quantitative analyses of the poverty and social impact of the prior actions.' No analysis of how reforms differentially affect clan-controlled economic networks, IDPs, or women is provided. For a DPF in a Tier 1 FCV context, the absence of a conflict-sensitive PSIA is a material gap."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "OP 7.30 is not triggered per the legal table. Somaliland is referenced but the FGS-Somaliland political arrangement is addressed through fund flow conditionality in other projects. The DPF is an FGS-level instrument with FMS revenue-sharing explicitly addressed."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": true,
+        "rationale": "The document acknowledges that 'the business regulatory environment suffers from weak (or absent) rules and inadequate enforcement, which heighten the risks of elite capture and reduce trust' but does not include specific mitigation measures for elite capture in the prior actions or results framework. Revenue mobilization reform could be captured by politically connected firms. No independent oversight mechanism beyond the FGC (which itself involves insiders) is proposed."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "The debt sustainability analysis explicitly models a security shock scenario. The macroeconomic projections are conservative and explicitly conditioned on fragility risks. Somalia's macro framework is IMF SMP-anchored, providing external discipline."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 6.33,
+      "red_flag_count": 2,
+      "red_flag_deduction": 1.0,
+      "sensitivity_final": 5.33,
+      "responsiveness_raw": 6.2,
+      "responsiveness_final": 6.2
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P171570 is a technically sophisticated state-building DPF that treats fiscal reengagement as its core fragility response, with state-building (D4: 9) as its principal FCV contribution. However, the absence of a conflict-sensitive PSIA (RF2), unmitigated elite capture risk (RF4), weak gender analysis (D5: 5), and no FCV-adapted M&E (D8: 4) limit both Sensitivity (5.33) and Responsiveness (6.2) scores below the threshold for High FCV integration. The DPF instrument's structural constraints partially explain the responsiveness gap, but the document does not invoke FCV condensed procedures or adaptive mechanisms that would compensate."
+  },
+  {
+    "project_id": "P173088",
+    "project_name": "Somali Electricity Sector Recovery Project",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project's design builds on the World Bank's experience of supporting local institutions in FCV countries, with the goal of preserving local knowledge to improve service delivery and build back better.",
+        "rationale": "The PAD explicitly links electricity infrastructure destruction to decades of conflict and state fragmentation ('New private enterprises emerged to fill voids left by the collapse of central planning'). The FCV Strategy 2020-25 alignment is explicitly stated. The state legitimacy rationale—'increased electricity services provide an opportunity to the FGS to enhance its visibility, so that the Somali populace can quickly perceive benefits to the reestablishment of state authority'—is conflict-analytically grounded. HEIS is flagged. The Somaliland political complexity is addressed through a conditional fund flow arrangement. However, the PAD does not provide a structured conflict analysis mapping specific drivers, and the Somaliland $50M allocation lack of political economy analysis is a gap."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "The key E&S risks at the project level that will need to be taken into consideration as detailed assessment are carried out during the implementation are security risks, occupation health and safety, labor welfare and working conditions, labor influx, waste management, land acquisition and resettlement, legacy issues around existing sites of generation and distribution network.",
+        "rationale": "A Security Management Framework (Draft) has been prepared, as has a GBV Mitigation Action Plan. The ESMF screens for conflict-adjacent risks. Labor influx risks are identified, which is conflict-relevant in the Somalia context. The phased E&S assessment approach (SESIA to be done early in implementation) reflects pragmatic adaptation to FCV context. However, the document does not explicitly address how electricity access targeting could worsen clan-based grievances if distribution is seen as politically biased, nor does it analyze how ESPs (many private/clan-linked) could capture benefits."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Component 3 provides stand-alone solar off-grid access to public institutions (health and education)... Health centers/units include referral health centers, IDP health centers, primary health units, and IDP primary health units.",
+        "rationale": "IDP health centers and primary health units are explicitly included among the 585 social institutions to be electrified, directly targeting conflict-displaced populations. The project will benefit 1.1 million households including women (3.5 million people including females named explicitly). Marginalized areas ('that have seen themselves as marginalized for years or that are just emerging from conflict') are identified as priority beneficiaries. Stand-alone solar for public institutions is designed to serve populations outside the main grid—predominantly poorer and more conflict-affected. Sex-disaggregated beneficiary data is included in results framework."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "Increased and improved electricity services provide an opportunity to the FGS to enhance its visibility, so that the Somali populace can quickly perceive benefits to the reestablishment of state authority as it experiences improved service and economic dividends.",
+        "rationale": "The state-building rationale is explicit and central to the project design. Component 4 invests $15M in rebuilding the electricity supply industry's institutional infrastructure—National Electricity Authority, regulatory framework, sector governance—which is a direct state-building investment. The SOP (Series of Projects) vision explicitly links to institution-building over the long run. The project builds on WBG FCV experience (Yemen, Iraq, West Bank/Gaza) and WDR 2011 lessons. IFC coordination (para 58) is confirmed as an active joint-level collaboration."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Sub-component 4.5: Implementation of a Gender Action Plan... A preliminary gender assessment was conducted at project preparation to identify specific gender gaps in the energy sector, particularly barriers that limit career progression for women.",
+        "rationale": "A dedicated sub-component (4.5, $15M component budget) finances a Gender Action Plan with three activities: Diagnostic Gender Gap Assessment, Pilot Incubator for Women's Employment, and a detailed gender action plan. Women-only stakeholder consultation sessions are confirmed. Two gender-specific intermediate indicators are in the results framework (% women employed in energy sector; completion of diagnostic). Sex-disaggregated beneficiary data is collected. This goes beyond box-ticking and represents substantive gender integration."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project will rely on the existing institutional and implementation arrangements established under the ongoing SEAP... an independent monitoring and verification firm will be hired to provide independent audits (covering technical, fiduciary and safeguards among others).",
+        "rationale": "An independent monitoring and verification firm is mandated—a form of TPM appropriate for an infrastructure project. A Security Management Framework was drafted as a condition of project preparation. The BSSF (Business Support Services Firm) provides real-time adaptive support to ESPs. The SOP structure provides phased adaptive management across the program series. The SESIA (Sectoral E&S Impact Assessment) is designed to be completed early in implementation to feed back into project management—an adaptive learning loop. Somaliland fund flow conditionality with a midterm review cancellation trigger is a structured risk management mechanism."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Several development partners are active in the energy access space in Somalia and have been important partners... These include USAID, SIDA, and FCDO. Additionally, as project activities will also support the HOAI, it is expected that support from its key development partners (European Union and African Development Bank) could also be rallied.",
+        "rationale": "Development partner coordination in the energy sector is documented. IFC collaboration is confirmed at the Joint Level. However, there is no explicit engagement with AMISOM, UN MPTF, UNSOM, or peace process actors on the security dimensions of electricity infrastructure in conflict-affected areas. A security advisor is required at project effectiveness (legal covenant) which demonstrates awareness, but coordination architecture beyond development partners in the energy space is not documented."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "The M&E also includes several sex-disaggregated results indicators to monitor and assess both progress in implementing gender-related activities, including narrowing of identified gender disparities, and project benefits for women and men.",
+        "rationale": "The M&E system includes sex-disaggregated indicators and an independent monitoring and verification firm. PIU quarterly and annual reporting is mandated. However, the results framework is primarily infrastructure-focused (number of connections, kW installed, institutions electrified) and does not include FCV-sensitive indicators (e.g., community perceptions of state legitimacy from service delivery, conflict incident tracking near project sites, clan-equitable distribution of benefits). The phased E&S assessment approach means FCV-specific M&E may be built later in implementation."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "A Security Management Framework is drafted as a project preparation condition, a Security Advisor is required at effectiveness, and the ESMF identifies security as a key E&S risk with mitigation measures planned. Conflict risk is not unmitigated."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "Beneficiary analysis is conducted (1.1M households, IDP centers included, sex-disaggregated data), and the ESMF screens for distributional social risks. The analysis is not equivalent to a full PSIA but is adequate for an infrastructure IPF."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "Somaliland's $50M allocation is subject to a fund flow agreement between FGS and Somaliland, with a midterm review cancellation trigger if not accessed. This is a reasonable arrangement for the political context."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "The independent monitoring and verification firm provides external audit of fiduciary and safeguards performance. ESPs are private sector actors with business support services to improve governance. While clan-linked ESP capture risk exists, institutional mitigation is documented."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—this is an IPF, not a DPF. Economic/financial analysis uses conservative assumptions and explicitly acknowledges FCV-related implementation risks including insecurity and low capacity."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 6.67,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 6.67,
+      "responsiveness_raw": 6.8,
+      "responsiveness_final": 6.8
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P173088 demonstrates solid FCV integration across most dimensions, with explicit WBG FCV Strategy 2020-25 alignment, a state-building rationale that is central to the project design, a dedicated Gender Action Plan (D5: 7), and meaningful implementation safeguards (Security Management Framework, independent monitoring firm). Both composite scores narrowly miss the 7.0 threshold. The primary gap is the absence of a structured conflict analysis mapping specific drivers (D1: 7 rather than 9) and FCV-sensitive M&E indicators beyond infrastructure outputs (D8: 6). Stronger conflict-economy analysis and community-level FCV tracking would push this to High FCV integration."
+  },
+  {
+    "project_id": "P176956",
+    "project_name": "Somalia COVID-19 Emergency Vaccination Project",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Fragile State, Conflict, and HEIS are flagged. The project acknowledges ongoing armed insurgency and the constraints it places on healthcare access.",
+        "rationale": "The PAD flags Fragile State, Conflict, and HEIS as active checkboxes. The country context notes ongoing armed insurgency (Al-Shabaab) and clan structures affecting healthcare utilization. FCV is referenced. However, as an emergency response operation, the conflict analysis is not as structured as in a standard PAD—the focus is operational delivery under crisis conditions rather than deep political economy analysis. Vaccine hesitancy is analyzed through religious leaders and community engagement, which reflects awareness of social drivers of health behavior. The analysis is adequate for the instrument type (emergency PAD) but not comprehensive."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Armed forces use provisions are included in legal covenants. Security specialist required at effectiveness.",
+        "rationale": "A Security Specialist is required at effectiveness as a legal covenant, and armed forces use provisions are documented. GBV specialist is also required at effectiveness, reflecting awareness of gender-based conflict risks in health service delivery. The monitoring/supervision firm required at effectiveness provides independent oversight. However, there is no formal conflict sensitivity assessment or do-no-harm screening for how vaccination campaigns might interact with ongoing conflict dynamics (e.g., targeting of vaccination teams by armed groups, use of vaccination campaigns for surveillance)."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Clan structures affect healthcare utilization. Vaccine hesitancy addressed through religious leaders, community engagement. Conflict-displaced populations included in target populations.",
+        "rationale": "The document recognizes that clan structures differentially affect healthcare access and utilization. IDPs and conflict-displaced populations are identified as target groups. The vaccine hesitancy analysis engages with religious and community dynamics specific to Somalia. The emergency nature of COVID-19 means all Somali citizens—disproportionately poor and conflict-affected—are direct beneficiaries. The use of religious leaders for community engagement reflects contextual adaptation to reach vulnerable groups."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "The project supports the Federal Government of Somalia's COVID-19 vaccination rollout through the national health system.",
+        "rationale": "The project channels through the national health system, which has state-building value in demonstrating FGS capacity to deliver public health services. However, as an emergency operation, state-building is not an explicit objective—the focus is rapid vaccine deployment. The document does not explicitly theorize a link between vaccination delivery and FGS legitimacy enhancement. Coordination with FMS and state-level health authorities is required by the program structure."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "GBV specialist required at effectiveness as a legal covenant.",
+        "rationale": "A GBV Specialist is required at project effectiveness—a meaningful gender mainstreaming provision for an emergency health operation. The document addresses gender dimensions of vaccine hesitancy and community engagement. However, there is no standalone gender action plan, and the emergency nature of the operation means gender analysis is less developed than in a standard IPF. Sex-disaggregated vaccination coverage targets may exist but are not prominently featured in available text."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project uses FCV/COVID condensed procedures and a monitoring/supervision firm required at effectiveness.",
+        "rationale": "FCV condensed procedures are invoked for this emergency operation, allowing faster preparation and disbursement timelines appropriate to the crisis context. An independent monitoring/supervision firm is required at effectiveness, providing adaptive oversight in a context where World Bank staff travel is restricted. The emergency project design inherently incorporates flexibility for rapid scale-up as vaccines become available. The CERC-equivalent emergency nature of the operation provides implementation adaptability."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Security specialist required at effectiveness. Armed forces use provisions in legal covenants.",
+        "rationale": "Armed forces use provisions and a security specialist requirement indicate engagement with security actors at the operational level. However, broader coordination with AMISOM, UNSOM, or peace process actors on the vaccination campaign design is not documented. UNICEF and WHO partnerships are standard for COVID vaccination projects but FCV-specific security coordination architecture is not described in detail."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "A monitoring/supervision firm is required at effectiveness due to FCV-related travel restrictions for World Bank staff.",
+        "rationale": "The independent monitoring/supervision firm directly addresses the FCV M&E challenge of limited World Bank field access. This is a pragmatic adaptive measure. However, FCV-specific indicators (equity of vaccination across conflict-affected areas, clan-equitable distribution, access in Al-Shabaab-influenced areas) are not documented in the available text. Standard vaccination coverage indicators may not capture FCV-differential access."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "Security Specialist required at effectiveness, armed forces use provisions in legal covenants, and monitoring/supervision firm provide operational conflict risk mitigation."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "Emergency operation with inherently universal beneficiary targeting (all Somali population for vaccination). Clan and community-level equity considerations are noted in community engagement strategy."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "Not applicable as a major concern—the vaccination program coordinates across FGS and FMS territories. Somaliland is acknowledged in the program structure."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "Vaccine distribution logistics are generally less susceptible to elite capture than financial transfer programs. Independent monitoring firm provides oversight."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF emergency operation without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 6.33,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 6.33,
+      "responsiveness_raw": 6.0,
+      "responsiveness_final": 6.0
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P176956 is an emergency COVID vaccination operation whose FCV integration is shaped by the urgency and universality of the crisis response mandate. FCV condensed procedures, security and GBV specialist covenants, and an independent monitoring firm reflect genuine FCV operational awareness (D6: 7). The main limitation is that emergency design precludes deep conflict driver analysis (D1: 6) and comprehensive gender integration (D5: 6). The operation's universal beneficiary scope partly compensates for distributional analysis gaps. Both composite scores fall in the 'Low FCV integration' quadrant by narrow margins, reflecting the structural constraints of an emergency instrument in a Tier 1 FCV context rather than a failure of intent."
+  },
+  {
+    "project_id": "P172031",
+    "project_name": "Improving Healthcare Services in Somalia Project (Damal Caafimaad)",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project supports the World Bank Group Strategy for Fragility, Conflict, and Violence (FCV) 2020-2025 by strengthening health service delivery in Somalia, a country experiencing persistent fragility, conflict, and violence.",
+        "rationale": "The PAD explicitly aligns with the WBG FCV Strategy 2020-2025. Conflict drivers are documented across multiple dimensions: 2.6M IDPs, displacement from ongoing violence, destruction of health infrastructure, clan-based barriers to health service utilization, GBV statistics (World Bank 2016 survey), 99.2% FGM prevalence. Transparency International corruption ranking is cited in the governance context. The RCRF-financed health capacity assessments are drawn upon to document the health system's FCV-related weaknesses. The analysis is multi-layered and goes beyond standard country context to identify how fragility specifically affects health outcomes."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Clan structures affect service utilization patterns. GBV statistics cited. Third-party monitoring (TPM) referenced for conflict-affected areas.",
+        "rationale": "The document identifies clan-based barriers to healthcare utilization and designs community engagement to work through these structures rather than ignore them. GBV is treated as both a health issue and a conflict-related risk factor. TPM is referenced for monitoring in areas with limited access. The GFF country platform provides a coordinated, donor-aligned approach that reduces the risk of conflicting aid flows creating local competition. CERC is included as a design element, indicating awareness that the project may need to respond to conflict-triggered health crises during implementation. The analysis demonstrates conflict-sensitivity awareness though a formal do-no-harm assessment is not explicitly cited."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "2.6 million internally displaced persons (IDPs) in Somalia. GBV statistics: World Bank 2016 survey. 99.2% FGM prevalence documented.",
+        "rationale": "Beneficiary vulnerability is documented with specific data: 2.6M IDPs, GBV survivors as a distinct population, FGM-affected women as a distinct population. The health sector context maps how conflict and displacement interact with healthcare access barriers. Clan dynamics affecting healthcare utilization are documented. The project targets districts with highest poverty and fragility levels. The GFF platform coordinates multiple donor streams to reach the most vulnerable. This is among the strongest vulnerability analyses in the batch."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Strengthening health service delivery supports FGS legitimacy through delivery of public goods to the Somali population.",
+        "rationale": "The project delivers healthcare services through the national health system, building FGS capacity and legitimacy. The GFF platform strengthens government ownership of the health sector. Working through FMS-level health ministries addresses state-building at the subnational level. However, the state-building rationale is implicit rather than explicit in the available text—the document does not prominently theorize the legitimacy pathway as explicitly as P173088 or P176343."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "World Bank 2016 survey GBV statistics cited. 99.2% FGM prevalence. Clan structures affecting women's healthcare utilization documented. GBV specialist required in PMU.",
+        "rationale": "Gender integration is substantive: GBV statistics from a World Bank survey are cited, 99.2% FGM prevalence is documented as a health equity issue requiring specific programmatic response, a GBV specialist is required in the PMU, and community engagement strategies address gender barriers to healthcare utilization. Health services for women and girls are explicitly a program objective (maternal health, reproductive health). This is among the strongest gender integrations in the batch for an IPF."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "CERC component included. Third-party monitoring (TPM) referenced for conflict-affected areas.",
+        "rationale": "CERC is included in the project design, allowing rapid reallocation of funds if conflict triggers a health emergency. TPM is referenced for monitoring in areas with limited access—the standard FCV adaptive mechanism for Somalia operations. The GFF platform provides a multi-stakeholder coordinating structure that allows adaptive resource allocation across donor streams. These are substantive implementation flexibility provisions for a health IPF."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "GFF country platform provides coordinated, donor-aligned health sector approach.",
+        "rationale": "The GFF platform coordinates donor engagement in the health sector. UNICEF, WHO, and other health partners are referenced. However, coordination with security actors (AMISOM, UNSOM) on access to conflict-affected areas, or with peacebuilding actors on the social cohesion dimensions of health service delivery, is not documented in the available text. For a health project in a Tier 1 FCV context, the absence of explicit peace-security actor coordination is a moderate gap."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Third-party monitoring (TPM) referenced for conflict-affected areas. Results framework tracks health outcomes by district including highest-fragility districts.",
+        "rationale": "TPM is the standard FCV M&E adaptation for Somalia and is referenced for this project. The results framework tracks health service coverage disaggregated by district, including the most fragile districts. Sex-disaggregated health indicators address gender equity monitoring. The use of RCRF-financed baseline capacity assessments provides a conflict-sensitive baseline. However, indicators are primarily health output/outcome indicators rather than FCV-specific indicators tracking conflict-health system interactions."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "CERC provision, TPM, and GBV specialist requirement in PMU collectively address conflict risk in implementation. The GFF platform provides coordinated donor support to reduce operational fragmentation."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "Strong distributional analysis: 2.6M IDPs identified, GBV and FGM data cited, clan barriers documented, highest-fragility district targeting."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "FMS coordination is documented. Somaliland health services are within the program scope with appropriate arrangements."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "TPM and independent GBV specialist in PMU provide oversight. GFF platform reduces bilateral capture risks."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 7.67,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 7.67,
+      "responsiveness_raw": 7.0,
+      "responsiveness_final": 7.0
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P172031 (Damal Caafimaad) achieves High FCV integration through explicit WBG FCV Strategy 2020-2025 alignment, strong multi-dimensional vulnerability analysis (2.6M IDPs, GBV data, FGM prevalence, clan dynamics), substantive gender integration (D5: 8), CERC and TPM provisions (D6: 7), and district-level tracking of health outcomes in highest-fragility areas (D8: 7). The health sector's inherent alignment with human development in FCV contexts contributes to strong scores across sensitivity dimensions. The primary gap is limited explicit peace-security actor coordination documentation (D7: 6) and somewhat implicit (rather than explicit) state-building theorization."
+  },
+  {
+    "project_id": "P176343",
+    "project_name": "Additional Financing to the Somalia Crisis Recovery Project",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project explicitly references IPC Phase classifications for food insecurity, conflict-displaced populations, and the interaction between flooding and conflict as compound crises.",
+        "rationale": "The Project Paper provides a well-grounded compound crisis analysis: conflict + flooding + food insecurity are mapped using IPC Phase classifications. Conflict-displaced populations are identified as primary beneficiaries. FCS (Fragile and Conflict-affected State) is explicitly flagged. The compound crisis framing—conflict intersecting with climate shocks—is analytically sophisticated. FGS/FMS/Somaliland political complexity is addressed. The conflict-sensitive community engagement mandate ('gender and conflict-risk sensitive') is explicitly stated as a design principle, indicating that conflict analysis is embedded in operational design."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "Gender and conflict-risk sensitive community engagement explicitly mandated as a design principle.",
+        "rationale": "Conflict-sensitive community engagement is explicitly named as a project design principle—this is the strongest do-no-harm language in the batch. CERC has been activated (crisis recovery context), demonstrating that the flexible response mechanism works. UNOPS is used as surge implementation support, a standard FCV-adaptive procurement mechanism. Targeting is FCV-informed (flood-affected states with highest fragility and conflict exposure). The combination of conflict-risk sensitive community engagement + CERC activation + UNOPS surge represents a well-developed do-no-harm operational framework."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "IPC Phase classifications used to identify food insecurity severity. Conflict-displaced populations, flood-affected communities, and women are primary beneficiaries.",
+        "rationale": "Beneficiary vulnerability analysis is rigorous: IPC Phase classifications for food insecurity, flood-affected community mapping, conflict-displaced population targeting. The operation explicitly targets the most acutely vulnerable—those experiencing compound shocks from conflict and climate. State legitimacy rationale is linked to beneficiary targeting ('restore the legitimacy of the State and strengthen state-citizen trust'). The AF design builds on the parent project's community targeting, maintaining programmatic continuity."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "The project aims to restore the legitimacy of the State and strengthen state-citizen trust through crisis recovery service delivery.",
+        "rationale": "State legitimacy is an explicit objective—'restore the legitimacy of the State and strengthen state-citizen trust' is stated as a project purpose. Crisis recovery assistance delivered through the FGS builds state capacity and demonstrates government responsiveness to citizen needs, which is a central FCV strategy for reducing grievances. The intergovernmental coordination across FGS, FMS, and Somaliland is documented, strengthening state-building at multiple levels."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Gender and conflict-risk sensitive community engagement explicitly mandated. Women identified as primary beneficiaries of crisis recovery assistance.",
+        "rationale": "Gender-sensitive community engagement is mandated in the design. Women and conflict-displaced populations are explicitly named as primary beneficiaries. The compound shock analysis includes gender dimensions of crisis vulnerability. However, as an AF to an existing project, the gender strategy is built on the parent project's foundation and may not introduce new gender-specific innovations beyond the existing program."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 9,
+        "rating": "Strong",
+        "key_quote": "CERC activated in response to crisis. UNOPS engaged as surge support for implementation capacity.",
+        "rationale": "CERC activation is the most concrete evidence of implementation flexibility working as designed—the mechanism was triggered and resources redeployed to respond to the crisis. UNOPS surge support demonstrates a flexible procurement approach for FCV contexts where government capacity is overwhelmed. The AF instrument itself is an adaptive management tool, scaling up in response to demonstrated need. FCV condensed procedures are invoked. This dimension score reflects the strongest implementation flexibility evidence in the batch."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "UNOPS as surge support; coordination across FGS, FMS, and Somaliland.",
+        "rationale": "UNOPS coordination demonstrates UN-WB integration in implementation. FGS/FMS/Somaliland coordination is documented. However, explicit coordination with AMISOM, UNSOM, or peacebuilding actors on the conflict dimensions of crisis recovery is not documented. Crisis recovery in conflict zones requires security actor engagement to access affected populations, and this is not explicitly addressed."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Conflict-sensitive targeting with IPC Phase classification monitoring. Beneficiary tracking in highest-fragility, flood-affected states.",
+        "rationale": "IPC Phase classification monitoring provides a conflict-sensitive M&E framework for food insecurity tracking. State-targeting (highest fragility + highest flood impact states) provides geographic M&E disaggregation. CERC monitoring tracks resource deployment against crisis indicators. However, FCV-specific outcome indicators (state legitimacy, social cohesion, community trust) that align with the stated project purpose of restoring state legitimacy are not documented in detail."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "Conflict-risk sensitive community engagement, CERC, UNOPS surge, and FCV condensed procedures collectively address conflict risk comprehensively."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "IPC Phase targeting, compound shock analysis, and conflict-displaced population identification constitute rigorous distributional analysis for an emergency AF."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "FGS/FMS/Somaliland coordination is documented. The political complexity is acknowledged and addressed through intergovernmental arrangements."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "UNOPS surge implementation and conflict-sensitive community targeting reduce elite capture risk. CERC activation creates external oversight of emergency funds."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF AF without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 8.0,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 8.0,
+      "responsiveness_raw": 7.4,
+      "responsiveness_final": 7.4
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P176343 is the strongest FCV-responsive operation in the batch. Its explicit state legitimacy objective, CERC activation as proof of adaptive mechanism deployment, conflict-sensitive community engagement as a named design principle, and IPC-based compound crisis analysis produce the highest composite scores (Sensitivity 8.0, Responsiveness 7.4). The explicit 'restore the legitimacy of the State and strengthen state-citizen trust' language is the clearest articulation of the FCV responsiveness theory of change in the entire batch. The primary gap is limited explicit peace-security actor coordination documentation (D7: 6) and absence of FCV outcome indicators measuring state legitimacy and social cohesion."
+  },
+  {
+    "project_id": "P176368",
+    "project_name": "Shock Responsive Safety Net for Human Capital Project Additional Financing",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 9,
+        "rating": "Strong",
+        "key_quote": "Militia-based opposition, known today as Al-Shabaab, will capitalize on the situation and use social protection as a propaganda tool, creating reputational risks for the project.",
+        "rationale": "Al-Shabaab is named explicitly (para 8) as an active threat to the project, with a specific articulation of how the militant group might weaponize social protection programming for propaganda. This is the most sophisticated conflict driver analysis in the batch. The document documents: Al-Shabaab by name, 3M IDPs, climate-conflict nexus (drought compounding displacement), clan-based remittance system exclusion of minority clans, political uncertainty from upcoming elections, and High-rated political/governance risk. The social contract framing—Baxnaano as the first government-led national cash transfer and its role in building citizen trust—is explicitly analyzed. This multi-layered conflict analysis sets a strong foundation for the project."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "Concerns that militia-based opposition, known today as Al-Shabaab, will capitalize on the situation... WFP delivery provides mitigation against political interference.",
+        "rationale": "The risk of Al-Shabaab exploitation is explicitly identified and WFP partnership is named as a specific mitigation strategy (WFP's operational presence and neutrality reduces the risk that aid delivery will be weaponized). The clan-based remittance system's exclusion of minority clans is documented as an equity risk. TPM with female workers is in place. The GRM (toll-free call center) specifically addresses the conflict-context barrier to complaint mechanisms. Political governance risk (High) is rated with specific mitigation through WFP implementation. FCV condensed procedures are invoked. This is strong do-no-harm practice."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "3 million internally displaced persons (IDPs) cited. IDP targeting included. Minority clan exclusion from remittance-based social protection documented.",
+        "rationale": "Vulnerability analysis is comprehensive: 3M IDPs, minority clan exclusion from remittances as a specific equity gap, women targeted in TPM employment (gender equity in implementation), climate-displaced populations identified, and the historical exclusion of the poor from formal social protection is the project's raison d'être. Baxnaano as the first government-led cash transfer represents a transformative reach to previously excluded populations."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "Baxnaano is the first government-led national cash transfer program in Somalia, building state capacity and demonstrating FGS ability to deliver social protection.",
+        "rationale": "Baxnaano is explicitly framed as a social contract instrument—the first government-led national cash transfer creates a direct state-citizen service delivery relationship that did not previously exist. Social contract language is used explicitly. The WFP partnership model is designed to build toward government ownership over time. The project builds FGS capacity to manage a national social protection system, which is a direct state-building investment. Political legitimacy through social protection delivery is a central theory of change."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "TPM operational with female workers. Minority clan exclusion documented. GRM with toll-free call center. Women targeted in beneficiary selection.",
+        "rationale": "Gender integration is substantive: TPM employs female workers (reducing access barriers in gender-segregated communities), women are primary beneficiary targets (as household heads and primary caregivers), minority clan exclusion is documented as an equity issue. The toll-free GRM call center specifically accommodates women who may face mobility restrictions. Social inclusion of minority clans in the design is a noteworthy feature addressing horizontal inequality—a key conflict driver."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "FCV condensed procedures invoked. WFP delivery mechanism provides implementation flexibility in conflict-affected areas. TPM with female workers provides adaptive monitoring.",
+        "rationale": "FCV condensed procedures are invoked for rapid deployment. WFP's operational flexibility in insecure areas (proven delivery network) provides adaptive implementation capacity. TPM with female workers is tailored to FCV context. The Shock Responsive design—the program's core feature—is itself an adaptive mechanism responding to shocks including conflict. GRM is tailored to FCV-specific access barriers. Multiple adaptive features are documented."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "WFP partnership addresses the Al-Shabaab operational risk. Government-WFP coordination for Baxnaano delivery.",
+        "rationale": "WFP is a UN peace system partner (though primarily a humanitarian actor), and the coordination on Baxnaano is documented. The Al-Shabaab risk mitigation through WFP involves implicit security coordination. However, formal coordination with AMISOM, UNSOM, or peacebuilding actors on how cash transfer programming interacts with conflict dynamics is not documented. For a program operating in Al-Shabaab-influenced areas, more explicit security actor coordination documentation would be expected at Strong level."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "TPM with female workers operational. GRM with toll-free call center. IDP and minority clan-disaggregated beneficiary tracking.",
+        "rationale": "TPM is operational (not just planned), employing female workers to maximize access in gender-segregated communities—a context-specific FCV adaptation. GRM is in place and accessible. Beneficiary tracking is disaggregated by IDP status. The Shock Responsive design includes monitoring of shock indicators for adaptive trigger mechanisms. However, FCV outcome indicators measuring social contract building, state legitimacy, or conflict reduction are not documented."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "Al-Shabaab risk is explicitly named and mitigated through WFP delivery model, FCV condensed procedures, and TPM. Risk is identified and addressed."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "Strong distributional analysis: 3M IDPs, minority clan exclusion, gender-disaggregated targeting, and political economy of remittance-based systems documented."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "FGS, FMS, and Somaliland coordination is addressed. Al-Shabaab-controlled area access is mitigated through WFP."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "WFP delivery model, TPM, and toll-free GRM collectively address elite capture. Political interference risk (High) is rated with mitigation through WFP implementation."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF AF without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 8.33,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 8.33,
+      "responsiveness_raw": 7.4,
+      "responsiveness_final": 7.4
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P176368 achieves the highest FCV Sensitivity score in the batch (8.33), driven by the most explicit conflict driver analysis of any project reviewed—including naming Al-Shabaab with a specific mechanism by which the group would exploit the program (propaganda/reputational risk), and documenting minority clan exclusion as a horizontal inequality driver. The Baxnaano state-building rationale (first government-led national cash transfer) is explicitly theorized. WFP-mediated do-no-harm implementation, TPM with female workers, and shock-responsive adaptive design collectively produce a strong Responsiveness score (7.4). The social protection instrument's inherent alignment with FCV objectives—addressing grievances, building social contract, reaching excluded populations—explains this project's consistently strong scores."
+  },
+  {
+    "project_id": "P172434",
+    "project_name": "Somalia Education for Human Capital Development Project",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Appraisal Document",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "Each year of education is estimated to reduce the risk of conflict by around 20 percent (para 6). The project targets districts with the highest levels of fragility and poverty.",
+        "rationale": "The project grounds its theory of change in the education-conflict nexus with a specific quantitative estimate (20% conflict risk reduction per year of education), citing evidence from FCV contexts including Afghanistan. Districts are targeted by fragility level—'highest levels of fragility and poverty'—demonstrating conflict-informed geographic prioritization. HEIS is flagged. The out-of-school crisis (3M children) is explicitly linked to conflict and displacement. The inclusion of conflict-sensitivity and peacebuilding in the new curriculum is a direct response to conflict driver analysis. Al-Shabaab's exploitation of educational vacuums is implied in the security design (SMF + SMP required before disbursement)."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Security Management Framework and Security Management Plan required before disbursement as conditions of effectiveness. GBV specialist required in PMU.",
+        "rationale": "A Security Management Framework and Security Management Plan are legal covenants required before first disbursement—a strong operational conflict risk provision. GBV specialist in PMU addresses conflict-adjacent gender risk in educational settings. ICT-based teacher training is explicitly designed to avoid movement risks (conflict-sensitivity in operational design). Girls' access barriers are analyzed through GBV risk lens. The conflict-sensitivity integration in the new curriculum is a do-no-harm measure in the content of education itself. However, there is no explicit do-no-harm assessment for how school construction might interact with territorial control disputes."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "3 million out-of-school children. Districts with highest fragility and poverty targeted. Girls' access barriers linked to GBV risk.",
+        "rationale": "Three million out-of-school children as the target population is itself a conflict-generated vulnerability. Geographic targeting by fragility level ensures resources reach the most conflict-affected areas. Girls' access barriers are analyzed through a GBV risk lens specific to the Somali context. IDP children are implicitly included in the out-of-school population. Teacher training via ICT recognizes teacher mobility constraints in conflict areas. Evidence from Afghanistan (another FCV context) is cited for programmatic design."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Each year of education reduces risk of conflict by approximately 20 percent. Building state-delivered education in fragility-affected districts builds FGS legitimacy.",
+        "rationale": "The education-conflict reduction rationale is explicitly theorized. Delivering education in the highest-fragility districts builds FGS presence and legitimacy in areas where the state has historically been absent or contested. Curriculum development for conflict-sensitivity and peacebuilding is a direct state-building content investment. FMS-level coordination builds subnational state capacity. However, the state-building rationale, while present, is less explicitly articulated than in P176343 or P176368."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Girls' access barriers linked to GBV risk. GBV specialist required in PMU. Gender-disaggregated enrollment targets in results framework.",
+        "rationale": "GBV risk as a barrier to girls' education is documented with specific Somalia-context analysis. A GBV specialist in the PMU addresses implementation-level gender risk. Gender-disaggregated enrollment indicators are in the results framework. ICT-based teacher training for female teachers reduces mobility barriers. The combination of gender-sensitive design, GBV specialist provision, and disaggregated monitoring constitutes substantive gender integration for an education IPF."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Security Management Framework and Security Management Plan required before first disbursement. ICT-based teacher training designed to avoid movement risks.",
+        "rationale": "SMF and SMP as pre-disbursement conditions demonstrate structured adaptive security management. ICT-based teacher training is an explicit adaptive design response to movement restrictions from conflict—moving knowledge delivery away from high-risk physical attendance. HEIS flagging indicates awareness of operational security management requirements. Evidence from Afghanistan and other FCV contexts is cited to inform adaptive design. The fragility-targeting geographic approach allows phased rollout based on security conditions."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Security Management Framework required. GBV specialist in PMU.",
+        "rationale": "The SMF requirement implies security actor coordination at the operational level, but formal coordination with AMISOM, UNSOM, or peacebuilding actors on the education-peace nexus is not documented. The curriculum's conflict-sensitivity and peacebuilding content would benefit from coordination with peace process actors (reconciliation initiatives, FGS peace secretariat), but this is not mentioned. This is the weakest dimension for this project."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Gender-disaggregated enrollment targets. District-level tracking including highest-fragility districts. HEIS flagging for security-aware M&E.",
+        "rationale": "Gender-disaggregated and district-level enrollment monitoring provides some FCV-sensitive disaggregation. HEIS flagging ensures security considerations are embedded in implementation reporting. However, the results framework is primarily education-sector indicators (enrollment, retention, learning outcomes) without FCV-specific indicators measuring conflict risk reduction, community trust, or state legitimacy. No TPM is documented for this project, which is a gap given the security access constraints in target districts."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "SMF and SMP as pre-disbursement legal covenants, GBV specialist in PMU, and ICT-based delivery to reduce movement risks collectively address conflict risk."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": false,
+        "rationale": "Fragility-targeted district selection, girls' GBV access analysis, and 3M out-of-school children targeting constitute adequate distributional analysis."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "FMS coordination is documented. Somaliland educational authorities are within the program scope."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "SMF, GBV specialist, and fragility-targeted geographic selection reduce elite capture risk. Education delivery is less susceptible to financial elite capture than direct transfer programs."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 7.33,
+      "red_flag_count": 0,
+      "red_flag_deduction": 0.0,
+      "sensitivity_final": 7.33,
+      "responsiveness_raw": 6.4,
+      "responsiveness_final": 6.4
+    },
+    "gap_matrix_cell": "Implementation gap",
+    "key_finding": "P172434 demonstrates strong FCV Sensitivity (7.33) through its conflict-education nexus theory of change (20% conflict risk reduction per year of education), fragility-targeted district selection, curriculum peacebuilding integration, and GBV-aware girls' access analysis. However, Responsiveness falls below threshold (6.4) due to limited TPM documentation (D8: 6) and weak peace-security actor coordination (D7: 5). The gap between strong analytical grounding and moderate operational FCV responsiveness—particularly the absence of documented third-party monitoring in the highest-fragility districts and lack of peace actor coordination on the peacebuilding curriculum—creates an 'Implementation gap' classification. Closing the D7-D8 gap would move this project to High FCV integration."
+  },
+  {
+    "project_id": "P174769",
+    "project_name": "Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) Additional Financing",
+    "instrument_category": "IPF",
+    "approval_year": 2021,
+    "status": "Active",
+    "doc_type": "Project Paper",
+    "screening_date": "2026-03-14",
+    "screener_model": "claude-sonnet-4-6",
+    "dimensions": {
+      "D1": {
+        "label": "Conflict and Fragility Drivers Analysis",
+        "score": 7,
+        "rating": "Substantially Addressed",
+        "key_quote": "Contributing to tackling the country's drivers of fragility and fostering state legitimacy through CBS reform PBCs.",
+        "rationale": "The PAD explicitly links CBS reform to fragility drivers and state legitimacy—'contributing to tackling the country's drivers of fragility and fostering state legitimacy.' Fragile State, Conflict, and PBCs (Program-Based Conditions) are flagged. AML/CFT and terrorism financing risk are documented, which reflects awareness of conflict economy dimensions (Al-Shabaab's known use of informal financial channels). Digital ID for FCV resilience is explicitly framed for social protection and health programs. Political economy challenges for digital ID (clan dynamics, privacy concerns) are noted. However, the conflict analysis does not map specific fragility drivers systematically—it is more implicit than structured."
+      },
+      "D2": {
+        "label": "Do No Harm / Conflict Sensitivity",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "AML/CFT and terrorism financing risks documented. Political economy challenges for digital ID noted.",
+        "rationale": "AML/CFT provisions address the risk that the mobile money and digital financial system could be used to finance conflict actors—this is a do-no-harm measure in the financial sector FCV context. Political economy challenges for digital ID (noted as a concern) could include clan-based registration barriers and potential for digital ID to be used for ethnic profiling. However, there is no explicit do-no-harm assessment, no conflict sensitivity screening of the CBS reforms, and the digital ID's potential conflict-related risks (surveillance, exclusion of conflict-displaced persons without documentation) are not systematically assessed."
+      },
+      "D3": {
+        "label": "Contextual Vulnerability of Beneficiaries",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "Digital ID for FCV resilience—social protection, health programs. IFC collaboration for private sector inclusion.",
+        "rationale": "Digital ID is explicitly linked to FCV resilience benefits for social protection and health programs—recognizing that conflict-displaced people need identity documentation to access services. Livelihoods and entrepreneurship targeting through digital uplift reaches economically marginalized groups. However, the document does not specifically analyze how conflict-displaced, IDPs, or minority clan populations are differentially positioned to benefit from digital financial services, nor does it address how digital exclusion could exacerbate fragility-related inequality."
+      },
+      "D4": {
+        "label": "State-Building and Institutional Legitimacy",
+        "score": 8,
+        "rating": "Substantially Addressed",
+        "key_quote": "CBS reform PBCs explicitly linked to tackling fragility drivers and fostering state legitimacy. Central Bank reform as a state institution-building investment.",
+        "rationale": "CBS reform is the most direct state institution-building element: a central bank that can effectively regulate the financial system is a foundational state function. The PBC framework (Program-Based Conditions) for CBS reform creates accountable milestones for institutional development. The explicit language connecting CBS reform to 'tackling the country's drivers of fragility and fostering state legitimacy' is the strongest state-building rationale in this document. IFC coordination (Joint Level) amplifies the institutional reform impact through private sector alignment."
+      },
+      "D5": {
+        "label": "Gender and Social Inclusion",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Livelihoods and entrepreneurship for underserved populations. Digital financial inclusion for women noted in mobile money usage data.",
+        "rationale": "Mobile money's high usage by women (documented in the parent DPF) is referenced as a beneficiary consideration. Livelihoods and entrepreneurship programs have potential gender benefits through financial inclusion. However, there is no standalone gender action plan, no GBV specialist requirement, and no gender-disaggregated targets in the available document text. Given the digital economy's gender gaps in Somalia (which are significant), the absence of structured gender integration is a notable gap."
+      },
+      "D6": {
+        "label": "Implementation Flexibility and Adaptive Management",
+        "score": 6,
+        "rating": "Partially Addressed",
+        "key_quote": "COVID-19 condensed procedures invoked. Monitoring agent deployed due to COVID travel restrictions.",
+        "rationale": "COVID condensed procedures are invoked (which overlap with FCV condensed procedures). A monitoring agent is deployed due to travel restrictions—an FCV-adaptive M&E mechanism. The GRM gaps noted in the document suggest awareness of implementation monitoring weaknesses. However, there is no CERC, no explicit FCV-specific adaptive management framework, and the PBC/results-linked disbursement structure may be less flexible than IPF disbursement arrangements in a rapidly changing FCV environment."
+      },
+      "D7": {
+        "label": "Coordination with Peace and Security Actors",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "IFC collaboration confirmed as Joint Level. AML/CFT engagement with CBS implies coordination with financial intelligence and security actors.",
+        "rationale": "AML/CFT implementation involves coordination with national financial intelligence units, which have security dimensions. IFC collaboration is at the Joint Level for private sector development. However, formal coordination with AMISOM, UNSOM, or peace process actors on the financial sector reform's security dimensions (e.g., disrupting terrorist financing through CBS reform) is not documented. The security-financial nexus is present in the AML/CFT provisions but not framed as a peace coordination strategy."
+      },
+      "D8": {
+        "label": "Monitoring and Evaluation in FCV Context",
+        "score": 5,
+        "rating": "Partially Addressed",
+        "key_quote": "Monitoring agent deployed due to COVID travel restrictions. GRM gaps noted in the document.",
+        "rationale": "A monitoring agent is deployed as an FCV-adaptive M&E mechanism (travel restrictions). However, GRM gaps are noted—suggesting that the feedback and accountability loop is recognized as incomplete. PBC monitoring tracks CBS institutional milestones but does not include FCV-sensitive indicators for how financial sector reforms affect conflict dynamics or social inclusion. No TPM framework equivalent to those in the social protection or health projects is documented."
+      }
+    },
+    "red_flags": {
+      "RF1": {
+        "label": "Unmitigated conflict risk in design",
+        "triggered": false,
+        "rationale": "AML/CFT provisions, monitoring agent, and PBC structure provide operational risk management. FCV context is acknowledged."
+      },
+      "RF2": {
+        "label": "Missing distributional / PSIA analysis",
+        "triggered": true,
+        "rationale": "The document does not provide an analysis of how digital financial inclusion reforms differentially affect conflict-displaced persons, minority clans, or women. Digital ID's potential for exclusion of undocumented conflict-affected populations is not assessed. For a financial sector reform in a Tier 1 FCV context, the absence of distributional analysis of who can access digital services and who may be excluded is a material gap."
+      },
+      "RF3": {
+        "label": "OP 7.30 (De Facto Governments) weakly handled",
+        "triggered": false,
+        "rationale": "CBS reform operates at FGS level. FMS financial coordination is documented through the CBS framework. Somaliland operates a separate regulatory system but this is addressed."
+      },
+      "RF4": {
+        "label": "Elite capture risk unmitigated",
+        "triggered": false,
+        "rationale": "PBC framework with external verification provides accountability. IFC coordination reduces bilateral capture risk. AML/CFT specifically addresses conflict economy capture."
+      },
+      "RF5": {
+        "label": "Macro framework unrealistic for FCV context",
+        "triggered": false,
+        "rationale": "Not applicable—IPF AF without macro policy conditionality."
+      }
+    },
+    "composite_scores": {
+      "sensitivity_raw": 6.0,
+      "red_flag_count": 1,
+      "red_flag_deduction": 0.5,
+      "sensitivity_final": 5.5,
+      "responsiveness_raw": 5.8,
+      "responsiveness_final": 5.8
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P174769 (SCALED-UP AF) has the lowest composite scores in the batch (Sensitivity 5.5 after RF2 deduction, Responsiveness 5.8), reflecting the inherent challenges of achieving FCV integration in a financial sector digital development operation. The strongest dimension is state-building (D4: 8) through CBS reform explicitly linked to fragility drivers and state legitimacy. The primary weaknesses are: missing distributional analysis of digital inclusion barriers for conflict-affected populations (RF2 triggered), limited gender integration (D5: 5), weak peace-security actor coordination (D7: 5), and incomplete GRM and M&E frameworks (D8: 5). The financial sector instrument's technical focus creates a structural tension with FCV-responsive design requirements that the project partially but not fully resolves."
+  }
+]

@@ -1,0 +1,2348 @@
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4464  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+ 
+PROPOSED GRANT 
+IN THE AMOUNT OF SDR 43.9 MILLION  
+(US$58 MILLION EQUIVALENT)  
+ 
+AND  
+ 
+ A GRANT 
+IN THE AMOUNT OF US$5 MILLION 
+FROM THE HORN OF AFRICA MULTI DONOR TRUST FUND 
+ 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR THE 
+ 
+SOMALIA - HORN OF AFRICA INFRASTRUCTURE INTEGRATION PROJECT (SHIIP) 
+ 
+September 9, 2022 
+ 
+ 
+Transport Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective July 31, 2022) 
+ 
+Currency Unit =   SDR 
+SDR 0.7555 = 
+US$1 
+US$1.3236 = SDR 1 
+ 
+FISCAL YEAR 
+July 1 - June 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Country Director: Boutheina Guermazi  
+Regional Director: Wendy Hughes 
+Practice Manager: Almud Weitz 
+Task Team Leaders: Adam Diehl, Gylfi Palsson, Susan Owuor 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+AfDB 
+African Development Bank 
+COVID-19 
+Coronavirus Disease 2019 
+CPF 
+Country Partnership Framework  
+DP 
+Development Partner 
+EAFS 
+External Assistance Fiduciary Section  
+EAs 
+Environmental Audits 
+EU 
+European Union 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMS 
+Federal Member States 
+GBV 
+Gender Based Violence 
+GDP 
+Gross Domestic Product 
+GRS 
+Grievance Redress Services 
+HoA 
+Horn of Africa 
+IBRD 
+International Bank for Reconstruction and Development 
+ICT 
+Information Communications and Technology 
+IDA 
+International Development Association 
+IFC 
+International Finance Corporation 
+IGAD 
+Intergovernmental Authority on Development 
+IPF 
+Investment Project Financing 
+MFMR 
+Ministry of Fisheries and Marine Resources 
+MCI 
+Ministry of Commerce and Industry 
+MCT 
+Ministry for Communication and Technology  
+MDTF 
+Multi-Donor Trust Fund 
+MECC 
+Ministry of Environment and Climate Change 
+MEWR 
+Ministry of Energy and Water Resources  
+MoF 
+Ministry of Finance 
+MPMT 
+Ministry of Ports and Marine Transport 
+MPWRH 
+Ministry of Public Works, Reconstruction and Housing  
+MTCA 
+Ministry of Transport and Civil Aviation 
+NAPA 
+National Adaptation Program of Action 
+NDC 
+Nationally Determined Contribution  
+NDP 
+National Development Plan 
+OPM 
+Office of Prime Minister Federal Republic of Somalia 
+PBC 
+Performance Based Contracts 
+PCU 
+Project Coordination Unit 
+PDO 
+Project Development Objectives  
+PPSD 
+Project Procurement Strategy for Development 
+SCD 
+Systematic Country Diagnostic  
+SDR 
+Special Drawing Rights 
+ 
+ 
+ 
+SEA 
+Sexual Exploitation and Abuse 
+SHIIP 
+Somalia - Horn of Africa Infrastructure Integration Project 
+SOP 
+Series of Projects 
+SORT 
+Systematic Operations Risk Rating Tool  
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TA 
+Technical Assistance 
+ToR 
+Terms of Reference 
+US$ 
+United States Dollar 
+WBG 
+World Bank Group 
+  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (P173119) 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 7 
+A. Regional and Country Context .......................................................................................................... 7 
+B. Sectoral and Institutional Context .................................................................................................. 13 
+C. Relevance to Higher Level Objectives ............................................................................................. 21 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 23 
+A. Project Development Objective ..................................................................................................... 23 
+B. Project Components ....................................................................................................................... 24 
+C. Project Beneficiaries ....................................................................................................................... 29 
+D. Results Chain .................................................................................................................................. 30 
+E. Rationale for Bank Involvement and Role of Partners ................................................................... 33 
+F. Lessons Learned and Reflected in the Project Design .................................................................... 33 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 34 
+A. Institutional and Implementation Arrangements .......................................................................... 34 
+B. Results Monitoring and Evaluation Arrangements......................................................................... 35 
+C. Sustainability ................................................................................................................................... 35 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 37 
+A. Technical, Economic and Financial Analysis ................................................................................... 37 
+B. Fiduciary .......................................................................................................................................... 40 
+C. Legal Operational Policies ............................................................................................................... 42 
+D. Environmental and Social ............................................................................................................... 42 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 46 
+VI. KEY RISKS ..................................................................................................................... 46 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 48 
+ANNEX 1: Implementation Arrangements and Support Plan .......................................... 57 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (P173119) 
+ 
+ 
+ 
+     
+Page 1 of 66 
+ 
+ 
+      
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Horn of Africa, Somalia 
+Somalia - Horn of Africa Infrastructure Integration Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P173119 
+Investment Project 
+Financing 
+High 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[✓] Contingent Emergency Response Component  (CERC) 
+[✓] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+30-Sep-2022 
+30-Sep-2026 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to prepare a spatially coordinated investment pipeline of economic corridor 
+projects, and to strengthen the national government’s management of selected sectors. 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 2 of 66 
+     
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Development of Regional Economic Corridors  
+  30.00 
+ 
+Connectivity to Economic Corridors  
+  18.00 
+ 
+Institutional and Capacity Development  
+   7.80 
+ 
+Project Management  
+   7.20 
+ 
+Contingent Emergency Response Component  
+   0.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Ministry of Finance, Federal Republic of Somalia  
+Implementing Agency: 
+ Ministry of Public Works, Reconstruction and Housing  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+63.00 
+Total Financing 
+63.00 
+of which IBRD/IDA  
+58.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+58.00 
+          IDA Grant 
+58.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+5.00 
+          Horn of Africa Initiative Umbrella Trust Fund 
+5.00 
+ 
+  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 3 of 66 
+     
+ 
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+  58.00 
+   0.00 
+  58.00 
+National PBA 
+   0.00 
+  38.00 
+   0.00 
+  38.00 
+Regional 
+   0.00 
+  20.00 
+   0.00 
+  20.00 
+Total 
+   0.00 
+  58.00 
+   0.00 
+  58.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+2023 
+2024 
+2025 
+2026 
+2027 
+Annual 
+ 
+ 
+ 
+ 
+ 
+   5.00 
+  15.00 
+  20.00 
+  15.00 
+   3.00 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+   5.00 
+  20.00 
+  40.00 
+  55.00 
+  58.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Transport 
+Digital Development, Energy & Extractives, Environment, 
+Natural Resources & the Blue Economy, Macroeconomics, 
+Trade and Investment 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Moderate 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ High 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 4 of 66 
+     
+ 
+7. Environment and Social 
+⚫ High 
+8. Stakeholders 
+⚫ Substantial 
+9. Other 
+ 
+10. Overall 
+⚫ Substantial 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 5 of 66 
+     
+ 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+Schedule II, Section I.A.2.a. - Not later than six (6) months after the Effective Date, the Recipient shall recruit the 
+following additional staff into the Project Coordination Unit (PCU):  an environmental specialist, a social 
+development specialist, a monitoring and evaluation specialist, and a stakeholder engagement specialist, all with 
+terms of reference, qualifications, and experience, satisfactory to the Association. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+HOATF Grant Agreement has been executed and delivered and all 
+conditions precedent to its effectiveness or to the right of the 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 6 of 66 
+     
+ 
+Recipient to make withdrawals under it (other than the 
+effectiveness of this Agreement) have been fulfilled. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has prepared and adopted, the Project Operations 
+Manual, in form and substance satisfactory to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has recruited and/or seconded to  the Project 
+Coordination Unit (PCU), a Project coordinator, a financial 
+management specialist and  a procurement specialist, all under 
+terms of reference and with qualifications and experience 
+satisfactory to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has established the Project Steering Committee with 
+resources, functions, and terms of reference, satisfactory to the 
+Association. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+IBRD/IDA 
+For Emergency Expenditures under Category (3) until: 
+(i)  
+(A) the Recipient has determined that an Eligible Crisis or 
+Emergency has occurred, and has requested the Association to 
+address such Eligible Crisis or Emergency under Part E of the Project 
+and in accordance with the provisions of this Agreement; and (B) 
+the Association has agreed with such determination, accepted said 
+request and notified the Recipient thereof; and 
+(ii) 
+the Recipient has adopted the CERC Manual and Emergency 
+Action Plan, in form and substance acceptable to the Association. 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 7 of 66 
+ 
+ 
+I. STRATEGIC CONTEXT 
+ 
+A. Regional and Country Context 
+ 
+a) Regional Context 
+ 
+1. 
+The Horn of Africa (HoA), comprising Djibouti, Eritrea, Ethiopia, Kenya, and Somalia,1 has a total area of 
+around 1.7 million km2, a population of about 233 million, and a combined Gross Domestic Product (GDP) 
+estimated at US$232 billion, as of 2021.2 Approximately 70 percent of the population live in rural areas and exhibit 
+high levels of poverty ranging from 69 percent in Somalia to 17 percent in Djibouti (Table 1). The population of 
+the region is also growing quickly and is expected to reach 300 million by 2030. 
+ 
+Table 1: Socio-Economic Indicators3 
+Country 
+Population 
+Growth 
+(annual %) 
+GDP per Capita 
+(US$ current 
+prices) 
+GDP per Capita 
+Growth 
+(annual %) 
+Poverty 
+Headcount 
+Ratio at 
+US$1.9/day (%) 
+Human 
+Development 
+Index (HDI) 
+Life expectancy 
+at birth (years) 
+Djibouti 
+1.4 
+3,364 
+2.8 
+17 
+.524 
+62 
+Eritrea 
+1.4 
+643 
+7.2 
+N/A 
+.459 
+66 
+Ethiopia 
+2.5 
+944 
+3.0 
+30.8 
+.485 
+67 
+Kenya 
+2.2 
+2,007 
+5.1 
+37.1 
+.601 
+67 
+Somalia 
+2.9 
+446 
+0.4 
+68.6 
+.351 
+57 
+ 
+2. 
+The HoA is a complex region with nearly all countries exhibiting some level of conflict or vulnerability. 
+In the Fiscal Year 2023 edition of the global list of fragile and conflict-affected situations countries released by the 
+World Bank Group (WBG), both Somalia and Ethiopia are included as conflict affected states, while Eritrea is 
+included as a country with institutional and social fragility. A humanitarian crisis is looming in the northern Tigray 
+region of Ethiopia due to a protracted political crisis since 2018 which has continued to escalate into violence and 
+risks drawing in participants from the wider region. The HoA region exhibits large social, political, and economic 
+variations between and within member countries. High poverty levels in the HoA are most prevalent in the 
+northern parts of Kenya, Somalia, and Eritrea. Some of the countries suffer from protracted conflict and political 
+strife arising from challenges of underdevelopment, resource scarcity, and economic shocks from global economic 
+crises and climate challenges.4 
+ 
+3. 
+Regional integration through the expansion of transport and trade infrastructure is expected to 
+substantially support economic development and structural transformation of the HoA countries. A recent 
+ 
+1 In some contexts, the “Horn of Africa” also includes other countries in the greater region. In this document, the terms “HoA” and “Horn” 
+refer only to the countries of Djibouti, Eritrea, Ethiopia, Kenya, and Somalia 
+2 World Development Indicators, 2021 
+3 World Development Indicators; United Nations (UN Statistics Division; Human Development Index; Horn of Africa Regional Economic 
+Memorandum 2021. All data 2021 unless no data is available, in which case the most recent data is used. Poverty estimates are based on 
+World Bank calculations and are based on latest available survey data: 2017 for Djibouti; 2015 for Kenya; 2015 for Ethiopia, and 2017 for 
+Somalia; Data is unavailable for Eritrea. Life expectancy based on 2020 data, while HDI data is based on 2019, the latest available in both 
+cases. 
+4 Inter-Governmental Authority on Development regional Strategy, Volume 1: The Framework, January 2016. 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 8 of 66 
+ 
+ 
+study5 uses a general equilibrium model to estimate that the implementation of new regional transport corridors 
+coupled with effective trade facilitation measures would result in an increase in welfare of 3.9 to 6.3 percent in 
+the HoA countries, as measured by percentage change of real income. Somalia would enjoy the largest gains, 
+followed by Djibouti, Kenya and Ethiopia. Using reduced-form analysis to understand the relationship between 
+past investments in electricity, internet, and road infrastructure and the sectoral structure of employment in 
+Ethiopia and Kenya, it is expected that investment in infrastructure would lead to effective structural 
+transformation in the region; with having access to electricity at the district level associated with a 6 percentage-
+point reduction in the employment share of agriculture and a 4 percentage-point increase in the employment 
+share of services while big push investments that combine paved roads and internet are associated with a 12 
+percentage-point additional increase in the share of services employment. Due to the prevalence of informal trade 
+in the region, it is expected that deeper regional integration coupled with effective trade facilitation measures 
+would support sustained growth in trade and investment in all countries in the region. 
+ 
+4. 
+Development is lagging in the border regions, where instability as well as economic and physical 
+distance from growth centers has created persistent poverty. Forced displacement is common in the region, 
+lasting over 20 years in some cases. The concentration of protracted refugees and Internally Displaced Persons is 
+one of the highest in the world, with most refugees living in camps situated near the borders of their respective 
+countries of origin.6 The livelihoods of these refugees and migrants are often entirely dependent upon cross-
+border trade with their communities of origin. These same communities also fail to benefit from strong cross-
+border digital infrastructure network links, wireless roaming and quality broadband access, with existing mobile 
+broadband coverage primarily concentered in urban hubs. In addition, border regions are characterized by a high 
+intensity of agricultural and livestock production and livelihoods are entirely dependent upon the sale and export 
+of such goods. Thus, improving connectivity, supporting livelihoods, and building resilience will contribute towards 
+creating a sense of belonging, inclusion, sharing of benefits, and greater peace and security.  
+ 
+5. 
+The countries of the HoA are currently facing converging crises: The Coronavirus 2019 (COVID-19) 
+pandemic and its resulting economic disruptions, food insecurity due to droughts and locusts, and the spreading 
+repercussions of the war in Ukraine. The HoA has had more than 875,000 infections and 14,000 deaths from 
+COVID-19 as of July 2022, compared to 11.8 million infections and more than 250,000 deaths for Africa as a 
+continent.7 In Somalia, a seemingly low number of cases (26,830) and deaths (1,361)8 may reflect weak testing 
+and reporting capacity more than it does actual lower infection rates. While the COVID-19 rates and morbidity 
+have begun to decline as of the time of project approval, and its impact on the African economy begun to wain - 
+the sharp decline in GDP in 2020 (2.2 percent reduction) was followed by a surprisingly robust recovery in 2021 
+(4.5 percent increase), progress has been jeopardized by the Russian invasion of Ukraine which has triggered a 
+global economic shock. Surging oil and food prices are straining regional economies and have increased food 
+security concerns.9 In the Horn of Africa these COVID-19 and global shocks are compounding already difficult 
+challenges resulting from drought and locusts, which have heightened food insecurity and depressed the 
+economic output of the agriculture sector which is at the heart of much of the region’s economy.  
+ 
+ 
+5 “Infrastructure and Structural Change in the Horn of Africa”. World Bank. 2021 
+6 Noack, M. Protracted Displacement in the Horn of Africa. 2020. Bonn International Center for Conversion 
+7 Africa Center for Disease Control (accessed July 4, 2022). 
+8 Ibid. 
+9 International Monetary Fund, Regional Economic Outlook Sub-Saharan Africa, April 2022 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 9 of 66 
+ 
+ 
+6. 
+The countries10 came together in 2019 to launch the Horn of Africa Initiative, recognizing the need for a 
+concerted effort to collectively chart a way forward, based on recent improvements in inter-state relations. 
+Leaders of the HoA requested support from the World Bank, African Development Bank (AfDB) and European 
+Union (EU) on deepening economic integration. The resulting HoA Initiative consists of a US$15 billion package of 
+priorities under four thematic areas: (i) development of regional infrastructure networks covering upgrading of 
+economic corridors, energy, and digital connectivity; (ii) trade and economic integration covering trade 
+facilitation, regional value chains, and improvements in the investment climate; (iii) resilience building involving 
+strengthening of pastoral production systems; and (iv) human capital development, focusing on building skills for 
+future employment and empowering women and youth.  
+ 
+7. 
+The HoA Initiative offers opportunities to transform the economies of the region, create and diversify 
+jobs, reduce poverty, conflicts and inequality, and boost the economic performance of the region. Between 
+2014 and 2019, growth in the HoA outpaced growth in Sub-Saharan Africa as a whole, but opportunities to close 
+the development gap at a faster pace have been missed due to the low-level of integration and the infrastructure 
+challenges that the HoA initiative has been established to tackle. Inter-regional trade  for example is considerably 
+below what would be expected based on the economic size and location of the countries.11 Cross border trade 
+enhances food security through the movement of grain and other food items from surplus areas to deficit areas 
+and by increasing the price incentives to production in those areas where efficiency and yields are highest,12 but 
+it is today largely informal and inefficient, due to multiple off-loading and severe non-tariff barriers to trade in the 
+transport chains.13 The region is also strategically important from a digital connectivity perspective, given the 
+number of international submarine cables landing (current/planned) in coastal cities, including in Djibouti, 
+Mogadishu (Somalia) and Mombasa (Kenya). The absence of a well-developed network infrastructure in Somalia 
+is preventing it from fully benefitting from this access as well as serving to facilitate digital connectivity to 
+landlocked Ethiopia. Due to slow progress in structural transformation, especially in Ethiopia, self-employment 
+and unpaid work still account for the bulk of employment in the HoA.14  
+ 
+8. 
+While Somalia’s role in realizing the HoA Initiative is key to its success, it faces the biggest challenge 
+and the longest road to implementation. As part of the proposed HoA Initiative, Somalia is engaging with its 
+neighbors to rebuild links to regional and global economies. Within the HoA Initiative’s infrastructure pillar, 
+economic corridor road connections linking to the port cities serving the HoA are high on the agenda (Figure 1). 
+The connectivity provided by the regional corridors have the potential of supporting integration on three different 
+but complementary levels: (i) regional integration among countries in the HoA, (ii) integration with global markets, 
+and (iii) domestic market integration. Despite this potential, Somalia is ill prepared to deliver major regional 
+integration infrastructure in the short term due to an absence of the institutions, policy and legal environment, 
+and shovel-ready projects needed to plan for and implement infrastructure investments.  
+ 
+9. 
+The HoA Initiative has accordingly been designed to support the countries to fully realize their economic 
+potential through selective high-impact measures and investments by (i) financing the agreed investment 
+priorities where ready, (ii) supporting the development of bankable projects where such investments are not 
+ 
+10 Djibouti, Ethiopia, Eritrea, Kenya, and Somalia.  Sudan joined in May of 2021 but had not been integrated into the HoA Initiative’s 
+planning or identified projects as of the time of project preparation. 
+11 Horn of Africa Regional Economic Memorandum, 2021.  
+12 Ibid.  
+13 Some of the challenges in the cross-border movements are analyzed in detail in the analysis of border markets in World Bank. 2021. 
+Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda  
+14 World Bank. Horn of Africa Regional Economic Memorandum, 2021  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 10 of 66 
+ 
+ 
+ready for financing, and (iii) strengthening policy coordination issues amongst the HoA countries. The World Bank 
+is actively supporting the countries in all three areas, focusing on areas (ii) and (iii) in Somalia. In the transport 
+sector in Somalia, the proposed project is expected to finance the feasibility and design studies for corridor 
+investments, as well as building the capacity of the government to plan for and manage such assets. While these 
+studies and designs are intended to facilitate future projects, no civil works are planned under the proposed 
+project. In other countries, such as Kenya, Djibouti and Ethiopia, the World Bank is supporting investments in civil 
+works related to corridor development through the other projects in this series.15   
+ 
+Figure 1 - Identified HOA Transport Corridors16 
+ 
+ 
+ 
+ 
+ 
+ 
+15 See Box 1 for more information on the SOP. Other projects in this series - the Horn of Africa Gateway Development Project (P161305), 
+Horn of Africa Initiative: Djibouti Regional Economic Corridor Project (P174300), and the Horn of Africa Initiative: Regional Economic 
+Corridor Project (Addis-Djibouti Corridor) (P174485) - are intended to support regional connectivity in Kenya, Djibouti and Ethiopia, 
+respectively. 
+16 Prepared by the World Bank as part of its HoA Initiative engagement 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 11 of 66 
+ 
+ 
+b) Country Context 
+ 
+10. 
+Somalia is emerging from a legacy of three decades of cycles of violent conflict and fragility. Since 1991, 
+the country has been fragmented by armed conflict, ad hoc regime changes and state capture. The August 2012 
+transfer of power from a transitional to a full federal government in Mogadishu and the peaceful handover of 
+power in 2017 following an election, generated domestic political momentum, and triggered international 
+recognition and support for the new federal government. Over this period, Somalia has made encouraging steps 
+towards a political settlement and the rehabilitation of government institutions. The Provisional Constitution of 
+the Federal Republic of Somalia adopted on August 1, 2012, provides the legal foundation for the existence of the 
+Federal Republic and is the first step towards a new federalism model for Somalia.  
+ 
+11. 
+The federation process has been complex and challenging despite the creation of several Federal 
+Member States (FMS).17 The four new FMS in southern Somalia are Jubaland, Southwest, Galmudug and 
+Hirshabelle, with Puntland in the north having been formed in 1998. Somaliland in the northwest is a 
+semiautonomous region. Uncertainties however remain over the assignment of functions to different levels of 
+government, pending a final constitutional settlement. Discussions over power and resource sharing are ongoing 
+and remain highly sensitive. Disagreements in early 2021 over electoral processes and timing, with various FMS 
+taking opposing views and low-level violence, led to a protracted presidential election, concluding in May 2022. 
+Despite the successfully completed election, relations between the Federal Government of Somalia (FGS) and FMS 
+will likely remain unstable and asymmetric for some time, even as inter-governmental cooperation arrangements 
+emerge.18  
+ 
+12. 
+Decades of conflict compounded by recurring natural disasters have displaced a significant portion of 
+society and damaged much of the country’s infrastructure, resulting in high rates of poverty and food insecurity. 
+Of the estimated 16.4 million Somali population,19 as of 2021 at least 2.5 million live on the margins of food 
+insecurity.20 777,000 Somalis currently reside outside of the country as refugees, and another 3.0 million are 
+internally displaced, many of whom live in urban areas.21 Poverty is estimated at approximately 69 percent at the 
+national level, with even higher rates seen in Mogadishu and among the internally displaced population.22 The 
+poor are also likely to experience non-monetary poverty with worse access to basic services such as education, 
+health, water and sanitation than the overall population.23 However, remittances sent home from outside the 
+country have somewhat mitigated the extreme poverty in Somalia: a 2019 World Bank study shows that 
+households receiving international remittances are less likely to be poor, with only 58 percent of remittance-
+recipient households adjudged as poor, compared to 71 percent of non-recipient households.24 
+ 
+13. 
+Somalia’s economy has proven remarkably resilient, but resources for infrastructure and service 
+delivery are limited and recent challenges threaten progress. Despite the perpetual civil conflict, the economy 
+ 
+17 Somaliland remains separate from the federation. 
+18 World Bank. Country Partnership Framework for Somalia. August 2018.  
+19 World Development Indicators, World Bank. 2021 
+20 FEWSNET – Somalia Food Security Outlook for October 2020 to May 2021 
+21 UNHCR Refugee Data Finder. (URL: https://www.unhcr.org/refugee-statistics/download/?url=8w7IWa) 
+22 World Bank, 2019. Somalia Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somali High Frequency Survey. 
+https://openknowledge.worldbank.org/handle/10986/32323 
+23 World Bank, 2017. Somalia - Systematic Country Diagnostic 
+24 World Bank, 2019. Somalia Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somali High Frequency Survey. (URL: 
+https://openknowledge.worldbank.org/handle/10986/32323) 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 12 of 66 
+ 
+ 
+was growing at a moderate pace before the COVID-19 induced downturn, growing by 2.9 percent in 2019, mainly 
+supported by recovering agricultural production, sustained consolidation of peace and security, gradual increase 
+in private investment, and donor inflows. The COVID-19 pandemic has interrupted this recovery, however, with a 
+contraction of 2.2 percent in 2020 driven by reduced demand for livestock and other goods, slowing remittances, 
+and general disruption. While there are some signs of recovery, the downside risk is substantial, including due to 
+political uncertainty, locust infestations, drought, security threats, and more. With an estimated GDP per capita 
+of US$446 in 2021, Somalia remains one of the poorest countries in the world.25   
+ 
+14. 
+With an arid and semi-arid climate, Somalia has suffered from a reoccurring cycle of droughts and 
+floods. Droughts occur every 2-3 years and are often followed by floods, particularly in the south of the country. 
+The drought in 2016-2017 exacerbated the country’s vulnerability by resulting in the loss of livelihoods and forcibly 
+displacing more people and caused significant economic and environmental damages and losses. The agriculture 
+sector, which underpins the Somali economy, experienced near total collapse with crop failures and increased 
+livestock mortality due to widespread shortage of water. This resulted in loss of livelihoods for many, left 
+approximately 6.7 million Somalis – more than half the population – in need of humanitarian assistance and 
+displaced more than 926,000 people.26 The majority of the drought related displacement takes place in rural areas 
+with populations moving to urban centers to join existing settlements for the internally displaced. The cities of 
+Mogadishu, Baidoa and Kismayo host almost 40 percent of the total drought-related displacements.27 More 
+recently, the country has been troubled by floods and an invasion of locusts, which have destroyed crops. Along 
+the coastline, coastal flooding presents a risk that may increase with sea level rise and higher storm surges due to 
+climate change.28 
+ 
+15. 
+Somalia could benefit from one of the most productive marine ecosystems in the world. With 3,300 km 
+of coastline along the Indian Ocean and Gulf of Aden, Somalia has the longest coastline in continental Africa. The 
+Exclusive Economic Zone of Somalia extends to 825,052 km2, covering 30 percent larger than its entire land area 
+(637,657km2). Thanks to the Somali current and a major upwelling created by the Southwest monsoon, the 
+productivity of Somali waters is very high. Its narrow continental shelf is home to several species of demersal fish 
+and crustaceans and the offshore waters are prime fishing grounds for highly migratory fish species such as tuna 
+and tuna-like species. Despite this potential, the country’s Blue Economy has remained largely untapped due to 
+issues linked to weak governance, absence of management and rampant Illegal, unreported, and unregulated 
+fishing activities. 
+ 
+16. 
+The FGS has significantly improved its ability to implement fiscal policy. Domestic revenue collection 
+(tax and non-tax revenues) has been gradually increasing, although remains low, at an estimated 3.1 percent of 
+GDP in 2021.29 This performance is driven by the government’s continued efforts to broaden the tax base including 
+introduction of sales tax on goods and services; enhanced compliance; and improved collection capacity which 
+has also seen an increase in non-tax revenue. However, revenue collection levels across the states vary 
+significantly, ranging in 2018 from US$74 per capita in the territory controlled by the FGS, to US$0.4 per capita in 
+Galmudug.30 Furthermore, fiscal space is constrained by recurrent expenditures related to the wage bill as well as 
+ 
+25 World Bank. World Development Indicators 
+26 Drought Impact Needs Assessment (DINA) Executive Summary. 2017. 
+27 Humanitarian Bulletin, July 2017, United Nations Office for the Coordination of Humanitarian Affairs 
+28 Think Hazard, consulted in December 2020. (URL: https://thinkhazard.org/en/report/226-somalia). 
+29 Macro Poverty Outlook: Somalia, 2022. World Bank 
+30 Domestic Resource Mobilization in Somalia, Somalia Public Expenditure Review, World Bank, 2021. 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 13 of 66 
+ 
+ 
+security and administrative services both accounting for about 90 percent of the total spending, hence crowding 
+out social and economic sectors. The government’s fiscal performance has been monitored by the International 
+Monetary Fund’s Staff Monitored Programs.31 The government still relies heavily on external assistance for socio-
+economic infrastructure and services.  
+ 
+17. 
+The FGS has begun to rebuild its capacity to deliver results for its citizens, with the support of 
+multilateral and bilateral development partners (DPs) including the WBG. Considerable resources have been 
+invested in the public sector at the federal level through the strengthening of financial management (FM), 
+institutional capacity, and payment of recurrent costs. The World Bank’s Special Financing Facility for Local 
+Development32  developed procurement and supervision functions at the federal Ministry of Finance (MoF) and 
+financed small-scale investments across Somalia, mainly in smaller secondary and tertiary cities. A World Bank-
+financed urban project (Somalia Urban Resilience Project, Phase I and Phase II33) is supporting key cities by 
+supporting the flow of funds from the federal to lower levels of government and strengthening project planning 
+and implementation capacity at the municipal level.  
+ 
+18. 
+Despite signs of improving capacity and stability, global trends, including the COVID-19 pandemic, rising 
+inflation, and food shortages driven by the war in Ukraine and drought, threaten to derail progress and set 
+Somalia further back, both relative to its neighbors, and nominally in terms of development outcomes. Although 
+testing remains limited, supporting contextual evidence indicates that COVID-19 remains a challenge. Rising prices 
+and supply chain disruptions have led to growing food insecurity and rising prices, threatening the country’s 
+economic and political recovery, potentially reversing the gains of the past decade. Reestablishing the country on 
+a positive trajectory considering the various crises will require concerted effort from the FGS and FMS, as well as 
+concerted support from DPs and with major export destinations. 
+ 
+B. Sectoral and Institutional Context 
+ 
+19. 
+Leveraging its strategic location, Somalia is seeking to capitalize on its potential to be an economic 
+integrator within the Horn of Africa, with trade and infrastructure services facilitating connectivity to global 
+markets. It is located at the intersection of four regions: Africa, Asia, Europe and Middle East. Somalia’s seaports 
+at Mogadishu, Bossaso, Kismayo and Berbera are potential assets - not only for Somalia but also its neighboring 
+countries in the greater HoA, including Ethiopia, South Sudan, and Sudan - to improve connectivity and access 
+greater economic opportunities in the global market. With Ethiopia’s landlocked 112 million citizens to its west, 
+Somalia recognizes a potential role as transit country connecting the hinterland to global markets. With its long 
+coastline, established seaports, important marine resources, planned new international sub-marine fiber optic 
+cable connections, and orientation of its primary roads as beltways into the interior, Somalia has a potential 
+competitive advantage to becoming a gateway to international markets for its landlocked neighbors. Driven by a 
+desire to increase resilience, the diversification away from Djibouti as the primary gateway for Ethiopia, especially 
+through the strategically located port of Berbera in Somaliland, has been a high priority for the Ethiopian 
+government in recent years.  And yet, this significant potential for increased integration with hinterland countries 
+is largely impeded by current infrastructure and institutional challenges, including failing road infrastructure, 
+ 
+31 Somalia: Second Review Under the Staff-Monitored Program and Request for Three-Year Arrangements under the Extended Fund 
+Facility-Press Release. International Monetary Fund. (URL: https://www.imf.org/en/Publications/CR/Issues/2020/03/26/Somalia-Second-
+Review-Under-the-Staff-Monitored-Program-and-Request-for-Three-Year-49289) 
+32 Trust funded activities under the Special Financing Facility for Local Development Project (P156257) 
+33 Somalia Urban Resilience Project (P163857) and Somalia Urban Resilience Project II (P170922)  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 14 of 66 
+ 
+ 
+limited port capacity, undeveloped cold-chain infrastructures and seafood value-chains, missing terrestrial fiber 
+optic backbone networks to distribute international bandwidth, weak institutions, absent or unclear regulations, 
+non-tariff barriers to trade and financial and fiscal challenges both at FGS and FMS levels. In addition, although 
+the country’s strategic position presents opportunities, the presence of other ports in the wider region (including 
+Mombasa in Kenya and Djibouti) presents some level of competition, highlighting the importance of addressing 
+wider bottlenecks and identifying specific trade flows for which it has a competitive advantage. 
+ 
+20. 
+As addressing Somalia’s infrastructure gaps will be the work of decades, the project seeks to lay the 
+foundation by supporting the technical work necessary for delivering a pipeline for economic corridor 
+development and associated connectivity. The project will undertake analytical work to both underpin 
+development of that pipeline, as well as to establish the tools for good sector management, and provide initial 
+incremental steps for institutional and capacity development. No civil works will be undertaken under this project, 
+but subsequent projects (to be potentially financed by the World Bank or others) will be launched as designs are 
+completed. 
+ 
+21. 
+The Government has limited capacity and resources to provide basic service delivery and bridge the 
+country’s vast infrastructure challenges. National institutions are either weak or nascent, and the FGS has 
+identified several national sectoral agencies to be created. Both the Somali Ports Authority and the Somali 
+National Highway Authority are officially established but are yet to be operationalized at scale. In the energy 
+sector, there are discussions for the operationalization of a national energy authority. While the World Bank has 
+successfully supported the establishment of the National Communication Authority, the telecom sector regulator, 
+since 2018, the institutions remain nascent and in need of further support and technical assistance. The FGS 
+sectoral ministries which are attempting to fill the gap have neither the capacity nor the analytical underpinnings 
+to effectively do so. District governments (which function as municipal governments) have the primary 
+responsibility for providing basic services. However, capacity and fiscal constraints limit their ability to undertake 
+basic municipal functions, and outside of a few larger cities, these constraints deepen rapidly. FMS governments 
+are only receiving a small recurrent budget through an inter-governmental fiscal transfer, and staffing is generally 
+skeletal with limited capacity. Municipal/district governments’ own revenue collection is minimal and 
+unstructured. They are dependent on external assistance or the private sector for capital investments. Delivery of 
+services tends to be ad hoc due to lack of comprehensive urban development plans and limited resources.  
+ 
+22. 
+There is insufficient capacity for assessment and management of environmental and social risks in 
+Somalia. Much remains to be done to operationalize policies, laws, and regulations for national or state-level 
+environmental and social oversight either newly endorsed or under development, including a National Climate 
+Change Policy, a National Environment Policy, a National Environment Management and Coordination Act, and an 
+Environment and Social Impact Assessment Regulation which have all been recently ratified and adopted by the 
+Somali government. Municipal-level development control and use of instruments such as zoning and land use 
+planning is non-existent, generally. In addition to the newly created laws and regulations, with the support of the 
+World Bank, some measure of progress has been noted over the past several years. In particular, the World Bank 
+has been technically supporting the capacity of the FGS to address environmental requirements, first with the 
+Directorate of the Environment and Climate Change in the Office of the Prime Minister (OPM), and subsequently 
+in the recently created Ministry of Environment and Climate Change (MECC).  
+ 
+23. 
+The project will provide the first step towards the multi-decade capacity building process for the 
+country’s transport and trade sectors.  While the initial set of designs and studies designed under the project will 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 15 of 66 
+ 
+ 
+contribute to eventually meeting the infrastructure gap, sustainable access and connectivity within Somalia and 
+between the countries of the region will require institutions empowered to maintain and expand this base over 
+the long term. Capacity building activities within the project have been selected with a 10-to-15-year vision, 
+prioritizing skills and capacities which will contribute to this longer-term objective. 
+ 
+24. 
+Gender inequality and Gender Based Violence (GBV) are prevalent issues in Somalia. According to the 
+2019 World Bank Somali Poverty and Vulnerability Assessment, only 37 percent of women participate in the labor 
+market, compared with 58 percent of men.34 Employment rates are low in general in Somalia compared to other 
+low-income countries in Africa; however available data shows large employment gaps in the infrastructure sectors 
+specifically, with men participating 34 times more than women in the transport and communications sectors, 
+while women’s involvement in utilities is almost nil.35 There is no exact data about the number of women working 
+in the maritime sector in Somalia, but it is well known that women are under-represented in this sector. In the 
+fisheries sector, women are playing an important role acting as fishmongers buying fish from fishers and selling it 
+to the public with minimal processing; however, fishing is still considered as male dominated sector.36 Evidence 
+provides some explanations related to women’s inactivity, such as gender social norms, and gaps in school 
+enrollment.37 World Bank research suggest that there is only a slight gender gap in relation to digital financial 
+services in Somalia.38 GBV, including sexual exploitation and abuse (SEA) is a significant challenge in Somalia,39 
+driven by pervasive insecurity, increased vulnerability, and displacement. The persistent violations take the form 
+of rape, physical assault, intimate partner violence, abduction, forced prostitution, exploitation, and human 
+trafficking. Key risk factors identified include internal migration and displacements linked to conflict or disaster, 
+limited settlement security for the forcibly displaced, poor living conditions and lessened clan protection. 
+Displaced women and girls are among the most vulnerable population, and, in particular to violence. According to 
+the GBV Integrated Management System, between January 2015 to June 2016, 73-78 percent of survivors of GBV 
+were female Internally Displaced Persons.40  
+ 
+a) Regional Economic Integration 
+ 
+25. 
+The WBG’s support towards regional integration in Africa is guided by the World Bank’s Africa Regional 
+Integration Strategy.41 The strategy notes that priority should be given to: (i) selected transnational economic 
+corridors where integration could be realized; (ii) addressing policy and other barriers to value addition and 
+facilitating greater trade on these corridors; and (iii) integration priorities of the Regional Economic Communities 
+and the expectations of the private sector in terms of connecting and growing markets.  
+ 
+ 
+34 World Bank. (2019). Somali Poverty and Vulnerability Assessment. Findings from Wave 2 of the Somali High Frequency Survey. April 
+2019 Report No. AUS000040710042. (URL: https://elibrary.worldbank.org/doi/epdf/10.1596/32323) 
+35 ILOSTAT. Employment by sex and economic activity: (URL: 
+https://www.ilo.org/shinyapps/bulkexplorer32/?lang=en&segment=indicator&id=EAP_2EAP_SEX_AGE_NB_A) 
+36 United Nations Somalia. (2020). Fish give women in Somalia a taste of hope (URL: https://somalia.un.org/en/50252-fish-give-women-
+somalia-taste-hope) 
+37 Federal Government of Somalia. National Development Plan 2017-2019. 
+38 World Bank. (2018), Mobile Money Ecosystem research 
+39 World Bank. (2018). Country Partnership Framework for the Republic of Somalia 2019-2022 (URL: 
+https://documents1.worldbank.org/curated/en/941361537906125793/pdf/SOMALIA-CPF-08312018.pdf) 
+40 World Bank. (2018). Country Partnership Framework for the Republic of Somalia (2019-2022): (URL: 
+https://documents1.worldbank.org/curated/en/941361537906125793/pdf/SOMALIA-CPF-08312018.pdf) 
+41 World Bank. Supporting Africa’s Transformation: Regional Integration and Cooperation Assistance Strategy for the Period FY21–FY23, 
+Report No. 154458-AFR 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 16 of 66 
+ 
+ 
+26. 
+The economies of the HoA countries are mostly agriculture-based and rely on imports for most other 
+goods. Imports from outside of the HoA region by member countries significantly exceed intra-regional trade. For 
+instance, in 2017, Ethiopia’s and Kenya’s imports from the HoA amounted in value to US$67.5 million and US$42.6 
+million, respectively, while their exports to the HoA amounted to US$20 million and US$267 million, respectively. 
+Somalia on the other hand, imported goods worth US$190 million from the HoA countries in 2019 but exported 
+officially less than US$1 million during the same year.42 Apart from the Kenyan exports to Somalia therefore, intra-
+regional official trade in the region is at best marginal. See Table 2 and 3 for more detail.  
+  
+Table 2: Imports Value within and outside HoA by Country (US$ million) 
+Country 
+Imports from 
+HoA 
+ 
+Imports from 
+Africa 
+ Imports from the 
+World  
+% share of HoA in total 
+imports from Africa 
+% share of HoA 
+in total Imports  
+Djibouti 
+ 7.5  
+ 
+ 187 
+ 4,450  
+4.03 
+0.17 
+Eritrea 
+  1.7 
+ 
+ 140  
+ 396  
+1.20 
+0.43 
+Ethiopia 
+ 67.5  
+ 
+ 741 
+ 9,760  
+9.12 
+2.54 
+Kenya 
+ 42.6  
+ 
+ 2,250  
+16,900  
+1.80 
+0.25 
+Somalia 
+ 190.0  
+ 
+ 298 
+ 3,070  
+63.80 
+6.19 
+ 
+Table 3: Exports Value within and from outside HoA by Country (US$ million) 
+Country 
+Exports to HoA 
+Exports to Africa 
+Exports to the 
+World  
+% share of HoA in total 
+Exports to Africa 
+% share of HoA in 
+total Exports 
+Djibouti 
+ 0.434  
+  9.37 
+ 99.9  
+4.63 
+0.43 
+Eritrea 
+ 0.0431 
+ 6.27  
+ 418 
+0.68 
+0.01 
+Ethiopia 
+ 20  
+ 72.1 
+ 2,260  
+27.7 
+0.89 
+Kenya 
+ 267  
+ 2,270  
+ 5,700  
+11.7 
+4.7 
+Somalia 
+ 0.911 
+ 5.43 
+ 325  
+16.78 
+0.3 
+Source: World Integrated Trade Solution database and Horn of Africa Regional Economic Memorandum (P172711), 2021 
+ 
+27. 
+Somalia’s integration with the HoA region, and the wider African economy, has the potential to spur 
+growth. The development of integrated economic corridors, tackling access to transport, energy, internet, 
+telecoms, and trade, have been found to deliver real positive outcomes. A recently published study43 on the 
+potential impact of infrastructure development on the HoA found that a coordinated expansion in access to roads, 
+electricity and internet, as could be envisioned through an economic corridor approach can have an important 
+role in driving a structural change in employment (estimated at a 12 percent increase in the share of services 
+employment). The same study also estimated that development of the HoA Initiative identified corridors, 
+combined with trade facilitation support, could boost real income in Somalia by 6.3 percent. The development of 
+such corridors is expected to support three important objectives: reduction in travel time to port for landlocked 
+regions; generation of domestic and regional economic activity along the corridor (including in marginalized 
+areas); and promotion of intra-regional trade. Such integration will be especially important to take advantage of 
+the recently agreed African Continental Free Trade Area. 
+ 
+28. 
+However, the barriers to such integrated trade are many, going beyond just infrastructure provision. 
+Road construction and rehabilitation along the country’s main corridors has been a challenge since the collapse 
+of the state in 1991 and the road infrastructure is mostly in poor to very poor condition. Some sections are not 
+paved which further hinders the movement of trucks, especially during rainy seasons, and substantially impact 
+ 
+42 World Integrated Trade Solution database and Horn of Africa Regional Economic Memorandum , 2021 
+43 “Infrastructure and Structural Change in the Horn of Africa”. World Bank. 2021 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 17 of 66 
+ 
+ 
+transport prices and costs. Dilapidated road infrastructure is not the only driver of high transport costs and prices 
+as documented by recent analytical work;44 support for complementary measures and studies are needed to 
+unlock the economic potential of these “conveyor belts” for international trade and economic development in the 
+country. As a start, the establishment of corridor observatories, drawing lessons from years of support in Sub-
+Saharan Africa, will be instrumental in collecting disaggregate data on truck movements and trade performance 
+along each section of the main corridors, and report major obstacles to trade such as checkpoints and roadblocks, 
+security issues and market organization issues which have been demonstrated to significantly impact the transport 
+prices and costs.45 In the absence of state intervention, central market associations/organizations in port cities 
+(Mogadishu, Berbera, Bossaso, Kismayo), in major trade gateways (e.g. Galkayo, Lascanod) and in some border 
+towns (e.g., Dhobley, Elwak, Beled Hawo or Tog Wajale) have developed to organize and streamline operations 
+where most trade and long-distance transport transactions materialize. Opportunities for more efficient 
+operations are many, including in port-market linkages, freight allocation, cargo insurance arrangements, bulking 
+and storage, and in monitoring prices. 
+ 
+29. 
+HoA countries are members of various regional bodies, although the effectiveness of these as economic 
+blocks is somewhat tenuous. For instance, Somalia, Djibouti, Kenya and Ethiopia are members of the 
+Intergovernmental Authority on Development (IGAD) and the Common Market for Eastern and Southern Africa.  
+Djibouti, Ethiopia, Kenya and Somalia are also party to the Agreement Establishing the African Continental Free 
+Trade Agreement, although Somalia is still in the process of ratification. Although progress has been made to 
+expand the coverage of these and several other agreements, effective implementation remains a challenge. The 
+recently approved Kenya Horn of Africa Gateway Development Project46 will support initiatives towards agreeing 
+on common trading protocols, starting bilaterally between Ethiopia and Kenya, followed by integration with the 
+rest of the members of the HoA.  
+ 
+30. 
+ Kenya, Ethiopia and Somalia have long common borders, with alternative border posts for cross-border 
+trade.47 However, formal trade has been limited in part by the lack of effective border management systems and 
+protocols, and general insecurity which on many occasions led to the closing of the border posts or the prohibition 
+of cross-border movements for cargo and/or individuals. Despite these limitations, informal and illegal trade 
+thrives. Kenya has established a lead agency, Customs and Border Control, responsible for the management of 
+border crossings and controls very strictly the movement of cargo and individuals, with stringent visa 
+requirements preventing most Somalis (including drivers) from crossing the border and circulating in Kenya. The 
+only Somali drivers reported to cross the borders and deliver freight into Kenyan territory (up to the refugee camp 
+of Dadaab for example or even Garissa) hold dual nationalities.48 Similar arrangements are reported along the 
+Ethiopia/Somalia borders, but restrictions are more severe on trucks than individuals and it is not uncommon to 
+observe truck drivers illegally changing truck plates at the borders to circulate into the neighboring country.  In 
+this context, it is paramount to put in place effective border management measures and transit systems to enable 
+the efficient and secure movement of goods and individuals across borders thereby facilitating regional 
+integration and delivering the job creation and economic development promise for local populations.  
+ 
+ 
+44 World Bank. 2021. Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda  
+45 Ibid. 
+46 Project ID P161305, and the first in the SoP which includes this project 
+47 The United Nations Office for Coordination of Humanitarian Affairs for example supervises the status of 19 border posts between 
+Somalia and its neighboring countries (Djibouti, Ethiopia or Kenya) in the periodic public COVID-19 Monthly reports.   
+48 World Bank. 2021. Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 18 of 66 
+ 
+ 
+31. 
+Although Somalia is relatively highly urbanized, development of the hinterland and borderlands will be 
+vital, as farmers and pastoralists living in rural areas are not well connected to domestic or international 
+markets. According to the World Development Indicators about 7.6 million live in Somalia’s urban areas (as of 
+2021), with half of estimated to live in the primary city, Mogadishu. Those not living in urban areas face significant 
+connectivity gaps: The Rural Access Index, which measures the share of the rural population that is within 2 km of 
+an all-weather road, has been calculated at just 31.2 percent, compared to 56 percent in neighboring Kenya.49 In 
+most areas of the country, total transport costs to a large city, a proxy for estimating access to domestic markets, 
+are found to be very high, at US$20 to US$50 per ton, despite relatively short distances. The transport sector is 
+vulnerable to the impacts of climate change and natural disasters like flooding, extreme temperatures, and 
+landslides, especially in the semi-desert areas and along riverbeds in the South. A resilient transport sector could, 
+in turn, enhance the resilience of communities by improving food and water security and providing all-season 
+access to services like education and health. 
+ 
+32. 
+The Somali economy has been traditionally dominated by pastoralism and crop production, followed 
+by fisheries and forestry and these four sectors are supporting over 80 percent of the population. Somalia has 
+a long tradition of pastoralism and pastoral communities. Most pastoralists in the North of Somalia are in the 
+Haud and Sool Plateau, and they are also very present along the borders with Ethiopia and Kenya. Somalia has 
+some of the largest livestock populations in the world, especially camels, goats, sheep and cattle. Yet the 
+challenges to trade this livestock across borders, whether through international ports or the land borders 
+(especially with Kenya) are many. Critical infrastructure improvements are needed to support transformation of 
+this sector and boost its value addition in the country, including investment into meat processing facilities at the 
+ports and the development of reliable cold chains.  
+ 
+33. 
+The potential for the trade of fish and the broader Blue Economy to better contribute to the regional 
+economy remains largely untapped. Rebuilding, managing, and diversifying the fishery sector is essential to 
+strengthening food security and coastal livelihoods as well as to promoting employment in the sector and generate 
+revenues for the country. With a strong market for fish in Ethiopia, development of the necessary infrastructure 
+and systems to harvest and transport goods into the hinterland has strong economic potential. However, the state 
+of the resources is largely unknown, the institutional capacity is weak, the legal and regulatory framework is 
+incomplete, management and governance arrangements are missing and basic fisheries infrastructures, e.g., 
+fishing ports and landing sites, cold chain and processing infrastructure, are lacking.  
+ 
+b) Infrastructure Integration 
+ 
+34. 
+Somalia’s national transport infrastructure has suffered dramatically from a lack of maintenance and 
+investment during the civil war and the current infrastructure gaps in the transport sector are massive. Of the 
+21,830 km of roads in the country, only 2,860 km are estimated to be paved (13 percent), and most of this paved 
+network is believed to be in poor or very poor condition. Only 31.2 percent of the rural population has access to 
+an all-season road, with the majority without reliable access.50 Along the coast, the lack of infrastructure expresses 
+itself as a severe limitation on the fishing industry, with a low intensity of development of coastal infrastructure 
+in some regions (e.g., Galmudug and Hirshabelle).  
+ 
+ 
+49 World Bank Development Data Hub, Rural Access Index. Updated 2022. 
+https://datacatalog.worldbank.org/search/dataset/0038250/Rural-Access-Index--RAI- 
+50 SDG 9.1.1. Rural Access Index - https://datacatalog.worldbank.org/dataset/rural-access-index-rai 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 19 of 66 
+ 
+ 
+35. 
+Since 2012, the federal government and the FMS, with the support of development partners have begun 
+to identify and act on initial priorities for critical investment in the road sector. The AfDB supported the FGS to 
+conduct a sector evaluation (Transport Sector Needs Assessment, 2016) to identify priorities in the sector. Few 
+road reconstruction/rehabilitation projects are under preparation or implementation: the Berbera-Tog Wajale 
+corridor and the Burco-Berbera road (supported by the UK’s Foreign, Commonwealth and Development Office 
+and the Abu Dhabi Fund for Development) and the Berbera-Hargeisa road (also supported by the Abu Dhabi Fund 
+for Development) in Somaliland, the Beledweyne-Galkayo and Garowe-Galkayo roads in Puntland  and the 
+Galkayo-Hobyo road in Galmudug (supported by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 
+AfDB and the EU), the Luuq-Doolow road in Jubaland, (supported by AfDB and the EU) and the Mogadishu-Afgoye 
+and Mogadishu-Jowhar roads in Banadir/Hirshabelle (supported by the Qatar Fund for Development).51 Beyond 
+these interventions, other road works are not being planned, let alone shovel-ready, because of a lack of requisite 
+technical studies and resources on the part of the FGS. The institutional capacities of the ministries are limited, 
+and the governance challenges are many, especially due to absence of clear demarcation of authorities between 
+the federal government and FMS in the management of the sector.  
+ 
+36. 
+Somalia currently has four ports operating as international ports which serve as the gateways to the 
+major transport corridors in the country. In Somaliland and Puntland, the ports of Berbera and Bosasso are being 
+operated through a long-term concession with a private company. In Mogadishu, the main port of the country is 
+managed and operated through a recently renegotiated concession contract. In Jubaland, the port of Kismayo is 
+publicly owned and managed. Although some progress has been made in recent years in upgrading the 
+infrastructure of these ports, substantial investments are needed to achieve the country’s ambitions in the 
+maritime sector, especially in view of the substantial increase in demand forecasted for hinterland countries 
+(Ethiopia and Kenya). Additional port investments are also planned (e.g., in Hobyo, Galmudug) by FMS willing to 
+take advantage of the strategic maritime location of the country to spur the development of their respective 
+regions. 
+ 
+37. 
+Road safety is a challenge in Somalia, but the extent of the issue is unclear due to limited data. The 
+combination of failing infrastructure, absent regulations and weak enforcement of the traffic laws which do exist 
+lead to Somalia having a relatively high level of road crash fatalities and injuries for a country with such a low 
+motorization rate (27.10 fatalities per 100,000 population).52 This is unreliable, however, due to a number of 
+reasons: it is increasingly out of date, estimates are based on unreliable information, and, most importantly, data 
+collection has only covered part of the country.  
+ 
+38. 
+Women and girls are disproportionally affected by inadequate road and transport infrastructure. For 
+instance, as per the Systematic Country Diagnostic (SCD), limited geographical access is one of the main reasons 
+behind the low usage of health facilities by women, contributing, among others, to maternal mortality, which 
+remains persistently high at between 732-1400 deaths per 100,000 live births, with little improvement in the last 
+50 years.53 In addition, poor transport infrastructure exacerbates women’s already heightened vulnerability to 
+ 
+51 These are estimated to cover about 1900 km of roads, with interventions ranging from periodic maintenance to rehabilitation, and with 
+varying likelihood of eventual delivery. 
+52 WHO Global Status Report on Road Safety. World Health Organization.2018 https://extranet.who.int/roadsafety/death-on-the-
+roads/#country_or_area/SOM 
+53 World Bank, Federal Republic of Somalia Systematic Country Diagnostic, 2018 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 20 of 66 
+ 
+ 
+climate change and difficulty accessing services for themselves and their families during periods of forced 
+displacement.54 
+ 
+39. 
+Access to electricity services is low at 33 percent, leaving 10 million in the dark, out of which 7.5 million 
+are in rural areas. Due to the context of fragility and conflict affecting the country since the 90s, the power sector 
+infrastructure and institutional apparatus has never been re-built, which translated into a lack of strategic focus 
+on the electricity access agenda. Services are currently provided by electricity service providers operating in island 
+mode (mini-grids) through diesel gen-sets – an entrepreneurial answer to the lack of infrastructure planning. 
+Electricity supply is inadequate in quantity, quality, and affordability to serve the Somali population and the 
+constrained electricity consumption negatively affects productivity and economic growth. The country is currently 
+discussing possible technical and political membership to the Eastern Africa Power Pool,55 which would integrate 
+the country into regional and continental power trade, and strategically position the country for trading with the 
+Middle East. 
+ 
+40. 
+While the telecoms sector is perhaps more developed than other infrastructure sectors, Somalia lags 
+its regional peers in terms of development of national broadband network infrastructure and access. Until 
+recently, Somalia was only served by one submarine cable, making the country prone to major communication 
+outages. Today, two international submarine fiber optic cables land in Somalia, although with further cables are 
+on the way. Somalia is also able to access capacity via terrestrial cross-border links to Kenya (albeit through weak 
+microwave links) in the south and to Djibouti in the north, via Somaliland’s terrestrial fiberoptic network. In the 
+next three years, the operationalization and arrival of several new regional submarine cables is set to markedly 
+change the connectivity landscape in Somalia, with ripple effects for the wider sub-region - creating opportunities 
+for increased capacity, resilience, and competition. However, Somalia’s weak terrestrial backbone network 
+presents a major bottleneck in maximizing the impact of this surge in international capacity via new cables and 
+landing points. Most of south-central Somalia is served only by expensive and slow microwave or satellite links, 
+which throttle transmission capacity. Most end-user access networks are based on cellular wireless technology. 
+While access to mobile communication services (2G) is thought to cover most of the main population centers, 
+mobile broadband (3G and 4G) services are only available in Somalia’s largest cities, resulting in some of the lowest 
+broadband subscription figures in the region.  
+ 
+41. 
+Application of the ‘dig once’ principle, with coordinated deployment of linear infrastructure56 along key 
+regional corridors in Somalia, would reduce cost of deployment and hasten the rate at which Somalia is able to 
+bridge its vast infrastructure gaps. Aligning infrastructure investments across sectors allows for shared right of 
+ways, coordinated civil works, and delivery mutually reinforcing benefits. With such coordination, however, comes 
+a need for wider sector-based network planning that requires sectoral institutional capacity building and an 
+improved capacity for integrated infrastructure planning, platforms for inter-sectoral coordination and 
+collaboration, as well as joint efforts to support the development of an enabling regulatory framework that cuts 
+across infrastructure sectors - e.g. in relation to rights of way, private public partnerships, environmental and 
+social risk management. 
+ 
+ 
+54 See, for instance, Somalia’s National Adaptation Program of Action on Climate Change, 2013. 
+55 The Eastern Africa Power Pool is a regional institution working to interconnect the electricity grids of eleven countries in Eastern Africa 
+in order to take advantage of excess capacity within the network and facilitate the trade of power between members. 
+56 Such as roads, electricity transmission lines, and fiber optic cables 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 21 of 66 
+ 
+ 
+42. 
+A fragile security situation is an ongoing challenge for infrastructure development in Somalia, especially 
+in the central and southern parts of the country. Although the level of violence has decreased over the last 
+decade, instability continues to threaten the FGS and FMS governments, with Al-Shabaab and other non-state 
+actors continuing to conduct attacks throughout most of the country. For economic corridor development, 
+improvement in security and stability is both a precondition to effective development, and a possible outcome of 
+infrastructure development.57 The prioritization of investments within Somalia will have to take security into 
+account, as a consideration for project readiness, as an ongoing threat to be mitigated through the project cycle, 
+and through its mitigation as a potential project outcome.  
+ 
+C. Relevance to Higher Level Objectives 
+ 
+43. 
+The project contributes to the World Bank’s twin goals of eliminating extreme poverty and boosting 
+shared prosperity through provision of critical economic infrastructure and basic services for some of the 
+world’s poorest and most vulnerable people in one of the most fragile countries.58 The project also contributes 
+to the World Bank’s Somalia Country Partnership Framework (CPF) FY19-2259 which is under discussion for 
+extension to FY23 as part of a draft Performance and Learning Review. It supports Focus Area 1, which aims to 
+strengthen institutions to deliver services while addressing the cross-cutting consideration of building resilience 
+to fragility and shocks. It also supports Focus Area 2, which focuses on restoring economic resilience and 
+opportunities. By laying the groundwork for further infrastructure development and supporting related capacity 
+building, the project could create opportunities for public or private investment which will contribute to the 
+country’s economic resilience and recovery. 
+ 
+44. 
+The project will contribute to the Somalia Ninth National Development Plan (NDP-9) 2020-2024. The 
+Economic Development Pillar of the NDP-9 aims to build “a more diverse and competitive economy capable of 
+taking advantage of emerging regional trade opportunities [as] the best route to broadening growth and 
+mobilizing revenue in the medium to long term.” NDP-9 recognizes that the investment is needed in trade 
+corridors which link Somali ports to neighboring countries.  
+ 
+45. 
+The project also contributes to the World Bank’s Regional Integration and Cooperation Assistance 
+Strategy for Africa (FY21-23).60 There is relevance to Priority 1 of the Strategy “Generate economic dynamism 
+along regional economic corridors” and its objectives 1.1 “Develop regional infrastructure along economically 
+important trunk routes”, 1.3 “Harmonize policy and reduce nontariff barriers to promote trade and improve 
+productivity along these economic corridors, and 1.4 “Build effective stakeholder coalitions to deepen integration 
+along these economic corridors”. The Strategy identifies the need to spatially prioritize interventions to grow the 
+economy and deepen regional integration, while also addressing some of the ‘softer’ aspects of effective corridor 
+development, such as regional trade policy and private sector development.  
+ 
+ 
+57 Transport development, as part of a broader suite of actions, has been shown to have had a positive impact on stability in some 
+countries, as it serves to increase economic interdependence between regions and serves as a visible representation of state influence 
+and control. See, for instance, the discussion in “Forced Displacement in the Great Lakes Region: A Development Approach.” World Bank, 
+Washington, DC. 2015, and “World Development Report: Conflict, Security, and Development”. Washington, DC: World Bank. 2011 
+58 As outlined in the Global Crisis Response Framework (Navigating Multiple Crises, Staying the Course on Long-Term Development: The 
+World Bank Group’s Response to the Crises Affecting Developing Countries) and World Bank Group Strategy for Fragility, Conflict, and 
+Violence 2020-2025) 
+59 Discussed on August 29, 2018. Report No. 12473-SO 
+60 Discussed on December 7, 2020. Report No. 154458-AFR 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 22 of 66 
+ 
+ 
+46. 
+The project is aligned with the objectives the HoA Initiative. Consistent with the Ministerial Communique 
+launching the HoA Initiative,61 the overall objective of the HoA Initiative is to rapidly develop the sub-region by 
+facilitating regional integration and cooperation among the five HoA countries. The project will directly contribute 
+to Pillars 1 of the HoA Initiative, namely “An Interconnected Horn”, that focuses on implementing cross-border 
+regional infrastructure projects including transport corridors; while facilitating progress towards Pillar 2: “More 
+Trade, More Growth, More Jobs”, that focuses on trade and economic integration, and Pillar 4: “Human Capital 
+Development”; as well as the other goals. 
+ 
+47. 
+The HoA Initiative gives importance to transforming transport and logistics corridors into economic 
+corridors by easing the transport of goods and people and providing incentives to stakeholders to trade and 
+engage in various economic activities along the corridors. The resulting effect is increased trade and economic 
+diversification and specialization which leads to wealth generation and social cohesion, inclusivity, and stability 
+and chance to bring about security and peace. With 40 percent of the road kilometers and 4 of the 7 port outlets 
+for the corridors, Somalia carries an outsized role and responsibility in the HoA Initiative. Figure 1 shows the 
+identified HoA Initiative corridors and the Somali linkages to Kenya, Ethiopia, and Djibouti.  
+ 
+48. 
+The project is aligned with the World Bank’s Africa Climate Change Business Plan,62 the Somalia 
+Nationally Determined Contribution (NDC),63 and the National Adaptation Program of Action (NAPA).64 
+Somalia’s NDC and NAPA identify water resources, agriculture and food security, animal husbandry, health, 
+marine and coastal resources as particularly vulnerable to natural disasters and climate change; and propose 
+adaptation actions to reduce risk among the vulnerable population. The destruction of the natural resource base 
+(forest and range resources that provide the raw material production of charcoal in Somalia) is identified in 
+Somalia’s NDC as one of the greatest challenges and a key driver of recurrent humanitarian crises in the country 
+due to severe droughts and impacts on pastoralist activities. By developing resilient infrastructure and 
+implementing measures to overcome the deforestation and rangeland degradation the project will contribute to 
+the achievement of Somalia’s NDC targets.  
+ 
+49. 
+ The NAPA also identifies women in rural communities as the most vulnerable groups in Somalia to the 
+impacts of climate change. Some of the roles that women play in society are impacted by droughts and floods 
+such as fetching drinking water. And women are found to be the ones who must find solutions to feed their 
+families in crisis situations and are exposed to physical insecurity during migration. The World Bank’s Africa 
+Climate Change Business Plan65 highlights the importance and urgency of countries to conduct development that 
+addresses climate impacts and manages climate risks. The project aims to ultimately enhance the climate 
+resilience of the transport, energy and information technology sectors and of the communities served by 
+integrating these considerations into the designs being prepared by the project for future civil works. 
+ 
+50. 
+The proposed project is the second in a Series of Projects (SOP). The SOP consists of a series of 
+interdependent projects to support the HoA Initiative involving multiple borrowers, all of which will need to 
+participate for the program’s objectives to be achievable. See Box 1 for more information on the SOP.  
+ 
+ 
+61 Communique of October 2019, following Side Event During the World Bank Annual Meetings 
+62 Africa Climate Business Plan, 2020. (URL: Reports (worldbank.org)) 
+63 Somalia’s Nationally Determined Contribution to the UNFCCC, 2015. (URL: Somalia's INDCs.pdf (unfccc.int)) 
+64 Somalia’s National Adaptation Program of Action on Climate Change, 2013. (URL: som01.pdf (unfccc.int)) 
+65 Africa Climate Business Plan, 2020. (URL: Reports (worldbank.org)) 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 23 of 66 
+ 
+ 
+Box 1: Description of the Series of Projects (SOP) 
+ 
+Program Objective: The overarching objective of the HoA Program Series of Projects is “enhancing connectivity 
+among the HoA countries and access to seaports, facilitation of domestic and regional trade and economic 
+integration, and road safety.” 
+ 
+The SOP was created to support the countries of the region to build the regional integration links necessary to 
+achieve the program objective, beginning to address the large financing requirements while tackling the wide 
+range of needs of the individual countries. This interdependent/multiple borrower type of SOP aims to achieve 
+benefits that go beyond each country’s boundaries, creating regional public goods and generating positive 
+externalities. The first operation under the SOP was the Kenya Horn of Africa Gateway Development Project 
+(P161305), which was approved September 8, 2020. Preparations are underway for subsequent operations in 
+the SOP, including in Djibouti (the Horn of Africa Initiative: Djibouti Regional Economic Corridor Project 
+(P174300)) and Ethiopia (the Horn of Africa Initiative: Regional Economic Corridor Project (Addis-Djibouti 
+Corridor) (P174485)). 
+ 
+The SOP’s objectives and structures remain relevant for the countries in the region, and for Somalia specifically, 
+as demonstrated by the thirteen Horn of Africa Ministerial Meeting held in June of 2022 which was attended 
+by senior leaders from the member countries, and which called for continued investment by donors in the 
+initiative, while preserving the country-led focus.66  
+ 
+ 
+51. 
+The proposed program meets the criteria for IDA Regional Program Funding as: (i) it covers the fragile 
+and conflict prone Somalia and is contiguous and economically inter-dependent on the countries of Kenya, 
+Ethiopia and Djibouti; (ii) it contributes to transport and communication connectivity among Somalia, Kenya, 
+Ethiopia and Djibouti; (iii) the eventual expected full transit efficiency gains will only be achieved with the direct 
+and integrated involvement of the countries sharing the corridor; (iv) the benefits can only be adequately achieved 
+through the implementation of an integrated set of infrastructure, trade and development facilitation activities in 
+the countries the Somali economic corridors adjoin; (v) the program enhances competition among transport 
+corridors in the sub-region; and (vi) the groundwork initiated in the project for development of Somali economic 
+corridors identified under the HoA Initiative will eventually link more than three contiguous countries.  
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+ 
+Program Objective 
+ 
+ 
+66 Communique from the 13th Ministerial Meeting. Horn of Africa Initiative. June 30, 2022 (URL: https://hoainitiative.org/communique-
+from-13th-ministerial-meeting/) 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 24 of 66 
+ 
+ 
+52. The overarching objective of the HoA Program Series of Projects, which the proposed project will contribute 
+to, is “enhancing connectivity among the HoA countries and access to seaports; facilitation of domestic and 
+regional trade and economic integration, and road safety”. 
+ 
+PDO Statement 
+ 
+53. 
+The Project Development Objective is to prepare a spatially coordinated investment pipeline of 
+economic corridor projects, and to strengthen the national government’s management of selected sectors. 
+ 
+PDO Level Indicators 
+ 
+54. Expected results indicators include: 
+a. Value of spatially coordinated economic corridor pipeline projects ready for investment  
+b. National Transport Policy developed and submitted to Cabinet for approval  
+c. Harmonized trade facilitation measures are piloted in at least two FMS  
+d. Number of FGS staff working for at least a month with the PCU, disaggregated by gender 
+ 
+B. Project Components 
+ 
+55. Financing of the proposed project is leveraged from three sources, the Regional IDA Window, Somalia’s 
+National IDA allocation, and the Horn of Africa Multi-Donor Trust Fund, as agreed by the HoA MDTF 
+Partnership Council.  The project financing is outlined in Table 4 below. 
+• 
+Regional IDA (US$20 million) will finance the preparation of regional road corridors and associated digital 
+development and trade aspects, as included under component 1. 
+• 
+National IDA (US$38 million) will complement regional IDA by contributing to component 1, prepare 
+national specific activities under component 2, and contribute to cost of capacity building and project 
+management under components 3 and 4, respectively.  
+• 
+HoA MDTF (US$5 million) complements IDA financing with contributary financing of component 1 and 
+Trade Capacity Development in component 3.  
+ 
+Table 4: Elaboration of SHIIP Components and Financing Sources 
+Components / Financing (US$ millions) 
+Regional IDA National IDA 
+MDTF 
+TOTAL 
+1 Development of Regional Economic Corridors 
+16.8 
+8.4 
+4.8 
+30.0 
+2 Connectivity to Economic Corridors 
+- 
+18.0 
+- 
+18.0 
+3 Institutional and Capacity Development 
+1.0 
+6.6 
+0.2 
+7.8 
+4 Project Management 
+2.2 
+5.0 
+- 
+7.2 
+5 Contingent Emergency Response 
+- 
+- 
+- 
+0.0 
+TOTAL 
+20.0 
+38.0 
+5.0 
+63.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56. 
+The Somalia – Horn of Africa Infrastructure Integration Project (SHIIP) aims to initiate the unlocking of 
+the economic potential of Somalia’s development corridors. This will be achieved through the preparation of an 
+initial round of pipeline of investment-ready and spatially considered regional corridor infrastructure, while laying 
+the groundwork for good sector management by taking early steps in institutional and capacity development 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 25 of 66 
+ 
+ 
+anchored in professional sectoral analysis. The project components represent an important start in what will be a 
+long-term development of the 2,500 km on the Somali side of the corridors identified in the HoA Initiative 
+connecting to Kenya, Ethiopia and Djibouti. Recognizing however that infrastructure condition is not the only 
+driver of high transport costs and prices as documented by recent analytical work,67 the project will support 
+complementary measures and studies to unlock the economic potential of these “conveyor belts” for international 
+trade and economic development in the country. While the financing focus is inevitably on the technical road 
+studies for key corridors, where opportune these will include other linear infrastructure, mainly transmission lines 
+and digital broadband.  It will also address improvement of local road connectivity and access where appropriate 
+as well as other spatial consideration in planning for ports, fisheries, and economic and social dimensions intended 
+to optimizing impact of the eventual investments.  
+ 
+57. 
+Achievement of project activities will largely be through technical, analytical and diagnostic studies. In 
+addition to the subject focus of each of these studies, the terms of reference (ToRs) for these will also be 
+systematically molded to incorporate aspects related to capacity development and GBV/SEA. All ToRs are subject 
+to clearance by the World Bank. 
+ 
+58. 
+There is a lack of capacity in Somalia for infrastructure planning, development and management and 
+the proposed project will support capacity enhancement at both institutional and human resource levels.68 The 
+project’s capacity building activities will largely be attained by learning-by-doing, while technical and analytical 
+studies will be formulated to ensure engagement, technical exposure and decision making by civil servants, 
+including by incorporating knowledge transfers through embedment of civil servants with consultant teams and 
+training sessions in the subject matters. The project aims at a forward-looking strategy for sectoral development, 
+identified to cumulatively contribute to a long-term institutional and sectoral vision to leave behind competencies 
+beyond the life of the project.  
+ 
+59. 
+There is a recognition that infrastructure development can serve to address gender inequality, but road 
+works and infrastructure can also create opportunities for risk factors that are conducive to GBV, including SEA. 
+Gender assessment will be used to collect baseline data on gender gaps in employment in the fishery and trade 
+sectors, including the barriers that women face to benefit from potential new interventions to be informed by the 
+collected data.  These studies will be used as vehicles to understand and plan for addressing gender issues by 
+drawing on the guidance provided by the World Bank’s Africa Region Gender Action Plan for FY 18-22, mainly as 
+it relates to gender gaps in jobs and with regard to the gender constraints in fragility, conflict, and violence 
+settings. Through social and GBV assessments, the focus will be on building a better understanding of the specific 
+risk factors that may contribute to GBV and SEA as World Bank transport engagement is scaled from preparatory 
+activities envisioned in this project, to implementation of major civil works in the near future.  
+ 
+Component 1: Development of Regional Economic Corridors (US$30 million equivalent; of which US$16.8 
+million from Regional IDA, US$8.4 million from National IDA, and US$4.8 million from the HoA MDTF) 
+ 
+60. 
+This component will carry out the identification of a regional economic corridor, prioritizing corridor 
+road sections, including technical design of road works, preparation of environmental and social management 
+instruments, conducting diagnostics of area wide trade facilitations and development measures and actions, 
+ 
+67 World Bank. 2021. Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda 
+68 It will draw lessons on institutional strengthening from projects implemented in Somalia in the last several years, such as in public 
+financial management. 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 26 of 66 
+ 
+ 
+economic analysis, and other preparatory analysis and design studies. It is expected that close to 550 km of the 
+prioritized regional economic corridors will be subject to technical preparation and brought to bidding stage. 
+Identified sections will be assessed to identify relevant improvements needed and preparatory works conducted, 
+including design of the road works, environmental and social risk mitigation instruments, and economic analyses. 
+Climate resilient considerations will be included in the design of road works. Upon identification of a corridor and 
+corridor road sections for design, this component will finance diagnostics of area-wide trade facilitation and 
+development measures and actions aimed at augmenting the trade viability of the corridor, such as analysis of 
+cross-border trade and design of relevant interventions for improved and secured cross-border trade movements 
+at international or FMS borders. Where FGS strategies and plans for new transmission lines and digital 
+development coincide linearly with a selected economic corridor, design of these will be undertaken.  
+ 
+61. 
+A methodology for prioritization was established in the preparation of this project to determine the 
+priority sections to be included in the project by way of an inclusive and objective methodology. Climate risks 
+and vulnerability are also considered in the road prioritization methodology The description also identifies primary 
+road corridors within Somalia, largely aligned with those identified in the HoA Initiative, of which the project will 
+finance a subset for design studies. Within the prioritization, eventual corridors and road sections are expected to 
+be subject of discussion between FGS and FMS. While optimally the component will support development of a 
+contiguous corridor, the prevailing political and security considerations may require financing preparation of 
+corridor sections that are not contiguous. An analysis of the mobility barriers that women and men face to benefit 
+from corridors will be conducted in order to define design features that could improve mobility, as well as 
+potential complementary interventions defined by the population. 
+ 
+Component 2: Connectivity to Economic Corridors (US$18 million equivalent from National IDA) 
+ 
+62. 
+This component will prepare a national level program of activities to leverage the development of 
+economic corridors through local connectivity and accessibility. While not specifically cross border regional 
+integration activities, the identified projects will be those which complement the regional nature of the project, 
+either by providing complementary investments to those in Component 1 or building links between the 
+fragmented member states of Somalia. Specifically, the component will finance activities which include the 
+following:69 
+ 
+• 
+Conducting feasibility, design, and other studies necessary to prepare and bring to bidding stage 
+approximately 900 km of secondary and tertiary roads linked to the identified corridors. Climate resilience 
+considerations will be integrated in road design studies  
+• 
+Designing new transmission lines and digital development activities along selected secondary and tertiary 
+roads, including an integrated energy demand assessment; 
+• 
+Conducting operational or environmental assessment and associated technical designs to linked and selected 
+maritime ports; 
+• 
+Conducting an economic assessment of the fisheries sector’s infrastructure and services, which may include 
+carrying out:  (i) an opportunity and cost benefit analyses for fishing, or multi-usage ports along the coast of 
+Somalia, (ii) a needs assessment and investment plan for pre- and post-harvest infrastructures in major ports 
+and in smaller ports, (iii) detailed feasibility studies for fishing or multi-usage port developments and 
+associated infrastructures,  (iv) preparation of associated environmental and social management instruments, 
+ 
+69 Listed activities in components 2 and 3, may be integrated in larger assignments during implementation.  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 27 of 66 
+ 
+ 
+and (v) an assessment on climate risks and port vulnerability; and (vi) analysis of gender gaps and barriers for 
+women to participate and benefit from the fishery sector; 
+• 
+Conducting area-wide trade facilitation and development analyses and proposing targeted interventions to 
+support job and value creating trade activities, including identifying opportunities to address the barriers for 
+women to benefit from trade opportunities. 
+ 
+Component 3: Institutional and Capacity Development (US$7.8 million equivalent; of which US$1.0 million 
+from Regional IDA, US$6.6 million from National IDA, and US$0.2 million from the HoA MDTF) 
+ 
+63. 
+This component will support select institutional and capacity development within the FGS,70 especially 
+within the transport and trade sectors. It will build the capacity of selected Federal Government ministries, 
+departments, agencies and institutions, including: (a) the institutional capacity of trade and transport MDAs and 
+institutions for planning, implementing, maintaining and governing the infrastructure sector, and monitoring 
+service efficiency; (b) the technical, managerial, planning, procurement, financial management and socio-
+environmental skills of staff of respective agencies and institutions; and  (c) carrying out a needs assessment, 
+formulating a framework for institutional and  human resource capacities. 
+ 
+64. 
+Capacity building activities have been selected with a long-term vision of sectoral development, 
+identified to serve as first steps on a long road towards a forward-looking institutional and sectoral vision. 
+Recognizing that major infrastructure gaps exist, resulting from decades of conflicts and fragility, the institutional 
+capacity must be strengthened in all sectors. Within this project, capacity building activities are focused on the 
+planning, implementing, and leveraging economic corridors, including activities in transport and trade as well as 
+those associated with planning integrated corridors. As may be considered appropriate during the implementation 
+of the project, the identified activities may be delivered as a stand-alone activity or integrated in larger pieces of 
+assignments to streamline delivery and avoid overwhelming beneficiaries. In addition, the activities will be phased 
+throughout project implementation in order to moderate the demand on implementing and beneficiary agencies. 
+Overall training programs will be financed on targeted basis as a complement to capacity development to be 
+achieved through hand-on exposure and technical assistance (TA) work. Capacity and analytical support will 
+include: 
+ 
+• 
+Transport 
+o Development of the National Transport Policy under the guidance of the Ministry of Transport and 
+Civil Aviation (MTCA) and incorporating the Ministry of Ports and Marine Transport (MPMT) and other 
+stakeholders.  
+o Development of a transport sector climate resilience diagnosis. 
+o Development of a Road Sector Strategy. 
+o Road sector studies, such as: (i) road condition surveys of prioritized corridors and connecting roads 
+(covering approximately 2,500 km); (ii) road safety diagnosis and a National Road Safety Strategy 
+(mapping out key stakeholders, institutional ownership and capacities, existing initiatives and a 
+support framework, as well as conducting a road safety audit on selected primary corridors to identify 
+blackspots); and (iii) conducting a gender and social inclusion analysis in trade and transport for future 
+investment projects; 
+ 
+70 While important capacity gaps exist within FMS institutions as well, the project scope is focused on building national level capacity as a 
+first step and aligned with the national level roads prioritized during the project. It is expected that subsequent projects conducting civil 
+works in specific locations will support development of relevant FMS institutions. 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 28 of 66 
+ 
+ 
+o Update and expansion of the National Ports Masterplan to inform a cohesive national development 
+and management of the sector, including development of a Ports and Maritime Transport Strategy.  
+o Preparation of a National Highway Authority Development and Capacity Framework. 
+o Preparation of a Somali Port Authority Development and Capacity Framework. 
+• 
+Trade Facilitation 
+o Preparation of a program of activities to support an enabling environment for trade within the 
+country, such as design of harmonized trade facilitation instruments across FMS to facilitate and 
+secure the movement of goods across FMS borders and improve the collection of tax revenues. Such 
+initiatives will possibly include the development of a national transit regime for inter-FMS trade 
+(aligned with regional Common Market for Eastern and Southern Africa transit instruments), and the 
+design and pilot-implementation of selected transport facilitation measures such as a cargo tracking 
+system to improve security, efficiency and revenue collection for long-distance transport operations; 
+a feasibility study for the development of a single-window platform for inter-FMS and interregional 
+trade; a capacity building program to strengthen data collection and trade development capacities 
+among relevant public and private sector agencies (e.g. chambers of commerce) at the federal and 
+FMS level and to support the set-up of regional corridor management mechanisms (e.g. corridor 
+management authority) for selected corridors; and support to investment strategies for and capacity 
+development of small and medium-sized enterprises in responding to development of regional 
+corridors. 
+• 
+Integrated Economic Corridor Planning 
+o Support for the development of an integrated national infrastructure investment strategy identifying 
+key priority economic activities and investments for the development of the economic corridors in a 
+coordinated way; policies necessary to oversee and implement such a strategy. 
+o Harmonization of sectoral data and strategies into an interactive platform reflecting dynamically 
+sector priority investments, aggregating datasets relevant to all sectors (a national atlas) and 
+providing a monitoring tool for sectors respective developments. 
+o Development of legal, regulatory and institutional frameworks required to govern the relevant 
+sectors, including development of a National Land Policy. 
+o Preparation of a program of activities to facilitate the digital development sector as it relates to 
+planning and implementing fiber optic deployment along the targeted corridors, such as a feasibility 
+study for a national fiberoptic backbone and policy to guide infrastructure sharing. 
+o Preparation of a program of activities to support the fisheries sector along the selected corridors, 
+identifying concurrent investments and improving planning for fisheries development, including a 
+needs assessment and investment plan for identified fisheries infrastructure. 
+o Energy sector planning studies necessary to align infrastructure development along economic 
+corridors developments, including conducting a feasibility study for the national power transmission 
+backbone. 
+o Designing a program of training activities, and provision of targeted training to develop and 
+strengthen the human resource capacity of relevant MDAs and institutions, including the transport 
+and trade sectors. Under the guidance of the MECC, project will strengthen the environmental and 
+social management of the relevant ministries and agencies, including undertaking of a focused 
+capacity needs assessment with a costed training plan to build a cadre of environmental and social 
+specialists, building basic understanding of social and environmental risk management, establishment 
+of procedures and templates for risk management, institutional strengthening in support of the 
+creation of an Environment and Social Risk Management Unit under the MECC, conducting regional 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 29 of 66 
+ 
+ 
+and national training workshops, coordination and cooperation with other development partners, and 
+a draft road map for the FGS and the associated FMS for establishing and enhancing own country 
+environmental and social risk management system. 
+ 
+Component 4: Project Management (US$7.2 million equivalent; of which US$2.2 million from Regional IDA, and 
+US$5.0 million from National IDA) 
+ 
+65. 
+This component will finance overall project implementation, coordination and management costs of 
+the project, including costs associated with a PCU in the Ministry of Public Works, Reconstruction and Housing 
+(MPWRH).71 It will strengthen the institutional and human resource capacity of the PCU for project 
+implementation, coordination, management, monitoring and evaluation, financial and technical audits and mid-
+term and end-project evaluations, environmental and social management, financial management, and 
+procurement, and recruiting project staff, through the acquisition of goods, provision of works, technical advisory 
+services, training and operating costs. The project will rely as much as possible on local staff, utilizing external 
+technical assistance consultants to support but not take responsibility for deliverables.  
+ 
+Component 5: Contingent Emergency Response Component (US$0) 
+ 
+Following an eligible crisis or emergency, the Borrower may request the World Bank to re-allocate project 
+funds to support emergency response and reconstruction. This component would draw from the uncommitted 
+resources under the project from other project components to cover emergency response. Prior to the 
+implementation of any activities under this component, a Contingent Emergency Response Component (CERC) 
+Manual and Emergency Action Plan will be prepared and adopted, detailing implementation arrangements for 
+the CERC and that will meet the environmental and social requirements as to be agreed in the Emergency Action 
+Plan and ESCP.  
+ 
+C. Project Beneficiaries 
+ 
+66. 
+The direct beneficiaries of this project will be the ministries within the FGS responsible for infrastructure 
+development. The project will develop the underlying studies, data and capacities necessary for government 
+authorities to plan for and manage the infrastructure sectors, focused on economic corridor development. As 
+such, the staff of MPWRH, MTCA, MPMT, the Ministry of Communications and Technology (MCT), and other 
+related authorities will be the focus of the project, and its direct beneficiaries. Technical staff at ministries of public 
+works at state level will be indirect beneficiaries, because of expected exposure through technical consultations 
+and collaboration in preparing project designs and support to some sectoral analytical assignments.  
+ 
+67. 
+Downstream, through the implementation of the project’s outputs, eventual development of economic 
+corridors and associated connectivity will lead to benefits for large segment of, if not the entire population of 
+the country. More than 2.1 million Somali’s live within 5 km of the economic corridors under consideration for 
+design by the project and an additional 8.5 million live in cities which may be connected.72 Transport and trade 
+ 
+71 On occasions, TA may, on an interim basis, be provided directly to beneficiary ministries in order to support their execution of project 
+activities in their relevant sectors.  
+72 World Bank estimate based on World Pop population distribution (URL: worldpop.org). As outlined above, not all corridors which are 
+under consideration will be designed, although the potential number of impacted residents will be accounted for in the prioritization 
+methodology for activities under component 1.  
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 30 of 66 
+ 
+ 
+facilitation could lead to a 6.3 percentage increase in real income for Somalia.73 Connectivity to infrastructure 
+services, not only roads, but also electricity and internet, can open the door for residents to expand their 
+opportunities for employment, creating service and manufacturing jobs while also boosting the potential market 
+for the agricultural goods which already drive the economy. Linking in potential fishing ports and supporting the 
+growth of transport and trade services could open the door for a possibly lucrative trade with markets in 
+neighboring Ethiopia. 
+ 
+68. 
+Integration of Somalia into the wider Horn of Africa will be key to unlocking the potential of regional 
+integration. Developing alternatives to Ethiopia’s maritime access through Djibouti, unlocking maritime access to 
+Northern Kenya through Somali Ports, facilitating and developing intra-regional and international trade, balancing 
+power supply and demand, interconnecting and developing digital markets, supporting job creation and structural 
+transformation and removing physical and non-physical barriers to an interconnected region will ultimately drive 
+benefits to the entire regional population. 
+ 
+D. Results Chain 
+ 
+69. 
+The project is designed to contribute to the overall objective of the Horn of Africa Initiative: to develop 
+the HoA sub-region by facilitating regional integration and cooperation among the HoA countries. It contributes 
+to the objective of the SOP: enhancing connectivity among the HoA countries and access to seaports; facilitation 
+of domestic and regional trade and economic integration, and road safety. Achieving this will require a series of 
+investments, addressing gaps in the road, ports, digital, energy, and trade sectors, as well as a host of other 
+challenges.  
+ 
+70. 
+Although the level of need is great, the scope of the challenge, the fragile context, and Somalia’s nascent 
+and weak institutions are not ready to launch such a program, and no pipeline of investment ready projects is 
+available. The development of economic corridor infrastructure in Somalia and connectivity thereto, will depend 
+upon the creation and capacitation of institutions necessary to govern the various sectors, development of the 
+analytical and strategic underpinnings of these sectors, and preparation of a strong pipeline of quality investment 
+projects. It is only as such foundations are being put in place that a sustainable infrastructure program can be 
+successfully launched. 
+ 
+71. 
+While the challenges facing the country in achieving these goals are many, key hurdles include: i) 
+fragmented and weak governance, including the legal and regulatory framework of the sectors, a lack of certain 
+institutions, a need for clarity of jurisdictional responsibilities, etc.; ii) macro-economic and fiscal considerations 
+which impact demand for infrastructure and sustainability, including revenue generation, borrowing capacity, 
+consumer confidence, etc.; iii) a lack of technical maturity and capacity of the infrastructure sectors, such as staff 
+capabilities, readiness of investments, resilience to natural and man-made disasters, technical specifications and 
+standards, and the ability to address the integrated considerations for delivery of projects (safeguards, safety, 
+gender, modal integration, traffic management, etc.); iv) poorly coordinated business infrastructure, including 
+standardized procurement, business models, legal frameworks, human capacity, etc.; v) prohibitive transport 
+prices both for long-distance freight operations and port-city transfers; vi) inefficient cross-border transport chains 
+and dominance of informal trade at borders and vii) safety and security, including strategies to address risk 
+tolerance, and access to work sites. 
+ 
+73 “Infrastructure and Structural Change in the Horn of Africa”. World Bank. 2021 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 31 of 66 
+ 
+ 
+ 
+72. 
+Tackling these challenges will take decades, and the project is intended to serve as an inflection point, 
+building government capacity through two primary channels. It will a) finance the preparation of analytical, and 
+feasibility studies and designs of priority projects in a spatially coordinated manner while b) supporting the 
+development of the institutional structures and capacity necessary to plan, prepare, execute, and oversee the 
+development the infrastructure sector for the medium and long term. Implementation is intended to lay the 
+groundwork for follow-on projects which deliver actual infrastructure investments (either regional projects under 
+the same SOP, or Somalia specific projects addressing national challenges and priorities). During implementation, 
+as these projects have been prepared and financing is identified (by the World Bank or others), it is expected that 
+they will begin under separate implementation arrangements.  
+ 
+73. 
+Specifically, under components 1 and 2, the project will support the identification and preparation of 
+economic corridor projects and help identify local level connectivity and accessibility investments linking the 
+identified corridors with the local population and economic opportunities. These components are intended to 
+create a coherent and coordinated pipeline of investment ready projects, jumpstarting Somalia’s investment in 
+rebuilding its regional connectivity through linked investments designed to be mutually reinforcing. It will also 
+address sector analytical gaps to improve the overall readiness for such civil works, including climate resilience 
+and support for inclusive economic development. Furthermore, the formulation of these studies will require, as a 
+secondary objective, engagement of ministerial staff for capacity development through a learning-by-doing 
+approach. 
+ 
+74. 
+As the preparation of the economic corridor projects reach readiness, donor partners (including the 
+World Bank) are expected to mobilize financing for their implementation. Although the financing of these follow-
+on operations is not explicitly part of the project, it is expected that they will launch in parallel to its 
+implementation as designs are delivered. This “conveyer belt” of projects and their financing and implementation 
+will be a key outcome of the project but are one step after the PDO and results framework due to the many factors 
+beyond the scope of the project. 
+ 
+75. 
+Under component 3, the project will support the development of the legal, regulatory and institutional 
+frameworks needed to govern the trade and transport sectors. By doing so, it will help to lay a groundwork for 
+sustainable planning and management of future investments. Such institutions are key to create a vision for long 
+term development of the country, to translate such a vision into a coherent series of projects, and to then manage 
+and maintain the resulting investments. Component 4 is also intended to support such capacity development by 
+nurturing a cadre of expertise within the MPWRH, with a PCU which can remain in place following project close, 
+as a foundation for the development of the National Highway Authority in coming years. 
+ 
+76. 
+The Project’s Theory of Change is elaborated in Figure 2 below.  
+ 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 32 of 66 
+ 
+ 
+Figure 2 - Theory of Change 
+ 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 33 of 66 
+ 
+ 
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+ 
+Rationale for World Bank Involvement 
+ 
+77. 
+The World Bank’s support will provide value to the FGS in three ways. First, it will provide sectoral 
+support to government agencies, leveraging global knowledge and regional expertise with urgently needed 
+financing for institutional readiness. Second, it will bring a coherence to the development of the sector, connecting 
+and reinforcing the more narrowly focused investments which are being made under ongoing programs financed 
+by other development partners (which largely focus on specific road segments and limited scale capacity building). 
+Without such an undergirding of institutional capacity, the sustainability of all investments by all partners, both 
+ongoing and future is at risk. Finally, the World Bank’s support will create a pipeline of investment ready projects 
+which Somali decision makers can use to source financing from all sources, including but not limited to the World 
+Bank itself, opening the door for a much larger program than could be possible with a more narrowly focused 
+engagement.  
+ 
+Role of Partners 
+ 
+78. 
+The World Bank has joined other partners already engaged in Somalia’s infrastructure sectors. The HoA 
+Initiative countries requested and received technical support from three development partners in preparing the 
+Initiative: the World Bank, the AfDB and the EU. These institutions have continued their engagement with the 
+initiative, and at the more local level, are jointly engaged in supporting Somalia’s interface with the region under 
+Pillar 1 of the initiative. A joint AfDB/EU project is being launched, supporting Somalia in the preparation of design 
+of several road lengths, rehabilitation of a segment of gravel road, and targeted capacity building for MPWRH, 
+among other activities. Bilateral partners are engaged within Somalia as well, including from the United Kingdom, 
+Germany, Qatar, Türkiye, the United Arab Emirates and others. The project is designed to ensure that investments 
+do not overlap, are mutually reinforcing and that the benefits of the capacity building support planned under the 
+project will be multiplied by strengthening Government authorities’ ability to plan and implement this wider set 
+of activities.  
+ 
+F. Lessons Learned and Reflected in the Project Design 
+ 
+79. 
+The project design considers lessons learned from previous World Bank-financed projects in the region, 
+including in other fragile, post-conflict settings. Although this will be the first World Bank-financed project to 
+focus on transport in Somalia in decades, projects in related sectors are ongoing and have provided valuable 
+insights for working in the Somali context and with shared counterparts, including the Somalia Urban Resilience 
+Project II (P170922) and the recently closed ICT Sector Support in Somalia Phase II (P152358). The project also 
+builds upon the lessons learned from other DPs which have supported Somalia in the infrastructure sectors in 
+recent years.  
+ 
+80. 
+Experience in rebuilding institutions in countries following conflict was considered. For example, In the 
+re-engagement in Liberia, implementation capacities for initial engagements were arranged with a vision towards 
+a long-term institutional framework in mind, such as a possible evolution of an implementation unit at the Ministry 
+of Public Works to become a future Roads Authority. In Cameroon, the experience related to the Multimodal 
+ 
+The World Bank 
+ 
+Somalia - Horn of Africa Infrastructure Integration Project (SHIIP) (P173119) 
+ 
+ 
+ 
+ 
+Page 34 of 66 
+ 
+ 
+Transport Project and the CEMAC Transport-Transit Facilitation Project74 offered critical design insights including 
+insights into the development of a security management plan for the project and preparing road designs in 
+insecure environments.  
+ 
+81. 
+The project’s institutional strengthening approach is based on extensive experience in other World 
+Bank supported projects working with the FGS.75 The project’s capacity building activities will be established as 
+part of a forward-looking strategy for sectoral development, identified to cumulatively contribute to a long-term 
+institutional and sectoral vision to leave behind competencies beyond the life of the project. In particular, the 
+project will adopt a hands-on approach, where all possible supporting stakeholders (staff at FGS/FMS level or 
+private operators) will learn by doing. To this end, the project will rely as much as possible on local staff, utilizing 
+any external consultant to support but not take responsibility for deliverables and leverage competencies in the 
+diaspora to benefit from knowledge in Somali. The project will strengthen the staffing of the institutions to 
+prepare and deliver project activities, including development of ToRs, and execution of studies. The approach will 
+also consider the Somalia fiscal situation and lack of coordination between institutions and will assess carefully 
+and pragmatically the needs. Finally, the development of a PCU and the project management support identified 
+under Component 3 is intended as an integral aspect of the project’s overall capacity building approach. By 
+integrating this coordination unit within the daily operations of MPWRH, and by relying as much as possible on 
+local staff, the project seeks to create a core of competency for project management and oversight within this 
+ministry which will outlive the project and contribute to the long-term capacity of the infrastructure sector. 
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+82. 
+The project will be implemented by the FGS through the MPWRH with involvement and consultation 
+with technical contributions by beneficiary ministries and with the participating FMS on relevant activities.  
+Financial management will be conducted by the External Assistance Fiduciary Section (EAFS) within the MoF.76 
+ 
+83. 
+The project’s spatial planning require

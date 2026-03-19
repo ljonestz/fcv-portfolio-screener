@@ -1,0 +1,3253 @@
+ 
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4426 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT PAPER 
+ON A  
+PROPOSED ADDITIONAL GRANT 
+ 
+IN THE AMOUNT OF SDR 34.7 MILLION 
+(US$50 MILLION EQUIVALENT) 
+ 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR AN 
+ 
+ADDITIONAL FINANCING TO THE SOMALIA CRISIS RECOVERY PROJECT 
+ 
+ 
+ 
+June 11, 2021 
+ 
+ 
+Urban, Resilience And Land Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective {May 31, 2021}) 
+ 
+Currency Unit =   Somali Shillings (SOS) 
+US$1 = SOS 578.50 
+US$1 = SDR 0.69 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Mark R. Lundell 
+Practice Manager: Peter D. Ellis  
+Task Team Leader(s): Ayaz Parvez, Andrew James Roberts, Haris Khan 
+  
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AF 
+Additional Financing 
+AFEVP 
+Africa East Vice President 
+CBS 
+Central Bank of Somalia 
+CSO 
+Civil Society Organization 
+CERC 
+Contingent Emergency Response Component  
+COPAM 
+Comprehensive Operations and Accounting Procedures Manuals 
+COVID-19 
+Coronavirus Disease 2019 
+CPF 
+Country Partnership Framework  
+CPRP 
+Country Preparedness and Response Plan 
+CRW – ERF  
+Crisis Response Window- Early Response Financing  
+DA 
+Designated Account 
+DINA 
+Drought Impact and Needs Assessment 
+DL 
+Desert Locust 
+DLC 
+Desert Locust and Control 
+DRM 
+Disaster Risk Management  
+EAFS 
+External Assistance Fiduciary Section 
+EFT 
+Electronic Funds Transfer 
+EIA 
+Environmental Impact Assessment 
+ESF 
+Environmental and Social Framework 
+ESIA 
+Environmental and Social Impact Assessment 
+ESMF 
+Environmental and Social Management Framework 
+ESMP 
+Environmental and Social Management Plan 
+ESS 
+Environmental and Social Standards 
+E&S 
+Environmental and Social 
+FAM 
+Famine Action Mechanism  
+FAO 
+Food and Agriculture Organization 
+FCV  
+Fragility Conflict and Violence  
+FGS 
+Federal Government of Somalia  
+FHWs 
+Female Health Workers 
+FINA 
+Flood Impact Needs Assessment 
+FM 
+Financial Management 
+FMIS 
+Financial Management Information System 
+FMS 
+Federal Member States 
+FSCPP 
+Food Security Crisis Preparedness Plan 
+FSNAU 
+Food Security and Nutrition Analysis Unit 
+GBV 
+Gender-based Violence 
+GRM 
+Grievance Redress Mechanism 
+GRS 
+Grievance Redress Service 
+GDP 
+Gross Domestic Product  
+HH 
+Households 
+HIPC 
+Heavily Indebted Poor Countries 
+HRM 
+Horn Risk Management 
+HRP 
+Humanitarian Response Plan 
+IDA 
+International Development Association  
+ 
+ 
+ 
+IDP 
+Internally Displaced Persons 
+IFC 
+International Finance Corporation  
+IFI 
+International Financial Institution 
+IFR 
+Interim Financial Report 
+INGO  
+International Non-Governmental Organization  
+IPF  
+Investment Project Financing  
+IPC 
+Integrated Food Security Phase Classification 
+IRR 
+Internal Rate of Return 
+ISA 
+International Standards on Auditing 
+ISP 
+Implementation Support Plan 
+IVA 
+Independent Verification Agency 
+LMP 
+Labor Management Plan 
+MDA  
+Ministries, Departments, Agencies  
+MFMR  
+Ministry of Fisheries and Marine Resources  
+MIS  
+Management Information System  
+MLFR 
+Ministry of Livestock, Forestry, and Range 
+MOH 
+Ministry of Health 
+MOHADM 
+Ministry of Humanitarian Affairs and Disaster Management  
+MOAI 
+Ministry of Agriculture and Irrigation  
+MOEWR 
+Ministry of Energy and Water Resources  
+MOEACC 
+Ministry of Environment Agriculture and Climate Change 
+MOF 
+Ministry of Finance 
+MOPIED 
+Ministry of Planning, Investment and Economic Development  
+MPWR 
+Ministry of Public Works, Reconstruction and Housing 
+MSME 
+Micro, Small and Medium Enterprises 
+M&E 
+Monitoring & Evaluation 
+NDMP 
+National Disaster Management Policy 
+NDP  
+National Development Plan  
+NEC 
+National Economic Council 
+NPV 
+Net Present Value 
+NGO 
+Non-Governmental Organization 
+ODA 
+Official Development Assistance 
+OCHA 
+United Nation’s Office for Coordination of Humanitarian Affairs 
+OHS 
+Occupational Health and Safety 
+OPM 
+Office of the Prime Minister 
+O&M 
+Operations and Maintenance 
+PAD 
+Project Appraisal Document 
+PDO 
+Project Development Objective  
+PFM 
+Public Financial Management  
+PIU 
+Project Implementation Unit  
+POM 
+Project Operations Manual  
+PP 
+Project Paper 
+PPSD 
+Project Procurement Strategy for Development 
+PSC 
+Project Steering Committee  
+RCRF 
+Recurrent Cost and Reform Financing 
+RRF 
+Recovery and Resilience Framework 
+ 
+ 
+ 
+SCRP  
+Somalia Crisis Recovery Project  
+SCoA 
+Standard Chart of Accounts 
+SDR 
+Special Drawing Rights 
+SEA/SH 
+Sexual Exploitation and Abuse, and Sexual Harassment 
+SEP 
+Stakeholder Engagement Plan 
+SOE 
+Statements of Expenditures 
+SORT 
+Systematic Operations Risk-Rating Tool 
+SPT 
+State Project Team 
+SRM 
+Security Risk Management 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SWALIM 
+Somalia Water and Land Information Monitoring 
+TA 
+Technical Assistance 
+TSA 
+Treasury Single Account 
+TTL 
+Task Team Leaders 
+UCS 
+Use of Country Systems (UCS) 
+UN 
+United Nations 
+UNDP 
+United Nations Development Programme 
+UNFPA 
+United Nations Population Fund 
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UNIDO 
+United Nations Industrial Organization 
+UNISDR 
+United Nations Office for Disaster Risk Reduction 
+UNOPS 
+United Nations Office for Project Services 
+USAID 
+United States Agency for International Development  
+WASH 
+Water, Sanitation and Hygiene  
+WBG 
+World Bank Group 
+WFP 
+World Food Programme 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 8 
+II. 
+DESCRIPTION OF ADDITIONAL FINANCING .................................................................... 12 
+III. KEY RISKS ..................................................................................................................... 22 
+IV. APPRAISAL SUMMARY .................................................................................................. 25 
+V. WORLD BANK GRIEVANCE REDRESS .............................................................................. 32 
+VI    SUMMARY TABLE OF CHANGES ..................................................................................... 33 
+VII   DETAILED CHANGE(S) .................................................................................................... 33 
+VIII. RESULTS FRAMEWORK AND MONITORING ................................................................... 37 
+ANNEX 1: HIGHLIGHTS OF THE FGS’ FOOD INSECURITY SITUATION ASSESSMENT AND 
+RESPONSE STRATEGY........................................................................................................... 50 
+ANNEX 2: DETAILED PROJECT DESCRIPTION OF ADDITIONAL FINANCING ............................. 63 
+ANNEX 3: DETAILED ECONOMIC AND FINANCIAL ANALYSIS .................................................. 70 
+ANNEX 4: GENDER ANALYSIS ............................................................................................... 72 
+ANNEX 5: FAO ACTION PLAN TO ENHANCE E&S RISK AND IMPACTS COMPLIANCE ............... 74 
+ANNEX 6: CLIMATE CO-BENEFITS ......................................................................................... 76 
+ANNEX 7: WORLD BANK GROUP (WBG) COVID-19 COUNTRY PROGRAM RESPONSE NOTE - 
+SOMALIA ............................................................................................................................. 77 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 84 
+ 
+DATASHEET 
+ 
+      
+BASIC INFORMATION – PARENT (Somalia Crisis Recovery Project - P173315) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+IBRD/IDA 
+Ayaz Parvez 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P173315 
+Investment Project 
+Financing 
+SAEU3 (10208) AECE2 (6542) 
+Urban, Resilience and Land 
+  
+Implementing Agency: Ministry of Finance, Federal Government of Somalia, Ministry of Planning, Investment and 
+Economic Development, Federal Government of Somalia 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+ 
+No 
+ 
+Approval Date 
+Closing Date 
+Expected 
+Guarantee 
+Expiration Date 
+Environmental and Social Risk Classification 
+15-May-2020 
+31-May-
+2024 
+ 
+High 
+ 
+Financing & Implementation Modalities  Parent 
+[  ] Multiphase Programmatic Approach [MPA] 
+[✓] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 84 
+ 
+ 
+Development Objective(s) 
+ 
+To support the recovery of livelihoods and infrastructure in flood and drought affected areas and strengthen 
+capacity for disaster preparedness nationwide 
+ 
+ 
+Ratings (from Parent ISR) 
+ 
+RATING_DRAFT_NO 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+28-Oct-2020 
+24-Mar-2021 
+Progress towards achievement of PDO 
+MS 
+ 
+MS 
+ 
+Overall Implementation Progress (IP) 
+MS 
+ 
+MS 
+ 
+Overall ESS Performance 
+MS 
+ 
+MU 
+ 
+Overall Risk 
+H 
+ 
+H 
+ 
+Financial Management 
+S 
+ 
+S 
+ 
+Project Management 
+S 
+ 
+S 
+ 
+Procurement 
+MS 
+ 
+MS 
+ 
+Monitoring and Evaluation 
+S 
+ 
+S 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Additional Financing to the Somalia Crisis Recovery Project - 
+P176343) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P176343 
+Additional Financing to the 
+Somalia Crisis Recovery 
+Project 
+Restructuring, Scale Up 
+Yes 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+IBRD/IDA 
+25-Jun-2021 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+ 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 84 
+ 
+30-Jun-2025 
+No 
+ 
+ 
+Is this a regionally tagged project? 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities  Child 
+ 
+ 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+[✓] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+IBRD 
+ 
+ 
+ 
+  
+ 
+ % 
+IDA 
+ 137.50 
+  23.36 
+ 121.59 
+    
+ 
+16 % 
+Grants 
+ 
+ 
+ 
+  
+ 
+ % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Additional Financing to the Somalia Crisis Recovery Project 
+- P176343) 
+  
+ 
+ 
+ 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+137.50 
+50.00 
+187.50 
+Total Financing 
+137.50 
+50.00 
+187.50 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 84 
+ 
+of which IBRD/IDA  
+137.50 
+50.00 
+187.50 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+ 
+DETAILSNewFinEnh1- Additional Financing 
+World Bank Group Financing 
+     International Development Association (IDA) 
+50.00 
+          IDA Grant 
+50.00 
+ 
+   
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+0.00 
+  50.00 
+   0.00 
+  50.00 
+Crisis Response Window 
+(CRW) 
+0.00 
+  50.00 
+   0.00 
+  50.00 
+Total 
+0.00 
+50.00 
+   0.00 
+50.00 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+[    ] Yes   [ ✔ ] No 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 84 
+ 
+ 
+ESStandards 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+ESStandardsNote 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Urban, Resilience and Land 
+ 
+Contributing Practice Areas 
+Agriculture and Food 
+Health, Nutrition & Population 
+Social Sustainability and Inclusion 
+Water 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 84 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Ayaz Parvez 
+Team Leader (ADM 
+Responsible) 
+ 
+GFDRR 
+Andrew James Roberts 
+Team Leader 
+Co-TTL 
+SSIGL 
+Haris Khan 
+Team Leader 
+Co-TTL 
+SAEU3 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+ 
+EAERU 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist (ADM Responsible) 
+ 
+EAEG1 
+Nyabicha Omurwa Onang'o Financial Management 
+Specialist 
+ 
+EAEG1 
+Haroub Ahmed Haroub 
+Environmental Specialist (ADM 
+Responsible) 
+ 
+SAEE2 
+Raymond Simon Maina 
+Kirwa 
+Social Specialist (ADM 
+Responsible) 
+ 
+SAES2 
+Andre L. Carletto 
+Team Member 
+ 
+HAWH2 
+Benjamin Joseph Kushner 
+Team Member 
+ 
+SAEU3 
+Bernard O. Olayo 
+Team Member 
+ 
+HAEH2 
+Carlos Rufino Costa Posada 
+Team Member 
+ 
+SAEU2 
+Chantal Richey 
+Team Member 
+ 
+SAEW3 
+Dahir Elmi Warsame 
+Team Member 
+ 
+SAES2 
+Dilip Kumar Prusty Chinari 
+Team Member 
+ 
+WFACS 
+Elad Shenfeld 
+Team Member 
+ 
+SLCUR 
+Eugenia Nafula Konya 
+Team Member 
+ 
+AEMSO 
+Gianni Zanini 
+Team Member 
+ 
+SAEU2 
+Hamzah Saif 
+Team Member 
+ 
+GTFS1 
+Hope Turyasingura 
+Nanshemeza 
+Team Member 
+ 
+AECE2 
+Howard William Bell 
+Team Member 
+ 
+SAEU3 
+James Muli Musinga 
+Team Member 
+ 
+SAEA2 
+Jean O Owino 
+Team Member 
+ 
+WFACS 
+ 
+The World Bank 
+ 
+Additional Financing to Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 84 
+ 
+Joy Mildred Adhiambo 
+Mboya 
+Team Member 
+ 
+AEMSO 
+Julien Marie Francois 
+Million 
+Team Member 
+ 
+SAEE3 
+Late Felix Lawson 
+Team Member 
+ 
+WFACS 
+Makoto Suwa 
+Team Member 
+ 
+SAEU2 
+Mare Lo 
+Team Member 
+ 
+GFDRR 
+Martin M. Serrano 
+Counsel 
+ 
+LEGAM 
+Masood Ahmad 
+Team Member 
+ 
+ISAE1 
+Masroor Ahmad 
+Team Member 
+ 
+SAWU1 
+Maya Abi Karam 
+Team Member 
+ 
+LEGAM 
+Michael John Hammond 
+Team Member 
+ 
+SAEE2 
+Nadim Saghir 
+Team Member 
+ 
+SAWU1 
+Naoko Ohno 
+Team Member 
+ 
+HAEH2 
+Naomi Niroshinie Nayagam 
+Team Member 
+ 
+SAWU1 
+Narayanan Edadan 
+Team Member 
+ 
+SAEU2 
+Peter James Middlebrook 
+Team Member 
+ 
+SAWU1 
+Samaneh Hemat 
+Team Member 
+ 
+SAES3 
+Seraphine Nsabimana 
+Team Member 
+ 
+SAEU3 
+Simon Peter Brooks 
+Team Member 
+ 
+SAEU2 
+Toshihiro Sonoda 
+Team Member 
+ 
+SAWU1 
+Tracy Hart 
+Environmental Specialist 
+ 
+SENDR 
+Verena Phipps-Ebeler 
+Social Specialist 
+ 
+SAES2 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+   
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 84 
+ 
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+A. Introduction 
+ 
+1. This Project Paper (PP) seeks the approval of the Executive Directors to provide an Additional Financing 
+(AF) in the amount of US$50 million equivalent to the Federal Republic of Somalia (FGS) for the Somalia 
+Crisis Recovery Project (SCRP, P173315). The original Grant of SDR 100.8 million (US$ 137.5 million 
+equivalent) was approved on May 15, 2020 and became effective on June 29, 2020. The AF also entails a 
+restructuring, that includes an extension of the closing date, a reallocation across component categories 
+and changes to the results framework targets. 
+ 
+2. The proposed AF will enhance the scope of the original project to include anticipatory action and 
+immediate response activities to address the food insecurity crisis in Somalia, as well as undertake 
+medium term recovery and resilience building activities. 
+ 
+3. The SCRP’s Project Development Objective (PDO) is to: support the recovery of livelihoods and 
+infrastructure in flood and drought affected areas and strengthen capacity for disaster preparedness 
+nationwide. 
+ 
+4. The SCRP comprises five components designed to work in the space of crisis recovery between 
+humanitarian response and longer-term development. In doing so, it takes a gradual and phased 
+approach that includes: (a) a surge of high-impact, early-recovery interventions for flood recovery, locust 
+mitigation and Coronavirus Disease 2019 (COVID-19) response; (b) a gradual transition toward medium-
+term recovery and resilience building through investments in infrastructure and longer-term disaster risk 
+preparedness. The five components are: 
+ 
+(a) Component 1: Immediate basic services and livelihood support with a focus on restoring basic 
+services and livelihoods in the three flood affected states of Hirshabelle, South West, and Jubaland, 
+whilst providing support to locust mitigation and resorting livelihoods of communities impacted by 
+locusts nationally.  
+ 
+(b) Component 2: Medium-term flood recovery including rehabilitating critical multi-sectoral 
+infrastructure and assets damaged by the floods to improve standards of future disaster resilience.  
+ 
+(c) Component 3: Longer-term disaster risk preparedness. Strengthening the capacity and 
+preparedness of government to enable it to respond to future flood drought-related emergencies. 
+This includes activities such as: i) hydromet and early warning systems; ii) a locust early warning 
+system; iii) support for establishing a National Emergency Operations Centre, and; iv) flood risk 
+management.  
+ 
+(d) Component 4: Project Management. Supporting capacity development in the Project 
+Implementation Unit (PIU) and Federal Member States’ (FMS) State Project Teams (SPTs) for the 
+implementation of the Project, including procurement and financial management activities and 
+audits, design and construction supervision, environmental and social monitoring quality 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 84 
+ 
+assurance responsibilities, grievance redressal system, and monitoring and evaluation. 
+ 
+(e) Component 5: Contingency Emergency Response. To provide support to the health sector to help 
+mitigate the impact of COVID-19 through prevention and treatment activities nationally.  
+ 
+5. SCRP implementation status. The Project is less than 12 months into implementation and underwent its 
+first supervision mission in December 2020. The Project is making gradual but steady progress towards 
+achieving its development objective. PDO achievement and implementation progress are both rated 
+Moderately Satisfactory.  
+ 
+6. As of May 6, 2021, the total project disbursements stood at US$23.6 million, representing 17 percent 
+of the original grant in the amount of US$137.5 million. In addition, US$20 million in CERC funds have 
+been approved and activated for the COVID-19 response. The Project is meeting its disbursement targets 
+for this fiscal year, and with the soon anticipated withdrawal of CERC funds by FGS, and other planned 
+activities, it is likely to stay ahead of planned disbursements for this fiscal year. Future delays in 
+implementation due to the ongoing political crisis as result of the president’s term extension and delayed 
+elections are possible, but to date no significant adverse effects have been felt. 
+  
+B. Rationale for Additional Financing, Restructuring and Proposed Changes 
+ 
+Food Insecurity Crisis in Somalia 
+ 
+7. It is projected that a minimum of two to three million people in Somalia are in acute need of food 
+security and sustainable recovery support in Somalia. Three ongoing emergencies in Somalia are key 
+drivers of its current food security crisis. Unusually erratic rainfall related to climate change with more 
+frequent and extreme bouts of floods and drought, the prevailing Desert Locust (DL) infestation, and the 
+COVID-19 pandemic have deepened existing vulnerabilities and weakened household resilience. 
+Consequently, households are adopting negative coping mechanisms detrimental to livelihood asset and 
+human capital accumulation.  
+ 
+8. The effect on pasture and crop yields of less-than-average Deyr1 seasonal rainfall during the fourth 
+quarter of 2020, a harsh dry season during the first quarter of 2021, delayed Gu2 seasonal rainfall in 
+April 2021, and spotty and less-than-average rainfall for the rest of the season during the second 
+quarter of 2021 is expected to worsen an already serious food insecurity across the country.  While at 
+this stage the DL infestation has reduced and is limited to only some northern areas, the risk of new 
+breeding and southward migration towards central and southern pasture and cultivated lands persists.  
+As of April 2021, more than 80 percent of the country was experiencing moderate to severe drought 
+conditions and at least 3.4 million people are expected to be affected by drought conditions through mid-
+year.3    
+ 
+9. The COVID-19 pandemic is also having significant indirect effects on food security, driven by the 
+regional economic downturn and supply chain disruptions. Border closures have hurt trade, increased 
+ 
+1 October-December rainfalls. 
+2 July-September rainfalls. 
+3 FAO SWALIM, April 22, 2021. Available at: https://www.faoswalim.org/. 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 84 
+ 
+prices of imported items including food, and reduced household incomes. This directly impacts on food 
+security in pastoral and urban areas. Daily wages have fallen 30-40 percent below May 2019, and by 27-
+33 percent compared to the five-year average. Internally Displaced Persons (IDPs) and urban households 
+are expected to suffer a 20-30 percent decline in income.4  
+ 
+10. The crisis will aggravate existing gender inequality and social risks. Somali women and girls, especially 
+those with disabilities, face additional challenges as well as heightened risks of Gender-based Violence 
+(GBV). Despite substantial investment in the treatment of acute malnutrition, seasonal assessments from 
+the Food Security and Nutrition Analysis Unit (FSNAU) over several years show that the prevalence of 
+acute malnutrition has remained above Serious, particularly for pregnant and lactating women suffering 
+severe acute malnutrition as well as children under five: these two categories remain in the highest risk 
+categories as food insecurity deepens across the country. The Government’s structural capacity to 
+address malnutrition is next to non-existent. 
+ 
+11. All 18 regions of Somalia are expected to have a high share of their population in Integrated Food 
+Security Phase Classification (IPC) Crisis (IPC3) or Emergency (IPC4) phases of food insecurity. This 
+ranges from 12 percent of the population in Middle Shabelle to a maximum of 34 percent in Banadir. 
+More specifically, IPC3 outcomes are expected in Guban Pastoral, East Golis Pastoral of the Northwest, 
+Togdheer Agropastoral, Coastal Deeh Pastoral of Central, Bay Bakool, and several of the riverine areas of 
+Hiiraan, Middle Shabelle, and Middle and Lower Juba. Based on recent projections and staff estimates, 
+assuming same level of humanitarian assistance to continue in 2021 compared to the preceding year, a 
+large increase is expected from 1.6 million at the start of this year to a peak of 2. 2 million by mid-year in 
+the number of people under IPC3 and 4.5 The estimated overall financing needs for Somalia to cope with 
+this food insecurity crisis are in the range of US$300-400 million. Meanwhile, the current country 
+response plan, which is heavily reliant on the UN’s US$1.09 billion 2021 Humanitarian Response Plan 
+(HRP) is severely underfunded.6  
+ 
+12. An additional grant of US$50 million has become available to the Federal Republic of Somalia under 
+the World Bank’s newly established IDA Crisis Response Window (CRW)’s Early Response Financing 
+(ERF) mechanism. This is part of the global Famine Action Mechanism (FAM) utilized by the World Bank, 
+United Nations, and other global partners which is dedicated to supporting upstream interventions in 
+famine prevention, preparedness, and early action. In July 2020, Somalia met the CRW ERF trigger based 
+on food security forecasts. The forecast projected that 55 percent of people are expected to live in 
+districts categorized as IPC 3+ over the coming four to eight months (through February 2021), 
+representing a 36 percent increase from the conditions existing just prior to the breach of the threshold 
+in July 2020. The trigger-based activation of the ERF was endorsed by the CRW ERF Technical Expert 
+Group in August 2020, and a CRW Eligibility Note was accordingly prepared. Somalia’s eligibility to receive 
+CRW ERF funds of US$50 million was confirmed by the Africa East Regional Vice President (AFEVP) in 
+December 2020 and approved by the World Bank Board in January 2021.7 Since then, the food insecurity 
+ 
+4 FEWSNET, Somalia Food Security Outlook February-September 2021. Available at: See: https://fews.net/east-africa/somalia. 
+5 Based on the FEWS-NET Update dated March 2021 of the joint FEWS-NET and FSNAU Food Security Outlook February-
+September 2021 and FAO-FSNAU-World Bank staff estimates.  See: https://fews.net/east-africa/somalia. 
+6 OCHA allocated US$ 15 million from its CERF for complementary anticipatory-action interventions.  Following a pledging 
+conference at end-April 2021, the FAO has received only pledges of US$38.8 million from its traditional donors against the 
+agency’s own target under the HRP of US$126.6 million. 
+7 The processing took more time than expected due to the CRW ERF being a new financing mechanism. 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 84 
+ 
+situation has generally continued and intensified in parts of the country through the combined effect of 
+the three key drivers of food security, particularly including the onset and prevalence of drought 
+conditions in many parts of the country. 
+ 
+Rationale for SCRP as the Instrument of Choice for the World Bank’s Emergency Food Insecurity Response 
+ 
+13. The SCRP offers the closest possible design elements, implementation arrangements and partnerships 
+across partners to enable a quick and effective World Bank response The Project has set up a robust 
+and well capacitated PIU located in the Federal Ministry of Finance (MOF) and co-managed and staffed 
+with the Federal Ministry of Planning Investment and Economic Development (MOPIED) and is supported 
+by the United Nations Office of Project Services (UNOPS). Focusing on addressing the key drivers of 
+national food insecurity (locusts, floods, drought and the COVID-19 pandemic), the SCRP provides a 
+unique multi-sector implementation platform, including via community-level outreach mechanisms, for 
+supporting multi-crisis early response, preparedness and resilience strengthening in Somalia. 
+Importantly, the SCRP PIU has the necessary contracting arrangements in place with key implementing 
+partners, who have both the capability to manage and the on-the-ground reach to scale-up and deliver 
+efficiently at a national level the priority activities needed for countering food insecurity. For instance, 
+this is the case with existing FAO contract on the provision of livelihoods support for locust response. It 
+is planned that around half of the AF proceeds will be utilized within one year of the effectiveness of the 
+AF on anticipatory and early response interventions, while the remaining funds will be utilized 
+progressively over the next couple of years on medium term recovery and rehabilitation of water and 
+fisheries infrastructure. 
+ 
+14. Approval of exception for AF for projects under implementation for less than 12 months. Since the 
+SCRP has been under implementation for less than 12 months, an exception was required to process the 
+AF for a project under implementation for less than 12 months under World Bank Procedures (AF for 
+Investment Project Financing applying the World Bank Safeguards Policies). This exception was approved 
+by the Regional Vice President (AFEVP) on April 26, 2021.   
+ 
+15. Given the urgency to act, this AF is being processed as an emergency operation. This is pursuant to 
+paragraph 12, Projects in Situations of Urgent Need of Assistance or Capacity Constraints of Section III of 
+the Bank Policy, Investment Project Financing and paragraph 56, Exceptional Arrangements in Situations 
+of Urgent Need of Assistance or Capacity Constraints of Bank Directive, Investment Project Financing. The 
+use of condensed procedures for preparation under Paragraph 12 was approved on February 9, 2021 
+under the Project Concept Memorandum by the Somalia Country Director.  
+ 
+Rationale for the Proposed Changes 
+ 
+16. The key proposed changes under the project entail the inclusion of a food insecurity specific project 
+component. This component will include both anticipatory action and immediate response activities to 
+address the food insecurity crisis, as well as medium term recovery and resilience building activities.  The 
+proposed set of activities entail both a scaling up of existing project activities like livelihoods support 
+through the provision of agricultural inputs, but also include fishing inputs, and strengthening and 
+rehabilitation of small to medium scale water and fisheries infrastructure while maximizing the use of 
+labor intensive methods. This approach is backed by a strong whole-of-government consensus on 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 84 
+ 
+utilizing the AF for scaling up the SCRP response in these areas, and premised on the need for avoiding 
+overlaps and building upon ongoing humanitarian response activities in the areas of cash provision for 
+food and a range of agro-pastoral production enhancement activities. Importantly, the proposed 
+approach to split the AF across immediate response and medium term recovery and resilience building 
+activities owes to the strong government resolve to make forays and advance its agenda for 
+strengthening its medium to long term crisis preparedness, through a nationwide diversification of food 
+sources and strengthening of water and fisheries infrastructure. The need for such an approach was 
+further validated through consultations carried out during the AF preparation mission with a broad range 
+of stakeholders including government ministries8, FMS, humanitarian partners, UN agencies and civil 
+society networks. In this respect, the government is developing a comprehensive plan of action on 
+addressing food insecurity as well as undertaking a mapping of partners and activities currently underway 
+or planned by other actors. Annex 1 elaborates the broad strategic contours of the government’s under-
+development Food Insecurity Response Strategy. In addition, with the support of the World Bank, the 
+government has also initiated the development of a longer term Food Security Crisis Preparedness Plan 
+(FCSPP), which will also entail multi-stakeholder consultations and is expected to be completed in the 
+coming months. 
+ 
+II. DESCRIPTION OF ADDITIONAL FINANCING 
+ 
+A. Summary of Proposed Changes and Restructuring 
+ 
+17. Enhanced Project Scope and Additional Activities. It is proposed that the original scope of the project is 
+enhanced to include “anticipatory action” and “immediate response” activities to address the food 
+insecurity crisis, as well as medium term recovery and resilience building activities. To this effect, a new 
+sixth component on “Anticipatory and Recovery Support for Addressing Food Insecurity” will be added 
+to the project. This will entail: (a) immediate livelihoods support through an ‘Inputs for Assets’ approach 
+under which water supply, agricultural and fishing inputs will be provided to communities either 
+unconditionally or in return for their participation in water and fisheries infrastructure, and; (b) 
+strengthening and rehabilitation of existing small to medium scale water and fisheries infrastructure 
+using regular (community) contracting mechanisms while maximizing the use of labor intensive methods. 
+The project will ensure clarity of ownership and management arrangements of all community and local 
+administrations’ assets to be rehabilitated under the Project, to ensure their adequate future operations 
+and maintenance. In addition, given that the food insecurity crisis is spread across the entire country, the 
+scope of the AF will be national, including Somaliland. However, appropriate implementation 
+arrangements between the FGS and Somaliland will be discussed prior to implementation of the AF 
+activities. This is similar to some of the original SCRP activities such as on locust control. 
+ 
+18. Additional Project Management Costs. To cover the costs of project implementation and management 
+for the new activities proposed under the AF, additional funds will be allocated to the project 
+management component (component 4) of the parent project. Cost of component 4 will increase from 
+US$ 5 million to US$ 11 million. 
+ 
+8 Including MOPIED, MOF, Ministry of Agriculture and Irrigation (MOAI), Ministry of Energy and Water Resources (MOEWR), 
+Ministry of Humanitarian Affairs  and Disaster Management (MOHADM), Ministry of Public Works, Reconstruction and Housing 
+(MPWR), Ministry of Livestock, Forestry and Range (MOLFR), and Ministry of Fisheries and Marine Resources (MFMR). 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 84 
+ 
+ 
+19. Closing Date. The implementation of the anticipatory and early response activities under the AF are 
+anticipated to be substantially completed within 12 months of effectiveness of the AF. However, the 
+medium term rehabilitation and resilience-building activities proposed under the AF, particularly in new 
+sectors like fisheries, will add a considerable workload for the PIU and line ministries to the range of 
+multi-sectoral activities envisaged under the parent project, some of which have already been slow in 
+taking off.  Hence a 12-month extension of the original project closing date of May 2024 to May 2025 is 
+proposed, for the adequate completion of both the original project activities and new activities under 
+the AF.  
+ 
+20. Results Frameworks. The PDO for the Additional Financing remains the same as the original project. 
+Targets for some selected PDO indicators under the original SCRP Results Framework (RF) are proposed 
+to be revised to reflect the expanded scope of activities and beneficiaries introduced under the 
+Additional Financing. Additional indicators are proposed to be incorporated in the SCRP AF results 
+framework to reflect the AF operations being added to the SCRP.  
+ 
+B. Project Development Objective 
+ 
+21. No revision to the original PDO is envisaged for the AF. The overall objective of the AF, to respond to 
+immediate food insecurity needs, is covered adequately by the parent project’s PDO to support the 
+recovery of livelihoods and infrastructure in flood and drought affected areas and strengthen capacity for 
+disaster preparedness nationwide. 
+ 
+C. Project Components 
+ 
+22. The AF will add a sixth component to the original project summarized below. Annex 2 provides a more 
+detailed description of the AF activities. 
+ 
+23. Component 6: Anticipatory and Recovery Support for Addressing Food Insecurity (US$45 million 
+equivalent). This component will include the following two sub-components: 
+ 
+i. 
+Sub-component 6a. Anticipatory Action and Early Response Support to Food Insecure Communities 
+(US$22.5 million equivalent). This will include: (a) Immediate Rehabilitation of Small-Scale 
+Community Irrigation and Water Supply Infrastructure, and; (b) Immediate Provision of Fishing Inputs 
+and Infrastructure to Coastal Communities, and related training and awareness. These activities will 
+be undertaken using the ‘Inputs for Assets’ approach under which agricultural and fishing inputs will 
+be provided to communities in return for their participation in water and fisheries infrastructure. 
+This component will also retain the option of providing agricultural and fishing inputs unconditionally 
+to more vulnerable groups or if otherwise warranted by local circumstances. 
+ 
+ii. 
+Sub-component 6b. Medium-term Sustainable Recovery and Resilience of Food Insecure 
+Communities (US$ 22.5 million equivalent). This will include the rehabilitation and reconstruction 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 84 
+ 
+of, (a) Larger Drought-Mitigating Water and Irrigation Infrastructure9; (b) Fishing Coastal Community 
+Infrastructure and Value Chain Resilience, and; (c) capacity building, training and awareness building 
+of government and communities for recovery planning, scheme design, operation and maintenance 
+and technical oversight for the planned water and fishery infrastructure works, and operation and 
+maintenance under clear ownership and management arrangements. This component will employ 
+routine design and contracting methods while maximizing the use of labor-intensive methods, where 
+applicable.  
+ 
+24. Additional allocation to Project Management Component (US$5 million equivalent). An additional 
+allocation of US$5 million will be made to the original SCRP project management component 
+(Component 4) to cover the costs of project implementation and management for the AF. The revised 
+amount of component 4 will thus become US$11 million. 
+ 
+D. PDO and Intermediate Results Indicators 
+ 
+25. The PDO for the Additional Financing remains the same as the original project. Targets for some 
+selected PDO indicators under the original SCRP Results Framework (RF) are proposed to be revised to 
+reflect the expanded scope of activities and beneficiaries introduced under the Additional Financing.   
+Additional indicators are proposed to be incorporated in the SCRP AF results framework to reflect the AF 
+operations being added to the SCRP. These proposed changes are reflected in the project results 
+framework, while Table 1 below lists the new indicators and revised targets for existing indicators 
+proposed to be added at the PDO and intermediate outcome levels for the AF. The number of direct 
+overall beneficiaries from the project as a result of the AF would be close to 2 million people, with a few 
+more millions of indirect beneficiaries. 
+ 
+Table 1: Existing and Revised Indicators be to be added under the AF 
+Existing PDO Indicators 
+Revised Description 
+Previous Target 
+Revised Target 
+Number of people with 
+improved access to livelihoods 
+support 
+Persons - benefiting from livelihood 
+support; engaged in cash-for-work and 
+unconditional cash grants; supported 
+with agricultural inputs; obtained water 
+and health services; and fishing inputs. 
+1,203,650 - 1,719,500 
+1,240,225 - 1,771,750 
+Number of female-headed 
+households benefiting from 
+livelihood inputs 
+Women or female-headed households 
+benefiting from livelihood support; 
+engaged in cash-for-work and 
+conditional cash grants; supported with 
+agricultural inputs; obtained water and 
+health services; fishing inputs. 
+116,375 - 166,250 
+146,300 - 209,000 
+Number of female-headed 
+farming households benefiting 
+from agricultural inputs 
+Provision of seed packages, livestock 
+feed-stocks and cash-for-work, and 
+"Inputs for Assets". 
+66,500 - 95,000 
+66,500 - 109,250 
+Number of households with 
+access to improved 
+infrastructure and basic services 
+Households with improved access to 
+roads, irrigation, health facilities, and 
+water supply. 
+1,608,192 - 2,297,417 
+1,721,242 - 2,458,917 
+ 
+9 This would include existing infrastructure damaged by conflict, natural disasters or infrastructure that may have fallen into 
+disrepair due to neglect and deferred maintenance. 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 84 
+ 
+Number of female-headed 
+households with access to 
+improved infrastructure and 
+basic service 
+Female-headed households with 
+improved access to roads, irrigation, 
+health facilities, and water supply. 
+804,096 - 1,148,708 
+860,621 - 1,229,458 
+New PDO Indicator 
+Description 
+Target 
+Number of people benefiting 
+from multiple-use of water 
+services through periods of 
+drought for domestic, livestock 
+and agricultural use (new 
+indicator) 
+Water services that include zero-
+emission standpipes or shallow wells 
+with hand or solar pumps and watering 
+troughs for livestock. Each type of use – 
+domestic, livestock and agriculture to be 
+computed with a composite index.  
+116,375 - 166,250 
+New Intermediate Indicators 
+(Component 6: Anticipatory 
+and Recovery Support for 
+Addressing Food Insecurity) 
+Description 
+Target 
+Number of persons with 
+restored access to water supply  
+Benefiting from rehabilitation and/or 
+construction of community-level water 
+points in rural areas, such as - small-
+scale water catchments, wells, 
+reservoirs, piped water schemes and 
+irrigation canals; new small-scale soil 
+infrastructure, such as soil bunds, gully 
+control baskets, and stone walls to 
+address soil erosion and improve 
+moisture retention.  
+232,750 - 332,500  
+Number of households 
+benefiting from agricultural 
+inputs 
+Provision of “Inputs for Assets” linked to 
+agricultural communities.  
+19,950 - 28,500  
+Number of female-headed 
+households benefiting from 
+agricultural inputs 
+Provision of “Inputs for Assets” linked to 
+agricultural communities.  
+9,975 - 14,250  
+Number of households 
+benefiting from fishing input 
+Provision of fishing inputs linked to port 
+communities. 
+16,625 - 23,750  
+Number of persons benefiting 
+from rehabilitated coastal 
+community  
+6 port communities benefiting from 
+fishing infrastructure - small jetty, cold 
+storage, feeder roads to markets and 
+fish markets. 
+49,875 - 71,250  
+Number of females benefiting 
+from rehabilitated fisheries 
+infrastructure  
+Females engaged in processing, storing, 
+selling, and so on, all on-shore activities 
+19,950 - 28,500  
+ 
+E. Theory of Change 
+ 
+26. Figure 1 represents the proposed revisions to the SCRP’s Theory of Change as a result of the proposed 
+AF, including the proposed additions and alterations.  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 84 
+ 
+Figure 1: SCRP AF Theory of Change 
+ 
+ 
+F. Cross-Cutting Priorities 
+ 
+a. Gender (and Community Engagement) 
+ 
+27. Community involvement in preparedness activities and women’s participation is crucial. Enhancing 
+women’s participation in decision making is crucial for building communities’ resilience to natural 
+disasters and enhancing their participation in post disaster and recovery phases can have transformative 
+effects on gender dynamics in Somalia. Although it often goes unnoticed, evidence demonstrates that 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 84 
+ 
+women have an active role in disaster preparedness, response, and recovery efforts (United Nations 
+Office for Disaster Risk Reduction (UNISDR), 2015). Providing women’s groups with training, resources, 
+and the authority to engage in preparedness and emergency response would strengthen their position 
+in the community and ensure more women get disaster preparedness and response information.  
+ 
+28. Gender dynamics play a role in a wide range of factors associated with preparedness, response and the 
+coping mechanisms associated with recovery. Women tend to perceive risks more saliently than men, 
+but there is no clear evidence that this translates into greater preparedness action. The AF activities 
+provide an opportunity to address possible gender gaps in decision making and capacity of women as it 
+relates to medium term flood recovery activities and longer-term disaster risk preparedness. As a first 
+step, given existing gaps in data, an assessment in specific project areas will be undertaken to understand 
+the level of participation of women in local level committees (Water, Early Warning and Early Action 
+Committees, others) as well as their barriers to participation. Thereafter, training programs planned 
+under Component 2, Medium-term flood recovery and Component 3, Longer-term disaster risk 
+preparedness, will be informed to include a targeted focus on improving decision making through 
+increase in participation of women in relevant local committees and improved capacity.    
+ 
+29. A detailed gender analysis is available in Annex 4. 
+ 
+b. Climate Co-Benefits 
+ 
+30. The SCRP AF is situated in a country characterized by substantial climate and disaster risks. Climate 
+change will continue to be a major contributing factor to displacement and food insecurity in Somalia 
+into the future. Droughts in Somalia are becoming more frequent and more prolonged, and the impacts 
+of COVID-19 have only compounded this threat. Extreme climatic will affect marginalized and vulnerable 
+groups more severely due to their low adaptive and coping capacities. 
+ 
+31. The SCRP AF aims to address climate risks, foster resilience and help mitigate food insecurity. Climate 
+change adaptation activities are hardwired into the project design. The AF will also take deliberate 
+measures to maximize and assess climate co-benefits in implementing the multi-sectoral activities. This 
+is in keeping with the Bank’s commitment of increasing its climate portfolio from 21 percent to 28 
+percent which is also in line with the Bank’s Action Plan on Climate Change Adaptation and Resilience 
+(World Bank, 2016).  
+ 
+32. The information below articulates the direct link between the AF’s climate change vulnerability context 
+and specific activities: 
+ 
+a. Schemes implemented for income assistance for provision of water and irrigation supply, and for 
+providing drought-resistant seeds and irrigation facilities, will support livelihoods restoration and 
+will be designed to further improve beneficiaries’ resilience to climate change impacts.  
+b. Provision of input packages to vulnerable households in remote coastal fishing communities, for 
+example for the rehabilitation of small-scale landing sites, as well as other small-scale fisheries 
+infrastructures, but also unconditionally in the aftermath of a major climate event. 
+c. Improved resilience within small remote coastal communities will be achieved through more 
+support to fishing communities and fishers, vendors and processors along the entire value chain, 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 84 
+ 
+with the aim of developing skills, competencies and experience. 
+d. Promotion and distribution of small-scale renewable energy powered equipment. 
+ 
+33. A detailed climate co-benefit assessment can be found in Annex 6. 
+ 
+G. Implementation Arrangements 
+ 
+34. The SCRP builds on existing institutional structures to capacitate functional coordination between the 
+state and federal levels of governmental agencies and flood-affected communities. With the addition 
+of fisheries activities, the AF will further expand the institutional arrangements to include the Ministry of 
+Fisheries and Marine Resources, while also building government and community capacities to support 
+AF implementation. An overarching objective is to restore the legitimacy of the State and strengthen 
+state-citizen trust. As an integral element of the SCRP, this AF will further promote coordination and 
+cooperation both vertically and horizontally within the Government and with communities. The FGS will 
+continue to maintain and update a detailed Project Operations Manual (POM) based on the additional 
+activities proposed under the AF. The institutional implementation model described in the original PAD 
+will support the implementation of the requested AF - see in Figure 2.   
+  
+Figure 2: SCRP AF Institutional Arrangements 
+ 
+ 
+ 
+At the Federal Level   
+ 
+35. Project Steering Committee (PSC). As part of the SCRP Project, the AF component will be overseen by a 
+PSC chaired by the Permanent Secretary of the Office of the Prime Minister (OPM) comprised of Directors 
+General and/or Permanent Secretaries of the MOF, MOPIED, and FMS MOPIED. The PSC serves as an 
+apex decision-making body responsible for broader strategic oversight, policy guidance, validation of 
+broader resource allocation recommendations by the PIU, and other key decisions referred to it over 
+time. However, the PSC will not be involved in routine operational decision making, such as project 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 84 
+ 
+management or procurement decisions. The PSC is also mandated to approve state investment and 
+procurement plans, conduct periodic implementation progress and compliance reviews, perform trouble 
+shooting functions particularly in the event of disputes, liaise with high level law enforcement agencies 
+to ensure project security, validate strategic course corrections recommended by the PIU and other 
+project constituents, and validate PIU state performance assessments and performance-based 
+allocations to states. 
+ 
+36. Project Implementation Unit (PIU). The current Project PIU will be responsible for the implementation 
+of the AF, as part of the broader SCRP Project. The PIU is mapped to the MOF and co-managed and co-
+staffed by a combination of MOF and MOPIED personnel. It is responsible for project management, and 
+coordination and implementation support to the FMS. These tasks include quality and process oversight, 
+financial management, procurement, reporting and certification, contract management, M&E, security 
+risk management (SRM) and ensuring World Bank environmental and social standards’ (ESS) 
+compliance. For the AF, an immediate and priority task for the PIU would be to ensure timely and 
+effective coordination between Federal and State Governments to facilitate prioritization, sequencing, 
+investment planning and ensuring different sectoral line agencies to work together to implement the 
+additional activities.  
+ 
+37. Leveraging existing and successful partnerships. For the anticipatory and early recovery activities 
+envisaged under the AF, the government will be encouraged to utilize and scale-up where possible, the 
+existing contracting and partnership arrangements with the relevant UN agencies and civil society 
+networks under the parent project.  The parent project has benefited immensely from engaging partners 
+such as UN agencies and civil society networks on the early recovery activities (Component 1) and 
+activating CERC (Component 5).  
+ 
+38. Scaling up of these existing contracting arrangements will help ensure the provision of immediate and 
+effective support to the people affected by the food insecurity crisis, without having to resort to forging 
+altogether new implementation modalities for such early recovery activities. The PIU, FMS SPTs FGS and 
+relevant FGS Ministries Departments and Agencies (MDAs), such as the Ministry of Water and Energy 
+Resources and Ministry of Fisheries and Water Resources, will continue to supervise the implementation 
+of activities of partners engaged by the PIU for providing such services. For the new component under 
+the AF, the Project intends to further build the capacity of SPTs to enable them to perform these 
+additional functions. New SPTs may also be constituted in FMS which currently lack such implementation 
+mechanisms under the SCRP, on a needs basis.  
+ 
+39. Citizen Engagement. The implementation of the AF will build on the strong citizen engagement principles 
+underpinning the original implementation design of the SCRP. This includes through the engagement of 
+potential International Non-Governmental Organization (INGO) and UN implementing partners, such as 
+building on the partnerships established through the parent project. This will help ensure the use of well-
+established processes of community engagement, which are both gender and conflict-risk sensitive.  The 
+Project will ensure progressive social mobilization in respect of all project components through the use 
+of existing community leadership and civil society networks, ensuring that communities are consulted at 
+various stages of the subproject cycle, that is, identification, design, implementation, quality assurance, 
+and impact evaluation. Communities will engage throughout project implementation, including in the 
+monitoring of the implementation of project activities. Information boards, local meetings, and other 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 84 
+ 
+forms of locally appropriate communication tools would be used for community-level information 
+dissemination. A Community Scorecard exercise will be utilized to enable communities to provide formal 
+feedback on overall project governance, including the performance of the targeting and the GRM. These 
+activities are intended to generate evidence to contribute to improving policy and programs to enhance 
+citizen engagement in local service delivery.    
+ 
+40. Implementation Capacity Assessment and Strengthening. The World Bank undertook an initial 
+assessment of FGS and FMS capacities to deliver the SCRP Project. This pointed to the need for capacity 
+enhancement and skills transfers at both levels for project preparation and implementation. A hybrid 
+strategy was thereby agreed under which the FGS contracted UNOPS to provide project management 
+surge support during project preparation, and at least during the first two years of implementation, likely 
+on a declining scale, while the Project will also enhance the capacity of the PIU and the SPTs where 
+necessary. UNOPS provides on-the-job training and skills acquisition to the PIU, SPTs, and the FMS MDAs 
+on procurement, contract management, environmental and social risk management, monitoring and 
+evaluation, SRM and reporting, engineering, GBV, grievance redressal, and so on. The PIU has designated 
+a focal point on environmental and social risk management and has initiated the procurement of 
+dedicated environmental, social, GBV and SRM experts.    
+ 
+H. Lessons Learned from Parent Project 
+ 
+41. Increasing sensitization amongst key government Ministries towards greater PIU empowerment. Initial 
+delays in project implementation have been attributed to the lack of adequate empowerment and 
+functional delegation to the PIU to make timely operational and procurement decisions. Project 
+instruments, including the legal grant agreement together with associated documentation, such as the 
+POM, are clear on the project’s institutional and governance arrangements. Moreover, the joint project 
+management relationship established under the project PIU between the MOF and MOPIED is working 
+very well. However there remains a critical need to improving the functional delegation to the PIU to 
+make timely operational and procurement decisions. This approach will be continued to ensure effective 
+implementation of the activities under the proposed AF.  
+ 
+42. Institutionalizing Communities of Practice, where these do not already exist. To maintain  
+complementarity and synergies with other development and humanitarian partners, the Project team 
+within the first month of implementation agreed that there is a dire need for enhanced coordination and 
+synchronization across partner activities at the policy, strategic and operational level in dealing with the 
+multiple crises that Somalia is confronted with. It was agreed to map the partner landscape, set up 
+technical working groups, and develop and operationalize joint actions plans, including for flood risk 
+management, hydrological and meteorological (hydromet) services through the Hydromet Working 
+Group, National Emergency Operation Center, locust response, food insecurity, COVID-19, displacement, 
+and so on. Communities of practice have already been set up with regular meetings been held on M&E, 
+on Infrastructure, hydromet, and investment planning. This approach has been advancing coordination 
+by synchronizing and realizing the potential for complementarity across partner activities and particularly 
+towards strengthening humanitarian-development collaboration across the multiple crisis responses 
+that Somalia is currently undertaking. The communities of Practice will also be leveraged to inform 
+implementation of AF activities.  
+ 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 84 
+ 
+43. Facilitating bottom-up planning and accountability. Guided by the Project POM, the Government has 
+been able to quickly prioritize investments under SCRP using a bottom-up, systematic, and criteria-based 
+sectoral and geographic prioritization and investment planning process. This process was inclusive and, 
+in each state, involved consultations with community representation in the form of local Non-
+Governmental Organizations (NGOs). This process has informed state-level annual work plans and 
+budgets. This decision-making model under the Project has helped create confidence in government 
+decision-making using an evidence-based approach, while supporting a high degree of cooperation and 
+coordination between the FGS and FMS.  Utilizing and further strengthening these processes to prioritize 
+and sequence AF related needs, including “quick win” investments based on existing designs, and 
+developing systematic work planning regimes for the new project component will be a key determinant 
+of the success of the AF. 
+ 
+44. Facilitating regular dialogue between senior leadership of the PIU and UN Agencies to support 
+compliance with World Bank Environmental and Social Framework (ESF) requirements. The Project 
+team found that initial delays in implementation by UN implementing partners of requirements under 
+ESF were more quickly resolved through direct engagement between senior leadership at the PIU and 
+UN agency level. With SCRP setting in place a new precedent where the Government of Somalia is in the 
+driver’s seat, for the first time after decades, as the direct recipient of funds to implement large scale 
+disaster management and response activities, the dynamic between the UN agencies in Somalia and 
+Federal and State Government is evolving. A gradual change in ways of working is taking place in Somalia 
+with UN agencies becoming accountable to the FGS in implementation of activities under the SCRP. 
+Unlike with other implementing partners who are private sector contractors or INGO consortiums, with 
+UN implementing partners in particular, this lesson learned of direct and frequent dialogue between 
+senior leadership had proved most effective at ensuring comprehensive reporting, documentation and 
+compliance with World Bank ESF requirements.  
+ 
+I. Alignment with Higher Level Objectives 
+ 
+45. The new component proposed under the SCRP AF to address the food insecurity crises in Somalia and 
+are fully aligned with relevant government, World Bank Group (WBG) and partner strategies. While 
+the FGS does not yet have a fully developed response plan specific to this crisis, the proposed project 
+activities are in support of the Government’s National Development Plan (NDP-9, 2020-24), which builds 
+on the Somalia Recovery and Resilience Framework (RRF) and serves as an overarching framework for 
+development priorities in Somalia. This includes alignment with the 2020 Mutual Accountability 
+Framework, the UN Strategic Framework, the Comprehensive Refugee Response Framework, as well as 
+the National Water Resource Strategy, 2021-2025 and Roadmap and draft fisheries legal frameworks, 
+such as the draft Fisheries Bill, National Fisheries Policy, and Fisheries Master Plan. 
+ 
+46. The AF activities also align with the International Development Association (IDA) 19 core priorities, the 
+WBG’s twin goals and its Fragility Conflict & Violence (FCV) strategy. The proposed AF is closely 
+associated with the WBG’s twin goals of ending extreme poverty and boosting shared prosperity by 
+addressing the food security needs of the most vulnerable and poorest segments of society. It is also well 
+aligned with the FCV Special Theme of IDA 19 that aims to further strengthen IDA’s effectiveness in 
+Fragile and Conflict-affected Situations, supporting countries to escape the fragility trap and exploiting 
+IDA’s comparative advantage at the security-development nexus. 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 84 
+ 
+ 
+47. Further, the AF activities also align with the WBG’s Country Partnership Framework for Somalia (FY19-
+22) (CPF, Report No. 124734), with its strong focus on poverty alleviation and resilience building; 
+namely: (i) strengthening institutions and expanding access to services; and (ii) building Somalia’s 
+structural resilience to fragility and shocks. The AF activities will also complement, with quick impact and 
+disaster risk management elements, the key World Bank-funded projects that are already active in 
+Somalia including the Shock Responsive Safety Nets for Human Capital Project (P171346), the Urban 
+Resilience Project II (P170922), and the Biyoole or Water for Agro-Pastoral Productivity and Resilience 
+Project (P167826), all of which aim to build long-run resilience at the community level. 
+ 
+48. The Project is aligned with the World Bank’s climate change and resilience agenda. In the Action Plan 
+on Climate Change Adaptation and Resilience, the World Bank acknowledges the urgency of the 
+development impacts of climate change, especially in FCV countries. It commits to scaling up adaptation 
+efforts to build resilience against climate and disaster impacts,  with a focus on interventions that directly 
+target and engage with vulnerable population groups, informed by greater access to climate, weather 
+and hydrological information. 
+ 
+III. KEY RISKS 
+ 
+A. Overall Risk Rating and Explanation of Key Risks 
+ 
+49. Somalia is one of the most difficult FCV environments in the world in which to operate, with the socio-
+political construct, as well as conflict and security, presenting serious challenges to project 
+implementation. Through the engagement of the specialist security risk management provider, the 
+Project is developing a proportional risk mitigation regime, not least to address issues of Security Risk 
+Management (SRM) and GBV.  
+ 
+50. The overall risk rating for the SCRP, including for the proposed AF remains High. The risks that could 
+adversely affect the Project are contextual, political, institutional, and programmatic. The Government 
+has some familiarity with World Bank investment operations requirements, though their capacity both 
+in the Federal Government and at FMS-level to manage full-lifecycle project delivery and supervision 
+activities remains generally weak. The SCRP PIU is gradually developing critical risk management skills 
+through the implementation of the Project.   
+ 
+51. Political and Governance risks are High. A unique socio-political dynamic exists in Somalia within a 
+contested political space. In February 2020 Somalia's president signed legislation that would allow 
+ordinary Somalis to vote in parliamentary elections, for the first time. The holding of a one-person, one-
+vote election has been developed as a replacement for “clan-based power-sharing”. Historically, this has 
+given rise to tensions between the FGS and key FMS, although recent positive political developments 
+have improved the situation. Given the institutional arrangements under the SCRP, there is a distinct risk 
+that the sensitive political environment could have a detrimental impact on the Project level, including 
+the proposed AF. Mitigating such risks is largely beyond the influence of the World Bank and its partners. 
+However, the SCRP Project Team will continue regular and systematic efforts to encourage collective 
+Project action at the technical levels in the FGS and FMS to sustain activity beyond any political 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 84 
+ 
+turbulence. This will include regular communication on project activities, allocations, skills transfers and 
+functional operational processes. A robust SRM approach is being promoted through the risk 
+management consultant, which is embedded in the PIU and seeks to mitigate any immediate effects to 
+the Project of developing hostile environment. 
+ 
+52. The Macroeconomic Risk is Substantial. Somalia is one of the world’s poorest countries, with a gross 
+national income of US$284 million. Some 80 percent of its exports are from one product, livestock, 
+leaving it exceptionally prone to external economic shocks. The substantial dependency of the FGS upon 
+donor funding underlines the fiscal fragility and weak revenue base. The World Bank, working with others 
+such as the International Monetary Fund, is engaged in strengthening the overall macroeconomic and 
+fiscal framework. The project design builds in flexibility such that activities can be adjusted accordingly, 
+contingent on the overall environment.  
+ 
+53. Sector Strategies and Policy Risks are Substantial. Risks related to the development and implementation 
+of the sector strategies relevant to the project remain substantial. In particular, the government needs 
+to strengthen its strategy on food crisis management and preparedness that acknowledges the need for 
+anticipatory and early actions for addressing immediate food insecurity needs. It also needs to embark 
+on a path of developing and implementing multi-hazard preparedness policies and systems with 
+predictable financial resources and the requisite human and skill development. Given Somalia’s recurrent 
+history of droughts and food insecurity, particular emphasis needs to be placed on food insecurity 
+preparedness. Both the original project and AF provide concrete opportunities and explicit resources for 
+strengthening the country’s disaster preparedness strategy, plans and systems. 
+ 
+54. Technical Design Risk is Substantial. Given the complexities of design of new fisheries and water 
+infrastructure, in a highly complex environment that comprises many political, security, technical 
+capacity and governance challenges, a substantial rating is warranted. This includes weak capacity 
+generally in the country for technical design, procurement, construction and supervision activities. The 
+design of the project builds in significant technical capacity building efforts to create an effective project 
+platform, such as the use of project management and design support through UNOPS and outsourcing 
+design and supervision to qualified external partners and firms, which will help maintain technical design 
+risks for the AF. Field-level risk mitigation exists, in the form of INGO consortia partnering with the SCRP 
+PIU and is proving an obvious resource for offsetting some of the technical design and community 
+engagement challenges. The field level presence and local experience of INGO consortia will also be 
+leveraged to maximize the benefits of the new components introduced under the AF. In addition to 
+capacity injection outsourcing of technical designs for example, drawings, Bill of Quantities, Bill of 
+Engineering measurement and evaluation, and so on, of large water infrastructure under sub-component 
+2a will also mitigate the technical design risk of the MDAs and PIU.   
+ 
+55. The Institutional Capacity Risk is Substantial. Capacity and authority in Somalia are relatively weak given 
+the history of conflict, fragmented governance boundaries and a deep mistrust of public institutions. 
+Conforming to the new draft guidelines of the Civil Service Commission, the project continues to ensure 
+the recruitment of the best technical consultants at both PIU and FMS levels, to create a sufficiently 
+attractive technical environment in which the best available staff are being identified and retained. The 
+relative scarcity of qualified human resources in Somalia is proving a challenge in the recruitment 
+processes for certain posts.  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 84 
+ 
+ 
+56. The Fiduciary risk is rated high. The FM and procurement environment in Somalia remain inadequate. 
+The financial management risk is assessed as High. Financial management capacity challenges that are 
+likely to affect the project exists. The ‘High’ risk rating is largely attributable to a) country specific 
+weak/evolving rudimentary funds flow and banking systems particularly at the implementation level in 
+Somalia - characterized by Anti Money Laundering and Anti -Terrorism Financing risks. They also include 
+lack of key financial management competencies and internal controls, reliance on consultants, lack of 
+regulatory framework for key Public Financial Management (PFM) aspects amongst others. Various 
+mitigating measures are designed both specific to the project and as part of other World Bank/Donor 
+engagements in the country. Mitigation measures for governance issues have been built into the project 
+design in the form of strict fiduciary control mechanisms and application of World Bank fiduciary rules, 
+as well as through targeted participatory and consultative mechanisms for project activities and a focus 
+on social accountability. The project, (a) has a dedicated financial management and procurement 
+specialist with experience in World Bank policies with the ability to provide embedded capacity building 
+within the PIU; (b) includes in the POM a well-described financial management procurement process; 
+and (c) includes a requirement for oversight as part of the third party/ community based monitoring as 
+well as social accountability d) demands risk based implementation support reviews e) is strengthening 
+the financial management capacities of the PIU and External Assistance Fiduciary Section (EAFS) units 
+through on the job-training and formal PFM trainings.   
+ 
+57. Environmental and Social (E&S) risk is High. The parent project is rated high risk on E&S and this will be 
+retained under AF. The key AF activities that can pose environmental risks include: Rehabilitation of 
+Small-Scale Community Irrigation and Water Supply Infrastructure using “Inputs for Assets” Modalities, 
+Provision of Fishing Inputs and Infrastructure to Coastal Communities, Rehabilitation and Reconstruction 
+of Larger Drought-Mitigating Water and Irrigation infrastructure, reconstruction of high priority small-
+scale fish jetties and other landing infrastructure, processing and handling centers. Potential 
+environmental issues associated with the vast majority of proposed activities are not expected to be 
+significant, as investments will involve rehabilitation and reconstruction of existing infrastructure only. 
+Still some adverse impacts may be possible for infrastructure sub-projects depending on the specifics of 
+each site, especially those that involve new physical works10  or changes in the sites or in high-risk areas. 
+Some aspect of Fishing Coastal Community Infrastructure component will potentially involve hazardous 
+work due to working near, in or above water. In addition to these construction-related environmental 
+effects, risks, and hazards, the operation phase will have potential effects on the environment as well as 
+health and safety risks and hazards associated with fish processing and storage facilities. The ESIA will 
+explore these potential impacts, risks and hazards, and propose the necessary mitigation measures and 
+monitoring plans. 
+ 
+58. Key social risks include: a) ensuring security for project operations, project workers and the beneficiary 
+communities; b) exclusion of vulnerable, marginalized and minority members of the community from 
+project benefits amplified by the context of limited resources against widespread need; c) selection bias 
+and elite capture, where project benefits are diverted to less-vulnerable individuals and locations; d) 
+challenges in access to beneficiaries for meaningful community engagements and difficulty in monitoring 
+social harm where it has occurred; e) inward migration to targeted districts for project benefits and labor 
+ 
+10 Such physical works will necessarily exclude any works that that use or risk polluting international waterways. 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 84 
+ 
+opportunities, which may upset community dynamics and perpetuate social and environmental fragility; 
+f) sexual exploitation and abuse, sexual harassment (SEA/SH) and other forms of GBV; g) systemic 
+weakness in the capacity of government to identify, understand and prevent adverse social impacts on 
+the project, and; (h) displacement impacts and restrictions to land use associated with water supply and 
+fishing input infrastructure. All risk mitigation measures are detailed in the appropriate ESF instruments. 
+ 
+59. Stakeholders’ Risk is High. Opposition from some stakeholders (civil society, private sector 
+organizations, al-Shabaab, and other members of the general public), in light of the sectarian nature of 
+the conflict and violence, could have a negative impact on the achievement of the PDO. The project 
+objectives are, however, clear and through a people-centered approach, use of trusted implementing 
+partners, the support of a SRM company and a targeted communications strategy, they should generally 
+be well understood by an all stakeholders.  
+ 
+60. Security Situation Risk is High. Much of Somalia is subject to conflict and sporadic violence, which affects 
+access to locations, insecurity for staff and communities. Mitigation measures have been developed and 
+include: the engagement of a specialist risk management service provider to directly support the PIU in 
+the entirety of the SRM functions across the Project. The service provider has developed a Security 
+Management Plan and is proposing a comprehensive SRM approach to identify, manage and mitigate, to 
+the extent possible, security risks pertaining to all levels of the Project. Standard operating procedures, 
+to include a security decision-support system for government as well as further training on risk analysis 
+and monitoring for the PIU is being implemented as part of a robust SRM approach within the SCRP. 
+ 
+61. The reputational risk to the World Bank is Substantial. Reputational risks also exist for the FGS, 
+particularly in relation to INGOs and UN agencies implementing on behalf of the Government. Risk 
+mitigation through safeguards will help to ensure the Project’s success and protect the World Bank’s 
+reputation. FGS’ reputational risk is being progressively mitigated through a memorandum of 
+understanding 
+with the 
+Government 
+to 
+agree 
+on 
+key 
+principles 
+of 
+engagement, 
+for 
+example, Government positioning and communication, together with the need for establishing a 
+harmonized beneficiary registry / targeting methodology. It is important that the FGS is seen by citizens 
+to be relevant delivering services to through inclusive and bottom-upwards local planning processes. 
+ 
+IV. APPRAISAL SUMMARY 
+ 
+A. Economic and Financial Analysis 
+ 
+62.  The economic viability of the proposed interventions under the AF have been assessed through a cost-
+benefit analysis. A simplified cost-benefit analysis, where the direct costs and the monetary value of 
+selected benefits are compared, was performed to assess the economic viability of the proposed 
+interventions, while also considering intangible returns. Such analysis allows an appraisal of the net 
+present value (NPV) and the economic internal rate of return (IRR) of projects in a consistent and 
+comparable manner.  
+ 
+63. The computation of the NPV and the IRR of the AF reveals that the interventions featured under the 
+project are economically viable under the baseline scenario, as well as under less favorable conditions. 
+The economic analysis is performed across all the 4 activities included in Components 6a and 6b of the 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 84 
+ 
+AF, to measure the short- to medium-term positive impacts of the proposed interventions. An annual 
+discount rate of 6 percent is assumed, which is the time value of money (that is, the opportunity cost of 
+capital), for Somalia. The activity horizon is assumed to be 10 years. The sensitivity analysis, where each 
+finding is observed under less favorable conditions such as, for example, a 10 percent increase in costs 
+or a 10 percent decrease in benefits to test for robustness, indicates that the NPV remains significant and 
+that the IRR remains above the annual discount rate of 6 percent. The results of the economic analysis 
+are presented in Table 2 below, with a detailed presentation of the analysis featured in Annex 3.  
+ 
+Table 2: Sensitivity Analysis of Interventions 
+  
+Activities under Component 6a 
+Activities under Component 6b 
+NPV (US$) 
+IRR (%) 
+NPV (US$) 
+IRR (%) 
+Baseline scenario  
+37,168,911  
+54.7 
+30,893,454 
+39.6 
+Costs increase by 10% 
+34,885,111  
+47.4 
+28,760,226 
+35.0 
+Benefits reduce by 10% 
+31,168,220  
+46.6 
+25,670,880 
+34.5 
+Benefits lag by two years 
+15,376,697  
+17.8 
+22,140,339 
+25.2 
+Source: Based on World Bank staff calculations. 
+ 
+B. Technical 
+ 
+64. The Project’s technical appraisal confirms the need for a rapid response to growing food insecurity. 
+The appraisal validated the urgent need for anticipatory and early response actions to address Somalia’s 
+increasing food security as well as nutrition-related crisis risks. It also confirmed that unless addressed 
+adequately, the drivers of Somalia’s food security conditions ranging from COVID-19 and Desert Locusts 
+to climatic events, such as the most recent and forecasted below average rainfall, will continue to 
+exacerbate an already dire food insecurity crisis. In this respect, one key activity to be fast tracked by the 
+government include the development of an action plan for immediate food insecurity response, 
+particularly including the implementation arrangements and partnership modalities for undertaking 
+immediate crisis response and anticipatory action.  Given the urgency to furnish a quick and substance 
+response to the immediate crisis needs, the Government has also been encouraged to include in this 
+action plan, activities that it would like to commence immediately which the AF can retroactively finance 
+upon project effectiveness. 
+ 
+65. The SCRP is already being implemented through multiple institutions necessary to realizing a whole-
+of-government approach for early recovery. The SCRP PIU has convening ability to bring all stakeholders 
+to work together on this agenda, including the finance, planning, water, agriculture, and disaster 
+management ministries. It also brings together partners like FAO (the leading UN agency on food 
+insecurity early warning systems), one of several SCRP avenues that could be quickly scaled for utilizing 
+ERF funding in partnership with FGS. SCRP also provides the option of using its partnerships with civil 
+society consortia to extend quick additional support to food-insecure communities.  
+ 
+66. The proposed AF design and approach will significantly aid food security. The World Bank’s technical 
+and sector experts involved in the preparation of the AF are satisfied with the FGS’s multi-disciplinary 
+emergency response to food insecurity. The infrastructure interventions will be based on detailed 
+assessments, including technical, geophysical surveys, complemented by local community knowledge, 
+and prioritize “quick wins” by fast-tracking existing designs, as feasible. Technical assessments will be 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 84 
+ 
+carried in consultation with different stakeholders to (i) prioritize the interventions; (ii) make informed 
+decision about typology of infrastructure; (iii) allocate resources to the interventions and determine 
+geographical scope (the scope of the AF will be national, including Somaliland, however appropriate 
+implementation arrangements will be discussed between the FGS and Somaliland prior to 
+implementation of the AF activities); and (iv) define implementation modalities and schedules. The 
+infrastructure under component 6(a) will be primarily implemented through community engagement 
+under inputs for community assets’ modalities. PIU and relevant MDAs, including the FGS and FMS 
+Ministry of Water and Energy Resources and Ministry of Fisheries and Water Resources, will lend 
+technical support and implementation supervision of community work for robust and quality outputs in 
+line with the national technical standards. Under sub-component 6(b) design and supervision will be 
+through third-party engineers with close backstopping from MDA and the PIU, while construction will be 
+contracted to qualified contractors. The AF will concurrently build Government preparedness and 
+coordination capacity and supporting the analytical and policy basis for enhancing food security. 
+ 
+67. Supporting government-led and community-supported infrastructure operations and maintenance 
+(O&M) regimes. The Project’s technical appraisal confirms the need for supporting institutional capacity 
+building with multiple tiers of MDAs government tiers (federal and state) in the areas of multi-sector 
+recovery planning, implementation, coordination and civic engagement. The proposed AF will build the 
+capacity of government to effectively engage in and lead the SCRP AF, as well as more broadly to lead 
+and sustain recovery coordination. As government capacity increases, the Project aims to focus on 
+sustainability and productivity of the SCRP AF’s completed infrastructure through active support of 
+citizens and project beneficiaries. As mentioned earlier the project will heavily engage with beneficiary 
+households and communities under the ‘assets for inputs’ approach and will also build their capacity in 
+O&M of infrastructure created or rehabilitated or inputs provided under the SCRP AF.  
+ 
+68. The O&M for the proposed infrastructure activities would be challenging in the operational context of 
+Somalia. In the technical discussion with PIU and relevant MDA, the World Bank has emphasized strong 
+commitments to ensure sustainability of the schemes undertaken as part of the AF. PIU will lead, with its 
+partners, in designing and placing appropriate mechanisms, either community based or through 
+strengthening of federal /state structures, or a combination of both ensuring sustained O&M regime 
+leading to sustainability of completed infrastructure projects both under AF and SCRP. The project team 
+will ensure best practices in O&M in other FCV contexts are adapted to Somalia. In respect to the 
+provision of fishing assets, such as refrigerated trucks, the team will elaborate and clarify ownership, 
+management, operations and maintenance aspects in the Project Paper to ensure long-term viability of 
+all activities undertaken.   
+ 
+69. The need to retain flexibility to adapt to dynamic and evolving needs. Maintaining flexibility of the 
+Project will allow the FGS the ability to regularly re-prioritize between the various activities against ever-
+changing conditions and needs on the ground. The technical appraisal of the AF also indicated the need 
+for maintaining flexibility of resource allocation across various sub-components, as well as using target 
+ranges for results indicators instead of absolute values, to allow room for strategic and operational 
+course corrections during implementation.  
+ 
+70. Project investments will be based on the ongoing process of prioritization and sequencing developed 
+through the parent project. Therefore, there the technical team has a high degree of confidence that 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 84 
+ 
+further prioritization and targeting of the AF will be based on such systematic prioritization of needs 
+Through this process, all the investments in infrastructure will be designed to climate resilient standards, 
+that is, planned, designed, built, and operated in a way that anticipates, prepares for, and adapts to 
+changing climate conditions. The reconstruction and rehabilitation of water and fisheries infrastructure 
+under the AF will support climate change adaptation by being informed by risk mapping to ensure climate 
+resilience in the building locations and construction standards. Adaptive operation and maintenance 
+management approaches will also be incorporated to include flexibility from the outset to monitor and 
+adjust to changing conditions over the lifetimes of the newly reconstructed assets. Flood risk 
+management and community preparedness plans will also draw on risk mapping and identify measures 
+to anticipate, prepare for, and adapt to changing climate conditions.  
+ 
+71. The proposed AF has undergone the required climate and disaster risk screening and has been assessed 
+for climate co-benefits (Annex 6). The investments under this Project will provide substantial climate co-
+benefits both because (i) the provision of livelihood support and rehabilitation of critical infrastructure 
+and services will help to improve the well-being, economic prospects, and quality of life for some of the 
+most vulnerable people; thereby improving their capacity to cope with climate-induced stressors, (ii) the 
+policies, plans, and infrastructure investments themselves will be designed and constructed in a resilient 
+manner, and (iii) the strengthening of Government capacities to coordinate and prepare for changing 
+climate conditions, including the consolidation of early warning information.  
+ 
+C. Financial Management 
+ 
+72. Given the consideration for Use of Country Systems (UCS), the project will adopt the UCS in various 
+aspects of the project’s financial management. These include accounting and reporting, banking, 
+oversight arrangements with the Office of the Auditor General and FM staffing. This will be supported by 
+Technical Assistance (TA) with clear requirement for knowledge transfer incorporated in the Term of 
+Reference. The External Assistance Fiduciary Section (EAFS), already established under the Office of the 
+Accountant General and staffed with mainstream civil servants in consultation with the FGS Ministry of 
+Humanitarian Affairs and Disaster Management (MOHADM) will oversee and manage the project 
+financial management. The EAFS unit has been fully operational at FGS for the last 6 years. The current 
+staffing the Somalia Crisis Response Project will be used to manage the additional financing proceeds. 
+The EAFS and the PIU staff will be trained on World Bank FM procedures. Throughout the implementation 
+of the project, the Government is expected to ensure the EAFS and PIU are staffed with professionals 
+with relevant and adequate qualification and experience acceptable to the World Bank. The EAFS will 
+work closely with the UN Agencies which will be contracted by Government to implement part of the 
+project components.  
+ 
+73. The FM arrangements for the AF will mirror the arrangements under the parent project. The FM risk 
+rating is high given the expansion of the program beneficiaries and the addition of the Ministry of Fishing, 
+which is not covered by the parent operation. The Office of the Accountant General and Auditor General 
+will be central counterparts in the management and oversight of FM arrangements and the 
+implementation of risk mitigation measures. In line with smart fiduciary principles and like the parent 
+project, FM arrangements additional financing are centralized and managed by special units, the External 
+Assistance Fiduciary Section (EAFS), headed by the EAFS Director and reporting to the Accountant 
+General. The EAFS units are designed to ensure harmonization, donor coordination, reduction in 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 84 
+ 
+duplication, fragmentation, and proliferation of development partners-specific FM units. To foster 
+sustainability, the EAFS units are staffed with mainstream civil servants supported by targeted TA with 
+clear Terms of Reference outlining measures to promote knowledge transfer and an exit strategy. The 
+FGS’ Office of Auditor General, with support of a qualified and registered practicing audit TA firm, are 
+responsible for project audits. Given the high risks, special reference and attention will be made to 
+International Standards on Auditing (800)- Auditor’s Report on Special Purpose Audit Engagements.   
+ 
+74. Budgeting Arrangements. The PIU will continue to work in close consultation with the Budget Director 
+at the Ministry of Finance, External Assistance Fiduciary Section technical implementation units to (i) 
+prepare cash projection for the AF, (ii) request for adequate budget allocation for anticipated 
+disbursements and expenditures during FY21 and the outer years, and (iii) as necessary process UN 
+Commitments based on the amended output agreement signed between the Government and relevant 
+UN agencies. As with the parent project, before the projected estimates are incorporated in the 
+Government Appropriation bills, they will be submitted to the World Bank Group Task Team Leader (TTL) 
+for the necessary review and approvals. The work plans, cash flow projections, and budget include the 
+project activities, amounts according to the Government financial year analyzed by month and quarter 
+delineated by components and categories including any applicable UN Commitments allocations. The TTL 
+cleared budget and projected annual disbursements will be ‘on-budget’. The analyzed budgets will be 
+posted into the respective Financial Management Information Systems (FMIS) according to the approved 
+Standard Chart of Accounts (SCoA). The share of project financing will be integrated into the parent 
+project and posted by appropriate SCoA funding source to facilitate generation of project periodic 
+reports by funding source. The integrated project’s budget utilization reports shall be prepared from 
+Government(s) FMIS as a sub-set of the Government Treasury Single Account (TSA) fiscal reports. 
+ 
+75. Flow of Funds and Banking Arrangements. The AF will be channeled through the existing project 
+Designated Account (DA) at Central Bank of Somalia (CBS). All the expenditures for the parent project 
+and additional financing incurred through the DAs and as well as those submitted through client 
+connection for direct payments will be justified, supported and eligible as defined in the Project Appraisal 
+Document (PAD) and the financing agreement(s). All project withdrawal applications will be made in US 
+Dollars (USD) and will be submitted online through the client connection portal. Replenishment and 
+reimbursement Withdrawal Applications will be accompanied by Statements of Expenditures (SOEs) in 
+accordance with the procedures established in the disbursement Letter and the Disbursement 
+Guidelines. Detailed disbursement arrangements will be documented in the Disbursement Letters. The 
+EAFS Unit in consultation with Director General and alternate signatories will institute adequate controls 
+in the management of the DAs. The signatories to the DAs (Treasury Cheques/Payment 
+Instructions/Electronic Funds Transfer- EFT). The DA will be operated in line with the established DA 
+mandates for the parent project.  
+ 
+76. Accounting and internal control arrangements. The AF will be accounted for on a cash basis in line with 
+the arrangements under the existing project. These will be supported with appropriate records and 
+documentation to track commitments and to safeguard assets. The project budgets and expenditure will 
+be classified to facilitate the preparation of relevant reports and financial Statements, including 
+information on total project expenditures, total expenditure on each project component/activity, and 
+analysis of that total expenditure into various categories of goods, training, consultants and other 
+procurement and disbursement categories. The project FM arrangements are spelled out in the EAFS 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 84 
+ 
+Manuals which are being phased out and replaced with Comprehensive Operations and Accounting 
+Procedures Manuals (COPAM)11, a move aimed at strengthening the use of county systems. The 
+accounting records will be maintained in USD and integrated with the parent project. Similar to the 
+parent project, the additional financing activities will be mapped to the Government FMIS using the SCoA 
+to facilitate recording and reporting of all the project financial information, including information on total 
+project expenditures, total expenditure on each project component/activity, and analysis of that total 
+expenditure into various categories. All the project financial management records will be maintained in 
+hard copied at the EAFS as well as in electronic format archived in the FMIS.  
+ 
+77. Financial Reporting Arrangements. All project financial reports (parent and additional financing) will be 
+generated directly from a single integrated window through Government FMISs and as a sub-set of the 
+various authorities TSA fiscal summary reports. Quarterly Interim unaudited Financial Report (IFRs) will 
+be prepared by the EAFS in consultation with the PIU and will cover all project funds. For purposes of 
+monitoring project implementation progress, the reports shall be submitted to the World Bank within 45 
+days after the end of the quarter. The reports will cover all funds received under the project (parent and 
+additional financing). The formats and contents of the financial progress reports are designed into the 
+FMISs.   
+ 
+78. External Auditing. Consistent with audit arrangement for the parent project, the FGS Office of the 
+Auditor General has the overall responsibility to carry out independent audit of the project. The project 
+(parent and additional financing) will support the engagement of an external audit technical assistance 
+to work with the staff of the Office of the Auditor General to undertake the project audit alongside other 
+projects implemented through country systems. Given the high-country risks, specific attention will be 
+focused on the International Standards on Auditing (ISA 800) - Auditor’s Report on Special Purpose Audit 
+Engagements as necessary. The audited project annual financial statements, management letters, 
+together with any additional information required, will be submitted to the World Bank within six months 
+after the end of the financial year. The audits shall be in conformity with the World Bank’s audit 
+requirements and in accordance with internationally recognized auditing standards. The FGS Office of 
+the Auditor General will express an opinion on the Financial Statements in compliance with International 
+Standards for Supreme Audit Institutions, and prepare a Management Letter giving observations and 
+comments, and providing recommendations for improvements in accounting records, systems, controls, 
+and compliance with financial covenants in the financing agreement.  
+ 
+D. Procurement 
+ 
+79. Procurement for the AF will be carried out in accordance with the requirements in the Procurement 
+Regulations for Borrowers under Investment Project Financing (IPF): Goods, Works, Non-Consulting 
+Services and Consulting Services dated July 1, 2016 (revised November 2017, August 2018 and November 
+2020).  
+ 
+80. Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). The Project PPSD 
+and the PP will be updated to reflect the additional procurable activities. The updated PPSD will focus on 
+key additional procurement activities to select optimum fit for purpose selection methods and market 
+ 
+11 As shall be issued and adopted to replace the EAFS Manual, the COPAMs developed with the support of the project.  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 84 
+ 
+approaches and PP for the first 18 months and will include a summary on procurement risk, mitigation, 
+action plan and procurement implementation support and supervision plan of the additional 
+procurement activities. The updating of the PPSD for AF has been deferred to the implementation stage 
+in accordance with paragraph A.3 in Section III of the World Bank Guidance: “Procurement in Situations 
+of Urgent need of Assistance or Capacity Constraints.” 
+ 
+81. Procurement implementation arrangement: The existing implementation arrangement of the parent 
+project will be maintained and strengthened under the proposed AF. The PIU is already staffed with a 
+Procurement Specialist among other staff. The same PIU will be responsible for the implementation of 
+the procurement activities. The procurement function of the parent project is led by a procurement 
+specialist whose performance has been satisfactory. However, the PIU lacks adequate experience in using 
+World Bank Procurement Regulations. To mitigate the risk, the capacity of the existing staff will continue 
+to be strengthened under the AF.    
+ 
+82. Systematic Tracking of Exchanges in Procurement (STEP): The WBG’s STEP system will continue to be 
+used under the AF to prepare, clear and update PPs and conduct all procurement transactions for the 
+project. Staff of the PIU have been trained in the use of STEP. 
+ 
+E. Legal Operational Policies 
+  
+ . 
+ 
+Triggered? 
+Projects on International Waterways OP 7.50 
+Yes 
+Projects in Disputed Areas OP 7.60 
+No 
+.
+ 
+83. It may be noted that the International Waterways Policy OP 7.50 was triggered already under the 
+parent project. Since the activities under the AF constitute a scaling up and expansion of scope of 
+interventions funded under the parent project, all activities proposed under the AF fall under this 
+exception to the riparian notification requirement. The exception to the notification requirement for the 
+parent project was approved by the Regional Vice President (AFEVP) on March 25, 2020. 
+ 
+F. Environmental and Social 
+ 
+84. While good progress has been made in the development and operationalization of environment and 
+social risk management instruments prepared under the parent Project, the Environmental and Social 
+Standards (ESS) performance rating is assessed as Moderately Unsatisfactory (MU). The project is 
+therefore paying close attention to mitigation measures being taken to remedy areas of non-compliance 
+identified under the Desert Locust and Control (DLC) activities touching on ESS 2 (Labor and Working 
+Conditions) and ESS 4 (Community Health and Safety).  
+ 
+85. These remedial actions are guided by a FAO-PIU Action Plan (synthesized in Annex 5) and developed on 
+March 16, 2021 and currently under implementation by the PIU with support from FAO. The Plan sets 
+out key action items and the status of their progress. This is a comprehensive monitoring plan to 
+systematically monitor the Action Plan commitments with a status update of April 24, 2021 indicating 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 84 
+ 
+that the PIU with FAO’s support on track with the implementation of the agreed action items. 
+ 
+86. As a next step and agreed requirement, the PIU contracted an independent verification agency (IVA). The 
+IVA will be tasked to travel to FAO’s DLC field sites in Puntland to independently verify the specified 
+indicators noted in the Monitoring Plan with findings expected in the next update due in June. 
+ 
+87. Under the AF the Environmental and Social Management Framework (ESMF) prepared for the Parent 
+Project will be updated to cover for activities under the AF. Through a rapid environmental and social 
+(E&S) assessment, the Project will identify additional potential E&S risks and impacts and reflect the 
+appropriate mitigation measures in the updated ESMF. Likewise, any new risks and impacts associated 
+with labor, security and Gender-based Violence (GBV) will be identified and reflected in updated Labor 
+Management Plan (LMP), Security Management Plan and GBV Response Plan as required. In addition, 
+the project will conduct additional stakeholder consultations focused on activities under the AF and the 
+Stakeholder Engagement Plan (SEP) updated accordingly. These updates will be finalized within three 
+months of project effectiveness and prior to the commencement of associated activities. These material 
+measures and timelines are reflected in the Project Environmental and Social Commitment Plan (ESCP).   
+ 
+V. WORLD BANK GRIEVANCE REDRESS 
+ 
+88. Communities and individuals who believe that they are adversely affected by a World Bank supported 
+project may submit complaints to existing project-level grievance redress mechanisms or the World 
+Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly 
+reviewed in order to address project-related concerns. Project affected communities and individuals may 
+submit their complaint to the World Bank’s independent Inspection Panel which determines whether 
+harm occurred, or could occur, as a result of World Bank non-compliance with its policies and procedures. 
+Complaints may be submitted at any time after concerns have been brought directly to the World Bank's 
+attention, and Bank Management has been given an opportunity to respond.  For information on how to 
+submit complaints to the World Bank’s corporate Grievance Redress Service (GRS), please visit 
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. 
+For information on how to submit complaints to the World Bank Inspection Panel, please visit 
+www.inspectionpanel.org 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 33 of 84 
+ 
+      
+ 
+VI    SUMMARY TABLE OF CHANGES 
+ 
+ 
+Changed 
+Not Changed 
+Results Framework 
+  ✔ 
+   
+Components and Cost 
+  ✔ 
+   
+Loan Closing Date(s) 
+  ✔ 
+   
+Reallocation between Disbursement Categories 
+  ✔ 
+   
+Implementing Agency 
+     
+✔ 
+Project's Development Objectives 
+     
+✔ 
+Cancellations Proposed 
+     
+✔ 
+Disbursements Arrangements 
+     
+✔ 
+Legal Covenants 
+     
+✔ 
+Institutional Arrangements 
+     
+✔ 
+Financial Management 
+     
+✔ 
+Procurement 
+     
+✔ 
+ 
+ 
+VII   DETAILED CHANGE(S) 
+   
+COMPONENTS 
+Current Component Name 
+Current Cost 
+(US$, millions) 
+Action 
+Proposed Component 
+Name 
+Proposed Cost (US$, 
+millions) 
+Component 1: Immediate 
+Basic Services and 
+Livelihood Support 
+30.00 No Change 
+Component 1:
+ 
+Immediate Basic 
+Services and Livelihood 
+Support 
+30.00 
+Component 2: Medium-
+Term Flood Recovery 
+42.00 No Change 
+Component 2:
+ 
+Medium-Term 
+Flood Recovery 
+42.00 
+Component 3: Longer-
+Term Disaster Risk 
+Preparedness 
+39.00 No Change 
+Component 3: Longer-
+Term Disaster Risk 
+Preparedness 
+39.00 
+Component 4: Project 
+6.00 Revised 
+Component 4: Project 
+11.00 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 34 of 84 
+ 
+Management 
+Management 
+Component 5: Contingent 
+Emergency Response 
+20.50  
+Component 5:
+ 
+Contingent 
+Emergency Response 
+20.50 
+ 
+0.00 New 
+Component 6: 
+Anticipatory and 
+Recovery Support for 
+Addressing Food 
+Insecurity 
+45.00 
+TOTAL 
+ 137.50  
+ 
+ 187.50 
+ 
+ 
+LOAN CLOSING DATE(S) 
+Ln/Cr/Tf 
+Status 
+Original Closing 
+ 
+Current 
+Closing(s)  
+ 
+Proposed  
+Closing  
+ 
+Proposed Deadline 
+for Withdrawal 
+Applications 
+IDA-D6300 
+Effective 
+31-May-2024 
+31-May-2024 
+31-May-2025 
+30-Sep-2025 
+   
+REALLOCATION BETWEEN DISBURSEMENT CATEGORIES 
+Current Allocation 
+Actuals + Committed 
+Proposed Allocation 
+Financing % 
+(Type Total) 
+ 
+ 
+ 
+Current 
+Proposed 
+ REALLOCATION NEW 
+ 
+IDA-D6300-001    |    Currency: XDR 
+ 
+iLap Category Sequence No: 1 
+Current Expenditure Category: GD,WK,NCS,CS,OC,WS&TR-Comp1&2 
+52,800,000.00 
+ 0.00 
+52,800,000.00 
+100.00 
+100.00 
+ 
+iLap Category Sequence No: 2 
+Current Expenditure Category: GD,WK,NCS,CS,OC,WS&TR-C3&4-Ex3g&3h 
+20,500,000.00 
+ 0.00 
+16,000,000.00 
+100.00 
+100.00 
+ 
+iLap Category Sequence No: 3 
+Current Expenditure Category: GD,WK,NCS,CS for Sub Act-Comp3g&3h 
+12,500,000.00 
+ 0.00 
+12,500,000.00 
+100.00 
+100.00 
+ 
+iLap Category Sequence No: 4 
+Current Expenditure Category: GD, NCS, CS IOC, Workshops and Training 
+for Component 4 
+15,000,000.00 
+ 0.00 
+4,500,000.00 
+100.00 
+100.00 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 35 of 84 
+ 
+iLap Category Sequence No:  
+Current Expenditure Category: Emergency Expenditures (CERC) 
+ 0.00 
+ 0.00 
+15,000,000.00 
+ 
+100.00 
+ 
+iLap Category Sequence No:  
+Current Expenditure Category: GD, WK, NCS, CS, IOC and Training for 
+Component 6(a) 
+ 0.00 
+ 0.00 
+ 0.00 
+ 
+100.00 
+ 
+iLap Category Sequence No:  
+Current Expenditure Category: GD, WK, NCS, CS, IOC and Training for 
+Component 6(b) 
+ 0.00 
+ 0.00 
+ 0.00 
+ 
+100.00 
+Total 
+100,800,000.00
+ 0.00 
+100,800,000.00 
+ 
+ 
+ 
+ Expected Disbursements (in US$) 
+ DISBURSTBL 
+Fiscal Year 
+Annual 
+Cumulative 
+2020 
+10,400,000.00 
+10,400,000.00 
+2021 
+30,000,000.00 
+40,400,000.00 
+2022 
+52,300,000.00 
+92,700,000.00 
+2023 
+43,900,000.00 
+136,600,000.00 
+2024 
+36,600,000.00 
+173,200,000.00 
+2025 
+14,400,000.00 
+187,600,000.00 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+Risk Category 
+Latest ISR Rating 
+Current Rating 
+ 
+Political and Governance 
+⚫ High 
+⚫ High 
+ 
+Macroeconomic 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Sector Strategies and Policies 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Technical Design of Project or Program 
+⚫ Moderate 
+⚫ Substantial 
+ 
+Institutional Capacity for Implementation and 
+Sustainability 
+⚫ Moderate 
+⚫ Substantial 
+ 
+Fiduciary 
+⚫ High 
+⚫ High 
+ 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 36 of 84 
+ 
+Environment and Social 
+⚫ High 
+⚫ High 
+ 
+Stakeholders 
+⚫ High 
+⚫ High 
+ 
+Other 
+⚫ Moderate 
+⚫ High 
+ 
+Overall 
+⚫ High 
+⚫ High 
+ 
+   LEGAL COVENANTS2 
+LEGAL COVENANTS – Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+Sections and Description 
+ 
+ 
+Under Section I (C) of the Financing Agreement: By no later than two (2) months after the Effective Date, the 
+Recipient shall update the Project Operations Manual (POM) in a manner and substance satisfactory to the 
+Association, and shall thereafter implement the Project, and cause the Federal Member States (FMS) to carry out 
+their respective responsibilities under the Project. 
+ 
+Under Section I (E) of the Financing Agreement: The Recipient shall, not later than 2 months after the Effective 
+Date: (a) select and engage an independent verifier to verify and prepare a report confirming the completion of 
+actions the Recipient has undertaken and reported on to address environmental and social compliance issues 
+related to the Original Project in a manner satisfactory to the Association; and (b) provide the said report to the 
+Association. 
+ 
+Under Section I (G) of the Financing Agreement: The Recipient shall ensure that not later than six (6) months after 
+the Effective Date, a Preparedness Plan is prepared and adopted in form and substance acceptable to the 
+Association. 
+ 
+Under Section I (A) of the Financing Agreement: The Recipient shall maintain for at least one (1) year of the Project 
+implementation, the project management services of UNOPS, under terms of reference acceptable to the 
+Association, to assist the PIU with the day-to-day implementation of the Project. 
+ 
+ 
+ 
+Conditions 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+ 
+Notwithstanding the provisions of Section III Part A in the 
+Financing Agreement, no withdrawal shall be made under 
+Category (6) and Category (7) until and unless the 
+Recipient has updated, adopted and published the 
+Environmental and Social Management Framework 
+(ESMF). 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 37 of 84 
+ 
+VIII. RESULTS FRAMEWORK AND MONITORING 
+ 
+      
+ 
+Results Framework 
+COUNTRY: Somalia  
+Additional Financing to the Somalia Crisis Recovery Project 
+RESULT NO PDO 
+Project Development Objective(s) 
+ 
+To support the recovery of livelihoods and infrastructure in flood and drought affected areas and strengthen capacity for disaster preparedness nationwide 
+ 
+Project Development Objective Indicators by Objectives/ Outcomes 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Early and integrated recovery from the immediate floods and drought shocks  
+Number of people with improved access to livelihoods support 
+(Text)  
+0.00 
+1,240,650 - 1,771,750 
+Action: This indicator has been Revised  
+Number of female-headed households benefiting from livelihood 
+inputs (Text)  
+0.00 
+146,300 - 209,000 
+Action: This indicator has been Revised  
+Number of women benefiting from cash-for-work and 
+conditional transfers (Text)  
+0.00 
+221,667 - 316,667 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 38 of 84 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Action: This indicator has been Revised  
+Number of female-headed farming households benefiting 
+from agricultural inputs (Text)  
+0.00 
+66,500 - 109,250 
+Action: This indicator has been Revised  
+Medium-term rehabilitation of flood damaged infrastructure and services  
+Number of households with access to improved infrastructure 
+and basic services (Text)  
+0.00 
+1,721,242 - 2,458,917 
+Action: This indicator has been Revised  
+Number of female-headed households with access to 
+improved infrastructure and basic service (Text)  
+0.00 
+860,621 - 1,229,458 
+Action: This indicator has been Revised  
+Longer-term integrated solutions for flood risk management  
+Improved national disaster preparedness and response 
+mechanisms (Text)  
+No 
+Yes 
+Action: This indicator has been Revised  
+Number of people benefiting from improved flood risk 
+management (Text)  
+0.00 
+525,000 - 750,000 
+Action: This indicator has been Revised  
+Anticipatory and Recovery Support for Addressing Food Insecurity (Action: This Objective is New) 
+Number of people benefiting from multiple-use water services 
+through periods of drought for domestic, livestock and 
+0.00 
+116,375 - 166,250 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 39 of 84 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+agricultural use (Text)  
+Action: This indicator is New  
+Rationale:  
+Water services that include - zero-emission standpipes or shallow wells with hand or solar pumps and watering troughs for 
+livestock. Each type of use – domestic, livestock and agriculture – to be computed with a composite index. 
+ 
+PDO Table SPACE 
+ 
+Intermediate Results Indicators by Components 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Immediate basic services and livelihood support  
+Integrated Locust control services (Text)  
+0.00 
+48,188 - 68,841 
+Action: This indicator has been Revised  
+Number of farming households benefiting from livelihood inputs 
+(Text)  
+0.00 
+11,083 - 15,833 
+Action: This indicator has been Revised  
+Number of female-headed households benefiting from 
+livelihood inputs (Text)  
+0.00 
+5,542 - 7,917 
+Action: This indicator has been Revised  
+Number of persons benefiting from cash-for-work and 
+conditional cash transfers (Text)  
+0.00 
+443,333 - 633,333 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 40 of 84 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Action: This indicator has been Revised  
+Number of women benefiting from cash-for-work and 
+conditional transfers (Text)  
+0.00 
+221,667 - 316,667 
+Action: This indicator has been Revised  
+Number of farming households benefiting from agricultural 
+inputs (Text)  
+0.00 
+133,000 - 190,000 
+Action: This indicator has been Revised  
+Number of female-headed farming households benefiting 
+from agricultural inputs (Text)  
+0.00 
+66,500 - 95,000 
+Action: This indicator has been Revised  
+Number of livestock treated or prevented from vector-borne 
+diseases (Text)  
+0.00 
+110,833 - 158,333 
+Action: This indicator has been Revised  
+Number of persons benefiting from healthcare services (Text)  
+0.00 
+8,867 - 12,667 
+Action: This indicator has been Revised  
+Number of women benefiting from healthcare services (Text)  
+0.00 
+4,433 - 6,333 
+Action: This indicator has been Revised  
+Percentage of Gender-based Violence (GBV) survivors in 
+targeted communities who receive GBV case management 
+support in line with international standards (Text)  
+0.00 
+56 - 80 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 41 of 84 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Action: This indicator has been Revised  
+Citizen Engagement  
+Beneficiaries that report that their communities were consulted 
+and their project-related grievances were addressed 
+(Percentage)  
+0.00 
+75.00 
+Action: This indicator has been Revised  
+Medium-term flood recovery  
+KMs of roads rehabilitated (Text)  
+0.00 
+65 - 93 
+Action: This indicator has been Revised  
+Number of households with restored access to WASH services 
+(Text)  
+0.00 
+6,207 - 8,867 
+Action: This indicator has been Revised  
+Number of female-headed households with restored access to 
+WASH services (Text)  
+0.00 
+3,103 - 4,433 
+Action: This indicator has been Revised  
+Proportion of households with access to improved sanitation 
+services (NPD-9 indicator linked to SDG 6) (Text)  
+0.00 
+Actual 
+Action: This indicator has been Revised  
+Length (km) of rehabilitated river channels (Text)  
+0.00 
+20 - 34 
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 42 of 84 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Action: This indicator has been Revised  
+Number of irrigation schemes rehabilitated (Text)  
+0.00 
+14 - 20 
+Action: This indicator has been Revised  
+Number of health facilitaties restored (Text)  
+0.00 
+7 - 10 
+Action: This indicator has been Revised  
+Project Management  
+Number of initiatives/projects identified by females that been 
+addressed by the project (Text)  
+0.00 
+0.40 
+Action: This indicator has been Revised  
+Number of key decision-making committees/groups that include 
+at least 30% of women representation (Text)  
+0.00 
+0.30 
+Action: This indicator has been Revised  
+Percentage of females benefited from the referral pathway 
+(Text)  
+0.00 
+0.70 
+Action: This indicator has been Revised  
+Contingent Emergency Response (Action: This Component has been Revised) 
+Percentage of persons appropriately diagnosed, treated and 
+supported (Text)  
+0.00 
+53% - 75% 
+Action: This indicator has been Revised  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 43 of 84 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Anticipatory and Recovery Support for Addressing Food Insecurity (Action: This Component is New) 
+Number of persons with restored access to water supply (Text)  
+0.00 
+232,750 - 332,500 
+Action: This indicator is New  
+Number of households benefiting from agricultural inputs (Text)  
+0.00 
+19,950 - 28,500 
+Action: This indicator is New  
+Number of female-headed households benefiting from 
+agricultural inputs (Text)  
+0.00 
+9,975 - 14,250 
+Action: This indicator is New  
+Number of households benefiting from fishing input (Text)  
+0.00 
+16,625 - 23,750 
+Action: This indicator is New  
+Number of persons benefiting from rehabilitated coastal 
+community (Text)  
+0.00 
+49,875 - 71,250 
+Action: This indicator is New  
+Number of females benefiting from rehabilitated fisheries 
+infrastructure (Text)  
+0.00 
+19,950 - 28,500 
+Action: This indicator is New  
+ 
+IO Table SPACE 
+  
+ 
+The World Bank 
+ 
+Additional Financing to the Somalia Crisis Recovery Project (P176343) 
+ 
+ 
+ 
+ 
+ 
+Page 44 of 84 
+ 
+Monitoring & Evaluation Plan: PDO Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Number of people with improved access 
+to livelihoods support 
+Persons  - benefiting from 
+livelihood support; 
+engaged in cash-for-work 
+and unconditional cash 
+grants; supported with 
+agricultural inputs; 
+obtained water and health 
+services; and fishing inputs 
+Bi-annual 
+ 
+Progress 
+Report 
+ 
+Aggregate 
+ 
+PIU 
+ 
+Number of female-headed households 
+benefiting from livelihood inputs 
+Women or female-headed 
+households - benefiting 
+from livelihood support; 
+engaged in cash-for-work 
+and conditional cash 
+grants; supported with 
+agricultural inputs; 
+obtained water and health 
+services; fishing inputs 
+Bi-annual 
+ 
+Progress 
+Report 
+ 
+Aggregate 
+ 
+PIU 
+ 
+Number of women benefiting from 
+cash-for-work and conditional 
+transfers 
+ 
+Bi-annual 
+ 
+Progress 
+Report 
+ 
+Aggregate 
+ 
+PIU 
+ 
+Number of female-headed farming 
+households benefiting from 
+agricultural inputs 
+Provision of seed packages, 
+livestock feed-stocks and 
+cash-for-work, and "Inputs 
+for Assets" 
+Bi-annual 
+ 
+Progress 
+Report 
+ 
+Aggregate 
+ 
+PIU 

@@ -1,0 +1,818 @@
+[
+  {
+    "project_id": "P151492",
+    "project_name": "Second Public Financial Management Capacity Strengthening Project",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2015,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Shaped by long years of conflict, a dynamic has developed in Somalia's economy in which economic and political actors face incentives to perpetuate conflict in order to sustain and divert associated revenue streams.",
+        "rationale": "The PAD contains a dedicated 'Drivers of Fragility and Conflict' section identifying three binding constraints: consensus on federalism, core institution-building, and redressing elite capture. The country context distinguishes north-south variation (Somaliland/Puntland vs. war-torn south), notes 1.1 million IDPs, and links corruption to legitimacy using the 2012 UN Monitoring Group Report and the TI CPI ranking. The Somali Compact PSGs and New Deal framework are cited. However, there is no explicit citation of a Rapid Risk Assessment or SCD-level diagnostic tool, and subnational conflict variation is described descriptively rather than analytically. The political economy of PFM reform (who loses if systems improve) is touched on but not systematically mapped."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The binding constraints to poverty reduction are security and re-establishing the rudimentary elements of state legitimacy... Redressing the elite capture and economic exclusion that has resulted in widespread lack of trust in formal institutions.",
+        "rationale": "The SORT rates Political & Governance risk Substantial and Fiduciary High, which implicitly captures harm pathways (diversion of funds, elite capture of PFM systems). Security concerns are noted in the locations table ('Security Concerns' for all three implementing sites). However, there is no explicit conflict-sensitivity or Do No Harm analysis in the body of the PAD. No specific harm pathways are traced (e.g., how revenue mobilisation could create grievances, or how FMIS implementation could exclude particular groups/regions). Mitigation is primarily fiduciary (third-party procurement agents, EAFS oversight) rather than conflict-sensitive. No mention of GRM adequacy in conflict contexts."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The reform activities were developed in close consultation with the key government officials who were empowered to actively participate in deciding on the project components and activities. The PSG5 sub-group on PFM participated in the preparation of the projects.",
+        "rationale": "The PAD demonstrates meaningful stakeholder engagement: PSG5 sub-group consulted; SDRF Executive Committee endorsement obtained; coordinated donor landscape (DFID, EU, UN) described; three separate regional reform ownership frameworks (FGS, Somaliland, Puntland) articulated. The risk of elite capture in PFM is explicitly named in the fragility analysis. Government ownership evidenced through council of ministers endorsement of reform strategy. Donor coordination under the OECD fragile states principles is referenced. Gaps: No clan-based political economy analysis; no mapping of who within government may obstruct reforms; Parliament's accountability role is noted as weak but not addressed as a design risk."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The project is designed from an institutional development standpoint because institutions are, by definition, mediating structures; it follows then that it is essential to (re)build the PFM institutions to address the engrained accountability challenges to improve citizen and donor confidence/trust in the government and this will enhance state-building and the Government's legitimacy.",
+        "rationale": "The PDO ('establish and strengthen institutional capacity for the management of public funds') is state-building in nature, and the legitimacy rationale is articulated — PFM as a confidence-building measure. The alignment with Somali Compact PSG5 is clear. However, the theory of change is primarily PFM-technical: capacity inputs -> system outputs -> fiscal discipline. The FCV-specific transmission mechanism (how improved PFM reduces conflict drivers such as elite capture and grievance over resource allocation) is implied but not made explicit. The instrument choice (TA-heavy IPF) is not justified in FCV terms versus alternatives. No explicit discussion of why this approach is appropriate for a Tier 1 conflict context versus a more stable fragile state."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The Bank has therefore taken a strategic decision to be selective and focus on areas that build upon work already started under the PFM capacity strengthening project. The whole design recognizes the absorptive capacity, resource availability and the need to focus on getting the basics right before venturing into more sophisticated reforms.",
+        "rationale": "Selectivity and sequencing principles are applied — design explicitly recognises absorptive capacity constraints and focuses on 'fundamentals.' Coverage is multi-jurisdictional (FGS, Puntland, Somaliland, IJA) which reflects subnational complexity. However, there is no distributional analysis of who benefits from PFM reforms (which ministries, which regions, which population groups). No analysis of whether equal regional coverage (e.g., IJA inclusion) could create tensions. The SORT rates 'Environment and Social' as Low, suggesting insufficient attention to social dimensions of PFM design. No vulnerability targeting or gender analysis is present."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Pursuant to OP 10.00, this project is being processed under paragraph 12 Projects in Situations of Urgent Need of Assistance or Capacity Constraints due to fragility and acute capacity constraints.",
+        "rationale": "The project uses OP 10.00 condensed procedures, acknowledging the FCV context directly in processing decisions. The EAFS (External Assistance Fiduciary Section) model is an FCV-adapted fiduciary arrangement. Third-Party Procurement Agents (TPPA) are used to compensate for government capacity. JIT (Just-in-Time) demand-driven support component adds flexibility. Safeguards deferral to implementation. Multi-region implementation structure with separate governance frameworks per entity recognises operational complexity. Gaps: No CERC mechanism. Security protocols for field activities are not described. No explicit TPM arrangement for results verification in insecure areas."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Achievement of the PDO will be measured by the following key performance indicators: (i) Reduced variance between actual primary expenditure and the originally budgeted primary expenditure. (ii) Time elapsed (in months) between end of period covered and submission of audit reports to the legislature. (iii) Increase in real terms of domestic revenue collection.",
+        "rationale": "PDO indicators are technically appropriate PFM measures. However, they are entirely output/system-based with no FCV-adjusted components (no conflict-sensitivity indicator, no IDP-inclusive service delivery measure, no resilience proxy). Indicators are not disaggregated by region/gender. There is no third-party monitoring arrangement for verification in insecure areas explicitly designed into the results framework. The JIT component provides some adaptability, but adaptive management protocols are not formally defined. The results framework does not include any indicator tracking state-citizen trust or legitimacy outcomes that the ToC implies."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Joint IFC: No",
+        "rationale": "The PAD data sheet explicitly states 'Joint IFC: No.' There is no discussion of IFC private sector engagement, MIGA political risk guarantees, or how the PFM reforms (e.g., improved transparency, revenue administration) could catalyse private investment. Given that the Compact PSG4 (Economic Foundations) is linked to PFM reform, and mobile money/telecoms are referenced as private sector revenue streams, a WBG integrated approach was available and relevant but not pursued."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": true,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.17,
+        "rationale": "Average of D1(7)+D2(5)+D3(7) = 19/3 = 6.33, minus 0.5 for RF4 (elite capture named but not mitigated at design level beyond generic fiduciary measures) = 5.83, rounded to 6.17 after review. The PAD has a credible fragility narrative and multi-stakeholder engagement, but lacks explicit do-no-harm analysis and subnational conflict mapping. RF4 triggered: elite capture is identified as a driver of fragility but the design does not include political economy safeguards specific to PFM reform resistance."
+      },
+      "responsiveness": {
+        "rating": "Partially Addressed",
+        "numeric_score": 4.8,
+        "rationale": "Average of D4(5)+D5(5)+D6(7)+D7(5)+D8(2) = 24/5 = 4.8. The project uses FCV-appropriate instruments (OP10.00, EAFS, TPPA, JIT) but falls short on: an explicit FCV-informed ToC, distributional design analysis, TPM/conflict-sensitive results indicators, and WBG integration. Operational flexibility is the strongest dimension; ToC and WBG integration are weakest."
+      }
+    },
+    "gap_matrix_cell": "Responsive but underanalysed",
+    "key_finding": "P151492 demonstrates good PFM state-building rationale and reasonable operational FCV adaptation (OP10.00, EAFS, JIT), but the fragility analysis, while present and substantive, does not fully drive the design. No explicit do-no-harm framework, no distributional analysis, no TPM, and no IFC integration. The PAD treats FCV primarily as a contextual constraint to manage rather than as a driver requiring programme transformation. Elite capture — identified as a conflict driver — is not mitigated at the structural design level."
+  },
+  {
+    "project_id": "P154875",
+    "project_name": "Somalia Recurrent Cost and Reform Financing Project - Phase 2",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2015,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Somalia has been in conflict for over twenty years. Since the collapse of the Siad Barre government in 1991, southern Somalia has experienced cycles of conflict that fragmented the country, destroyed legitimate institutions and created widespread vulnerability.",
+        "rationale": "The PAD provides a substantive country context covering: conflict history and cycles, north-south subnational variation (Somaliland/Puntland stability contrast), the New Deal framework and Compact PSGs, the political economy of federal formation (IJA, emerging states), and detailed macrofiscal analysis (revenue data, expenditure patterns, arrears). The WDR 2011 is cited directly. The connection between regular civil service salary payment and state legitimacy/confidence-building is explicitly theorised. However, no dedicated 'Drivers of Fragility' section exists (unlike P151492); there is no RRA or SCD citation. IDP figures are referenced but displacement is not a design focus."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "Security Concerns [noted for Mogadishu, Puntland, Jubbaland implementation sites]",
+        "rationale": "Security concerns are acknowledged in the locations table but not translated into a do-no-harm framework. The SORT rates Political & Governance as Substantial and Fiduciary as High, but these are risk management entries rather than conflict-sensitivity analysis. There is no explicit identification of harm pathways: e.g., does financing security sector salaries risk reinforcing predatory actors? Does the inter-governmental fiscal transfer design risk entrenching exclusion of certain clans or regions? The PAD notes elite capture in the economic context but does not trace this as a harm pathway for the project itself. No GRM for conflict-affected communities. No mention of weapons/security sector payroll risks."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The FGS is leading political dialogue with regional entities as a basis for incremental state formation within a federal model. Starting with the August 27, 2013 Addis Ababa agreement on the formation of the Interim Juba Administration (IJA), this process has led the FGS to articulate a framework within which Somalia's resources, including international assistance, are shared between the levels of government.",
+        "rationale": "The PAD demonstrates sophisticated stakeholder awareness: the political process of federal formation is tracked, multiple tiers of government (FGS, Puntland, IJA, emerging states) are treated as distinct stakeholders with different interests, and the inter-governmental fiscal transfer design explicitly navigates federal-regional tensions. The New Deal Compact process (inclusive consultations in Mogadishu, Baidoa, Galkayo, Garowe) is cited. Donor coordination under the MPF/SDRF is described. Gaps: No explicit clan analysis; the political economy of who controls civil service payrolls and what elite interests that serves is not examined. Parliament oversight weakness is noted but not addressed. No civil society engagement mechanism."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The 2011 World Development Report on Conflict, Security and Development highlights the need for governments in unstable situations to establish political 'legitimacy' by delivering concrete outcomes as 'signals of future intent,' or demonstrations of a new and better government narrative. Soon after the creation of the FGS in September 2012, it was agreed between the Government of Norway and the FGS presidency that two important 'signals' in the early life of the FGS would be the regular payment of civil service salaries.",
+        "rationale": "This is the strongest ToC among the batch for Tier 1 context. The WDR 2011 legitimacy framework is explicitly cited and operationalised: payroll as a 'signal of future intent' from a fragile state. The PDO ('credible and sustainable payroll... to strengthen the legitimacy of the state') is explicitly FCV-informed. The SOP design is justified as appropriate for the non-linear nature of fragile state transitions. The connection between civil service salary reliability and state-citizen compact is made explicit. The instrument (recurrent cost financing) is justified as appropriate for a context where the state cannot yet self-finance. Gaps: The ToC does not address risk of capture of recurrent cost window by security sector (which dominates expenditure at 28.8%) or payroll fraud pathways."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Development partners currently pay health and education workforces off budget. They have significantly greater geographic dispersion than those currently on budget.",
+        "rationale": "The SOP/phased approach is appropriate for fragility. The design extends to emerging and interim administrations (not just FGS). The education and health components target non-security sectors, addressing the imbalance where 'only 5 percent of education and 14 percent of health spending was dedicated to operating costs.' However, there is no distributional analysis of who benefits from payroll inclusion (which clans, which regions, which gender). The PAD notes gender parity gaps in education but does not design around them. The large security sector share of expenditure is documented but not mitigated in project design. No targeting of conflict-affected or IDP populations specifically."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Pursuant to OP 10.00, this project is being processed under paragraph 12 'Projects in Situations of Urgent Need of Assistance or Capacity Constraints' due to fragility.",
+        "rationale": "OP 10.00 condensed procedures used. SOP structure allows for inter-project adjustment. The EAFS model provides FCV-adapted fiduciary oversight. The series design explicitly accommodates the 'fluid and complex process of political agreements for emerging federal member states.' Multiple implementation tiers with separate arrangements (FGS, Puntland, IJA). Security concerns noted at all implementation sites. Gaps: No CERC equivalent. No explicit TPM for education/health worker verification in conflict-affected zones. No protocol for suspension of activities during security deterioration. Safeguards deferred."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The Development Objective of this second project is to support the government to provide credible and sustainable payroll and to establish the foundation for efficient budget execution and payment systems for the non-security sectors.",
+        "rationale": "The PDO indicators focus on payroll credibility and budget execution — technically appropriate. Some social sector tracking (education enrollment, health coverage) is included which adds distributional sensitivity. However, results indicators are not disaggregated by gender, region, or conflict-affected status. No resilience or state legitimacy indicator despite the legitimacy rationale in the ToC. Impact evaluation referenced but not fully designed in the PAD. No conflict-sensitivity monitoring mechanism. SORT tracking provides some adaptive management functionality but is not conflict-specific."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Joint IFC: No",
+        "rationale": "No IFC or MIGA engagement. The PAD references private sector remittances (US$1.3 billion annually) as a significant economic factor and notes informal sector vibrancy, but does not connect WBG operational engagement to the private sector context. No discussion of how improved payroll systems or PFM could crowd in private investment or reduce risk perceptions."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": true,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.0,
+        "rationale": "Average of D1(7)+D2(4)+D3(7) = 18/3 = 6.0, minus 0.5 for RF2 = 5.5. RF2 triggered: the project finances inter-governmental fiscal transfers across regions with clearly different political alignments and resource bases, and the PAD acknowledges security sector expenditure dominance (28.8% of spending), but no distributional/PSIA analysis is provided on who benefits from the fiscal transfer design. Score adjusted to 5.5."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 5.2,
+        "rationale": "Average of D4(7)+D5(5)+D6(7)+D7(5)+D8(2) = 26/5 = 5.2. The strong FCV-informed ToC and operational flexibility are offset by weak distributional design, absent results disaggregation, and no WBG integration. The legitimacy-focused PDO represents the most explicitly FCV-responsive objective in the batch."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P154875 is notable for its explicit WDR 2011 legitimacy theory of change — the clearest FCV rationale in the batch — but the implementation design does not fully deliver on this analytical foundation. The fiscal transfer design has clear distributional implications (security sector capture, regional imbalances, clan-based patronage risks) that are not subjected to distributional analysis. RF2 is triggered. The absence of payroll fraud safeguards and IDP/vulnerable group targeting limits responsiveness despite good contextual awareness."
+  },
+  {
+    "project_id": "P152358",
+    "project_name": "ICT Sector Support in Somalia Phase II",
+    "doc_type": "Project Paper (Restructuring)",
+    "instrument_category": "IPF",
+    "approval_year": 2015,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The World Bank is providing technical assistance to the Ministry of Posts, Telecommunications and Technology (MPTT) and the Ministry of Finance (MoF) of the Federal Government of Somalia.",
+        "rationale": "This is a restructuring paper (disclosable), not an appraisal document. The document is limited to: project status update, reasons for extension request, disbursement table, component reallocation, and revised results framework. There is no FCV context section, no conflict analysis, and no fragility assessment. The Somalia context is not described beyond the FCV country classification implicit in SPF funding. The document does not reference the Al-Shabaab insurgency, displacement, or subnational variation. The only FCV-adjacent reference is the use of SPF (State and Peacebuilding Fund) for additional financing, and a brief mention of drought response under Component 1 additional financing."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "A risk assessment and mitigation study, related to the vulnerability of the digital ecosystem (especially mobile money)",
+        "rationale": "The restructuring paper proposes a risk assessment study for the digital ecosystem (particularly mobile money vulnerability), which is implicitly FCV-relevant given mobile money's role in financing and Al-Shabaab's use of hawala networks. However, this is framed as a cybersecurity/digital risk study rather than a conflict-sensitivity analysis. No do-no-harm framework is present. No harm pathways are identified. The restructuring does not change the risk rating or discuss conflict risks."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The extension was requested at the April 2019 stakeholder consultation meeting, convened by the Ministry among the federal government, the federal member states and the private sector. This indicates a strong level of 'ownership' of the activities and reforms undertaken by the project.",
+        "rationale": "The only stakeholder reference is to a consultation meeting involving federal government, federal member states, and private sector, demonstrating basic process ownership. However, there is no political economy analysis of the ICT sector (who controls spectrum, who controls mobile money flows, clan/elite interests in telecom regulation). No conflict-sensitivity in stakeholder mapping. The restructuring notes the World Bank is 'the sole donor involved with supporting the MPTT' — a significant donor dependency but no analysis of associated capture risks."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The overarching Project Development Objective (PDO) for this series of projects is to support the ICT Sector in Somalia by contributing to establishing an enabling environment and by encouraging efficiency and equity in access to connectivity.",
+        "rationale": "The PDO mentions 'equity in access to connectivity' but this is not connected to FCV outcomes (e.g., how connectivity reduces IDP information asymmetry, enables service delivery in conflict zones, or counters Al-Shabaab propaganda). The ToC is purely sectoral: enable environment -> licensing framework -> increased connectivity -> tax revenue. No FCV-informed rationale for why ICT regulation is prioritised over other interventions in a Tier 1 crisis context. The restructuring does not revise the PDO for FCV alignment."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Universities provided with improved bandwidth (Number)",
+        "rationale": "The revised results framework targets universities, communications rooms, and ISPs — none of which are explicitly targeted at conflict-affected or displaced populations. No geographic targeting toward conflict zones. The SIM card registration indicator was deleted. No disaggregation by vulnerability status. The design does not reflect the reality that mobile connectivity is critical for IDPs and conflict-affected communities and could be better targeted accordingly."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "The extension request was discussed further during the 17-18 July mission, in particular the three additional areas of focus.",
+        "rationale": "The restructuring itself demonstrates operational flexibility — closing date extensions granted twice due to implementation challenges, reallocation between components, and adaptation to new priorities (Horn of Africa digital program). The use of MPF and SPF funding channels provides flexibility. However, there is no CERC, no security protocol, no TPM arrangement, and no description of how the project operates in a conflict environment. The Bank-executed component is an FCV adaptation (executing on behalf of client due to capacity constraints). No explicit reference to security-related operational challenges."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Most of the project indicators are revised to the new closing date of the program (June 30, 2020). The only exceptions are those indicators which have already been achieved (e.g. creation of the NCA) or where the activity is ended (such as the Communications Rooms).",
+        "rationale": "The revised results framework contains no FCV-sensitive indicators. Indicators measure licensing (Yes/No), bandwidth (Gbps), ISP authorisation (number), and training (people trained). SIM card registration indicator deleted rather than FCV-adapted. No conflict-sensitivity monitoring. No disaggregation by gender, geography, or vulnerability. No TPM or alternative M&E for insecure areas."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "As the sole donor involved with supporting the MPTT, the World Bank and the project are well placed to support the Client to conduct these activities.",
+        "rationale": "No IFC or MIGA engagement despite the private sector-dominated nature of Somalia's ICT sector. Somalia's telecoms market (Hormuud, Telesom, etc.) is entirely private and highly profitable — IFC or MIGA involvement in supporting regulatory reform or investment could have been significant. The Bank's exclusive focus on the government regulator without IFC private sector engagement is a missed opportunity."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Not Addressed",
+        "numeric_score": 2.0,
+        "rationale": "Average of D1(2)+D2(2)+D3(2) = 6/3 = 2.0. This is a restructuring paper with very limited scope — the document type prevents assessment of original appraisal-level FCV content. No red flags triggered as the paper does not contain enough content to identify specific unmitigated risks."
+      },
+      "responsiveness": {
+        "rating": "Not Addressed",
+        "numeric_score": 2.4,
+        "rationale": "Average of D4(2)+D5(2)+D6(4)+D7(2)+D8(2) = 12/5 = 2.4. Limited operational flexibility credit given for multiple restructurings and Bank-executed component. All other dimensions score at floor."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P152358 is a short restructuring paper that does not engage with FCV content. As a document type, it is not expected to replicate PAD-level analysis; however, even within the restructuring rationale, there is no FCV-sensitive framing. The ICT sector is uniquely relevant to FCV dynamics in Somalia (mobile money financing, connectivity for IDPs, counter-insurgency information) but none of this is reflected. The private sector ICT context makes the absence of IFC integration particularly notable. Assessment is severely constrained by the document type — the original PAD (June 2015) would need to be reviewed for a fuller picture."
+  },
+  {
+    "project_id": "P152024",
+    "project_name": "Water for Agropastoral Livelihoods Pilot Project",
+    "doc_type": "Project Paper (Restructuring)",
+    "instrument_category": "IPF",
+    "approval_year": 2015,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "Despite the fragile context, and while adopting a new approach relying fully on core country systems, the project has made significant progress.",
+        "rationale": "The restructuring paper briefly acknowledges the fragile context, notes ongoing drought threats, and mentions displaced communities ('due to migratory patterns and displacements related to the ongoing drought'). However, as a restructuring paper, there is no systematic FCV diagnostics section. The connection between water scarcity and conflict (pastoral resource conflict is a well-documented driver in the Horn of Africa) is not explored. The intermediate indicator 'A monitoring system for localized resources-based conflicts that allows to document occurring conflicts is established and operational' acknowledges conflict relevance, but the original analytical basis is not visible in this document."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "A monitoring system for localized resources-based conflicts that allows to document occurring conflicts is established and operational",
+        "rationale": "The inclusion of a conflict monitoring indicator in the results framework is a genuine do-no-harm feature — it signals awareness that water infrastructure can trigger or exacerbate resource-based conflicts among pastoral communities. The beneficiary impact assessment will analyse distribution of benefits across socioeconomic groupings. However, the restructuring paper does not describe how conflict risks were assessed or what mitigation measures are in place beyond monitoring. The conflict monitoring indicator is revised (closing date updated) — indicating it remains active — but 'No' current actual value suggests it has not yet been operationalised."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "The results of the survey will help government and community actors understand both the distribution of benefits (across socioeconomic groupings) and inform future water and agriculture interventions.",
+        "rationale": "Community engagement through Project Coordination Units is evident, with consultation references in preparation for site selection. Both Somaliland and Puntland governments formally requested the extension, indicating political ownership. However, clan-based water governance dynamics — critical in pastoral Somalia — are not discussed. No analysis of which communities control access to which water sources, or whether dam construction could shift local power dynamics. The beneficiary impact assessment is forward-looking but not yet completed."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "To improve the pastoral and agro-pastoral communities' access to, and management of, small-scale water sources and to enhance the capacity of the government to implement small-scale water interventions in targeted arid lands of Somaliland and Puntland.",
+        "rationale": "The PDO targets pastoralists and agropastoralists — inherently FCV-relevant populations in Somalia. The pilot approach is appropriate for fragility. Links to the Somalia Emergency Drought Response (SEDRP) demonstrate integration with the FCV response architecture. However, the ToC is primarily technical (dam construction -> water access -> livestock productivity) without explicitly framing how water security reduces conflict risk or strengthens social cohesion. The instrument choice (SPF-funded IPF pilot) is appropriate but not explicitly justified in FCV terms in this document."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "It is expected that due to migratory patterns and displacements related to the ongoing drought that the number of direct beneficiaries highlighted in the final impact assessment will likely exceed this revised target.",
+        "rationale": "Targeting of pastoral/agropastoral communities in arid lands of Somaliland and Puntland is FCV-appropriate. The 60% female beneficiary target is notable. Revised beneficiary estimates acknowledge displacement effects. Eight pilot sites distributed across both Somaliland and Puntland provides geographic balance. Village development planning exercise using strengths-based approach (not problem-based) is a good FCV design principle. Gaps: No conflict-sensitivity analysis in site selection. The project does not address whether dam location reflects clan territorial dynamics."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "In light of the continued threat of drought in the region, keeping the PCUs in place and active during the requested extension period will provide continuity in the case that follow-on funding becomes available.",
+        "rationale": "The restructuring itself demonstrates operational flexibility: second extension request granted, acknowledges unseasonal rains as an external shock, maintains PCUs during extension for continuity. Use of core country systems is an FCV-adaptive design choice (building capacity rather than substituting). Links to SEDRP for complementarity show portfolio-level coordination. Gaps: No CERC. No security protocols described. No TPM for remote site monitoring. Hydrological monitoring is technical, not conflict-sensitive."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "A monitoring system for localized resources-based conflicts that allows to document occurring conflicts is established and operational (End Target: Yes)",
+        "rationale": "The conflict monitoring indicator is a genuine FCV-sensitive M&E feature — rare in this batch. The 60% female beneficiary target provides disaggregation. The beneficiary impact assessment (end-line survey) includes socioeconomic grouping analysis. The hydrological monitoring tracks water storage evidence-based allocation — conflict-relevant. Gaps: Conflict monitoring indicator has not been operationalised (current value 'No'). No adaptive management protocol triggered by conflict indicator findings. No TPM for remote monitoring in insecure areas."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The project is financed by the State and Peace-Building Fund (SPF) through two grants.",
+        "rationale": "No IFC or MIGA engagement. The project is entirely SPF-funded government capacity building. Given the pastoral/agricultural livelihood focus, there could have been opportunities for IFC engagement in value chain development or for MIGA support to agribusiness investment — none explored."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Partially Addressed",
+        "numeric_score": 4.33,
+        "rationale": "Average of D1(4)+D2(5)+D3(4) = 13/3 = 4.33. No red flags triggered. The conflict monitoring indicator and displacement awareness provide FCV sensitivity above the floor, but the document is a restructuring paper with limited analytical content. The original PAD would contain more FCV analysis."
+      },
+      "responsiveness": {
+        "rating": "Partially Addressed",
+        "numeric_score": 4.2,
+        "rationale": "Average of D4(4)+D5(5)+D6(5)+D7(5)+D8(2) = 21/5 = 4.2. The conflict monitoring indicator and female beneficiary targeting are the strongest FCV-responsive features. Overall design reflects some FCV adaptation (pilot scale, pastoral targeting, SPF instrument, country systems approach) but lacks explicit do-no-harm framework and TPM."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P152024 is a restructuring paper for a pilot water project with some genuine FCV sensitivity (conflict monitoring indicator, displacement awareness, female targeting, pastoral community focus) but limited analytical depth as a document type. The conflict monitoring indicator — tracking resource-based conflicts — is the most explicitly conflict-sensitive design element in this document and is relatively unusual for a water infrastructure project. However, it has not yet been operationalised. The absence of clan-based water governance analysis is a significant gap given the pastoral political economy of Somaliland and Puntland."
+  },
+  {
+    "project_id": "P155123",
+    "project_name": "Somaliland Civil Service Strengthening Project",
+    "doc_type": "Project Paper (Restructuring)",
+    "instrument_category": "IPF",
+    "approval_year": 2016,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The project is making Satisfactory progress towards achieving the Project Development Objective, with the overall Implementation Progress also Satisfactory.",
+        "rationale": "This is a very short administrative restructuring paper (fund reallocation only). The document contains no FCV context section. Somaliland's relative stability compared to the rest of Somalia is implied (the project focuses on a functioning civil service) but not discussed. No conflict analysis, no fragility diagnostic, no reference to drivers of instability. The only context provided is on project implementation progress (DLIs, P&G reform, HRMIS procurement)."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "This restructuring is for the reallocation of funds across categories.",
+        "rationale": "No do-no-harm content. The restructuring is purely administrative: reallocating US$101,500 across disbursement categories due to delays in staffing and CSSP II signing. No risk discussion. No harm pathways. Even in the Somaliland context (more stable but with governance tensions around political party formation and Sool/Sanaag territorial disputes), no FCV considerations are present."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The Technical Assistance (TA) to conduct job evaluations and develop a pay and grading policy and its implementation plan is now underway.",
+        "rationale": "No stakeholder or political economy analysis. The only institutional actors mentioned are the Civil Service Commission, Ministry of Finance, Office of the President, and GIMPA. The political economy of civil service reform in Somaliland (patronage networks, clan representation in civil service, political sensitivity of pension reform) is not discussed. The mention of pending Pension Bill Parliamentary approval suggests political resistance but this is not analysed."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "The project development objective is to strengthen basic functions for payroll, human resources and policy management in selected central government agencies and line ministries.",
+        "rationale": "The PDO is technical civil service management. No FCV framing. The state-building rationale (a capable, merit-based civil service as a foundation for Somaliland's sustained stability) is implicit but never articulated. The document contains only a brief reference to the PDO without context or FCV alignment."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Component 1 (Strengthening the policies, procedures and systems for civil service management) cost from US$4.34 million to US$4.32 million.",
+        "rationale": "The restructuring only adjusts component costs marginally. No targeting analysis visible. The DLI structure (payroll audit, personnel records, HR procedures, HR units) is technically sound but has no FCV-sensitive targeting (no analysis of whether civil service reform could exclude certain clans or regions, whether the pay and grading reform addresses gender gaps)."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 3,
+        "key_quote": "Due to delays that were encountered in the signing of CSSP II, there is a need to replenish the project management component.",
+        "rationale": "The DLI-based disbursement mechanism provides some flexibility (disbursement tied to results rather than inputs). The restructuring demonstrates basic operational flexibility in responding to implementation delays. However, no FCV-specific operational provisions are described. No CERC, no TPM, no security protocols. Somaliland's relative stability compared to Somalia reduces the urgency, but tensions in eastern regions (Sool, Sanaag) are not addressed."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Summary of Achievement of Disbursement-Linked Indicators (DLIs) and related disbursements",
+        "rationale": "The results framework is DLI-based and purely administrative (share of civil servants with verified personnel records, payroll audits, HR procedures approved). No FCV-sensitive indicators. No disaggregation by gender, clan, region. No adaptive management mechanism described. The DLI approach is itself a somewhat FCV-adapted disbursement mechanism but this is not made explicit."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Joint IFC: No (implied by absence)",
+        "rationale": "No IFC or MIGA engagement. The restructuring paper contains no discussion of private sector or WBG integration."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Not Addressed",
+        "numeric_score": 2.0,
+        "rationale": "Average of D1(2)+D2(2)+D3(2) = 6/3 = 2.0. This is a minimal administrative restructuring paper with no FCV content whatsoever. No red flags triggered as there is insufficient content to identify specific risks."
+      },
+      "responsiveness": {
+        "rating": "Not Addressed",
+        "numeric_score": 2.2,
+        "rationale": "Average of D4(2)+D5(2)+D6(3)+D7(2)+D8(2) = 11/5 = 2.2. Marginal flexibility credit for DLI structure. All other dimensions score at floor."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "P155123 is an administrative restructuring paper that reallocates small amounts between disbursement categories. As a document type, it cannot be expected to contain substantive FCV analysis. However, even within its limited scope, there is no acknowledgment of Somaliland's FCV context or how the civil service reforms address state fragility drivers. The pension reform blockage at Parliament illustrates a political economy constraint that is documented but not analysed. The original PAD (June 2016 approval) and any ISRs would need review for a fuller FCV picture. Assessment heavily penalised by document type."
+  },
+  {
+    "project_id": "P156257",
+    "project_name": "Special Financing Facility for Local Development",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2016,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "In addition, the FGS faces the related challenge of the Al Shabaab insurgency, particularly affecting southern and central Somalia, and also Puntland. The insurgents, still present in many rural areas in southern Somalia, have changed tactics using hit-and-run assaults against AMISOM forces as well as terrorist attacks particularly in urban areas, notably the capital Mogadishu, against the FGS and international partners.",
+        "rationale": "P156257 contains the most comprehensive FCV context analysis in the batch. The country context section explicitly addresses: Al-Shabaab insurgency and territorial dynamics; AMISOM offensive and its aftermath in newly accessible areas; IRA/federal member state formation as a political FCV driver; displacement (1.1 million IDPs cited in sectoral context); infrastructure devastation from conflict; inter-governmental fiscal tensions; and legitimacy deficit. The WDR 2011 legitimacy framework is cited. Lessons from post-conflict literature, including Menkhaus on Somalia, are referenced. UN Mine Action Service landmine data is cited for project design. The context directly shapes design choices (equal shares regional allocation, SOP approach, focus on legitimacy signalling). Co-TTL Bernard Harborne (conflict/FCV specialist) is notable."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Recovery and development interventions need to be implemented through a conflict lens with a high preponderance of traumatized beneficiaries, presence of militia, and the availability of small arms. One specific legacy important for infrastructure projects is the presence of landmines and unexploded ordinance.",
+        "rationale": "The PAD explicitly identifies conflict-specific harm pathways: landmines/UXO risk for infrastructure works; elite capture of scarce financial resources; political competition over sub-project allocations; clan and social dimensions that affect economies of scale; fiduciary fraud risk in a conflict context; and risk that participatory processes could entrench selection bias. Mitigation measures are specific: independent MA for monitoring; POM guidance on security-triggered suspension; social audits and community score cards; grievance redress mechanisms; participatory design with accountability mechanisms. The security risk is rated High in SORT. The 'conflict lens' framing is explicitly stated."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "This will result in the potential for economies of scale in having service providers working across regions only in later phases of the project; hence, the proposal for a SoP subject to resources... the project will have to take local clan and other dimensions into account.",
+        "rationale": "The PAD contains the most sophisticated political economy analysis in the batch. Key features: explicit acknowledgment of clan dynamics in sub-project implementation; analysis of the tension between the FGS and emerging IRAs (including fractured institutional authority in newly accessible areas); identification of elite capture as a design risk with mitigation; cross-clan collective action framed as both a risk and an asset; documentation of the IRA formation process and its implications for fund allocation equity; donor coordination mapped (JPLG, USAID TIS, SSF, Community-Driven Recovery); and participatory governance legitimacy theory. The co-task team leader is a lead social development specialist with explicit FCV designation (GSUGL - Fragility, Conflict and Violence)."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The rationale for the SFF-LD is that (a) it continues to support the building of legitimate public sector institutions by using government systems and demonstrating they can work; (b) being housed within the MoF, it will play a critical role in helping define the division of roles, responsibilities, and capacities between the central government and the states in the area of development financing; (c) it begins to rebalance Bank support between the center and regions; and (d) it supports recovery efforts for vulnerable populations in the most war-affected parts of Somali territory.",
+        "rationale": "The ToC is explicitly and multiply FCV-informed: (1) state legitimacy through service delivery (WDR 2011 signals theory); (2) government systems demonstration effect; (3) federal-regional institutional compact building; (4) rebalancing centre-periphery in post-conflict context; (5) targeting most war-affected territory. The PDO explicitly includes 'capacity to respond to an eligible crisis or emergency' (CERC-like). The SOP instrument is justified in FCV terms (non-linear transitions, learning-by-doing, incremental scale). The connection between sub-project delivery and political legitimacy is directly made. The project is explicitly framed as a post-conflict institution-building instrument."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "The SFF-LD will invest in secondary cities. Finally, the SFF-LD will be an important instrument for the FGS in its coordination with other multi-partner programs led by bilateral institutions who are financing stabilization and recovery activities in the south.",
+        "rationale": "Design is explicitly calibrated for FCV: (1) simple, small-scale infrastructure to match absorptive capacity; (2) equal shares regional allocation to avoid elite capture of larger tranches; (3) pilot-first SOP approach to manage non-linearity; (4) southern/central Somalia targeting (most war-affected); (5) PIU structure with decentralised project officers in IRAs; (6) positive list of eligible sub-projects to avoid political manipulation; (7) complementarity with other stabilisation actors (USAID TIS, SSF, JPLG) mapped. The 2,000 person short-term employment target provides conflict-relevant economic opportunity. Gaps: The equal shares approach may not fully reflect differential conflict impact across regions. No explicit gender targeting beyond female beneficiary percentage."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The POM includes guidance to the PIU on when to suspend activities due to insecurity and how, through the SC, the sequencing of activities can be revised to mitigate project risks.",
+        "rationale": "This is the strongest implementation flexibility design in the batch: (1) OP 10.00 condensed procedures; (2) Emergency Contingency Component (US$0 initially but activatable for natural disasters — explicit CERC equivalent); (3) Independent MA with security-access protocols; (4) POM includes explicit security suspension guidance — unusual level of detail; (5) Steering Committee can revise sequencing in response to security; (6) decentralised project officers at IRA level; (7) MA uses GPS technology; (8) Bank-executed components where recipient capacity insufficient; (9) SOP allows course-correction between phases; (10) Condensed procedures for urgent need/capacity constraints."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Perceptions of regional administrations or federal government performance on subproject activity (percentage); Beneficiaries under the activated crisis response component (number).",
+        "rationale": "The results framework includes a perceptions/legitimacy indicator — directly measuring the FCV outcome (state legitimacy). The crisis response component beneficiary indicator tracks emergency activation. Female beneficiary percentage is tracked. The baseline survey and annual beneficiary surveys provide evidence-based adaptive management. M&E system explicitly designed for 'identification of lessons to be applied to the design of follow up projects.' The MA provides independent verification suited for insecure contexts. Gaps: No conflict-sensitivity specific indicator (e.g., inter-communal tensions near sub-projects). Disaggregation by IDP/host community status not visible."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Joint IFC - No",
+        "rationale": "No IFC or MIGA engagement. The PAD explicitly states 'Joint IFC: No.' The PAD does note that the private sector is slow to invest in conflict-affected environments (a valid contextual point) but does not explore IFC engagement possibilities for catalytic private investment in recovery areas. Given the infrastructure and market sub-project types, there may have been opportunities for complementary private sector investment."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Strong",
+        "numeric_score": 8.67,
+        "rationale": "Average of D1(9)+D2(8)+D3(9) = 26/3 = 8.67. No red flags triggered. This is the strongest sensitivity score in the batch, reflecting the dedicated FCV expertise on the team (Bernard Harborne as co-TTL), explicit conflict analysis, do-no-harm framework with specific harm pathways and mitigations, and sophisticated clan/political economy analysis."
+      },
+      "responsiveness": {
+        "rating": "Strong",
+        "numeric_score": 7.2,
+        "rationale": "Average of D4(9)+D5(8)+D6(9)+D7(8)+D8(2) = 36/5 = 7.2. The WBG integration gap prevents a higher score. Dimensions 4-7 are among the strongest in the batch, reflecting a genuinely FCV-designed project. The CERC-equivalent, security suspension guidance, and legitimacy perceptions indicator are best-practice features."
+      }
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P156257 is the highest-scoring project in the batch and represents best practice for FCV integration in a Tier 1 context. The co-TTL is a designated FCV specialist; the conflict analysis explicitly engages with Al-Shabaab, clan dynamics, landmines, and legitimacy theory; the design directly responds to FCV drivers with a CERC, security suspension protocols, independent MA, and state legitimacy PDO indicator; and the ToC is robustly FCV-informed. The only significant gap is the absence of WBG/IFC integration. This project demonstrates what Tier 1 FCV responsiveness should look like for a community-level infrastructure operation."
+  },
+  {
+    "project_id": "P166591",
+    "project_name": "Somali Urban Investment Planning Project Additional Financing",
+    "doc_type": "Project Paper (Additional Financing)",
+    "instrument_category": "IPF",
+    "approval_year": 2018,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Rapid urbanization is exacerbated by decades of violent conflict and political instability and compounded by cyclical environmental adversities such as drought and flooding. An estimated 2.6 million Internally Displaced Persons (IDPs) in Somalia reside in cities, with Mogadishu, Baidoa, and Kismayo alone hosting almost 40 percent of the total drought-related displacements.",
+        "rationale": "The country/sector context section is substantively FCV-informed for an AF paper: IDP data (2.6 million, with city-specific figures); forced eviction dynamics (109,000 IDPs forcibly evicted Jan-Aug 2017); spatial analysis of IDP settlement growth (7-fold increase in Kismayo IDP area); urban fragility framing (Mogadishu, Merca, Kismayo among world's most fragile cities — citing UN-Habitat); conflict-displacement-urbanisation nexus; gender-based violence in IDP settlements; and CPF alignment. The SCD is cited (para 2, footnote 3). Key gap: No subnational variation analysis distinguishing Jubbaland/South West State political dynamics from Hargeisa/Garowe. No mention of Al-Shabaab specifically in the urban context (relevant for Kismayo and Baidoa)."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Urban infrastructure development projects can have both intended and unintended socio-economic and political impacts and outcomes that can vary based on different population groups... with urban investments, land value can increase which may lead to the forced eviction of IDPs or informal vendors.",
+        "rationale": "The AF paper explicitly identifies conflict-adjacent harm pathways: forced eviction risk from land value increase; power dynamics influencing participatory processes; GBV as a prevalent issue in IDP settlements; and unintended negative impacts on vulnerable populations. A qualitative socio-economic assessment including stakeholder and political-economy analysis is included as an analytical activity (Component 1). E&S due diligence includes baseline surveys, ESMF, and resettlement policy framework. Cross-cutting activities included a conflict assessment in the original SUIPP (though not undertaken — noted as a gap). The assessment also notes participatory planning had 'selection bias' in participants — an honest FCV gap identification. GRM is mentioned ('Grievance Redress and Feedback Mechanism' in acronym list)."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The study will undertake a stakeholder analysis and political-economy analysis to better understand the local power dynamics in each city. The study will examine how the local power dynamics may influence the participatory decision-making process, levels of participation in project activities (such as labor-intensive works), and maintenance of the infrastructure to be financed under SURP.",
+        "rationale": "The AF explicitly plans a political economy analysis as a project activity — unusual and strong. Participatory platforms from Midnimo project (IOM-UN-Habitat-UNDP) are leveraged, with community structures representing women, youth, and IDPs. Lessons learned section acknowledges participatory planning limitations from parent project. Multi-level government engagement (FGS, FMS, municipalities) is managed with explicit subsidiary agreements. Pre-agreed selection criteria for investments address political capture risks. Gaps: The political economy analysis is planned (future activity) rather than completed. The Kismayo/Jubbaland political context (Sheikh Ahmed Madobe, Jubbaland tensions with FGS) is not explicitly discussed."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "If managed well, urbanization can contribute to stability in Somalia. With a greater concentration of people, capital, and assets, cities are better equipped to provide anonymity to those fleeing from conflict and offer better access to security, services, and jobs than rural areas.",
+        "rationale": "The country context explicitly frames the urban-stability nexus: cities as conflict refuges, urban fragility as a driver of Somalia's instability, and IDP inclusion as central. The revised PDO focuses on 'targeted areas' implicitly encompassing conflict-affected cities. The urban governance ToC (capacity -> plans -> investments -> city resilience -> stability) has a credible FCV pathway. The CPF alignment with 'structural resilience to fragility and shocks' is cited. Gaps: The PDF does not fully articulate how the project breaks specific conflict cycles. The FCV-informed justification for scaling to Kismayo and Baidoa (strategic security importance, IDP concentration) is present but could be more explicit."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Inclusiveness. Investments identified should be as inclusive as possible, i.e. incorporate needs of the IDPs, returnees, refugees and host communities. The investments should be selected in a participatory manner in consultations with community representatives.",
+        "rationale": "The investment selection criteria are explicitly FCV-responsive: inclusiveness for IDPs/returnees/refugees/host communities; labor intensity for vulnerable group employment; government visibility for legitimacy building; complementarity with stabilisation partners. Kismayo and Baidoa are selected for their strategic FCV importance (major IDP hosting cities, post-conflict recovery priorities). Pre-agreed criteria address political capture. Participatory process leverages Midnimo community structures (including IDPs, women, youth). The socio-economic assessment will analyse differential impacts by population group. Gaps: No explicit gender-disaggregated analysis framework at design stage. No PSIA for distributional impacts of road investments on property values and IDP eviction risk."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The proposed AF is being processed under procedures specified under Bank Policy Investment Project Financing dated November 10, 2017, Paragraph 12 and 13 for situations of urgent need of assistance. The use of this policy is justified as Somalia meets both relevant eligibility criteria with an urgent need of assistance because of a natural disaster as well as conflict and severe capacity constraints because of fragility.",
+        "rationale": "IPF Policy paragraph 12/13 used, explicitly citing conflict as justification. World Bank execution on behalf of recipient for Component 1 is a key FCV adaptation. Safeguards deferred to implementation. PIU establishment in each city with FCV-relevant specialists (social/environmental safeguards). Lessons from parent project systematically applied. Bank/UNOPS execution for technical studies ensures quality in fragile context. Gaps: No CERC. Gender-based violence referenced but no GBV action plan described. Security protocols for field activities in Kismayo/Baidoa (both Al-Shabaab risk areas) not described. Gender Tag explicitly 'No' for all three gender criteria."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "These community structures are spearheaded by the district government and represents different population groups including women, youth and IDPs.",
+        "rationale": "The results framework is being revised (indicators updated). Participatory processes target diverse population groups including IDPs. The project includes an institutional capacity assessment that tracks transparency and accountability mechanisms. However, the revised results framework (Section IX) shows standard infrastructure indicators (feasibility studies completed, PIU capacity) without explicit FCV-sensitive indicators (no legitimacy measure, no IDP/returnee-specific beneficiary count, no conflict monitoring indicator). The political economy analysis is planned as an activity rather than feeding into adaptive management triggers. No TPM explicitly designed for Kismayo/Baidoa security constraints."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "The project data sheet explicitly states 'Bank/IFC Collaboration: No' for both parent and AF. The urban context — with explicit discussion of private sector investment potential and land markets — provides multiple entry points for IFC engagement (urban infrastructure PPPs, property markets, SME development in newly accessible cities). MIGA political risk insurance for urban investors in Kismayo and Baidoa could have been explored. None of this is present."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": true,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 7.17,
+        "rationale": "Average of D1(8)+D2(7)+D3(7) = 22/3 = 7.33, minus 0.5 for RF2 = 6.83, adjusted to 7.17 based on the substantive FCV content overall. RF2 triggered: urban road investments have clear distributional impacts on land values and IDP eviction risk, which are acknowledged in the text ('land value can increase which may lead to the forced eviction of IDPs') but no PSIA is included. The planned socio-economic assessment will partially address this but is not yet completed."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.0,
+        "rationale": "Average of D4(7)+D5(8)+D6(7)+D7(6)+D8(2) = 30/5 = 6.0. Strong design targeting and ToC, FCV-appropriate operational procedures, but limited results framework FCV-sensitivity and no WBG integration. The absence of a gender tag despite explicit GBV acknowledgment is a notable gap."
+      }
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P166591 demonstrates substantive FCV integration for an AF paper, particularly in its IDP-inclusive design, political economy analysis commissioning, and explicit citation of urban fragility data. The harm pathway identification (IDP eviction from land value increase) is sophisticated and honest. However, the gender tag is explicitly 'No' despite GBV acknowledgment; no CERC; no IFC engagement despite urban private sector relevance; and RF2 is triggered for the distributional impacts of urban road investments. The project is led by a team that includes an explicit FCV adviser (Bernard Harborne) and an FCV acronym in the abbreviation list, signalling institutional commitment. A strong entry in the batch, held back by gaps in results framework and WBG integration."
+  },
+  {
+    "project_id": "P166206",
+    "project_name": "Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project",
+    "doc_type": "Project Paper (Additional Financing)",
+    "instrument_category": "IPF",
+    "approval_year": 2018,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Somalia's long period of fragility has given rise to a 'dual development trap' reflecting systemic distrust, and acute vulnerability to repeated shocks. First, weak fiscal space constrains service delivery, including security and justice, leading to low trust in state institutions (further undermining revenues) and cycles of political crises. Second, climatic shocks (like the 2017 drought) deplete rural communities' assets, causing displacement and rapid urbanization — resulting in mounting exclusion, and unsustainable exploitation of natural resources.",
+        "rationale": "The 'dual development trap' framework is the most analytically sophisticated fragility model in the batch, explicitly linking fiscal space, service delivery, trust, political crisis cycles, climate shocks, displacement, exclusion, and natural resource exploitation into a single integrated FCV causal model. The SCD is cited (P155548). The Systemic Country Diagnostics are explicitly referenced as the analytical framework underlying the CPF. IMF SMP alignment demonstrates macro-fiscal FCV awareness. The state-building Troika framework (CIP, RCRF, DRM&PFM) is presented as an integrated response to governance fragility. However, the project's own conflict-sensitivity (how DRM could create grievances, clan capture of tax administration) is not examined. Al-Shabaab revenue dynamics are not discussed despite their relevance to domestic revenue mobilization."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The two traps reinforce each other, becoming structural drivers of the country's sustained fragility. Overcoming the dual development trap requires the restoration of citizens' trust in institutions by strengthening accountability and oversight, mobilizing revenue and increasing citizens' access to services.",
+        "rationale": "The dual development trap analysis implicitly identifies harm pathways (revenue that fails accountability reduces trust and increases fragility), but these are framed at macro level rather than as project-specific harm pathways. The risk of DRM expansion triggering resistance from Al-Shabaab (which levies its own taxes) or entrenching clan-based extraction patterns is not addressed. The SORT is overall High; Fiduciary is noted as High (FM 'will further be strengthened'). The environmental category was upgraded to 'B' due to MoF building construction — showing attention to physical risks. No GRM for affected taxpayers or civil society in conflict zones. Social safeguards specialist is on the team."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Addressing the multi-faceted governance challenges in Somalia requires the adoption of approaches, which are: highly innovative; flexible; and balance between short, medium- and long-term reform strategies and manages high transaction costs with multiple clients.",
+        "rationale": "The Troika framework demonstrates sophisticated integration of the governance reform agenda across multiple clients (FGS, Puntland, Somaliland). Donor coordination is explicitly mapped: IMF SMP, EU State-building and Resilience Contract, DFID PREMIS, AfDB Somalia Revenue Academy, and USAID are all listed as coordination partners with clear division of labor (Table 1). Government commitment evidenced by FGS formal request for AF and the IMF SMP reform commitments. The political momentum framing ('two peaceful transitions of power, nascent resource sharing deals, a willingness to tackle vested interests') shows political economy awareness. Gaps: No analysis of who within government may resist DRM strengthening (vested interests in the informal/off-budget economy). Revenue Bill parliamentary dynamics not discussed as a political risk."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The Troika of WB Governance-focused projects provides a foundation that is premised on the 2011 World Development Report (WDR) with a focus on strengthening legitimate institutions and governance as a sin-qua-non for the provision of security, justice and jobs for citizens — all of which are central to breaking the cycles of violence and setting the path towards economic development.",
+        "rationale": "The revised PDO ('strengthen systems of domestic revenue mobilization, expenditure control and accountability') is more explicitly FCV-responsive than the original. The WDR 2011 is cited as the theoretical foundation for the entire Troika approach. The Troika theory (payroll legitimacy + PFM accountability + merit-based civil service = breaking cycles of violence) is clearly articulated. The HIPC pathway as a development trajectory out of fragility provides a time-bound ToC. Citizen engagement in budgeting is piloted as a trust-building mechanism. Gaps: The inland revenue automation investment (US$9.5 million) — the largest single investment — is not connected to the conflict dynamics of taxation in Somalia. Al-Shabaab shadow taxation and its relationship to formal DRM is not addressed in the ToC."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The activities are consistent with the original PDO, and are strategically aligned with Somalia's most recent ISN (FY2014-2016), its SCD, and the forthcoming CPF.",
+        "rationale": "Multi-jurisdictional coverage (FGS, Puntland, Somaliland) reflects federal diversity. The Revenue Bill consultation support (Sub-component 1.4) directly engages the inter-governmental fiscal federalism challenge. Citizen engagement in budgeting is a nascent accountability mechanism. Taxpayer education and facilitation (Sub-component 1.3) includes grievance redress. However, no distributional analysis of DRM impacts. The concentrated focus on FGS inland revenue automation (US$9.5 million) without analysis of whether this entrenches inequitable fiscal federalism. No targeting of conflict-affected areas specifically — the project design is centralised toward Mogadishu. No gender analysis. Simplification of design (6 to 3 components) is good FCV practice."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The project is being processed in accordance with the condensed procedures outlined in Paragraph 12 of Section III of the World Bank Investment Project Financing (IPF) Policy, and Paragraph 56 of Section III of the IPF Directive: Exceptional Arrangements in Situations of Urgent Need of Assistance or Capacity Constraints.",
+        "rationale": "IPF Policy condensed procedures (both Paragraph 12 and Paragraph 56) used — more detailed FCV justification than most projects in the batch. Rapid Response Facility (US$2 million) is a genuine operational flexibility mechanism (redesigned from JIT Component 6 to capture 'windows of reform opportunities'). Safeguards deferred. Multi-year extension (to June 2022) allows adaptive management. The three-entity (FGS/PSS/Somaliland) governance structure with separate annual work plans allows context-specific adaptation. Gaps: No CERC. No TPM or third-party verification for field implementation. Security protocols not described. Gender tag: No for all three criteria despite fragile state context."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Results indicators are to be refined to improve the attribution of project specific interventions... The wording of the PDO will be revised to reflect the expanded DRM scope.",
+        "rationale": "The AF restructuring explicitly improves the results framework for attribution and adaptability. Key PDO indicators (revenue variance, audit submission time, domestic revenue collection) are technically sound. The revised PDO indicator on domestic revenue collection directly tracks a fragility driver (fiscal space). The Rapid Response Facility provides results-driven adaptive spending. Mid-term review planned. Gaps: No FCV-specific indicator. No disaggregation by gender, region, or conflict-affected status. Citizen engagement in budgeting is a pilot but no indicator tracks it. The results framework measures PFM system outputs rather than trust/legitimacy outcomes, despite the WDR 2011 ToC framing."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "Provided reform momentum continues, the Decision Point is feasible within the CPF period, which would allow Somalia access to regular concessional resources from IDA and other IFIs, together with investment of private capital from the International Finance Corporation (IFC).",
+        "rationale": "This is the only project in the batch that explicitly mentions IFC as a future beneficiary of the governance reforms — the HIPC Decision Point is framed as enabling 'investment of private capital from the International Finance Corporation.' However, this is a prospective statement about IFC investment post-reform rather than active IFC-IDA collaboration in the project design. IFC is listed in the acronym table. No joint IFC operation. Given that DRM reform directly creates the enabling environment for private investment and IFC engagement, the explicit acknowledgment of this pathway is better than most projects, but actual programmatic collaboration is absent."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.67,
+        "rationale": "Average of D1(8)+D2(5)+D3(7) = 20/3 = 6.67. No red flags triggered. The dual development trap framing and SCD citation represent strong diagnostic work. The do-no-harm gap (no project-level conflict sensitivity analysis for DRM activities) reduces the overall sensitivity score. Al-Shabaab revenue dynamics — directly relevant to formal DRM — are not engaged."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.0,
+        "rationale": "Average of D4(7)+D5(5)+D6(7)+D7(7)+D8(4) = 30/5 = 6.0. The Troika WDR 2011 framework, Rapid Response Facility, IPF condensed procedures, and IFC pathway acknowledgment are positive features. Design and results framework are weaker — centralised design with insufficient distributional analysis and no FCV-specific indicators. WBG integration partial but better than most."
+      }
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "P166206 is the most analytically sophisticated project in the batch in terms of macrofragility diagnostics — the dual development trap framework is best-in-class. The WDR 2011 Troika rationale is explicitly articulated and the HIPC-IFC pathway shows integrated WBG thinking. However, the project does not adequately translate this macro-analysis into project-level conflict sensitivity: DRM expansion in a context where Al-Shabaab competes with the state for tax revenue is a significant unaddressed risk. The absence of distributional analysis for fiscal federalism implications and the lack of FCV-specific results indicators represent the key gaps. The Rapid Response Facility is a genuine innovation worth replicating."
+  }
+]

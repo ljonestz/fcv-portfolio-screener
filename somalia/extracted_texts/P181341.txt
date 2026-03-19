@@ -1,0 +1,2182 @@
+ 
+ 
+ 
+  
+FOR OFFICIAL USE ONLY 
+ 
+Report No: PAD00136  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION  
+ 
+PROJECT APPRAISAL DOCUMENT  
+ON  
+A PROPOSED GRANT IN THE AMOUNT OF SDR 38.1 MILLION (US$50 MILLION EQUIVALENT) 
+TO THE COMMON MARKET FOR EASTERN AND SOUTHERN AFRICA 
+ 
+A PROPOSED CREDIT IN THE AMOUNT OF US$200 MILLION 
+AND A SHORTER MATURITY LOAN IN THE AMOUNT OF US$100 MILLION  
+TO THE REPUBLIC OF RWANDA 
+ 
+A PROPOSED GRANT IN THE AMOUNT OF SDR 28.9 MILLION (US$38 MILLION EQUIVALENT) 
+TO THE DEMOCRATIC REPUBLIC OF SAO TOME AND PRINCIPE 
+ 
+A PROPOSED GRANT IN THE AMOUNT OF SDR 76.1 MILLION (US$100 MILLION EQUIVALENT) 
+TO THE FEDERAL REPUBLIC OF SOMALIA  
+ 
+A PROPOSED CREDIT IN THE AMOUNT OF US$300 MILLION  
+TO THE UNITED REPUBLIC OF TANZANIA 
+ 
+A PROPOSED CREDIT IN THE AMOUNT OF US$25 MILLION AND  
+A PROPOSED CREDIT FROM THE SCALE UP WINDOW IN THE AMOUNT OF US$250 MILLION  
+TO THE TRADE AND DEVELOPMENT BANK 
+ 
+FOR AN 
+ACCELERATING SUSTAINABLE & CLEAN ENERGY ACCESS TRANSFORMATION PROGRAM 
+ USING THE MULTI-PHASE PROGRAMMATIC APPROACH  
+WITH AN OVERALL FINANCING ENVELOPE OF US$5 BILLION  
+ 
+November 8, 2023 
+ 
+ 
+Energy & Extractives 
+Eastern And Southern Africa 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of their official 
+duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective Oct 31, 2023) 
+ 
+Currency Unit =   US$ 
+US$ 1 = SDR 0.76 
+ 
+FISCAL YEAR 
+January 1–December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Regional Director: Wendy E. Hughes 
+Country Director: Boutheina Guermazi 
+Practice Manager: Erik Magnus Fernstrom 
+Task Team Leaders: Dana Rysankova, Monali Ranade, Zubair K.M. Sadeque  
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AfDB 
+African Development Bank 
+AFE 
+Eastern and Southern Africa 
+AIIB 
+Asian Infrastructure Investment Bank 
+AM 
+Accountability Mechanism 
+APA 
+Alternative Procurement Arrangements  
+ASCENT 
+Accelerating Sustainable and Clean Energy Access Transformation 
+BAU 
+Business-as-Usual 
+BC 
+Black Carbon 
+BGAP 
+Beyond the Grid Access Program 
+BRD 
+Development Bank of Rwanda 
+C&I 
+Commercial and Industrial 
+CAPEX  
+Capital Expenditure 
+CCPT 
+Clean Cooking Planning Tool  
+CERC 
+Contingent Emergency Response Component  
+CO2e 
+Carbon Dioxide Equivalent 
+COMESA 
+Common Market for Eastern and Southern Africa 
+COSS  
+Cost of Service Study 
+COVID-19  
+Coronavirus Disease 2019  
+CPF 
+Country Partnership Framework 
+DARES 
+Distributed Access through Renewable Energy Scale-Up  
+DFI 
+Development Finance Institution  
+DLI 
+Disbursement Linked Indicators 
+D-MRV 
+Digital Monitoring, Reporting, and Verification 
+DPO 
+Development Policy Operations 
+DRC 
+Democratic Republic of Congo  
+DRE 
+Distributed Renewable Energy  
+E&S 
+Environmental and Social (risks) 
+EAFS 
+External Assistance Fiduciary Section 
+EAPP 
+Eastern Africa Power Pool 
+EAQIP 
+Energy Access and Quality Improvement Project  
+EDCL 
+Energy Development Corporation Limited  
+EIRR  
+Economic Internal Rate of Return  
+ENEE 
+Somalia National Electric Corporation 
+ER 
+Emission Reduction 
+ESF  
+Environmental and Social Framework  
+ESI 
+Electricity Supply Industry 
+ESMAP 
+Energy Sector Management Assistance Program 
+ESMS 
+Environmental and Social Management System 
+ESP 
+Energy Service Provider 
+ESRS 
+Environmental and Social Review Summary 
+EUCL 
+Energy Utility Corporation Limited  
+EWURA 
+Energy and Water Utilities Regulatory Authority 
+FCV 
+Fragility, Conflict, and Violence 
+FGS 
+Federal Government of Somalia 
+FHH 
+Female-Headed Household 
+FI 
+Financial Intermediary 
+FIRR  
+Financial Internal Rate of Return  
+FM 
+Financial Management  
+FY 
+Fiscal Year 
+ 
+ 
+GBV  
+Gender-Based Violence  
+GCF 
+Green Climate Fund 
+GDI 
+Gender Development Index 
+GDP 
+Gross Domestic Product  
+GEAPP 
+Global Energy Alliance for People and Planet 
+GHG  
+Greenhouse Gas 
+GNI 
+Gross National Income 
+GRS 
+Grievance Redress Service 
+GWh 
+Gigawatt Hour 
+HEIS 
+Hands-on Expanded Implementation Support  
+HV 
+High Voltage 
+IBRD 
+International Bank for Reconstruction and Development 
+IDA  
+International Development Association 
+IFC 
+International Finance Corporation 
+IPF 
+Investment Project Financing 
+IPP 
+Independent Power Producer 
+KfW 
+German State-owned Development Bank 
+kW 
+Kilowatt 
+kWh 
+Kilowatt hour 
+LCPDP 
+Least Cost Power Development Plan  
+LPG  
+Liquefied Petroleum Gas  
+LV 
+Low Voltage 
+M&E 
+Monitoring and Evaluation  
+MFI 
+Microfinance Institution 
+MIGA 
+Multilateral Investment Guarantee Agency 
+MPA 
+Multiphase Programmatic Approach  
+MSME 
+Micro, Small, and Medium Enterprise 
+MTF 
+Multi-Tier Framework  
+MV 
+Medium Voltage 
+MW 
+Megawatt 
+NBR 
+National Bank of Rwanda 
+NDC 
+Nationally Determined Contribution 
+NGAP 
+National Grid Alleviation Program 
+NPV 
+Net Present Value 
+NST 
+National Strategy for Transformation 
+ODA 
+Official Development Assistance 
+OGS 
+Off-Grid Solar  
+OHS 
+Occupational Health and Safety 
+PAD  
+Project Appraisal Document  
+PAYG 
+Pay-As-You-Go 
+PCU 
+Project Coordination Unit 
+PDO 
+Project Development Objective 
+PFI 
+Participating Financial Institutions 
+PforR 
+Program for Results  
+PHRD 
+Policy and Human Resources Development (fund) 
+PIU 
+Project Implementation Unit 
+PPA 
+Power Purchase Agreement 
+PrDO 
+Program Development Objective 
+PUE 
+Productive Use of Energy 
+PV 
+Photovoltaic 
+RBF 
+Results-Based Financing  
+ 
+ 
+REAFF 
+Regional Energy Access Financing Facility 
+REF 
+Renewable Energy Fund 
+REG 
+Rwanda Energy Group  
+REIF 
+Renewable Energy Investment Facility 
+REMP 
+Rural Energy Master Plan 
+RGAP 
+Rural Grid Access Program 
+RIFF 
+Regional Infrastructure Finance Facility  
+RISE 
+Regulatory Indicators for Sustainable Energy 
+SAPP 
+Southern Africa Power Pool 
+SDG 
+Sustainable Development Goal 
+SDR 
+Special Drawing Rights 
+SEforAll 
+Sustainable Energy for All 
+SHS 
+Solar Home System 
+SME 
+Small and Medium Enterprise 
+SOP 
+Series of Projects  
+SRMI 
+Sustainable Renewables Risk Mitigation Initiative 
+STP 
+Sao Tome and Principe 
+TDB 
+Trade and Development Bank 
+TDF 
+Trade and Development Fund  
+TREEP 
+Tanzania Rural Electrification Expansion Program 
+USD 
+United States Dollar  
+VAT 
+Value-Added Tax 
+WB 
+World Bank 
+WBG 
+World Bank Group 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET....................................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ..................................................................................................................8 
+B.  Relevance to Higher Level Objectives ............................................................................................ 14 
+C. Multiphase Programmatic Approach (MPA) ................................................................................... 16 
+III. PROJECT DESCRIPTION ............................................................................................................. 21 
+A. Program Components ..................................................................................................................... 21 
+B. Project Beneficiaries ....................................................................................................................... 23 
+C. Rationale for Bank Involvement and the Role of Partners ............................................................. 23 
+D. Lessons Learned .............................................................................................................................. 24 
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................................ 25 
+A. Institutional and Implementation Arrangements ........................................................................... 25 
+B. Results Monitoring and Evaluation Arrangements ......................................................................... 25 
+C. Sustainability ................................................................................................................................... 26 
+IV. PROJECT APPRAISAL SUMMARY ............................................................................................... 27 
+A. Technical, Economic, and Financial Analysis .................................................................................. 27 
+B. Fiduciary .......................................................................................................................................... 30 
+C. Legal Operational Policies ............................................................................................................... 30 
+D. Environmental and Social ............................................................................................................... 30 
+V. 
+GRIEVANCE REDRESS SERVICES ................................................................................................. 32 
+VI. KEY RISKS ................................................................................................................................ 33 
+VII. RESULTS FRAMEWORK AND MONITORING ............................................................................... 34 
+ANNEX 1: ASCENT MPA Implementation Plan ................................................................................... 42 
+ANNEX 2: COMESA Regional Energy Access Acceleration Platform (P180547) .................................... 43 
+ANNEX 3: Rwanda (P180575) ............................................................................................................ 49 
+DATASHEET..................................................................................................................................... 49 
+ANNEX 4: Sao Tome and Principe (P177099) ..................................................................................... 62 
+DATASHEET..................................................................................................................................... 62 
+ANNEX 5: Somalia (P181341) ............................................................................................................ 75 
+ANNEX 6: Tanzania (P179631) .......................................................................................................... 87 
+ANNEX 7: TDB Regional Financing Facility (P181328) ......................................................................... 98 
+ANNEX 8: ASCENT Private Sector Mobilization Approach for DRE and Clean Cooking ....................... 112 
+ANNEX 9: Description of Knowledge Compact on Energy Access for Economic Transformation ........ 117 
+ 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+1 
+ 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate 
+DATASHEET 
+BASIC INFORMATION 
+Project 
+Beneficiary(ies) 
+Operation Name 
+EASTERN AND 
+SOUTHERN AFRICA 
+Accelerating Sustainable & Clean Energy Access Transformation Program Using the Multiphase 
+Programmatic Approach 
+Operation ID 
+Financing Instrument 
+Environmental and Social Risk 
+Classification 
+ 
+P180547 
+Investment Project 
+Financing (IPF) 
+Substantial 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate 
+Financing & Implementation Modalities 
+[✓] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[✓] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[✓] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternative Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+Expected Approval Date 
+Expected Closing Date 
+Expected Program Closing Date 
+04-Dec-2023 
+31-Dec-2030 
+31-Dec-2030 
+Bank/IFC Collaboration 
+Joint Level 
+Yes 
+Complementary or Interdependent project requiring active coordination 
+ 
+@#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate 
+MPA Program Development Objective 
+To increase access to sustainable and clean energy in Eastern and Southern Africa 
+ 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+2 
+ 
+MPA FINANCING DATA (US$, Millions) 
+MPA Program Financing Envelope 
+5,415.00 
+Components 
+Component Name 
+Cost (US$) 
+Digital Monitoring, Reporting and Verification for Energy Access & Climate 
+Finance 
+5,000,000.00 
+Project Preparation Facility 
+20,000,000.00 
+Advisory support Facility 
+15,000,000.00 
+Knowledge, Skills and Consumer Engagement 
+5,000,000.00 
+Project management and capacity building support to COMESA Secretariat 
+5,000,000.00 
+Organizations 
+Borrower:  
+Common Market for Eastern and Southern Africa (COMESA) 
+Implementing Agency:  
+Common Market for Eastern and Southern Africa (COMESA) Secretariat 
+MPA FINANCING DETAILS (US$, Millions) 
+MPA Financing Envelope: 
+5,415.00 
+of which Bank Financing (IBRD): 
+0.00 
+of which Bank Financing (IDA): 
+5,000.00 
+of which Other Financing sources: 
+415.00 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate 
+PROJECT FINANCING DATA (US$, Millions) 
+Maximizing Finance for Development 
+Is this an MFD-Enabling Project (MFD-EP)?  
+Yes 
+Is this project Private Capital Enabling (PCE)? 
+Yes 
+ 
+SUMMARY 
+Total Operation Cost 
+50.00  
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+3 
+ 
+Total Financing 
+50.00  
+of which IBRD/IDA 
+50.00 
+Financing Gap 
+0.00  
+DETAILS 
+World Bank Group Financing 
+   
+International Development Association (IDA) 
+50.00 
+IDA Grant 
+50.00 
+IDA Resources (US$, Millions) 
+  
+Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+Regional 
+0.00 
+50.00 
+0.00 
+0.00 
+50.00 
+Total 
+0.00 
+50.00 
+0.00 
+0.00 
+50.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate 
+Expected Disbursements (US$, Millions) 
+WB Fiscal 
+Year 
+2024 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+Annual 
+2.00 
+12.00 
+18.00 
+8.00 
+5.00 
+2.00 
+2.00 
+1.00 
+Cumulativ
+e 
+2.00 
+14.00 
+32.00 
+40.00 
+45.00 
+47.00 
+49.00 
+50.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate 
+PRACTICE AREA(S) 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Energy & Extractives 
+Climate Change; Finance, Competitiveness and Innovation 
+CLIMATE 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+4 
+ 
+Climate Change and Disaster Screening 
+Yes, it has been screened and the results are discussed in the Operation Document 
+ 
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate 
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫   Moderate 
+2. Macroeconomic 
+⚫   Moderate 
+3. Sector Strategies and Policies 
+⚫   Moderate 
+4. Technical Design of Project or Program 
+⚫   Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫   Moderate 
+6. Fiduciary 
+⚫   Moderate 
+7. Environment and Social 
+⚫   Substantial 
+8. Stakeholders 
+⚫   Moderate 
+9. Overall 
+⚫   Moderate 
+Overall MPA Program Risk 
+⚫   Moderate 
+ 
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate 
+POLICY COMPLIANCE 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+ 
+ENVIRONMENTAL AND SOCIAL 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+5 
+ 
+ESS 1: Assessment and Management of Environmental and Social Risks and 
+Impacts 
+Relevant 
+ESS 10: Stakeholder Engagement and Information Disclosure 
+Relevant 
+ESS 2: Labor and Working Conditions 
+Relevant 
+ESS 3: Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+ESS 4: Community Health and Safety 
+Relevant 
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved 
+Traditional Local Communities 
+Relevant 
+ESS 8: Cultural Heritage 
+Relevant 
+ESS 9: Financial Intermediaries 
+Not Currently Relevant 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate 
+LEGAL 
+Legal Covenants 
+Sections and Description 
+Section I.A.2(b) of Schedule 2. The Recipient shall not later than one hundred eighty (180) days after the Effective Date 
+of this Agreement, or (i) one hundred eighty 180 (180) days after the Effective Date of STP Financing Agreement, or (ii) 
+one hundred eighty (180) days after the Effective Date of Tanzania Financing Agreement (in each case, whichever shall 
+be the later date), establish a memorandum of understanding with STP, and Tanzania, respectively, outlining the 
+collaboration and coordination arrangements, satisfactory to the Association, that will enable either STP, or Tanzania 
+(as the case may be) to participate in the regional energy access acceleration platform on the same terms as the 
+Recipient’s member states. To this end, it is understood that execution of such memorandum of understanding, in each 
+case, is subject to: (i) the intention of either Tanzania, or STP to enter into said memorandum of understanding with the 
+Recipient; and (ii) fulfilment by: (A) Tanzania of similar obligation under the Tanzania Financing Agreement, or (B) STP of 
+similar obligation under the STP Financing Agreement. 
+ 
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate 
+Conditions 
+Type 
+Citation 
+Description 
+Financing Source 
+Effectiveness 
+Section V. 5.01(a) 
+The Recipient has prepared 
+and adopted the Project 
+Operations Manual, in form 
+IBRD/IDA 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+6 
+ 
+and substance satisfactory 
+to the Association. 
+Effectiveness 
+Section V. 5.01(b) 
+The Recipient has hired to 
+the Project Implementation 
+Unit, an environmental 
+expert, a social expert, and 
+a stakeholder 
+engagement/communicatio
+n expert, all with 
+experience, qualifications 
+and terms of reference, 
+satisfactory to the 
+Association. 
+IBRD/IDA 
+Effectiveness 
+Section V. 5.01(c) 
+The Recipient has, 
+consistent with the 
+requirements of ESS 10, 
+prepared, disclosed, 
+consulted upon, and 
+adopted the Stakeholder 
+Engagement Plan and 
+Labor Management 
+Procedures, in form and 
+substance satisfactory to 
+the Association. 
+IBRD/IDA 
+Effectiveness 
+Section V. 5.01(d) 
+The Recipient has 
+established the grievance 
+mechanism for the Project, 
+in form and substance 
+satisfactory to the 
+Association. 
+IBRD/IDA 
+Disbursement 
+Section III.B.1 of Schedule 2 
+No withdrawal shall be 
+made under Category (2) 
+unless and until the 
+Recipient has: (i) hired a 
+PPF consultant with 
+environmental health and 
+safety expertise and other 
+qualifications, experience, 
+and terms of reference, 
+satisfactory to the 
+Association; (ii) designed 
+the Project Preparation 
+Facility consistent with the 
+IBRD/IDA 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+7 
+ 
+requirements of ESS1, and 
+(B) issued procedures, 
+acceptable to the 
+Association to embed 
+environmental and social 
+health safety requirements 
+(ESHS) in advisory services 
+provided, all in form and 
+substance satisfactory to 
+the Association; and (ii) 
+included in its planning of 
+the technical assistance 
+under the Project, 
+adequate assessment of 
+environmental and social 
+implications, and has 
+provided in such planning 
+the advice for addressing 
+such implication under the 
+technical assistance 
+consistent with the 
+requirements of the ESF. 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+8 
+ 
+I. STRATEGIC CONTEXT 
+1. 
+Achieving the vision of ending extreme poverty and boosting shared prosperity on a livable planet by fostering 
+sustainable, resilient, and inclusive development is predicated on ensuring access to sustainable and clean energy. 
+Electricity is at the foundation of the modern economy and societies. Access to electricity is essential to create and 
+maintain human capital development, reduce income and gender inequality, promote inclusion, and create new economic 
+opportunities and jobs. Electricity is key to saving lives and building resilience in communities to pandemics, adverse 
+weather events, and multitude of economic crises the world is witnessing. Access to clean energy, including cooking, 
+drastically reduces indoor air pollution, saving lives and productivity, especially of women. The digital divide can be bridged 
+only if electricity is available. Electricity allows children to access online education; families and businesses to access 
+information and diversify sources of livelihoods; and countries to provide services to all their citizens. The global clean-
+energy transition cannot be accomplished if large populations are left reliant on traditional, polluting lighting and cooking 
+methods, which are harmful to their health, the local environment, and climate. 
+2. 
+The Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) Program is an ambitious leap 
+toward universal energy access and the clean energy transition in the Eastern and Southern Africa (AFE) region, home 
+to 656 million people. ASCENT presents a programmatic framework for the World Bank to support acceleration of access 
+to electricity in AFE, which utilizes the Multiphase Programmatic Approach (MPA) with a proposed IDA financing envelope 
+of US$5 billion. The first wave of the MPA phases, presented in this Project Appraisal Document (PAD), with a total IDA 
+financing of US$1,063 million, includes five Investment Project Financing (IPF) operations, covering Phase 1 (ASCENT 
+COMESA Regional Acceleration Platform, P180547), Phase 2 (ASCENT Rwanda, P180575), Phase 3 (ASCENT Sao Tome and 
+Principe, P177099), Phase 4 (ASCENT Somalia, P181341), and Phase 6 (ASCENT Regional Energy Access Financing Platform 
+implemented by the Trade and Development Bank) and one Program-for-Results (PforR) operation under Phase 5 (ASCENT 
+Tanzania, P179631).  Annex 1 provides an overview of the current and future phases; Annexes 2-7 summarize the six 
+operations under the first wave; Annex 8 summarizes ASCENT’s private-sector engagement approach; and Annex 9 
+provides an overview of the research agenda supporting the program implementation.  
+3. 
+Over the next seven years, the ASCENT Program will provide life-transforming opportunities for 100 million 
+people across up to 20 countries. It will bring together global and local knowledge, with a menu-based approach for 
+empowering countries to pursue their national energy-access visions, while leveraging regional integration opportunities 
+and global knowledge. The Program intends to align the comparative advantage of all parts of the World Bank (IDA, IFC, 
+and MIGA) and build on the IDA financing envelope of US$5 billion to leverage US$10 billion from public and private 
+financing through partnerships. The ASCENT MPA embodies the vision of the World Bank Evolution and will be an essential 
+part of the proposed Global Challenge Program (GCP) on Energy Transition and Access (ETA). This Program Appraisal 
+Document (PAD) describes the overall Program, including the countries and regional platforms that are joining its first 
+wave.   
+A. Regional and sector context  
+4. 
+The AFE region’s steady progress of past decades in ending extreme poverty and boosting shared prosperity on 
+a livable planet has been upended by a series of global shocks. The region’s recovery from the COVID-19 pandemic has 
+been disrupted by food shortages, soaring energy prices, and global and regional macroeconomic turbulence. Impacts 
+have been exacerbated by adverse climate events hammering the region, including the worst drought in the last four 
+decades and the longest-lasting tropical cyclone ever recorded in the Southern Hemisphere.   
+5. 
+Lack of energy access hinders the AFE region’s economic recovery, resilience, and faster progress toward 
+poverty reduction. Only 48 percent of the overall AFE population—and just 26 percent in rural areas—has access to 
+electricity. More than one-third of all food production is lost to spoilage on the way to market owing, in large part, to lack 
+of refrigeration. Less than half of all hospitals in the region have reliable electricity access, and nearly a third of all 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+9 
+ 
+healthcare facilities are without any electricity access. It is rare for schools in rural areas to have electricity service. 
+Moreover, four-fifths of all people in the AFE region lack access to clean cooking technologies and fuels; the Energy Sector 
+Management Assistance Program (ESMAP) estimates the cost of inaction in terms of the health, gender, and climate 
+impacts at US$169 billion per year. The ambitious regional integration agenda is also undermined by lack of electricity 
+access, which limits the volume of electricity trade across countries, as well as broader integration opportunities. The AFE 
+region’s progress on energy access is uneven across countries (Figure 1), between urban and rural areas, across income 
+quintiles, and by gender. A Technical Note with detailed analysis and references on energy access situation in the region 
+is available on request.  
+Figure 1: Electricity and Clean Cooking Access in AFE 
+ 
+Source: IEA, IRENA, WHO, World Bank. Tracking SDG 7: The Energy Progress Report (2023). 
+6. 
+Lack of access is constraining inclusion, social resilience and perpetuating gender inequalities. With electricity 
+access deficit concentrated in the two bottom income quintiles, lack of energy access is threatening to exacerbate 
+inequalities and undermine resilience for the most vulnerable populations, including women. Women in the energy sector 
+play a significant role as users, entrepreneurs, employers, employees, and decision makers; however, they face 
+discrimination and other barriers that limit their potential contributions to the energy sector. At the household level, 
+women in the AFE Africa region are the primary users and producers of energy, but the sources of energy for most rural 
+households are more likely to be unclean biomass and fossil fuels. Traditionally, women in Africa are more likely to be 
+assigned the role of searching for cooking fuels and water, resulting in working longer hours to complete household chores 
+and caregiver roles, which, in turn, inhibits women from pursuing economic empowerment activities. Furthermore, 
+women are underrepresented in the energy sector as entrepreneurs and energy service providers, as well as in 
+employment, especially those requiring science, technology, engineering, and mathematics (STEM) backgrounds.   
+7. 
+Half of the AFE population without electricity access resides in countries affected by fragility, conflict, and 
+violence (FCV), where the lack of energy access is both the consequence and the cause of fragility and conflict. Energy 
+access progress in FCV countries is falling behind non-FCV countries, affected by lack of security, as well as institutional 
+weaknesses and capacity constraints typically associated with FCV contexts. In addition, an increasing number of forcibly 
+displaced persons and their host communities are in urgent need of improved energy access to reduce their vulnerabilities. 
+Women and girls would benefit from energy access in order to lower their exposure to gender-based violence, for 
+example, by increasing overall safety with street lighting and reducing the need to spend long hours collecting wood fuels 
+in unsafe environments.  
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+10 
+ 
+8. 
+With 365 million people without electricity and 558 million without clean cooking, the AFE region accounts for 
+over half of the world’s unelectrified population and nearly a quarter of its people without clean cooking access. 
+Accelerating progress on energy access is thus essential to unlocking the region’s potential to deliver on its development 
+goals and help the world achieve Sustainable Development Goal (SDG) 7 and related SDGs, addressing such global 
+challenges such as climate change, resilience, and fragility. However, based on the AFE countries’ current pace of 
+electrification, which is only marginally exceeding population growth, one can expect that more than 300 million people 
+in the region will remain without electricity in 2030. 
+9. 
+The emerging innovations, as well as the rising political commitment and home-grown know-how for energy 
+access, offer unprecedented opportunities to overcome past challenges: 
+a) The rise of distributed renewable energy (DRE) technologies and business models provide acceleration and 
+inclusion opportunities that were not available to countries that electrified in the last decade. Technology 
+developments resulting in falling costs of solar energy and battery storage, increased energy efficiency, and smart 
+digital applications have made modular DRE an increasingly attractive complement to centralized grid systems, 
+giving rise to innovative, private sector–driven business models. This has revolutionized energy access in the vast 
+continent of Sub-Saharan Africa, where traditional grid expansion would not be economically viable in many 
+sparsely populated, low-income areas, and in FCV contexts. With cost-competitive, consumer-centered models 
+and consumer financing options, the (mostly) start-up DRE companies have brought much needed innovation to 
+the energy access space, otherwise dominated by state-owned utilities. DREs, which ESMAP estimates to serve 
+100 million people in Sub-Saharan Africa today, are projected to be the least-cost technology for half of all 
+unelectrified households in the AFE region. They also provide significant opportunities for generating jobs across 
+their value chains, especially in rural areas and for women and youth; for example, the share of women employed 
+in DRE is twice as high as that in the overall energy sector and about 40 percent of their workforce is formed by 
+young people. 
+b) Digital platforms and tools are transforming energy access delivery and financing. Digital tools, satellite imagery, 
+smart/predictive algorithms, and applications of artificial intelligence have already transformed the electrification 
+planning landscape and are promising a similar transformation in energy-access delivery and finance mobilization. 
+Digital monitoring, reporting and verification (D-MRV) platforms can connect users all the way to their funders, 
+promising efficiencies and transparency in public-sector financing flows (e.g., result-based payments and targeted 
+pro-poor subsidies), while, at the same time, creating unprecedented opportunities to mobilize carbon revenues 
+and other impact-based financing via aggregation, credible verification protocols, and reduction of transaction 
+costs.   
+c) Clean cooking is gaining momentum, driven by fast-paced innovation, increasing political commitment, and 
+synergies with the electricity sector. Innovations, including electric cooking with energy-efficient stoves and 
+appliances (e-Cooking), pay-as-you-go (PAYG) business models, and the opportunity to leverage carbon and 
+impact-financing to pay for public goods, are making clean cooking solutions affordable to increasingly wider 
+segments of the African population.  
+d) Regional integration approaches can amplify the above opportunities. Regional integration can align electricity 
+access and electricity trade agendas. Rising consumption from newly electrified users will boost regional trade, 
+while also achieving more equitable distribution of regional trade benefits across urban and rural areas and 
+income quintiles. Regionwide scale-up of energy-access investments will create incentives for localized 
+manufacturing and assembly of key products and components, increasing value added for the region and further 
+opportunities for regional trade. Building larger regional markets for DRE is essential for unlocking economies of 
+scale and reducing cost in DRE provision, a prerequisite to mobilizing private capital at scale. Cross-border 
+electrification can reduce costs and advance access in border areas. 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+11 
+ 
+10. 
+Most countries in the AFE region have elevated universal energy access to a top priority. The region hosts the 
+world’s fastest electrifying countries (e.g., Kenya and Rwanda) and is the global leader in off-grid electrification, with such 
+home-grown innovations as PAYG business models, which have revolutionized the provision of energy access around the 
+world. It is a repository of successful approaches (e.g., fast-paced grid densification in Ethiopia and Tanzania) and ongoing 
+innovations (e.g., pro-poor subsidy design in Rwanda and mini-grid deployment for remote communities in Madagascar). 
+Most countries also have integrated targets for clean cooking in their Nationally Determined Contributions (NDCs). 
+However, the region often lacks consistency in applying its own best practices, as well as financing and institutional 
+capacity for their replication and scale-up. 
+11. 
+Achieving universal electricity access in the AFE region in a least-cost, sustainable manner may require as much 
+as US$100 billion. More will be needed for continued investments to power economic growth and the clean energy 
+transition. Given the limits on available public funding, a significant increase in private-sector financing will be necessary. 
+Private investment in the region’s on-grid generation, however, has been constrained by the utilities’ creditworthiness, 
+which poses a significant off-taker risk. An estimated 40 percent of utilities are not recovering their operating costs, which 
+is affecting their ability to mobilize private capital for generation investments, as well as expand electricity access. DRE 
+and clean cooking companies have started to attract private capital, but the lack of scale, slow progress, and mismatch 
+between the return and risks of most DRE transactions have so far deterred mainstream investors from entering this 
+market. That said, the DRE and clean cooking sectors have promising investment opportunities, which, according to 
+market scoping carried out for the ASCENT Program, include a near-term pipeline of over US$4 billion and the overall 
+potential of about US$40 billion under the universal electricity access scenario. Realizing these investment opportunities, 
+however, requires addressing the underlying issues of an enabling environment, affordability of end users, 
+implementation capacities, and transaction sizes and structures, including a more effective allocation of risks and 
+incentives across public and private actors and availability of “fit-for-purpose” financing and de-risking instruments.  
+World Bank engagement in the energy sector 
+12. 
+The World Bank’s engagement in the energy sector of the AFE region supports governments to deliver 
+affordable, reliable, and sustainable energy services for all, recognizing that financing is not only needed to connect new 
+users, but also to supply affordable, reliable, and quality electricity to both existing and new users in order to power 
+economic growth. Private sector–led renewable energy investments also need to scale up in line with global climate goals. 
+This all requires strong and financially viable utilities and power sectors with robust governance, capable institutions, an 
+enabling environment, and trustworthy financing mechanisms. The World Bank is therefore applying a triangular approach 
+to help governments (i) scale up access to energy services, (ii) promote regional power trade and integration, and (iii) 
+create sustainable power sectors by bringing forward comprehensive solutions through a suite of instruments offered by 
+the World Bank, the IFC, and MIGA.  
+a) Scaling up access to energy services. The World Bank has been at the forefront of energy access scale-up in the 
+AFE region, having supported the region’s successful electrification programs and availing more than US$3.5 
+billion in financing over the last four-year period. ASCENT takes this support to the next level through a more 
+comprehensive, strategic, and resolute approach. It expands on the country-driven electrification model, 
+integrating insightful lessons from past efforts, while leveraging regional integration opportunities, global 
+knowledge, and internal and external partnerships. Its design and implementation are informed and strengthened 
+by (i) the World Bank energy team’s expanded capacity to generate data, analytics, knowledge, and technical 
+assistance through Electrifying Africa (a large trust-funded advisory package implemented jointly by AFE and 
+Western and Central Africa [AFW] energy teams) and (ii) innovation and upstream collaboration of the World 
+Bank, the IFC, and MIGA under the Distributed Access with Renewable Energy Scale-up (DARES) Platform, 
+described below. ASCENT’s focus is on delivering the downstream part of energy access: grid and DRE connections 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+12 
+ 
+and access to clean cooking technologies and fuels for households, micro- and small businesses, farmers, and 
+public institutions (e.g., schools and health clinics). 
+b) Promoting regional power trade and integration. Regional power trade is key to assisting countries in enhancing 
+power-supply reliability and energy security in a cost-efficient manner while contributing to increased access and 
+addressing climate mitigation and adaptation challenges. The Bank is building on its long-standing support to the 
+Southern Africa and Eastern Africa Power Pools (SAPP and EAPP), financing and facilitating regional transmission 
+interconnections, transformative regional clean-energy generation projects, and regional power-market 
+strengthening efforts. In addition to several ongoing and planned regional integration projects, the Bank is 
+proposing a transformative scale-up via the planned US$1 billion Regional Electricity Transmission, Trade and 
+Decarbonization (RETRADE) Project (P175190), a regional MPA. RETRADE aims to establish a robust and scalable 
+platform that assists countries in the AFE region to increase cross-border electricity trade for enhancing energy 
+security, resilience, and a transition toward a low-carbon energy sector and universal access. These efforts are 
+complementary and synergetic to ASCENT. Leveraging the region’s abundant clean energy resources in an 
+integrated manner will ensure that the connections realized under ASCENT are supplied with increasingly more 
+affordable, reliable, and clean energy.  
+c) Creating a sustainable power sector. The World Bank is ensuring the sustainability of energy access efforts through 
+supporting sector reform and upstream investments in generation, transmission, and distribution. This includes 
+developing reform roadmaps aligning the medium- and long-term sustainability of the power sector with the 
+universal electricity access objective by addressing shortcomings in power system planning, private-sector 
+mobilization, and financial and operational performance of the sector. In addition, institutional, policy, financing, 
+and technical barriers for scaling up access are being addressed to enable ambitious electricity connection rollouts. 
+Jointly with the IFC and MIGA, the Bank has to date developed detailed reform roadmaps for Angola, Eswatini, 
+Lesotho, Malawi, Tanzania, and Sao Tome and Principe. Reform roadmaps for other AFE countries will be rolled 
+out over the coming months. These roadmaps form the basis of the Bank’s country-level energy engagements and 
+dialogues, feeding into the wider country partnership strategies. They are implemented through a series of 
+reforms and complementary investments delivered over a medium-term period; the roadmaps leverage multiple 
+instruments, including vertical MPAs and, as appropriate, stand-alone or programmatic DPOs with appropriate 
+sequencing, acknowledging that successful outcomes require sustained efforts over a medium-term horizon.  
+Well-functioning utilities are critical for enabling accelerated grid expansion—in terms of their capacity to carry 
+out the needed investments in an accelerated time frame, as well as their ability to properly maintain their assets 
+and enable investments in generation segments. Sector reforms can also open internal revenue streams for access 
+expansion by reorienting inefficient subsidies and creating sustainable funding mechanisms for rural 
+electrification efforts. Therefore, they are quite closely coordinated with ASCENT’s planned investments and 
+technical assistance. All participating countries are expected to have reform roadmaps in place before joining 
+ASCENT. Given their highly contextualized character, the reforms will be subsequently implemented outside of 
+ASCENT; however, ASCENT will continue playing a critical role as their enabler and accelerator.   
+13. 
+ASCENT is conceived as a comprehensive accelerator of energy access efforts in the AFE region, aiming at the 
+delivery of new electricity connections for 100 million people through both grid- and DRE-based solutions, while putting 
+in motion wider efforts, processes, platforms, and partnerships that will set AFE countries on the path toward universal 
+energy access. ASCENT will leverage the proposed IDA envelope of US$5 billion to signal the World Bank’s commitment 
+to achieving SDG7 in the AFE region and mobilize an additional US$10 billion from development partners, governments, 
+national utilities, private-sector and commercial funders, carbon markets, climate and other impact-oriented financiers, 
+and philanthropic and other partners. While the program focus of ASCENT is primarily on helping AFE countries achieve 
+universal electricity access, it will also place foundations for a similar ambition in the clean cooking space, considering its 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+13 
+ 
+sizable health, gender, and climate benefits and acknowledging the potential for synergies in the delivery of electricity 
+and clean cooking services. Alignment with adjacent and beneficiary sectors (including digital, agriculture, health, and 
+education) will be sought to drive synergies in financing and impacts. To achieve its ambitious connection and financing 
+mobilization targets, ASCENT will apply the following transformative design features, leveraging the structure and 
+flexibility of the MPA and the new delivery model under the World Bank’s Evolution: 
+a) Designing interventions for scale and replicability. ASCENT builds on the strengths of the country-driven model 
+while leveraging opportunities for increased scale, efficiencies, and cost reduction of regional efforts and semi-
+standardized approaches via the MPA’s menu framework. For example, a coordinated country-level and regional 
+approach to scaling up mini grids can result in up to a 40 percent reduction in the levelized costs of energy through 
+economies of scale, which can be enabled by building larger portfolios. The countries and regional facilities are 
+being phased into the MPA as and when ready to implement the scaled-up approaches, while benefiting from 
+comprehensive technical assistance and knowledge support to apply best practices and lessons from the MPA’s 
+learning agenda.  
+b) Enhanced partnerships across a broader spectrum of public and private stakeholders. Through the platform-based 
+approach, ASCENT will strengthen partnerships with existing partners, improving efficiency and mutual 
+accountability, while increasing efforts to develop new partnerships to leverage complementarities and synergies 
+in available instruments, delivery models, and capabilities. This includes identifying and attracting new companies 
+and investors to the energy access space, including those in adjacent sectors (e.g., agriculture, 
+telecommunications, and mining). This will enable a larger volume of carbon revenues and other types of climate 
+and sustainability funding and build stronger engagement with private and commercial funders, including the 
+region’s development and commercial banks and philanthropies, while engaging civil society to seek grassroots 
+support, particularly for ASCENT’s social inclusion and resilience agendas.  
+c) Scaling up digital solutions for efficiency, impact, finance mobilization, and faster learning. ASCENT will launch 
+comprehensive efforts to promote digitization and help participating governments and regional organizations to 
+adopt digital platforms. Digitization will enable faster, more efficient and transparent planning, implementation, 
+monitoring, reporting and verification (MRV) of energy access efforts. Such efforts, particularly the digital MRVs, 
+will contribute to finance mobilization; increased efficiency and transparency will build trust among private-sector 
+service providers and their investors, and enable the aggregation and monetization of climate and other impacts. 
+In addition, the digital platforms will enable real-time tracking and data for faster feedback loops, decision-making, 
+and learning. 
+d) Creating space for innovation to unlock the full potential of the One World Bank approach. ASCENT MPA’s strong 
+and comprehensive learning agenda will allow it to develop and test new innovations and scale them through 
+subsequent phases. This approach is essential, especially in the dynamic DRE and clean cooking sectors; ASCENT 
+will apply innovations developed under DARES, including testing and fine-tuning approaches for joint work across 
+World Bank institutions to grow the DRE and clean cooking sectors to scale. Examples of transformative 
+innovations with learning potential include (i) a regional RBF piloted in the first wave of the MPA focusing on 
+unserved and underserved areas, including in the FCV context; (ii) a comprehensive de-risking facility anticipated 
+for upcoming phases, also paving the way for increased financing flows to FCV-affected countries; (iii) a private-
+sector service model for electrifying schools and healthcare facilities, currently being conceptualized under DARES, 
+working closely with health and education practices; (iv) rolling out the Scaling Mini Grid (IFC innovation) approach 
+at a faster pace and scale; and (v) leveraging multisectoral approaches, particularly with agriculture, for delivering 
+productive uses of energy (PUE) and supporting the food security objective, engaging with multiple global 
+practices (e.g., finance, competitiveness and innovation [FCI], agriculture, climate change, and social protection). 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+14 
+ 
+14. 
+Building skills and entrepreneurship opportunities, especially for women and youth. Sustainable scale-up of clean 
+energy and access in the AFE region will require upskilling in all segments of the sector. In partnership with the Education 
+Global Practice, ASCENT will launch a comprehensive energy-access skills assessment and skills development program to 
+be delivered under COMESA’s leadership, working closely with the region’s education institutions; a particular focus will 
+be closing gender gaps in energy employment, supporting female entrepreneurs, and creating and facilitating new job 
+opportunities for young people, especially in the DRE supply chains, through a set of interventions (e.g., training programs, 
+incubators, and internships). 
+B.  Relevance to Higher Level Objectives 
+15. 
+The ASCENT Program design reflects the evolution of the World Bank to deliver solutions and impacts at scale. 
+ASCENT integrates key elements of the new vision expressed in the World Bank’s Evolution: (i) adopting an augmented 
+country engagement approach that yields development outcomes at community, national, regional, and global levels; (ii) 
+exploiting synergies from the mobilization of domestic revenues, private capital, and climate financing, while combining 
+traditional and innovative instruments; and (iii) fully leveraging the potential of World Bank institutions, while also 
+harnessing partnerships, recognizing that no single institution can meet the financing needs of ASCENT and that strategic 
+concessional financing must be deployed to maximize impact. ASCENT’s MPA will form an important part of the proposed 
+Energy Transition and Access (ETA) Global Challenge Program (GCP), which is under development as a response to eight 
+global challenges identified as priorities in the World Bank Evolution. The ETA GCP will aim at increasing access to 
+affordable, reliable, sustainable, and modern energy by scaling up clean energy, phasing down fossil-fuel use, and 
+supporting a just transition. The ETA GCP will cover areas contributing to SDG 7, including expanding and improving energy 
+access, scaling up energy efficiency, and increasing renewable energy integration, as well as interventions to phase down 
+fossil fuels and decarbonize hard-to-abate sectors. The ETA GCP will be implemented through a set of coordinated country-
+specific, regional, and global interventions. ASCENT will provide a key mechanism for implementing The ETA GCP in the 
+AFE region, with energy access being the pathway to its energy transition.   
+16. 
+Achieving universal electricity access by 2030 is the World Bank’s priority for enabling sustainable development 
+in the AFE region, including an intermediate target of doubling the pace of electricity access expansion through a scale-
+up of successful country-based access programs and by leveraging DRE between now and 2026. ASCENT will contribute 
+substantially to achieving the SDG7. Furthermore, it will contribute to the WBG’s Climate Change Action Plan 2021–25, 
+the Next Generation Africa Climate Business Plan, and the World Bank’s Fragility, Conflict, and Violence (FCV) Strategy 
+2020–25. Moreover, it will contribute to human development and gender outcomes, including the Global Strategy for 
+Health, Nutrition, and Population, and to the narrowing of gender gaps in alignment with the upcoming WBG Gender 
+Strategy (FY24–30). It is also a key element of clean-energy-transition efforts globally. The overall ASCENT MPA design and 
+all country interventions are aligned with the respective partnership frameworks of participating countries. The MPA also 
+aligns with individual countries’ Nationally Determined Contributions (NDCs) and their National Adaptation Plans.  
+17. 
+The WBG’s Africa Regional Integration and Cooperation Assistance Strategy (FY21–23) also emphasizes that 
+achieving universal energy access is a priority for the region, highlighting the importance of harmonizing policy and 
+regulations to create a regional market for DRE, increasing levels of cross-border power trade, and lowering the cost of 
+energy services while improving affordability. ASCENT will contribute to regional integration outcomes and leverage 
+regional integration approaches through (i) boosting regional electricity trade; (ii) contributing to electrification in border 
+areas through cross-border electrification solutions; and (iii) creating a regional market for DRE, while mobilizing and 
+enabling private capital.  
+Enabling the One World Bank approach  
+18. 
+ASCENT will serve as an accelerator of private-sector investments both within and outside ASCENT’s MPA 
+framework, leveraging the strengths of the One World Bank approach, as well as other strategic partnerships, following 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+15 
+ 
+the principles of maximizing financing for development. In the grid segment, the potential to mobilize 
+private/commercial capital is largely related to expanding renewable-energy generation and storage. Opportunities for 
+private-sector participation are on a case-by-case basis in transmission and regional trade and through various modalities 
+in distribution. These opportunities will be identified via the above-referenced reform roadmaps; the IFC and MIGA may 
+participate in their realization, as appropriate, through deploying a mix of their financing and risk-mitigation instruments. 
+The investments in generation, transmission, and regional trade go beyond ASCENT’s MPA framework and will be realized 
+through parallel, aligned country or regional operations, which will not count as a part of ASCENT’s financing mobilization 
+target.  
+19. 
+Targeted private-sector investments in distribution that result in increased connections are aligned with 
+ASCENT’s MPA framework and can be implemented within ASCENT. Such opportunities are expected to be strongest in 
+countries where the grid footprint is still limited, and where national utilities face financial and capacity challenges to 
+expand services to new users. Innovations, such as grid-connected concessions, distribution sub-franchising models, and 
+grid-connected mini grids will be explored in such cases with active participation of the IFC and MIGA.  
+20. 
+The World Bank, the IFC, and MIGA already collaborate closely on scaling up DRE-based electrification under 
+the DARES Platform. The DRE sector offers promising opportunities for private-sector mobilization, given that it is already 
+driven by private-sector service providers through innovative and impactful business models. Realizing the potential of 
+the DRE sector, the World Bank, the IFC, and MIGA launched DARES in November 2022 at COP27 as their collaborative 
+effort. DARES is implemented through five programmatic windows: (i) mini grids, (ii) off-grid solar (OGS) markets, (iii) 
+electrifying schools and health facilities, (iv) powering farmers, and (v) commercial and Industrial (C&I)/grid-edge 
+innovations. It provides upstream analytics and space for collaboration, innovation, and co-creation of approaches and 
+instruments (including through leveraging cross-sector approaches across Global Practices, which are then implemented 
+through coordinated and/or joint efforts of the World Bank, the IFC, MIGA, and partners.)   
+21. 
+ASCENT will be the key deployment mechanism for approaches and innovations developed under DARES. 
+Specifically, with support and guidance from DARES, ASCENT will launch comprehensive efforts to close the gaps 
+constraining DRE’s trajectory to scale through a set of phased regional and country interventions aimed at (i) building a 
+larger regional ecosystem of policies, regulations, knowledge, and skills; (ii) delivering public-sector support for closing 
+affordability gaps with efficiency, transparency, predictability, and needed scale; (iii) filling gaps in the current landscape 
+of commercial financing (including debt, equity, and de-risking), tailored to the needs of a range of electrification-focused 
+DRE and clean cooking companies; and (iv) innovating to increase further opportunities for private-capital mobilization 
+(e.g., enabling the entry of new [larger] companies to the market and opening up new market segments, such as 
+electrification of schools and health clinics, to the private sector). See Annex 9 for more details.  
+22. 
+A coordination mechanism for ASCENT has been established, leveraging (i) collaboration on sector diagnostics 
+and medium-term reform and investment roadmaps and (ii) the DARES Platform, which is co-managed by a team from 
+AFE, AFW, IFC and MIGA.  ASCENT also features team members from the IFC and MIGA and regular coordination meetings 
+at both technical and management levels. A coordination mechanism to facilitate co-financing and alignment of 
+approaches across key funders and guarantee providers, including IFC and MIGA, is also set up as a part of ASCENT’s 
+acceleration and financing platforms. The ASCENT Regional Energy Access Financing Facilities will be implemented in 
+complement and coordination with IFC. Larger private sector DRE projects will be co-financed by IFC, TDB, and other 
+commercial funders, on a best-efforts basis, based on eligibility criteria to be mutually agreed upon. The coordination 
+mechanism for the ASCENT financing facilities will establish detailed implementation modalities. 
+Aligning with other transformative regional initiatives 
+23. 
+In line with the Knowledge Compact under the World Bank Evolution, ASCENT will benefit from the global 
+knowledge produced under the ETA GCP, as well as exchanges on best practices with other regional MPAs and 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+16 
+ 
+transformative engagements, especially in AFW and the Middle East and Northern Africa (MNA). Energy access is a 
+global priority, supported by projects in multiple regions, with a growing concentration on Sub-Saharan Africa, where 84 
+percent of the global population without electricity access reside. Accordingly, the World Bank has been increasing its 
+energy access focus on Africa. Corporate scorecard data shows that Bank-supported operations in FY18-23 have directly 
+provided new electricity access for 38 million people, 32 million of which were in Sub-Saharan Africa. 
+24. 
+ASCENT is leveraging lessons learned from both AFE and AFW operations.  The AFE and AFW regions collaborate 
+to leverage and learn from each other. They jointly manage the Electrifying Africa advisory/technical assistance program, 
+which promotes a joint generation and exchange of knowledge, learning, and cross-fertilization of ideas and approaches 
+across the two regions. They are also jointly participating in the DARES Platform. The AFW region continues supporting 
+energy access through a combination of impactful regional- and country-level interventions, including vertical MPAs. For 
+example, the US$750 million IDA-funded Nigeria DARES project for scaling up access with DRE solutions is expected to 
+leverage about US$1 billion in private and commercial capital. Both regions are applying new corporate scorecard 
+indicators, which will allow aggregation of their results and contributions to the ETA GCP.   
+25. 
+ASCENT’s regional platform and broader support from the AFE region’s energy market will develop synergies 
+with transformative regional integration initiatives in both AFW and MENA. Recognizing that development of a regional 
+power market is instrumental to the energy transition, reliable supply, and the electrification agenda—and building on 
+the Bank’s decade-long engagement with the West Africa Power Pool (WAPP), AFW is expanding its regional integration 
+and trade efforts to support both energy transition and access goals.  Collaboration with the MENA region entails linkages 
+between the emerging Pan-Arab electricity market and the EAPP and SAPP. As demand grows in AFE through grid 
+expansion and last-mile access initiatives, new opportunities are expected to emerge for power trade between MENA and 
+Africa Regions. These interlinked systems, including increased trade capacity beyond Africa with Europe and the Middle 
+East through the new Bank-financed Tunisia-Italy interconnection project (approved in June 2023) (P179240) and other 
+cross-Mediterranean interconnection projects under consideration between MENA and Europe, can accelerate a low-
+carbon transition with larger-scale renewable-energy generation across the region, ensuring reliability and affordability of 
+supply. 
+C. Multiphase Programmatic Approach (MPA) 
+(i) Rationale 
+26. 
+Achieving the SDG 7 goal of universal energy access by 2030 in the AFE region requires a collective, coordinated, 
+and flexible approach to mobilize finance, leverage implementation capacities of participating stakeholders (regional 
+and local; public and private) and create a peer-to-peer mechanism. The MPA launches a systematic effort to deliver 
+universal energy access in the region. The approach allows each country to accelerate energy access within its unique 
+context, while creating regional synergies, leveraging regional integration approaches, and recognizing the transversal 
+benefits of energy access that reaches across borders and sectors. The MPA demonstrates One World Bank commitment 
+to the energy access agenda, matching AFE governments’ commitments, and inspiring other partners to join the efforts.  
+27. 
+The Program will support implementation of the Independent Evaluation Group (IEG’s) recommendations on 
+the WBG’s energy access efforts; these are to (i) reposition itself as a global solutions provider in the sector going well 
+beyond its own direct support for access; (ii) move from a predominantly project-by-project approach to a far greater use 
+of a sector-wide framework and process; and (iii) engage decisively and intensively on low-access countries (mostly in Sub-
+Saharan Africa). The Program will signal IDA commitment through the approval of a financing envelope (US$5 billion across 
+two IDA cycles). While commitment of the actual financing amounts is contingent on available financing and country 
+allocations, the program financing envelope will help with targeted fundraising through IDA cycles, as well as enable 
+country-level donor financing to be actively pursued and aligned with country-specific projects under the Program. A 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+17 
+ 
+cohesive and harmonized set of actions that supports the acceleration of electrification efforts in participating countries 
+would also provide the necessary signal to unlock private capital flows. 
+28. 
+Key elements of the MPA embodied in ASCENT include (i) a regional mechanism for coordination and 
+harmonization; (ii) aggregation for mobilization of capital and achieving economies of scale; and (iii) agile implementation, 
+with reduced transaction costs in both design and implementation of AFE interventions, with benefits for all participating 
+countries. A major benefit of the instrument is its replicable approach to achieve scale at the regional level. 
+(ii) Program Results Chain 
+29. 
+The MPA results chain recognizes that access to energy contributes to outcomes at multiple levels. At the 
+community and national level, it creates economic opportunities, enhances access to human development services and 
+health and education outcomes, enables the digital economy, and improves quality of life and resilience. At the regional 
+level, it increases demand for grid supply or private-sector companies’ demand for supply of DRE solutions, delivering 
+economies of scale and attracting private capital. At the global level, it contributes to climate change mitigation, as well 
+as adaptation through improving pandemic and disaster preparedness and reducing causes of fragility (Figure 2). One 
+should note that the program aims to expand both electricity and clean cooking access, with electricity access being the 
+primary target. The PAD, therefore, uses the term “energy access” when referring to both electricity and clean cooking 
+and “electricity access” when referring only to electricity services. 
+Figure 2: ASCENT Program Theory of Change 
+ 
+ (iii) Program Development Objective with Key Indicators 
+30. 
+The Program Development Objective (PrDO), to which participating countries and regional institutions will 
+contribute, is to increase access to sustainable and clean energy in Eastern and Southern African countries. Access to 
+energy includes on-grid and off-grid (DRE) electricity solutions and clean cooking. Sustainability primarily refers to the 
+importance of enhanced regional electricity trade to enable sufficiency of electricity supply and financially viable, private-
+sector delivery models. Clean energy refers to the increased use of DRE and the associated climate-change mitigation 
+benefits. The PrDO will be monitored by measuring progress on three outcomes (Table 1). Each phase under the program 
+will contribute to one or more PrDO, as appropriate, and will also add relevant intermediate indicators, including 
+renewable energy capacity installed or enabled, and private capital enabled or mobilized towards achieving the outcomes 
+of providing people with electricity and reducing greenhouse gas emissions.     
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+18 
+ 
+Table 1: PrDO-level Outcome Indicators of the ASCENT MPA 
+Indicator 
+Unit of measure 
+End target 
+PrDO1: People provided with electricity  
+Number 
+100,000,000 
+PrDO2: Regional electricity trade due to grid-based electrification 
+Percentage 
+5 
+PrDO3: Green House Gas Emission Reductions (CO2e) 
+Metric tons  
+80,000,000 
+ 
+(iv) Program Framework 
+31. 
+The ASCENT MPA will support to more than 20 countries over a seven-year implementation period, with an 
+estimated closing in 2030. This support will be complemented by technical assistance and financing platforms, 
+implemented by regional entities. Program phases will be prepared as countries and regional platforms achieve readiness 
+to implement new operations, in accordance with the program pillars within FY24–27. Readiness is assessed based on the 
+expression of a clear commitment to energy access goals, key policy and reform actions to build an enabling environment, 
+and demonstration of absorption capacity for the scaled-up energy access financing. Financing allocation among Program 
+pillars will be determined as participating countries and organizations design components in their respective phases. Table 
+2 approximates the expected IDA and non-IDA funding for the program overall, and by current and future phases. 
+Table 2: Estimated IDA Allocation and Financing Mobilization under the Program 
+Pillars  
+Proposed IDA Allocation  
+(US$, millions) 
+Estimated Financing Mobilization from all 
+non-IDA sources. 
+(US$, millions) 
+ 
+MPA Total  
+All Phases 
+Current 
+Phases 
+Future 
+Phases 
+MPA Target 
+All Phases 
+Current 
+Phases 
+Future 
+Phases 
+1. Platforms to Accelerate Energy 
+Access  
+500.00 
+88.90 
+411.10 
+500.00 
+28.00 
+ 
+485.00 
+2. Expanding Grid Electrification 
+2,500.00 
+555.00 
+1,945.00 
+3,500.00 
+400.00 
+ 
+3,100.00 
+3. Scaling Distributed Renewables 
+and Clean Cooking 
+2,000.00 
+419.10 
+1,580.90 
+6,000.00 
+575.00 
+5,700.00 
+TOTAL 
+5,000.00 
+1063.00 
+3,937.00 
+10,000.00 
+1,003.00 
+ 
+8,997.00 
+32. 
+Country phasing and amounts are included in Annex 1. The first wave of projects consists of the following  phases: 
+(i) COMESA Regional Energy Access Acceleration Platform IPF (under ASCENT MPA P180547); (ii) ASCENT Rwanda IPF 
+(P180575); (iii) ASCENT Sao Tome and Principe, IPF (P177099); (iv) ASCENT Somalia IPF (P181341); (v) ASCENT Tanzania 
+PforR (P179631); and (vi) TDB Regional Energy Access Financing Platform IPF (P181328). Table 3 and Annex 1 provide an 
+overview of the first wave of projects, as well as anticipated future phases. 
+(v) Learning Agenda 
+The ASCENT MPA’s learning agenda is structured according to three broad learning areas:   
+33. 
+The first area evaluates the extent of the effectiveness of the programmatic platform approach to achieve the 
+PrDO and whether it is delivering on its intended outcomes: (i) achieving scale while promoting inclusion, (ii) attracting 
+the private sector and mobilizing finance, and (iii) building effective partnerships. The evaluation’s findings will be used to 
+inform program implementation and seek mid-course adjustments. Initial countries were selected to exemplify varied 
+stages and conditions of energy access across AFE and provide lessons for the design and implementation of country 
+operations in subsequent phases. ASCENT will establish a regional knowledge-exchange platform to facilitate a rapid 
+exchange of experiences and lessons across participating countries. Particular attention will be paid to documenting 
+learning from the FCV context, with a view to developing replicable and scalable approaches. 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+19 
+ 
+34. 
+The second area assesses the impacts of energy access. Growing evidence confirms the positive impacts of energy 
+access for households, enterprises, schools, and health clinics; however, data often lacks granularity and, depending on 
+circumstances, may even deliver contradictory findings. The ASCENT Program will assess the impacts of energy-access 
+interventions at both the household level (e.g., welfare, health, income-generation, and gender) and community/society 
+level (e.g., job creation, human capital development, resilience, and economic growth). One area of interest is the analysis 
+of impacts on the quality of healthcare and education services. Research questions will also focus on systemic levels 
+related to governance and institutional aspects in relation to energy-access provision, such as incentives at the central 
+and local government levels. Of special significance to the program will be its linkage with regional integration and trade. 
+Specifically, ASCENT will track and analyze the impacts of electrification on both the electricity trade and the wider trade 
+agenda (e.g., increase in cross-border trade in electrified cross-border areas).  
+35. 
+The third area identifies “how to” aspects—that is, understanding the pathways through which intended 
+outcomes and impacts are achieved and what leads to these results in some cases and not in others—to better inform the 
+design of future energy-access efforts. These efforts will be supported by the Development Research Group, Office of the 
+Chief Economist, and DIME (see Annex 8 for the Knowledge Compact).   
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic Approach (P180547) 
+ 
+ 
+20 
+ 
+Table 3: MPA Program Framework 
+ 
+ 
+ 
+ 
+Phase 
+ 
+ 
+ 
+Operation 
+ID 
+ 
+ 
+Sequential 
+or 
+simultaneous 
+ 
+Phase’s DO: To increase 
+access to sustainable and 
+clean energy in Eastern 
+and Southern African 
+countries 
+ 
+ 
+IPF 
+or 
+PforR 
+Estimated 
+IBRD 
+amount 
+(US$, 
+millions) 
+Estimated 
+IDA 
+amount 
+(US$, 
+millions) 
+Estimated 
+other 
+amount 
+(US$, 
+millions) 
+ 
+ 
+Estimated 
+approval 
+date 
+ 
+Estimated 
+E&S 
+risk 
+rating 
+1 
+P180547 
+Simultaneous 
+Common Market for 
+Eastern and Souther 
+Africa (COMESA) 
+IPF 
+0.00 
+50.00 
+15.00 
+November 
+30, 2023 
+M 
+2 
+P180575 
+Simultaneous 
+Rwanda 
+IPF 
+0.00 
+300.00 
+100.00 
+S 
+3 
+P177099 
+Simultaneous 
+Sao Tome and Principe 
+IPF 
+0.00 
+38.00 
+0.00 
+S 
+4 
+P181341 
+Simultaneous 
+Somalia 
+IPF 
+0.00 
+100.00 
+0.00 
+S 
+5 
+P179631 
+Simultaneous 
+Tanzania 
+PforR 
+0.00 
+300.00 
+0.00 
+M 
+6 
+P181328 
+Simultaneous 
+Trade and Development 
+Bank (TDB) 
+IPF 
+0.00 
+275.00 
+300.00 
+S 
+Total 
+0.00 
+1,063.00 
+415.00 
+ 
+Future 
+Phases 
+NA 
+Simultaneous 
+See Annex 1 
+To Be 
+Determined 
+ 
+3,937.00 
+TBD 
+TBD 
+TBD 
+Financing Envelope 
+$ 5,000.00 
+ 
+  
+Board-approved Financing Envelope 
+$ 0.00 
+  
+  
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 21
+ 
+III. 
+PROJECT DESCRIPTION 
+A. Program Components 
+36. 
+The ASCENT Program will take a systematic approach to accelerating AFE countries’ natural progression in 
+energy-access efforts, reflecting the region’s diversity of electrification stages and conditions. A strategic sequencing of 
+operations is key to maximizing impact. Countries that have already achieved high electrification rates will be helped to 
+make the final leap to universal access, while fast-electrifying ones will be supported to stay on an accelerated pathway. 
+Slower-electrifying countries will be helped to get on an accelerated electrification pathway; specific attention will be 
+given to FCV-affected countries, which will be supported with contextualized innovations, particularly in the DRE space. 
+Finally, small states with capacity constraints will be supported with comprehensive energy-access packaging. All countries 
+will receive advisory support to strengthen climate resilience of the energy access investments. 
+37. 
+The first wave of operations establishes a foundation for ASCENT’s acceleration ambition. Four countries have 
+been selected as electrification champions, representative of the energy access stages and contexts found in the AFE 
+region, thereby providing both inspiration and lessons for countries facing similar conditions. Rwanda has been one of 
+the world’s fastest electrifying countries and is now a leader in last-mile electrification, with innovative pro-poor financing 
+mechanisms for both grid and off-grid electrification; its ambition is to achieve universal electricity access before 2030 
+and significantly scale up access to clean coking. Tanzania, whose electrification rate is still below the regional average, 
+has been mounting successful acceleration efforts; its focus is on fast-paced grid densification with an added ambition of 
+accelerating DRE investments, which can serve as an example for countries that need to accelerate their efforts. Somalia 
+exemplifies a complex context of an FCV-affected countries, where private sector–based DRE electrification is the only 
+way to rapidly expand electricity access and the challenging investment environment calls for innovative approaches. 
+Finally, Sao Tome and Principe reflects the challenges of expanding access in small isolated systems with limited capacity, 
+where electricity expansion needs to go hand-in-hand with upstream investments in ensuring reliability, affordability, and 
+capacity/skills building. Regional and national platforms will provide overall ecosystem support and benefit participating 
+countries in all Program phases 
+38. 
+The ASENT Program’s components are organized into three pillars, under which the participating countries and 
+regional facilities will drawn from its menu of options (Figure 3). 
+Figure 3: Summary of the ASCENT Program’s Pillars
+ 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 22
+ 
+39. 
+Pillar 1: Regional and National Platforms to Accelerate Energy Access will finance technical assistance, tools, and 
+capacity building for (i) digitization, including adoption of digital platforms and geospatial planning tools; (ii) energy-access 
+strategies and planning, enabling policies, and regulations; (iii) financing of mobilization and coordination, including 
+carbon/climate finance mobilization; (iv) data collection, market intelligence, and impact evaluations and knowledge 
+exchange; (v) development and deployment of aggregation structures; (vi) analysis and approaches for streamlining value 
+chains and identification of opportunities for local manufacturing and assembly; (vii) identification, facilitation, and 
+support for cross-border electrification; (viii) cross-sector collaboration; (ix) advisory support for strengthening resilience 
+and adaptation benefits for beneficiaries through improved design and implementation of grid- and off-grid electrification 
+projects, including improved planning using geospatial tools and enhanced technical specifications; (x) skills development 
+(including science, technology, engineering, and mathematics [STEM]), especially for women and youth with a view to 
+increasing employment opportunities; (xi) productive use development, inclusion, consumer outreach, and awareness 
+raising; and (xii) other technical assistance and capacity building for government agencies, national utilities, and DRE and 
+clean cooking companies. Pillar 1 will also allow for coverage of project management costs and operating expenses. 
+40. 
+The ASCENT Regional Acceleration Platform, managed by COMESA, will drive implementation of Pillar 1 from the 
+regional level. The Acceleration Platform will support the initial set of participating countries in implementing their 
+respective projects, as well as help prepare countries for joining the Program. The Project Preparation Facility will provide 
+support to DRE and clean cooking companies active in the region to accelerate their efforts and mobilize capital, while the 
+Advisory Support Facility will provide technical assistance to government agencies. The Platform will (i) establish a D-MRV 
+system at the regional level, allowing for data aggregation from countries and the private sector and enabling the 
+generation of carbon revenues; (ii) identify and facilitate cross-border electrification opportunities; and (iii) facilitate 
+knowledge exchange and skills development (including through strategic partnerships with academia), with an emphasis 
+on enhancing opportunities for women and youth; this includes increasing employment of women with STEM backgrounds 
+in energy utilities and DRE/clean cooking companies through targeted skills development programs, incubators, and 
+internships, and supporting young and female entrepreneurs 
+41. 
+Pillar 2: Expanding Grid Electrification will finance investments and associated technical assistance for (i) grid 
+densification and expansion, including cross-border electrification; (ii) grid reinforcement, upgrading, and variable 
+renewable energy (VRE) integration investments, including battery storage, where required, to support electricity access 
+expansion; (iii) grid connections, including ready boards, internal wiring, access to appliances, and productive uses; and 
+(iv) utility strengthening, including management and monitoring systems, digitization, revenue protection programs, and 
+other improvements needed to deliver fast-paced electrification. Technical assistance will include support for improving 
+the climate resilience of assets and systems during design and implementation stages, as appropriate. 
+42. 
+Pillar 3: Scaling Distributed Renewables and Clean Cooking will finance investments and associated technical 
+assistance to expand energy access with DREs and clean cooking technologies and fuels for households, enterprises, 
+farmers, schools, health clinics, and other institutions, including through financial intermediary financing. The key building 
+blocks that would be implemented by countries and regional financing facilities include (i) results-based financing (RBF), 
+catalytic grants, and other forms of performance-based financing for DRE and clean cooking; (ii) DRE tenders, including 
+the IFC-led initiative, Scaling Mini Grids, and other top-down approaches; (iii) debt and equity facilities, guarantees, and 
+other de-risking instruments; and (iv) further innovations aimed at mobilizing capital for DRE and clean cooking, including 
+DRE electrification and clean coking provision for health facilities, schools, and other public institutions. This pillar will be 
+implemented in close coordination with the IFC and MIGA under the DARES Platform (see Annex 8).  
+43. 
+In addition to country-specific support, Pillar 3 will establish regional financing and de-risking facilities. These will 
+be phased in gradually to support the evolving needs of the DRE and clean cooking sectors and leverage lessons generated 
+from earlier phases via the MPA’s learning agenda. Both on-lending and de-risking are needed to respond to varied 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 23
+ 
+characteristics of larger and smaller companies in the various DRE and clean cooking segments. The first wave prioritizes 
+on-lending as an agile response to the urgent financing needs of existing DRE and clean cooking companies, particularly 
+to fill financing gaps (e.g., in longer-tenor loans, local currency, and SME financing). The MPA will therefore establish the 
+ASCENT Regional Energy Access Financing (REAF) Platform, which will be implemented by the AFE Trade and Development 
+Bank (TDB). The REAF Platform’s objective is to lend to DRE and clean cooking companies in order to unlock their pipeline 
+and support their trajectory toward scale. The TDB was selected as the financial intermediary (FI) owing to its (i) 
+geographic coverage of the AFE region; (ii) experience and demonstrated ability to lend to the DRE sector (built under the 
+ongoing Regional Infrastructure Financing Facility (RIFF) Project, P171967); (iii) ability to offer longer-tenor debt; (iv) 
+extensive network of regional and local commercial banks, to be leveraged through co- and on-lending;  and (v)  strong 
+reputation as a well-managed, competent, and financially stable FI that is also willing and able to pursue impact-oriented 
+financing, including for SMEs, which is closely aligned with ASCENT’s vision. The platform will mobilize additional private 
+and commercial financing.  A coordination mechanism will be established before effectiveness to facilitate syndication/co-
+financing and other collaboration with IFC and other funders.  
+44. 
+In parallel, a large, transformative regional de-risking facility is under joint development with the IFC and MIGA as 
+ASCENT’s future phase, which will allow for continued growth of existing companies, while also attracting new companies 
+and investors to the DRE and clean cooking sectors. In addition, a patient capital facility, under development, is to be 
+brought up as a future phase focused on the needs of smaller companies, especially local companies and/or those 
+operating in nascent markets... This phased approach is leveraging the potential of One World Bank approaches (and 
+collaboration across energy and FCI), where appropriate, particularly on de-risking, while also building broader 
+partnerships with other development and commercial funders. The idea is to ensure that all segments of DRE and clean 
+cooking markets and companies, including those in FCV-affected areas, are covered to support both scale and inclusion. 
+These will be developed and presented as a future phase (or two separate phases) of ASCENT. 
+B. Project Beneficiaries 
+45. 
+The main beneficiaries of the ASCENT program are people in the AFE region who will gain access to a sustainable 
+supply of electricity and clean cooking, along with the associated benefits that accrue from having energy access (e.g., 
+increased jobs, access to information and technologies, improved health, reduced time spent on cooking chores, and 
+better services provided by electrified schools and health clinics). Women, who are often burdened disproportionately by 
+the lack of energy access, particularly for household cooking, will be provided additional income-generating and 
+employment opportunities. Enterprises, schools, and health clinics (and their employees) will receive energy access. Other 
+beneficiaries include electric utilities, private-sector providers of DRE and clean cooking, and project-supported 
+government agencies, as well as the newly created workforce in the renewable energy/energy-access fields, particularly 
+women, engaged in ASCENT skills development. ASCENT is expected to deliver electricity access to at least 100 million 
+people (27 percent of region’s unelectrified population), while setting up acceleration approaches that would expand 
+electricity access to an additional 200 million (bringing the total to 82 percent of the unelectrified population), particularly 
+through enabling sustainable grid electrification by the utilities and further private capital mobilization for DRE 
+electrification. Access to electricity is critical to improving household and community level resilience. A methodology will 
+be developed to assess the climate change adaptation and resilience benefit created by the Program as people have, 
+among others, access to information and public services, and new and diverse income opportunities. 
+C. Rationale for Bank Involvement and the Role of Partners 
+46. 
+The World Bank has been at the forefront of energy access scale-up in Sub-Saharan Africa, including the AFE 
+region. World Bank financing of energy access in the region has grown from an average of US$400 million per year in FY 
+2018–20 to more than US$1 billion annually in FY 2021–23. Over the last four years, the World Bank has approved 
+financing in the amount of US$3.5 billion, which would provide electricity access to 47 million people. This figure also 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 24
+ 
+includes increased funding for DREs and clean cooking, partially driven by incentives and co-funding from ESMAP’s Clean 
+Cooking Fund. Combined with ESMAP knowledge and work in the area, the World Bank has been acknowledged as both 
+the thought leader and top financier of energy access in the region, particularly in mini grids, the OGS sector, and clean 
+cooking. A natural continuation of this journey, ASCENT signals the World Bank’s commitment to support the AFE region 
+achieve universal energy access.  
+47. 
+The ASCENT Program is conceived as a broad-based partnership effort, aligning and attracting public- and 
+private-sector partners. With a US$5 billion in IDA envelope, ASCENT aims to mobilize an additional US$10 billion, of 
+which about US$1 billion has already been realized through the present first wave. including participation of large 
+development partners such as the African Development Bank (AfDB) and the Asian Infrastructure Investment Bank (AIIB) 
+and various donors are contributing via both bank-executed and recipient-executed trust fund (RETF) grant contributions 
+via ESMAP.  Climate financiers, including the Green Climate Fund (GCF) have been engaged and specific engagements are 
+already under development to add to the current phases. A comprehensive framework for enabling carbon revenues is 
+also under development under Phase 1 and in collaboration with the Climate Change Practice, enabled via ASCENT’s 
+digitization efforts also under Phase 1.  Furthermore, strategic partnerships have been created with aligned entities, such 
+as Sustainable Energy for All (SEforALL) and the Global Energy Alliance for People and Planet (GEAPP) to support advocacy, 
+convening, knowledge, and innovation, and to drive catalytic impacts. Many other partnerships are under development 
+and will be reflected in ASCENT’s future phases, which is also expected to further increase leveraging of public and private 
+capital. A strategic approach for private-sector engagement in the DRE sector has been developed, built on strategic 
+partnerships with other development and commercial funders and leveraging One World Bank approach. 
+D. Lessons Learned  
+48. 
+Successful efforts to expand energy access are rooted in strong and consistent government commitment. Where 
+such commitment exists, it is important to align resources with the government’s goals through a long-term programmatic 
+platform approach, which would (i) put governments in the central role of priority setting and coordination of energy-
+access efforts; (ii) support transparent, least-cost resource allocation; and (iii) mobilize financing by aligning governments, 
+donors, and the private sector. 
+49. 
+AFE countries urgently need to accelerate both grid and DRE-based electrification. Successfully electrifying 
+countries have demonstrated that accelerated pace is possible, particularly through a combination of grid and off-grid 
+pathways. In some countries, this may require faster grid scale-up, while building up the conditions for private-sector 
+engagement in DRE; in others, opportunities may be leveraged for DRE electrification while reforming a failing utility. One 
+should not hold the other back; ultimately, complementary and parallel progress is needed on both fronts. 
+50. 
+Digitization can revolutionize energy access and vice versa. The emergence of digital platforms and tools have 
+created unprecedented opportunities for improved and accelerated planning and implementation of energy access 
+programs (especially those using RBF), as demonstrated by champion countries that have already taken steps in this 
+direction. Also, opportunities are opening up to leverage such platforms for carbon finance and other resource 
+mobilization.  
+51. 
+Energy access planning and investments need to go beyond connections to ensure that generation, 
+transmission, and distribution are expanding in proportion to electrification and that utilities are financially and 
+operationally sustainable to absorb new users, attract private-sector investments, and deliver reliable electricity services. 
+On the user side, electrification must be accompanied by complementary measures to stimulate demand and productive 
+uses to deliver the intended impacts and make electrification more viable for the utilities and DRE service providers.  
+52. 
+DRE technologies are promising solutions, but their scale-up requires overcoming market fragmentation, caused 
+by inconsistent policies, regulatory environments, subsidy approaches, contractual arrangements, inadequate financing 
+instruments, and small transaction sizes. More harmonized market conditions and aligned funding approaches would 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 25
+ 
+allow DRE companies to achieve economies of scale, reduce costs, and become profitable; as a result, they would attract 
+larger volumes of private investments, including those from more mainstream, commercial investors. This goal is 
+embodied in the WBG’s DARES Platform, which underpins implementation of the proposed energy-access-expansion 
+approach for the AFE region. 
+53. 
+Mobilization of private-sector financing must be more strategic and systematic. This means it should not be 
+based on short-term transactions alone but should also build the conditions for scaled-up, private-sector flows over the 
+medium and long term. Given the still emerging nature of the DRE sector in the AFE region, a differentiated approach is 
+needed to (i) help leading DRE companies take the next step in leaping toward scale, market expansion, and commercial 
+viability; (ii) support the growth of second-generation and smaller local companies; and (iii) attract new, larger companies 
+to the market.  
+54. 
+Investments in energy access must be accompanied by faster knowledge exchange and massive technical 
+assistance and capacity- and skills-building efforts. Even when sufficient financing to close the energy access gap is 
+mobilized, the outcome may not be achieved due to the limited absorption capacity of implementing agencies. Significant 
+capacity building and technical support during both the design and implementation stages are needed. Countries also 
+need to develop effective mechanisms to learn from each other so that successful approaches can be replicated, scaled 
+up, and adapted faster to varied country contexts.  
+55. 
+Energy access efforts must be more inclusive and address affordability challenges and constraints of vulnerable 
+groups. In the AFE region, more than half of the population without electricity access live in FCV-affected countries, where 
+lack of access to clean cooking and electricity disproportionately affects low-income and vulnerable populations, especially 
+women and girls. Further progress in accelerating energy access cannot be achieved without significantly increasing 
+electricity and clean-cooking access rates among the remote, poorest, and most vulnerable population segments, 
+including displacement-affected communities, as well as female-headed households (FHHs). This requires creative, 
+context-sensitive solutions, as well as better targeting, supported by increased availability of data and digital tools. 
+III. IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements 
+56. 
+Country-level institutional and implementation arrangements, described in the country annexes, follow those 
+established by each respective country for its energy access expansion. Typically, they involve government ministries in 
+charge of energy, rural energy agencies, and national utilities, as well as financial institutions in cases where intermediary 
+financing is involved. Each country and regional operation will be independently implemented. 
+57. 
+At the regional level, the COMESA and TDB have been selected to implement regional activities, based on their 
+existing working relationship with countries, private-sector companies, and financial institutions in the region, as well as 
+their track record of implementing World Bank–financed projects, particularly in energy access under the Regional 
+Infrastructure Financing Facility (RIFF) Project (P171967). Detailed implementation arrangements for each phase are in 
+Annexes 2–7.  
+B. Results Monitoring and Evaluation Arrangements 
+58. 
+ASCENT’s progress and implementation will be monitored at program, regional and project levels. ASCENT has 
+established a menu of indicators for individual countries and regional facilities to select from, which will contribute to 
+aligned monitoring of outcomes for the Program. Each operation will be responsible for monitoring its project 
+implementation and results, with COMESA monitoring of results for the entire program. Monitoring will be facilitated 
+through the adoption of digital platforms, which will allow aggregation of results, and individualized dashboards designed 
+for stakeholders (World Bank, COMESA, government agencies, utilities, and the private sector) to improve continuous 
+monitoring. As noted in the Learning Agenda, the Program will support a multi-layer effort to strengthen (i) energy access–
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 26
+ 
+related data collection and analysis and the statistical capacity of key stakeholders, including COMESA and national 
+agencies; (ii) structured and systematic impact evaluation through partnerships with research institutions and donor 
+partners; and (iii) collaborative research with pilot countries to inform improved planning and governance. 
+ C. Sustainability 
+59. 
+All of the proposed interventions are designed to have a lasting impact, including enhancement of climate 
+resilience of the infrastructure and communities. Sustainability is safeguarded at technical, economic and financial, 
+operational, and environmental levels. At the technical level, ASCENT investments will only finance proven technologies 
+and adhere to adequate technical standards, including international quality standards for OGS and clean cooking.  At the 
+economic and financial level, the interventions will follow a least-cost electrification plan, promoting efficient allocation 
+of resources and ensuring that interventions are economically viable. Only sustainable business models will be supported 
+that demonstrate budgetary and technical capacity for adequate sustainable operation and maintenance arrangements. 
+Grid extension will be accompanied by utility strengthening and further supported by separate but aligned interventions 
+aimed at ensuring sustainable energy sectors. Technical assistance available through COMESA’s Regional Acceleration 
+Platform will ensure that government agencies, utilities, and private-sector companies can access the best-available 
+knowledge and experts and technical assistance in order to integrate best practices into their operations. ASCENT is 
+expected to deliver positive environmental externalities through supporting access to clean energy, including renewable 
+energy and clean cooking, which is expected to result in greenhouse gas (GHG) reductions (measured as a PrDO indicator), 
+as well as positive local environmental benefits (e.g., through a reduction in the harvesting of non-renewable biomass 
+used in traditional cooking practices). Furthermore, the program will provide advisory support to public and private sector 
+participating entities to strengthen climate resilience of the infrastructure during implementation and of institutions and 
+community-level users during its technical lifetime. 
+60. 
+Paris Alignment: The ASCENT MPA is fully aligned with the goals of the Paris Agreement on Climate Change. 
+Addressing and building climate-change resilience and preparedness at both energy sector and community levels are 
+among the Program’s fundamental activities. A summary of the projects’ climate disaster risk screening and climate 
+financing informing climate co-benefits can be found in the ASCENT Technical Note on Climate Change, which is available 
+on request. The Program supports implementation of climate mitigation and adaptation actions at national and regional 
+organizational levels by providing communities access to electricity, as well as building energy-sector and community-level 
+resilience to climate change. Alignment with NDCs, National Adaptation Plans (NAPs), and energy-sector strategies, along 
+with adaptation and mitigation risks and measures to address these, have been assessed and confirmed for the first wave 
+of countries and implementing agency in the relevant annexes.  
+61. 
+The ASCENT Program is expected to manage risks of severe climate shocks to the activities that enhance energy 
+access through on-grid and DRE solutions through associated strengthening of sector institutions, private-sector 
+engagement, and relevant policies and processes. The regional technical assistance platform will provide dedicated 
+support for informing climate-resilient design of projects through geospatial planning, technical recommendations, as 
+appropriate, and training for public and private sector participants. This will build capacity across AFE region to 
+understand, identify and implement asset-level and system-level measures to strengthen resilience. Mitigation goals are 
+central to design of the ASCENT Program, which will be expected to significantly reduce GHG emissions across the region. 
+It is anticipated that all activities financed by the ASCENT Program will be from the list of universally aligned activities.   
+62. 
+Gender Responsiveness: The AFE region has made tremendous progress in closing gender gaps in the last decade; 
+however, the evidence pertaining to the energy sector shows the contrary, especially with respect to access to clean and 
+modern energy. To maximize equitable development outcomes consistent with SDG 5 (gender equality) and SDG 7, it is 
+important not only to have a comprehensive strategy to accelerate the closing of energy access gaps but also account for 
+gender differences in the demand for and usage of energy. The ASCENT program is committed to integrating gender-
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 27
+ 
+transformative approaches to close energy access–related gender gaps and employ interventions to empower women to 
+make meaningful contributions to the AFE energy sector. Through technical assistance to COMESA, the project will 
+develop a comprehensive regional Gender Action Plan to build capacity for gender integration in the energy sector in 
+COMESA member states, including development of a regional Women’s Leadership Institute and STEM Skills Accelerator 
+Institute, which will enable women’s employment in the energy sector, leading to their promotion to leadership positions. 
+With the TDB regional finance facility, the ASCENT program will utilize RBF and other strategies with gender-targeted 
+incentives to increase (i) the employment of women with STEM backgrounds and (ii) energy access for women-owned 
+small and medium enterprises (SMEs) to improve their productivity. In addition, the program will include a specific goal in 
+its monitoring and evaluation (M&E) indicator to increase the number (percentage) of women with STEM backgrounds 
+employed in the energy sector. The regional approaches will be complemented by country interventions to close gender 
+gaps in the first wave of projects (Rwanda, Sao Tome and Principe, Somalia, and Tanzania). Further details are provided in 
+the ASCENT Technical Note on Gender available on request. 
+63. 
+Citizen Engagement: Design and implementation modalities of energy access projects inherently rely on extensive 
+citizen engagement. Energy access activities, led by government agencies and the private sector, begin with initial 
+consultations with relevant communities at a project’s design stage. This is important for understanding the community’s 
+needs and concerns, as these will directly affect the intervention’s effectiveness and sustainability. During implementation 
+of the ASCENT projects, citizen feedback will be solicited through surveys and stakeholder engagement, as articulated in 
+the country and regional Stakeholder Engagement Plans (SEPs) and through digitally enabled periodic surveys of a sample 
+of ASCENT households; micro, small, and medium enterprises (MSMEs); and public institution beneficiaries. The surveys 
+will gather their energy-access status and challenges, including satisfaction with service, to address the challenges and 
+improve service delivery. Survey results will be shared with all key stakeholders, including government agencies and utility 
+or private-sector service providers, and used to take informed corrective actions, as needed. Moreover, country-specific 
+grievance redress mechanisms will be developed and used. All ASCENT projects will have at least two citizen engagement 
+indicators that will monitor progress on upstream engagement prior to, during, and ex-post implementation to create a 
+feedback loop that informs continuous improvement in program implementation and contributes to the learning agenda. 
+IV. PROJECT APPRAISAL SUMMARY 
+A. Technical, Economic, and Financial Analysis 
+Technical Analysis 
+64. 
+Project activities are based on known technologies and business and implementation models. Grid 
+electrification will use well-established technologies and methods. The typical investments will include extensions and 
+strengthening of low-voltage (LV) and medium-voltage (MV) lines, substations, transformers, and service drops. The 
+projects may finance ready boards and internal wiring to increase affordability of connections, as well as appliances and 
+productive-use equipment. Country-specific projects may also include variable renewable energy (VRE) integration 
+investments and equipment, including battery storage. Financing of large-scale transmission is not expected; however, on 
+case-by-case basis, ASCENT may finance small-scale extension and upgrading of the transmission network, as necessary, 
+for achieving the project’s objectives if consistent with ASCENT’s E&S instruments and risks. 
+65. 
+ASCENT will support a range of DRE technologies (e.g., small solar home systems [SHSs]; mini grids; and 
+productive-use systems serving SMEs, farmers, and public institutions) and clean cooking technologies and fuels. The 
+program will not finance DRE systems larger than 20 MW. SHSs (typically in a range of 3–350 Wp) will typically be plug-
+and-play; comprising a solar panel, battery, and appliances, the system will come in one box and can be installed by the 
+customer. Productive use of energy (PUE) systems, typically consisting of larger stand-alone solar photovoltaic (PV) and 
+battery storage systems, often replacing diesel generators; sometimes bundled with specialized appliances, they are 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 28
+ 
+especially used by the agriculture sector to transform productivity or preserve produce through cold storage. Renewable-
+energy mini grids are electric power generation and distribution systems that provide electricity to a small group of 
+customers (from the size of a village to that of a city). They are powered primarily by solar PV and batteries, but can also 
+use other renewable energy technologies, such as micro- and mini hydropower. Mini grids and systems for public 
+institutions, such as schools and health clinics, are typically in the single kW to 100kW range, but larger mini grids (under 
+20 MW) are also possible. Mini grids and similar systems to power such public institutions as hospitals may include a diesel 
+back-up in line with Paris Alignment methodologies. The program will only support diesel back-up where its role is marginal 
+and meets the following conditions: (i) renewable-energy generation units are well maintained, and fossil-fuel generation 
+is used only when the amount of renewable energy generated and stored cannot fully meet demand and (ii) fossil fuel 
+generation is less costly than installing sufficient battery storage to meet the same demand. ASCENT will not finance 
+captive-power for commercial and industrial (C&I) customers unless investments are directly linked to expanding energy 
+access and comply with all other program criteria. E-mobility business models may be supported when linked to energy 
+access, e.g., as a productive use under mini grids. 
+66. 
+ASCENT will support clean and improved cooking solutions. Clean cooking solutions refer to technology and fuel 
+combinations that meet the recommended indoor-air-quality guidelines of the World Health Organization (WHO) for 
+household fuel combustion. Common fuels and technologies considered eligible are cookstoves or devices powered by 
+electricity, natural gas, liquefied petroleum gas (LPG), biogas, solar energy, and alcohol fuels (e.g., ethanol). Low-emission 
+biomass stoves using processed biomass (e.g., pellets) that meet ISO/TR 19867-3 voluntary performance targets for Tier 
+4 and above are also considered clean. Improved cooking solutions are those that meet ISO/TR 19867-3 voluntary 
+performance targets for Tier 3. Typical improved cooking solutions include advanced biomass stoves that can achieve 
+some health and climate benefits. The program will not finance natural gas or LPG production; however, LPG distributors 
+that serve end users, including uses of the PAYG model, will be eligible for support where LPG is considered the least-cost 
+solution. Companies that produce and/or distribute cookstoves (cooking devices) that meet ISO/TR 19867-3 voluntary 
+performance targets for Tier 3 and above are eligible. Electric stoves are eligible. Companies that produce and/or 
+distribute renewable clean cooking fuels (e.g., pellets, briquettes, bioethanol, and biogas) are also eligible. 
+Economic and Financial Analysis 
+67. 
+The economic viability of the proposed MPA was assessed using a standard cost-benefit analysis; the benefits 
+captured, while significant, represent only a fraction of the full spectrum of advantages that electrification can bring to 
+households, MSMEs, commercial enterprises, and productive end users. Several studies provide evidence that 
+electrification can trigger a virtuous cycle of economic and social development, extending far beyond initial savings. 
+Electrification essentially facilitates a shift toward more lucrative occupations (Akpandjar and Kitchens 2017) by 
+stimulating the establishment of small businesses, reducing reliance on agriculture, promoting skills development, and 
+increasing wage-earning opportunities. Burlig and Preonas (2023) reinforce the notion that electrification extends its 
+positive impact beyond individual households. At the regional level, it stimulates manufacturing output, boosts 
+employment opportunities, and elevates human development indicators. This macroeconomic effect can be particularly 
+beneficial for local economies and job markets. Research conducted in South Africa (Dinkelman 2011) indicates that 
+electrification has a particularly positive impact on female employment. It enables women to engage in income-generating 
+activities by freeing up their time, thanks to reduced reliance on traditional fuels and the adoption of electricity for various 
+tasks. Notwithstanding the cost-savings focus of this analysis, it is crucial to understand that electrification sets in motion 
+a cycle of benefits. These encompass the establishment of more businesses, a transition to higher-value production, 
+improved education outcomes, better health, and increased employment opportunities. Over time, these positive effects 
+accumulate, significantly enhancing the well-being of the communities and regions served. These benefits are difficult to 
+capture in ex-ante economic analysis but will be pursued via impact evaluations, as elaborated in the Learning Agenda 
+and Annex 9.  Inclusion of all benefits would further increase the economic rates of return. 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 29
+ 
+68. 
+The analysis focuses on all of the ASCENT pillars and technologies: investment in electrification subprojects that 
+encompass grid connections, grid reinforcement and extension, mini-grid connections, electrification through off-grid 
+systems, and clean cooking connections.  
+• 
+The economic costs include the project capital costs and operating costs under the grid, mini-grid, and off-grid 
+subprojects, as well as the connection costs incurred by households, the generation cost of the additional 
+electricity served to newly grid-connected households, and the replacement costs of mini-grid batteries. For the 
+clean cooking component, the economic costs comprise those for the stoves themselves and their operation, 
+consisting mainly of fuel costs.  
+• 
+The economic benefits of the MPA are estimated as the avoided cost of diesel and lighting alternatives, reduction 
+in unserved demand due to improved reliability of electricity supply, and savings on expenditure from the use of 
+more efficient stoves. All components have economic benefit from GHG emissions reduction.  
+69. 
+Overall, the ASCENT program demonstrates economic viability, with an Economic Internal Rate of Return (EIRR) 
+of 32 percent and a Net Present Value (NPV) of US$14 billion at the discount rate of 6 percent. Table 4 provides further 
+details. The analysis assumes discount rates of 6 percent and 10 percent for economic and financial analysis, respectively. 
+Over its lifetime, the proposed MPA is expected to have a net GHG impact of approximately 80 million tons of carbon 
+dioxide equivalent (tCO2e). 
+Table 4: EIRR and NPV for the Proposed MPA 
+Overall program 
+EIRR (%) 
+NPV (US$, billions) 
+Without GHG benefits 
+32 
+14.0 
+With GHG benefits (low) 
+38 
+16.7 
+With GHG benefits (high) 
+44 
+19.5 
+70. 
+The financial analysis for grid electrification assesses the impact of offering electricity service from the utility's 
+perspective, while that for mini grids, off-grid access, and clean cooking solutions is conducted from the consumer’s 
+perspective since these services will be provided by the private sector. The results of the financial analysis reveal that the 
+on-grid investments of the proposed MPA have a negative NPV of -US$683 million and an associated financial Internal 
+Rate of Return (FIRR) of 4 percent. The financial analysis of the grid reinforcement activities also has a negative NPV of -
+US$171 million and an associated FIRR of 6 percent. The presence of a positive FIRR is a clear signal that the anticipated 
+future cash flows surpass the cost of financing, underscoring the grid component’s financial viability over the extended 
+period. Moreover, concessional financing and grants, with extended loan repayment periods, serve as vital tools, can help 
+offset initial costs and reduce financial risks, aligning it with societal and policy priorities. In the context of grid 
+electrification, a negative NPV emphasizes the multifaceted nature of public infrastructure investments, where the 
+economic and social benefits created far exceed immediate financial returns.  
+71. 
+The financial analysis for the off-grid component of the MPA yields positive results, with an FIRR of 30 percent and 
+an NPV of US$333 million. The RBF provision for the clean cooking activities, allows for a high FIRR of 70 percent and an 
+NPV of US$136.5 million. Investments in mini grids result in a positive financial NPV of US$576 million, with an FIRR of 14 
+percent. The financial feasibility for financial intermediation is calculated by discounting the net cash inflows and outflows 
+of a financial intermediary (FI). The FI is assumed to receive a total of US$250 million credit disbursed over five years at 
+an interest rate of 6 percent, with a tenor of 18 years and a 5-year grace period. The cash outflows consist of the 
+repayments to the World Bank credit. The FI is assumed to on-lend at a rate of 8 percent for a 15-year tenor to mini-grid 
+companies, a 6-year tenor at 7 percent to off-grid companies, and a 5-year tenor at 8 percent to clean cooking companies. 
+The cash inflows are calculated from the repayments of loans from on-lending to the FI. The cash flow model assumes a 
+default payment rate of 5 percent and an operations and maintenance (O&M) expense of 4 percent of the FI’s revenue 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 30
+ 
+from the MPA. This component is financially viable, with an estimated NPV of US$12 million and an associated FIRR of 11 
+percent.  The discount rate for the financial analysis is 10 percent. 
+72. 
+The program is robust to credible changes in parameters. The economic rate of return for the grid component is 
+sensitive to connection cost and has a switching value of US$1,1180 per connection, which is reached when the EIRR 
+reaches the hurdle rate of 6 percent. For the off-grid component, the EIRR decreases to 6 percent when the price of the 
+SHS reaches US$339 (including the value-added tax [VAT]), up from the US$207 (including the VAT) used in the analysis, 
+which represents the median price for a 11–20 Wp SHS capable of providing Tier 1 service. The economic return on mini 
+grids is sensitive to the price of diesel, which is the alternative source of fuel, and has a switching value of US$0.39 per 
+kWh, down from US$0.80 per kWh. At this price of diesel, the benefits of switching to mini grids are lower than the cost. 
+B. Fiduciary 
+73. 
+Financial Management. The financial management (FM) assessments for the project implementing agencies were 
+conducted using World Bank Guidance: FM Manual for World Bank Investment Project Financing Operations, reissued on 
+September 7, 2021. Assessments were conducted for the countries and regional institutions covered in first wave of the 
+ASCENT program and included in the respective technical documents (summarized in the country and regional institution 
+annexes). Procurement under PforR operations will follow procurement arrangements that will be detailed in the fiduciary 
+systems assessments for those operations. 
+74. 
+Procurement will be carried out in accordance with the following World Bank procedures: The World Bank 
+Procurement Regulations for IPF Borrowers, fourth edition, dated September 2023; Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, dated October 15, 2006 
+and revised in January 2011 and Anti-Corruption Guidelines as of July 1, 2016; and other provisions stipulated in the 
+Financing Agreements. Procurement arrangements, capacity assessment, risks, and risk mitigation for first wave of 
+borrower/recipients are detailed in the respective PADs and summarized in the country and regional institution annexes.  
+75. 
+To mitigate for the potential risk of forced labor, the bidding documents will emphasize forced labor risks in solar 
+panels and components and will require that sellers of solar panels to the project will not engage or employ any forced 
+labor among their work force. Bidders will be required to provide two declarations: a Forced Labor Performance 
+Declaration (which covers past performance), and a Forced Labor Declaration (which covers future commitments to 
+prevent, monitor and report on any forced labor, cascading the requirements to their own sub-contractors and suppliers).  
+In addition, enhanced language on forced labor will be included in the procurement contracts.  The Bank will prior review 
+procurements of solar panels and components to ensure that enhanced provisions are used by the Borrower. Procurement 
+and FM procedures will be reflected in the respective Project Operations Manuals. 
+C. Legal Operational Policies 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate 
+Legal Operational Policies 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Area OP 7.60 
+No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D. Environmental and Social 
+ 
+The World Bank 
+ 
+Accelerating Sustainable & Clean Energy Access Transformation Program using the Mutiphase Programmatic 
+Approach (P180547) 
+ 
+ 
+ 31
+ 
+76. 
+The environmental risk of the overall program is rated as Substantial. Construction activities related to Pillar 2 
+(e.g., creation of a right-of-way [ROW,] substations, LV and MV distribution lines, and access roads) can lead to habitat 
+alteration, disruption and fragmentation. This can affect natural and critical habitats (e.g., wetlands), whose loss or 
+modification can adversely impact flora and fauna, especially in countries that are home to endemic or endangered 
+species. Other risks and hazards relate to live wires, accidents, injuries, working at height, the security and health of 
+workers and nearby communities during construction and operation of LV and MV lines and associated infrastructure 
+(e.g., transformers.) The construction and maintenance of transmission line ROW can pose fatal risks to birds and bats 
+through collisions with power lines, which may result in power outages and forest/bush fires requiring an emergency 
+response mechanism to be in place. The ASCENT program will offer significant environmental co-benefits through 
+optimization of 

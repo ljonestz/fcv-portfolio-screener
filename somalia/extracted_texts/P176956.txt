@@ -1,0 +1,3182 @@
+ 
+                                                   
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4598  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED GRANT 
+IN THE AMOUNT OF SDR 31.6 MILLION  
+(US$45.0 MILLION EQUIVALENT) 
+ 
+TO 
+ 
+ 
+FEDERAL GOVERNMENT OF SOMALIA 
+ 
+FOR 
+SOMALIA COVID-19 EMERGENCY VACCINATION PROJECT  
+ 
+September 28, 2021 
+ 
+UNDER THE  
+COVID-19 STRATEGIC PREPAREDNESS AND RESPONSE PROGRAM (SPRP) 
+ 
+USING THE MULTIPHASE PROGRAMMATIC APPROACH (MPA) 
+WITH A FINANCING ENVELOPE OF 
+UP TO US$6 BILLION APPROVED BY THE BOARD ON APRIL 2, 2020 AND 
+UP TO US$12 BILLION ADDITIONAL FINANCING APPROVED BY THE BOARD ON 
+OCTOBER 13, 2020 
+ 
+ 
+ 
+Health, Nutrition and Population Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+Exchange Rate Effective August 31, 2021 
+ 
+Currency Unit =  1 
+US$1.423 = SDR 1 
+US$1 =   SDR 0.70211900 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Amit Dar 
+Practice Manager: Francisca Ayodeji Akala 
+Task Team Leader: Bernard O. Olayo 
+  
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+AEFI 
+Adverse Event Following Immunization 
+AFREXIMBANK 
+African Export-Import Bank  
+AMT 
+Anti-Money Laundering 
+ATF 
+Anti-Terrorist Financing  
+AU 
+African Union 
+AVAT 
+African Vaccine Acquisition Trust 
+CERC 
+Contingent Emergency Response Component  
+COVAX 
+Covid Vaccine Access 
+CPF 
+Country Partnership Framework 
+DALY 
+Disability-Adjusted Life Years 
+DPF 
+Development Project Facility 
+EAFS 
+External Assistance Fiduciary Section  
+EPI 
+Program of Immunization  
+ESCP 
+Environment and Social Commitment Plan 
+ESF 
+Environmental and Social Framework 
+ESMF 
+Environmental and Social Management Framework  
+ESMP 
+Environmental and Social Management Plan 
+ESS 
+Environmental and Social Standard 
+EUL 
+Emergency Use Listing 
+EVM 
+Effective Vaccine Management  
+FCV 
+Fragility, Conflict, and Violence 
+FGS 
+Federal Government of Somalia  
+FM  
+Financial Management 
+FMIS 
+Financial Management Information System  
+FMoH 
+Federal Ministry of Health 
+FMS 
+Federal Member States of Somalia 
+Gavi 
+Gavi,GAVI, the Vaccine Alliance the Vaccine Alliance 
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GRM 
+Grievance Redress Mechanism  
+GRS 
+Grievance Redress Service  
+HIPC 
+Heavily Indebted Poor Countries 
+IBRD 
+International Bank for Reconstruction and Development 
+ICR 
+Implementation Completion Report 
+IDA 
+International Development Association 
+IDPs 
+Internally Displaced Persons 
+IFC 
+International Finance Corporation 
+IG  
+Inspector General 
+IOM 
+International Organization Migration  
+IPC 
+Infection Prevention and Control 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+ 
+IPF 
+Investment Project Financing 
+IPSAS 
+International Public-Sector Accounting Standards  
+LMICs 
+Low- and middle-income countries 
+LMP 
+Labor Management Plan  
+M & E  
+Monitoring and Environment 
+MoF 
+Ministry of Finance 
+MoH  
+Ministry of Health 
+MoP 
+Ministry of Planning 
+MPA 
+Multiphase Programmatic Approach 
+NCC 
+National Coordination Committee 
+NCD 
+Non-communicable diseases 
+NDVP 
+National Deployment and Vaccination Plan 
+NPF 
+New Procurement Framework 
+NRA 
+National Regulatory Authority 
+NTWG 
+National Technical Working Group 
+OHS 
+Occupational Health and Safety 
+PAD 
+Project Appraisal Document 
+PCIU 
+Project Coordination and Implementation Unit  
+PDO 
+Project Development Objective 
+PFM 
+Public Financial Management 
+PforR 
+Program for Results 
+PIU 
+Project Implementation Unit 
+PMT 
+Project Management Team 
+POM 
+Project Operations Manual 
+PP 
+Procurement Plan 
+PPE 
+Personal Protective Equipment 
+PPSD 
+Project Procurement Strategy for Development  
+PQ 
+Prequalification 
+RCRF 
+Recurrent Cost and Reform Financing  
+SARA 
+Service Availability Readiness Assessment 
+SCRP 
+Somalia Crisis Recovery Project 
+SEA 
+Sexual Exploitation, Abuse 
+SEAH 
+Sexual Exploitation, Abuse and Harassment 
+SEP 
+Stakeholder Engagement Plan 
+SoCA 
+Somalia of Chart Account 
+SRA 
+Stringent Regulatory Authorities  
+STEP 
+Systematic Tracking of Exchanges in Procurement  
+TPM 
+Third Party Monitoring 
+UCS 
+Use of Country Systems  
+UN 
+United Nations 
+UNC 
+UN Commitment 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+ 
+UNECA 
+United Nations Economic Commission for Africa 
+UNICEF 
+United Nations Children’s Emergency Fund 
+VIRAT 
+Vaccine Introduction Readiness Assessment Tool 
+VRAF 
+Vaccine Readiness Assessment Framework 
+WHO 
+World Health Organization  
+WMP 
+Waste Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+PROGRAM CONTEXT ........................................................................................................................... 10 
+A. 
+MPA Program Context ................................................................................................................ 10 
+B. 
+Updated MPA Program Framework............................................................................................ 10 
+Table 1. MPA Program Framework ........................................................................................................... 10 
+C. 
+Learning Agenda ......................................................................................................................... 11 
+II. 
+CONTEXT AND RELEVANCE ................................................................................................................. 11 
+A. 
+Country Context .......................................................................................................................... 11 
+Figure 1. WHO COVID-19 Daily Situation Report ...................................................................................... 13 
+Figure 2. Vaccines Received vs. Vaccines Administered - WHO ................................................................ 14 
+B. 
+Sectoral and Institutional Context .............................................................................................. 14 
+Table 2: Vaccination readiness findings from the VIRAT/VRAF 2.0 assessment ..................................... 18 
+Table 3: National Vaccine Coverage and Purchase Plan........................................................................... 24 
+Table 4: Priority groups for vaccination .................................................................................................... 26 
+C. 
+Relevance to Higher Level Objectives ......................................................................................... 27 
+D. 
+Lessons Learned .......................................................................................................................... 27 
+III. PROJECT DESCRIPTION ........................................................................................................................ 28 
+A. 
+Development Objectives ............................................................................................................. 29 
+B. 
+Project Components ................................................................................................................... 29 
+Table 5: Project cost and financing ............................................................................................................ 32 
+Table 6: Summary of vaccine sourcing and World Bank financing .......................................................... 32 
+C. 
+Project Beneficiaries ................................................................................................................... 33 
+IV. IMPLEMENTATION ARRANGEMENTS .................................................................................................. 33 
+A. 
+Institutional and Implementation Arrangements ....................................................................... 33 
+Table 7: Roles and Responsibilities of Key Stakeholders, by Component and Sub-Component .............. 35 
+B. 
+Results Monitoring and Evaluation Arrangements ..................................................................... 37 
+C. 
+Sustainability ............................................................................................................................... 37 
+V. 
+PROJECT APPRAISAL SUMMARY ......................................................................................................... 38 
+A. 
+Technical, Economic and Financial Analysis ............................................................................... 38 
+B. 
+Fiduciary ...................................................................................................................................... 38 
+Figure 3: Organization Structure for the EAFS .......................................................................................... 42 
+Figure 4: EAFS functional structure ............................................................................................................ 42 
+Table 8: FM  – Financial Reporting Key Risks and Mitigation Measures ................................................. 44 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+ 
+Table 9: FM – External Auditing Key Risk and Mitigation Measures ....................................................... 45 
+Figure 5: Fund Flows Mechanisms ............................................................................................................. 47 
+Table 10: FM  – Fund Flow/ Banking Arrangements Key Risks and Mitigation Measures ...................... 47 
+C. 
+Legal Operational Policies ........................................................................................................... 49 
+D. 
+Environmental and Social Standards .......................................................................................... 49 
+VI. GRIEVANCE REDRESS SERVICES ........................................................................................................... 50 
+VII. KEY RISKS ............................................................................................................................................. 50 
+Table 11: Climate Adaptation Measures ................................................................................................... 56 
+Table 12: Climatic Impact Mitigation Measures ....................................................................................... 57 
+VIII. RESULTS FRAMEWORK AND MONITORING ........................................................................................ 59 
+ANNEX 1: Status of Vaccines as of August 16, 2021 ........................................................................... 63 
+ANNEX 2: Project Costs ....................................................................................................................... 64 
+ANNEX 3: Implementation Arrangements and Support Plan ............................................................. 65 
+ 
+ 
+. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+1 
+ 
+     
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia COVID-19 Emergency Vaccination Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P176956 
+Investment Project 
+Financing 
+Substantial 
+ 
+Financing & Implementation Modalities 
+[✓] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[✓] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Project Approval 
+Date 
+Expected Project Closing 
+Date 
+Expected Program Closing Date 
+15-Sep-2021 
+30-Jun-2024 
+31-Mar-2025 
+Bank/IFC Collaboration    
+No 
+ 
+MPA Program Development Objective 
+The Program Development Objective is to prevent, detect and respond to the threat posed by COVID-19 and 
+strengthen national systems for public health preparedness 
+ 
+MPA Financing Data (US$, Millions) Financing 
+MPA Program Financing Envelope  
+18,000.00 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+2 
+ 
+ 
+ 
+     
+ 
+ 
+Proposed Project Development Objective(s) 
+The Project Development Objective (PDO) is to support the Federal Republic of Somalia to acquire and deploy 
+Project COVID-19 vaccines and to strengthen national immunization capacity.   
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Vaccine Deployment and Acquisition  
+  31.00 
+ 
+Implementation Management  
+  14.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+Federal Government of Somalia 
+Implementing Agency: 
+FEDERAL MINISTRY OF HEALTH 
+ 
+MPA FINANCING DETAILS (US$, Millions) 
+ 
+MPA FINANCING DETAILS (US$, Millions) Approved 
+Board Approved MPA Financing Envelope:  
+18,000.00 
+MPA Program Financing Envelope: 
+18,000.00 
+of which Bank Financing (IBRD): 
+9,900.00 
+of which Bank Financing (IDA): 
+8,100.00 
+of which other financing sources: 
+0.00 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+FIN_SUMM_NEW 
+SUMMARY-NewFin1 
+Total Project Cost 
+  45.00 
+Total Financing 
+  45.00 
+of which IBRD/IDA  
+  45.00 
+Financing Gap 
+   0.00 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+3 
+ 
+ 
+ 
+     
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+  45.00 
+          IDA Grant 
+  45.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+  45.00 
+   0.00 
+  45.00 
+National PBA 
+   0.00 
+  45.00 
+   0.00 
+  45.00 
+Total 
+   0.00 
+  45.00 
+   0.00 
+  45.00 
+ 
+ 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Health, Nutrition & Population 
+Climate Change, Digital Development 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+ High 
+2. Macroeconomic 
+ Substantial 
+3. Sector Strategies and Policies 
+ Substantial 
+4. Technical Design of Project or Program 
+ High 
+5. Institutional Capacity for Implementation and Sustainability 
+ High 
+6. Fiduciary 
+ High 
+7. Environment and Social 
+ Substantial 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+4 
+ 
+ 
+ 
+     
+ 
+8. Stakeholders 
+ Substantial 
+9. Other 
+ 
+10. Overall 
+ High 
+Overall MPA Program Risk 
+ High 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[✓] Yes      [  ] No 
+ 
+Have these been approved by Bank management?  
+[✓] Yes      [  ] No 
+ 
+Is approval for any policy waiver sought from the Board? 
+[✓] Yes      [  ] No  
+  
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+5 
+ 
+ 
+ 
+     
+ 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural Resources 
+Not Currently Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional Local 
+Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Not Currently Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+Section I.A.1 of Schedule 2 to the Financing Agreement: 
+FGS to enter into subsidiary agreements with each participating FMSs/BRA to facilitate the carrying out of Project 
+activities in the FMSs/BRA under components 1.2, 1.4 and 2.2. of the Project. 
+  
+ Sections and Description 
+Section I.B.1 (a) through (c) of Schedule 2 to the Financing Agreement: 
+FGS to maintain throughout the period of implementation of the project: (a) the Project Steering Committee (PSC); 
+(b) the Project Coordination and Implementation Unit (PCIU); and (c) the ESFSUnit.  
+ 
+  
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+6 
+ 
+ 
+ 
+     
+ 
+ Sections and Description 
+Section I.B.1(d) of Schedule 2 to the Financing Agreement: 
+FGS to select and hire, by no later than six (6) months after the Effective Date and thereafter maintain throughout 
+the period of implementation of the Project, the services of a monitoring and supervision consulting firm, in order 
+to monitor, asses and report on: (a) the Project’s compliance with VAC, the POM and international and good 
+practices on protection of personal data: (b) the UN Agencies performance under their respective output 
+agreements; (c) the effectiveness and impact of health workers training and the public information/awareness 
+campaigns/outreach activities; and (d) the accessibility and responsiveness of the various grievance redress 
+mechanisms.   
+ 
+  
+ Sections and Description 
+Section I.C.1 of Schedule 2 to the Financing Agreement: 
+FGS to prepare and adopt a Project Operations Manual (POM), in a manner and substance satisfactory to the 
+Association and thereafter implement the Project and cause the FMSs/BRA and the UN Agencies to carry out their 
+respective responsibilities under the Project, in accordance therewith.  
+ 
+  
+ Sections and Description 
+Section I.D. of Schedule 2 to the Financing Agreement: 
+All Project COVID-19 Vaccines to be purchased/procured under the Project shall satisfy the (Association’s) Vaccine 
+Approval Criteria (VAC). 
+ 
+  
+ Sections and Description 
+Section I.E.1 of Schedule 2 to the Financing Agreement: 
+FGS to enter into, by not later than 45 days after the Effective Date, and thereafter maintain throughout the period 
+of Project implementation, and output agreement with WHO, under terms and conditions approved by the 
+Association, for purposes of carrying out Sub-Component 2.1 of the Project. 
+ 
+  
+ Sections and Description 
+Section I.E.2 of Schedule 2 to the Financing Agreement:  
+FGS to enter into, by not later than 45 days after the Effective Date, and thereafter maintain throughout the period 
+of Project implementation, and output agreement with UNICEF, under terms and conditions approved by the 
+Association, for purposes of carrying out Sub-Components 1.1, 1.2, 1.3 and 1.4 of the Project. 
+ 
+  
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+7 
+ 
+ 
+ 
+     
+ 
+ Sections and Description 
+Section I.F.1 of Schedule 2 to the Financing Agreement: 
+FGS to, by no later than October 31 of each year, throughout the period of implementation, prepare and furnish to 
+the Association an annual work plan and budget containing all activities proposed to be carried out under the 
+Project during the following fiscal year, as well as the proposed financing plan for the expenditures required 
+thereunder, indicating the envisioned amounts and source of financing, all in accordance with the POM.  
+ 
+  
+ Sections and Description 
+Sections I.E.1 & 2 of Schedule 2 to the Financing Agreement: 
+FGS ensure, and cause the FMS/BRA and the UN Agencies to ensure, that the Project is: (a) carried out in 
+accordance with the ESSs, in a manner acceptable to the Association and (b) implemented in accordance with the 
+ESCP, in a manner and substance satisfactory to the Association.  
+ 
+  
+ Sections and Description 
+Section I.H.1 of Schedule 2 to the Financing Agreement 
+All activities carried out by security consultants/consulting firms and/or the FGS or the FMSs’/BRA’s security or 
+armed force s under the Project shall be under the control of the Ministry of Health (MoH) and/or the UN Agencies, 
+as the case may be, and shall be undertaken exclusively for the purposes related to the Project. All goods, works, 
+services, incremental operating costs, and training financed by the IDA Grant may be used by the security or armed 
+forces, or paid to the security consultants/consulting firms, under the direction and control of either the MoH or 
+the UN Agencies, and strictly in accordance with the POM and/or other arrangements or protocols that the 
+Association may require d for carrying out these activities.   
+ 
+  
+ Sections and Description 
+Section I.H. 2 of Schedule 2 to the Financing Agreement 
+The FGS and the FMSs/BRA shall ensure that the ownership of any assets generated, goods procured, and works 
+constructed by the FGS’ and the FMSs/BRA’s security or armed forces, out of the financing process shall be 
+transferred to, or shall vest with, the MOH or any other appropriate line ministry or agency agree with the 
+Association.  
+ 
+  
+ Sections and Description 
+Section I. B. 1(d) of Schedule 2 to the Financing Agreement 
+select and hire, by no later than six (6) months after the Effective Date, and thereafter maintain throughout the 
+period of implementation of the Project, the services of a monitoring and supervision consulting firm with 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+8 
+ 
+ 
+ 
+     
+ 
+qualifications and experience and under terms of reference acceptable to the Association. 
+  
+ Sections and Description 
+Section I. D. 5 of Schedule 2 to the Financing Agreement 
+The Recipient shall, and shall cause the FMSs/BRA, and the UN Agencies to, establish within two (2) months after 
+the Effective Date, publicize, maintain and operate an accessible grievance mechanism, to receive and facilitate 
+resolution of concerns and grievances of Project-affected people, and take all measures necessary and appropriate 
+to resolve, or facilitate the resolution of, such concerns and grievances, in a manner acceptable to the Association. 
+  
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+Article IV. 4.01 (a): the Recipient has hired 
+for/seconded to the Project Coordination and 
+Implementation Unit, the following key experts, with 
+experience and qualifications and under terms of 
+reference acceptable to the Association: (i) a fully 
+dedicated social development specialist for the Project; 
+(ii) a gender-based violence specialist; (iii) a security 
+specialist; and (iv) a fully dedicated environmental 
+specialist for the Project; 
+ 
+ 
+ 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+Article IV. 4.01 (b): the Recipient has 
+prepared/updated, following a consultative process, 
+publicly disclosed and adopted: (i) an Environmental 
+and Social Management Framework (“ESMF”), including 
+a Project-wide Infection Prevention and Control - Waste 
+ManagementPlan (“IPC-WMP”) and SEAH Prevention 
+and Response Plan; (ii) a Security Risks Management 
+Framework; and (iii) Labor Management Procedures, all 
+in a manner and substance satisfactory to the 
+Association 
+ 
+ 
+ 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+Article IV. 4.01(c): the Recipient has adopted the 
+Project Operations Manual pursuant to the provision of 
+Section I.C.1 of Schedule 2 to this Agreement, in a 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+9 
+ 
+ 
+ 
+     
+ 
+manner and substance satisfactory to the Association. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+10 
+ 
+ 
+ 
+     
+ 
+ 
+I. 
+PROGRAM CONTEXT 
+A. MPA Program Context 
+1. 
+This Project Appraisal Document (PAD) describes the proposed support to Somalia to expand affordable and 
+equitable access to COVID-19 vaccines under the COVID-19 Strategic Preparedness and Response Program (SPRP) using 
+the Multiphase Programmatic Approach (Global COVID-19 MPA), approved by the World Bank’s Board of Executive 
+Directors on April 2, 2020, and the vaccine Additional Financing (AF) to the SPRP approved on October 13, 2020 with 
+an overall Program financing envelope of up to US$18 billion.  The World Bank’s Global COVID-19 MPA AF is expected 
+to enable vaccination for up to 1 billion people, including in some of the poorest countries such as Somalia.  An approval 
+was granted to the Republic of Somalia to benefit from the SPRP MPA. 
+ 
+2. 
+The Coronavirus Disease (COVID-19) has been spreading rapidly across the world since December 2019, 
+resulting in dramatic losses in lives and livelihoods.  In March 2020, the World Health Organization (WHO) declared 
+COVID-19 a public health emergency of international concern.  As of July 26, 2021, the pandemic has resulted in roughly 
+194 million cases and nearly 4.2 million deaths in over 140 countries.  The pandemic has caused the largest global 
+economic contraction since the Great Depression, resulting in over US$12 trillion in economic losses and driving 
+millions of people into poverty.  Globally, the pandemic continues unabated with recurrent surges, emergent new 
+strains that are more lethal, and slow rollout of COVID-19 vaccination programs in most low- and middle-income 
+countries (LMICs).  These issues reinforce the urgency of accelerating deployment of COVID-19 vaccines in all LMICs, 
+including Somalia.  There is broad based recognition that economies will not recover fully until people feel they can 
+live, socialize, work, and travel with confidence.  The proposed Project to expand equitable access to safe and effective 
+COVID-19 vaccines in Somalia will form part of the World Bank’s emergency health response for one of the most fragile 
+countries in the world. 
+B. Updated MPA Program Framework 
+3. 
+Table-1 provides an updated overall MPA Program framework, including the proposed project for Somalia. 
+ 
+Table 1. MPA Program Framework 
+Phase  Project ID
+Sequential 
+or 
+Simultaneo
+us 
+Phase’s Proposed 
+DO* 
+IPF, 
+DPF 
+or 
+PforR
+* 
+Estimated 
+IBRD* 
+Amount  
+(US$ 
+million) 
+Estimated 
+IDA* 
+Amount  
+(US$ 
+million) 
+Estimate
+d Other 
+Amount  
+(US$ 
+million) 
+Estimated 
+Approval 
+Date 
+Estimated 
+Environme
+ntal & 
+Social Risk 
+Rating 
+ 
+P176956 
+ 
+Simultaneous 
+ 
+To prevent, detect, 
+and respond to the 
+threat posed by 
+COVID-19 and 
+strengthen national 
+systems for public 
+health preparedness 
+in Somalia 
+IPF 
+ 
+45.0 
+ 
+September 
+28, 2021 
+Substantial 
+Total 
+ 
+ 
+Board Approved Financing 
+Envelope 
+9,900 
+8,100 
+18,000 
+ 
+ 
+Note*: IPF- Investment Project Financing; DPF-Development Policy Financing; PforR-Program for Results; IBRD-International Bank for Reconstruction and Development; IDA-International Development Association.  
+ 
+4. 
+Other sources of financing.  Not Applicable 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+11 
+ 
+ 
+ 
+     
+ 
+C. Learning Agenda 
+5. 
+The Project under the MPA Program will support adaptive learning throughout implementation, as well as from 
+international organizations including United Nations Children’s Emergency Fund (UNICEF) and WHO.  The Global 
+COVID-19 MPA aims to support the following types of activities which will also benefit Somalia through cross-country 
+learning: (i) Vaccination readiness assessments: applying the Vaccine Readiness Assessment Framework (VRAF) and the 
+Vaccine Introduction Readiness Assessment Tool (VIRAT) to identify key gaps and remedial actions; (ii) Risk 
+communication strategy: developing strategies and tools to ensure adequate awareness of the benefits of the 
+vaccination program and to address  vaccine hesitancy; and (iii) Performance monitoring: developing tools for tracking 
+coverage; acceptability; and adverse effects.  Somalia will benefit from sharing experiences and early lessons with other 
+countries and tailoring strategies to its unique context. 
+ 
+II. 
+CONTEXT AND RELEVANCE 
+ 
+A. Country Context 
+ 
+6. 
+Somalia is among the poorest countries in the world with nearly 70 percent of the population living in poverty.  
+The country faces multiple challenges, including an ongoing armed insurgency, and frequent natural disasters (e.g., 
+droughts, floods, locust infestations), which have created humanitarian crises with millions displaced internally and 
+millions more living precariously.  Poverty, fragility, and insecurity are compounded by political crises and weak 
+institutional capacities, which hinder the delivery of basic services.  Fiscal capacity remains low with limited ability to 
+expand domestic resource mobilization.  With a population growth rate of almost 3 percent, the number of Somalis is 
+doubling every 24 years, placing higher demands on government’s limited ability to provide critical health and social 
+services. 
+ 
+7. 
+Somalia has been implementing a poverty reduction strategy and putting in place reforms focused on 
+macroeconomic and fiscal stability. These reforms aim to lay the foundation for inclusive economic growth and to 
+address the needs of the most vulnerable groups.  In March 2020, Somalia reached the Heavily Indebted Poor Countries 
+(HIPC) Initiative Decision Point, reopening access to concessional financing from the World Bank Group, including the 
+Somalia Crisis and Recovery Project (SCRP) (P173315), which has a US$20.5 million component to support the COVID-
+19 emergency health response and is providing assistance to train and finance female health workers in rural areas and 
+to pilot behavioral nudges through virtual technologies; a recently approved US$100 million health operation 
+(Improving Healthcare Services in Somalia—Damal Caafimaad) (P172031), which represents the cornerstone of the 
+World Bank’s engagement in Somalia, and the proposed Project that will support  the COVID-19 vaccination program. 
+ 
+8. 
+Somalia is also striving to enhance stability through institutional and political reforms, which began with the 
+adoption of a provisional constitution, and establishment of a Federal Government in 2012.  Four new Federal 
+Member States (FMS) were established, resulting in a total of five under the Federal Government of Somalia (FGS).1  
+Service delivery capacity of the states is constrained by several factors, including limited human resources, inadequate 
+ 
+1 The new FMS are Galmudug, Hirshabelle, Jubaland, and South-West State.  Puntland is a semi-autonomous state and Somaliland is a 
+self-declared independent territory. 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+12 
+ 
+ 
+ 
+     
+ 
+financial resources, ongoing armed insurgency in some states, and/or tensions between the FGS and some FMS and 
+Somaliland. 
+ 
+9. 
+The COVID-19 pandemic runs the risk of undermining the modest recent progress on economic and political 
+reforms in one of the most challenging country contexts in the world.  While Somalia has reported a cumulative total 
+of only 15,230 cases and roughly 800 deaths as of July 26, 2021, these figures likely underestimate the actual scope 
+and magnitude of the pandemic.  The cumulative positivity rate is 5.5 percent, and the cumulative case fatality rate is 
+estimated at 3.2 percent with males representing 76 percent of all cases. To tackle the pandemic, the government has: 
+(i) strengthened testing capacity at the National Public Health and Reference Laboratory in Mogadishu and established 
+testing capacity in Somaliland and Puntland; (ii) put in place rapid response teams; and (iii) expanded the country’s 
+intensive care unit bed capacity. Since the first case was confirmed in March 2020, there has been widespread local 
+transmission to all states, diverting limited resources towards the COVID-19 health response, triggering economic 
+disruptions, and exacerbating long-standing vulnerabilities and disparities.  Border closures have hurt trade, livestock 
+exports, and household incomes.2  Due to disruptions in economic activity stemming from lock down measures, the 
+economy contracted by about 1.5 percent in 2020. The growth outlook for 2021 is projected at around 2 percent, 
+compared to a pre-COVID 19 forecast of 3.2 percent.  
+ 
+10. 
+The situation appears to be worsening since February 2021, as Somalia has been experiencing a third wave 
+(Figure 1) with widespread and intense community transmission in all regions, and suspected emergence of new 
+variants.  The vaccination program is underway with the first 300,000 doses of the Astra Zeneca vaccines received in 
+March 2021 through the Covid Vaccine Access (COVAX) Facility that is expected to fund vaccines for 20 percent of the 
+population.3  Somalia has also received 200,000 doses of the Sinopharm vaccine from China and 2,500 doses of the 
+Sputnik vaccine from Russia. France also donated 108,000 doses of Astra Zeneca vaccine in July 2021. To ensure 
+equitable access, the allocation of the initial 300,000 doses was based on population of each federal member state 
+including Somaliland. As the rollout progressed, and different federal members states had varying acceptance rates, 
+there was a reallocation from low uptake areas to  Somaliland which enjoyed a higher uptake.  This process minimized 
+the risk of vaccine expiration, improved absorption rates, and augurs well for future deployment of vaccines in Somalia.  
+Out of the vaccines received from the COVAX Facility, nearly 80 percent was administered by early June 2021 with 
+Somalia doing relatively well in comparison to other countries in the region despite its multiple constraints (Figure 2).  
+Moreover, by mid-July over 90 percent had been administered.  Overall, roughly 23 percent of health workers; 43 
+percent of frontline workers; and 34 percent of the elderly have been vaccinated as of mid-July.  In total, less than 1 
+percent of the population has been fully vaccinated and 1.5 percent received at least one dose to date.  The majority 
+of the vaccinated who received the first dose consists of males (roughly 75 percent) who constitute the bulk of the 
+initial target groups (i.e., teachers, police, municipal officers and point of entry staff) and those residing in urban 
+settlements (92.5 percent) with easier access to health facilities.  Only a small fraction (less than 1 percent) of people 
+living in nomadic settlements and in camps for Internally Displaced Persons (IDPs) have been reached to date as mobile 
+clinics and outreach campaigns have only just started.  Women face various barriers, including limited social mobility, 
+and low health literacy with social mobilization efforts planned to support them to benefit from outreach activities 
+during next phase.  Modelling and projections show an elevated risk of transmission, underscoring the urgency of 
+accelerating the roll out of the COVID-19 vaccination program.   
+ 
+ 
+2 Daily wages have fallen by 27-33 percent compared to the five-year average. Source: Somalia Food Security Outlook. 
+3 The COVAX AMC is an initiative which aggregates vaccine supply and demand, with the goal of providing access to low and middle-
+income countries to cover 20 percent of the population by the end of 2021.   
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+13 
+ 
+ 
+ 
+     
+ 
+ 
+Figure 1. WHO COVID-19 Daily Situation Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+250
+16-Mar
+28-Mar
+9-Apr
+21-Apr
+3-May
+15-May
+27-May
+8-Jun
+20-Jun
+2-Jul
+14-Jul
+26-Jul
+7-Aug
+19-Aug
+31-Aug
+12-Sep
+24-Sep
+6-Oct
+18-Oct
+30-Oct
+11-Nov
+23-Nov
+5-Dec
+17-Dec
+29-Dec
+10-Jan
+22-Jan
+3-Feb
+15-Feb
+27-Feb
+11-Mar
+23-Mar
+4-Apr
+16-Apr
+28-Apr
+11-May
+23-May
+4-Jun
+16-Jun
+28-Jun
+10-Jul
+Confirmed cases 
+Reporting date
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+14 
+ 
+ 
+ 
+     
+ 
+ 
+Figure 2. Vaccines Received vs. Vaccines Administered - WHO 
+   
+ 
+B. Sectoral and Institutional Context 
+11. 
+Despite modest improvements over the past 15 years, Somalia’s health indicators lag both regional and global 
+averages.  Life expectancy is 56 years, maternal mortality is a staggering 692 per 100,000 live births, fertility remains 
+one of the highest in the world (about 7.0 births per woman), while stunting has been rising and is currently estimated 
+at 28 percent.  The burden of non-communicable diseases (NCDs) is rising and represents nearly 22 percent of Daily 
+Adjusted Life Years (DALYs) lost with these diseases mostly affecting those over 50 years, who are among the highest 
+at risk for COVID-19.  Women face multiple challenges, including gender-based violence (i.e. 12 percent of ever married 
+women reported physical violence during the 2020 Demographic and Health Survey even though this figure is likely to 
+underestimate the actual levels), and difficulties accessing services with men responsible for decisions around health 
+seeking behavior.  Coverage of essential health services remains extremely low due to both supply and demand side 
+constraints with only 21 percent of births occurring in health facilities; 31 percent of women receiving antenatal care; 
+and a meagre 11 percent of children fully immunized. 
+ 
+12. 
+Health sector capacity is limited and concentrated in urban areas.  Public health facilities are inadequate, 
+inequitably distributed and poorly equipped to provide quality care.  The availability of human resources (0.92 health 
+workers/1000 people) is below the WHO’s minimum standard (2.3 health workers/1000 people).  The national supply 
+chain faces ongoing challenges, but there have been some modest improvements in vaccine management, including 
+storage capacity, equipment and transport, and management information (Effective Vaccine Management Assessment, 
+2016).  The Government’s role in the provision of health services is limited with most services delivered by Non-
+Governmental Organizations (NGOs).  As a result of both supply and demand side impediments health service 
+utilization is low, particularly in the public sector, where it is estimated at 0.23 outpatient visits per person per year 
+and 0.81 hospital discharges per one hundred people per year Service Availability Readiness Assessment (SARA) in 
+2016.  By contrast, the private sector plays a key role in the delivery of health services in Somalia (providing roughly 60 
+percent of services and delivering 70 percent of medicines), primarily in urban areas, with patients preferring these 
+facilities due to the perceived higher quality and availability of drugs.  Pharmacies are one of the most accessible health 
+care delivery platforms for many Somalis.  Clan structures play a major role in determining where people access care, 
+highlighting the importance of involving community leaders in the COVID-19 immunization program.  Likewise, religious 
+Somalia 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+15 
+ 
+ 
+ 
+     
+ 
+leaders in Somalia are well respected and can also positively influence health seeking behaviour, including improving 
+the uptake of COVID-19 vaccines. 
+ 
+13. 
+Institutional capacity in the health sector is growing but remains modest.  The relatively young Federal Ministry 
+of Health (FMoH) established less than a decade ago aims to play its stewardship role in a challenging context of 
+managing multiple actors with limited human and financial resources.  While the FMoH has leadership structures and 
+some policies and procedures in place, its decision-making processes and management systems are not fully defined, 
+and capacity to manage programs independently is limited.  Reliance on external financial and technical assistance 
+remains high.  The capacity to regulate the private sector and to contract NGOs is limited and governance problems 
+have impeded the transparent management of the operations of the FMoH in the past.  The current Government has 
+demonstrated commitment to fight corruption, as evidenced by the passage of anti-corruption legislation in September 
+2019.  
+ 
+14. 
+Somalia’s Federal Member States’ (FMS) Ministry of Health (MoH) capacity is similarly weak. The capacities of 
+the FMS are variable with the four recently established states (Jubaland, South West, Hirshabelle, Galmudug) having 
+relatively modest capacities with few resources on-treasury (around US$100,000 a year), low budget execution rates, 
+few to no civil servants, and a high dependence on partners to provide stewardship for service delivery.  Puntland and 
+the self-declared independent territory of Somaliland are somewhat better off in comparison.  Puntland’s MoH is more 
+experienced in managing some health programs but also remains highly dependent on partner support with civil 
+servants representing only 26 percent of MoH staffing.  Somaliland has the strongest MoH capacity.  There is a need to 
+further delineate the roles and responsibilities of the FGS and FMS Ministries of Health (‘functional assignment’), to 
+make optimal use of the limited resources in the country.  The new US$100 million World Bank funded operation, 
+Improving Healthcare Services in Somalia Project (Damal Caafimaad), will support the FMoH to strengthen its 
+managerial, planning, budgeting, contracting and oversight capacities and will assist the FMS to bolster their 
+capacities.4 
+ 
+15. 
+The FMoH with support of partners is enhancing readiness to scale up the COVID-19 vaccination campaign.  
+The status of key activities and related issues can be summarized as follows: 
+• 
+A National Deployment and Vaccination Plan (NDVP) for COVID-19 Vaccines (February 2021) has been 
+elaborated in collaboration with key partners supporting the government, namely WHO and UNICEF (Box 1).  
+The NDVP outlines the main activities to be conducted in preparation for deployment of the vaccine and 
+includes a timetable of key actions.  The NDVP discusses the phased approach to the roll out of the COVID-19 
+vaccination campaign and the target groups for different stages across all FMSs along with potential sources of 
+financing (e.g., COVAX Facility, Gavi, the Vaccine Alliance, World Bank).  It outlines appropriate vaccination 
+delivery strategies for reaching different target groups and provides details on the deployment and 
+administration of COVID-19 vaccines (e.g. cold chain and personal protective equipment (PPE) requirements; 
+storage and distribution to Central Vaccine Store and sub-national stores).  The NDVP addresses human 
+resource needs, including training, mentorship, and supervisory support. Finally, the NDVP includes a detailed 
+ 
+4 The Damal Caafimaad Project will support the rapid expansion of an essential package of health and nutrition services and intensive 
+Government capacity development.  The operation will focus on high-impact services that will improve health outcomes and can be scaled 
+up across the population in target regions within available resources and service delivery capacity.  The project aims to develop the Federal 
+and State Ministries’ of Health capacity to act as stewards of the health sector, effectively governing the sector and building core functions 
+that will enable the Government to lead and manage the sector. 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+16 
+ 
+ 
+ 
+     
+ 
+discussion of the Communication, Demand Generation and Community Engagement Plan and identifies key 
+measures related to vaccine safety, data monitoring and surveillance.  The NDVP flags concerns over the 
+government’s very modest fiscal space capacity, and the need to avail funds for operating costs which are 
+relatively high in the Somali context compared to other countries.   
+• 
+Vaccine Readiness Assessment of the country’s vaccination capacity completed in April 2021, has generated 
+information on key strengths and major gaps to be addressed in the deployment of COVID-19 vaccines (Table 
+1), including the importance of: (i) financing vaccine deployment; (ii) strengthening human resource capacity; 
+and (iii) addressing vaccine hesitancy through tailored social mobilization strategies and continuous 
+engagement with local leaders and communities.   
+• 
+A COVID-19 Vaccine Survey published in June 2021 by the Somali Institute for Development Research and 
+Analysis (SIDRA) found a relatively high overall level of readiness (77 percent) to accept the vaccine once 
+available with some respondents citing concerns with vaccine effectiveness, and side effects. The major source 
+of COVID-19 information was social mobilizers (43 percent), followed by radio (15 percent) and health workers 
+(14 percent).  Another survey conducted by the Africa’s Voices Foundation in May 2021 using its multi-media 
+platform (Imaqal--- Listen to me) on urban youth found that women expressed more positive attitudes towards 
+vaccination (over 70 percent) than men (56 percent); and 14 percent of respondents mentioned trusting Allah, 
+highlighting the importance of the religious lens for vaccination-related communication, as was done during 
+the early COVID-19 prevention communication strategy.  Both studies noted the importance of developing 
+better targeted solutions, including greater use of trusted sources such as religious leaders, nomadic elders, 
+and influential figures who can serve as role models and expanded use of multiple platforms (e.g. radio, social 
+media, women’s groups, and the Somalia Social Mobilization Network successfully used for the polio 
+eradication campaigns).  A nationwide High Frequency Phone Survey conducted in January 2021, which had a 
+large sample size and was nationally representative found a high acceptance rate of COVID-19 vaccines if the 
+services are offered for free.  Acceptance rates were high for all groups, including females (91 percent), nomads 
+(95 percent), and IDPs (86 percent).  Acceptance rates ranged from 90 percent in Hirshabelle to 94 percent in 
+South West State.  Despite the positive views expressed in various surveys vaccine hesitancy was initially 
+problematic and required a redoubling of efforts that will need to be sustained. 
+• 
+The FMoH with support of partners has developed a National Vaccine Coverage and Purchase Plan (Table 2) 
+which is being continuously refined and updated.  Somali authorities aim to use a combination of strategies for 
+securing sufficient vaccines and ensuring equitable access, including use of the COVAX facility and the African 
+Vaccine Acquisition Trust (AVAT) convened by the African Union as well as donations from countries with 
+surplus stockpiles. 
+• 
+Authorities have set a bold target of vaccinating 70 percent of the population (roughly 11 million people) 
+through a combination of fixed and outreach sites.  Priority groups have been identified in line with the WHO 
+SAGE framework (Table 3), namely: (i) health and other frontline workers; (ii) elderly (over 50 years); (iii) people 
+with co-morbidities (e.g., cardiovascular diseases, hypertension and diabetes); and (iv) all remaining adults over 
+18 years of age, including people with disabilities and IDPs with community health workers and community 
+leaders expected to play key roles in identifying and registering difficult to reach groups.  Discussions are 
+underway on strategies for ensuring equitable distribution of vaccines considering the complex political 
+context.  To date, each member state was allocated a proportion of the vaccines received based on population 
+size and all have now administered most doses received.  Given the variable health system capacity as well as 
+the uneven uptake of the COVID-19 vaccine across member states, vaccine specific state deployment micro 
+plans are being developed and will need to be continuously updated. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+17 
+ 
+ 
+ 
+     
+ 
+• 
+Coordinating mechanisms have been established, including a National Coordination Committee (NCC), a 
+National Technical Working Group (NTWG), and an Incident Management Support Team (IMST) for the COVID-
+19 vaccination program.  The NCC and TWG collaborate closely with the IMST which coordinates the national 
+response to the pandemic, including the vaccination campaign. At the sub-national level, each state is to 
+establish sub committees which will be responsible for: planning and implementation; tracking progress on the 
+VIRAT and sharing information with the NCC and NTWG; identifying target groups for the vaccination program; 
+assessing the cold chain needs and ensuring functionality; investigating Adverse Event Following 
+Immunizations (AEFIs) in collaboration with National AEFI committee; and supporting data collections.  The 
+head of the FMoH Extended Program of Immunization (EPI) is the focal point who leads vaccine deployment 
+and planning in Somalia. The FMoH has been working in close collaboration with the State Ministries of Health 
+to ensure broad-based ownership.  The main roles and responsibilities of the FMoH EPI program has been to 
+prepare the application to the COVAX Facility; identify cold chain needs and make request to GAVI; lead 
+development of operational plans; and develop and share training guidelines, recording and reporting tools, 
+and guidelines on AEFI. 
+• 
+A National Regulatory Authority (NRA) has very recently been established with a mandate to ensure rapid 
+approval of COVID-19 vaccines. 
+• 
+According to the NDVP, there are modalities in place to enter into indemnity and liability agreements for 
+COVID-19 vaccines (Box 2).  
+• 
+The United Nations Mission to Somalia has established a One UN platform (UN COVAX Taskforce) to ensure the 
+coordinated rollout of COVID-19 vaccines, including support for supply chain and logistics, training, 
+communications, and resource mobilization.  UNICEF is providing support to monitor vaccine utilization and 
+minimize the risk of wastage and to track cold chain functionality and vaccine stock levels. 
+• 
+Strategies to ensure accountability, traceability and security of the COVID-19 vaccines have been identified, 
+including plans to deploy independent groups to facilitate third party monitoring. 
+• 
+A mobile telephone based electronic registration system, CommCare, was introduced to record patient 
+information and to handle vaccine safety surveillance (i.e., monitoring of adverse events) and to send SMS 
+reminders for second doses.  
+• 
+Deployment has been impeded by both demand and supply side constraints, including vaccine hesitancy fueled 
+by misinformation, and accessibility and security challenges.  In the start-up phase, the focus was on urban 
+areas and facility-based vaccination, and most recently this has been expanded to include outreach activities 
+tailored to different contexts.  The hybrid approach (facility-based and outreach) will enable the program to 
+reach in an equitable manner a larger proportion of the most vulnerable groups through multiple platforms 
+and customized vaccine uptake strategies. 
+Box 1:  Potential Supportive Roles of Development Partner Agencies 
+WHO 
+Financing amount  
+US$ million 
+Providing technical support to the National Immunization Technical Advisory Group to define 
+the COVID-19 vaccination policy, strategy, and targets and to address vaccine safety; to support 
+development of guidelines and training on AEFI surveillance; and to provide operational costs 
+for COVID-19 vaccine roll out. 
+US$14.9 
+UNICEF 
+ 
+Supporting development of guidelines and training for COVID-19 vaccination roll-out; 
+supporting the quantification and forecasting of supply needs; supporting the procurement 
+and installation of cold chain rooms and equipment at national and provincial levels. 
+US$12.9 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+18 
+ 
+ 
+ 
+     
+ 
+COVAX/GAVI  
+ 
+Providing vaccines to cover 20 percent of the population (COVAX); and providing technical and 
+financial support to strengthen cold chain capacity (GAVI). 
+ 
+World Bank 
+ 
+Providing financing for deployment of COVAX-supported vaccines and procurement of 
+additional vaccines. 
+ 
+US$45.0 
+ 
+ 
+Table 2: Vaccination readiness findings from the VIRAT/VRAF 2.0 assessment  
+Readiness domain 
+Readiness of government 
+Key gaps to address before and during 
+deployment 
+ 
+Planning and coordination 
+A National Coordinating Committee (NCC) for 
+COVID-19 vaccine introduction with terms of 
+reference, roles and responsibilities has been 
+established and is functional.  The frequency of 
+NCC meetings has been on ad hoc basis.  
+  
+A National Technical Working Group (NTWG) for 
+COVID-19 vaccine introduction with terms of 
+reference, roles and responsibilities has been 
+established.  The frequency of the TWG meetings 
+has been on ad hoc basis. 
+ 
+Identification and planning for the national vaccine 
+acquisition strategy (e.g. COVAX Facility, bilateral 
+purchase agreements, procurement through UN 
+agency, African Union) is underway.   
+  
+The planning and procurement of waste 
+management supplies and equipment has been 
+initiated and waste management protocols have 
+been identified. 
+  
+The Somalia-s COVID-19 NDVP, with input from 
+relevant bodies has been finalized and validated 
+through the Partners Platform in March 2021.    
+ 
+ 
+- The NCC lacks the sub-pillar structure 
+formalization to closely coordinate all 
+COVAX pillars.  
+ 
+ 
+-Procurement of waste management 
+supplies and equipment and 
+procurement of incinerators for 
+hospitals. 
+Budgeting 
+The inclusion of COVID-19 vaccine program costs 
+(e.g., vaccines, operating costs, human resources) 
+in government budgetary and/or planning 
+documents is underway but most will be funded 
+using external resources. 
+ 
+Management aspects of appropriations from the 
+MoF/Treasury are in place. 
+-The government’s weak domestic 
+resource mobilization capacity and 
+limited fiscal space implies that virtually 
+all activities will need to be funded by 
+development partners. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+19 
+ 
+ 
+ 
+     
+ 
+Regulatory 
+Regulatory measures are being put in place, 
+including: 
+ 
+An expedited regulatory process for approval of 
+COVID-19 vaccines, including timelines and 
+maximum number of days.  Use of the Astra 
+Zeneca vaccine produced by the Serum Institute of 
+India (AZ/SII) through the COVAX Facility was 
+approved.  However, the COVID-19 situation in 
+India has put a strain on the production of the 
+AZ/SII vaccine and may lead to delays in receiving 
+future shipments. 
+ 
+Regulatory procedures are in place for import 
+permits of COVID-19 vaccines and related supplies, 
+describing requirements and documents needed 
+to import COVID-19 vaccines and related supplies, 
+including taxes and tariffs. 
+ 
+Expedited import approval procedures from 
+appropriate authorities have been confirmed by 
+WHO. 
+ 
+Requirements and documents needed for release 
+of vaccines are clear and there is a system in place 
+to ensure COVID-19 vaccines can be released (lot 
+release) in less than two days by reviewing the 
+summary lot protocol only (testing is not required). 
+ 
+ 
+- The recently established national 
+regulatory authority requires support 
+to fulfill its mandate, including technical 
+assistance to complete the remaining 
+steps in the passage of the NMRA law.  
+ 
+-The FMoH will facilitate regulatory 
+issues in coordination with the WHO 
+and UNICEF.  As confirmed during 
+appraisal, the government will liaise 
+with the WHO to support capacity 
+building. 
+ 
+ 
+Prioritization, targeting, 
+surveillance 
+Priority target groups to be prioritized for 
+vaccination have been identified to reach 70 
+percent of the population to be vaccinated.  The 
+government will provide free COIVD-19 
+vaccination to all target groups. 
+ 
+Coordination with national COVID-19 disease 
+surveillance group to ensure relevant 
+epidemiological data is collected to inform 
+planning of subsequent rounds of COVAX procured 
+vaccines, if applicable, including outbreak 
+responses, is being ensured. 
+ 
+-The FGS, working in close collaboration 
+with relevant stakeholders, will 
+elaborate the detailed lists of priority 
+groups, including IDPs and other 
+disadvantaged groups.   
+ 
+-The FMS MoH and FMoH will 
+coordinate the identification pf target 
+populations through the standardized 
+process based on global guidelines 
+provided by the WHO. 
+Service delivery 
+Protocols for Infection Prevention Control (IPC) 
+measures including adequate PPE to minimize 
+exposure risk during immunization sessions have 
+been developed.  
+ 
+COVID-19 vaccine delivery strategies have been 
+developed and master list and strategy of service 
+providers, points of delivery, including fixed and 
+outreach, is being developed.  
+ 
+Identification of implementing agencies and 
+-Acquisition of IPC supplies and 
+materials to ensure health care workers 
+and beneficiaries are well protected 
+during the vaccination campaign. 
+ 
+-Lists of beneficiaries needs to be 
+finalized. 
+ 
+-Contractual arrangements with key 
+implementing agencies need to be 
+prepared, including Environmental and 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+20 
+ 
+ 
+ 
+     
+ 
+establishment of contractual agreements to 
+prepare for vaccine introduction is under way.  
+ 
+Protocols regarding vaccination consent, process 
+for agreeing to or refusing to be vaccinated, and 
+measures to protect those that refuse to be 
+vaccinated are being put in place as well as 
+Grievance Mechanism for the public and health 
+care and frontline workers. 
+ 
+Security Risk Management Protocols, including 
+security risk assessments (SRA) and security 
+management plan (SMP) need to be prepared. 
+ 
+Social Framework (ESF) requirements 
+ 
+-Protocols need to be disseminated. 
+ 
+-Security Risk Management Company 
+within the SCRP PIU to support 
+preparation process, as feasible. 
+Training and supervision 
+Development of a training plan across all 
+participating facilities to prepare for COVID-19 
+vaccine introduction that includes key groups of 
+participants, and content topic areas is under way. 
+ 
+Adaptation and translation of training materials 
+developed by the WHO and development of 
+additional training materials as outlined in the 
+training plan is well advanced and will need to 
+address ESF requirements, including Grievance 
+Mechanisms, Security Risk Management, and 
+CoCs. 
+ 
+Availability of security management plans to 
+safeguard the security of staff (e.g., during 
+vaccination campaigns) as well as security of 
+supplies at the central and/or regional storage 
+facilities and for in-transit of products are being 
+ensured. 
+ 
+Regulations are in place regarding personnel who 
+will be carrying out vaccinations, including all 
+staff/personnel/consultants engaged in such 
+activities, and include requirements related to 
+chemical, physical and biological substances, not 
+engaging in sexual exploitation and abuse and 
+sexual harassment, participation in training, 
+reporting and non-retaliation. 
+ 
+Virtual and/or in person trainings as outlined in the 
+training plan have been initiated. 
+-Training plan and training materials to 
+be disseminated; and support to be 
+provided for training health care 
+workers and other frontline workers 
+engaged in the vaccination program. 
+ 
+-Provide support to ensure staff safety 
+during vaccination campaigns, and to 
+facilitate safe distribution of vaccines in 
+country. 
+ 
+-Security management plans, per ESF, at 
+all levels will need to be approved by the 
+MoH and cleared by the World Bank. 
+ 
+-On-site supervisors will be deployed to 
+each service delivery outlet to monitor 
+and report on vaccination progress. 
+ 
+-Ensure Third Party Monitoring (TPM) 
+contract has a provision for verification 
+of security plans. 
+ 
+ 
+ 
+Monitoring and evaluation 
+Existing surveillance and monitoring framework 
+with a set of recommended indicators for COVID-
+19 vaccine, including gathering information from 
+facilities and contractors participating in vaccine 
+delivery, and ensuring necessary human resource 
+capacity and labor management procedures are in 
+place.  
+ 
+Monitoring tools and appropriate institutional 
+-Provide support to produce and 
+disseminate monitoring tools and to 
+publish daily vaccination updates on the 
+FMoH webpage. 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+21 
+ 
+ 
+ 
+     
+ 
+arrangements have been developed, including 
+vaccination cards/certificates, facility-based 
+nominal registers and/or tally sheets, vaccination 
+reports, medical records, and immunization 
+records. 
+ 
+Measures are in place for data protection, and 
+appropriate data governance regulation to 
+monitor legitimate, appropriate, and 
+proportionate use and processing of data which 
+may be routinely collected and managed in the 
+health information system. 
+ 
+Monitoring tools have been shared with eligible 
+vaccination providers. 
+ 
+Mechanism with multiple intake points has been 
+designed and is operational for providing feedback 
+and reporting grievances at all levels. 
+Vaccine, cold chain, 
+logistics, infrastructure 
+National logistics working group with appropriate 
+terms of reference and standard operating 
+procedures to coordinate COVID-19 vaccines and 
+ancillary product deployment has been established 
+and key roles and responsibilities have been 
+defined. 
+ 
+Distribution strategy has been developed: including 
+mapping the potential port(s) of entry, points of 
+storage (stores) and stocking, and fallback facilities 
+in the country with their respective cold chain 
+storage (2-8C, -20C, -60/70C) and transportation 
+capacity for vaccines and ancillary products, and to 
+ensure necessary human resource capacity. 
+ 
+Plans to provide for infrastructure needs, including 
+for energy (primary and back-up power, especially 
+in cold chain), IT/communications (including 
+internet connectivity) and water have been done. 
+ 
+Dry storage and cold chain capacity and 
+infrastructure need at all levels have been assessed 
+and key gaps identified. 
+ 
+COVID-appropriate standard operating procedures 
+(SOPs), protocols, or guidelines for collection and 
+disposal of medical waste, both hazardous and non-
+hazardous have been developed and shared with 
+relevant stakeholders.  
+ 
+Systems and protocols for tracking and monitoring 
+the stock management and distribution of vaccines 
+and key supplies through the Government's existing 
+Vaccine Logistics Management and Information 
+System (VLMIS) are being put in place. 
+ 
+-Provide support to address key gaps in 
+dry storage and cold chain capacity 
+(GAVI, UNICEF) with the World Bank to 
+provide complementary support, as 
+needed. 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+22 
+ 
+ 
+ 
+     
+ 
+Delivery and acceptance protocols are in place 
+ensuring 
+monitoring 
+arrangements, 
+and 
+supervisory focal points at each facility are being 
+identified. Security arrangements are being put in 
+place to ensure the integrity of COVID-19 vaccines 
+and ancillary products throughout the supply chain. 
+ 
+Somalia was recently allocated three ultra-low 
+temperature cold chain equipment by UNICEF. 
+ 
+Safety surveillance 
+Guidelines, procedures, and tools for planning and 
+conducting vaccine pharmacovigilance activities 
+(AEFI) have been developed, including 
+establishment of a AEFI committee to review 
+COVID-19 vaccine safety data. 
+ 
+Trained human resources are available to conduct 
+surveillance of events attributable to vaccination. 
+ 
+Plans for active surveillance of specific COVID-19 
+vaccine related adverse events have been 
+developed.  
+ 
+Roles, responsibilities, and a coordination 
+mechanism between relevant stakeholders (NRA, 
+EPI, MAH, MOH, WHO and others) for exchange of 
+COVID-19 vaccine safety information have been 
+developed and shared with relevant regional and 
+international partners. 
+ 
+Compensation schemes, in the event that there 
+are unintended health consequences as result of 
+vaccines, including no-fault liability funds, and 
+ensure that associated policies are being put in 
+place. 
+ 
+-Support dissemination of guidelines 
+and tools to strengthen surveillance 
+and provide additional training and 
+capacity building. 
+ 
+-Support and/or strengthen AEFI 
+committees at the FMS level to monitor 
+and improve AEFI surveillance. 
+Demand generation and 
+communication 
+A social mobilization and engagement strategy and 
+information awareness program to generate 
+demand, bolster confidence, and improve 
+acceptance is being developed, including strategies 
+to engage national and local media, and NGOs, to 
+leverage social media platforms. 
+ 
+Human resources for community outreach and risk 
+communication management are being put in 
+place at all levels, including crisis communications 
+preparedness planning. 
+ 
+Data collection systems are being put in place 
+including social media listening, rumor 
+management and assessing behavioral and social 
+data. 
+-Support the implementation and roll 
+out of the government’s social 
+mobilization and awareness raising 
+program to address the risk of vaccine 
+hesitancy and to strengthen uptake. 
+ 
+-Key activities to be addressed include: 
+development of a vaccine 
+champion/ambassador program with 
+members who are trusted sources of 
+information and influencers; 
+deployment of community mobilizers 
+and prominent religious leaders to raise 
+awareness at household level, reach 
+imams in large mosques to deliver 
+sermons on religious obligations of 
+safeguarding one’s health and those of 
+the community; support to national and 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+23 
+ 
+ 
+ 
+     
+ 
+state hotlines to function as  
+information clearing houses and to 
+support rumor/misinformation 
+tracking; creation of social media 
+materials and  audio visual quote cards 
+- 5 second clips of religious leaders, 
+health workers, nomads, and 
+traditional elders stating why they got 
+vaccinated; and conducting briefings  / 
+trainings with key journalists on 
+Frequent questions and answers about 
+vaccines – to facilitate discussions with 
+communities and gather human 
+interest stories. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+24 
+ 
+ 
+ 
+     
+ 
+Table 3: National Vaccine Coverage and Purchase Plan  
+ 
+Source of 
+financing 
+Population 
+targeted5 
+Vaccine(s) 
+Number 
+of doses 
+needed 
+Estimated 
+total 
+US$ (millions
+) 
+World 
+Bank’s VAC 
+Status 
+Contract 
+status 
+Vaccines already arrived 
+in the country 
+% 
+Number 
+Source 
+Name 
+Price 
+(US$/d
+ose) 
+Shipping 
+(US$/do
+se) 
+ 
+ 
+ 
+ 
+Name 
+Doses 
+ 
+Phase 1  
+3% (470,115 people - healthcare workers; border patrol staff, police, municipal workers, and teachers) 
+ 
+COVAX vaccines  
+ 
+2.4 
+370,115 
+COVAX 
+AZ/SII + 
+Pfizer + 
+TBC  
+0 
+0 
+2 doses 
+0  
+4 SRA + 
+WHO EUL 
+Delivered 
+and in the 
+process of 
+being 
+deployed 
+AZ/SII  
+300,000  
+(March 
+2021) 
+ 
+Donations from 
+China 
+0.6  
+100,000 
+China 
+Sinopharm 
+0 
+0 
+2 doses 
+0 
+WHO EUL 
+Delivered 
+and in the 
+process of 
+being 
+deployed 
+Sinopharm 
+200,000 
+(April 
+2021) 
+ 
+Phase 2 
+ 
+17.6% (2,758,013 people – population over 50 years old and people living with co-morbidities) 
+ 
+COVAX vaccines 
+and IDA grant for 
+deployment 
+17.6 
+2,758,013 
+COVAX 
+J&J + Astra 
+Zeneca + 
+Pfizer   
+0 
+0 
+2 doses 
+0 
+4 SRA + 
+WHO EUL 
+Planned 
+ 
+  
+ 
+Phase 3 
+ 
+49.4% (7,741,242 people – all other adults over 18 years old, including people with disabilities and IDPs) 
+ 
+IDA grant for 
+vaccine 
+procurement and 
+deployment 
+10.0 
+1,567,053 
+AU/AVA
+T 
+J&J + other 
+vaccines 
+8.43 
+0 
+1  
+13,000,000 
+ 4 SRA + 
+WHO EUL 
+Expression 
+of interest 
+to be 
+signed  
+  
+  
+ 
+ 
+5 The FRS uses a population estimate of 15,670,529 inhabitants, as per the Population Estimation Survey (PESS) of 2021. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+25 
+ 
+ 
+ 
+     
+ 
+Source of 
+financing 
+Population 
+targeted5 
+Vaccine(s) 
+Number 
+of doses 
+needed 
+Estimated 
+total 
+US$ (millions
+) 
+World 
+Bank’s VAC 
+Status 
+Contract 
+status 
+Vaccines already arrived 
+in the country 
+% 
+Number 
+Source 
+Name 
+Price 
+(US$/d
+ose) 
+Shipping 
+(US$/do
+se) 
+ 
+ 
+ 
+ 
+Name 
+Doses 
+ 
+Bilateral donors  
+10.0 
+1,567,053 
+To be 
+confirmed 
+To be 
+confirmed 
+0 
+0 
+1 or 2 
+doses 
+   0 
+to be 
+determined 
+Ongoing 
+discussions 
+ 
+ 
+ 
+To be confirmed 
+31.8 
+4,987,955 
+COVAX 
+To Be 
+Confirmed 
+7  
+0 
+2 doses 
+0 
+4 SRA + 
+WHO EUL 
+Pending 
+ 
+ 
+ 
+National Total 
+goals as per 
+NDVP 
+70% 
+10,969,370 
+  
+Multiple 
+  
+  
+  
+To be 
+confirmed 
+  
+  
+  
+500,000 
+ 
+ 
+[1] The FRS uses the estimation of 15,670,529 people as its total population.
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+26 
+ 
+ 
+ 
+     
+ 
+Table 4: Priority groups for vaccination  
+ 
+Ranking of vulnerable 
+group, or inclusion in 
+which phase 
+Population group 
+  
+Number of 
+people 
+ 
+% of 
+population 
+ 
+First 
+Health care workers; border patrol staff, police, municipal 
+workers, and teachers 
+470,115 
+3.0 
+Second  
+People with co-morbidities, elderly people (over 50 years 
+old) 
+2,758,013 
+17.6 
+  
+Third 
+All other adults over 18 years of age, including people with 
+disabilities and IDPs 
+7,741,242 
+49.4 
+Total 
+ 
+10,969,370 
+70.0 
+ 
+Box 2:  Liability and Indemnification Issues in Vaccine Acquisition 
+Key Points: 
+• 
+The rapid development of vaccines increases manufacturers’ potential liability for AEFI. 
+• 
+Manufacturers want to protect themselves from this risk by including immunity from suit and liability clauses, 
+indemnification provisions, and other limitation of liability clauses in their supply contracts. 
+• 
+Contractual provisions and domestic legal frameworks can all operate to allocate that risk among market 
+participants, but no mechanism will eliminate this risk entirely. 
+ 
+For COVAX-financed vaccines for AMC countries: 
+• 
+COVAX has negotiated model indemnification provisions with manufacturers for vaccines purchased and supplied 
+under the COVAX AMC. 
+• 
+In providing vaccines through COVAX AMC, COVAX requests COVAX AMC Participants to have in place an 
+indemnity agreement directly with manufacturers, and the necessary indemnity and liability frameworks for that 
+purpose – either in the form of the COVAX model indemnification arrangements or prior bilateral arrangements 
+with manufacturers. 
+• 
+The COVAX Facility will have a no-fault compensation scheme for AMC countries as part of its risk mitigation 
+strategy. This will cover vaccines supplied only through COVAX AMC. 
+• 
+Somalia will have to consider what it will take to implement these indemnification provisions (including statutory 
+implementation) and how they can avail of the benefits of the no-fault compensation scheme. 
+ 
+For vaccines purchased outside of COVAX: 
+• 
+Somalia will need to enter direct indemnification arrangements with manufacturers. 
+• 
+Somalia does not currently have legislation in place to provide statutory immunity for manufacturers. Somalia 
+does not have national no-fault compensation scheme.  The recently established NMRA is filling the gap on the 
+authorization of importation, relying on recommendations of WHO EUL and other countries that have SRAs. 
+• 
+Adoption of any such indemnification provisions or compensation scheme would have to be in accordance with 
+Somalia’s own national strategy and framework. 
+ 
+Possible World Bank support to Somalia, depending on needs, may include: 
+Information sharing on: (i) statutory frameworks in Organization for Economic Cooperation and Development countries 
+and other developing countries; and (ii) overall experience in other countries; (ii) training and workshops for government 
+officials to familiarize them with the issues; and (iii) provision of Hands on Enhanced Implementation Support( HEIS )for 
+World Bank-financed contracts. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+27 
+ 
+ 
+ 
+     
+ 
+C. Relevance to Higher Level Objectives  
+16. 
+The Project is aligned with World Bank Group (WBG) strategic priorities, particularly the WBG’s mission to end 
+extreme poverty and boost shared prosperity.  The Project will support the cost of expanding affordable and equitable 
+access to safe and effective Project COVID-19 vaccines in Somalia under the COVID-19 SPRP using the MPA, approved 
+by the Board on April 2, 2020, and the vaccine Additional Financing (AF) to the SPRP approved on October 13, 2020.  
+The SPRP is focused on strengthening preparedness while the AF is focused on improving access to COVID-19 vaccines.  
+The Project is aligned with the World Bank’s support for national plans and global commitments to strengthen COVID-
+19 vaccination.  The Project complements both WBG and development partner investments in the COVID-19 
+emergency health response and broader health systems strengthening in Somalia.  The WBG remains committed to 
+providing a fast and flexible response to the COVID-19 epidemic, including accelerated roll out of COVID-19 vaccination 
+programs, utilizing all WBG operational and policy instruments and working in close partnership with Somali 
+authorities and representatives of other agencies (e.g., COVAX Facility, African Vaccine Acquisition Trust, UNICEF, 
+WHO). The Project is consistent with the World Bank Group Country Partnership Framework for Somalia (FY19-22), 
+discussed by the Board on September 25, 2018 (Report No. 124734-SO), including the objective of improving the 
+quality and equity of basic services. The Project will contribute primarily to the objective to “Improve delivery systems 
+for more inclusive social services” (Objective 1.3) by expanding equitable access to life saving COVID-19 vaccines to 
+groups at greatest risk of getting COVID-19.  The Project is also aligned with the World Bank Group Strategy for 
+Fragility, Conflict, and Violence (FCV) 2020-2025 (February 2020), that underscores the importance of inclusive and 
+effective social sector service delivery. To this end, the rapid scale up of the COVID-19 vaccination campaign is critical 
+as part of the World Bank’s broader objective of strengthening the social contract and the legitimacy of the state and 
+ultimately helping Somalia transition out of fragility over the long-term. 
+ 
+17. 
+   The proposed national COVID-19 vaccination program is in line with this vision to the extent that it proposes 
+to expand access to efficacious vaccines in an equitable fashion and free of charge to all vulnerable groups, using 
+multiple delivery channels (e.g. community outreach, health facilities, NGOs, private sector).  The Project is also 
+consistent with the Somalia’s Ninth National Development Plan which prioritizes improving health access and 
+outcomes and emphasizes collaboration and cooperation with non-state actors for health service delivery, which is 
+consistent with some of the key implementation modalities proposed under the Project. 
+D. Lessons Learned  
+18. 
+Early lessons from the COVID-19 health response in Somalia as highlighted in the NDVP, and lessons from 
+other FCV countries have been incorporated into the design and rollout of the vaccination program.  Key lessons 
+relate to the importance of: (i) carrying out social mobilization efforts to educate health workers and community 
+members about COVID-19, including the benefits of the vaccination program to address concerns over vaccine 
+hesitancy  and improve vaccine uptake; (ii) training health workers and community-based workers on the health 
+response and vaccination campaign to ensure readiness to deploy vaccines; (iii) strengthening coordination between 
+government agencies, implementing partners, and communities; (iv) contracting experienced organizations to support 
+key activities (e.g. security, implementation support); (v) designing a multi-pronged strategy for deploying vaccines in 
+a complex and diverse environment taking into account both demand and supply side impediments; (vi) protecting 
+health workers to ensure their safety; and (vii) maintaining close community contact, using community and health 
+facility based workers as well as volunteers.   
+ 
+19. 
+The project builds on the experience with the implementation of Somalia’s COVID-19 health response, 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+28 
+ 
+ 
+ 
+     
+ 
+including SCRP (P173315) and Recurrent Cost and Reform Financing (RCRF) Project II and III (P167224 and P173731).  
+The Contingent Emergency Response Component (CERC) funded activities under the SCRP supported the 
+Government’s initial emergency health response to the pandemic. The project also provided resources for 
+improvement of hospital infrastructure and supplies for care of COVID-19 patients.  The female community health 
+workers hired by Government with support from the RCRF project provided the much-needed initial response and 
+proved instrumental in contact tracing, risk communication, and health education with this platform to be leveraged 
+for the COVID-19 vaccination program.   Building on the experience and lessons from these two operations, several 
+strategic priorities have been identified for the COVID-19 vaccination campaign,  including the: (i) roll out of the Risk 
+Communication and Community Engagement Strategy to disseminate key messages through media and in person 
+strategies to enhance public and target group understanding of key aspects of COVID-19 and to increase confidence 
+and uptake of the COVID-19 vaccines; key ongoing or proposed activities include: deployment and monitoring of Social 
+Mobilizers to disseminate preventive messages, reaching people through community awareness sessions, targeting 
+different groups, supporting religious leaders to address refusals and to make mosque announcements, disseminating 
+messages through the radio/TV/social media, and trusted local leaders and celebrities, ensuring that medical staff and 
+other public service providers serve as role models and promote vaccination in places target groups frequent (e.g. 
+mosques, markets, tea shops) and rumor tracking and social listening to feed into adaptive and granular 
+communication strategies, which represent elements of good practice; (ii) training of health workers at the community 
+and hospital levels; (iii) introduction of Infection Prevention and Control measures to protect health staff and the 
+general public; and (iv) support for coordinating the national COVID-19 response.  The project design also leverages 
+on the positive experience with the CERC activities of the SCRP that are being implemented through contractual 
+arrangements with experienced organizations (i.e., World Health Organization (WHO), United Nations Children's Fund 
+(UNICEF), International Organization for Migration (IOM)) with clear lines of accountability and well-defined results, 
+and in collaboration with the FMoH to ensure it remains in charge of the overall national COVID-19 response.  The 
+SCRP has a detailed Security Management Framework in place supported by a specialist security risk management 
+company that has proven effective in addressing security concerns.  While delays have been encountered in preparing 
+the UN contracts, the World Bank team will provide support in this process to enhance chances of an accelerated 
+start-up.  Drawing on early results from these activities and a rapid review of what is working so far and increased 
+granularity in communication strategies, the Project will adopt a simplified design. 
+ 
+20. 
+The Project has also incorporated lessons from the health program experience under the Recurrent Cost and 
+Reform Project, as well as other World Bank-supported projects in Somalia. Key design features based on these 
+operations include close attention to capacity development as part of the design; using flexible modalities tailored to 
+different target groups and geographic areas of the country; ensuring strong TPM; and commencing the roll out of the 
+vaccination campaign through a phased approach, targeting key groups and geographic areas, and gradually 
+expanding the implementation platforms.   
+ 
+III. 
+PROJECT DESCRIPTION 
+21. 
+The Project is being prepared under the procedures provided for under the World Bank Policy on Investment 
+Project Financing (hereafter the Investment Project Facility (IPF) Policy) Section III paragraph 12: Projects in Situations 
+of Urgent Need of Assistance or Capacity Constraints, as approved by the World Bank (memo dated June 13, 2021).  
+The proposed Somalia COVID-19 Emergency Vaccination Project (P176956) meets both criteria under the IPF Policy 
+Section III paragraph 12 when the borrowers/beneficiaries are deemed to: (i) be in urgent need of assistance because 
+of a natural or man-made disaster or conflict; or (ii) experience capacity constraints because of fragility or specific 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+29 
+ 
+ 
+ 
+     
+ 
+vulnerabilities (including for small states), given the urgency of expanding vaccination coverage, and considering the 
+ongoing fragility in the country. 
+ 
+22. 
+World Bank financing for Project COVID-19 vaccines and deployment will follow the World Bank’s Vaccine 
+Acceptability Criteria (VAC). As of April 16, 2021, the World Bank will accept as threshold for eligibility of IBRD/IDA 
+resources in COVID-19 vaccine acquisition and/or deployment under all World Bank-financed projects: (i) the vaccine 
+has received regular or emergency licensure or authorization from at least one of the Stringent Regulatory Authorities 
+(SRA) identified by WHO for vaccines procured and/or supplied under the COVAX Facility, as may be amended from 
+time to time by WHO; or (ii) the vaccine has received WHO Prequalification (PQ) or WHO Emergency Use Listing (EUL). 
+Outside of the scope of this Project, the Government is also considering the acquisition of vaccines that do not 
+currently meet the World Bank’s VAC.  Any proposed vaccine contracts, within the scope of this Project, will be shared 
+with the World Bank for review. The country’s regulatory authority remains responsible for its own assessment of the 
+Project COVID-19 vaccine safety and efficacy and is solely responsible for the authorization and deployment of the 
+vaccines in country. 
+ 
+A. Development Objectives 
+ 
+23. 
+The Project objectives are aligned to the results chain of the COVID-19 SPRP and to the results chain of the AF 
+to the SPRP.    
+ 
+24. 
+The MPA Program Development Objective (PrDO) is to prevent, detect and respond to the threat posed by 
+COVID-19 and strengthen national systems for public health preparedness. 
+ 
+25. 
+The Project Development Objective (PDO) is to support the Federal Republic of Somalia to acquire and deploy 
+Project COVID-19 vaccines and to strengthen national immunization capacity. 
+ 
+B. Project Components 
+ 
+26. 
+The Project is being proposed at a crucial juncture in Somalia’s response to COVID-19 with the latest surge in 
+cases and the recent startup of the vaccination program with more vaccines expected soon.  The Project will play a 
+critical role in enabling affordable and equitable access to Project COVID-19 vaccines for Somalia by addressing some 
+of the key gaps identified in the VIRAT/VRAF assessments and in the NDVP, including support for operating costs (e.g., 
+in country transport, training, supply chain, communications) and acquisition of additional vaccines.  The proposed 
+Project is expected to play the central role in financing the country’s vaccination campaign with other partners 
+providing primarily technical support and modest funding (Box 1). 
+ 
+27. 
+The proposed Project will include two mutually reinforcing components.  The first component (Vaccine 
+Deployment and Acquisition) will support investments to bring immunization systems and service delivery capacity 
+to the level required to successfully deliver COVID-19 vaccines at scale and contribute to strengthening national 
+immunization capacity.  To this end, the Project aims to assist the government of Somalia working with key partners 
+(UNICEF, WHO) to overcome key bottlenecks identified in the COVID-19 Vaccine readiness assessments and to support 
+the main strategies of the vaccination program outlined in the NVDP.  The component will also support the financing 
+of additional Project COVID-19 vaccines over and above those acquired through the COVAX Facility.  Based on the 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+30 
+ 
+ 
+ 
+     
+ 
+latest discussions, the additional vaccines will be acquired through the African Union’s AVAT facility.  The existing 
+mechanism used by UNICEF with endorsement of the FMoH and the MoH of Somaliland for allocating COVID-19 
+vaccines to Somaliland will be maintained as it is working effectively.  The population-based formula for allocating 
+vaccines to states and making adjustments progressively based on utilization will also be retained during the 
+deployment phase.  The second component (Implementation Management) will support program coordination and 
+project management as described in greater detail below.   
+ 
+28. 
+Component 1. Vaccine Deployment and Acquisition (US$31.0 million equivalent).  The main objective of this 
+component is to support the deployment of the COVAX acquired vaccines to cover about 20 percent of the target 
+population and other Project COVID-19 vaccines which meet World Bank financing criteria to cover up to an additional 
+10 percent of the target population.  During appraisal, it was confirmed that lack of funds to support vaccine 
+deployment represents a major impediment to the successful rollout of the national campaign, hence the World Bank 
+is expected to play a key role in this process by providing the needed financing to the Government. To this end, the 
+Project will support the MoH to contract UNICEF to manage:  
+ 
+(i) 
+Sub-component 1.1 (US$11.0 million equivalent): Transportation, supply chain and logistics capacity 
+strengthening for in country distribution from the main warehouse in Nairobi to three key locations (i.e., 
+Mogadishu for mainland Somalia; Garowe, Puntland; and Hargeisa, Somaliland), including climate sensitive 
+vaccination planning and purchase of climate friendly cold-chain equipment to complement financing by other 
+partners; this would include acquisition of vaccination supplies (syringes and safety boxes) and related 
+equipment for vaccine administration; purchase/or repair of climate friendly cold chain equipment (as 
+needed), such as solar direct drive refrigerators and low Global Warming Potential refrigerators; recruitment 
+of additional personnel for distribution to lower levels; and provision of operating funds for vaccine 
+deployment, including for security related matters during deployment, to ensure the safety of providers and 
+property.  In addition, in the case of Somaliland and Puntland, UNICEF will transfer funds for last mile 
+distribution of vaccines and for Somaliland for supervision.  In the case of the FMoH, UNICEF will pay suppliers 
+directly. 
+ 
+(ii) 
+Sub-component 1.2 (US$5.0 million equivalent): Social mobilization efforts, to increase confidence in vaccines, 
+improve acceptability, and expand uptake will be a major focus of the Project; to this end, the operation will 
+support the design and roll out of the national risk-communication activities to promote community 
+participation in the COVID-19 vaccination campaigns; this will include developing and refining communication 
+materials to tailor messages to different groups, carrying out community outreach activities, mobilizing local 
+and religious leaders to raise awareness, using multiple sources of information, including pharmacies, 
+developing and piloting a vaccine/ambassador program with trusted sources of information; promoting 
+school-based activities using teachers to raise awareness; conducting social mobilization efforts to address 
+vaccine hesitancy; supporting national and state hotlines to serve as clearing houses for accurate information 
+and for rumor tracking; and creating and disseminating social media and audio visual materials to encourage 
+vaccination and to share results publicly;  given the complex context in Somalia, interventions will be tailored 
+to the specific needs of different groups, in particular women and other vulnerable and hard to reach 
+populations (IDPs, nomads); to monitor perceptions, attitudes and beliefs and strengthen vaccine 
+acceptability, the Project will also support operational research with a view to better understand and address 
+obstacles and enablers to vaccine uptake by sex, geographic and socio-economic group. 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+31 
+ 
+ 
+ 
+     
+ 
+(iii) 
+Sub-component 1.3 (US$13.0 million equivalent): Acquisition of additional Project COVID-19 vaccines through 
+the AVAT mechanism to reach an additional 10 percent of the targeted population; the World Bank financing 
+would adopt a portfolio approach that would be adjusted during implementation in response to the evolving 
+situation in country and to the rapidly changing global market for vaccines; all Project COVID-19 vaccines to 
+be procured would meet the World Bank’s VAC .  
+ 
+(iv) 
+Sub-component 1.4 (US$2.0 million equivalent): Health care waste management, including handling of waste 
+in flood-prone areas, and occupational health; and support for waste management and disposal supplies, 
+collection, transportation, and disposal of waste. 
+ 
+29. 
+Component 2. Implementation Management (US$14.0 million equivalent). The Project will support the 
+national COVID-19 vaccination program by strengthening planning and implementation capacity at different levels 
+(e.g., national, and federal member state).  To this end, the Project will fund the following activities:  
+ 
+(i) 
+Sub-component 2.1 (US$7.0 million equivalent): Program Management Support: Contract the WHO to provide 
+technical support to the MoHs at national, Federal Member State level, and Somaliland to enhance 
+monitoring and evaluation and oversight, including bolstering capacity to implement the vaccination program 
+and to handle regulation of vaccine safety; elaborate contingency plans for safe vaccine delivery in case of 
+climate emergencies; and track and monitor the impact of the vaccination program (i.e., coverage, 
+effectiveness and safety), including climate related activities; this would include technical support to: 
+develop/adapt tools and systems for reporting; design/adapt Vaccine Safety Monitoring tools; develop/adapt 
+systems for AEFI reporting and injection safety; develop/adapt data collection tools and use digital 
+technologies for enhanced monitoring and reporting; design of a monitoring and registration system for 
+vaccinated individuals; and strengthening the Integrated Disease Surveillance and response system to detect 
+AEFIs for COVID-19 vaccination, including dissemination of guidelines.  This sub-component would cover the 
+cost of human resources, including salaries and allowances for personnel engaged in the vaccination program, 
+including trained vaccinators employed by the respective MoHs or by NGOs; and recruitment of additional 
+human resources to ensure personnel are not diverted from delivery of essential health services, using the 
+existing mechanism used by the WHO in the ongoing COVID-19 vaccination program.  In addition, under this 
+sub-component, the Government will mobilize frontline health workers from the legacy Polio eradication 
+program to support the COVID-19 vaccination campaign.  
+ 
+(ii) 
+Sub-component 2.2 (US$5.0 million equivalent): Supervision, Coordination, Human Resources Management 
+and Training: Provide planning and implementation support to the MoHs at the state level and to Somaliland; 
+this would include financing of onsite supervision missions, logistical support, and provision of technical 
+assistance, to respond to the needs of FMS, including strengthening capacity for planning, budgeting and 
+programming activities; and handling quality control and safeguards monitoring.  In addition, the federal MoH 
+will be responsible for training of health workers and community workers, and other personnel responsible 
+for the delivery, storage, handling, transportation, including training on continuing vaccination campaigns 
+during climate shocks, with technical support from the UN agencies as needed. 
+  
+(iii) 
+Sub-component 2.3(US$2.0 million equivalent): Implementation Support: Support recruitment of an 
+organization to facilitate third party independent monitoring; and recruitment of a Security Risk Management 
+Company which would conduct security risk assessments and prepare security management plans for each 
+Federal Member State and Somaliland.  
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+32 
+ 
+ 
+ 
+     
+ 
+30. 
+Table 5 below includes a summary of the proposed cost by component.  The bulk of the proposed financing will 
+be used to support vaccine deployment (i.e., transportation, supply chain and logistics; waste management), vaccine 
+acquisition, and risk communication (67 percent), and the balance (23 percent) for implementation management (i.e. 
+human resources, M&E, supervision and coordination, TPM, security). 
+ 
+Table 5: Project cost and financing  
+ Project Components 
+ IDA Financing 
+Trust Funds 
+Total 
+Component 1: Vaccine Deployment and Acquisition 
+• 
+Transportation, supply chain and logistics 
+capacity strengthening 
+• 
+Social mobilization efforts 
+• 
+Acquisition of additional project COVID-19 
+vaccines  
+• 
+Health care waste management 
+31.0 
+11.0 
+ 
+5.0 
+13.0 
+ 
+2.0 
+0 
+31.0 
+Component 2: Implementation Management 
+• 
+Program Management Support 
+• 
+Supervision, Coordination, Human Resources 
+Management and Training 
+• 
+Implementation Support 
+ 
+14.0 
+7.0 
+     5.0 
+     
+     2.0 
+0 
+14.0 
+Total Costs 
+45.0 
+0 
+45.0 
+ 
+Table 6: Summary of vaccine sourcing and World Bank financing 
+ 
+National plan 
+target 
+(population %) 
+Source of vaccine financing and population 
+coverage 
+Specific 
+vaccines 
+and 
+sourcing 
+plans 
+Doses 
+purchases 
+with World 
+Bank 
+financing  
+Estimated 
+allocation of 
+World Bank 
+financing 
+COVAX 
+grant 
+World Bank-
+financed 
+through AVAT 
+or direct 
+purchase 
+Other* 
+Phase 1- (3%) 
+2.4% 
+ 
+  
+China – 0.6% 
+AstraZeneca 
+Sinopharm 
+  
+  
+Purchase: 
+US$13,000,000 
+Deployment: 
+US$18,000,000 
+Other: 
+US$14,000,000 
+HR, M&E, 
+supervision, TPM, 
+security  
+Phase 2- (17.6%) 
+17.6% 
+  
+ 
+J&J, Pfizer 
+ 
+  
+ 
+ 
+Phase 3 (49.4%) 
+ 
+ 
+ 
+ 
+ 
+ 
+0% 
+Roughly 10% 
+39.4% Additional 
+vaccines to be acquired 
+through a combination 
+of strategies: 
+donations, and bilateral 
+agreements with details 
+to be firmed up 
+J&J and other 
+TBD 
+1,186,234 
+* Other: includes coverage financed by the Government, bilaterally, from other development partners, etc. 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+33 
+ 
+ 
+ 
+     
+ 
+C. Project Beneficiaries 
+ 
+31. 
+The main project beneficiaries will be the groups targeted for the COVID-19 vaccination program, including: (i) 
+health and other frontline workers, (ii) elderly (over 50 years), and (iii) people with co-morbidities.  Given the large 
+population of Internally Displaced Persons (estimated at 2.6 million) in Somalia, a special effort will be made to ensure 
+equitable access to this group.  Ultimately, the entire population of Somalia will benefit, as the country expands 
+vaccination coverage and makes progress toward herd immunity. 
+ 
+IV. 
+ IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements  
+32. 
+Given the emergency nature of the COVID-19 vaccination campaign and the limited government capacity to 
+deliver services and provide stewardship to the sector, the proposed institutional arrangements will rely primarily 
+on engaging a limited number of UN agencies (i.e., UNICEF and WHO) that will work under the government’s 
+technical leadership.  The added value of the United Nations agencies is four-fold.  First, these agencies will help 
+reinforce Government leadership and strengthen capacity of key structures, enabling Somali authorities to assume 
+greater responsibility in the medium to long-term while the Damal Caafimaad Project builds stewardship capacity at 
+national and state levels, including contracting health services to non-state actors and strengthening regulatory 
+functions. Second, given the mandates of the UN agencies and the pivotal role they currently play in the ongoing 
+deployment of COVID-19 vaccines they are well placed to provide technical and implementation support.  The two UN 
+agencies have been effectively supporting the COVID-19 vaccination rollout with the Project representing the 
+continuation of reliance on well-functioning structures and systems for serving the FMoH, FMS, as well as Somaliland.  
+Third, the UN agencies are well positioned to promote cross fertilization of experiences and lessons on COVID-19 
+vaccination between Somalia and other countries.  Fourth, the UN agencies have established mechanisms to support 
+service delivery in Somaliland where the current political impasse makes it impossible for the FGS MoH to directly 
+support service delivery or channel funds from the national level.  Hence, all funds would be channeled through the 
+two UN agencies which will be responsible for accounting on how funds are spent to the World Bank.  In the case of 
+the FMoH, UNICEF will pay suppliers directly on behalf of the FMoH. 
+ 
+33. 
+The Project will leverage capacity of two UN agencies which have been collaborating with the Ministry of 
+Health to provide continuous support for the implementation of the COVID-19 vaccination program which will be 
+the overall responsibility of the FMoH and state MoHs.  To this end, the UN agencies (i.e., UNICEF, WHO) will be 
+contracted by the Government to provide technical and operational support and ensure equitable access to COVID-
+19 vaccines.  Both institutions are well placed to provide technical support given their strong track record supporting 
+the government’s national COVID-19 health response, and their in-depth knowledge of Somalia.  UNICEF, through a 
+contract with the  FMoH and in close coordination with the FMS, will be responsible for supporting the quantification 
+and forecasting of supply needs; facilitating the acquisition and distribution of vaccines, managing the procurement 
+and installation of cold chain equipment, supporting the communication strategy to ensure accurate information 
+about COVID-19 vaccines, strengthen vaccine demand, and bolster uptake, and conducting related training for the 
+COVID-19 vaccination roll out.  UNICEF will also transfer funds to the MoH of Puntland, and Somaliland for the last 
+mile distribution of vaccines.  The WHO will also pass on funds to Somaliland for supervision of vaccination sites.  WHO 
+will continue working closely with the FMoH and the FMS, as well as with the MoH Somaliland, providing technical 
+support for the vaccination campaign, including support to the national Immunization Technical Advisory Group for 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+34 
+ 
+ 
+ 
+     
+ 
+policy formulation, target setting and vaccine safety; development and introduction of guidelines and training on AEFI 
+surveillance; helping track and monitor vaccination coverage and adverse vaccine reactions; and supporting related 
+human resources training.  Contracts will be prepared to delineate the roles and responsibilities of the two UN 
+agencies and the expected deliverables, drawing on experience with contracting these institutions for the COVID-19 
+emergency health response under the CERC of the SCRP.  The team being recruited for the Project Coordination and 
+Implementation Unit (PCIU) at the FMoH will support the preparation of the contracts to enable a rapid start-up of 
+activities once the Project becomes effective. 
+ 
+34. 
+The Project will leverage the recently established PCIU within the MoH to ensure strong ownership of the 
+government’s COVID-19 vaccination program and to promote close coordination with activities to be funded under 
+the new health sector operation.  To date, the PCIU has recruited a Procurement Specialist and a Financial 
+Management Specialist.  The PCIU is being further strengthened through the recruitment of a broader team of 
+specialists (e.g. security, management, environmental and social safeguards, gender-based violence) to manage the 
+Damal Caafimaad Project.  As a condition of Project effectiveness, the Recipient will hire or second to the PCIU a: (i) 
+social development specialist; (ii) environment specialist; (iii) GBV Specialist; and (iv) Security Specialist; with (iii) and 
+(iv) to be shared with the Damal Caafimaad Project.    The Project will also engage an environment specialist who will 
+work 50 percent of the time in all Federal Member States (FMS); and where the Damal Caafimaad Project does not 
+have,  one full time social/GBV specialist, to oversee and monitor implementation of the Project, with the support of 
+the FGS specialists (or in the case of Somaliland UN social specialists), in accordance with this Environment and Social 
+Commitment Plan (ESCP), including the Environment and Social Management Framework (ESMF) and its inclusion 
+plan,  Sexual Exploitation Abuse and Harassment (SEAH) Prevention and Response Plan, Stakeholder Engagement Plan 
+(SEP), Labor Management Plan (LMP), and Security Management Plans (including those managed by contractors).  
+Finally, the FMoH will recruit additional Immunization Specialists at FGS (Senior) and at all FMS levels.  To further 
+enhance technical capacity and to strengthen the FMoH’s leadership functions, the Project will rely on the National 
+Vaccine Coordination Committee for COVID-19 which is comprised of the Director Generals of the MoHs at the Federal 
+and FMS levels to provide oversight.  The PCIU will handle financial management, procurement, M&E, and 
+environmental and social safeguards arrangements and will oversee intergovernmental coordination between the FGS 
+and FMS MoHs.  A simple Project Operational Manual (POM) will be prepared to describe the roles and responsibilities 
+of key stakeholders and the monitoring, technical and operational arrangements under the Project.  The POM will 
+make clear that the country’s regulatory authority is responsible for its own assessment of the project COVID-19 
+vaccine safety and efficacy, and is solely responsible for the authorization and deployment of the vaccines in the 
+country. 6  The World Bank will provide hands on training and capacity building to the PCIU to ensure it becomes 
+operational quickly and will be able to effectively handle management, coordination, oversight, and implementation 
+support for the COVID-19 vaccination program.   
+ 
+35. 
+The PIU of the SCRP within the Federal MoF and Planning (MoP) which manages the implementation of the 
+World Bank-funded non-COVID-19 vaccine response activities will provide short-term critical support to the MoH 
+PCIU, including on security risk management and procurement. This will enable the World Bank to respond 
+ 
+6 The Project Operational Manual will clarify that “compliance with Vaccine Eligibility Criteria (VAC) is required for all Project COVID-19 
+Vaccines.  The VAC does not constitute an approval, validation or endorsement by the Association of the Project COVID-19 Vaccine(s) 
+safety or efficacy.  The FDA of the Federal Republic of Somalia is responsible for carrying out the regulatory, technical and due diligence 
+assessment of the Project COVID-19 Vaccine(s) safety and efficacy, and is solely responsible for authorization, deployment of the Project 
+COVID-19 Vaccine(s) in Somalia. 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+35 
+ 
+ 
+ 
+     
+ 
+expeditiously and efficiently to the government’s request to accelerate the roll out of COVID-19 vaccines in Somalia 
+while the PCIU in the MoH gets fully functional.  To this end, the SCRP-PIU which has been effectively managing the 
+COVID-19 response activities (total value of $37.5 Million), will provide short-term support to the MoH PCIU by 
+allowing the health specialists hired under the SCRP to be availed on technical issues to the new MoH PCIU, facilitating 
+the rapid effectiveness of the new Project while recruitment for the FMoH PCIU is completed. Based on their recent 
+experience contracting WHO, and UNICEF to support the implementation of the COVID-19 response, the procurement 
+specialist in the unit will guide the procurement specialist at the new PCIU based at the MOH on how to expedite the 
+recruitment of these agencies for the purpose of COVD-19 vaccine emergency project.   The SCRP has contracted the 
+services of a Security Risk Management Company (SRMC) to ensure coherence with provision under Environmental 
+and Social Standard (ESS)1 and 4.  The MoH will extend the SRMC’s security risk management support to this Project.  
+Through the preparation and implementation process of the CERC-COVID 19 emergency health response, the SCRP-
+PIU has gained substantial experience managing World Bank operations, working closely with the MoH team and with 
+the main UN agencies (UNICEF, WHO) engaged in the COVID-19 response in Somalia. Leveraging SCRP-PIU’s 
+experience at this critical juncture in the COVID-19 vaccination program will support the MoH to hit the ground 
+running more quickly.   
+ 
+36. 
+The institutional arrangements by component aim to ensure that the government retains overall 
+responsibility for the COVID-19 vaccination campaign while leveraging existing capacities of the UN agencies.  
+Component 1 (Vaccine Deployment and Acquisition) will be supported through a contract with UNICEF with clear 
+deliverables and milestones with the MoH tracking performance and authorizing payments. Component 2 
+(Implementation Management) will be carried out through several modalities, including: (i) a contract with the WHO 
+which would be responsible for Program Management Support, including remuneration of human resources, as the 
+government systems continue to be strengthened and eventually become more agile; as in the case of UNICEF, every 
+effort would be made to ensure that the Government retains key decision-making power over the scope and timing 
+of all activities; (ii) allocation of operating costs for the MoH for supervision, and coordination of activities as well as 
+recruitment and training of human resources; and (iii) contracts for TPM and for security management to ensure 
+transparency and safety in the execution of the national COVID-19 vaccination program.  The table below provides 
+further details on roles and responsibilities of key stakeholders. 
+ 
+Table 7: Roles and Responsibilities of Key Stakeholders, by Component and Sub-Component 
+ 
+ 
+FMoH 
+FMS MoH 
+UNICEF 
+WHO 
+Component 1: 
+Vaccine 
+Deployment and 
+Acquisition 
+ 
+ 
+ 
+ 
+Transportation, 
+supply chain and 
+logistics capacity 
+strengthening 
+-Assist with vaccine delivery 
+by air if/when needed 
+-Facilitate vaccine, 
+clearance, and 
+support logistic and 
+transport for vaccine 
+distribution at state 
+level    
+ 
+-Ensure availability of 
+trained vaccinators 
+-Ship and deliver 
+vaccines to 
+Mogadishu, Garowe, 
+and Hargeisa 
+ 
+-Transfer funds to 
+Federal Member 
+States and 
+Somaliland 
+ 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+36 
+ 
+ 
+ 
+     
+ 
+ 
+FMoH 
+FMS MoH 
+UNICEF 
+WHO 
+for last mile 
+distribution of 
+vaccines; and pay 
+suppliers on behalf of 
+the FMoH  
+ 
+Social 
+mobilization 
+efforts 
+-Lead the design of demand 
+generation messages and 
+facilitate dissemination 
+through local channels 
+ 
+- Engage mass media and all 
+available channels for 
+citizen engagement and 
+broadcasting of demand 
+generation messages 
+-Contribute to design 
+of demand generation 
+messages and 
+facilitate 
+dissemination through 
+local channels 
+-Develop and adapt 
+tools and support 
+community 
+engagement and 
+social mobilization 
+ 
+Acquisition of 
+additional project 
+COVID-19 
+vaccines 
+-Lead the quantification and 
+forecasting of vaccine 
+demand based on 
+utilization of the vaccines 
+ 
+-Procure vaccines 
+based on expressed 
+government needs 
+ 
+ 
+ 
+ 
+ 
+ 
+Health care waste 
+management 
+-Coordinate the 
+development and 
+availability of standardized 
+waste management 
+protocols at all vaccination 
+sites 
+-Ensure availability of 
+standardized waste 
+management 
+protocols at all 
+vaccination sites 
+-Procure waste 
+management 
+supplies 
+-Provide technical 
+support to develop 
+waste management 
+protocols 
+ 
+Component 2: 
+Implementation 
+Management 
+ 
+ 
+ 
+ 
+Program 
+Management 
+Support 
+-Implement vaccine safety 
+monitoring guidelines, 
+manage, and report cases 
+and ensure tools and 
+procedures are 
+standardized 
+-Ensure standardized 
+guideline and tools 
+are available and used 
+at state level; and 
+manage, and report 
+cases at state level 
+through FMoH 
+ 
+-Handle payment of 
+staff salaries and 
+incentives; and provide 
+technical assistance on 
+vaccine safety 
+monitoring 
+management of AEFIs, 
+data management, and 
+COVID-19 surveillance 
+monitoring, and 
+evaluation, including 
+data analysis and 
+dashboard 
+development and use 
+Supervision, 
+-Support micro-planning 
+-Participate in TOT 
+ 
+-Provide technical 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+37 
+ 
+ 
+ 
+     
+ 
+ 
+FMoH 
+FMS MoH 
+UNICEF 
+WHO 
+Coordination, HR 
+Management and 
+Training 
+and coordination; provide 
+training to FMS teams on 
+micro-planning and related 
+issues; lead recruitment of 
+additional staff as needed; 
+use trainers from the MoH 
+pool of experts and others 
+to be recruited to provide 
+training 
+ 
+training on micro-
+planning at central 
+level (FMOH), support 
+cascade training on 
+micro-planning and 
+support coordination 
+and supervision at 
+state level 
+ 
+-Lead recruitment of 
+additional staff at 
+state level as needed 
+support to FMOH and 
+FMS on development 
+of training materials 
+and procedures for the 
+micro planning, and 
+supervision tools 
+ 
+-Provide funds to 
+Somaliland for 
+supervision of 
+vaccination sites 
+Implementation 
+Support 
+-Contract TPM firm and 
+Security Risk Management 
+Company 
+ 
+ 
+ 
+ 
+ 
+B. Results Monitoring and Evaluation Arrangements 
+37. 
+The Project’s Results Framework will include key indicators to measure overall progress in the COVID-19 
+vaccination campaign.  These indicators will monitor and measure: (i) vaccine coverage in relation to the targets in 
+the national plan; (ii) vaccine acceptance and absorption, which are critical; and (iii) vaccine safety which contributes 
+to quality and acceptability.  These indicators will be disaggregated by sex and will consider citizen engagement.  The 
+main PDO and intermediate indicators will be as follows:  
+ PDO Indicators: 
+• 
+Proportion of population fully vaccinated, which is included in the priority population targets defined in 
+the national plan, by sex. 
+ 
+Intermediate Indicators: 
+• 
+Proportion of the population which expresses acceptance of COVID-19 vaccines, by sex. 
+• 
+Proportion of vaccine doses administered against allocations, by state. 
+• 
+Number of social mobilization campaigns on COVID-19 vaccination. 
+• 
+Number of Effective Vaccine Management (EVM) assessments completed with composite scores of 80 
+percent or higher. 
+• 
+An AEFI system is put in place and is capable of reporting adverse effects. 
+ 
+C. Sustainability 
+38. 
+There is strong government commitment in Somalia to the COVID-19 vaccination program which augurs well 
+for sustainability.  The proposed Project will play a catalytic role in providing urgently needed financing for vaccine 
+deployment, creating an enabling environment for other partners to support Somalia’s vaccination program.  The 
+Project will support activities that further strengthen vaccine deployment and delivery capacity which is critical given 
+the country’s weak health system.  The capacity building and training activities will contribute to bolstering Somalia’s 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+38 
+ 
+ 
+ 
+     
+ 
+health care system, especially the immunization program.  Key stakeholders in Somalia at the national and state levels 
+are being mobilized to bolster commitment and ownership.  The UN partners are also heavily engaged in Somalia’s 
+COVID-19 response, including the roll out of the vaccination program, and are expected to play a key role in 
+strengthening the institutional framework for the program which will also contribute to sustainability.   
+ 
+V. 
+ PROJECT APPRAISAL SUMMARY 
+A. Technical, Economic and Financial Analysis  
+39. 
+There is a strong economic case for investment in the COVID-19 vaccination and for public provision and 
+financing considering the substantial health and economic benefits and given the high public good nature of 
+immunization.  It is well recognized that disease outbreaks cause severe economic shocks, including loss of jobs, drops 
+in productivity and economic growth; and inflict lasting damage on stocks of both human and physical capital leading 
+to drops in economic productivity and slowing long-term growth (UNDP Human Development Report, 2014).  As noted 
+in the Global Economic Prospects (June 2020), the ongoing pandemic has triggered a global crisis that, in addition to 
+the enormous human toll, is leading to the deepest global recession since the Second World War, pushing millions 
+into extreme poverty and causing trillions of dollars in economic losses.  Cumulative global losses across 2020 and 
+2021 are estimated to exceed US$12 trillion.  While the full impact of the pandemic in Somalia may not yet be fully 
+understood or documented the economic outlook has been worsened by the pandemic and livelihoods have been 
+seriously disrupted in a country where most of the population is already living in poverty.  The successful deployment 
+of COVID-19 vaccines in Somalia represents the best option for saving lives, protecting livelihoods, and restoring 
+growth with benefits expected to exceed vaccine-related costs.  The effective administration of COVID-19 vaccines 
+will also avoid the health care costs of additional cases of infection and protect the modest gains made in recent years 
+in essential health services.   
+ 
+40. 
+The value added of the World Bank's support to Somalia is substantial.  The value added is three-fold.  First, 
+World Bank financing is expected to play a major role in supporting the national program in this fragile context where 
+most development partners provide humanitarian assistance and where both governments and NGOs depend heavily 
+on external financing.  Second, World Bank technical assistance, working in close collaboration with other agencies 
+(i.e., UNICEF, WHO) will be critical to guiding and informing the roll out of the COVID-19 vaccination program which 
+requires regular information on vaccine acquisition strategies and opportunities.  Third, as noted above, Somalia’s 
+participation in the MPA will provide numerous opportunities for learning and knowledge sharing with the other 
+participating countries.  The learning agenda is substantial and includes a wide range of issues around vaccine 
+readiness assessments, risk communications, and performance monitoring.  
+ 
+B. Fiduciary 
+Procurement 
+ 
+41. 
+Procurement will be carried out in accordance with the World Bank’s Procurement Regulations for IPF 
+Borrowers (Procurement Regulations), dated November 2020; the Guidelines on Preventing and Combating Fraud 
+and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, revised July 1, 2016; and the provisions 
+stipulated in the Financing Agreement.  
+42. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). The World Bank’s New 
+Procurement Framework (NPF) will apply to this Project. In this regard, the client will prepare a PPSD to formulate the 
+ 
+The World Bank 
+ 
+Somalia COVID-19 Emergency Vaccination Project (P176956) 
+ 
+ 
+39 
+ 
+ 
+ 
+     
+ 
+best procurement approaches/solutions to be used during implementation.  The PPSD will include a summary of 
+procurement risks, mitigation measures, an action plan and proposed procurement implementation support and 
+supervision plan. The preparation of the PPSD has been deferred to the implementation stage in accordance with 
+paragraph A.3 in Section III of the World Bank Guidance: “Procurement in Situations of Urgent need of Assistance or 
+Capacity Constraints.” 
+ 
+43. 
+Procurement implementation arrangements. The Project will be managed by the recently established Project 
+Coordination Implementation Unit (PCIU) responsible for the recently approved World Bank funded health operation 
+(Damal Caafimaad) within the FMoH.  The PCIU will be responsible for overall project coordination, and technical 
+oversight.  The FMoH has limited capacity and previous experience with World Bank financed operations.  To mitigate 
+this risk, the PIU has already recruited a qualified Procurement Specialist and a Financial Management Specialist. The 
+PIU will be further strengthened through the recruitment and/or deployment of additional technical, fiduciary, and 
+environmental and social safeguards experts. The SCRP PIU which manages the implementation of the World Bank-
+funded Contingent Emergency Response Component activities that have supported the COVID-19 emergency health 
+response will provide short-term advice and support in contracting the two main technical agencies involved in the 
+COVID-19 vaccination program (i.e., UNICEF, WHO).  The SCRP PIU will provide contracted security risk management 
+expertise to support the Project activities. 
+ 
+44. 
+The FMoH capacity will be enhanced through on-the job training and the World Bank will also provide a need-
+based training periodically during the Project implementation. The National Vaccine Coordination Committee for 
+COVID-19 will provide technical oversight. 
+ 
+45. 
+Main procurement activities.  In view of the emergency nature of the Project activities and fragility of the 
+country, the most appropriate procedures for procurement of COVID-19 related goods and services and technical 
+assistance services would be Direct Selection of UN agencies, NGOs and/or private sectors vendors.  To this end, the  
+main procurement activities under the Project will consist of: (i) contracting of UN agencies (e.g., UNICEF, WHO) which 
+will be responsible for acquisition of transportation and supply chain equipment, including cold chain equipment (as 
+needed); vaccines that follow the World Bank’s VAC; training and capacity building; communications outreach 
+activities; and  waste management supplies and equipment; (ii) recruitment of a Security Risk Management Company 
+which will be responsible for conducting risk assessments and preparin

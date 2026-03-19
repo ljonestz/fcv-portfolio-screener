@@ -1,0 +1,2998 @@
+ 
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4973  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT PAPER 
+ 
+ON A  
+ 
+PROPOSED SECOND ADDITIONAL GRANT 
+ 
+IN THE AMOUNT OF SDR 106.40 MILLION 
+(US$143.00 MILLION EQUIVALENT) 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR THE 
+ 
+SHOCK RESPONSIVE SAFETY NET FOR HUMAN CAPITAL PROJECT 
+ 
+ 
+June 7, 2022 
+ 
+ 
+ 
+ 
+Social Protection and Jobs Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+This document has a restricted distribution and may be used by recipients only in the performance of their 
+official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS 
+ 
+(Exchange Rate Effective April 30, 2022) 
+ 
+Currency Unit = SOS (Somali Shilling) 
+US$1 = SOS 578.50 
+US$1 = SDR 0.74 
+ 
+ 
+ 
+ 
+FISCAL YEAR 
+ 
+January 1 – December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Amit Dar 
+Practice Manager: Paolo Belli 
+Task Team Leaders: Afrah Alawi Al-Ahmadi, Ashiq Aziz 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+AF 
+Additional Financing 
+MoLSA 
+Ministry of Labor and Social Affairs 
+ASA 
+Advisory Services and Analytics 
+MPA 
+Multiphase Programmatic Approach 
+CERC 
+Contingent Emergency Response Component 
+NDP 9 
+Ninth National Development Plan 
+CFM 
+Complaints and Feedback Mechanism 
+NSPSC 
+National Social Protection Steering Committee 
+CMB 
+Cost of Minimum Expenditure Basket 
+PDO 
+Project Development Objective 
+COVID-19 
+Coronavirus Disease 2019 
+PIU 
+Project Implementation Unit 
+CPF 
+Country Partnership Framework 
+POM 
+Project Operations Manual 
+CSC 
+Community Selection Committees 
+PPSD 
+Project Procurement Strategy for Development 
+CWG 
+Cash Working Group 
+SCALED-
+UP 
+Somalia Capacity Advancement, Livelihoods and 
+Entrepreneurship through Digital Uplift Project 
+EAFS 
+External Assistance Fiduciary Section 
+SCRP 
+Somalia Crisis Recovery Project 
+ECT 
+Emergency Cash Transfer 
+SDR 
+Special Drawing Rights 
+ESCP 
+Environmental and Social Commitment Plan 
+SDWG 
+Somalia Donor Working Group 
+ESF 
+Environmental and Social Framework 
+SEAH 
+Sexual Exploitation and Abuse / Sexual Harassment 
+ESRS 
+Environmental and Social Review Summary 
+SEP 
+Stakeholders Engagement Plan 
+ESS 
+Environmental and Social Standards 
+SeMP 
+Security Management Plan 
+FAM 
+Famine Action Mechanism 
+SMP 
+Social Management Plan 
+FAO 
+Food and Agriculture Organization 
+SNBS 
+Somalia National Bureau of Statistics 
+FCDO 
+Foreign, Commonwealth and Development Office 
+SNHCP 
+Shock Responsive Safety Net for Human Capital Project 
+FCV 
+Fragility, Conflict and Violence 
+SNLRP 
+Shock Responsive Safety Net for Locust Response Project 
+FGS 
+Federal Government of Somalia 
+SPWG 
+Social Protection Working Group 
+FMFA 
+Financial Management Framework Agreement 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+FMS 
+Federal Member States 
+SURP II 
+Somalia Urban Resilience Project Phase II 
+GBV 
+Gender-Based Violence 
+SWALIM 
+Somalia Water and Land Information Management 
+GBVAP 
+Gender-Based Violence Action Plan 
+TPM 
+Third-Party Monitoring 
+GDP 
+Gross Domestic Product 
+UN 
+United Nations 
+GRM 
+Grievance Redress Mechanism 
+UNHCR 
+United Nations High Commissioner for Refugees 
+GRS 
+Grievance Redress Service 
+UNICEF 
+United Nations Children’s Fund 
+HIPC 
+Heavily Indebted Poor Countries 
+USC 
+Use of Country Systems 
+IDA 
+International Development Association 
+USR 
+Unified Social Registry 
+IDPs 
+Internally Displaced Persons 
+WAPR 
+Water for Agropastoral Productivity and Resilience Project 
+IMF 
+International Monetary Fund 
+ 
+ 
+IOM 
+International Organization for Migration 
+ 
+ 
+IPC 
+Integrated Food Security Phase Classification 
+ 
+ 
+ISR 
+Implementation Status and Results Report 
+ 
+ 
+LIC 
+Low Income Country/Countries 
+ 
+ 
+M&E 
+Monitoring and Evaluation 
+ 
+ 
+MIS 
+Management Information System 
+ 
+ 
+ML/TF 
+Money Laundering and Terror Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+    
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 7 
+ 
+II. 
+DESCRIPTION OF ADDITIONAL FINANCING .................................................................... 15 
+ 
+III. KEY RISKS ..................................................................................................................... 20 
+ 
+IV. APPRAISAL SUMMARY .................................................................................................. 22 
+ 
+V. WORLD BANK GRIEVANCE REDRESS .............................................................................. 28 
+ 
+VI    SUMMARY TABLE OF CHANGES ..................................................................................... 29 
+ 
+VII   DETAILED CHANGES ...................................................................................................... 29 
+ 
+VIII. RESULTS FRAMEWORK AND MONITORING ................................................................... 32 
+ 
+  
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 1 of 38 
+ 
+ 
+      
+BASIC INFORMATION – PARENT (Shock Responsive Safety Net for Human Capital Project - P171346) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+IBRD/IDA 
+Afrah Alawi Al-Ahmadi 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P171346 
+Investment Project 
+Financing 
+HAES2 (10211) AECE2 (6542) 
+Social Protection & Jobs 
+  
+Implementing Agency: Ministry of Labor and Social Affairs 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+ 
+No 
+ 
+Approval Date 
+Closing Date 
+Expected 
+Guarantee 
+Expiration Date 
+Environmental and Social Risk Classification 
+08-Aug-2019 
+31-Aug-2023  
+Substantial 
+ 
+Financing & Implementation Modalities  Parent 
+[  ] Multiphase Programmatic Approach [MPA] 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 2 of 38 
+ 
+Development Objective(s) 
+ 
+The project development objective is to provide cash transfers to targeted poor and vulnerable households and 
+establish the key building blocks of a national shock-responsive safety net system. 
+ 
+Ratings (from Parent ISR) 
+ RATING_DRAFT_NO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+22-Nov-2019 
+18-Jun-2020 
+22-Dec-2020 
+24-Jun-2021 
+14-Jan-2022 
+Progress towards 
+achievement of 
+PDO 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall 
+Implementation 
+Progress (IP) 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall ESS 
+Performance 
+MU 
+ 
+MU 
+ 
+MS 
+ 
+S 
+ 
+S 
+ 
+Overall Risk 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Financial 
+Management 
+S 
+ 
+S 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+Project 
+Management 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Procurement 
+S 
+ 
+S 
+ 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+Monitoring and 
+Evaluation 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Second Additional Financing for the Shock Responsive Safety 
+Net for Human Capital Project - P178730) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P178730 
+Second Additional 
+Financing for the Shock 
+Responsive Safety Net for 
+Cost Overrun/Financing 
+Gap, Restructuring, Scale Up 
+Yes 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 3 of 38 
+ 
+Human Capital Project 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+IBRD/IDA 
+23-Jun-2022 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+ 
+ 
+30-Apr-2025 
+No 
+ 
+ 
+Is this a regionally tagged project? 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities  Child 
+ 
+ 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+[  ] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+IBRD 
+ 
+ 
+ 
+  
+ 
+ % 
+IDA 
+ 175.00 
+  87.65 
+  80.61 
+    
+ 
+52 % 
+Grants 
+ 
+ 
+ 
+  
+ 
+ % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Second Additional Financing for the Shock Responsive 
+Safety Net for Human Capital Project - P178730) 
+  
+ 
+ 
+ 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 4 of 38 
+ 
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+175.00 
+143.00 
+318.00 
+Total Financing 
+175.00 
+143.00 
+318.00 
+of which IBRD/IDA  
+175.00 
+143.00 
+318.00 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+ 
+DETAILSNewFinEnh1- Additional Financing 
+World Bank Group Financing 
+     International Development Association (IDA) 
+143.00 
+          IDA Grant 
+143.00 
+ 
+   
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+0.00 
+ 143.00 
+   0.00 
+ 143.00 
+National PBA 
+0.00 
+ 143.00 
+   0.00 
+ 143.00 
+Total 
+0.00 
+143.00 
+   0.00 
+143.00 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+[    ] Yes   [ ✔ ] No 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 5 of 38 
+ 
+ 
+ESStandards 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Not Currently Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Not Currently Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+ESStandardsNote 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Social Protection & Jobs 
+ 
+Contributing Practice Areas 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 6 of 38 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Afrah Alawi Al-Ahmadi 
+Team Leader (ADM 
+Responsible) 
+ 
+HAES2 
+Ashiq Aziz 
+Team Leader 
+ 
+HSASP 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+ 
+EAERU 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist (ADM Responsible) 
+ 
+EAEG1 
+Abdirahman Zeila Dubow 
+Environmental Specialist (ADM 
+Responsible) 
+ 
+SAEE2 
+Raymond Simon Maina 
+Kirwa 
+Social Specialist (ADM 
+Responsible) 
+ 
+SAES2 
+Denis Nikitin 
+Team Member 
+ 
+HAES2 
+Dhahabu Ibrahim Shair 
+Team Member 
+ 
+SAES2 
+Khalid Ahmed Ali 
+Moheyddeen 
+Team Member 
+ 
+HMNSP 
+Late Felix Lawson 
+Team Member 
+ 
+WFACS 
+Mariam Denise Brain 
+Team Member 
+ 
+HAES1 
+Martin M. Serrano 
+Counsel 
+ 
+LEGAM 
+Matuna Mushfeqa Mostafa 
+Team Member 
+ 
+HMNSP 
+Nadia Selim 
+Team Member 
+ 
+HAES2 
+Nyabicha Omurwa Onang'o Team Member 
+ 
+EAEG1 
+Peggy Ayako Kwendo 
+Team Member 
+ 
+AEMSO 
+Roberto Claudio Sormani 
+Team Member 
+ 
+HECSP 
+Sonia Plaza 
+Team Member 
+ 
+EAEF1 
+Tewodros Assefa Besrat 
+Team Member 
+ 
+HAES1 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+   
+ 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 7 of 38 
+ 
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+A. Introduction 
+ 
+1. 
+This Project Paper seeks approval of the World Bank Board of Executive Directors for an additional Grant in the 
+amount of SDR 106.40 million (US$143.00 million equivalent) as a Second Additional Financing (AF) for the Somalia 
+Shock Responsive Safety Net for Human Capital Project (SNHCP) (the parent Project, P171346). The proposed AF would 
+scale up the SNHCP to respond to the current drought crisis affecting the country and ensure the continuity of a regular 
+safety net program which delivers much needed cash assistance to chronically poor and vulnerable households who have 
+been disproportionately affected by persistent shocks such as cyclical droughts and floods, the coronavirus disease 
+(COVID-19) pandemic and the 2020-21 desert locust plague, among others. The proposed AF will include a restructuring 
+to enable investments under the parent Project to support vertical and horizontal scale up of the safety net program 
+effectively. It would not entail a revision of the Project Development Objective (PDO) or implementation arrangements 
+but would require updates to the parent Project’s components and costs, results framework, and closing date. Given that 
+the country remains characterized by fragility, conflict, and violence (FCV) and low institutional capacity, the proposed 
+AF is being processed in accordance with paragraph 12 of Bank Policy on Investment Project Financing (IPF), covering 
+situations of urgent need or capacity constraints. 
+ 
+2. 
+The parent Project aims to provide cash transfers to targeted poor and vulnerable households and establish the 
+key building blocks of a national shock-responsive safety net system. The Project (originally US$65 million, approved on 
+August 8, 2019, and made effective on September 17, 2019) had helped to establish Somalia’s first safety net program – 
+Baxnaano – which is intended to address chronic poverty and vulnerability with adaptive features allowing it to act in 
+response to the various shocks consistently afflicting the country. The parent Project initially financed cash transfers for 
+200,000 households, with children under five years of age, in selected districts across Somalia. A first AF (P176368) in the 
+amount US$110 million equivalent, approved on June 17, 2021, and made effective on September 10, 2021, subsequently 
+increased the duration of Baxnaano support for the same beneficiary cohort to ensure that efforts at improving human 
+capital could be maintained. The proposed second AF would ensure the program is able to respond to the urgent food 
+security needs of poor and vulnerable populations affected by the prevailing drought crisis which began in late 2021 and 
+has reached alarming levels in recent months. It would also support a modest coverage increase of the regular Baxnaano 
+program, while continuing to protect human capital investments, support the expansion of the social registry, and further 
+refining the delivery systems for social assistance already financed by the Project. 
+ 
+B. Country Context 
+ 
+3. 
+Somalia has experienced persistent civil unrest and insecurity over several decades but entered a new period 
+of relative stability with the adoption of the Provisional Constitution in 2012, and the subsequent establishment of the 
+Federal Government of Somalia (FGS) and Federal Member States (FMS), which paved the path towards reconstruction 
+and economic recovery. In 2020, Somalia reached a critical milestone under the Heavily Indebted Poor Countries (HIPC) 
+Initiative, which enabled the country to receive debt relief. This would enable Somalia to transition into the international 
+financial system and receive critical resources towards accelerating growth and building resilience. Somalia’s GDP growth 
+is estimated to have rebounded to 2.2 percent in 2021 following a contraction of 0.3 percent in 2020.1 The federal 
+elections which began in 2021 have now concluded and the transition of security arrangements from the African Union 
+ 
+1 The International Monetary Fund (IMF) and World Bank adopted the national accounts data (2012-2020) produced by the Somalia National Bureau 
+of Statistics (SNBS) in December 2021. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 8 of 38 
+ 
+to the FGS is well underway. The election of a new president after a protracted period of uncertainty has been welcomed 
+by the international community with renewed commitments to collaborating on critical issues of drought response, 
+maintaining fiscal stability, addressing insecurity, among others. 
+ 
+4. 
+Somalia is highly vulnerable to repeated cycles of droughts and floods driven by climate change, with around 
+70 percent of the population living below the international poverty line with regular exposure to food insecurity, 
+malnutrition, and loss of livelihoods. In 2018, the Center for Global Development ranked Somalia as the most vulnerable 
+country to climate change among 167 countries, adjusted for coping capacity. The 2016-17 drought left an estimated 6.7 
+million people in urgent need of humanitarian assistance. Between 2017 and 2021, droughts and floods led to the internal 
+displacement of between 0.3 million to 1.1 million people annually, outpacing displacement on account of conflict and 
+insecurity. As of March 2022, the drought has displaced 0.7 million persons, and overall, there are around 2.9 million 
+internally displaced persons (IDP) in Somalia, largely as a consequence of climatic shocks, for whom food has been a 
+priority need upon arrival to a new location.2 
+ 
+5. 
+Amid these cyclical shocks, the COVID-19 pandemic and the 2020-21 desert locust plague have compounded 
+the adverse impacts on food supply and prices, livelihoods, and purchasing capacity among poor and vulnerable 
+populations in Somalia. In 2020, the pandemic resulted in the loss of incomes for nearly 80 percent of households. As 
+the country relies on food imports to feed its population, the lockdown of key supply markets, closure of borders and 
+restrictions on domestic movements have resulted in high prices of basic commodity prices, and the economy contracted 
+by an estimated 1.5 percent in 2020. The locust plague appearing at the same time caused widespread damage to crop 
+harvest in affected regions, with devastating effects on livelihoods and incomes, and further exacerbated the food 
+insecurity situation which fueled internal displacement and resource-based conflict. 
+ 
+6. 
+Somalia is now facing its worst drought crisis in decades resulting from several consecutive poor rainfall 
+seasons. This latest shock starkly illustrates the increasing frequency and intensity of adverse climatic events to afflict 
+the country. The food insecurity and malnutrition situation has significantly deteriorated since the first AF was approved 
+by the World Bank in June 2021. Estimates for the first half of 2022 place approximately 6.0 million people (up by 3.3 
+million) across the country at high levels of acute food insecurity and asset depletion as a coping mechanism (i.e. 
+Integrated Food Security Phase Classification (IPC) Phase 3 and above on the severity scale)3 in the absence of urgent 
+assistance.4 Around 1.4 million children (up by 0.6 million) under the age of five years are likely to be acutely 
+malnourished, including nearly 329,500 (up by 186,500) who may face severe malnourishment.5 The combined shocks 
+thus have a severe negative effect on households’ ability to meet basic consumption needs. 
+ 
+7. 
+The country’s extreme crisis exposure is exacerbated by the ongoing war in Ukraine which poses a risk to 
+international development assistance on which FGS still largely relies. Overall international support to the country is 
+ 
+2 International Organization for Migration (IOM). Somalia Drought Response (January–March 2022). Operational Data Portal of the United Nations 
+High Commissioner for Refugees (UNHCR). 
+ 
+3 IPC is multi-partner initiative to classify the severity and magnitude of food insecurity and malnutrition to facilitate decision-making. The severity 
+phases are (1) minimal/none, (2) stressed, (3) crisis, (4) emergency, and (5) catastrophe/famine. 
+ 
+4 IPC. 2022. Somalia: Acute Food Insecurity Situation (Update March 2022 and April–June 2022). Most recent data is compared with Acute 
+Malnutrition Situation (January-March 2021 and Projection for April-July 2021). 
+ 
+5 IPC. 2022. Somalia: Acute Food Insecurity Situation (January 2022 and Projections for February–March 2022 and April–June 2022). Most recent 
+data is compared with Acute Malnutrition Situation (January-March 2021 and Projection for April-July 2021). The subsequent update does not 
+provide data on children’s malnutrition. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 9 of 38 
+ 
+likely to be strained in a situation where bilateral resources are at risk of diversion to respond to the forced displacement 
+crisis emerging in Europe. The war overseas has already led to the increased costs of electricity and transportation in 
+Somalia due to global fuel price increases, which has a disproportionate impact on poor small-scale farmers and 
+pastoralists. The country is dependent on wheat from Ukraine and will face the immediate consequences of the conflict. 
+In the period from 2018 to 2020 Ukrainian supplies accounted for 31 percent of total wheat imports. Switching to 
+alternative sources in the short term is likely to be difficult and lead to supply shortages, and the production and supply 
+chain impact of the conflict is expected to put further upward pressure on food prices. The associated risks of further 
+inflation in the short to medium terms also threatens the food security of millions across the country. 
+ 
+8. 
+The proposed AF would form part of the broader World Bank support to the FGS response to the escalating 
+drought and food insecurity. Several existing operations are now reallocating financing to this end. The Somalia Crisis 
+Recovery Project (SCRP, P173315) which builds resilience to recurrent natural disasters and supports livelihoods recovery 
+will now scale up partnership arrangements with UN agencies and civil society consortiums to provide rapid assistance. 
+The Contingent Emergency Response Component (CERC) of the Somalia Urban Resilience Project Phase II (SURP II, 
+P178887) will be triggered to support infrastructure and services in selected cities experiencing a large inflow of IDP. 
+Similarly, the Water for Agropastoral Productivity and Resilience Project (WAPR or “Biyoole”, P167826) which delivers 
+improved water and agriculture services will fast track rehabilitation of boreholes in several areas affected by the 
+drought. Around US$45 million is being remobilized under these three projects, which taken together with the proposed 
+AF, amounts to an overall World Bank supported drought response of US$195 million. 
+ 
+C. Sectoral and Institutional Context 
+ 
+9. 
+Somalia established its first national safety net program – Baxnaano6 – under the leadership of the Ministry of 
+Labor and Social Affairs (MoLSA) in 2019 with the support of the parent Project.  Baxnaano is primarily an unconditional 
+cash transfer program which currently reaches 200,000 chronically poor and vulnerable households (approximately 1.2 
+million individuals) with children aged under five years in 21 districts across all FMS and Somaliland. The parent Project, 
+together with the World Bank’s complementary advisory services and analytics (ASA) and in collaboration with the World 
+Food Programme (WFP) and the United Nations Children’s Fund (UNICEF), has been supporting MoLSA to build internal 
+capacity and develop its own delivery systems, to enable transitioning to direct implementation by MoLSA.  Baxnaano is 
+gradually being recognized as a national safety net delivery platform that facilitates coordination and collaboration with 
+humanitarian programs, with a vision to gradually transition from a humanitarian mode of operation and take on a more 
+longer-term programmatic developmental focus. 
+ 
+10. 
+The complementary Shock Responsive Safety Net for Locust Response Project (SNLRP) (P174065)7 furthermore 
+used the Baxnaano platform to deliver emergency cash transfers (ECT) to 100,000 households affected by locust 
+infestation in 45 districts for a six-month period in 2021 (SNLRP Phase I). Around 33,000 of these households were 
+already receiving regular cash transfers under the program, while the majority were new recipients. This operation also 
+benefitted from an AF (P176369) which will now expand ECT coverage to another 160,000 households on a short-term 
+basis (SNLRP Phase II) of whom about 17,000 are regular cash transfer recipients. 
+ 
+ 
+6 The program name Baxnaano means “uplifting” in Somali. 
+ 
+7 The SNLRP was financed under the Emergency Locust Response Program Phase (P173702), a Multiphase Programmatic Approach to respond to 
+the threat posed by the 2020-21 desert locust plague and to strengthen systems for preparedness. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 10 of 38 
+ 
+11. 
+Supported by SNHCP and SNLRP, Baxnaano has rapidly evolved into an adaptive safety net program with two 
+windows. “Baxnaano-regular” provides long-term human capital linked basic transfers, while “Baxnaano-shock-
+response” provides short-term transfers in the form of top-ups to “Baxnaano-regular” beneficiaries and ECT to 
+households not enrolled in “Baxnaano-regular”. Table 1 summarizes the overall World Bank financing supporting 
+Baxnaano, which totals US$290 million, of which US$268 million (92 percent) is allocated for cash transfers including 
+delivery costs. The table also shows the number of beneficiaries targeted, transfer amounts per household financed by 
+different operations and Baxnaano program widows. 
+ 
+Table 1: Household Targeted and Benefits Provided by World Bank financed Projects and Baxnaano Program Window 
+Project 
+Window 
+Households enrolled in “Baxnaano-regular” 
+Households not enrolled 
+in “Baxnaano-regular” 
+Coverage Target 
+(households) 
+Basic Transfer 
+(per month) 
+Shock-Responsive 
+Transfer (per month) 
+ECT 
+(per month) 
+SNHCP 
+(US$65 million) 
+Regular 
+US$20 
+- 
+- 
+200,000 
+SNHCP AF 
+(US$110 million) 
+Regular / 
+Shock-Response 
+US$20 
+US$40 (for 6 months) 
+- 
+SNLRP 
+(US$40 million) 
+Shock-Response 
+- 
+US$40 (for 6 months) 
+US$60 (for 6 months) 
+100,000 
+SNLRP AF 
+(US$75 million) 
+Shock-Response 
+- 
+US$40 (for 6 months) 
+US$60 (for 6 months) 
+160,000 
+ 
+12. 
+Prior to the establishment of a formal safety net program, the poor and vulnerable relied on informal kinship-
+based support and remittances, as well as humanitarian aid to meet emergency needs. Informal networks usually 
+benefit urban households and tend to be concentrated within particular clans, lineages, and extended families, and often 
+do not reach the neediest, including minority and marginalized groups. Humanitarian assistance, while critical in saving 
+lives and filling urgent income and livelihoods needs in the short-term, does not provide a stable and predictable safety 
+net system to systematically address vulnerabilities and strengthen household resilience to shocks and invest in human 
+capital. Furthermore, these programs operate outside the government system and lack government leadership in actual 
+service delivery, which is essential in establishing a social contract between citizens and the state. 
+ 
+13. 
+In recognition of this gap in government services there has been a gradual convergence in strategies and 
+interventions among humanitarian and development agencies in recent years. To this end, the consortium of partners 
+has participated in the development of the Somalia Social Protection Policy (2019) and the complementary Social 
+Protection Policy Implementation Framework (2020), which frame the strategic agenda and roadmap to realize the FGS 
+vision for the sector. A National Social Protection Steering Committee (NSPSC), chaired by the Office of the Prime 
+Minister, and a government and development partner Social Protection Working Group (SPWG), led by MoLSA and 
+established with the support of the parent Project, have been set up to respectively provide strategic policy guidance 
+and ensure coordination across interventions. The Somalia Donor Working Group (SDWG) provides a regular platform 
+for donors’ policy dialogue and a means to ensure technical coherence in the sector, while the Cash Working Group 
+(CWG) provides another forum for the coordination of cash-based interventions specifically. Efforts are also underway 
+to further refine program policy and define roles and responsibilities of the FGS, represented by MoLSA, and the FMS. 
+ 
+14. 
+In the three years since its inception, Baxnaano has gained significant visibility as the country’s flagship cash 
+transfer program, with its mandate to not only protect poor and vulnerable populations from shocks, but to strengthen 
+their resilience for medium-term recovery and long-term development. Various development partners are currently 
+exploring the potential to harmonize their interventions with the program’s design and delivery mechanism, especially 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 11 of 38 
+ 
+with regards to aligning with Baxnaano’s shock-responsive parameters for crisis response as well as coordinating and/or 
+consolidating household targeting mechanisms. 
+ 
+D. Project Status 
+ 
+15. 
+Progress towards Achievement of the PDO and Overall Implementation Progress have both been rated 
+“satisfactory” for more than twelve consecutive months.8 The parent Project comprises three components: (i) nutrition-
+linked unconditional cash transfers, (ii) delivery systems and institutional capacity building, and (iii) project management, 
+monitoring and evaluation (M&E), and knowledge management.  As of May 30, 2022, disbursement under the parent 
+Project is at 88 percent (of which the full commitment under Component 1 has been disbursed) and disbursement under 
+the first AF is at 29 percent.   There are no outstanding audit reports, and all legal covenants are complied with. 
+ 
+16. 
+Component 1 (Nutrition-linked Unconditional Cash Transfers) finances the transfers paid under the Baxnaano 
+program to strengthen household resilience, address negative coping mechanisms, and promote human capital 
+investments via links to nutrition services. It is implemented under an Agreement for Delivery of Outputs between 
+MoLSA and WFP. Beneficiaries are entitled to a regular transfer of US$20 monthly (paid quarterly) for a period of three 
+years, with mothers or female caregivers of children being direct recipients of the cash transfer. Program re-enrollment 
+beyond this period would be contingent on an eligibility recertification process. Beneficiaries may also be eligible to 
+receive US$40 monthly (paid quarterly) for a period of six months, in case of the onset of a shock which can threaten to 
+exacerbate their poverty and vulnerability. Although it faced a slow start-up, “Baxnaano-regular” has now achieved 99 
+percent coverage of its beneficiary target of 200,000 households, with 94 percent of this caseload having received their 
+entitlements for over a year (five quarters). With the first year’s payments having been covered by the parent Project, 
+benefits from the second year of program participation are in the process of being paid under the first AF. As part of its 
+immediate efforts to leverage Baxnaano’s shock-responsive features to address the prevailing drought crisis, MoLSA has 
+frontloaded the budget of the third year of regular program participation into immediate shock-responsive top-ups to 
+participants. These benefits will be paid out for a period of six months until September 2022. This would mean that the 
+Component allocation under the first AF would be fully disbursed by the end of 2022. 
+ 
+17. 
+Component 2 (Delivery Systems and Institutional Capacity Building) finances institutional strengthening of 
+MoLSA to gradually take on full implementation and management responsibilities for Baxnaano and lay the foundation 
+for a comprehensive safety net system. It is implemented under an Agreement for Delivery of Outputs between MoLSA 
+and UNICEF. The development of a unified social registry (USR, see Figure 1), Baxnaano management information system 
+(MIS), and the overall delivery mechanism, which are the key building blocks of such a system, are well advanced. 
+Specifically, core USR software modules (i.e. enumerator management, registration, grievance management, reporting, 
+etc.) have been developed and are being tested. The welfare ranking module is currently under development following 
+the recent finalization of the welfare scoring methodology resulting from extensive consultations. Linkages to external 
+databases will be made once these come online – most importantly the Baxnaano MIS and the national identification 
+database. The USR operations manual development is nearing completion, necessary equipment to host the USR data 
+has been procured, and the physical facility where the USR data center will be housed has been identified. 
+ 
+ 
+ 
+ 
+ 
+8 Based on Implementation Status & Results (ISR) Reports archived on (i) December 22, 2020 (seq. no. 3), (ii) June 24, 2021 (seq. no. 4), and January 
+14, 2022 (seq. no. 5). 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 12 of 38 
+ 
+Figure 1: USR Architecture and Operational Functions 
+ 
+ 
+18. 
+Component 3 (Project Management, Monitoring and Evaluation, and Knowledge Management) finances the 
+Project Implementation Unit (PIU) within MoLSA and helps strengthen horizontal coordination with other line 
+ministries as well as between FGS and FMS. The PIU is fully established with liaison officers at the FMS level, and M&E 
+efforts have been enhanced under arrangements with a third-party monitoring (TPM) agency. Furthermore, the SPWG 
+chaired by MoLSA has been established, with representation from the FMS, relevant ministries and development 
+partners. This platform ensures coordination among stakeholders and provides strategic guidance on sectoral policies 
+and programs. 
+ 
+19. 
+Project management has consistently been satisfactory. There are no significant concerns regarding fiduciary 
+functions, with financial reporting submitted timely and all major contracts having been signed. All necessary 
+environmental and social instruments are in place and implementation quality has benefitted from a robust grievance 
+redress mechanism (GRM) comprising WFP’s complaints and feedback mechanism (CFM) at the community level and a 
+toll-free call center established by MoLSA. Coupled with TPM arrangements, these avenues for citizen engagement have 
+allowed the parent Project to incorporate lessons from community feedback on Baxnaano. There have been no reports 
+of major incidents of gender-based violence (GBV), sexual exploitation and abuse / sexual harassment (SEA/SH), 
+occupational health and safety, among others, which have been assessed to pose serious risks. Maintenance of 
+environmental and social standards (ESS) has thus been satisfactory. 
+ 
+E. Rationale for Additional Financing 
+ 
+20. 
+The proposed AF will support the continuation of cash transfers to existing beneficiaries, scale up coverage in 
+response to the prevailing drought and enhance the shock-responsiveness of the safety net delivery system. The aim 
+of the Project is to help the FGS develop and deliver a long-term safety net program that provides sustained and 
+predictable income support to the poor and vulnerable population, strengthens resilience to climate shocks, and 
+contributes to building their human capital. The proposed AF is expected continue contributing to building trust and 
+confidence in the government by its citizens. According to the current Baxnaano design, beneficiaries are entitled to cash 
+assistance for three years before they are reassessed for continued eligibility. The parent Project and its first AF provided 
+funds to ensure coverage of the current beneficiaries through the three years of entitlement (up to December 2023). The 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 13 of 38 
+ 
+proposed AF will cover the financing gap of approximately US$42 million created under the first AF which has pivoted to 
+address the drought crisis immediately by frontloading its cash transfer allocation for regular transfers towards shock-
+responsive top-ups. Given the pressing needs of the poor and vulnerable population which are further exacerbated by 
+the drought, cash transfers would need to be scaled-up to other vulnerable populations. The proposed AF will support a 
+15 percent9 scale up of “Baxnaano-regular” coverage as well as deliver temporary ECT to drought-affected populations 
+who are not enrolled in the “Baxnaano-regular”. The Project is supporting the development of a government-led safety 
+net delivery system including a the USR which is expected to enable rapid identification of the poor and vulnerable 
+especially during times of crisis. The proposed AF will test the functionality of this newly developed social registry for the 
+registration and identification of beneficiaries to take part in the scale up of the program. 
+ 
+21. 
+The drought crisis now affecting Somalia poses food security risks to 6 million people.  In the absence of 
+immediately available financial resources to address the growing vulnerability, FGS has authorized the payment of 
+emergency top-ups to its existing beneficiaries who were selected on the basis of their existing poverty and vulnerability 
+profiles and overlap with the current drought impacted locations10. This involved frontloading regular benefits 
+programmed for a third year of program participation, under the first AF, towards emergency benefits during the period 
+from April to September 2022 concurrently with the delivery schedule of its regular payments. Accordingly, the parent 
+Project would face a financing gap for a third year of regular transfers to its core beneficiary cohort, for whom three years 
+of payments were provisioned by program policy and under the existing World Bank support. In addition, the 
+depreciation of Special Drawing Rights (SDR) between the time the parent Project and the first AF were approved have 
+resulted in a loss in the nominal transfer value available to beneficiaries. The proposed AF would thus bridge the gap 
+created by the parent Project addressing the drought crisis for a segment of the affected population, as well as by the 
+exchange rate loss. 
+ 
+22. 
+The severity and extent of the drought crisis necessitates the scale up of income support even to households 
+not participating or eligible for the regular Baxnaano, following the model established under the SNLRP. Under this 
+Project, households not having children under five years of age were also eligible based on the severity of the impact of 
+the locust plague on their communities. All non-Baxnaano households were provided US$60 per month for a six-month 
+period (transferred quarterly). Given that households having experienced the fallout of the locust plague are still residing 
+in areas where the drought has an overlapping impact, and that there are limited resources reaching such areas, a 
+provision to address this segment of the population is essential. The proposed AF is in a position to rapidly roll out ECT in 
+such locations as a large base of beneficiaries have already been identified under SNLRP and all have mobile money 
+accounts for easy access to funds. 
+ 
+23. 
+FGS has also expressed its interest in scaling-up regular Baxnaano coverage even if with a modest start, with 
+the understanding that a three-year program duration for a new cohort may not be fully covered under the proposed 
+AF. Transfers of benefits to a new cohort of vulnerable households who do not currently participate in the program would 
+support efforts to enhance resilience.  With no domestic revenue sources or other development assistance committed 
+towards Baxnaano at this time, the World Bank’s financing remains invaluable not only for the cash transfers themselves, 
+but also due to continued investments in developing Baxnaano delivery systems beyond those of WFP’s SCOPE platform 
+(the agency’s proprietary beneficiary and benefits management system). Accordingly, FGS would test key delivery 
+systems that are in an advanced stage of development (under Component 2 of the parent Project and supported by the 
+ 
+9 FGS social protection policy calls for expanded safety net coverage of the poor and vulnerable to achieve progress in reducing poverty and building 
+resilience. However, for fiscal and sustainability considerations, the coverage expansion would need to be made gradually. 
+ 
+10 WFP analysis indicates a 95 percent overlap between Baxnaano locations and those categorized in IPC Phase 3 (Crisis) or above. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 14 of 38 
+ 
+World Bank’s complementary ASA), specifically the poverty-based targeting methodology and the registration and 
+household welfare ranking mechanism of the social registry. This effort would provide lessons on operational challenges 
+as well as take a step towards the planned transition from the current WFP partnership model to a modality where MoLSA 
+eventually administers Baxnaano using country systems for beneficiary identification, data management, payments, 
+grievance redress, etc. 
+ 
+24. 
+The expansion in Baxnaano’s scope by (i) maintaining transfers for its current caseload of Baxnaano-regular 
+beneficiaries, (ii) enabling ECT to drought-affected households not participating in Baxnaano-regular on a temporary 
+basis, and (iii) scaling-up Baxnaano-regular to new households, would further consolidate the program’s position in 
+the country as a central platform for social assistance.  Since inception, Baxnaano has been critical in protecting 
+households’ food security and human capital, as well as in strengthening resilience against shocks. In times of crisis, 
+households adopt negative coping mechanisms to meet short-term needs which result in adverse long-term effects 
+deepening the challenges of breaking the intergenerational cycle of poverty.  Interruptions in the delivery of cash 
+transfers, as well as the inadequacy of benefits, thus pose a risk of households regressing into deeper food insecurity 
+given the impacts of multidimensional shocks on the country. The existing implementation arrangements have had two 
+and a half years of operational experience, and delivery of social assistance to populations in urgent need could be 
+provided rapidly with minimal logistical preparation as a large segment is already pre-identified.  The small scale up to 
+assess transitional plans would likewise follow procedures which have already served around 410,000 households across 
+the two sets of World Bank supported projects financing cash transfers. 
+ 
+25. 
+The 2022 Somalia Humanitarian Response Plan seeks US$1.5 billion in financing, of which only 4.4 percent is 
+funded till date, and the proposed AF will contribute towards reducing the funding gap for drought response. With low 
+domestic revenues and significant gap in international financing to support food insecurity, especially in the current 
+global emergencies and competing demands for crisis response, the World Bank’s engagement will be essential in 
+ensuring the poor and vulnerable are protected during this period where they are faced with difficulties in meeting basic 
+needs. While FGS and humanitarian agencies are best positioned to address market and supply issues, the World Bank 
+has a comparative advantage in addressing the demand-side pressures by financing transfers and supporting the 
+refinement of the service delivery process. This will also help to ease the financial burden on the humanitarian system, 
+which is already struggling to respond to the back-to-back and concurrent shocks of the last few years. 
+ 
+26. 
+The proposed AF will continue to provide institutional continuity in a highly volatile situation. The Project 
+already operates in the context of several climatic, epidemiological and biological shocks, and would need to take 
+cognizance of the prevailing political situation. The continuity of a government-led social assistance program will be 
+critical in ensuring public confidence in institutions at a time where responses to multiple natural disasters can be 
+undermined by civil unrest and political uncertainties. Uninterrupted delivery of cash transfers to shock-affected 
+communities, as well as a scale up of transfers to new locations, would signal the FGS commitment to improving the lives 
+of the poor and vulnerable and uphold the principles enshrined in its development strategies and policies. The proposed 
+AF would thus ensure that institutional resilience is maintained in spite of the multiple crises and fragile context persisting 
+in Somalia. 
+ 
+F. Strategic Relevance 
+ 
+27. 
+Social protection continues to be a critical element in the FGS fight against poverty and efforts to promote 
+prosperity. The parent Project, its first AF, and the proposed second AF, are all aligned directly with FGS’ national strategy 
+and policy. The Ninth National Development Plan (NDP 9) (2020–2024) dedicates Pillar 4 to social development, which 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 15 of 38 
+ 
+entails “strategies and interventions that improve access by Somali citizens to health, education and other essential 
+services, including social protection systems in times of extreme need”. More specifically, the Somalia Social Protection 
+Policy (2019) defines social protection as “government-led policies and programs, which address predictable needs 
+throughout the life cycle in order to protect all groups, and particularly the poor and vulnerable, against shocks, help 
+them to manage risks, and provide them with opportunities to overcome poverty, vulnerability, and exclusion”. The 
+complementary Social Protection Policy Implementation Framework (2019) is structured around seven policy priorities, 
+including “unconditional assistance for the poorest and neediest,” and “foundational systems and capabilities” both of 
+which are directly supported by Project investments in cash transfers and delivery mechanisms. 
+ 
+28. 
+The parent Project, its active and proposed AFs, continue to support the World Bank’s developmental vision for 
+Somalia and the Africa region more broadly. The World Bank Group Country Partnership Framework (CPF) for the 
+Republic of Somalia (FY19–22), as one of its four focus areas, supports strengthening institutions to deliver services and 
+highlights the World Bank’s intent to build on existing technologies and programs to develop a shock-responsive safety 
+net system and thereby test a new model of state-facilitated resilience-building.11 Specifically, objective 1.3 aims to 
+“improve delivery systems for inclusive social services” towards which the Project makes direct investments. In this 
+regard, building on technologies such as mobile money, digital identification systems, and a single registry are 
+highlighted, alongside the need to bridge humanitarian and development interventions. Furthermore, the World Bank 
+Group’s Africa Regional Strategy (2019–2023) envisages investing in people and supporting climate change mitigation 
+and adaptation, both of which are directed financed via shock-responsive cash transfers to promote the uptake of 
+nutrition services. The proposed AF also enhances the Project’s continued contribution to results expected under the 
+Africa Human Capital Plan (2019), which aims to increase social protection coverage of the poorest quintile in Low Income 
+Countries (LIC) to 30 percent by 2023. 
+ 
+29. 
+At a global level the World Bank Group’s Strategy for FCV (2020–2025), which has established a framework for 
+such settings, commits to remaining engaged during situations of crisis. This entails building resilience, protecting 
+essential institutions, and delivering critical services – actions which the proposed AF directly address and promote. 
+Moreover, the Strategy recognizes the need to build partnerships with humanitarian actors and has cited the Project’s 
+collaboration with WFP and UNICEF as good practice examples as part of its Famine Action Mechanism (FAM), which 
+provides a model for sharing information on food insecurity situations and mobilizing anticipatory action before the onset 
+of major shocks. 
+ 
+II. DESCRIPTION OF ADDITIONAL FINANCING 
+ 
+A. Overview 
+ 
+30. 
+The Baxnaano program aims to provide a basic level of income support and link beneficiaries to complementary 
+nutrition services for three years. This duration is considered essential in building human capital via predictable transfers 
+and accompanying measures, and the proposed AF would help preserve the gains attained under the Project which now 
+face risks of reversal as a result of the prevailing drought crisis. The proposed AF would support additional households to 
+cope with food insecurity by bringing selected locations within its ambit while providing ECT to selected households 
+ 
+11 The CPF FY19-22 (Report No. 12473-SO) was discussed by the Board of Executive Directors on August 29, 2018. The Somalia Performance Learning 
+Review is under preparation, aiming to adjust the CPF framework to enhance support for institution building and service delivery critical to 
+strengthening the social contract, and supporting resilient, and inclusive recovery from the triple crisis, including through a deeper focus on human 
+capital. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 16 of 38 
+ 
+impacted by the drought crisis and not enrolled in the regular Baxnaano program. Furthermore, it would ensure sufficient 
+time is provided to develop and test the service delivery systems and policies necessary for MoLSA to gradually take on 
+greater implementation responsibilities for Baxnaano.  
+ 
+31. 
+Recent analysis of Project targeted districts and those currently classified as IPC3+ shows significant overlap. 
+This suggests the need to carry out a rapid vertical scale up to protect the consumption patterns of households by bridging 
+consumption deficits caused by the drought and the rise in basic commodity prices. If support is not provided it will 
+threaten immediate food security, and concurrently undermine gains made under the Project. Comparison of the most 
+recent IPC data with the analysis from February 2022 shows a rapidly deteriorating situation across SNLRP coverage areas. 
+SNLRP Phase I beneficiary households have already received their due ECT within December 2021 and are highly 
+vulnerable to the drought and growing food insecurity. Table 2 illustrates the geographical overlap between SNHCP and 
+SNLRP locations and IPC3+ areas based on the most recent IPC data. 
+ 
+Table 2: Mapping of SNHCP and SNLRP locations in IPC3+ in 2022 
+ 
+SNHCP Districts 
+SNLRP (Phase I) Districts 
+SNLRP (Phase II) Districts 
+February 2022 
+95 percent 
+76 percent 
+71 percent 
+April 2022 
+95 percent 
+97 percent 
+97 percent 
+Change  
+- 
+21 percentage points 
+26 percentage points 
+ 
+32. 
+The proposed AF would support the continued operation of the Baxnaano program, expand coverage and 
+introduce a new Component to support the development of the delivery system. No changes will be made to the PDO 
+or the implementation arrangements. Changes are only being made to the (i) components, costs and scope of activities, 
+(ii) indicators and selected results targets, and (iii) closing date. The existing contract between MoLSA and WFP would be 
+amended to ensure extension of the collaboration for additional activities. The Project Operations Manual (POM) has 
+already been updated to incorporate relevant provisions and TPM arrangements would similarly be adjusted within three 
+months of effectiveness of the proposed AF. MoLSA will lead communication and dialogue with the FMS which would be 
+particularly critical in ensuring transparency around the geographic targeting process. MoLSA would also chair periodic 
+progress review meetings with WFP and UNICEF, with the participation of the World Bank, and ensure continuous 
+government-led dialogue on specific thematic areas (i.e. USR, targeting, MIS, etc.) with the participation of relevant 
+agencies and consultants for continuous feedback from implementation experiences. 
+ 
+B. Components and Costs 
+ 
+33. 
+The proposed AF will finance Component 1 and the new Component 4. Table 3 below summarizes the overall 
+Project cost distribution. Together with the parent Project and first AF, the amount allocated for cash transfers including 
+delivery costs (i.e. Component 1) would represent 94 percent of the total Project cost. 
+ 
+Table 3: Project Cost by Component and Financing Source 
+Component 
+IDA Commitment (US$ million equivalent) 
+Parent Project 
+First AF 
+Proposed AF 
+Total 
+1. 
+Nutrition-Linked Unconditional Cash 
+Transfers 
+53 
+108 
+138 
+299 
+2. 
+Delivery Systems and Institutional Capacity 
+Building 
+6 
+- 
+- 
+6 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 17 of 38 
+ 
+Component 
+IDA Commitment (US$ million equivalent) 
+Parent Project 
+First AF 
+Proposed AF 
+Total 
+3. 
+Project Management, M&E, and Knowledge 
+Management 
+6 
+2 
+- 
+8 
+4. 
+Household Registration in the USR 
+- 
+- 
+5 
+5 
+ 
+65 
+110 
+143 
+318 
+ 
+34. 
+Component 1: Nutrition-linked Unconditional Cash Transfers (US$138 million equivalent under the proposed 
+AF). This will support the Baxnaano program’s continuity for existing beneficiaries, responsiveness to the ongoing 
+drought, as well as introduce a modest expansion (15 percent) of the regular Baxnaano program. The distribution of 
+beneficiaries and associated benefits would be as follows: 
+ 
+(a) The current cohort of 200,000 beneficiary households are entitled to three years of benefits. The frontloading 
+arrangement under the first AF through which these households would receive shock-responsive top-ups for a six-
+month period (US$40 per household monthly) has resulted in a funding gap equivalent to twelve months of 
+coverage, and an exchange rate loss has also diminished the available duration by approximately a quarter. The 
+proposed AF would sustain regular transfers (US$20 per household monthly) for up to fifteen months to ensure 
+original beneficiary cohort receive their full entitlements. 
+ 
+(b) Around 155,000 households would receive six months of ECT (US$60 per household monthly) to cope with the 
+current drought crisis. These would include around 69,000 households from locust-affected areas who received 
+benefits under SNLRP Phase I and around 86,000 new households to be identified from areas hard hit by the 
+drought. All these households are not currently eligible for Baxnaano-regular. 
+ 
+(c) Around 20,000 new beneficiary households would be enrolled in Baxnaano-regular from areas of high food 
+insecurity and acute malnutrition. Regular transfers for up to twelve months would be provisioned to integrate 
+these households into the program with links to nutrition services. 
+ 
+35. 
+Targeting of the new “Baxnaano-shock-response” beneficiaries will follow the approach established under the 
+parent Project with adjustments to the drought situation.  Selection of targeted districts will be based on the established 
+district distress index12 which factors trends in malnutrition prevalence and food insecurity over the last three years. This 
+data would be cross-checked with districts hit hardest by the ongoing drought (i.e. with a high concentration of IPC3+ 
+cases). The allocation of the caseload will take into consideration the district population and/or the expected number of 
+people in IPC3+.  Within the selected districts, villages will be prioritized based on the concentration of IPC3+ cases and 
+in consultation with the district authorities. The selected districts or villages may be from among those already 
+participating receiving benefits under the SNHCP or SNLRP, in which case there will be an enrolment of additional 
+households beyond the current caseload. Household selection in eligible villages will follow the approach currently 
+practiced by the Baxnaano-regular program, i.e. eligible households will be identified through a community-based 
+targeting (CBT) process whereby community selection committees (CSC), with support from implementing partners, 
+identify the poorest households as perceived by the community, but without restricting eligibility to households with 
+children under five years of age. In case of oversubscription, priority will be given to households who were specifically 
+ 
+12 All districts across all Somalia’s FMS and Somaliland are included in the distress index rating 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 18 of 38 
+ 
+affected by the drought, those with persons-with-disabilities, and those with children under five years old.13 Lists of 
+eligible households produced by the CBT process will be publicly displayed to ensure transparency and the validity of the 
+list may be challenged through the GRM. 
+ 
+36. 
+The expanded coverage of Baxnaano-regular, while limited, provides an opportunity to test and operationalize 
+key delivery systems developed under Component 2. The recently adopted Baxnaano targeting approach aims to 
+improve targeting outcomes based on implementation experience and findings from a targeting evaluation and TPM 
+reports. The revised approach relies on multiple techniques to identify poor and vulnerable households: (i) geographic 
+targeting at the district level using the distress index that relies on the most recent data on district-level malnutrition and 
+food insecurity, (ii) geographic targeting of sub-district localities based on village welfare indicators,14 (iii) household-level 
+targeting in selected areas based on household welfare scores generated by the USR, and (iv) CBT validation, used to 
+complement poverty-focused targeting on the basis of the welfare score.15  This activity will provide an opportunity to 
+test two key modules and business processes of the USR, namely, the registration module and the household welfare 
+ranking module. 
+ 
+37. 
+To respond to the high levels of urban poverty, districts within Banadir Regional Administration (BRA) will be 
+prioritized (among comparable districts)16 for the expansion of Baxnaano-regular. In keeping with the new Baxnaano 
+targeting methodology, selection of sub-districts/communities within the eligible districts will be based on area welfare 
+rankings that factor community characteristics such as population size, availability and quality of infrastructure, access 
+to markets and access to services. This data will be collected through a community assessment survey and in consultation 
+with districts authorities, but whenever possible, readily available data on community characteristics will be used. Within 
+the chosen localities, household registration of all households interested in applying for Baxnaano benefits will be 
+conducted and the 30,000 household with the lowest households’ welfare score will be admitted into the Baxnaano 
+program, following their validation by the CSC. The household welfare score will be based on an empirically derived 
+formula and systematically collected households’ data. Third-party monitoring of the registration process and the GRM 
+will further ensure the accuracy of the targeting performance. 
+ 
+38. 
+Component 2: Delivery Systems and Institutional Capacity Building: No change will be made. 
+ 
+39. 
+Component 3: Project Management, M&E, and Knowledge Management: No change will be made. 
+ 
+40. 
+Component 4: Household Registration in the USR (US$5 million equivalent under the proposed AF): This new 
+Component will contribute to the expansion of the USR by registering households not yet included in the database using 
+its common registration form (CRF). It would strengthen the safety net system preparedness to respond to impacts of 
+ 
+ 
+13 Presence of children under five years of age will only be a prioritization criterion in cases of oversubscription but not an ex-ante exclusion criterion. 
+ 
+14 The methodology for village welfare scoring remains to be finalized, but will involve aggregation of empirical information of village-level indicators 
+such as population, availability and condition of key services, infrastructure, etc. Implementation of village welfare scoring will rely on available data 
+(e.g. with humanitarian organizations or government) but may require additional data collection. 
+ 
+15 Community validation gives communities a clearly defined formal role in eligibility decisions, albeit with adequate controls to prevent elite 
+capture, exclusion, corruption, etc. The implementation of community validation will improve on the community based-targeting practices currently 
+used by Baxnaano. 
+ 
+16 Further, expansion of Baxnaano coverage in anticipation of a truly national coverage of the full-fledged Baxnaano program will offer MoLSA an 
+invaluable learning opportunity. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 19 of 38 
+ 
+future climate shocks and other emergencies, as well as improve coordination across response interventions, including 
+humanitarian assistance. It is estimated that around 200,000 households’ data may be populated, which combined with 
+the ongoing registration under SNLRP would expand the database to around 450,000 households. As such, activities will 
+complement the delivery systems building efforts under Component 2 which solely supports the USR establishment from 
+policy, institutional, procedural, technical and infrastructural perspectives. WFP would facilitate USR registration building 
+on already established data protection arrangements. The registration of households will be conducted via a standalone 
+data collection exercise undertaken by a firm contracted by WFP, in close coordination with MoLSA and UNICEF. Consent 
+will be obtained from participating households for registration, while privacy and security of personal data collected will 
+be ensured under WFP’s existing policies, procedures, arrangements and systems. WFP will arrange to transfer household 
+data to the USR once FGS approves the forthcoming Data Protection Framework/Act (supported by the World Bank under 
+the Somalia Capacity Advancement, Livelihoods and Entrepreneurship through Digital Uplift Project (SCALED-UP, 
+P168115), as per agreements between MoLSA and WFP under existing contracts under the parent Project and SNLRP. 
+ 
+C. Results 
+ 
+41. 
+The PDO will remain unchanged. However, targets for two results indicators will be revised upwards due to the 
+expansion of the Baxnaano program and two new intermediary indicators will be introduced. The specific changes are: 
+ 
+(a) The target for PDO indicator “beneficiaries of social safety net programs” will be 2,250,000 (up from 1,200,000). 
+ 
+➢ The target for the sub-indicator “beneficiaries of social safety net programs (female)” will be 1,125,000 (up 
+from 600,000). 
+ 
+(b) The intermediate indicator “direct beneficiary households of cash transfers (equivalent to direct women 
+recipients)” will be revised as “households receiving cash transfers” with a target of 375,000 (up from 200,000). 
+ 
+➢ The sub-indicator “households receiving shock-responsive benefits to cope with an adverse climatic event” 
+will be added, with a target of 338,000. This would assess responsiveness to the drought. 
+ 
+(c) The intermediate indicator “women directly receiving cash transfers” will be added, with a target of 85 percent. 
+This would assess female-focused coverage under Component 1. 
+ 
+(d) The intermediate indicator “households registered in the USR” will be added, with a target of 200,000. This would 
+assess delivery system preparedness under Component 4. 
+ 
+D. Closing Date 
+ 
+42. 
+The closing date of the parent Project and first AF would be extended by sixteen months to December 31, 2024, 
+to align with that of the proposed second AF. This would facilitate the implementation of Components 1 and 4. Under 
+Component 1, cash transfers to newly enrolled beneficiaries of the Baxnaano-regular program are expended to be 
+provided for an eighteen-month period. Their participation in the program is not expected to commence till early to mid-
+2023 given the lead time involved in using the CRF of the USR and newly endorsed targeting methodology to identify and 
+enroll new beneficiaries. The extended overall Project period would thus assure the intended duration of benefits of the 
+new beneficiary cohort. In addition, activities under Component 4, which strive to further develop Baxnaano’s adaptive 
+capacity, would require a reasonable period to allow population of the database. These would entail new contractual 
+arrangements under WFP, obtaining household consent for registration, face-to-face data collection, data transfer from 
+WFP to the USR, among others. 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 20 of 38 
+ 
+III. KEY RISKS 
+ 
+43. 
+The overall risk rating for the proposed AF is substantial. Somalia’s FCV status with a fluid political scenario and 
+ongoing insecurity, compounded by a lack of government presence in parts of the country, means that political and 
+governance risks remain high. The macroeconomic risk has been raised from substantial to high given the heightened 
+fragility on account of the war in Ukraine. Fiduciary risks continue to be high, as the country’s public financial 
+management and procurement legal frameworks are still weak, fragmented, and inadequate. Risks relating to sector 
+strategies and policies, and institutional capacity for implementation and sustainability, remain substantial, while 
+environmental and social risks are lowered from substantial to moderate on aggregate. Risks related to the technical 
+design of the Project and on account of stakeholders both remain moderate, as the objective and transparent targeting 
+approach and implementation procedures under the parent Project are working well, the implementation capacity of 
+MoLSA is growing, and coordination mechanisms are functioning satisfactorily. All existing risk mitigation measures 
+identified under the parent Project will continue to be implemented, and new mitigation measures will be applied to 
+emerging risks identified during implementation. 
+ 
+44. 
+Political and governance risks remain high. Such risks had intensified over the past year with the protracted 
+elections across the FMS, and militant strikes on government and electoral targets during a period of political uncertainty. 
+Complex relationship between the FGS, FMS and Somaliland, lack of government presence in parts of the country, a 
+volatile security situation, and the ongoing anti-terror campaign can restrict access to project sites for cash delivery 
+and/or monitoring of implementation. The election process has now concluded with a peaceful transfer of power, and 
+transitional plans from international to national security arrangements are being put into action and are expected to 
+bring relative improvement. Mitigating measures will include ongoing engagement with UN agencies, NGOs, and private 
+sector entities who already have good working relationships with the FGS, FMS, and communities through humanitarian 
+interventions. The proposed AF also provides an operational platform for promoting the dialogue between FGS and FMS 
+around protecting poor and vulnerable citizens and building bridges for collaboration in service delivery. 
+ 
+45. 
+The macroeconomic risk is now considered high as Somalia remains fiscally fragile, with a weak revenue base, 
+continually battered by overlapping and persistent crises. This situation has been worsened due to Somalia’s significant 
+reliance on wheat imports from Ukraine where the ongoing conflict has disrupted production and supply chains. Coupled 
+with the rapidly increasing basic food prices, rising fuel prices globally have further compounded inflationary impacts in 
+the country with fertilizer and transport costs also moving upwards. These inflationary impacts could result in the loss of 
+purchasing power of cash transfers and further threaten food security of millions across the country. Baxnaano will 
+continue to rely on WFP and other partners to continuously assess market conditions to determine how the program can 
+adjust to respond effectively. 
+ 
+46. 
+The fiduciary risk for the Project remains high. This is largely attributable to weak and evolving rudimentary funds 
+flow and banking systems particularly at the implementation level, characterized by potential money laundering and 
+terrorist financing (ML/TF) risks; inadequate public financial management and cash transfer management capacities at 
+the implementing agency and community level to spend and account for the funds correctly and timely; and limited 
+access to Project sites at the local level due to security constraints. Risk mitigation measures include strengthening 
+beneficiary identification and enrolment processes using WFP’s SCOPE platform; strengthening existing framework 
+agreements with payment service providers to facilitate payment delivery, in particular measures to minimize liquidity 
+challenges; TPM arrangements complemented by field-based monitors; and agreement with MoLSA and WFP to ensure 
+utilization of banking institutions supervised by recognized regimes. These risk mitigation measures will be further 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 21 of 38 
+ 
+strengthened with the aim of strengthening country institutional capacities, systems, policies and procedures, with the 
+support of dedicated and qualified resources for procurement and financial management at MoLSA. 
+ 
+47. 
+Risks arising from sector strategies and policies remain substantial in the context of the political uncertainties. 
+FGS is committed to establishing an effective national social protection system, as elaborated in its high level strategic 
+and policy documents, however, changes in government leadership and capacity constraints at all levels can risk slowing 
+down progress on the sectoral agenda. In this regard, the ongoing World Bank ASA has been critical in ensuring that FGS 
+receives just-in-time advisory support in the formulation of broader strategy and policy, as well as on operational matters 
+which impact Project performance and outcomes, such as a new targeting strategy to be utilized by Baxnaano – which 
+remains a central tool for the overall sector strategy in its poverty alleviation efforts. 
+ 
+48. 
+Similarly, risks arising from institutional capacity for implementation and sustainability remain substantial as 
+changes in leadership can impact the implementation momentum achieved till date. At the policy level the NSPSC and 
+SPWG, chaired by the Office of the Prime Minister and MoLSA respectively, are expected to serve as mitigating measures 
+to smoothen inter-governmental coordination and with development partners. The SPWG has been convening at regular 
+intervals, however the NSPSC has not been able to convene since its establishment in 2020. At an implementation level, 
+MoLSA’s own capacity to implement the Project has grown with its partnerships with WFP and UNICEF, as well as close 
+technical support from the World Bank over the past three years. Technical collaboration with these agencies and the 
+World Bank extends beyond the scope of the Project, and efforts to build capacity in terms of both human and 
+technological resources are therefore holistic and not only Project focused, providing an additional layer of mitigation to 
+implementation and sustainability risks. 
+ 
+49. 
+Other risks in Somalia include conflict and insecurity risks, which continue to be substantial across the country 
+and high in parts of the country. The security situation limits access to Project locations for World Bank supervision and 
+poses risks for frontline implementers, both government and UN agencies, as well as beneficiaries. In continuation of the 
+operating modality established under the parent Project, the proposed AF will only operate in locations where the 
+security situation is not expected to create risks of successfully delivering cash assistance to poor and vulnerable 
+households – a risk that is largely now mitigated by the use of mobile money. In addition, WFP’s role in service delivery 
+provides additional insights to MoLSA via the United Nations (UN) system for identifying and managing security threats 
+to its operations. 
+ 
+50. 
+In general, risks of the proposed AF in being unable to deliver cash assistance to poor and vulnerable households 
+– which is the essence of the Project – are largely mitigated by the use of a robust and multilayered M&E system which 
+ensures accountable and effective implementation. This includes the risks of leakage and other kinds of fraud which will 
+continue to be monitored and mitigated with the use of secure biometrically-enhanced beneficiary identification; 
+transfer of electronic beneficiary lists to the mobile network provider through secure data exchange protocols; use of 
+the GRM to address complaints; regular field monitoring by WFP and MoLSA staff; and ongoing site visits by the TPM 
+agency. The TPM arrangement specifically carries out key informant interviews and documentation reviews, following 
+each payment cycle to assess the compliance of processes with established protocols, check whether the right amounts 
+have been paid to intended recipients, and understand the use of cash by beneficiaries. These findings continue to 
+provide MoLSA with an overview of implementation challenges and inform course adjustments. 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 22 of 38 
+ 
+ 
+IV. APPRAISAL SUMMARY 
+ 
+A. Economic and Financial Analysis 
+ 
+51. 
+Somalia has a population of about 15 million, of which roughly 60 percent are nomadic and seminomadic 
+pastoralists, and 60 percent live in rural areas. About 70 percent of the population live below the poverty line (estimated 
+based on US$1.90 a day in 2011 purchasing power parity terms)17 and this figure is expected to have increased in recent 
+years following the compounding shocks of floods, the COVID-19 pandemic, the desert locust plague, and recent drought, 
+all of which have adversely affected economic growth and household consumption. The war in Ukraine is the latest in a 
+series of shocks on prices of staple goods which pose serious risks of food insecurity. 
+ 
+52. 
+The ongoing drought crisis is expected to continue through mid-2022 with the greatest impact on the central 
+and southern parts of the country. The Food and Agriculture Organization’s (FAO) Somalia Water and Land Information 
+Management (SWALIM) drought monitoring tool indicates that about 80 percent of the country is currently facing 
+extreme drought conditions. Households currently face water shortages, limited milk availability, and a lack of saleable 
+livestock as animals die from starvation and the condition of those remaining deteriorates. The rising costs of water and 
+feed for livestock, as well as migration to distant areas in search of pasture and water, have led to very high debt burdens 
+among pastoral households.18 
+ 
+53. 
+The war in Ukraine has also increased the prices for energy and food at a time when households are severely 
+affected with the worsening drought conditions. The price for a twenty-liter jerrycan of cooking oil doubled from US$25 
+to around US$50 within a week, while the price for a liter of gasoline nearly trebled from US$0.64 to US$1.80 in the same 
+timeframe. A record increase in global food prices have been driving staple food purchases beyond the reach of most 
+poor rural, urban and displaced families across Somalia. Before this overseas conflict, food prices had already been 
+increasing with livestock dying or decreasing in quality, and harvests of cereals well below long-term averages.  
+ 
+54. 
+The enhanced and expanded cash transfers under the proposed AF will help mitigate the impact of the multiple 
+crises affecting Somalia, as expected from similar policy responses undertaken in the region. Reliance on cash transfers 
+as effective safety nets in times of crisis have increased significantly in recent years, especially in response to COVID-19, 
+in all regions of the world. Social assistance protects investments on human capital and productive assets. Existing 
+literature also suggests that cash transfers can help promote household food security in a post-disaster context through 
+dietary diversity,19 reduce negative coping strategies such as self-imposed dietary restrictions, child labor and dangerous 
+work, to meet needs,20 and that households receiving cash transfers experience less hunger compared to household who 
+did not receive the transfer.21 
+ 
+17 World Bank (2019). Somali Poverty and Vulnerability Assessment – Findings for Wave 2 of the Somali High-Frequency Survey. 
+ 
+18 https://reliefweb.int/report/somalia/somalia-faces-risk-famine-ipc-phase-5-multi-season-drought-and-soaring-food-prices 
+ 
+19 Bailey, S. and K. Hedlund (2012). The impact of cash transfers on nutrition in emergency and transitional settings: A review of evidence. Overseas 
+Development Institute. 
+ 
+20  Lehmann C. and D. Masterson (2014). Emergency economies: The impact of cash assistance in Lebanon; An impact evaluation of the 2013–2014 
+winter cash assistance program for Syrian refugees in Lebanon. Beirut: International Rescue Committee. 
+ 
+21 Banerjee A., Faye M., Krueger A., Niehaus P. and T. Suri (2020). Effects of a Universal Basic Income during the pandemic. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 23 of 38 
+ 
+ 
+55. 
+The proposed AF will protect the human capital gains of the parent Project and help mitigate extreme poverty 
+and hunger among the targeted beneficiaries and contribute to immediate food security and consumption needs. As 
+the current drought is pushing more people into extreme poverty and vulnerability, the frontloading of funds as a vertical 
+top-up under the first AF, and the plan to provide temporary ECT to non-Baxnaano households under the proposed 
+second AF, will prove to be critical. Baxnaano currently covers 8 percent of the total population, and the horizontal and 
+vertical expansion of cash transfers will enhance coverage to 15 percent of the country’s population to meet basic needs 
+during the ongoing drought for at least six months. For the 200,000 existing beneficiaries receiving shock-responsive top-
+ups under the first AF, and the 155,000 non-Baxnaano households entitled to ECT under the proposed second AF, the 
+total transfer amount of US$60 monthly covers about 59 percent of the cost of minimum expenditure basket (CMB) for 
+urban/main markets for the month of February 2022.22 
+ 
+B. Technical 
+ 
+56. 
+The parent Project addresses human capital needs from a strategic developmental perspective, and effective 
+shock-responsive delivery for building resilience and addressing food insecurity. The Baxnaano program, financed by 
+the parent Project and first AF, would continue functioning in the same way under the proposed AF. The cash transfers 
+provided intend to enable households to protect and invest in their children’s health and education and thereby gradually 
+build human capital. They are also intended to function in a manner whereby addition benefits can be provided to the 
+same households (i.e. vertical expansion) or non-participating households can be temporarily served (i.e. horizontal 
+expansion) to safeguard assets and boost purchasing capacity for food and basic needs in times of distress. 
+ 
+57. 
+MoLSA will amend the existing contract with WFP to include Component 1 funds from the proposed AF. The 
+current cohort of 200,000 households are already included in the program and no incremental logistical actions will be 
+required to continue providing cash transfers. The population segment eligible for temporary ECT is either already pre-
+identified having been supported under the SNLRP Phase I or will be identified using the established targeting process. 
+The scale up to 20,000 new households would largely follow procedures which have already been used to deliver cash 
+assistance by WFP, but with a move towards the newly adopted targeting methodology. In this manner, the proposed AF 
+would enable Baxnaano to continuously implement and learn from new modalities, while a longer-term sustainability 
+strategy is developed in partnership with the broader development community. Cash delivery will continue to be made 
+via mobile money for which WFP has established partnerships with commercial banks and telecommunications service 
+providers. Payments are expected to continue on a quarterly basis to facilitate payroll preparation, disbursement and 
+reconciliation, as well as to provide income predictability to households which would facilitate financial decision-making. 
+ 
+58. 
+Expansion of the household registration in the USR will support a strong foundation upon which a 
+comprehensive national database of the poor and vulnerable can be built. Registration of approximately 200,000 poor 
+and vulnerable households in the USR will mean that some additional 1.2 million poor and vulnerable individuals will be 
+included in the national database, equivalent to approximately 8 percent of the population and 11 percent of the poor 
+in Somalia. This, in addition to the coverage under SNLRP of 15 percent of the poor, will bring total registration in the 
+database to 26 percent of the poor and 19 percent of the total population. The data would enable rapid mobilization of 
+assistance in response to future shocks. As such, MoLSA will continue to mobilize resources to expand USR registration 
+as well as seek other programs’ collaboration to register their beneficiary households using the CRF, ensuring data sharing 
+between their databases and the USR. 
+ 
+ 
+22 https://www.fsnau.org/sectors/markets 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 24 of 38 
+ 
+59. 
+The Project continues to operate amid the COVID-19 pandemic and program implementers would ensure 
+adherence to national regulations for contagion control as well as all provisions in applicable environmental and social 
+instruments. The use of protective equipment by program administrators and facilitators, social distancing during 
+community events, use of virtual platforms for training, use of mobile payments for benefit delivery, among others, will 
+continue and thus help mitigate risks of COVID-19 transmission. 
+ 
+60. 
+The proposed AF has been designed in close consultation with development partners. This collaboration will 
+continue and expand during the implementation of the Project, particularly through the various working groups and 
+platforms established to coordinate efforts across complementary safety net interventions. Specifically, MoLSA will lead 
+coordination efforts via the SPWG given its leadership role in the social protection sector, as well as through the Food 
+Security, Nutrition and Social Protection sub-working group and the Technical Working Group on Social Protection. The 
+World Bank will remain engaged through the SDWG and the CWG which serve as key platforms for coordination across 
+development and humanitarian agencies. WFP’s SCOPE system would also help coordinate targeting activities between 
+Baxnaano and WFP-implemented humanitarian interventions. 
+ 
+61. 
+As the Project supports the transition from a relief-focused mode of ensuring livelihoods, income and food 
+security in the short-term towards a modality focused on building household and institutional resilience and human 
+capital, it will be critical for FGS and development partners to consider the financing requirements for the program. 
+Based on its current coverage and benefit level Baxnaano requires US$48 million annually, exclusive of the delivery cost, 
+to sustain regular nutrition-linked transfers to the current 200,000 households which represents around 11.5 percent of 
+the population living in poverty (or 8.0 percent of the total population). The same amount would be needed for a 
+beneficiary base of this size in case of a crisis or disaster where payment of a shock-responsive top-up is authorized for a 
+six-month period. A significant portion of recurrent budget would thus be necessary for the program to operate with 
+such a critical mass and efforts would be undertaken to identify potential sources of funding for the period beyond 
+December 2023 when the cash transfer budget is expected to be fully delivered to the original beneficiary cohort. 
+ 
+C. Financial Management  
+ 
+62. 
+A financial assessment of WFP conducted for the parent Project will be fully adopted by the proposed AF and 
+aligned with the Financial Management Framework Agreement (FMFA) between the World Bank and the UN. The 
+assessment of the technical design and end-to-end cash transfer business processes under the parent project undertaken 
+with the support of WFP remains relevant. The financial management systems and arrangements include budgeting, 
+accounting, internal controls, funds flow, financial reporting, internal and external auditing arrangements, financial 
+management staffing, risk management, and related policies, procedures and practices. These will facilitate the 
+preparation of regular, timely and reliable financial statements and support the provision of a complete, true and fair 
+record of all transactions and balances, help safeguard assets, ensure rigorous audits, all in line with World Bank financial 
+management policies and internationally accepted standards. 
+ 
+63. 
+Given the Use of Country Systems (UCS) in Somalia, the proposed AF will adopt this approach in various aspects 
+of financial management as is the case for the parent Project and first AF. This will cover budgeting, accounting and 
+reporting, and oversight arrangements with the Office of the Auditor General. The External Assistance Fiduciary Section 
+(EAFS) units within the Offices of the Accountant General of the FGS will remain responsible for overall financial 
+management, with the PIU continuing to carry out day-to-day functions under their guidance. The effectiveness of the 
+EAFS units, alongside other relevant functional units, will be continuously monitored while capacity strengthening 
+opportunities will be identified and supported to ensure effective financial management operations.  
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 25 of 38 
+ 
+ 
+D. Procurement 
+ 
+64. 
+Procurement under the proposed AF will be carried out in accordance with standard policy documents. These 
+include the (i) Procurement Regulations for Borrowers under Investment Project Financing (IPF): Goods, Works, Non-
+Consulting Services and Consulting Services (July 1, 2016; revised November 2017, August 2018 and November 2020) and 
+(ii) Guidelines on Prevention and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits 
+and Grants (revised July 1, 2016); and (iii) Financing Agreement. 
+ 
+65. 
+No significant new procurement is anticipated, and the major procurement-related activity would be the 
+amendment to the existing contract between MoLSA and WFP for an expansion of the cash transfers under Component 
+1. The Project Procurement Strategy for Development (PPSD) prepared under the parent Project will remain applicable, 
+and the Systematic Tracking of Exchanges in Procurement (STEP) portal will continue to be used to update procurement 
+plans and conduct all procurement transactions. Implementation arrangements will remain unchanged and continue to 
+be strengthened. Relevant PIU officials, including a Procurement Specialist, have been provided necessary training 
+including on the Procurement Regulations and use of STEP. 
+ 
+E. Legal Operational Policies 
+ 
+. . 
+ 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+.
+ 
+F. Environmental and Social  
+ 
+66. 
+Activities under the proposed AF are expected to have moderate environmental and social risks and impacts. 
+Key social risks relate to the (i) security of payments, (ii) potential exclusion of the target population and particularly 
+poor, vulnerable and minority women, (iii) gender norms that can be restrictive for women and girls leading to increased 
+GBV/SEA/SH risks where registration for cash transfers is exchanged for sexual favors, (iv) systemic weaknesses to 
+respond to such risks, (v) remoteness and security risks that restrict access for effective stakeholder engagement, 
+community participation and grievance redress, as well as to Project workers and beneficiaries, and (vi) breach of data 
+security related to the collection, use, and storage of data for the USR. Collectively, and given that both implementing 
+partners (WFP and UNICEF) have a strong track record and robust systems for effective implementation, risks and impacts 
+are considered moderate. However, the residual contextual risks of operating in a conflict zone with endemic fragility 
+and protracted conflict and insecurity means complex dynamics where community consultations, oversight and variable 
+capacity to redress harm, can easily lead to substantial risks and impacts. 
+ 
+67. 
+As activities and implementation arrangements under the proposed AF will remain materially consistent with 
+the parent Project, measures already in place to manage environmental and social risks and impacts will continue to 
+apply. These include the active social risk management instruments, namely the Social Management Plan (SMP) 
+(including the GBV Action Plan (GBVAP) and Security Management Plan (SeMP)) and Labor Management Procedures 
+(LMP). The Environmental and Social Review Summary (ESRS) has been updated to detail social risk mitigation measures 
+to be adopted by the proposed AF, as well as environmental and social performance and lessons learnt from the parent 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 26 of 38 
+ 
+Project. Community consultations will be conducted in new districts where new households will be targeted for Baxnaano 
+participation, and the Environmental and Social Commitment Plan (ESCP) and Stakeholders Engagement Plan (SEP) have 
+been updated accordingly (May 17, 2022). Any amendments to the contract between MoLSA and WFP will reflect 
+environmental and social framework (ESF) provisions in alignment with the parent Project. 
+ 
+68. 
+GBV/SEA/SH continues to be a threat to women and girls throughout Somalia both as a significant contextual 
+and Project-related challenge in similar operations, and in the context of the ongoing drought which may create or 
+exacerbate risks.  As families lose their livelihoods, suffer hunger and food insecurity, the vulnerability of women and 
+girls to the risks of sexual abuse and exploitation increases as they seek to access Project services. In addition, Project 
+workers, in particular female workers, can be at risk of sexual harassment by colleagues or supervisors. Mitigation 
+measures that will continue to apply to address GBV/SEA/SH risks include integrating codes of conduct with GBV/SEA/SH-
+related protections; community consultations and sensitization activities to raise awareness of risks; mapping of and 
+collaboration with potential service providers in Project affected areas; development of a GBVAP; and strengthening of 
+the GRM with procedures and channels to enable safe, confidential and ethical reporting of GBV/SEA/SH incidents. 
+ 
+G. Climate Change 
+ 
+69. 
+Somalia is highly prone to frequent and devastating climatic shocks, such as floods and droughts, as well as 
+biological shocks such as locust infestations which themselves are driven by the effects of climate change. These shocks 
+disproportionately impact poor and vulnerable households that have limited capacity to respond. The parent Project and 
+its first AF provided predictable cash transfers to address the resulting chronic food insecurity, and the proposed second 
+AF will continue delivering cash assistance and will expand this reach by 93 percent. The regular transfers for Baxnaano 
+beneficiaries, as well as ECT for non-Baxnaano households will enable recipients to meet urgent food consumption needs, 
+mitigate climate-induced risks and avoid harmful negative coping strategies with environmental impacts such as cutting 
+down trees to make charcoal for sale, among others. Additionally, the Project will continue efforts to address demand-
+side challenges of malnutrition among children and pregnant and lactating women, by building linkages between 
+Baxnaano and nutrition service providers. 
+ 
+70. 
+The establishment of a national shock-responsive safety net system with Project support will address the 
+institutional side of resilience-building to climatic shocks. The use of the distress index for the geographical selection of 
+target locations incorporates climatic considerations as the exposure to shocks and severity of food insecurity correlates 
+to the localized impacts of climatic events. Household data to be collected for household targeting includes data on 
+climate-dependent livelihoods to help assess vulnerability.  Populating household data in the forthcoming social registry 
+will support rapid identification and categorization of beneficiaries for outreach in the event of future crises. The gradual 
+use of the USR for the registration and selection of the poorest and most vulnerable households for safety net expansion 
+will operationalize the system and pave the way for its future application across social sectors. This would enable 
+improved beneficiary identification for other interventions, such as nutrition, social and economic inclusion services, 
+further contributing to improved resilience against climatic and other shocks. 
+ 
+H. Gender  
+ 
+71. 
+Women and girls in Somalia have been disproportionately impacted by the multiple crises and food insecurity 
+as they face specific challenges to social, economic and decision-making access. Article 11 of the Provisional 
+Constitution, stipulates that “all citizens, regardless of sex, religion, social or economic status, political opinion, clan, 
+disability, occupation, birth or dialect shall have equal rights and duties before the law.” Nonetheless, traditional and 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 27 of 38 
+ 
+religious norms limit women’s roles outside the domestic sphere, thereby restricting participation in political and public 
+decision-making forums. Despite increasing engagement in economic activities, women’s involvement in wage labor 
+remains low (33 to 40 percent) and mainly concentrated in the agriculture and informal sector. 
+ 
+72. 
+The proposed AF, via the Baxnaano program, will continue to tackle these gender gaps and GBV/SEA/SH risks 
+in several ways. The program will continue to prioritize women as the direct recipient of the cash transfers, thereby 
+improving their access to predictable income, closing the gap on income inequality, and enhancing women’s decision-
+making power in the household and community. Mobile payments would improve financial inclusion by connecting 
+women to the broader mobile money platform, which can be used for other financial activities. As in the parent Project, 
+the proposed AF will ensure women receive their benefits through secured mobile money arrangements including the 
+provision of subscriber identification module (SIM) cards in their names. Improved health, nutrition and education of 
+mothers and children, as well as participating women’s financial literacy can be expected, as Baxnaano will continue to 
+link households to broader social services to support human capital accumulation and economic empowerment. In the 
+medium to longer terms, it is envisioned that sustained cash transfer support will enhance economic inclusion of women 
+and overall gender equity. 
+ 
+73. 
+The proposed AF will provide continuity for initiatives under the parent Project which help to mitigate risks of 
+GBV/SEA/SH incidents and support survivors. Cash assistance to poor and vulnerable households enables women and 
+girls to avoid moving to urban areas and IDP camps during shocks, which is a common coping strategy during 
+emergencies, and thereby minimizing their exposure to GBV/SEA/SH. However, cash transfers may also increase 
+exposure to GBV/SEA/SH in the short term, and mitigation measures such as local level facilitation by cooperating 
+partners, which include women staff, will be essential to ensure effective outreach to female beneficiaries. The mapping 
+of GBV services undertaken by the parent Project will be updated by the proposed AF and facilitating access to these 
+services by potential GBV survivors will continue be supported. The GRM and TPM agency also include female staff to 
+ensure female beneficiaries are able to voice potential concerns or complaints in a safe environment. Progress in closing 
+gender gaps will be measured through gender-specific and gender-disaggregated data in the Project’s results framework. 
+ 
+I. 
+Citizen Engagement 
+ 
+74. 
+All aspects of citizen engagement established under the parent Project and first AF will apply, as the proposed 
+AF will contribute to the Baxnaano scale up for shock-response without significant design changes. The existing 
+arrangements governing Baxnaano implementation and the WFP contract for service delivery will continue to be in place. 
+Citizen engagement channels include, among others, the local CSC, a uniform communications strategy, the GRM and 
+TPM arrangements. 
+ 
+75. 
+The CSC have had a positive role in presenting community priorities and the inclusion of women has helped 
+women beneficiaries in coming forward with their concerns. Further work will be undertaken to improve capacity, 
+particularly in raising awareness on emerging issues and the use of grievance management avenues. Program-related 
+communication involves a multi-pronged strategy comprising radio broadcasts, bulk mobile messaging and infographic 
+posters to deliver essential content such as information on beneficiary rights and entitlements and means to reach the 
+CFM and WFP’s cooperating partners. The GRM has proven effective with multiple channels, comprising the CFM which 
+operates at the local level and the MoLSA administered national call center. Nearly 5,000 complaints were submitted via 
+the GRM between July and November 2021 of which 94 percent were addressed and closed within one month of receipt. 
+These mechanisms also coordinate with complaints and feedback systems established by other development partners 
+such as the Foreign, Commonwealth and Development Office (FCDO) which enhance learning and operational response. 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 28 of 38 
+ 
+Finally, TPM to solicit beneficiary feedback provides regular insights on issues such as the types of expenditures made 
+after receipt of cash transfers, timeliness and satisfaction with payment delivery, the quality of services provided by 
+WFP’s cooperating partners, among others. This data further enhances the Project’s M&E capacity and allows for 
+informed decision-making by Baxnaano implementers. 
+ 
+V. WORLD BANK GRIEVANCE REDRESS 
+ 
+76. 
+Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported 
+project may submit complaints to existing project-level grievance redress mechanisms or the WB’s Grievance Redress 
+Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-related 
+concerns. Project affected communities and individuals may submit their complaint to the WB’s independent Inspection 
+Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and 
+procedures. Complaints may be submitted at any time after concerns have been brought directly to the WB’s attention, 
+and Bank Management has been given an opportunity to respond.  For information on how to submit complaints to the 
+WB’s corporate GRS, please visit http://www.worldbank.org/en/projects-operations/products-and-services/grievance-
+redress-service. For information on how to submit complaints to the WB Inspection Panel, please visit 
+www.inspectionpanel.org. 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 29 of 38 
+ 
+ 
+     
+ 
+VI    SUMMARY TABLE OF CHANGES 
+ 
+ 
+Changed 
+Not Changed 
+Results Framework 
+  ✔ 
+   
+Components and Cost 
+  ✔ 
+   
+Loan Closing Date(s) 
+  ✔ 
+   
+Implementing Agency 
+     
+✔ 
+Project's Development Objectives 
+     
+✔ 
+Cancellations Proposed 
+     
+✔ 
+Reallocation between Disbursement Categories 
+     
+✔ 
+Disbursements Arrangements 
+     
+✔ 
+Legal Covenants 
+     
+✔ 
+Institutional Arrangements 
+     
+✔ 
+Financial Management 
+     
+✔ 
+Procurement 
+     
+✔ 
+Other Change(s) 
+     
+✔ 
+ 
+ 
+VII   DETAILED CHANGE(S) 
+   
+COMPONENTS 
+Current Component Name 
+Current Cost 
+(US$, millions) 
+Action 
+Proposed Component 
+Name 
+Proposed Cost (US$, 
+millions) 
+Nutrition-linked 
+Unconditional Cash 
+Transfers 
+161.00 Revised 
+Nutrition-linked 
+Unconditional Cash 
+Transfers 
+299.00 
+Delivery Systems and 
+Institutional Capacity 
+Building 
+6.00 No Change 
+Delivery Systems and 
+Institutional Capacity 
+Building 
+6.00 
+Project Management, 
+Monitoring and Evaluation, 
+and Knowledge 
+Management 
+8.00 No Change 
+Project Management, 
+Monitoring and 
+Evaluation, and 
+Knowledge 
+8.00 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 30 of 38 
+ 
+Management 
+ 
+0.00 New 
+Household Registration 
+in the Unified Social 
+Registry 
+5.00 
+TOTAL 
+ 175.00  
+ 
+ 318.00 
+ 
+ 
+LOAN CLOSING DATE(S) 
+Ln/Cr/Tf 
+Status 
+Original Closing 
+ 
+Current 
+Closing(s)  
+ 
+Proposed  
+Closing  
+ 
+Proposed Deadline 
+for Withdrawal 
+Applications 
+IDA-D5100 
+Effective 
+31-Aug-2022 
+31-Aug-2023 
+31-Dec-2024 
+30-Apr-2025 
+IDA-D8560 
+Effective 
+31-Aug-2023 
+31-Aug-2023 
+31-Dec-2024 
+30-Apr-2025 
+     
+ Expected Disbursements (in US$) 
+ DISBURSTBL 
+Fiscal Year 
+Annual 
+Cumulative 
+2020 
+22,168,446.00 
+22,168,446.00 
+2021 
+29,064,582.00 
+51,233,028.00 
+2022 
+93,766,972.00 
+145,000,000.00 
+2023 
+80,000,000.00 
+225,000,000.00 
+2024 
+80,000,000.00 
+305,000,000.00 
+2025 
+13,000,000.00 
+318,000,000.00 
+2026 
+0.00 
+318,000,000.00 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+Risk Category 
+Latest ISR Rating 
+Current Rating 
+ 
+Political and Governance 
+⚫ High 
+⚫ High 
+ 
+Macroeconomic 
+⚫ Substantial 
+⚫ High 
+ 
+Sector Strategies and Policies 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Technical Design of Project or Program 
+⚫ Moderate 
+⚫ Moderate 
+ 
+Institutional Capacity for Implementation and 
+Sustainability 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Fiduciary 
+⚫ High 
+⚫ High 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 7, 2022 
+Page 31 of 38 
+ 
+ 
+Environment and Social 
+⚫ Substantial 
+⚫ Moderate 
+ 
+Stakeholders 
+⚫ Moderate 
+⚫ Moderate 
+ 
+Other 
+⚫ Substantial 
+⚫ Substantial 
+ 
+Overall 
+⚫ Substantial 
+⚫ Substantial 
+ 
+   LEGAL COVENANTS2 
+LEGAL COVENANTS – Second Additional Financing for the Shock Responsive Safety Net for Human Capital 
+Project (P178730) 
+Sections and Description 
+ 
+ 
+Financing Agreement; Schedule 2; Section I.B (Update of Output Agreement): Without limitation to Section I.A 
+above, the Recipient shall, by not later than three (3) months after the Effective Date of this Agreement, update the 
+Output Agreement with WFP in a manner and substance satisfactory to the Association, in order to: (a) extend 
+WFP’s services for the provision of Cash Transfers under the Cash Transfer Program (“CTP”) to CTP Beneficiaries 
+under this additional financing; (b) expand WFP’s services to include the provision of Emergency Cash Transfers to 
+ECT Beneficiaries; and (c) incorporate the arrangements required for the data collection activities for the Unified 
+Social Registry under Part D of the Project. 
+ 
+Financing Agreement; Schedule 2; Section I.C (Third-Party Monitoring Agreement): In furtherance of Sections I.A 
+above, the Recipient shall, within three (3) months of the Effective Date: (a) amend the terms of reference of, and 
+contract with, the TPM Consultant to extend the completion date; or (b) hire a new third-party monitoring 
+consulting firm; and thereafter maintain such consultancy throughout the remaining period of implementation of 
+the Project, all, in a manner and substance satisfactory to the Association, in order to continue monitoring the 
+performance of the CTP until the new Closing Date, and incorporate the monitoring of the expanded scope of 
+activities. 
+ 
+ 
+ 
+Conditions 
+ 
+  
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 32 of 38 
+ 
+VIII. RESULTS FRAMEWORK AND MONITORING 
+     
+ 
+Results Framework 
+COUNTRY: Somalia  
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project 
+RESULT NO PDO 
+Project Development Objective(s) 
+ 
+The project development objective is to provide cash transfers to targeted poor and vulnerable households and establish the key building blocks of a national shock-
+responsive safety net system. 
+ 
+Project Development Objective Indicators by Objectives/ Outcomes 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Nutrition-linked Unconditional Cash Transfers  
+Beneficiaries of social safety net programs (CRI, Number)  
+0.00 
+2,250,000.00 
+Action: This indicator has been Revised  
+Beneficiaries of social safety net programs - Female (CRI, 
+Number)  
+0.00 
+1,125,000.00 
+Action: This indicator has been Revised  
+Delivery Systems and Institutional Capacity Building  
+National cash transfer program targeting methodology 
+developed and endorsed by FGS (Yes/No)  
+No 
+Yes 
+Operational design of the national Social Registry developed and 
+endorsed by FGS (Yes/No)  
+No 
+Yes 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 33 of 38 
+ 
+PDO Table SPACE 
+ 
+Intermediate Results Indicators by Components 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Component 1: Nutrition-linked Unconditional Cash Transfers  
+Households receiving cash transfers (Number)  
+0.00 
+375,000.00 
+Action: This indicator has been Revised  
+Households receiving shock-responsive benefits to cope with 
+an adverse climatic event (Number)  
+0.00 
+338,000.00 
+Action: This indicator is New  
+Women directly receiving cash transfers (Percentage)  
+0.00 
+85.00 
+Action: This indicator is New  
+Women who benefited from the nutrition services (Percentage)  
+0.00 
+25.00 
+Action: This indicator has been Revised  
+Children under 5 years of age who benefitted from the nutrition 
+program (Percentage)  
+0.00 
+25.00 
+Action: This indicator has been Revised  
+Beneficiaries receiving cash transfer payments within the 
+timeframe specified in the Operations Manual (Percentage)  
+0.00 
+90.00 
+Action: This indicator has been Revised  
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 34 of 38 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+PBC 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Registered grievances that are addressed within the timeframe 
+specified in the Operations Manual (Percentage)  
+0.00 
+85.00 
+Action: This indicator has been Revised  
+Component 2: Delivery Systems and Institutional Capacity Building  
+Social protection policy framework and medium-term strategic 
+roadmap developed and endorsed (Yes/No)  
+No 
+Yes 
+Government-led Social Protection Working Group established 
+and functional (Yes/No)  
+No 
+Yes 
+Cash Transfer payment delivery system design prepared and 
+endorsed (Yes/No)  
+No 
+Yes 
+National Cash Transfer MIS system developed (Yes/No)  
+No 
+Yes 
+National Cash Transfer GRM developed and endorsed (Yes/No)  
+No 
+Yes 
+Component 3: Project Management, Monitoring and Evaluation, and Knowledge Management  
+Design of a pilot intervention for youth-targeted productive 
+safety net is prepared (Yes/No)  
+No 
+Yes 
+Household Registration in the Unified Social Registry (Action: This Component is New) 
+Households registered in the USR (Number)  
+0.00 
+200,000.00 
+Action: This indicator is New  
+ 
+IO Table SPACE 
+  
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 35 of 38 
+ 
+Monitoring & Evaluation Plan: PDO Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Beneficiaries of social safety net programs  
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+Beneficiaries of social safety net 
+programs - Female 
+ 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+National cash transfer program targeting 
+methodology developed and endorsed by 
+FGS 
+ 
+Once 
+ 
+Official letter 
+from MoLSA 
+confirming 
+endorsement 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+Operational design of the national Social 
+Registry developed and endorsed by FGS 
+Operational design of a 
+national social registry to 
+include a database of poor 
+households that can be 
+targeted for safety net and 
+other assistance in times of 
+climate and other 
+emergencies. 
+Once 
+ 
+Official letter 
+from MoLSA 
+confirming 
+endorsement 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+ 
+ME PDO Table SPACE 
+ 
+Monitoring & Evaluation Plan: Intermediate Results Indicators  Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Households receiving cash transfers 
+Households which are 
+chronically poor and 
+vulnerable to climatic and 
+other shocks, of which (i) 
+those having children 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 36 of 38 
+ 
+under 5 years of age 
+entitled to regular 
+nutrition-linked cash 
+transfers and eligible for 
+shock-responsive top-ups, 
+and (ii) others eligible for 
+ECT. 
+Households receiving shock-
+responsive benefits to cope with an 
+adverse climatic event 
+Baxnaano households 
+receiving shock-responsive 
+benefits (i.e. vertical 
+program expansion) and 
+non-Baxnaano households 
+receiving ECT (i.e. 
+horizontal program 
+expansion) specifically in 
+response to the prevailing 
+drought crisis. 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+Women directly receiving cash transfers 
+Baxnaano households with 
+mothers and/or female 
+caregivers as mobile 
+money accountholders and 
+thus direct cash recipients, 
+and non-Baxnaano 
+households where a female 
+member is the direct 
+recipient. 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+Women who benefited from the nutrition 
+services 
+ 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+Children under 5 years of age who 
+benefitted from the nutrition program 
+ 
+Quarterly 
+ 
+WFP SCOPE 
+ 
+Program specific MIS 
+ 
+MoLSA and World Bank 
+ 
+Beneficiaries receiving cash transfer 
+payments within the timeframe specified 
+ 
+Quarterly 
+ 
+TPM 
+ 
+Program specific MIS; 
+TPM quarterly data 
+MoLSA, WFP and TPM 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 37 of 38 
+ 
+in the Operations Manual 
+collection 
+ 
+Registered grievances that are addressed 
+within the timeframe specified in the 
+Operations Manual 
+Indicative of performance 
+of citizen engagement. 
+Quarterly 
+ 
+TPM 
+ 
+Program specific MIS, 
+TPM quarterly data 
+collection 
+ 
+MoLSA, WFP & TPM 
+ 
+Social protection policy framework and 
+medium-term strategic roadmap 
+developed and endorsed 
+ 
+Once 
+ 
+MoLSA 
+Progress 
+Reports 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+Government-led Social Protection 
+Working Group established and functional  
+Once 
+ 
+MoLSA 
+Progress 
+Reports 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+Cash Transfer payment delivery system 
+design prepared and endorsed 
+ 
+Once 
+ 
+MoLSA 
+Progress 
+Reports; 
+Supervision 
+Missions 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+National Cash Transfer MIS system 
+developed 
+ 
+Once 
+ 
+MoLSA 
+Progress 
+Reports; 
+Supervision 
+Missions 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+National Cash Transfer GRM developed 
+and endorsed 
+ 
+Once 
+ 
+MoLSA 
+Progress 
+Reports; 
+Supervision 
+Missions 
+ 
+MoLSA PIU informs the 
+World Bank 
+ 
+MoLSA 
+ 
+ 
+The World Bank 
+ 
+Second Additional Financing for the Shock Responsive Safety Net for Human Capital Project (P178730) 
+ 
+ 
+ 
+ 
+ 
+June 9, 2022 
+Page 38 of 38 
+ 
+Design of a pilot intervention for youth-
+targeted productive safety net is prepared  
+Once 
+ 
+Design 
+proposal 
+available and 
+shared 
+ 
+Submission by MoLSA 
+PIU 
+ 
+MoLSA 
+ 
+Households registered in the USR 
+ 
+Quarterly 
+ 
+USR 
+ 
+Program specific MIS 
+ 
+MoLSA and WFP 
+ 
+ 
+ME IO Table SPACE 
+ 
+ 
+ 
+ 
+   

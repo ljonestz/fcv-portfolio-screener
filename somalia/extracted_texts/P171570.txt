@@ -1,0 +1,2532 @@
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: 145453-SO 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROGRAM DOCUMENT FOR A 
+ 
+PROPOSED IDA ARREARS CLEARANCE SET-ASIDE GRANT 
+IN THE AMOUNT OF SDR 271.2 MILLION  
+(UP TO US$375.0 MILLION EQUIVALENT) 
+ 
+AND A  
+ 
+PROPOSED IDA TURN-AROUND REGIME GRANT  
+IN THE AMOUNT OF SDR 32.6 MILLION  
+(US$45.0 MILLION EQUIVALENT) 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR THE 
+ 
+REENGAGEMENT AND REFORM DEVELOPMENT POLICY FINANCING 
+ 
+January 29, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Macroeconomics, Trade and Investment Global Practice 
+Africa Region 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of their official 
+duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+  
+. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+FEDERAL GOVERNMENT OF SOMALIA FISCAL YEAR 
+January 1 – December 31 
+ 
+CURRENCY EQUIVALENTS 
+Exchange rate effective as of December 31, 2019 
+Currency Unit: Somali shilling (SOS) 
+US$1.00 = SOS 25,878.87 
+ US$1.00 = SDR 0.72315469 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AfDB 
+African Development Bank 
+IOTC 
+Indian Ocean Tuna Commission 
+AML/CFT 
+Anti-money Laundering/Combatting 
+the Financing of Terrorism 
+IPF 
+Investment Policy Finance 
+ASA 
+Advisory Services and Analytics 
+LDP 
+Letter of Development Policy 
+CBS 
+Central Bank of Somalia 
+LIC 
+Low-income Country 
+CPF 
+Country Partnership Framework 
+MDA 
+Ministry, Department or Agency 
+CPI 
+Consumer Price Index 
+MDRI 
+Multilateral Debt Relief Initiative 
+DPG 
+Development Policy Finance 
+MMO 
+Mobile Money Operators 
+DRA 
+Debt Relief Analysis 
+MOF 
+Ministry of Finance 
+DSA 
+Debt Sustainability Analysis 
+NCA 
+National Communications 
+Authority 
+ECF 
+Extended Credit Facility 
+NDP 
+National Development Plan 
+EU 
+European Union 
+NPV 
+Net Present Value 
+FGS 
+Federal Government of Somalia 
+PER 
+Public Expenditure Review 
+FMS 
+Federal Member State 
+PFM 
+Public Financial Management 
+GDP 
+Gross Domestic Product 
+RCRF 
+Recurrent Cost and Reform 
+Financing 
+GRS 
+Grievance Redress System 
+SCD 
+Systematic Country Diagnostic 
+HIPC 
+Heavily-Indebted Poor Country 
+SCOA 
+Standard Chart of Account 
+ICT 
+Information Communications and 
+Technology 
+SDR 
+Special Drawing Rights 
+IDA 
+International Development 
+Association 
+SFMIS 
+Somalia Financial Management 
+Information System 
+IDP 
+Internally-displaced Person 
+SMP 
+Staff-Monitored Program 
+IEG 
+Independent Evaluation Group 
+SNA 
+Somalia National Army 
+IFC 
+International Finance Corporation 
+TSA 
+Treasury Single Account 
+IFI 
+International Financial Institution 
+UN 
+United Nations 
+IMF 
+International Monetary Fund 
+US$ 
+United States dollar 
+ 
+ 
+WBG 
+World Bank Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+Regional Vice President:
+Hafez Ghanem 
+Country Director:
+C. Felipe Jaramillo 
+Regional Practice Group Director:
+Asad Alam 
+Practice Managers:
+Abebe Adugna and Nicola Smithers 
+Task Team Leaders:
+Philip Schuler, Gaël Raballand, and Natasha Sharma 
+ 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+Page 1  
+ 
+Table of Contents 
+ 
+SUMMARY OF PROPOSED FINANCING AND PROGRAM .......................................................................2 
+1. 
+INTRODUCTION AND COUNTRY CONTEXT ...................................................................................4 
+2. 
+MACROECONOMIC POLICY FRAMEWORK ....................................................................................7 
+2.1. RECENT ECONOMIC DEVELOPMENTS ......................................................................................... 7 
+2.2. MACROECONOMIC OUTLOOK AND DEBT SUSTAINABILITY ...................................................... 13 
+2.3. IMF RELATIONS ......................................................................................................................... 17 
+3. 
+GOVERNMENT PROGRAM ........................................................................................................ 17 
+4. 
+PROPOSED OPERATION ............................................................................................................ 19 
+4.1. LINK TO GOVERNMENT PROGRAM AND OPERATION DESCRIPTION ........................................ 19 
+4.2. PRIOR ACTIONS, RESULTS AND ANALYTICAL UNDERPINNINGS ................................................ 19 
+4.3. LINK TO CPF, OTHER BANK OPERATIONS AND THE WBG STRATEGY ........................................ 28 
+4.4. CONSULTATIONS AND COLLABORATION WITH DEVELOPMENT PARTNERS ............................ 29 
+5. 
+OTHER DESIGN AND APPRAISAL ISSUES .................................................................................... 29 
+5.1. POVERTY AND SOCIAL IMPACT ................................................................................................. 29 
+5.2. ENVIRONMENTAL ASPECTS....................................................................................................... 30 
+5.3. PFM, DISBURSEMENT AND AUDITING ASPECTS ....................................................................... 32 
+5.4. MONITORING, EVALUATION AND ACCOUNTABILITY ............................................................... 34 
+6. 
+SUMMARY OF RISKS AND MITIGATION ..................................................................................... 35 
+ANNEX 1: POLICY AND RESULTS MATRIX .......................................................................................... 37 
+ANNEX 2: IMF RELATIONS ANNEX ..................................................................................................... 39 
+ANNEX 3: LETTER OF DEVELOPMENT POLICY ..................................................................................... 41 
+ANNEX 4: ENVIRONMENT AND POVERTY/SOCIAL ANALYSIS TABLE .................................................. 52 
+ 
+ 
+The Somalia Reengagement and Reform Development Policy Financing was prepared by an World Bank Group team led by Philip 
+Schuler, Gaël Raballand, and Natasha Sharma (co-Task Team Leaders), and that included Taneem Ahad, Lydie Ahodehou, Ivar 
+Andersen, Virginia Cheng, Angelique DePlaa, Susan Evans, Geoff Handley, Tracy Hart, Wendy Karamba, Tim Kelly, Sher Shah Khan, 
+Gregory Kisunko, Karima Laouali Ladjo, Leonard Matheka, Matthias Mayr, Julien Million, Ben Musuku, Jean Owino, John Randa, Axel 
+Rifon Perez, Martin Serrano, Sitora Sultanova, Jiwanka Wickramasinghe, Fred Yankey, and Nobuo Yoshida. Kevin Carey (Practice 
+Manager, EMNM2), Khwima Nthara (Country Manager, AFMLR), Sona Varma (Lead Economist, EMNM2) served as peer reviewers of 
+the operation. Michael Goldberg, Allison Holland, Vinaya Swaroop, and Theo Thomas also offered helpful guidance. Without the 
+security and logistical support for missions to Mogadishu provided by George Griffin, Hart Security, Eugenia Konya, and Doreen 
+Wanjiku, preparation of this operation would not have been possible. 
+ 
+  
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 2  
+  
+ 
+  
+ 
+  
+ 
+SUMMARY OF PROPOSED FINANCING AND PROGRAM 
+ 
+BASIC INFORMATION 
+ 
+Project ID 
+Programmatic 
+P171570 
+No 
+ 
+Proposed Development Objective(s) 
+Facilitate Somalia's full reengagement with the World Bank Group and support Somalia’s economic recovery through 
+policy reforms that strengthen fiscal management and promote inclusive private sector-led growth. 
+Organizations 
+Borrower: 
+FEDERAL GOVERNMENT OF SOMALIA 
+Implementing Agency: 
+MINISTRY OF FINANCE 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+ SUMMARY 
+ 
+Total Financing 
+420.00 
+ 
+DETAILS 
+ 
+     International Development Association (IDA) 
+420.00 
+          IDA Grant 
+420.00 
+ 
+INSTITUTIONAL DATA 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+Overall Risk Rating 
+High 
+    
+ 
+. 
+ 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 3  
+  
+Results 
+Indicator Name 
+Baseline 
+Target 
+Increased transparency of public debt information through 
+publication of quarterly debt bulletins 
+None published (2018) 
+At least three quarterly 
+bulletins published (end-
+2021) 
+Real growth of FGS inland tax revenue 
+US$38.6 million (FY2018)
+30 percent real increase 
+above the 2018 value, 
+deflated by the CPI 
+(FY2021) 
+Increased national revenue allocated to FMSs  
+US$0.74 million 
+allocated (FY2019)  
+Allocations to FMSs have 
+doubled to US$1.5 million
+(FY2021) 
+Business creation process streamlined through launch and 
+operationalization of an on-line registration system 
+No on-line business 
+registration (2019) 
+80 percent of new 
+businesses registered are 
+made through the on-line
+system (end-2021) 
+Increased number of telecommunications interconnection 
+agreements completed 
+Zero (2018) 
+80 percent of mobile 
+network operators have 
+at least one agreement 
+(end-2021) 
+Increased transparency of mobile money transaction information 
+through CBS publication of reports including mobile money 
+deposits and other statistics 
+None published (2018) 
+At least three quarterly 
+reports published (end-
+2021) 
+ 
+ . 
+ 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 4  
+  
+ 
+IDA PROGRAM DOCUMENT FOR A PROPOSED GRANT TO THE FEDERAL REPUBLIC OF SOMALIA 
+1. INTRODUCTION AND COUNTRY CONTEXT 
+1. 
+This Program Document proposes a Reengagement and Reform Development Policy Financing 
+(DPF) for the Federal Republic of Somalia in the amount of US$420 million from International 
+Development Association (IDA) grant resources. The objectives of the proposed DPF are to facilitate full 
+normalization of relations with the World Bank Group (WBG) and support Somalia’s economic recovery 
+through policy reforms that strengthen fiscal management and promote inclusive private sector-led 
+growth. Up to SDR 271.2 (up to US$375 million equivalent) of the proposed grant would be disbursed to 
+the bridge-loan creditor assisting with arrears clearance (“Portion A of the Financing”); and SDR 32.6 
+million (US$45 million equivalent) would be disbursed to the Federal Government of Somalia (FGS) as 
+budget support to meet cash flow needs after Somalia has cleared its arrears to IDA1 (“Portion B of the 
+Financing”).  
+2. 
+Strategically positioned in the Horn of Africa, Somalia has a land mass of 637,657 km2 and boasts 
+the longest coastline in Africa. Traditional livelihoods are shaped by geographic and climatic conditions: 
+while northern Somalia is mainly arid and semi-arid land, southern Somalia has higher agricultural 
+potential, due to higher rainfall and water from two rivers: the Juba and the Shebelle. These rivers, rising 
+in the Ethiopian highlands, underpin both crop and livestock production systems in southern Somalia – 
+but irrigation and flood control infrastructure are in extremely poor condition following years of neglect 
+and conflict. Livestock production systems are a core economic activity, requiring mobility to exploit 
+seasonal pasture across vast areas of rangeland. Though still underutilized, the country’s long coastline is 
+home to numerous valuable species of fish and other marine life that could support commercial offshore 
+fishing as well as inshore fishing for local food security and trade. 
+3. 
+The country has suffered decades of protracted crisis and conflict. Somalia experienced increasing 
+macroeconomic instability during the 1980s associated with unsustainable fiscal policies, uncontrolled 
+monetary expansion, and repeated devaluation. An elevated level of government spending in the face of 
+exceptionally low domestic revenue—averaging 27 and 7 percent of gross domestic product (GDP), 
+respectively, between 1981 and 1989—resulted in Somalia’s high dependence on foreign assistance and 
+ultimately the accumulation of arrears to external creditors.2 Civil conflict and state fragmentation 
+followed the collapse of the Siad Barre regime in 1991. Combined with repeated droughts, these resulted 
+in the destruction of the country’s manufacturing base and much of its crop production, large internal 
+displacement of people, increasing urbanization, and acute vulnerability to external shocks. Somalia’s 
+natural capital (its land, rivers, forests, minerals, and marine resources) has been heavily degraded and 
+constantly stressed by overexploitation as political disagreements imperil the prospects for sustainable 
+governance. 
+4. 
+The trust in government and its institutions that was lost over decades of violent contestation for 
+power and resources must be rebuilt. Asymmetric federal structures, limited government capacity, and 
+a persistent war economy still challenge governance. Tax competition between jurisdictions within the 
+ 
+ 
+1 The arrears clearance facilitated by the proposed operations follows the procedures set forth in IDA, “Further Elaboration of a 
+Systematic Approach to Arrears Clearance,” June 2007. The proposed operation would disburse a grant of up to US$375 million 
+equivalent from the IDA arrears clearance set-aside and US$45 million equivalent from the IDA18 Turnaround Regime. 
+2 World Bank, “Somalia: Crisis in Public Expenditure Management,” March 1991. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 5  
+  
+federal system reduce total revenue collected by all levels of government.3 Only when the Government 
+begins to establish its value as a reliable provider of services and security, can trust between the people, 
+governing institutions, and various stakeholder groups be rebuilt. Unless that happens, violent conflict 
+will continue to plague Somalia and the Government will be unable to perform its core functions without 
+large-scale external support. 
+5. 
+Sustained political and economic reforms since 2012 are supporting Somalia’s transition out of 
+fragility. The adoption of the Provisional Constitution in 2012 established a federal political system, which 
+comprises the FGS and five Federal Member States (FMSs).4 Legal and institutional reforms implemented 
+since 2012 are rebuilding core public sector functionalities. As will be elaborated in Section 2.1, improved 
+fiscal management capacity has enabled the FGS to more than double its revenue collection, absorption 
+of external grants, and total spending between 2013 and 2019. The Central Bank of Somalia (CBS) is 
+building its financial supervision capacity, putting in place a stable and modern payments system, and 
+(with the FGS) strengthening the country’s defenses against money laundering and terrorism financing. 
+These reforms are building a strong and inclusive financial system. 
+Figure 1. Poverty is widespread in Somalia 
+ 
+Source: World Bank staff estimates, 2017 Somalia High Frequency Survey. 
+6. 
+Poverty remains pervasive, underscoring the need to build economic resilience. Almost 70 percent 
+of Somalis live on less than US$1.90 a day in purchasing power parity terms (Figure 1), and economic 
+growth is barely keeping up with population growth, estimated at 2.8 percent per year. 5 Poverty is high 
+throughout the country, with the highest incidence of poverty among internally displaced people living in 
+settlements, people living in rural communities, and nomads. Almost nine of 10 Somali households are 
+ 
+ 
+3 Competition for customs revenue is documented in Thomas Cantens, “Somalia: Assessment of Customs Revenue Potential and 
+Proposals for Reform,” World Bank, September 2018. 
+4 These are Galmudug, Hirshabelle, Puntland, Jubbaland, and South West States. In 1991, Somaliland declared its independence, 
+which is not recognized internationally. 
+5 World Bank, “Somalia Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somalia High-Frequency Survey,” 
+April 2019. The population growth rate estimate is from Federal Republic of Somalia and UNFPA, “Population Estimation Survey 
+2014,” October 2014. 
+0
+20
+40
+60
+80
+100
+Percent oof population in poverty
+Overall average (survey estimates)
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 6  
+  
+deprived in at least one dimension of poverty—monetary, electricity, education, or water and sanitation—
+and nearly seven of 10 households suffer in two or more dimensions. Access to services is especially 
+limited for internally displaced people (IDPs) living in settlements, nomads, and those living in rural areas. 
+Women across all population groups have lower literacy and educational attainment. Somalis are 
+vulnerable to external shocks such as natural disasters and epidemics, as well as to household-level shocks 
+such as injury, death, or unemployment. An estimated 74 percent of youth are unemployed, which 
+contributes to the underlying drivers of fragility, as Al-Shabab and spoiler groups exploit constrained 
+economic opportunities. This situation stresses the urgency of continued support to economic reforms 
+that will promote inclusive growth and meaningful jobs for the youth.  
+7. 
+Although Somalia has achieved much since 2012, it continues to face daunting challenges. At the 
+most basic level, Somalia faces the challenges associated with reconstructing the state, such as fostering 
+inclusive politics, ensuring security, and providing access to justice. Overcoming these requires building 
+core economic governance capabilities appropriate for a federal political system and a market economy. 
+To rebuild the social contract, the public sector must find ways to generate more revenue, share it across 
+levels of government, and spend it efficiently, equitably, and effectively. It must also establish the legal 
+and regulatory institutions that underpin a competitive market economy—many of which do not exist 
+under the system of central planning pursued by the Siad Barre regime. Building the capacity for economic 
+governance is also a prerequisite for addressing challenges of reducing poverty, generating inclusive 
+economic growth, and increasing households’ and the economy’s resilience to shocks. The National 
+Development Plan (NDP) identifies the need for significant public and private investments over the 
+medium term that will not be forthcoming without improved economic governance.6 
+8. 
+In addition, Somalia is vulnerable to extreme weather shocks, which are expected to become 
+more frequent and severe as the climate changes. Somalia has historically suffered droughts or floods 
+every several years. More recently, it was struck with severe drought in 2016/2017, drought in early 2019, 
+flooding in late 2019, and in early 2020 a plague of locusts that has been the worst in 25 years. Weather 
+and climatic shocks could lower agricultural output (both crops and livestock) damage structures, 
+exacerbate water stress, and displace people.7 The government’s capacity to reduce risks from natural 
+hazards ex ante and manage effects of disasters ex post has been limited, and humanitarian agencies 
+increasingly filled this gap after 1991. The government’s 2018 Recovery and Resilience Framework marks 
+a major step towards a more proactive management of disaster risks.8 It is developing sectoral strategies 
+to guide development of climate change-resilient production (e.g., in livestock) and is planning to 
+undertake reforms to clarify institutional mandates for aspects of disaster risk management. 
+9. 
+The proposed DPF contributes to addressing Somalia’s development challenges through support 
+for policy reforms that strengthen fiscal management and promote inclusive private sector-led growth. 
+Pillar 1 includes measures to improve debt transparency, revenue collection, expenditure containment, 
+budget accountability, and intergovernmental fiscal arrangements. These lay the foundation for the 
+Government to deliver critical social services needed to build human capital, reduce poverty, and increase 
+ 
+ 
+6 FGS, National Development Plan 2017–2019 (October 2016) and 2020–2024 (September 2019). 
+7 The 2016–2017 drought caused damages and losses estimated at US$3.25 billion, displaced 926,000 people, and left more than 
+half of the population in need of humanitarian assistance (FGS, “Drought Impact Needs Assessment,” February 2018). The 
+October-November 2019 floods have affected around 575,000 people, and preliminary estimates of damages and losses are in 
+the vicinity of US$275–300 million. 
+8 Federal Republic of Somalia, “Recovery and Resilience Framework,” (June 2018). 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 7  
+  
+resilience. Measures in Pillar 2 are aimed at building the business and investment climate and improving 
+regulation of modern services industries. These are prerequisites for a private sector that creates good 
+jobs at good wages. Measures selected for both pillars of the proposed DPF complement the WBG ongoing 
+technical and financial assistance. 
+10. 
+The proposed DPF complements a rapidly expanding engagement to build human capital and 
+strengthen resilience to climate change and other shocks. In FY2020, the World Bank is currently 
+delivering technical assistance to develop livestock insurance, a major Urbanization Review, and upstream 
+analysis on health and education that are expected to inform new financing 
+11. 
+The proposed DPF also addresses the above challenges by enabling full reengagement with the 
+WBG. The DPF would facilitate Somalia’s clearance of arrears to IDA, which is a requirement to qualify for 
+international debt relief under the Heavily-Indebted Poor Countries (HIPC) Initiative.9 Full reengagement 
+with the international community through the HIPC process is expected to enable Somalia to access the 
+financial and technical support the country needs for sustained poverty reduction and inclusive economic 
+growth. Normalization of Somalia’s relationship with IDA would give the government’s access to financing 
+from IDA’s Crisis Response Window, Regional Window, and Window for Host Communities and Refugees. 
+Normalization is also a prerequisite for the International Finance Corporation (IFC) to make investments 
+in Somalia’s private sector. 
+2. MACROECONOMIC POLICY FRAMEWORK 
+2.1. RECENT ECONOMIC DEVELOPMENTS 
+12. 
+The economy has been growing at a modest pace in recent years. GDP is estimated to have grown 
+by an average annual rate of 2.6 percent between 2013 and 2018 (Figure 2.A). The severe drought in 
+2016–2017 reduced growth to an estimated 1.4 percent in 2017, and preliminary estimates suggest the 
+economy has recovered, with growth estimated at 2.8 percent in 2018 and projected at 2.9 percent in 
+2019, following modest improvements to weather conditions.10 Although national accounts data are 
+limited, the available evidence suggests that the services sector—telecommunications, financial services, 
+and trade in particular—and construction have enjoyed rapid growth, despite the difficulties the country 
+has experienced.11 Agriculture is a major source of livelihood, especially for poorer Somalis, and livestock 
+ 
+ 
+9 To reach the HIPC Decision Point, a country must face an unsustainable debt burden that cannot be addressed through 
+traditional debt relief mechanism, establish a track record of policy reform (measured by at least six months of implementation 
+of a suitable IMF program), adopt at least an interim poverty reduction strategy, and be eligible to borrow concessionally from 
+international financial institutions (IFIs). Somalia is potentially eligible for HIPC Initiative debt relief as a “grandfathered country,” 
+as discussed in IDA and IMF, “HIPC Initiative — List of Ring-Fenced Countries that Meet the Income and Indebtedness Criteria at 
+end-2004,” April 11, 2006. 
+10 Somalia experienced a rainfall deficit in April 2019 that reduced cereal output and livestock supply. From May to August 2019, 
+there was an increase in rainfall, which improved vegetation but did not improve crop production. October and November 2019 
+have witnessed flash flooding in 50 percent of agricultural lands (Food Security and Nutrition Analysis Unit, Food and Agricultural 
+Organization, December 2019).  
+11 Growth estimates presented here are constructed using estimates of expenditure components. At this time, data limitations 
+prevent constructing GDP from the supply side, i.e., based on estimates of value added in economic sectors, or by aggregating 
+incomes. Furthermore, the available expenditure data tend to underestimate year-to-year variations in GDP growth rates. The 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 8  
+  
+accounts for virtually all recorded merchandise exports. Destruction of physical infrastructure (e.g., 
+irrigation systems and farm-to-market roads), displacement of the rural population, and vulnerability to 
+extreme weather have prevented the sector from serving as a source of dynamism.12  
+Figure 2. Somalia has enjoyed moderate growth and inflation since 2013 
+A. Real GDP growth 
+B. Inflation 
+Sources: IMF and World Bank staff estimates. 
+Note: 2018 is a preliminary estimate; 2019 is a forecast 
+Sources: Directorate of National Statistics. 
+Notes: Changes in the period-average CPI for Mogadishu; 
+2019 is growth in the CPI for January–April over the same 
+period of 2018. 
+13. 
+Prices have been relatively stable during the past decade in Somalia. The consumer price index 
+(CPI) grew by an average annual rate of 2.1 percent between 2013 and 2018 (Figure 2.B).13 This stands in 
+sharp contrast to the high and accelerating inflation suffered in the last decade of the Siad Barre regime, 
+when annual inflation was estimated to have exceeded 100 percent in 1989–1990.14 Fiscal discipline 
+(reinforced through successive International Monetary Fund (IMF) programs), de facto dollarization, and 
+a commitment to avoid the monetary policies of the 1980s have contributed to price stability. Shocks to 
+agricultural production, which are largely weather-related, are the primary contributor to price volatility. 
+Droughts, floods, and delayed rains can reduce agricultural output and place upward pressure on prices. 
+Inflation in 2018 eased to 3.2 percent from 6.1 percent in 2017, as the effects of a prolonged drought 
+subsided. Price data in 2019 indicate that inflation has crept up again to 4 percent, as weather conditions 
+affected cereal and livestock production, highlighting the need to invest in climate-resilient agricultural 
+production. 
+14. 
+Somalia’s chronically high structural trade deficit is a legacy of conflict, which destroyed much of 
+the country’s manufacturing and crop production capacity. Virtually all commodity exports take the form 
+of shipments of livestock to Gulf Cooperation Council countries. Exports of goods and services in 2019 are 
+ 
+ 
+growth slowdown during the 2017 drought therefore may have been more severe than suggested by the data, and the recovery 
+in 2018 greater. The true level of nominal and real GDP across the series may be greater than estimated, as the estimate does 
+not capture informal livestock exports to Ethiopia and Kenya. For more information on how GDP is estimated in Somalia, see 
+World Bank, “Somalia Economic Update, Fourth Edition,” August 2019. 
+12 The sector’s performance and investment needs are analyzed in World Bank and Food and Agriculture Organization, 
+“Rebuilding Resilient and Sustainable Agriculture in Somalia,” 2018. 
+13 Even when evaluated using monthly data, the year-on-year growth in prices has not exceeded 6.5 percent since 2015 (World 
+Bank staff estimates using CPI data from the Directorate of National Statistics). 
+14 World Bank, “From Resilience Toward Recovery and Development: A Country Economic Memorandum for Somalia,” January 
+2006. 
+2013-18 
+average = 
+2.6
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+2013
+2014
+2015
+2016
+2017 2018e 2019f
+Annual growth rate
+2013-18 
+average = 2.1
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+2013
+2014
+2015
+2016
+2017
+2018 2019*
+All prices
+Food and beverages
+Annual growth rate
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 9  
+  
+estimated at 23 percent of GDP, broadly maintaining the same trends as in 2017 and 2018, as the effects 
+of the prolonged drought conditions, as well as import restrictions imposed by Saudi Arabia and the 
+United Arab Emirates at the end of 2016 continue to prevail. The country typically imports more than four 
+times as much as it exports, with import spending estimated at 110 percent of GDP in 2018 (Table 1). Key 
+imports include most foodstuffs and petroleum. The trade deficit is financed by stable external flows, 
+including remittances, grants, and foreign direct investment, including for investments related to the port. 
+Remittances from Somalia’s large diaspora and official grants, estimated at 32 and 44 percent of GDP, 
+respectively, in 2019. Remittance inflows are high despite the absence of international correspondent 
+banking relationships.  
+15. 
+Although the official currency is the Somali shilling, the country is de facto highly dollarized. The 
+last legitimate shilling notes were printed in 1990, and virtually all notes in circulation are counterfeit. CBS 
+estimates that these notes account for a small share of the money supply.15 Most Somalis use the U.S. 
+dollar for all but low-value transactions, either in the form of currency or as mobile money, which is used 
+by the vast majority of Somalis.16 CBS does not conduct currency transactions. The shilling/dollar exchange 
+rate is fully market determined and has stayed relatively stable, averaging around 23,000 since January 
+2015.  
+16. 
+The authorities are strengthening their supervision of the financial sector. The collapse of the state 
+in the 1990s opened the door for privately-owned banks to emerge.17 Since the approval of the Central 
+Bank Act and the Financial Institutions Act in 2012, CBS has been expanding its regulatory capacity to 
+ensure stable growth of the sector. CBS began issuing licenses to money transfer bureaus and commercial 
+banks in 2014. It issued regulations for mobile money operators in July 2019, which brought this important 
+sector under central bank supervision. In October 2019, CBS established a payments system unit as part 
+of its functional reorganization and is also working with the private sector to establish a national payments 
+system.18 In addition, Somalia has been working to strengthen financial integrity. The anti-money 
+laundering/combatting the financing of terrorism (AML/CFT) Act was passed in 2016, establishing the 
+Financial Reporting Center, and more reforms to strengthen the AML/CFT framework and support the 
+reestablishment of correspondent banking relationships are underway.19 
+ 
+ 
+15 A CBS survey of market participants estimated that around 1 billion Somali shilling notes (essentially all counterfeit) were in 
+circulation (CBS, “Somali Shilling Currency Reform Project Plan,” July 2018). Based on this survey, CBS officials informally 
+estimated in September 2020 that shilling notes represented 10 percent of total currency in circulation. The IMF reported an 
+estimate that U.S. dollar banknotes accounted for around 95 percent of currency in circulation in Somalia, excluding Somaliland 
+(IMF, “Somalia: Staff Report for the 2015 Article IV Consultation,” July 2015).  
+16 In 2017, a World Bank-commissioned survey estimated that 73 percent of Somalis over the age 16 use mobile money services: 
+83 percent in urban areas, 72 percent in IDP camps and 55 percent in rural areas (Altai Consulting, “Mobile Money Ecosystem in 
+Somalia,” April 2017). The PVA estimates that 69 percent of urban households on average, ranging from 55 percent in central 
+Somalia to 85 percent in northwestern Somalia), and that 46 percent of domestic remittances and 12 percent of international 
+remittances go through mobile money. 
+17 The sole commercial bank operating in 1990 was state-owned. The World Bank’s 2006 CEM argued that the uncontrolled credit 
+this bank extended to other public enterprises was a leading contributor to the acceleration of inflation in the late-1980s. See 
+World Bank, “Somalia: From Resilience toward Recovery and Development,” January 2006. 
+18 The establishment of a national payments system is supported by a World Bank Investment Project Financings (IPF). 
+19 The authorities have developed an AML/CFT Action Plan, where key items include covering financial entities other than Money 
+Transfer Bureaus, issuance of targeted financial sanction regulations once the bill is passed, capacity building at the Financial 
+Reporting Center, strengthening reporting compliance and enforcement; and improving interagency communication and 
+coordination. These reforms are being supported with World Bank and IMF technical assistance.  
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 10  
+  
+Table 1. Selected Economic Indicators (2017-2023) 
+(percent of GDP unless otherwise indicated) 
+2017 
+2018e 
+2019p 
+2020f 
+2021f 
+2022f 
+2023 
+GDP, nominal (millions of dollars) 
+4,509 
+4,721 
+4,958 
+5,218 
+5,507 
+5,827 
+6,179 
+real GDP growth  
+1.4 
+2.8 
+2.9 
+3.2 
+3.5 
+3.7 
+3.9 
+per capita GDP, nominal (dollars) 
+327 
+332 
+339 
+347 
+357 
+369 
+381 
+Poverty incidence (US$1.90/day PPP) 
+69 
+Money and prices 
+CPI inflation (eop) 
+6.1 
+3.2 
+4.0 
+3.0 
+2.5 
+2.2 
+2.2 
+Private credit growth (eop) 
+75.2 
+9.2 
+12.4 
+12.8 
+.. 
+share of GDP 
+2.3 
+3.9 
+4.1 
+4.3 
+4.6 
+5.0 
+5.3 
+Fiscal (central government) 
+Total revenue and grants 
+6.0 
+5.7 
+6.9 
+8.8 
+10.0 
+11.4 
+12.5 
+o/w external grants 
+2.8 
+1.8 
+3.0 
+4.3 
+5.2 
+6.2 
+6.7 
+Total expenditure 
+6.6 
+5.7 
+6.9 
+9.1 
+9.3 
+10.2 
+11.6 
+o/w Compensation of employees 
+2.8 
+3.0 
+3.2 
+4.0 
+4.1 
+4.5 
+4.8 
+o/w Transfers to subnational 
+0.5 
+0.6 
+0.7 
+0.9 
+0.9 
+1.1 
+1.4 
+Overall balance, net 
+0.1 
+0.2 
+0.1 
+-0.3 
+0.7 
+1.2 
+0.9 
+External 
+Current account balance 
+-9.8 
+-10.3 
+-11.8 
+-12.0 
+-12.2 
+-12.2 
+-13.0 
+Trade balance 
+-86.7 
+-84.8 
+-87.1 
+-88.1 
+-88.4 
+-89.1 
+-88.4 
+Exports of goods and services 
+22.6 
+23.7 
+23.0 
+22.8 
+22.5 
+22.6 
+22.6 
+o/w Live animals 
+11.8 
+Imports of goods and services 
+109.2 
+108.5 
+110.1 
+110.9 
+110.9 
+111.7 
+110.9 
+Remittances, private transfers 
+31.5 
+31.3 
+31.9 
+32.4 
+32.7 
+32.9 
+32.1 
+Official grants 
+46.1 
+43.9 
+44.1 
+44.4 
+44.2 
+44.8 
+44.1 
+FDI 
+8.2 
+8.6 
+9.0 
+8.9 
+9.0 
+9.1 
+9.3 
+External debt 
+115.1 
+111.5 
+106.2 
+77.0 
+73.5 
+70.1 
+10.3 
+Exchange rate (shilling/dollar) 
+23,605 
+24,475 
+25,879 
+.. 
+.. 
+Source: IMF and World Bank estimates.  
+Notes: Central government refers to the FGS. Systems for producing consolidated general government statistics are still under 
+development. Fiscal and debt statistics assume clearance of International Financial Institutions (IFI) arrears in early 2020 and full 
+delivery of HIPC and Multilateral Debt Relief Initiative (MDRI) debt relief in 2023. Data as of December 2019. 
+17. 
+These steady improvements to the financial sector are starting to bear fruit, albeit from a low 
+base. Increased confidence in the banking sector is supporting a rise in deposits at banks, which in turn is 
+facilitating growth in credit to the private sector, increasing to 4 percent of GDP from 1 over the period 
+2015 to 2018. These developments mirror the estimated expansion of the tertiary sector, in areas such as 
+construction, including investments financed by the returning diaspora. Total loans to deposits have risen 
+to 55 percent in 2018 from 39 percent in 2016, indicating robust liquidity ratios.  
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 11  
+  
+Table 2. FGS Fiscal Operations (2017-2023) 
+(percent of GDP) 
+2017 
+2018e 
+2019e 
+2020f 
+2021f 
+2022f 
+2023f 
+Revenue and grants 
+6.0 
+5.7 
+6.9 
+8.8 
+10.0 
+11.4 
+12.5 
+Revenue 
+3.2 
+3.9 
+4.0 
+4.5 
+4.8 
+5.2 
+5.8 
+Tax revenue 
+2.5 
+2.9 
+2.8 
+3.0 
+3.2 
+3.5 
+3.7 
+Tax on income, profit, and capital gains 
+0.1 
+0.2 
+0.2 
+0.2 
+0.2 
+0.3 
+0.3 
+Taxes on goods and services 
+0.2 
+0.5 
+0.5 
+0.5 
+0.6 
+0.6 
+0.6 
+Taxes on international trade and transactions 
+2.1 
+2.1 
+2.0 
+2.0 
+2.2 
+2.4 
+2.5 
+Other taxes 
+0.2 
+0.2 
+0.1 
+0.2 
+0.2 
+0.2 
+0.3 
+Non-tax revenue 
+0.7 
+0.9 
+1.2 
+1.5 
+1.6 
+1.8 
+2.1 
+Grants 
+2.8 
+1.8 
+3.0 
+4.3 
+5.2 
+6.2 
+6.7 
+Bilateral  
+1.8 
+0.5 
+0.6 
+0.6 
+0.6 
+0.5 
+0.5 
+Multilateral  
+1.0 
+1.3 
+2.4 
+3.7 
+4.6 
+5.7 
+6.1 
+Total expenditure 
+6.6 
+5.7 
+6.9 
+8.7 
+9.3 
+10.2 
+11.5 
+Current 
+5.3 
+5.5 
+6.4 
+8.1 
+8.3 
+9.1 
+10.1 
+Compensation of employees 
+2.8 
+3.0 
+3.2 
+4.0 
+4.1 
+4.5 
+4.8 
+Use of goods and services 
+1.8 
+1.7 
+2.4 
+2.4 
+2.5 
+2.7 
+2.9 
+Interest and other charges  
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.2 
+Transfers to subnational governments 
+0.5 
+0.6 
+0.7 
+0.9 
+0.9 
+1.1 
+1.4 
+Contingency 
+0.1 
+0.1 
+0.0 
+0.0 
+0.0 
+0.1 
+0.1 
+Repayment of arrears and advances 
+0.2 
+0.0 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+Capital (net acquisition of non-financial assets) 
+0.1 
+0.2 
+0.3 
+0.6 
+0.9 
+1.1 
+1.4 
+Transfer to government deposits  
+1.1 
+0.0 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+Draw down of government deposits  
+0.7 
+0.1 
+0.1 
+0.2 
+0.0 
+0.0 
+0.0 
+Amortization of external debt 
+0.3 
+0.3 
+0.3 
+0.3 
+Overall fiscal balance, net 
+0.1 
+0.3 
+0.1 
+0.2 
+0.5 
+1.0 
+0.7 
+Source: FGS Ministry of Finance (MoF), IMF, and World Bank estimates. Data as of December 2019. 
+18. 
+The FGS has succeeded in placing public finances on a more stable footing since 2013. It has 
+maintained fiscal discipline despite the many pressures the Government faces, supported by fiscal targets 
+under IMF programs. Apart from a small deficit in 2016, the FGS has maintained a balanced budget, 
+avoided the accumulation of expenditure arrears, and met its fiscal commitments under successive IMF 
+programs. It should be noted that the Government effectively has no access to instruments to finance 
+budget deficits: the central bank has no capacity to provide financing; the domestic capital market is not 
+sufficiently developed to support Government issuance of securities or other borrowing; and Somalia is 
+excluded from external sources due to its arrears on past debt. FGS domestic revenue collection is 
+estimated to have expanded to 3.9 percent of GDP in 2019 from 1.7 percent in 2013. Meanwhile, the FGS 
+has increased its capacity to absorb external grants, which to date have been channeled through non-
+governmental organizations. The steady increase in revenue has enabled the Government to gradually 
+expand total spending estimated at 6.9 percent of GDP in 2019. Although this is a striking increase from 
+3.0 percent of GDP in 2013, it remains among the smallest in the world, and pales in comparison to the 
+country’s vast spending needs to deliver the types of services and infrastructure required to stimulate 
+growth and reduce poverty. 
+19. 
+Improvements in tax policy and administration have supported the modest rise in revenue 
+collection. Key policy reforms include extending the income and sales tax to more industries, including 
+telecommunications, ports, and hotels. In addition, improved capacity in areas of air traffic control and 
+fisheries management have enabled the FGS to collect additional non-tax revenue. Improvements in tax 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 12  
+  
+administration are complementing these efforts, which includes the operationalization of a new large and 
+medium tax payer’s office and creating modern customs processes. As shown in Table 2, these reforms 
+are helping to reduce the heavy dependence on customs duties and other international trade taxes, which 
+in 2019 accounted for half of the revenue that the FGS collects (down from 90 percent in 2013).  
+20. 
+The wage bill and other recurrent spending dominate the budget. Reflecting the demands posed 
+by security conditions and the need to rebuild state institutions, the Government devotes essentially all 
+available financial resources to wages, procurement of goods and services, and transfers, with only a small 
+share allocated to investments in physical or human capital. Table 2 shows that personnel costs have 
+overtaken procurement of goods and services as the largest component of spending; a trend which is 
+projected to increase over the medium to long term as the authorities assume increasing responsibility 
+for security-related personnel costs. Around 94 percent of all Federal Government personnel (including 
+disciplined forces) in 2018 were employed by security or administrative ministries, departments, and 
+agencies.20 Similarly, the security sector has a large weight in procurement, where food rations for security 
+forces represent the largest non-wage recurrent spending item in the FGS budget. 
+21. 
+Although these spending priorities are understandable under prevailing conditions, spending will 
+need to be rebalanced over time towards programs and investments that build resilience, reduce 
+poverty, and generate economic growth. The FGS is taking steps to contain expenditure growth, including 
+through the first-ever audit of the security sector, biometric registration of all federal and military 
+personnel, and improved procurement of rations.21 These measures have resulted in stronger payroll 
+controls and greater procurement efficiencies. 
+22. 
+Somalia is also taking steps to develop the intergovernmental fiscal arrangements that are 
+needed for a well-functioning fiscal system. Budgetary transfers from the FGS to subnational 
+governments (including to the Banadir Region Administration) have grown to an estimated 0.7 percent of 
+GDP in 2019 from 0.2 percent in 2013. Discussions around fiscal federalism continue to progress with a 
+revival in recent months of the Intergovernmental Fiscal Forum, as well as plans to reinvigorate debates 
+around the Provisional Constitutional and power-sharing agreements. Federal and state governments 
+have reached agreement to share natural resource revenues in two sectors: fisheries and petroleum.22 
+The March 2019 fisheries agreement (discussed in detail in Section 4.2) is the first to allocate national 
+revenue, as opposed to Federal Government revenue, and it thus set an important precedent. However, 
+in parallel, further efforts are needed to harmonize the customs regimes of the FGS and the FMS of 
+Puntland and Jubbaland to avoid the current challenges of tariff competition, as part of ongoing efforts to 
+improve intergovernmental fiscal relations. 
+23. 
+FGS external debt is estimated to be US$5.3 billion as of the end of 2018 in nominal terms, of 
+which US$5.0 billion are in arrears.23 Paris Club creditors hold most of Somalia’s external debt. The United 
+ 
+ 
+20 This is discussed further in World Bank, “Somalia PER: Overview Module,” July 2019. 
+21 As discussed below, rations are the largest non-payroll recurrent spending item in the budget. 
+22 As no oil exploration licenses have yet been issued, the revenue-sharing agreement has not taken effect. 
+23 Figures are from the IMF-World Bank debt relief analysis, based on a loan-by-loan debt reconciliation, reported in IDA and IMF, 
+“Somalia: HIPC Preliminary Document,” January 24, 2020. Debt records provided by the authorities and reconciled with creditor 
+statements include loans that were contracted from 1965 to 2002. These loans include loans that financed projects in pre-civil 
+war subnational jurisdictions (including, for example, Somaliland). For all loans, the recognized debtor is the Ministry of Finance 
+of the FGS or a line ministry of the FGS. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 13  
+  
+States is Somalia’s largest creditor, with 20 percent of debt as of end-2018, followed by Russia (13 percent) 
+and Italy (11.7 percent).24 Multilateral creditors account for 29 percent, over half of this which is owed to 
+IDA, the IMF and the African Development Bank (AfDB).25 The remainder (13 percent) is owed to non-Paris 
+Club official creditors. There is no known publicly guaranteed or commercial external debt. Furthermore, 
+the loan-by-loan reconciliation uncovered no debt owed by subnational jurisdictions. 
+24. 
+The FGS has limited debt management capacity. MoF established a Debt Management Unit in 
+December 2015. AfDB has financed installation of a debt recording system (CS-DRMS) and provided 
+training to staff in the unit. Staff have focused on reconstructing the government’s loan records in 
+preparation for the HIPC debt relief process. The unit has begun issuing annual external debt reports 
+(covering 2013–2016, 2017, and 2018).  
+Table 3. External Financing Requirements (2017-2023) 
+(millions of U.S. dollars) 
+  
+2017 
+2018e 
+2019p 
+2020f 
+2021f 
+2022f 
+2023f 
+Current account deficit 
+440 
+486 
+587 
+628 
+671 
+708 
+804 
+Amortization 
+0 
+0 
+0 
+16 
+16 
+16 
+16 
+Total Financing Needs 
+440 
+486 
+587 
+644 
+686 
+725 
+820 
+FDI (net) 
+369 
+408 
+447 
+464 
+495 
+528 
+574 
+Project loans 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Other external financing 
+102 
+105 
+140 
+182 
+194 
+198 
+220 
+Total Financing Sources 
+470 
+513 
+587 
+646 
+689 
+726 
+794 
+Memorandum 
+Change in reserves (- = increase) 
+-30 
+-27 
+0 
+-18 
+-18 
+-18 
+… 
+Source: CBS, IMF, and World Bank estimates. Data as of December 2019. 
+2.2. MACROECONOMIC OUTLOOK AND DEBT SUSTAINABILITY 
+25. 
+The medium-term economic growth outlook is positive, subject to the reform momentum 
+continuing at both the FGS and FMS levels and assuming support from the international community 
+through the HIPC Initiative. Real GDP is expected to strengthen from a projected 3.2 percent in 2020 to 
+3.5 percent over the medium-term.26 Consolidation of peace and security, rising domestic demand (due 
+mainly to the growing population), remittances, and official donor inflows are expected to drive growth 
+in 2019–21. Growth of the services sector is projected to continue, where reforms such as interconnection 
+arrangements among mobile network operators, which is supported by this DPF, are expected to promote 
+growth of the digital economy. Strengthening of CBS’s regulatory capacity is building trust in financial 
+system, which should increase financial services’ contribution to the economy. Construction and trade are 
+ 
+ 
+24 The United States, Russia, and Italy are Somalia’s three largest creditors overall, as well as the three largest Paris Club bilateral 
+creditors. 
+25 As of end-2018, Somalia’s nominal debt to IDA was US$501.0 million, of which US$341.2 million was in arrears. 
+26 A pickup in growth following the HIPC Decision Point is consistent with the experience of other HIPCs. Specifically, the positive 
+impact on growth in Somalia of reaching the HIPC Decision Point is expected to be marginally stronger than the median of a 
+sample of fragile HIPC countries, given its strong record of reform implementation under successive IMF SMPs, but weaker than 
+the median of a wider sample of all 36 HIPC countries, given Somalia will continue to be fragile and vulnerable to shocks. Growth 
+could accelerate further over the long run to around 4.8 percent. Achieving this rate would imply about a two-percentage point 
+pickup in growth relative to the historical average, supported by reform implementation and resumed access to external 
+financing. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 14  
+  
+also expected to enjoy continued robust activity. This outlook depends critically on political stability and 
+continued improvement in constructing a federal political system that serves the needs of poor Somalis 
+throughout the country. Vulnerability to climate-related shocks, which can affect agricultural production 
+and security incidences that impede business confidence, are large downside risks that affect the outlook.  
+26. 
+The current account deficit is forecast at 12.0 percent of GDP in 2020 and is projected to steadily 
+widen over the medium term. It is expected that Somalia will remain heavily import-dependent over the 
+medium-term, as it will take time to rebuild the economy’s productive capacity.27 Official grants and 
+private remittances will continue to finance most of the trade deficit.  
+27. 
+Inflation is expected to remain modest. Over the medium-term, inflation is projected to stay within 
+the range of 3.0 to 2.2 percent, based on the assumption that moderate growth of the agriculture sector 
+prevails. De facto dollarization should continue to provide relative price stability, particularly given the 
+dependence on imports. Geopolitical uncertainty in major oil-producing countries may lead to increases 
+in domestic fuel prices. 
+28. 
+Expected improvement in revenue collection should allow commensurate modest increases in 
+spending. The 2019 Revenue Administration Law strengthens the legal foundation for FGS revenue 
+collection and modernizes tax administration (as discussed in Section 4.2). These expand the tax base and 
+should improve revenue mobilization efficiency. Revenues and grants are projected to increase to 8.8 
+percent of GDP in the 2020 budget (where grants comprise nearly half). FGS tax revenues are projected 
+to modestly increase over the medium-term from 2.8 percent in 2019 of GDP to an average of 3.2 percent 
+of GDP over the period 2020–2022. This progress assumes that reforms to increase tax revenues will 
+continue. Spending on compensation of employees is expected to increase from 3.2 percent of GDP in 
+2019 to an average of 4.2 percent of GDP over the medium-term, as the FGS takes on increasing 
+responsibility for the delivery of services, including security. Resources spent on the use of goods and 
+services are expected to remain relatively constant over the medium-term at around 2.5 percent of GDP. 
+The outlook assumes continued FGS commitment to avoiding deficits. Over time, further efforts are 
+needed to reprioritize expenditures towards social priority sectors, in support of poverty reduction 
+objectives.  
+29. 
+The latest (June 2019) IMF-World Bank Low-Income Country Debt Sustainability Analysis (LIC-
+DSA) confirms that Somalia is in debt distress, based on both external and public debt indicators, in the 
+absence of debt relief. Key solvency and liquidity indicators are well above LIC-DSA thresholds (Figure 3). 
+So long as Somalia lacks access to external financing, its debt stock and debt servicing levels will continue 
+to grow through the accumulation of late interest on debt in arrears, even under relatively benign 
+economic conditions assumed in the baseline outlook. As shown in Figure 3, these would grow even more 
+rapidly in the event of adverse security or climate shocks.  
+ 
+ 
+27 For example, Somalia’s high power costs are a binding constraint on the development of an internationally competitive food 
+processing industry. Significant investment in electricity generation and transmission is unlikely to be forthcoming until Somalia 
+puts in place critical legal, policy, and regulatory institutions. Easing this constraint will therefore take several years. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 15  
+  
+Figure 3. Somalia will remain in debt distress in the absence of debt relief 
+ 
+Source: IMF-World Bank LIC-DSA, June 2019. 
+30. 
+Preliminary findings from simulations using various debt relief scenarios indicate that 
+conventional debt relief would significantly reduce debt but would be insufficient to reduce debt to a 
+manageable level.28 In a scenario where Somalia receives full delivery of traditional debt relief, debt falls 
+gradually relative to both GDP and exports, but remains above HIPC Initiative threshold of 150 percent of 
+exports (in net present value [NPV] terms) throughout the 20-year horizon used in the LIC-DSA. Only in an 
+alternative scenario where Somalia receives HIPC Initiative, MDRI, and beyond HIPC debt relief at the HIPC 
+Completion Point would debt fall to a sustainable level. Both scenarios use the long-run macroeconomic 
+framework that underpins this proposed DPF.  
+31. 
+The IDA-IMF HIPC debt relief analysis (DRA) estimates that US$1.9 billion (in end-2018 NPV terms) 
+of debt relief would be required to reduce debt to the HIPC threshold of 150 percent of exports.29 After 
+full application of traditional debt relief mechanisms, Somalia’s NPV of debt is estimated at US$3.5 billion 
+at end-2018, equivalent to 328.9 percent of exports and services. For debt-to-exports to be at the 
+minimum sustainable level under HIPC, an estimated US$1.9 billion is needed in debt relief. Based on 
+proportional burden sharing, multilateral creditors’ assistance would amount to US$0.8 billion, and 
+bilateral assistance to US$1.1 billion (in NPV terms).  
+32. 
+A multi-pronged financing strategy is being prepared to support Somalia’s debt relief efforts. 
+International financial institutions have either set aside resources for arrears clearance (IDA and the AfDB) 
+or are putting in place exceptional financing measures to finance debt relief (IMF). These resources will 
+enable Somalia to clear arrears, fully normalize relations with the IFIs, and access new sources of financing. 
+Other multilateral creditors are assumed to provide debt relief through cancellation or concessional 
+rescheduling of arrears, to commence at the Completion Point. Following the example of other countries 
+that have gone through the HIPC process, Paris Club creditors are likely to provide HIPC debt relief at 90 
+percent NPV reduction once Somalia reaches Decision Point, and the remaining debt relief delivered at 
+Completion Point. Rescheduling agreements have commenced with other non-Paris Club creditors.  
+33. 
+Between the HIPC Decision Point and Completion Point, Somalia will need to resume its debt 
+servicing obligations to multilateral agencies. These include servicing of outstanding debt that are not in 
+ 
+ 
+28 IMF and World Bank, “Somalia: Preliminary Debt Sustainability Assessment,” December 2014. 
+29 IDA and IMF, “Federal Republic of Somalia: Enhanced HIPC Initiative Preliminary Document,” January 24, 2020. 
+ -
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 160
+ 180
+ 200
+2019
+2021
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2037
+2039
+PV of External Debt-to-GDP (%)
+ Baseline
+ External Financing Shock
+ Security Shock
+ Climate Shock
+ Threshold
+ -
+ 100
+ 200
+ 300
+ 400
+ 500
+ 600
+ 700
+ 800
+2019
+2021
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2037
+2039
+PV of External Debt-to-Exports 
+(%)
+ -
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+2019
+2021
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2037
+2039
+Debt Service-to-Revenue (%)
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 16  
+  
+arrears (virtually all to IDA and AfDB), as well as repayment of new IMF loan financing. Somalia’s annual 
+debt service during the interim period to IDA, IFAD, AfDB is estimated to average US$17.6 million (or 7.4 
+percent of projected fiscal revenues), of which IDA’s portion is US$14.1 million.30 
+34. 
+Risks to the economic outlook are high. Over the medium term, economic activity is likely to 
+continue to be exposed to significant risks related to insecurity in Mogadishu and southern Somalia. 
+Exogenous shocks—related to both weather and commodity prices—compound these risks to the 
+outlook. Weather and climatic shocks could lower agricultural output (both crops and livestock) damage 
+structures, exacerbate water stress, and displace people. A slowdown in domestic revenue collection or 
+lower-than-pledged grants from donors would put pressure on fiscal performance. The failure of a mobile 
+money operator would undermine the stability of the domestic payments system and deplete household 
+savings. Weak institutions and lack of access to financing hamper the authorities in responding to risks as 
+they materialize. 
+35. 
+The policy reform program can mitigate some of these risks. The government’s commitment to 
+maintaining fiscal discipline, rebuilding macroeconomic policy-making institutions, and establishing the 
+track record of reform required to qualify for HIPC debt relief strengthen its ability to manage shocks. 
+Somalia’s progress in achieving reforms has been steady, as demonstrated by successive reviews of IMF 
+Staff-Monitored Programs (SMPs), the achievement of disbursement linked indicators in the World Bank’s 
+Recurrent Cost and Reform Financing project, and the realization of reforms in European Union (EU) 
+budget support. These reforms demonstrate that while fiscal space continues to remain constrained, a 
+government committed to reforms has prioritized fiscal discipline, and is establishing institutional 
+measures to maintain commitment controls. The government’s implementation of the 2018 Recovery and 
+Resilience Framework through NDP9 should also strengthen its ability to manage external shocks. Finally, 
+the Urban Resilience Project (P170922) (financed jointly by the Multi-Partner Fund and IDA), the Shock 
+Responsive Safety Nets for Human Capital Development Project (P171346) (financed by IDA), and other 
+support from international partners are also expected to increase Somalia’s resilience to shocks. 
+36. 
+But this reform program also faces substantial risks that, if they materialize, would put additional 
+pressure on the macroeconomic outlook.31 A deterioration in the security environment would make it 
+difficult to implement economic policy reforms and delay the ultimate rebalancing of government budgets 
+towards spending on economic growth and poverty reduction. Upcoming elections could politicize 
+technical reforms and hamper their implementation. Increased tensions between federal, state, and local 
+political leaders would delay progress in establishing the intergovernmental fiscal arrangements that are 
+critical for governments at all levels to be effective. Of particular importance to this proposed DPF, a 
+deterioration of FGS-FMS relations would likely increase interjurisdictional tax competition. This 
+undermines domestic revenue mobilization and hinders progress in developing revenue-sharing 
+arrangements. The reforms in this proposed DPF aim to help strengthen the government’s capacity to 
+mitigate these key risks. Improved growth prospects associated with access to better jobs (particularly for 
+Somalia’s youth) is important for reducing insecurity. Reforms to support increased intergovernmental 
+ 
+ 
+30 Data from the HIPC DRA. Averages are taken over full calendar years. Data provided by WFA show that Somalia would need to 
+service US$12.6 million of IDA principal and interest during April through December 2020 (estimated using end-October 2019 
+exchange rates for SDR-denominated credits).  
+31 Risks to achieving outcomes from policy reforms supported by this operation are detailed in Section 6. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 17  
+  
+fiscal relations and resource revenue sharing also demonstrate progress in achieving reforms towards 
+greater state unification in politically sensitive areas.  
+37. 
+The macroeconomic policy framework is assessed to be adequate for the proposed DPF. This 
+assessment rests critically on the role the operation plays in enabling Somalia to reach the HIPC Decision 
+Point and to fully normalize relations with the AfDB, IMF, and World Bank. Full support from the IFIs is 
+essential for Somalia to continue maintaining fiscal discipline, to rebalance spending, and undertake the 
+structural reforms needed to place the country on a sustained trajectory towards poverty reduction and 
+economic growth. 
+2.3. IMF RELATIONS 
+38. 
+The IMF began to reengage Somalia in 2013 and has steadily expanded its technical support to 
+the country. In 2015 it completed the first Article IV consultation in over 25 years. In 2016 it began to 
+support the authorities through a series of SMPs with conditionality that has grown steadily more 
+demanding as country capacity increased. The SMPs have focused on (1) economic and financial data 
+development; (2) the building up and enhancement of fiscal and monetary institutions; (3) public financial 
+management (PFM) reform; (4) domestic revenue mobilization; (5) strengthening the banking system; (6) 
+AML/CFT framework; and (7) currency (exchange) reform. Indicative targets have included the non-
+accumulation of arrears and floors on the fiscal balance (zero cash balance), domestic revenue, and central 
+bank net foreign assets.32 
+39. 
+In July 2019, the IMF Board endorsed the fourth consecutive SMP as meeting the policy standards 
+associated with upper credit tranche (UCT) arrangements. SMP4 runs from May 2019 through July 2020. 
+IMF executive directors stated “that satisfactory implementation of the SMP will help establish a track 
+record and pave the way toward arrears clearance and eventual debt relief under the HIPC initiative.”33 
+IMF staff completed its first review mission in September and reached a staff-level agreement that 
+Somalia had completed all structural benchmarks and fiscal indicative targets covered by the review (see 
+Annex 2). The second review mission was completed successfully on January 8, 2020. The IMF Board is 
+expected to discuss the staff report summarizing the second review on February 12, 2020. 
+40. 
+IMF staff anticipate that Somalia will clear its arrears in March 2020. The IMF Board approved a 
+financing package for debt relief in December 2019. The IMF reached a staff-level agreement on a multi-
+year program under the Extended Credit Facility (ECF) in January 2020, with financing front-loaded to 
+facilitate arrears clearance. Approval is expected in late-March 2020 upon Somalia reaching the HIPC 
+Decision Point.  
+3. GOVERNMENT PROGRAM 
+41. 
+Somalia’s NDP provides the foundation for the government’s reform program. On September 26, 
+2019, the Cabinet approved a new NDP covering 2020–2024. NDP9 is a nationally-owned strategy for 
+poverty reduction and inclusive growth. It builds on the progress made and lessons learned from 2017–
+2019 NDP, Somalia’s eight development plan, and is the first to be crafted by the central government 
+ 
+ 
+32 See Annex I (“Strategy and Progression of SMPs Since May 2016”) of IMF, “Somalia: Second and Final Review under the Staff-
+Monitored Program and Request for a New Staff-Monitored Program,” IMF Country Report No. 18/212, July 2018. 
+33 “IMF Executive Board Concludes 2019 Article IV Consultation with Somalia,” Press release number 19/309, August 1, 2019. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 18  
+  
+since 1986. The strategy is informed by a careful analysis of the drivers of poverty, which include political 
+fragility, conflict, insecurity and lawlessness, and climatic shocks. It implements the action plan developed 
+in the 2018 Recovery and Resilience Framework. It was developed through extensive consultations with 
+civil society, private sector representatives, FGS and FMS line ministries, national and state 
+parliamentarians, members of the judiciary, and development partners.  
+42. 
+NDP9 presents a comprehensive strategy for development that emphasizes inclusive growth and 
+poverty reduction. There are four pillars. Pillar 1 is Inclusive Politics which focuses on deepening the 
+federal system, ratifying the constitution, building trust, and the delivery of fair and credible elections. 
+Pillar 2 is Improved Security and the Rule of Law, which aims to establish a unified, capable, accountable, 
+and rights-based Somali federal security institutions, as well as securing and improving access to justice. 
+Pillar 3 is Economic Development, which aims to create an enabling environment for economic growth 
+through regulatory changes, strengthening economic infrastructure, diversifying the private sector, and 
+sustainably developing natural resources. Pillar 4 is Social and Human Development, which seeks to 
+improve health and education outcomes to strengthen resilience and reduce poverty. 
+43. 
+Economic policy reform has been a central focus of the government’s program since 2012 (Figure 
+4). From a narrow starting point, its fiscal management reform agenda has gradually expanded to cover 
+the spectrum of concerns—including revenue mobilization, budgeting, procurement, auditing, cash 
+management, as well as accountability over public finances of the security sector. There has been equally 
+strong attention to building core monetary and financial sector governance institutions, establishing the 
+basic legal foundations for a market economy, and introducing reforms in strategic sectors (e.g., 
+telecommunications, banking, and energy.) Complementing the series of IMF SMPs described above, the 
+WBG has supported economic policy reforms through performance-based financing (e.g., Recurrent Cost 
+and Reform Financing (RCRF) Project (P176224)), IFC advisory services support for the public-private 
+dialogue, and Advisory Services and Analytics (ASA). World Bank investment financing (using resources 
+from the Multi-Partner Fund and IDA pre-arrears clearance grants) support implementation of critical 
+fiscal and financial sector reforms. 
+Figure 4. Economic policy reform has intensified since 2012 
+ 
+Source: IMF and World Bank. 
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+• Central Bank Act 
+• Financial Institutions Act 
+• 1st Federal Budget (annual 
+process) 
+•
+World Bank 
+and IMF 
+Reengagement 
+•
+Civil Service 
+Payroll 
+•
+SWIFT 
+• SFMIS deployed 
+• MTBs and bank 
+licenses issued 
+(annual process) 
+•
+Financial 
+Governance 
+Committee 
+•
+FGS-bank 
+Payment System 
+• SMP I 
+• AML/CFT Act 
+• Financial Reporting Center 
+• PFM Reform Plan 
+• Procurement and Concessions Act 
+•
+SMP II 
+•
+RCRF-1 
+•
+Telecoms Act 
+•
+Excise tax 
+Harmonization 
+• SMP III 
+• RCRF-2 
+• Sales and telecoms taxes 
+• EU budget support 
+• Fisheries Agreement 
+• Baidoa Resource-sharing 
+agreement 
+•
+SMP IV 
+•
+CBS Reorganization 
+•
+Revenue Act 
+•
+PFM Act 
+•
+Company Act 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 19  
+  
+4. PROPOSED OPERATION 
+4.1. LINK TO GOVERNMENT PROGRAM AND OPERATION DESCRIPTION 
+44. 
+The proposed DPF supports major elements of NDP9 by strengthening fiscal management and 
+promoting inclusive private sector-led growth. The program development objective on ‘strengthening 
+fiscal management’ supports various dimensions of the government’s program. For example, 
+harmonization of revenue raising and sharing fishing revenues between the federal and state government 
+is supportive of inclusive politics, while measures to improve PFM support NDP9 Pillar 2’s objectives, as 
+well as contribute to building greater fiscal space, which in turn is a prerequisite for delivering the social 
+services planned in NDP9’s Pillar 4. Going further, measures to strengthen the transparency and 
+accountability of debt management supports an enabling environment for economic growth and furthers 
+progress towards HIPC Completion Point, which is supportive of NPD9’s Pillar 3. The proposed reforms 
+under the ‘strengthening inclusive private sector led growth’ program development objective directly 
+support Pillar 3 on economic development. For example, the enactment of the Company Law and the 
+issuance of mobile money regulations strengthen the regulatory basis for doing business in Somalia, with 
+supportive measures to strengthen institutions.  
+45. 
+This DPF builds on lessons emerging from DPFs prepared in fragile environments, especially as 
+part of a reengagement process. An Independent Evaluation Group (IEG) report on engaging with fragile 
+states highlights the need to focus on politically feasible reforms that can build momentum for future 
+changes, with an emphasis on restoring and strengthening basic state functions.34 Such operations should 
+strike an appropriate balance between policy changes and institutional reforms. Hence, the proposed 
+reforms seek to both support the development of policies as well as ensure that the institutional 
+architecture is in place. The design and implementation of reforms are supported by World Bank 
+investment projects (financed by the Multi-Partner Fund and IDA pre-arrears clearance grants), which 
+means that policy dialogue and technical support needs have already been established with counterparts 
+who are committed to the reengagement process. Finally, given capacity constraints, the preparation of 
+this DPF has benefitted from close collaboration with development partners to ensure coordinated and 
+complementary reforms are being supported. 
+4.2. PRIOR ACTIONS, RESULTS AND ANALYTICAL UNDERPINNINGS 
+Pillar 1. Strengthen fiscal management 
+46. 
+This pillar selects critical reforms in the areas of debt management, revenue mobilization, and 
+intergovernmental fiscal arrangements from the government’s broader reform program. Reconstituting 
+core fiscal management capacities for raising, sharing, and spending public resources has been at the core 
+of the government’s reform program since 2012. The 2015 Systematic Country Diagnostic (SCD) argued 
+that, to break out of the trap of political strife, fragility, and violence in Somalia, the Government must 
+build its legitimacy by delivering of public goods and services. This means that all levels of government 
+must be able to collect and then redistribute resources in the form of services and investments.35  
+ 
+ 
+34 Independent Evaluation Group, “World Bank Group Assistance to Low-Income Fragile and Conflict-Affected States: An IEG 
+Evaluation,” 2013. 
+35 World Bank Group, “Somalia Systematic Country Diagnostic,” Report number 123807-SO, May 2018. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 20  
+  
+47. 
+Measures selected for this pillar complement important reforms that contain expenditure growth 
+and that will support the rebalancing of spending toward poverty reduction and inclusive growth. 
+Personnel costs, administration, and the security sector dominate government spending at this time, 
+given the continued security threats and the pressing need to rebuild public institutions. The FGS is 
+working to tighten controls on these recurrent expenditures so that, as conditions in the country improve 
+and revenue mobilization increases, there will be fiscal space for the Government to devote funds to 
+poverty reduction and inclusive growth.  
+48. 
+Informed by a human resources audit conducted in 2018, the Government has taken major steps 
+towards reducing leakage in the wage bill, which currently consumes an estimated 46 percent of total 
+federal spending and 80 percent of domestic revenue. The Ministry of Labor completed a full headcount 
+and biometric registration and verification of civilian FGS personnel in February 2019. The MoF led the 
+biometric registration of Somali National Army (SNA) and Somali Police Force personnel, completed in 
+March 2019. Payments of salaries to all personnel have transitioned from cash distribution to direct 
+electronic transfers to bank accounts—reducing both leakage and exposure to corruption risks. 
+49. 
+Achieving efficiencies in procurement is also important. Food rations for the security sector—beans, 
+sugar, pasta, cooking oil, rice and wheat flour—are the largest non-personnel spending item in the FGS 
+budget, accounting for approximately 20 percent of FGS goods and services procurement.36 The World 
+Bank’s 2017 Security and Justice Public Expenditure Review (PER) underscores that weak PFM systems in 
+the security sector have contributed to corruption and spending inefficiencies.37 Historically, rations were 
+procured entirely through one single-source contract. In February 2019, the Cabinet issued a decree that 
+tightened controls on rations spending by requiring that all existing security goods and services contracts 
+to be re-tendered through competitive bidding. This reform has achieved savings estimated at US$7.6 
+million to date in reduced procurement costs through lower unit prices resulting from greater 
+competition.38 Furthermore, amendments to the 2016 Procurement and Concessions Act are expected to 
+be approved by Parliament in 2020 and should result in additional efficiencies.  
+Policy area: Debt management 
+Prior Action 1. To increase transparency and accountability of debt management, the Recipient 
+has enacted the Public Financial Management Law. 
+50. 
+Rationale. Public debt levels rose to unsustainable levels in the 1980s in the absence of adequate 
+legal and institutional mechanisms to guide borrowing and ensure accountability, and public debt 
+management in Somalia collapsed after 1991 during the civil war, along with other institutions. After the 
+creation of the FGS and as the country began to reengage the international community with an eye 
+towards receiving debt relief, strengthening debt management became a priority. In December 2015, MoF 
+established a Debt Management Unit, which to date has focused its attention on reconstructing the public 
+debt database and monitoring the accumulation of domestic and external arrears. Since then, the 
+ 
+ 
+36 World Bank, “Somalia Programmatic PER: Overview Module,” July 2019. 
+37 World Bank, “Somalia Security and Justice PER,” September 2017. 
+38 Twenty-one different firms submitted bids for the four contracts that were tendered earlier this year, with the two largest 
+contracts attracting 13 and 14 bids respectively. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 21  
+  
+Government has worked to establish a legal framework for public sector borrowing and debt 
+management. Enactment of the PFM Law in December 2019 marks a crucial step forward. 
+51. 
+Substance of the action. The PFM Law gives the finance minister sole power to borrow on behalf of 
+the Government. It requires the minister, as a part of the annual budget submission, to present details on 
+government indebtedness to the parliament, to explain the government’s debt policy, and to present an 
+analysis of the sustainability of public debt. The law also subjects government borrowing to annual ceilings 
+set by parliament (set forth in an Appropriation Act), and it makes the general terms and conditions of 
+government loans and guarantees be subject to parliamentary approval. Finally, the PFM Law requires 
+that all loan agreements must be recorded by the Auditor General. The FGS may guarantee a loan entered 
+into by an FMS, but the law prevents FMSs from borrowing externally.  
+52. 
+Expected outcome. The debt management provisions of the PFM Law will support prudent fiscal 
+policy and transparent debt management. After Somalia has received debt relief and regains access to 
+external sources of financing for development priorities, these provisions will provide strong controls on 
+borrowing that should reduce the risk that public debt will once again grow unsustainably. Until then, the 
+PFM Law is expected to contribute to increased debt transparency. This will become important once 
+Somalia reaches the HIPC Decision Point, when it will clear arrears with IFIs, restructure its debt with other 
+major creditors, and resume paying debt service. Full transparency about the changing state of public 
+indebtedness will enables citizens to hold policy makers accountable. Increased transparency will be 
+measured by publication of quarterly debt bulletins. Ongoing AfDB technical assistance that supports 
+rebuilding the capacity of the Debt Management Unit will contribute to the realization of this outcome, 
+as will World Bank and IMF advisory work through the Debt Management Facility. 
+Policy area: Revenue mobilization 
+53. 
+Somalia’s chronically low level of revenue mobilization critically limits the government’s ability to 
+provide the public goods (security, first and foremost), invest in human and physical capital, and deliver 
+public services that the country needs to reestablish the social contract and move towards a trajectory of 
+inclusive growth and poverty reduction. Establishing a legal and institutional framework that will promote 
+increased revenue mobilization is at the top of the government’s reform agenda. 
+Prior Action 2. To increase revenue mobilization potential, the Recipient has enacted the Revenue 
+Administration Law. 
+54. 
+Rationale. Somalia’s tax system has been characterized by outdated legislation, poor enforcement, 
+and weak tax administration.39 Its legal framework is based on conditions and practices that prevailed in 
+the country before 1990, including some features that date from the 1960s. One chief difference is that 
+Somalia no longer has a unitary state. In the absence of laws defining the assignment of revenue-raising 
+powers to different levels of government, jurisdictions have competed with one another for tax revenue. 
+This has contributed to what might be called a race to the bottom in customs duties.40 There is thus a clear 
+need to modernize the legal framework for revenue administration. 
+ 
+ 
+39 A detailed analysis of Somalia’s tax system and its evolution can be found in World Bank, “Somalia Economic Update: Mobilizing 
+Domestic Revenue to Rebuild Somalia,” July 2017. 
+40 This form of tax competition is documented in Thomas Cantens, “Somalia: Assessment of Customs Revenue Potential and 
+Proposals for Reform,” World Bank, September 2018. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 22  
+  
+55. 
+Substance of the action. The Revenue Administration Law was enacted in October 2019. The law 
+defines (for the first time) which revenue instruments are to be regulated at the federal level. Although 
+the law does not dictate which level of government will collect any given tax (e.g., customs duties), it 
+nonetheless provides a legal basis for the FGS to work with the FMSs to harmonize tax rates across the 
+country. In addition, the law establishes modern procedures for administration of inland revenue that the 
+FGS collects. It sets forth basic procedures for tax payments and refunds—including requiring a unique 
+tax identification number—as well as rules for compliance, enforcement, and dispute resolution.  
+56. 
+Expected outcome. Enactment of the law is expected to boost revenue collection substantially. The 
+law strengthens the government’s legal authority to enforce payment of taxes, particularly the authority 
+of the newly established large and medium taxpayer’s office, as it seeks to collect revenue from large 
+private sector actors. Providing clarity over revenue-raising power is critical for harmonization of tax 
+policies and administration and thereby for reducing incentives for tax competition. The expected 
+outcome is increased inland tax revenue mobilization. This will be measured as a 30 percent real increase 
+in FGS tax revenue collection between 2018 and 2021. Financial and technical support from the World 
+Bank and IMF Fiscal Affairs Division will help support achievement of this outcome.41 
+Policy area: Intergovernmental fiscal arrangements 
+57. 
+Arguably no dimension of fiscal management reform is as politically challenging at establishing 
+intergovernmental fiscal arrangements for a federal political system. The framers of Somalia’s 2012 
+Provisional Constitution were unable to reach agreement on a framework that defines how different 
+levels of government collect, spend, and share revenue. The 2019 PFM Law contains provisions that 
+establish accounting and reporting procedures for natural resource revenue (including from fisheries) that 
+federal and state governments decide to share. As the country works through the lengthy constitutional 
+reform process to construct a comprehensive framework for fiscal federalism, political leaders are 
+working to develop incremental arrangements in focused areas.  
+Prior Action 3. The Recipient’s Ministry of Fisheries and Marine Resources has signed an 
+agreement with the fisheries ministries of the five Federal Member States that defines how 
+fishing license revenue will be allocated between federal and state governments. 
+58. 
+Rationale. The March 2019 agreement on the distribution of fishing license revenue is the first, 
+albeit incremental, agreement on sharing national revenue across jurisdictions. With the longest coast in 
+continental Africa and a productive marine ecosystem, the Somali fishing industry has the potential to 
+develop into an important source of jobs, income, and economic activity.42 In the absence of a revenue-
+sharing arrangement, competition between state and federal jurisdictions for fisheries revenue would not 
+only risk reducing total revenue collected by all jurisdictions, but it could also result in overfishing and 
+increased tensions between jurisdictions. A successful revenue-sharing arrangement for fishing license 
+ 
+ 
+41 Two World Bank IPFs directly support improvements in revenue generation: The Domestic Revenue Mobilization and Public 
+Financial Management Capacity Strengthening Project (P166206) and the Recurrent Cost and Reform Financing Project—
+Additional Financing (P167224), both approved in FY19. The domestic revenue module of the Programmatic PER (P160458), to 
+be delivered in FY20, will provide analysis to inform additional improvements in revenue collection. 
+42 For information on the potential of Somalia’s fishing industry, see World Bank and Food and Agriculture Organization, “Somalia 
+Country Economic Memorandum, Volume 1: Building Resilient and Sustainable Agriculture in Somalia,” 2018. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 23  
+  
+revenue, on the other hand, could foster greater intergovernmental fiscal cooperation and contribute to 
+improved fisheries management.  
+59. 
+Substance of the action. On March 22, 2019, the Ministry of Fisheries and Marine Resources of the 
+FGS signed an agreement with counterpart ministries the Puntland, Jubbaland, Southwest, Galmudug, 
+and Hirshabelle States. The agreement states that revenue that the FGS collects from tuna fishing licenses 
+shall be distributed as follows: 29 percent of total revenue to the FGS, 18 percent to Puntland State, 14 
+percent to Hirshabelle State, and 13 percent each to Galmudug, Jubbaland and Southwest States. The 
+parties also agreed to earmark 40 percent of their budgets “for the development, management and 
+storage of the fisheries and marine resources as well as for covering the needs of the local/Somali 
+fishermen.”43 The federal fisheries ministry received US$1.04 million in 2019 from tuna fishing licenses, 
+which the FGS has distributed according to the formula.  
+60. 
+Expected outcome. The 2019 fisheries revenue-sharing agreement is expected to increase future 
+fisheries revenue and to set a positive precedent for intergovernmental revenue-sharing arrangements in 
+Somalia, especially revenue from natural resources. Because of the uncertainty about the government 
+revenue potential of the fisheries industry and the limited experience with revenue-sharing agreements, 
+the agreement is effective initially for 18 months (i.e., until September 2020), but it states that there shall 
+be a final agreement that will also be binding (Article 6.1). The authorities have confirmed that the terms 
+will remain valid beyond September 2020 while they conduct the review and develop a permanent 
+revenue-sharing arrangement (see Letter of Development Policy (LDP) in Annex 3). Revenue raised during 
+the current licensing round, which is expected to conclude shortly, will therefore be governed by the 
+March 2019 agreement. The World Bank is providing technical assistance to support this licensing round 
+as well as redrafting of the Fisheries Law, which is expected to incorporate the provisions of the March 
+2019 agreement. Furthermore, the World Bank is also assisting Somalia to develop broader 
+intergovernmental arrangements through support for the Finance Ministers Fiscal Forum, analysis on 
+fiscal federalism, and channeling funds from IPF to work at the subnational level. 
+61. 
+The success of the March 2019 fisheries agreement has helped to build trust between the federal 
+and state government, as evidenced by the agreement reached in September 2019 by the federal and 
+state finance ministers to share proceeds from EU budget support grants. As part of the constitutional 
+review process, finance ministers are discussing whether to share revenue exclusively through sector- or 
+revenue source-specific arrangements (the practice to date) or mainly through some overarching 
+arrangement that applies to all revenue. Regardless of their modality, these arrangements would increase 
+the flow of shared revenue to FMSs over time. In FY2018—i.e., prior to the 2019 fisheries agreement—no 
+national revenue was allocated to FMSs. In FY2019, US$738,000 was allocated (71 percent of the US$1.04 
+million collected from the 2018 licensing round). Annual national revenue allocated to the FMSs is 
+expected to double by FY2021, reaching US$1.5 million, through a combination of increased fee revenue 
+from fishing licenses (expected to grow by 80 percent) and the extension of allocation to other sources of 
+national revenue. 
+ 
+ 
+43 FGS, Ministry of Fisheries and Marine Resources, “Agreement: Management and Revenue Sharing,” REF: WKKHB/XW/19, 
+March 22, 2019. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 24  
+  
+Pillar 2. Promote inclusive private sector-led growth 
+62. 
+Somalia’s private sector has transformed itself during the decades of conflict and state 
+fragmentation. New private enterprises emerged to fill voids left by the collapse of central planning (e.g., 
+electricity generation). Others responded to new market demands (e.g., to transfer remittances from the 
+diaspora) or technological innovation (e.g., mobile telecommunications). The mobile money sector 
+flourished—a testament to the creativity and resilience of Somalia businesspeople. 
+63. 
+To harness this energy, promote inclusive private sector-led growth, generate jobs, and facilitate 
+economic transformation, the Government has been working to put in place a legal, policy and 
+institutional framework that supports a competitive market economy. The post-2013 reform program 
+described in preceding sections includes basic laws governing private sector activity that did not exist 
+during the period of central planning (e.g., the Company Law and the draft Insurance Law). It includes 
+laws and regulations to reestablish the central bank and its supervision over the financial sector. CBS 
+created a new payments system unit in October 2019 and is drafting a Payments System Law. The 
+authorities are preparing a Targeted Financial Sanctions Law, which will strengthen AML/CFT 
+enforcement. The Government is also working to ensure a level playing field in the economy through laws 
+and regulations aimed at eliminating conditions that can lead to anti-competitive and rent-seeking 
+behavior. Pillar 2 of the proposed DPF supports selected measures from this ongoing reform program. 
+Policy area: Business and investment climate 
+Prior Action 4. To strengthen the environment for private sector competition and market entry 
+and exit, the Recipient has enacted the Company Law. 
+64. 
+Rationale. Somalia’s private sector has grown despite years of insecurity, state fragmentation, and 
+other substantial challenges. However, the business regulatory environment suffers from weak (or 
+absent) rules and inadequate enforcement, which heighten the risks of elite capture and reduce trust. 
+Furthermore, lengthy and opaque procedures (that were developed in the absence a clear legal 
+framework) make it costly to start new firms or for small firms to grow, thus reducing market 
+contestability and the potential for job creation and economic transformation. 
+65. 
+Substance of the action. The Company Law was passed by the parliament in November 2019 and 
+enacted by the president in December 2019. It creates the Office of the Company Registrar and provides 
+for streamlined rules for starting a company. The law also establishes the basic requirements for financial 
+and operational reporting by companies, shareholder rights, responsibilities of directors, and dissolution 
+of firms that provide the foundation for a competitive market economy. This is a new law that will replace 
+pre-1991 legislation.  
+66. 
+Expected outcome. The reform will make it easier for new firms to form, enter markets, and 
+transact with one another. This in turn will contribute to growth of dynamic and competitive markets that 
+can generate the jobs and incomes needed for inclusive economic growth. Expansion of the formal 
+economy will also broaden the tax base. WBG investment and advisory projects are providing support to 
+the Ministry of Commerce and Industry to develop and make operational the on-line business registration 
+system and to prepare implementing regulations that will, inter alia, protect minority shareholders rights, 
+introduced standardized corporate documentation, and make operational the Office of the Company 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 25  
+  
+Registrar.44 Results will be measured by the intermediate outcome of the use of an on-line system to 
+register new businesses. Currently all registration is manual and paper-based. In 2021, it is expected that 
+an on-line system will be operational, and that 80 percent of new company registrations will take place 
+through this system. Over time all the current manual, paper-based system will be fully phased out. Over 
+time the reform’s impact will also be reflected in Doing Business indicators measuring the time and cost 
+to start a new business and the strength of minority shareholder rights. 
+Policy area: Sectoral and financial policies 
+Prior Action 5. To strengthen the mobile money payments system and support growth of the 
+digital economy, the Recipient’s National Communications Authority has issued the 
+Interconnection Regulations providing for interconnection among telecommunications 
+operators. 
+67. 
+Rationale. The information communications and technology (ICT) sector, especially mobile 
+communications, flourished in the political and regulatory vacuum that followed the collapse of the Siad 
+Barre regime in 1991. This has in turn enabled the emergence of the mobile money industry. The ICT 
+sector has become concentrated, however, as the sector is dominated by a single operator, a second 
+player with strength in certain regions, and a few smaller players. Furthermore, few operators in Somalia 
+are interconnected with each other, thus stifling market competition and reducing the quality of 
+telecommunications and mobile money services provided to consumers. The 2017 Communications Act 
+established the National Communications Authority (NCA) and began to lay the basis for a regulatory 
+framework that encourages competition. 
+68. 
+Substance of the action. The NCA approved and issued the Interconnection Regulation in October 
+2019, after several rounds of stakeholder consultations. The regulation establishes procedural and 
+substantive requirements for interconnection negotiations and agreements. It requires an operator to 
+begin negotiation of an interconnection agreement upon request of another operator. And it requires 
+that technical and commercial terms in interconnection agreements be nondiscriminatory and 
+transparent. For example, an operator must provide an equivalent quality of service to interconnection 
+operators that it provides to its own customers.  
+69. 
+Expected outcome. The regulation will facilitate interconnections between mobile network 
+operators, thus improving competition and the quality of ICT services provided to households and firms 
+in Somalia, as well as enabling other services (e.g., mobile money and digital government services) that 
+rely on ICT services. This result will be measured by the share of mobile network operators that have 
+signed interconnection agreements. Prior to this regulation, no operators had signed an interconnection 
+agreement. The target for this result indicator is that 80 percent of mobile network operators will have 
+entered into an interconnection arrangement by the end of 2021. The regulation will also help to limit an 
+important channel for anti-competitive behavior in the telecommunications industry. Financial and 
+technical assistance provided to the National Communications Authority through the World Bank IPFs and 
+the IFC SUSIP Project will support realization of expected outcomes.45 
+ 
+ 
+44 Projects include the SCALED-UP IPF (P168115) and the IFC Investment Climate Reform Project advisory services (IFC 603600). 
+45 These include the Additional Financing: ICT Sector Support in Somalia (Phase 2) IPF (P164441), approved FY18, and IFC Somalia 
+Unlocking Sectoral Investment Program (SUSIP) advisory services (IFC 603088). 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 26  
+  
+Prior Action 6. To strengthen oversight over the mobile money payments system, the Recipient’s 
+Central Bank of Somalia has issued Mobile Money Regulations (CBS/NBS/REG/06). 
+70. 
+Rationale. Building on the expansion of mobile communications discussed above, the use of mobile 
+money has also increased rapidly in Somalia, largely superseding the use of cash.46 As noted in Section 
+2.1, a majority of Somalis use mobile money—to make purchases, receive salary, pay bills, or to send or 
+receive remittances. Usage is high in rural as well as urban areas, and by women as well as men. An 
+estimated 155 million transactions take place each month on average. Despite mobile money’s ubiquity, 
+the system is vulnerable to technical disruptions, anti-competitive behavior, or other abuse. This poses 
+risks to individual users and to the stability of the economy’s payments system. The industry grew rapidly 
+in a regulatory vacuum, and consequently provides little or no protection for consumers. Historically there 
+have been no systematic know-your-customer requirements, thus making AML/CFT efforts difficult. 
+Neither has there been a requirement that money held in mobile money wallets be matched by funds in 
+a financial institution. Because of the pervasive use of mobile money in Somalia, the failure of a mobile 
+money operator would undermine the domestic payments system and erode household savings. The 
+World Bank and IMF have been providing the financing and technical support to help Somalia construct a 
+regulatory framework to address these risks while extending the benefits of mobile money to more 
+Somalis. 
+71. 
+Substance of the action. CBS issued the Mobile Money Regulations (CBS/NBS/REG/06) in July 2019. 
+Developed through extensive stakeholder consultations, the regulations extend central bank supervision 
+to the mobile money sector by creating a framework for the licensing, regulation, and supervision of 
+mobile money services; providing a consumer protection framework for consumers of mobile money 
+services; and establishing a framework to prevent mobile money services from being abused for money 
+laundering and terrorism financing. The regulation gave existing mobile money operators (MMOs) six 
+months to apply for a license. To protect customers and ensure overall financial stability in the sector, the 
+regulations require MMOs to continuously maintain funds in its bank account equal to the amount of 
+mobile money issued to consumers. Operators must establish the data and information security protocols 
+needed to ensure operational stability. The Mobile Money Regulations impose specific “know your 
+customer” provisions on MMOs and require them to comply with AML/CFT laws and regulations. 
+72. 
+Expected outcome. The regulation is expected to strengthen stability of the mobile money industry 
+and thereby the financial sector, build trust, increase transparency, and protect consumers. The initiation 
+of regular publication of financial stability and related statistics of the mobile money industry will serve 
+as an indicator. A World Bank ASA is supporting CBS’s implementation of the regulations and outreach to 
+MMOs on regulatory compliance.47 Continued World Bank financial and technical assistance to CBS under 
+the SCALED-UP IPF (P168115) will also support realization of these expected outcomes.48 
+ 
+ 
+46 For background on the rise of mobile money in Somalia and its implications, see World Bank, “Somalia Economic Update: Rapid 
+Growth in Mobile Money—Stability or Vulnerability?” August 2018. 
+47 Implementation Support: Regulatory Framework for Mobile Money in Somalia (P171387). 
+48 Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP) (P168115) 
+approved FY19. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 27  
+  
+Table 4. DPF Prior Actions and Analytical Underpinnings 
+Prior Actions 
+Analytical Underpinnings 
+Operation Pillar 1: Strengthen fiscal management 
+Prior Action 1. To increase transparency 
+and accountability of debt 
+management, the Recipient has enacted 
+the Public Financial Management Law. 
+An advisory note prepared by the Financial Governance Committee 
+suggests that the PFM Bill should be strengthened to include provisions 
+on debt management. Specifically, it was suggested that the Minister of 
+Finance should have the sole authority to borrow on behalf of the FGS 
+and issue guarantees, and that Parliamentary approval is required. 
+These recommendations have been incorporated in the revised PFM 
+Law.  
+Prior Action 2. To increase revenue 
+mobilization potential, the Recipient 
+has enacted the Revenue 
+Administration Law. 
+ 
+The Somalia Economic Update 4, World Bank, 2017 and An Assessment 
+of Somalia’s Revenue Potential: A Way forward for Customs Reforms,’ 
+Cantens, 2018 explain how the legal framework for taxation in Somalia 
+is underdeveloped where different customs authorities have various tax 
+regimes, which undermines efficiency. Somalia Economic Update 2, 
+World Bank 2017, provides a detailed analysis of Somalia’s tax system 
+and its evolution. 
+Prior Action 3. The Recipient’s Ministry 
+of Fisheries and Marine Resources has 
+signed an agreement with the fisheries 
+ministries of the five Federal Member 
+States that defines how fishing license 
+revenue will be allocated between 
+federal and state governments. 
+ 
+To support the transparent and equitable management of natural 
+resources, the Financial Governance Report, May 2018, produced by the 
+Financial Governance Committee (supported jointly by the IMF, World 
+Bank, and the EU), underscored the need to agree a framework for 
+sharing federal offshore fishing revenues with FMSs. 
+Operation Pillar 2: Promote inclusive private sector-led growth 
+Prior Action 4. To strengthen the 
+environment for private sector 
+competition and market entry and exit, 
+the Recipient has enacted the Company 
+Law. 
+The Somalia Economic Update 3—Rapid Growth in Mobile Money? 
+Stability or Vulnerability, World Bank 2018, discusses how firms 
+currently operate in a regulatory void, which hinders the business 
+environment. Developing the legal framework to strengthen the 
+environment for competition in the private sector is a specific 
+recommendation in the report.  
+Prior Action 5. To strengthen the mobile 
+money payments system and support 
+growth of the digital economy, the 
+Recipient’s National Communications 
+Authority has issued the 
+Interconnection Regulations providing 
+for interconnection among 
+telecommunications operators. 
+ 
+The Somalia SCD, World Bank 2018 discusses how the lack of 
+interconnection across services requires users to buy multiple SIM cards 
+which has reduced competition by squeezing small players to the 
+detriment of the growth of the digital economy.  
+Prior Action 6. To strengthen oversight 
+over the mobile money payments 
+system, the Recipient’s Central Bank of 
+Somalia has issued Mobile Money 
+Regulations (CBS/NBS/REG/06). 
+ 
+The Somalia Economic Update 3—Rapid Growth in Mobile Money? 
+Stability or Vulnerability, World Bank 2018, highlights how the legal 
+framework for telecommunications needs to be improved to promote 
+financial stability of mobile money and guarantee consumer protection.  
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 28  
+  
+4.3. LINK TO CPF, OTHER BANK OPERATIONS AND THE WBG STRATEGY 
+73. 
+The proposed DPF achieves the interim goal of Focus Area 1 in the FY19–FY22 Somalia Country 
+Partnership Framework (CPF): “to secure normalization of Somalia’s relations through the HIPC 
+process.”49 In addition, the reform program supported by the proposed DPF complements the IPFs, ASA, 
+and IFC Advisory Services identified in the CPF in achieving several of its major objectives.50 
+74. 
+DPF Pillar 1: Prior actions on debt transparency, expenditure containment, and budget 
+accountability are aligned with CPF objective 1.1 (“Improve public finance management and institutional 
+effectiveness”). Prior actions on revenue mobilization and intergovernmental revenue sharing are aimed 
+at CPF objective 1.2 (“Enhance domestic revenue mobilization and resource sharing”). The World Bank 
+currently provides financing that supports these prior actions through the RCRF (P167224), and the 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening (P166206), and 
+Capacity Injection (P149971) projects.51 A programmatic PER is delivering modules in FY2020 on revenue 
+mobilization, PFM, the wage bill, and fiscal federalism that will inform implementation of Pillar 1 reforms. 
+World Bank advisory support to the Financial Governance Committee provides critical oversight over 
+these and related reforms. 
+75. 
+DPF Pillar 2: Prior actions on the business environment and regulation of the telecommunications 
+industry are alighted with CPF objective 2.1 (“Improve the business environment and lowering barriers to 
+entry”). Prior actions on the financial sector are aligned with CPF objective 2.2 (“Access to finance to 
+increase inclusion and digital development opportunities”). The World Bank currently provides financing 
+that supports these prior actions through the Somali Core Economic Institutions and Opportunities 
+(P152241), ICT Sector Support in Somalia Additional Financing (P164441), and SCALED-UP (P168115) 
+projects and technical assistance on implementation of the mobile money regulation. The IFC currently 
+provides advisory services through the Somali Unlocking Sectoral Investments (IFC 603088) and Somali 
+Investment Climate Reform (IFC 603600) projects that support implementation of the Company Law and 
+Interconnection Regulation. 
+76. 
+A Performance and Learning Review will guide the adjustment of the CPF program and guide the 
+use of resources that will be available after arrears clearance. An application for a country allocation 
+under IDA18 and IDA19 turnaround facilities is under preparation. Somalia will also be eligible for other 
+IDA facilities and for IFC investments upon normalization of relations.52 
+77. 
+The proposed DPF is an essential step towards realizing the WBG strategy. Normalization of 
+relations with the IFIs is an eligibility requirement for HIPC debt relief and can help Somalia unlock 
+additional and more predictable support from the international community. Somalia critically needs this 
+support to implement its poverty reduction strategy (NDP9), increase the country’s resilience to climatic 
+shocks, and foster inclusive economic growth. 
+ 
+ 
+49 The Board of Executive Directors discussed the Joint IDA/IFC/MIGA CPF for Somalia for the Period FY19-FY22 (IDA/R2018-0291, 
+IFC/R2018-0280, MIGA/R2018-0128) on September 25, 2018. 
+50 Until FY2019, the Multi-Partner Fund and other trust funds financed all IPFs. In FY2019 and FY2020, IDA allocated approximately 
+US$140 million per year on an exceptional basis for pre-arrears clearance grants. 
+51 These three IPFs are commonly referred to as the “Troika.” 
+52 Major facilities include IDA’s Crisis Response Window, Regional Window, and Window for Host Communities and Refugees. 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 29  
+  
+4.4. CONSULTATIONS AND COLLABORATION WITH DEVELOPMENT PARTNERS 
+78. 
+The proposed reforms in this DPF support NDP9, which was prepared in a consultative 
+manner. The NDP9 benefitted from two rounds of consultations, which support the principles behind 
+Pillar 1 concerning inclusive politics. The first round of consultations focused on poverty analysis and drew 
+upon the participation of stakeholders from civil society, the private sector, FGS or FMS line ministries, 
+and representatives of the National Parliament of FMS Assemblies. The poverty analysis considered the 
+drivers of poverty, coping mechanisms and actions to reduce poverty. A second round of consultations 
+was launched in May 2019 with substantial inputs sought from the National Development Council and the 
+high-level officials in the FGS and FMS, as well as the private sector. The second round of consultations 
+stressed the importance of narrowing and deepening the scope of NDP as well as prioritizing 
+interventions. The outcome of the consultations is reflected in the preparation of NDP9 which also 
+describes the consultative process. 
+79. 
+In addition, the Government has undertaken in-depth consultations with stakeholders relevant 
+to measures in its economic policy reform program that are supported by the proposed DPF. In some 
+cases, these consultations were facilitated by WBG activities. For example, IFC Advisory Services projects 
+are supporting a public-private dialogue mechanism that has provided an important avenue for the 
+Government to engage the private sector on the Company Law and its forthcoming implementing 
+regulations, as well as other measures to improve the business enabling environment. World Bank and 
+IFC projects also supported CBS’s stakeholder consultations on the Mobile Money Regulation and NCA’s 
+consultations on the Interconnection Regulation. Similarly, the federal MoF consulted extensively with 
+the FMSs on the PFM and Revenue Administration Laws. 
+80. 
+As part of the process of securing HIPC debt relief and Somalia’s reengagement with the 
+international community, the proposed DPF is being developed in close collaboration with development 
+partners. Throughout the HIPC process, the World Bank has closely collaborated with other 
+IFIs. Specifically, the World Bank has worked closely with the IMF in reforms concerning fiscal 
+management and financial sector regulation. There has been close collaboration with the AfDB to 
+coordinate progress on seeking resources to support arrears clearance. The EU has also been a close 
+partner for budget support-related activities, coordinating reforms to complement the World Bank’s 
+Recurrent Cost Reform Financing project. There have been regular outreach activities on the HIPC process 
+with the broader development community, including bilateral partners and United Nations (UN) agencies. 
+The regular outreach activities have contributed to broad support for the HIPC process and have bolstered 
+an understanding of the benefits of Somalia’s reengagement with the international community.  
+5. OTHER DESIGN AND APPRAISAL ISSUES 
+5.1. POVERTY AND SOCIAL IMPACT 
+81. 
+Prior actions under the DPF are expected to have positive poverty and distributional effects in the 
+medium to long term. Data limitations constrain short-term quantitative analyses of the poverty and 
+social impact of the prior actions. The analysis below describes the channels through which the actions 
+contribute to poverty reduction. 
+82. 
+Prior actions under Pillar 1 are expected to have direct and indirect positive effects on poverty 
+alleviation and increasing resilience of the Somali population. The positive effects are expected as 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 30  
+  
+actions create fiscal space that can be directed to improving public service delivery, robust safety nets and 
+ultimately contribute to poverty reduction. Overall, the prior actions under Pillar I support the 
+government’s efforts to strengthen fiscal management by establishing a framework that creates 
+transparency and accountability in spending and improves the potential for revenue mobilization. In 
+addition, greater transparency and accountability provides a critical foundation for protecting the poor 
+and vulnerable from abuses and unfair treatments. Specific effects are as follows: 
+• 
+Enactment of the PFM law will improve debt management and contribute to macroeconomic 
+stability and long-term debt sustainability. This action has medium-term positive effects on 
+poverty reduction by enabling economic growth that foster job creation and better government 
+revenue generation.  
+• 
+Enactment of the Revenue Administration Law will increase the government’s capacity to raise 
+revenue, thus relaxing the primary constraint on the government’s capacity to provide services 
+and make investments to reduce poverty. Increased revenue has positive effects in the medium- 
+to long-term through its use in pro-poor spending, as envisioned in NDP9.  
+• 
+Increased revenue sharing has potential long-term positive effects through FMSs’ use the funds 
+for anti-poverty and vulnerability programs. 
+83. 
+Prior actions under Pillar 2 are expected to have a positive impact on poverty by expanding 
+financial inclusion and digital economy over the medium term. The Somali private sector is dominated 
+by micro, small and medium-sized enterprises, many of which are informal and unregistered. Low-income 
+individuals in Somalia tend to be self-employed or own a small business and have little access to the formal 
+banking systems. Mobile money usage is remarkably high in Somalia, even among the poor, and is an 
+important channel for means of exchange and domestic remittance flows. The regulation of the mobile 
+money market effected through Prior Action 6 will reduce system vulnerabilities and help to safeguard 
+consumer funds, which the poor cannot afford to lose. Regulation of mobile money can contribute to 
+financial inclusion, equity, and resilience, especially within a context were access to banking services are 
+limited. Expected effects of other prior actions are as follows: 
+• 
+The Company Law has potential medium-term positive effects as streamlined business 
+registration procedures encourage establishment of new businesses that in turn generate 
+employment. However, as this mainly affects the formal sector while most of the poor are 
+engaged in micro, small and medium enterprises, the benefits of this action will take time to reach 
+the poor and vulnerable. 
+• 
+Requiring mobile services providers to enter into interconnection agreements contributes to 
+poverty reduction in the medium- to long-term by reducing transactions costs in making mobile 
+money transactions (since interconnection is a prerequisite for cross-network payments) and by 
+constraining anti-competitive pricing behavior by telecommunications operators. The reform can 
+also have long-term effects to the extent that a broader digital economy creates opportunities to 
+enable a digital workforce and expand reach and usage of digital financial services. 
+5.2. ENVIRONMENTAL ASPECTS 
+84. 
+Environmental laws, policies, and institutions are still evolving in Somalia. Article 25 of the 2012 
+Provisional Constitution establishes that all Somali’s have the right “… to an environment that is not 
+harmful to their health and well-being, and to be protected from pollution and harmful materials” and “… 
+to have a share of the natural resources of the country, whilst being protected from excessive and 
+damaging exploitation of these natural resources.” The Provisional Constitution calls on the FGS (in 
+consultation with the FMSs) to adopt general environmental policies. To start this process, the FGS has 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 31  
+  
+established the Directorate of Environment within the Office of the Prime Minister. The directorate is 
+mandated to draft national environmental policies and legislation, including inter alia those that will 
+government environmental quality standards, sectoral environmental assessments, environment impact 
+assessments, and environmental audits.  
+85. 
+The agreement on intergovernmental revenue allocation in Prior Action 3 may indirectly make a 
+positive contribution to improved fisheries management. The allocation of fishing license revenue across 
+jurisdictions itself does not directly harm or benefit the environment, forests, and other natural resources. 
+But the 2019 fisheries agreement requires parties to devote 40 percent of the revenue they receive from 
+the sector to the “development, management, and storage of the fisheries and marine resources as well 
+as for covering the needs of the local/Somali fisherman” (Article 3.1). In addition, the revenue-sharing 
+agreement is associated with issuing licenses to catch tuna in Somalia’s exclusive economic zone that may 
+contribute to improved management of Indian Ocean tuna. Somalia is a member of the Indian Ocean Tuna 
+Commission (IOTC), which has the mandate to manage tuna and tuna-like resources in the Indian Ocean. 
+IOTC currently imposes a fishing limit on fleets for a particular species (e.g., Yellowfin tuna). Although 
+Somalia’s fishing licensing regime is not a tool for preventing overfishing, the information that Somalia 
+collects may help IOTC validate some of the data it receives from fishing fleets and thereby strengthen 
+IOTC’s management of tuna resources in the Indian Ocean. This effect may be small, however, as fishing 
+activity along Somalia’s coast is small relative to total fishing in the Indian Ocean.53 The World Bank has 
+been providing technical and analytical support to the Ministry of Fisheries and Marine Resources since 
+2017. It is currently developing technical assistance (TA) to support revisions to fisheries legislation that 
+would strengthen sustainable fisheries management. 
+86. 
+Other prior actions in Pillar 1 are unlikely to directly affect Somalia’s environment, forests, or 
+other natural resources, but they contribute to a macroeconomic and fiscal environment that is more 
+conducive to effective environmental management. Policies that improve debt management, increase 
+domestic revenue mobilization, contain wage bill growth, and strengthen controls on spending contain 
+no provisions on environmental management.54 They create fiscal space, strengthen institutions for fiscal 
+management, and contribute to macroeconomic stability. These in turn create preconditions for the 
+authorities to more effectively manage the country’s natural resources. 
+87. 
+Actions in Pillar 2 are unlikely to directly affect Somalia’s environment, forests, or other natural 
+resources. The prior actions aim to establish a business and investment climate and sectoral regulations 
+that favor formalization, investment, competition, and reduced transactions costs. None contains 
+measures related to Somalia’s natural resources. The prior actions are expected to contribute to 
+employment and income creation in the long term. For example, by providing more alternatives to 
+environmentally harmful economic activities (e.g., charcoal production), these measures may indirectly 
+have long-term beneficial effects. 
+88. 
+The World Bank is currently preparing a country environmental assessment. This will review the 
+most critical environmental issues facing Somalia and assess the country’s policies and institutions that 
+ 
+ 
+53 The total longline catch in 2017 in the Indian Ocean is 193,417 tons, while the current estimated catch of the long-liners 
+operating in Somalia is around 7,500 tons. 
+54 The Revenue Administration Law (Prior Action 2) states that royalties, license fees, profit shares and other revenues imposed 
+with respect to natural resources are to be regulated at the national level by the FGS. However, the law does not create any new 
+revenue instruments or set rates of existing instruments (e.g., tuna fishing fees). 
+ 
+The World Bank 
+ 
+Somalia Reengagement and Reform DPF (P171570) 
+ 
+ 
+ 
+ 
+Page 32  
+  
+can address these issues. The analysis is expected to be completed in FY20. In parallel, a climate risk 
+assessment is being prepared to screen potential development interventions for long-term sustainability. 
+5.3. PFM, DISBURSEMENT AND AUDITING ASPECTS 
+89. 
+This DPF entails two Management-granted exceptions to the World Bank’s DPF Policy and 
+Directive. The first exception is to the Directive for DPF, which does not permit the signing of legal 
+agreements for DPF if there are payments of IDA credits that are overdue by 30 days or more unless, in 
+exceptional circumstances, Management approves the signing. The second exception is to the Directive 
+for DPF (Bank Policy (BP) 8.60), which provides that, in the case that there are payments under any IDA 
+credit to the member country that are overdue by 30 days no new operation be submitted to the Executive 
+Directors unless an exception is granted by Management. These exceptions are necessary to facilitate the 
+complex transactions involved in the clearance of Somalia’s arrears. Management granted both 
+exceptions on January 23, 2020. 
+90. 
+The FGS has been progressively rebuilding its core PFM systems in the context of the PFM Action 
+Plan 2016–2020. The FGS is building a modern legal framework, enacting the Procurement and 
+Concessions Law in 2017 and, in 2019, replacing a PFM framework dating to 1961 with enactment of the 
+new PFM Law. The annual budget is passed on time and the budget documentation covers the basic 
+elements to meet minimum levels of transparency (see paragraph 92). The implementation of the Somalia 
+Financial Management Information system (SFMIS) has enabled the Government to produce financial 
+reports covering all expenses in the budget, produce quarterly fiscal reports and annual financial 
+statements via the system. The Government has taken a significant step towards strengthening cash 
+management, operationalizing a treasury single account (TSA) in 2017, consolidating all bank balances of 
+ministry, department, or agency (MDAs) via the SFMIS and significantly reducing cash advances to MDAs 
+for non-salary expenses, and implementing a cash-forecasting system to inform allotments which are 
+issued prior to commitment. Biometric verification of FGS personnel (both civilian and security), replacing 
+cash payments with direct deposit, and integration of payroll into the SFMIS have strengthened payroll 
+controls.55 The Government has undertaken a complete stocktaking and recording in the SFMIS of all 
+payroll, goods, services obligations that are in arrears. Since 2016 it has refrained from accumulating new 
+domestic expenditure arrears (a commitment under successive IMF SMPs). The Financial Governance 
+Committee, established in 2014 by agreement between the FGS and international partners, has increased 
+scrutiny over new and existing contracts. The Auditor General is moving to adopt International Standards 
+for Supreme Audit Institutions. There is timely completion of audits and capacity is being strengthened to 
+carry out security sector audits.  
+91. 
+Notwithstanding these achievements, there are several areas that still need improvement. 
+Although the new PFM Law has been passed, its implementing regulations must be drafted and issued. 
+The Audit Bill and the amendments to the Procurement and Concessions Law remain to be enacted. Apart 
+from a few basic fiscal rules mentioned in the Appropriation Act, there is no comprehensive fiscal strategy 
+that drives the budgeting process and there is no practice of forecasting the impact of fiscal policy 
+proposals. As a result, the credibility of the annual budget is questionable. Budget classification is guided 
+ 
+ 
+55 In addition to saving money for the Government (by narrowing the scope for corruption and reducing lea

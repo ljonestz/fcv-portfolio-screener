@@ -1,0 +1,2072 @@
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD3421  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED PRE-ARREARS CLEARANCE GRANT  
+IN THE AMOUNT OF SDR 46.8 MILLION 
+(US$65 MILLION EQUIVALENT) 
+TO THE 
+FEDERAL REPUBLIC OF SOMALIA  
+FOR THE 
+SHOCK RESPONSIVE SAFETY NET FOR HUMAN CAPITAL PROJECT 
+ 
+July 26, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+Social Protection and Jobs Global Practice 
+Africa Region 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective June 30, 2019) 
+ 
+Currency Unit =  Somali Shilling (SOS) 
+SOS 578.50 = US$1 
+US$1 = SDR 0.71931579 
+ 
+FISCAL YEAR 
+January 1–December 31 
+ABBREVIATIONS AND ACRONYMS 
+BRA 
+Banadir Regional Authorities 
+CBT 
+Cash-Based Targeting  
+CPF 
+Country Partnership Framework 
+DFID 
+U.K. Department for International Development  
+DPFP 
+Data Protection Focal Person  
+DWG 
+Donors Working Group 
+EAFS 
+External Assistance Fiduciary Section 
+EU 
+European Union 
+FAO 
+Food and Agriculture Organization of the UN 
+FCV 
+Fragility, Conflict, and Violence  
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMFA 
+Financial Management Framework Agreement 
+FMS 
+Federal Member States  
+FRS 
+Federal Republic of Somalia  
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GRM 
+Grievance Redress Mechanism 
+HIPC 
+IDA 
+Heavily Indebted Poor Countries  
+International Development Association 
+IDP 
+Internally Displaced Person 
+IFMIS 
+Integrated Financial Management Information System 
+IFR 
+Interim Financial Report 
+IMF 
+International Monetary Fund 
+IPC 
+Integrated Phase Classification 
+MAM 
+Moderate Acute Malnutrition 
+M&E 
+Monitoring and Evaluation 
+MEB 
+Minimum Expenditure Basket 
+MIS 
+Management Information System 
+MoF 
+Ministry of Finance 
+ 
+ 
+ 
+MoLSA 
+Ministry of Labor and Social Affairs  
+MTR 
+Midterm Review 
+NDP 
+National Development Plan 
+NGO 
+Nongovernmental Organization 
+PDO 
+Project Development Objective 
+PFM 
+Public Financial Management  
+PIU 
+Project Implementation Unit 
+PP 
+Procurement Plan 
+PPA 
+Public Procurement, Concessions, and Disposal Act  
+PPSD 
+Project Procurement Strategy for Development  
+SAM 
+Severe Acute Malnutrition 
+SCALED-UP 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship through 
+Digital Uplift Project 
+SCD 
+Systematic Country Diagnostics 
+SEA 
+Sexual Exploitation and Abuse 
+SEP 
+Stakeholders Engagement Plan 
+SMP 
+Staff-Monitored Program 
+SNHCP 
+Shock Responsive Safety Net for Human Capital Project 
+SP 
+Social Protection  
+SSN 
+Social Safety Net 
+STEP 
+Systematic Tracking of Exchanges in Procurement  
+TA 
+Technical Assistance  
+TAF 
+Technical Assistance Facility  
+TOR 
+Terms of Reference 
+TPM 
+Third-Party Monitoring 
+UCS 
+Use of Country Systems 
+UCT 
+Unconditional Cash Transfers 
+UN 
+United Nations 
+UNICEF 
+United Nations Children’s Fund  
+WFP 
+World Food Programme  
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Carlos Felipe Jaramillo 
+Senior Global Practice Director: Michal J. Rutkowski 
+Practice Manager: Robert S. Chase 
+Task Team Leader(s): Afrah Alawi Al-Ahmadi 
+ 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ................................................................................. Error! Bookmark not defined. 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 6 
+A. Country Context................................................................................................................................ 6 
+B. Sectoral and Institutional Context .................................................................................................. 10 
+C. Relevance to Higher Level Objectives ............................................................................................. 13 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 14 
+A. Project Development Objective ..................................................................................................... 14 
+B. Project Components ....................................................................................................................... 15 
+C. Project Beneficiaries ....................................................................................................................... 18 
+D. Results Chain .................................................................................................................................. 19 
+E. Rationale for Bank Involvement and Role of Partners ................................................................... 20 
+F. Lessons Learned and Reflected in the Project Design .................................................................... 21 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 22 
+A. Institutional and Implementation Arrangements .......................................................................... 22 
+B. Results Monitoring and Evaluation Arrangements......................................................................... 24 
+C. Sustainability ................................................................................................................................... 24 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 25 
+A. Technical, Economic and Financial Analysis (if applicable) ............................................................ 25 
+B. Fiduciary .......................................................................................................................................... 28 
+C. Legal Operational Policies ............................................................................................................... 31 
+D. Environmental and Social ............................................................................................................... 31 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 35 
+VI. KEY RISKS ..................................................................................................................... 36 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 40 
+Annex 1: Implementation Arrangements and Support Plan .................................................. 46 
+Annex 2: Detailed Components Description ......................................................................... 52 
+Annex 3: Detailed Targeting Methodology for Component 1 ................................................ 62 
+Annex 4: Financial Management Arrangements ................................................................... 69 
+Annex 5: Procurement Arrangements .................................................................................. 80 
+Annex 6: Gender and Gender-based Violence Analysis ......................................................... 87 
+ANNEX 7: MAP .................................................................................................................... 90 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+     
+1 
+ 
+     
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Shock Responsive Safety Net for Human Capital Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk 
+Classification 
+Process 
+P171346 
+Investment Project 
+Financing 
+Substantial 
+Urgent Need or 
+Capacity Constraints 
+(FCC) 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict  
+[  ] Deferred Drawdown 
+[✓] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+08-Aug-2019 
+31-Aug-2022 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+The project development objective is to provide cash transfers to targeted poor and vulnerable households and 
+establish the key building blocks of a national shock-responsive safety net system. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Nutrition-linked Unconditional Cash Transfers  
+  53.00 
+ 
+Delivery Systems and Institutional Capacity Building  
+   6.00 
+ 
+Project Management, Monitoring and Evaluation, and Knowledge Management  
+   6.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of Somalia  
+Implementing Agency: 
+ Ministry of Labor and Social Affairs  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+65.00 
+Total Financing 
+65.00 
+of which IBRD/IDA  
+65.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+65.00 
+          IDA Grant 
+65.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+ National PBA 
+   0.00 
+  65.00 
+   0.00 
+  65.00 
+Total 
+   0.00 
+  65.00 
+   0.00 
+  65.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+3
+ 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+ 
+2020 
+2021 
+2022 
+2023 
+Annual 
+ 
+ 
+ 
+ 
+ 
+ 
+  40.00 
+  15.00 
+   9.50 
+   0.50 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+ 
+  40.00 
+  55.00 
+  64.50 
+  65.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Social Protection & Jobs 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+Gender Tag 
+Does the project plan to undertake any of the following? 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of 
+country gaps identified through SCD and CPF 
+Yes 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or 
+men's empowerment 
+Yes 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+Yes 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Moderate 
+3. Sector Strategies and Policies 
+⚫ Substantial 
+4. Technical Design of Project or Program 
+⚫ Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ Substantial 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+4
+ 
+ 
+8. Stakeholders 
+⚫ Moderate 
+9. Other 
+ 
+10. Overall 
+⚫ Substantial 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Not Currently Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Not Currently Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+5
+ 
+ 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+The Recipient shall not later than ninety (90) days after the Effective Date, establish and thereafter, maintain 
+throughout the Project implementation the PIU within the Federal MoLSA with resources, terms of reference, 
+staffing, and other resources, satisfactory to the Association. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Description 
+Disbursement 
+Payments made prior to the Signature Date of the Financing Agreement, except that 
+withdrawals up to an aggregate amount not to exceed SDR 1,440,000 may be made for 
+payments made prior to this date but on or after June 1, 2019, for Eligible Expenditures 
+under Categories (2) set forth in the table under Schedule 2 Section III.A.1 of the Financing 
+Agreement; or 
+ 
+Type 
+Description 
+Disbursement 
+Payments for Cash Transfer under Category (1) set forth in the table under Schedule 2 
+Section III.A.1 of the Financing Agreement, unless the Recipient has prepared, adopted and 
+disclosed the following social risk management instruments: Social Management Plan 
+(including, inter alia, a gender-based violence (GBV) Action Plan) and Labour Management 
+Procedures, all in form and substance satisfactory to the Association; or 
+ 
+Type 
+Description 
+Disbursement 
+Payments under Categories (3) and (4) set forth in the table under Schedule 2 Section III.A.1 
+of the Financing Agreement, unless the Recipient has prepared and adopted the Project 
+Operations Manual, in form and substance satisfactory to the Association. 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+6
+ 
+ 
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+1. 
+After more than two decades of conflict and insecurity, Somalia is gradually establishing the 
+foundations for stability and a new political settlement. Since 1991, southern Somalia has experienced 
+cycles of conflict that have fragmented the country, destroyed legitimate institutions, and created 
+widespread vulnerabilities. The civil war resulted in the deaths of tens of thousands of Somalis and 
+exacerbated the 1991 famine. Efforts during the 1990s and 2000s aimed at restoring peace were 
+undermined by ongoing insecurity and the rise of a militia-based opposition, known today as Al-Shabaab. 
+However, Somalia has entered a new phase of relative peace and stability since 2011, with the Agreement 
+on the Provisional Constitution and the establishment of the Federal Republic of Somalia (FRS) bringing 
+to power the Federal Government of Somalia (FGS) in 2012 and ending a long period of revolving 
+transitional governments. The federal system of governance, with its newly formed Federal Member 
+States (FMS), opens a new chapter for Somalia’s development and offers hope for a stable future. 
+However, the federation process is complex, representing both a significant development opportunity as 
+well as uncertainties over representation and power and resource sharing. Meanwhile, the nature of 
+Somaliland’s relationship with Somalia remains unresolved. Further, insecurity remains a concern, as 
+demonstrated by recent attacks by Al-Shabaab in March and April 2019. Drought, competition for natural 
+resources, and poor living conditions also fuel fighting in rural areas. As such, government control beyond 
+urban areas and key towns and cities continues to be limited. 
+2. 
+Despite improvements in the macroeconomic outlook, economic challenges continue to be 
+daunting, and growth remains insufficient to address widespread vulnerabilities. Between 2013 and 
+2017, Somali real gross domestic product (GDP) was estimated to have grown at an average of 2.5 percent 
+per year while population grew by 2.9 percent per year. This resulted in an annual contraction of per 
+capita GDP of 0.3 percent a year.1 Growth is mainly consumption driven, enabled by large remittance and 
+aid inflows, estimated at about US$1.4 billion a year, equivalent to about 23 percent of Somalia’s GDP 
+(IMF 2017), while construction, telecommunications, and money transfer services have been the key 
+growth sectors. Remittances sent by the diaspora contribute substantially to household income and 
+consumption for the bottom 40 percent. Half of Somalia’s estimated 12 million people live in rural areas, 
+pursuing pastoralist and agro-pastoralist livelihoods, which are increasingly exposed to climate change. 
+Nevertheless, the agriculture sector remains the backbone of the economy and accounts for about 75 
+percent of GDP, among the highest in the world.2 Spending by the FGS has expanded significantly over the 
+past five years along with expanded revenue mobilization, reaching 5.4 percent of GDP in 2018. However, 
+spending remains concentrated on security and public administration, reflecting the immediate priorities 
+of peacekeeping and peace-building, and neither the FGS nor the FMS is able to allocate meaningful 
+resources for human capital or infrastructure development.3  
+3. 
+Somalia is highly vulnerable to natural disasters, namely repeated cycles of droughts driven by 
+climate change, resulting in protracted humanitarian crisis. Somalia has experienced 14 droughts since 
+                                            
+1 World Bank. 2018. Somalia Economic Update – Edition No 3. Washington, DC: World Bank.  
+2 World Bank. 2018. Country Partnership Framework for the Federal Republic of Somalia. Washington, DC: World Bank.  
+3 World Bank. 2019. Draft Somalia Economic Update. Rebuilding Human Capital to Return to Prosperity. Fourth Edition. 
+Washington, DC: World Bank. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+7
+ 
+ 
+1960, averaging one every four years. Recently, the 2011 East Africa Drought resulted in the deaths of a 
+quarter million people, half of them children under the age of five years, as well as the displacement of 
+nearly 1 million people.4 In 2016/17, the country experienced another large-scale drought, leaving an 
+estimated 6.7 million people in urgent need of humanitarian assistance. While famine was averted due to 
+concerted international support, nearly 400,000 children still suffered from acute malnutrition and an 
+additional 1 million people were internally displaced. In 2018, Somalia also experienced major flooding, 
+which further displaced over 230,000 people, worsening the impacts of the 2016/17 drought.5 
+Consequently, more than 1.5 million people became internally displaced since November 2016 because 
+of drought, conflict, and flooding. This was in addition to an existing estimated caseload at that time of 
+1.1 million people in protracted displacement.6 As such, about 14 percent of the total population remains 
+internally displaced. Another drought is now anticipated in mid-2019 due to failed or late rains, which is 
+expected to further deteriorate food security and displacement.7 The Center for Global Development 
+therefore ranks Somalia as the most vulnerable country to climate change among 167 countries, adjusted 
+for coping capacity.8 
+4. 
+This year, chronic food insecurity and the resulting severe malnutrition among children under 
+five years will yet again reach crisis levels. Currently, about 3.4 million people are estimated to be in the 
+‘Stressed’ (IPC 2) 9 phase through June 2019, while an additional 1.5 million are estimated to be in the 
+‘Crisis’ (IPC 4) and ‘Emergency’ (IPC 4) phases. The population facing crisis and emergency phases are 
+supported by humanitarian assistance to prevent famine conditions. However, lack of a formal safety net 
+delivery system that provides predictable, reliable, and scalable assistance to households facing chronic 
+food insecurity under the ‘Stressed’ phase risks worsening their food security in the event of a shock or 
+stress. Moreover, high levels of chronic malnutrition persist across Somalia due to food insecurity, high 
+morbidity, low immunization, and vitamin A supplementation, and poor care practices. While data on 
+stunting of children under five years is limited, estimates range widely from 12 percent to 38 percent.10 
+Currently, urgent treatment and nutrition support is required for an estimated 900,000 children under 
+the age of five years, with about 140,000 children likely to be severely malnourished. 
+5. 
+Development outcomes have been exacerbated by the economic challenges and ongoing 
+humanitarian crisis. Nearly 80 percent of Somalis live below the international poverty line11 according to 
+                                            
+4 World Bank. 2018. Country Partnership Framework for the Federal Republic of Somalia. Washington, DC: World Bank 
+5 World Bank. 2017. Somalia Emergency Drought Response and Recovery Project. Project Appraisal Document, Washington, DC: 
+World Bank.  
+6 See https://data2.unhcr.org/en/situations/cccm_somalia.  
+7 Data obtained from the Somalia Food Security Cluster indicates that large-scale, emergency food assistance has continued 
+across Somalia, reaching 1.8 million to 2 million people per month between August and December 2018. This has prevented 
+worse food security outcomes in many areas. See Food Security and Nutrition Analysis Unit – Somalia and Famine Early Warning 
+System Network. 2019. ‘Key Message Update.’ http://fews.net/east-africa/somalia/key-message-update/january-2019. 
+8 The survey ranks countries across four dimensions of climate impact: extreme weather, sea-level rise, agricultural productivity 
+loss, and overall. Rankings are based on a comprehensive dataset. See Wheeler, David. 2011. “Quantifying Vulnerability to Climate 
+Change: Implications for Adaptation Assistance.” Center for Global Development, Washington, DC.  
+9 IPC refers to the Integrated Food Security Phase Classification, which is a tool for improving food security analysis and decision 
+making across a standardized five- phase scale with 1 being minimal and 5 being famine. It is intended to help governments and 
+other humanitarian actors quickly understand a crisis (or potential crisis) and take action. For more details, see 
+http://fews.net/sectores-t%C3%B3picos/abordagem/classifica%C3%A7%C3%A3o-integrada-de-fases.  
+10 The Food Security and Nutrition Analysis Unit reports 12 percent post Deyr 2015/16, while the 2006 Multiple Indicator Cluster 
+Survey reports 38 percent. 
+11 Poverty is estimated using the international US$1.90 2011 purchasing power parity poverty line.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+8
+ 
+ 
+the second wave of the Somalia High Frequency Survey undertaken in 2017/18. This makes Somalia the 
+third poorest country in the region, after Burundi and South Sudan.12 National poverty rates vary 
+significantly across regions, and range between 26 percent and 70 percent. Poverty is more acute among 
+children and youth,13 as well as in rural areas and among settlements of internally displaced persons 
+(IDPs), with 70 percent living below the poverty line. Further, only 55 percent of Somalis are literate, only 
+16 percent have completed primary school, and only 7 percent have finished secondary school. Over two-
+thirds of urban households have access to basic water services, compared to only 20 percent of rural 
+households, and less than 10 percent have basic sanitation or hygiene.14 Moreover, only about one-fifth 
+of the population has access to electricity. In addition, maternal mortality was estimated at 734 for every 
+100,000 births, and the under-five mortality rate, which was at 133 per 1,000 births before the 2016/17 
+drought,15 is expected to have worsened because of the impacts of drought. Lastly, three-quarters of the 
+population are under the age of 30 years, which, coupled with high rates of unemployment, presents 
+major social and economic challenges. 
+6. 
+Vulnerability in Somalia is multidimensional and poor households are more likely to be deprived 
+beyond monetary poverty, including literacy and education attainment, labor force participation, access 
+to quality housing and improved water and sanitation. This deprivation holds both within and across 
+regions. For example, nearly half of the population does not reach average consumption of food items, 
+confirming the dire living standards of most Somalis. While gender is not a predictor of monetary poverty 
+in the Somali context, fewer women have access to education (55 percent of women have no education 
+as compared to 40 percent of men) and social norms constrain their access to jobs and economic 
+opportunities.16 Overall, nine in ten Somali households are lagging in at least one of these dimensions. 
+Moreover, vulnerability is directly linked to poverty incidence; the population clustered above the poverty 
+line is naturally vulnerable to falling into poverty in case of an unexpected decrease in consumption levels. 
+Thus, in addition to seven in ten people being below the poverty line, a further one in ten people are 
+vulnerable to falling below the poverty line during a shock. 
+7. 
+Somalis are vulnerable to various covariate (that is, natural disasters and epidemics) and 
+idiosyncratic (that is, injury, death, or unemployment) shocks, which threaten their well-being. Almost 
+two in three Somali households (66 percent) reported experiencing at least one type of shock in the past 
+12 months.17 Due to the 2016/17 drought, most of the reported shocks were related to fluctuation in 
+climate and its impact on livelihoods and the economy. Given the dominance of agro-pastoralism in the 
+                                            
+12 World Bank. 2018. Country Partnership Framework for the Federal Republic of Somalia. Washington, DC: World Bank. 
+13 Fifty-six percent of children under five years and 59 percent youth between 5 and 15 years are poor. 
+14 UNICEF (United Nations Children’s Fund) and World Health Organization. 2019. Joint Monitoring Program. See 
+https://washdata.org/data#!/som.  
+15 UNICEF (United Nations Children’s Fund) and World Health Organization. 2019. Joint Monitoring Program. See 
+https://washdata.org/data#!/som 
+16 Social norms constrain women participation: anecdotal evidence suggests that banks require the husband to act as a guarantor 
+for a loan, even when the woman has collateral; and inheritance practices limit women’s inheritance rights and access to land. 
+At the same time, women tend to have access to fewer channels through which opportunities are advertised, such as notice 
+boards, websites, and print media. 
+17 There were 18 categories of shock in the dataset which were collapsed into 8 categories presented in the graphs. Loss of crop 
+and livestock refers to crop failure; crop disease or pest, and livestock death or disease. Reduction in income includes loss of 
+remittances or other assistance, job loss or business failure, and loss of a household member or main earner due to illness or 
+accident. Conflict covers both experiencing violence and land eviction whereas other natural shocks include floods or landslides 
+and fire.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+9
+ 
+ 
+economy, household welfare is closely linked with changes in rain patterns. Of those who experienced a 
+shock, one in two households reported suffering from drought impacts, while one in four households 
+reported loss of crops or livestock and shortage of water for farming or cattle. One in every five 
+households experienced high food prices and two out of five Somali households experienced multiple 
+types of shocks within a year. The negative impact of each shock is greater if a household experiences 
+multiple types of shocks simultaneously, because it leads to accumulation of vulnerabilities. 
+8. 
+Women and girls face specific challenges to economic and decision-making access. Traditional 
+and religious norms limit women’s roles outside the domestic sphere and limit their participation in 
+political and public decision-making forums. Despite their increasing engagement in economic activities, 
+women are thought to be far poorer than men, because wealth is unevenly distributed in the household 
+and across the wider economy. Even among those engaged in income-generating activities, the majority 
+are in the informal sector. Furthermore, women’s involvement in wage labor is low (33–40 percent) and 
+predominantly concentrated in the agriculture sector.  
+9. 
+Gender-based violence (GBV) is a threat to women and girls throughout Somalia. A 2016 GBV 
+survey commissioned by the World Bank and United Nations (UN) partners found that 17 percent of 
+women have experienced some form of physical or sexual violence from a non-partner.18 Further, intimate 
+partner violence is a common experience that has been found to be often linked to women’s engagement 
+in income-generating activities, affecting 36 percent of women interviewed. Displaced women and girls 
+are among the most affected due to extreme poverty, marginalization and conflict, and climate-related 
+shocks, such as droughts. Data emerging from the GBV Information Management System reveals that over 
+14,000 cases of GBV were reported from January 2015 through June 2016. Of the total number of cases, 
+over 50 percent were cases of physical assault, while incidence of rape and sexual assault ranged from 30 
+percent to 34 percent during this period. A significant share of these cases—roughly 20 percent—were 
+perpetrated against girls under the age of 17 years.  
+10. 
+Given the low development indicators and widespread vulnerabilities, Somalia needs to 
+reorient government spending toward public investment, particularly investment to boost human 
+capital. Somalia’s growth and prosperity depend heavily on the quality of its human capital, which in turn 
+depends on Somalia’s ability to educate its youth and children to become productive citizens. Social 
+protection (SP) interventions can play a key role in supporting poor and vulnerable households to prevent 
+and mitigate the negative and long-lasting impact that shocks have on human capital formation and 
+individual well-being. Further, cash transfers can enable families to spend more on goods (food, clean 
+water, and medicine) and services (health and education) that generate human capital accumulation. 
+Regular and predictable cash also allows families to increase precautionary savings, improve access to 
+credit through formal and informal sharing mechanisms, and improve livelihood strategies. SP delivery 
+systems, particularly social registries, likewise are helpful more broadly, as they provide a ‘gateway’ for 
+households to register and be considered for one or more social programs. Given the great potential for 
+improving the human capital of its citizens, particularly among the youth, most of whom confront limited 
+socioeconomic opportunities, Somalia needs to put investments in human capital at the center of its 
+peace-building and development agenda for transition from humanitarian to development approaches. 
+                                            
+18 World Bank. 2018. Country Partnership Framework for the Federal Republic of Somalia. Washington, DC: World Bank.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+10
+ 
+ 
+11. 
+Furthermore, in the absence of trusted institutions and inclusive socioeconomic opportunities, 
+Somalia faces a ‘dual development trap’19 that perpetuates instability and exclusion and exposes the 
+country to the risk of backtracking. Breaking out of this trap requires strengthening of the citizens’ trust 
+in institutions and creation of inclusive opportunities for the poorest and most vulnerable and 
+marginalized groups in the country. This can only be achieved through significant investments in services, 
+human development, and economic opportunities, while continuing to address structural drivers of 
+fragility.   
+ 
+B. Sectoral and Institutional Context 
+12. 
+In the absence of a formal national safety net system, Somalis currently rely on traditional and 
+informal kinship-based systems in the face of increasingly frequent shocks. However, these come under 
+particular strain in the face of covariate shocks. When in need, Somalis first rely on family, community, or 
+religious leaders, in this order. Remittances represent an important component of income for the bottom 
+40 percent of households, but they are concentrated within particular clans, lineages, and extended 
+families. Moreover, urban households are more likely to receive remittances. As such, remittances often 
+do not reach the neediest, who are most likely to fall through the cracks of informal safety nets. 
+Marginalized and minority rural groups are also likely to be excluded from such benefits because they lack 
+access to resources.20  
+13. 
+In this context, humanitarian and development agencies have stepped in to deliver 
+humanitarian aid and short-term social and livelihood assistance. In 2017, official foreign development 
+aid to Somalia totaled US$1.75 billion, of which US$1 billion was in the form of humanitarian aid. The 
+humanitarian assistance in 2017 spiked due to the drought and increased by 66 percent from the average 
+of the previous three years, which was US$608 million per year.21 Most of these programs were initiated 
+as an emergency response to help the targeted communities and households absorb shocks and hence 
+had a short-term focus. As such, they fail to provide predictable, reliable, and scalable safety nets, which 
+protect poor and vulnerable populations, address their vulnerabilities, and strengthen their resilience to 
+shocks and stresses for medium-term recovery and longer-term development. Furthermore, 
+humanitarian programs do not support national government-led service delivery systems, which 
+contribute to the enhanced legitimacy of, and trust in, institutions and the Government by its citizens. 
+14. 
+There are however a few programs that are shifting from emergency relief to greater resilience 
+building, with focus at the household and community levels. Conditional and unconditional cash 
+transfers continue to be the most common forms of safety net assistance, but there are also schemes 
+related to public works, cash or food for work, skills training, food vouchers, and school feeding and child 
+nutrition. However, most of these programs are of limited duration and coverage. The primary 
+international agencies and nongovernmental organizations (NGOs) implementing SP interventions include 
+the United Nations Children’s Fund (UNICEF), the World Food Programme (WFP), the Food and Agriculture 
+Organization of the UN (FAO), African Development Solutions, Building Resilient Communities in Somalia 
+Consortium, and Save the Children Fund–United Kingdom, among others.  
+                                            
+19World Bank. 2018. Country Partnership Framework for the Federal Republic of Somalia. Washington, DC: World Bank. 
+20 Rift Valley Institution. 2017. Remittances and Vulnerability in Somalia. Nairobi, Kenya.  
+21 Ministry of Planning, Investment and Economic Development. 2018. “Aid Flows in Somalia: Analysis of Aid.” Federal Republic 
+of Somalia, Mogadishu, Somalia.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+11
+ 
+ 
+15. 
+While these programs deliver critical benefits to the targeted households and communities, 
+they are implemented outside the Government structure and lack a common strategic vision. Currently, 
+there are wide variations in eligibility criteria, benefit amount, transfer mechanisms, and coverage period 
+among SP programs. For example, some programs use mobile money network operations for money 
+transfer, as Somalia is a global leader in cellphone coverage and mobile money transfers.22 However, 
+significant gaps in the regulatory framework remain a major challenge due to the absence of a well-
+functioning formal banking system. These variations raise concerns about effectiveness, sustainability, 
+and equity. Due to the absence of a common targeting approach, an integrated management information 
+system (MIS), or a social registry, it is difficult to draw conclusions on programs’ overlap, double counting, 
+and inclusion and exclusion errors. WFP’s digital beneficiary database (SCOPE), which contains 
+information on around 6 million people who have participated in WFP projects in Somalia, could provide 
+an entry point toward developing a consolidated beneficiary database.23 However, moving from a 
+program-specific beneficiary list to a national digitized social registry requires a functional ID system. The 
+World Bank is leading the support to the FGS and the private sector on this front through its Somalia 
+Capacity Advancement, Livelihoods and Entrepreneurship through Digital Uplift Project (SCALED-UP, 
+P168115).  
+16. 
+There is now a growing consensus among partners to adopt a longer-term development 
+approach that builds the Government’s capacity to gradually take the lead in policy formulation and 
+delivery of SP interventions. The United Kingdom Department for International Development (DFID) and 
+the European Union (EU) in particular, are playing a fundamental role in paving the way to transition from 
+a humanitarian to a development approach. DFID funds multiple cash transfer projects and has set up a 
+monitoring and evaluation (M&E) cell in Nairobi known as MESH that conducts phone-based interviews 
+with the beneficiaries of these programs. This data provides a wealth of information particularly on 
+benefit delivery and use that can help inform the way forward. The EU has also supported the initiation 
+of a Donors Working Group (DWG) and the setup of a Technical Assistance Facility (TAF) on safety nets. 
+The primary role of the DWG is to promote donor harmonization and alignment toward a common vision 
+and funding strategy. The TAF is intended to promote pooled financing of technical experts to support the 
+DWG in achieving a collective approach to technical assistance (TA). In addition, there is a Cash Working 
+Group that brings together all actors that are using cash-based interventions to coordinate their activities. 
+It also has a work stream on mobile money that tries to facilitate the use of mobile phones for delivering 
+cash and often invites private sector actors to its meetings. The role of the Government in these initiatives 
+is being further identified and supported.  
+17. 
+Since 2018, a Shock Responsive Safety Net Project has been piloted by WFP (funded by the EU) 
+in the Banadir region of Somalia. The objective of this project is to shift support to vulnerable families 
+from humanitarian assistance to a longer-term, predictable intervention that helps people withstand 
+shocks and reduce their vulnerability. The project targets 125,000 urban poor people (about 20,000 
+households) through predictable cash transfers. Beneficiaries are chronic poor, most of whom are 
+protracted IDPs with little to no livelihood opportunities, as well as the disabled and families with 
+                                            
+22 Eighty-eight percent of Somalis above the age of 16 years own at least one SIM card and 83 percent of SIM card owners use 
+mobile money. See World Bank. 2018. Stocktaking of Evidence for a Social Protection Policy Framework. Washington, DC: World 
+Bank.  
+23 WFP has recently undertaken a stocktaking exercise of existing beneficiary databases and is looking at the interoperability of 
+the system. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+12
+ 
+ 
+malnourished children. The project is designed to enable scaling up of the safety net cash transfer amount 
+in times of shock. Furthermore, the participation and ownership of the Banadir Regional Authorities (BRA) 
+has been embedded in the project design, in terms of beneficiary selection, verification, and outreach. 
+From 2019, a portion of the transfers will also be delivered by BRA directly, with technical and financial 
+support from WFP. Regular monitoring has shown that the use of severe coping mechanisms, with 
+households spending less money on food, has decreased over time. During qualitative interviews, 
+beneficiaries also indicated that they were now able to send children to school, thereby improving 
+education outcomes.  
+18. 
+In recent years, the FGS, represented by the Ministry of Labor and Social Affairs (MoLSA), 
+initiated a policy dialogue to explore options for shifting from humanitarian to a Government-led SP 
+agenda. Currently, MoLSA is leading a ‘Food Security, Nutrition and Social Protection’ sub-working group 
+at the federal level under the Government-led ‘Resilience Pillar Working Group’ of the National 
+Development Plan (NDP). Several ministries24 are represented in this sub-working group. In addition, 
+MoLSA has drafted a National Social Protection Policy, which has been approved by the Steering 
+Committee for the Social Protection Joint Program,25 and is nearing approval by the subcommittee of the 
+Social Sector Cabinet. MoLSA has also been developing a five-year Social Protection Implementation 
+Framework, with TA from UNICEF and WFP. Further, MoLSA has created a Technical Working Group on 
+Social Protection comprising focal points from the Offices of the President and the Prime Minister and 
+relevant ministries, including the Ministry of Finance (MoF), as well as focal points from all the FMS. 
+Nonetheless, the development of a formal SP system is still at a nascent stage, particularly in terms of 
+institutional and governance arrangements at the federal and state levels. The capacity of MoLSA requires 
+further strengthening to effectively take over the delivery of safety net interventions. Therefore, 
+substantial institutional capacity building and policy dialogue will be required between federal and state 
+levels, engaging partners, NGOs, civil society, and the private sector. 
+19. 
+There now exists an opportunity to support efforts toward establishing a Government-led SP 
+system, as the FGS is on track to achieve debt relief under the Heavily Indebted Poor Countries (HIPC) 
+Initiative. The most recent third Staff-Monitored Program (SMP) by the International Monetary Fund 
+(IMF) assessed that implementation of necessary macroeconomic and fiscal reforms by the FGS is 
+continuing satisfactorily, leading to positive outlooks for increased domestic revenues resulting from a 
+strengthened tax base and administration. Intergovernmental transfers have increased, and financial 
+sector reforms are providing the private sector confidence to increase deposits and banks to increase 
+lending. At the same time, Somalia has an opportunity to leapfrog a traditional banking sector, which 
+currently has only 15.5 percent penetration, and move toward a mobile money-based system, which has 
+a penetration of 73 percent, with about US$400 million ‘saved’ in the system.26 Although the financial 
+sector legal and regulatory framework is making real progress, gaps remain and the system is vulnerable 
+to insecurity and weaknesses in the broader rule of law system. Nonetheless, an opportunity exists today 
+to use the pre-arrears clearance grant facility within IDA to support efforts in strengthening SP systems in 
+the country. 
+                                            
+24 These include Agriculture, Planning, Humanitarian Affairs and Disaster Management, and Office of the Prime Minister. 
+25 The Social Protection Joint Program is chaired by MoLSA, and members include the ministries of Planning, Humanitarian Affairs 
+and Disaster Management, WFP, UNICEF, and the Italian cooperation, who has also funded the program. 
+26 World Bank. 2019. “Presentation – Somalia: Achieving Debt Relief under the Heavily Indebted Poor Countries (HIPC) Initiative.” 
+World Bank, Washington, DC.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+13
+ 
+ 
+20. 
+In this context, the proposed Shock Responsive Safety Net for Human Capital Project (SNHCP) 
+builds a bridge beyond the humanitarian approach, addressing Somalia’s immediate food security and 
+nutrition issues, while also laying the foundations for human capital investment over the longer-term. 
+The SNHCP will provide poor and vulnerable households nutrition-linked cash transfers to meet their 
+immediate consumption gaps and protect against food insecurity and malnutrition risks expected as a 
+result of the developing drought in 2019. With a view toward longer-term development, it would also 
+support efforts by the FGS to strengthen institutional resilience and establish the basic delivery 
+mechanisms of a national social safety net (SSN) system. Further, the project would build on the 
+experiences and lessons learned to date of partners in Somalia providing humanitarian assistance and 
+safety net support, considering the findings and recommendations of the numerous research works 
+conducted in the country to ensure a flexible and ‘learning-by-doing’ approach. As such, it would gradually 
+scale up what is already working, adjusting the design during implementation, as needed.  
+ 
+C. Relevance to Higher Level Objectives 
+21. 
+SP is an important part of the FGS strategy to fight poverty and promote resilience. This is 
+enshrined in the Provisional Constitution of Somalia (2011), which provides for the rights of all persons to 
+access economic and social rights, including SP and the protection of particular vulnerable groups. Further, 
+it is articulated in the NDP of 2016 whose overall vision is to “Enhance peace and stability, economic 
+prosperity and national cohesions” such that “...the most marginalized can become productive members 
+of society and the economy and the most vulnerable can live with dignity and safety.” The NDP therefore 
+represents a guiding framework for articulating SP as a platform that can be leveraged to unlock human 
+capital outcomes by creating access to services and opportunities for the poor and most vulnerable. Lastly, 
+a draft of the Somalia Social Protection Policy (2019) is now being finalized, where the FGS prioritizes SP 
+“to address predictable needs through the life cycle in order to protect all groups, and particularly the 
+poor and vulnerable, against shocks, help them to manage risks, and provide them with opportunities to 
+overcome poverty, vulnerability, and exclusion.” 
+22. 
+The SNHCP is well aligned with the World Bank’s Systematic Country Diagnostics (SCD) 
+undertaken in 2018 and Country Partnership Framework (CPF) discussed by the Board on September 
+25, 2018. The SCD notes that “a well targeted and effective social protection program adaptable to local 
+contexts is an overarching objective to avoid famines and open a path to sustainable poverty reduction 
+and shared prosperity. It would also help build trust in state-run programs, and ultimately in state 
+authority.” The CPF also highlights a scalable and reliable safety net system as a key contributor to one of 
+its two objectives, that is, to improve delivery systems for inclusive social services. As such, it notes the 
+need for the “Bank team [to] start work, together with international donor and humanitarian partners, to 
+build the systems of government necessary to leverage existing cash-transfers towards a more sustainable 
+social safety net system able to respond to shocks.” 
+23. 
+The project is also well aligned with the World Bank’s Africa Regional Strategy (2019) and draft 
+Strategy for Countries affected by Fragility, Conflict, and Violence (FCV) 2019. Both emphasize that 
+addressing fragility effectively requires a fundamentally different development approach based on 
+innovative solutions and an adapted toolkit. As such, the strategies encourage leveraging partnerships 
+with the UN in fragile situations. Further, it emphasizes that strengthening the humanitarian-development 
+nexus is key to effectively addressing fragility and entails, among others, (a) fighting against exclusion and 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+14
+ 
+ 
+addressing grievances, (b) building capacities to achieve results, and (c) reinforcing accountability of and 
+building citizens’ confidence in institutions. 
+24. 
+The proposed SNHCP aims to strengthen the humanitarian-development nexus. In the short 
+term, the project would meet immediate consumption gaps arising from the impending 2019 drought by 
+providing cash transfers to the poorest and most vulnerable households in communities underserved by 
+humanitarian interventions. Through these efforts, it is expected that the SNHCP would enhance the 
+resilience of targeted households by helping them avoid negative coping mechanisms and mitigate the 
+impact of recurrent droughts, while also easing the financial burden on humanitarian assistance. In the 
+medium term, it would establish key building blocks of a national SSN system that can deliver a reliable, 
+predictable, and scalable safety net for medium-term recovery and longer-term development outcomes. 
+It would also work to strengthen the capacities and institutional resilience of key institutions within the 
+FGS and FMS to ensure that the Government is empowered to adopt a greater role in delivering support 
+to its people in the future for sustainability of efforts. This is also expected to contribute to a strengthened 
+social contract between the Government and its citizens.  
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+PDO Statement 
+25. 
+The Project Development Objective (PDO) is to provide cash transfers to targeted poor and 
+vulnerable households and establish the key building blocks of a national shock-responsive safety net 
+system. 
+26. 
+Shock responsiveness is defined and measured by the establishment of a social registry, which 
+will support the scale-up of future safety net programs during shocks.  
+PDO Level Indicators 
+27. 
+The project is expected to measure achievement of the PDOs with the following outcome 
+indicators:  
+(a) Nutrition-linked Unconditional Cash Transfers  
+a) 
+Beneficiaries of social safety net programs, of which female (core indicator)  
+(b) Delivery Systems and Institutional Capacity Building 
+a) 
+National cash transfer program targeting methodology developed and endorsed by 
+FGS 
+b) 
+Operational manual of the national social registry developed and endorsed by the 
+FGS 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+15
+ 
+ 
+B. Project Components 
+28. 
+The SNHCP has a total of US$65 million financed from the IDA’s pre-arrears clearance grant 
+facility and would support three components, to be implemented over a three-year period. The 
+components are (a) Nutrition-linked Unconditional Cash Transfers; (b) Delivery Systems and Institutional 
+Capacity Building; and (c) Project Management, Monitoring and Evaluation, and Knowledge Management.  
+29. 
+The project would be guided by principles of government ownership and capacity 
+strengthening, collaboration with partners, complementarity with humanitarian assistance, and 
+enhanced resilience. While implementation of the project would initially be supported by development 
+partners, namely WFP and UNICEF, to implement significant activities, the FGS would be the direct 
+recipient of the IDA grant and be responsible for all aspects of project design and implementation. From 
+the onset, focus would be on strengthening government capacities in terms of systems, procedures, and 
+institutional development. However, the path to government ownership and expanded capacity lies 
+through partnerships with development partners that have developed capacity and know-how of 
+delivering safety net style assistance on a large scale. The SNHCP would therefore actively collaborate and 
+coordinate with partners to ensure that the experiences and lessons learned to date are included in the 
+design and implementation of the project.  
+Component 1: Nutrition-linked Unconditional Cash Transfers (SDR38.16 million, US$53.0 million 
+equivalent) 
+30. 
+This component would provide unconditional cash transfers to households that are chronically 
+poor and vulnerable to drought and malnutrition and link them to complementary nutritional support 
+programs. The objectives of the component are to (a) support households to strengthen their resilience 
+and avoid negative coping mechanisms (for example, selling off existing household assets) to meet 
+escalating needs because of the drought in the short term and (b) promote human capital investment in 
+the medium to long term by linking beneficiary households to complementary nutrition services (where 
+they exist)27 and continuing to smooth consumption gaps through predictable and reliable provision of 
+cash transfer, even after drought risks are no longer present. Around 200,000 beneficiary households 
+(approximately 1.2 million individuals)28 with children under five years will receive a monthly payment of 
+US$20 delivered quarterly, initially for one year.  The FGS is seeking support from development partners, 
+including IDA, for sustaining the delivery of the cash transfers beyond the first year.  Successful 
+implementation and delivering results on the ground, are expected to promote the program and mobilize 
+additional funding, including the potential of a gradual shift from humanitarian funding to funding a 
+national shock-responsive safety net program supported by this Project.  The benefit size has been based 
+on estimates and initial data on prices of the minimum expenditure basket (MEB) for food.29 While food 
+prices vary significantly by region and season, rough estimates indicate that a US$20 benefit would cover, 
+on average, about 50–70 percent of the MEB, based on the December 2018 price data. Mothers or female 
+caregivers of children would be the direct recipients of the transfer. 
+                                            
+27 It would also be expected that this could lead to an increased demand by households for nutrition services, thereby compelling 
+service providers to expand coverage in rural areas.  
+28 This assumes an average household size of six members. 
+29 The MEB for food includes a household of six members with caloric needs for cereal, cowpeas, oil, and sugar.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+16
+ 
+ 
+31. 
+This component would complement humanitarian assistance as a means of responding to the 
+impending 2019 drought. Humanitarian agencies generally focus on areas experiencing emergency and 
+crisis levels of food insecurity to prevent famine. At the same time, areas classified as ‘Stressed’ which 
+cannot fully meet food consumption needs, are excluded from humanitarian assistance, and therefore, 
+are at risk of worsening food conditions, if not protected. By contrast, this component would allow for 
+targeting of poor and vulnerable households, thus providing them with cash transfers to mitigate the 
+likelihood that they would be pushed into higher categories by the impending drought. Further, by 
+extending protection to the ‘Stressed’ populations, Component 1 would lessen the burden on the 
+humanitarian assistance programs by preventing beneficiary households from reaching emergency and 
+crisis levels of food insecurity. 
+32. 
+The cash transfers would be available across Somalia’s FMS30 and would focus primarily on rural 
+areas,31 which are often in the ‘Stressed’ category and are underserved by humanitarian assistance 
+programs. Most humanitarian assistance focusses on urban areas and IDPs. Although present, 
+humanitarian agencies focus less on rural areas despite the fact that around 50 percent of the population 
+reside there. This is because rural areas experience more chronic levels of food insecurity, rather than 
+acute humanitarian needs. Cash transfers under Component 1 would therefore prioritize rural areas, 
+including in Somaliland, to ensure that benefits are provided to the underserved or unserved. Districts 
+selection will be based on a distress index as described in the targeting methodology in Annex 3.  
+33. 
+Implementation of Component 1 will be supported by WFP that will be contracted by MoLSA 
+under a service contract arrangement to deliver nutrition-linked cash transfers. To enhance the visibility 
+of the role of the FGS in delivering assistance to its people, WFP will make clear that this is a Government 
+project through its sensitization and communication to communities and the general public. The 
+operational cycles for the cash transfer would include communication, registration of potential 
+beneficiaries, enrolment for and issuance of a program card, payment delivery, and grievance redress and 
+monitoring. Implementation experiences of the cash transfer would also feed into documenting the 
+lessons learned. These delivery processes will benefit from WFP’s experience in Somalia and their well-
+developed SCOPE beneficiary management platform. WFP will maintain the database of the project 
+beneficiaries, which will be migrated to MoLSA once the Government’s capacity to manage the database 
+is in place. While maintaining the database on behalf of the FGS, WFP will apply its established personal 
+data protection and privacy processes, aligned with the 2017 WFP corporate guideline and further 
+detailed in annex 2.  
+Component 2: Delivery Systems and Institutional Capacity Building (SDR4.32 million, US$6.0 million 
+equivalent) 
+34. 
+Component 2 would establish the key building blocks of a SP delivery system, advance policy 
+development, and strengthen institutional capacity of relevant government ministries to manage and 
+implement it. The objective of the component is to build capacity of the FGS/MoLSA to gradually take 
+over full management and implementation of a safety net program and lay the foundation for a more 
+comprehensive SP system in Somalia. The component will provide policy support; TA for the development 
+                                            
+30 Official FMS include (in alphabetical order): Hirshebelle, Galmudug, Jubbaland, Puntland, and South West. Somaliland is also 
+included in Component 1 of the SNHCP to ensure a fair distribution of resources.  
+31 For example, Banadir will not be covered under Component 1 because it is an urban municipality with strong presence of 
+humanitarian agencies. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+17
+ 
+ 
+of safety net delivery systems, which include a social registry, MIS, operational procedures for registration, 
+enrolment, targeting, grievance redress, payment delivery, monitoring, community outreach and 
+information campaigns; and capacity-building activities.  
+35. 
+The component will be implemented with TA and implementation support by UNICEF. UNICEF 
+will be contracted by MoLSA under a service contract arrangement to provide TA for the establishment of 
+the key building blocks of a national SP system and institutional capacity building through training and 
+other related services. Detailed descriptions of the specific activities are provided in Annex 3.  
+36. 
+The backbone of an effective and scalable SP system is a social registry. Several humanitarian 
+and development agencies maintain separate lists of beneficiaries, but these are not linked, raising 
+concerns of effectiveness and targeting. This component would support the development of a 
+consolidated beneficiary lists across programs, enhancing coordination and collaboration and improving 
+efficiencies. This would also serve as a first step toward a national social registry that in the future can 
+also be used for coordinated service delivery to the poor and vulnerable and emergency assistance, 
+thereby bridging existing humanitarian and development efforts.  
+37. 
+Activities under this component will be closely coordinated with the Somalia Cash Working 
+Group and the TAF to enhance alignment and coordination of cash transfer programs. They will also 
+benefit from several World Bank-supported interventions such as the foundational ID initiative and the 
+regulatory framework of the information and communication technology sector, under the SCALED-UP 
+Project, and would draw on the technical expertise of government experts, mobile network operators, 
+financial service providers, technology service providers, and so on. 
+38. 
+Support to the above activities would be led by the FGS and would seek to reach an 
+arrangement to define the role and working relationship between the FGS and its member states in 
+delivering safety net programs. These would be undertaken through an inclusive dialogue to define the 
+governance structure and roles between the federal and regional/state levels. The component will also 
+support consultation with the private sector, humanitarian and development partners, NGOs, and civil 
+society organizations. These would be supported through extensive consultations, workshops, and round 
+table discussions. The purpose would be to ensure sustained commitment from all stakeholders to the 
+common vision of supporting Somalia to establish a sustainable SP system.  
+Component 3: Project Management, Monitoring and Evaluation, and Knowledge Management 
+(SDR4.32 million, US$6.0 million equivalent) 
+39. 
+Component 3 would establish a Project Implementation Unit (PIU), strengthen MoLSA’s 
+coordination arrangements, promote learning and knowledge management through robust M&E, and 
+support the design of a pilot productive safety net activity targeted at youth. Specifically, the PIU would 
+be established at the federal level at MoLSA during the first year. Subsequently, separate antenna PIUs or 
+focal points would be created in each of the member states. Focus would also be given to strengthening 
+MoLSA’s coordination arrangements within other ministries and stakeholders at the federal level, and 
+between the federal level and the member states at the local level.  
+40. 
+The federal PIU structure will be as follows. It will be headed by a project manager/coordinator 
+and will include an operations officer, communications officer, MIS officer, grievance redress mechanism 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+18
+ 
+ 
+(GRM) and social risk management officer, M&E officer, financial management (FM) officer, and 
+procurement officer. The composition of the focal points at the member state level will be formed after 
+consultation with state governments and will be informed by the agreed implementation and governance 
+structure of the national safety net program. 
+41. 
+The PIU will support MoLSA on the day-to-day management of the project, coordination with 
+other stakeholders, and for the project M&E. The component will finance the establishment of the PIUs, 
+training of government officials and PIU staff, purchase of IT, goods, and office equipment and operating 
+cost, as relevant. Additionally, the component will finance the contract of the third-party monitoring 
+(TPM) firm and financial audits. 
+42. 
+Knowledge management and learning activities would also be supported by Component 3. This 
+would include documenting the lessons and experiences of implementation of the project, which is 
+expected to promote ‘learning by doing’ and adjustments to project design, as well as knowledge 
+dissemination. The activities carried out under this component will contribute to the global knowledge on 
+designing and implementing SP interventions in FCV contexts.  
+43. 
+The component will also support the design and preparation of a pilot productive safety net 
+activity targeting youth. It is expected that, if successful, this will be rolled out using additional financing, 
+and/or external financing by development partners. This will support government capacity to test other 
+forms of productive safety net interventions to address multiple vulnerabilities.  
+ C. Project Beneficiaries 
+44. 
+The SNHCP is expected to target 200,000 poor and vulnerable households (approximately 1.2 
+million individuals) across the FMS with nutrition-linked cash transfers. Targeting of beneficiaries will be 
+conducted in three stages: (a) selection of districts, (b) selection of communities in the targeted districts, 
+and (c) selection of households in the identified communities based on the household eligibility criteria 
+through a community-based targeting (CBT) approach. The targeting methodology for Component 1 is 
+detailed below and elaborated further in Annex 3.  
+45. 
+Selection of districts. Districts that meet the following selection criteria would be selected from 
+each of the FMS: predominantly rural districts with high distress rating, which will consider vulnerability 
+in terms of malnutrition, and past impact and/or risk of drought. Poverty rates will not be considered in 
+the distress rating given that the number of poor people per district seems to be heavily contested. Several 
+other considerations will affect the final choice of districts, including security and local capacity constraints 
+such as the presence of implementing partners, and the ability of the payment agencies to disburse 
+payments in those districts.  
+46. 
+Selection of communities. Even with a limited set of districts, not all communities may be covered 
+due to the limited budget. The final list of communities will be based on the rates and caseload of severe 
+acute malnutrition (SAM) and moderate acute malnutrition (MAM). These malnutrition data are available 
+with WFP and UNICEF. The lowest level of disaggregation for these data are treatment facilities for 
+SAM/MAM and the corresponding ‘catchment areas’ with multiple catchment areas per district. 
+Catchment areas with highest rates and caseloads will be chosen up to the point allowed by the budget 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+19
+ 
+ 
+allocated to the state and with consideration of the local socioeconomic dynamics. The list of communities 
+corresponding to these areas will be compiled by UNICEF and passed on to WFP. 
+47. 
+Selection of beneficiary households. Using the existing SCOPE database, WFP will produce lists 
+of households with women and children under five years corresponding to the selected communities. The 
+list of households in each community has already been derived from CBT exercises conducted by WFP. All 
+the households in the SCOPE database who meet the project eligibility criteria will be eligible for nutrition-
+linked cash transfers under Component 1. The beneficiaries will be able to update their data (for example, 
+changes in household composition) using the standard case management and grievance procedures under 
+SCOPE, if necessary. Households that meet the eligibility criteria (poor and vulnerable households with 
+children under the age of five) in the targeted communities, but may not be in the SCOPE registry, will 
+also be able to register.  
+D. Results Chain 
+48. 
+The SNHCP would provide reliable cash transfers to poor and vulnerable households to enhance 
+their purchasing power and build resilience, while strengthening government capacity to design and 
+implement a shock responsive safety net program for longer-term human capital growth. This is 
+expected to meet urgent needs and mitigate impending drought risks in the short term. In the medium to 
+longer term, a reliable and scalable safety net system would help households to smooth consumption 
+gaps, secure basic needs, diversify livelihoods, and invest in human capital and economic participation. 
+Through building resilience of beneficiary households, the project would support them to avoid negative 
+coping mechanisms that may have irreversible adverse impacts on human capital, that is, eating less 
+and/or poor quality and taking children out of school. The project is also expected to lay the foundations 
+for a national safety net delivery system in Somalia that is owned, designed, and implemented by the 
+Government. The project would thus aim at a gradual handover of the direct delivery of cash transfers to 
+MoLSA, once it has sufficient capacity in place. 
+ 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+20
+ 
+ 
+Figure 1. Theory of Change for the SNHCP 
+Note: CT = Cash Transfer;  
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+49. 
+The World Bank is well placed to support the SP sector in Somalia given its global, regional, and 
+FCV country-specific technical expertise with cash transfers and scalable safety net systems that protect 
+the poor and vulnerable from shocks, while promoting resilience. In particular, the World Bank brings 
+expertise in developing SP delivery systems. This includes experience in the design of social registries for 
+objective and transparent targeting of the poor and vulnerable, particularly in times of shock, that is, 
+drought or flood, requiring scale-up of assistance. Further, it brings expertise in supporting governments 
+to develop neutral and accountable targeting mechanisms, strong citizen-based socially accountable 
+GRMs, and technology-based payment transfer systems, among others. Specifically, it has long-standing 
+experience in working closely with governments and partners in capacity-constrained fragile contexts 
+such as Afghanistan, Central African Republic, Democratic Republic of Congo, South Sudan, the Republic 
+of Yemen, and others to support efforts aimed at strengthening humanitarian-development links and 
+building resilience of households and communities for medium-term recovery and longer-term 
+development outcomes.  
+50. 
+The proposed SNHCP would add value conceptually, institutionally, and operationally. 
+Conceptually, it would result in the World Bank providing investments in a highly challenging situation to 
+support critical safety net assistance with greater geographic spread in rural areas that have been 
+heretofore underserved. It would also strengthen the humanitarian-development nexus for crisis 
+response in the short and medium terms by providing cash transfers to mitigate impending drought risks. 
+Institutionally, the SNHCP would establish the necessary foundations for longer-term development 
+outcomes, developing the building blocks of an effective Government-led SP delivery system, and 
+strengthening the capacity of relevant institutions to manage and implement it, thereby contributing to 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+21
+ 
+ 
+the enhanced legitimacy of, and trust in, institutions and the Government by its citizens. Operationally, 
+the project would engage in strategic partnerships with the UN to leverage their expertise and 
+comparative advantage in supporting the delivery of safety net assistance and establishing safety net 
+systems, while retaining flexibility and adopting a ‘learning-by-doing’ approach. 
+51. 
+The project has been designed in close consultation and with inputs from development partners 
+and UN agencies. This collaboration will continue and expand during the implementation, supervision, 
+and M&E of the project, particularly through the various working groups and platforms established to 
+coordinate efforts across relevant complementary development activities. These include the MoLSA-led 
+‘Food Security, Nutrition and Social Protection’ sub-working group and the Technical Working Group on 
+Social Protection, as well as the partners-led DWG and the Cash Working Group, among others.  
+F. Lessons Learned and Reflected in the Project Design 
+52. 
+International experience working on crisis response, including climate-related, protracted 
+conflict and/or fragility, indicates the need to bridge the humanitarian-development divide. This is 
+further reinforced by the draft FCV strategy (2019). The SNHCP design attempts to achieve this by 
+delivering rapid safety net assistance (that is, cash transfers) to poor and vulnerable households affected 
+by the current drought, while supporting efforts toward human capital accumulation (starting with access 
+to nutrition services). With a view toward longer-term development, it also aims to establish a 
+Government-led SP system and strengthen national institutional resilience for a gradual and sustainable 
+approach to reducing extreme poverty and investing in human capital. Moreover, the project advances 
+SP policy dialogue and governance arrangements to support joint efforts by humanitarian and 
+development partners to gradually move from a pure humanitarian approach (that is, lifesaving 
+interventions) to a more development-based approach that focuses on the accumulation of human 
+capital, institutional and household resilience, and joint programming aligned with national strategies to 
+maximize impact on poverty and vulnerabilities.  
+53. 
+Global and regional experiences of safety net implementation demonstrate that cash transfers 
+can reduce poverty and food insecurity in Africa and other developing countries. Cash transfers that 
+serve as a predictable and regular source of income to poor and vulnerable households have been found 
+to reduce poverty gaps, increase food consumption, and alleviate reported hunger in countries such as 
+Mexico, Brazil, Lesotho, and Zambia. Improved consumption has been shown to increase nutritional 
+intake for children, a prerequisite for developing their future prospects. Moreover, cash transfers have 
+been found to be effective in protecting households from shocks, preventing them from sliding into 
+poverty, and helping them to avoid negative coping mechanisms. Furthermore, it supports households 
+with access to resources to engage in entrepreneurial activities. In Kenya and Ethiopia, for example, cash 
+transfers have been found to improve welfare through strengthened food security, enhance human 
+capital through continued investment in health and education outcomes, and increase engagement in 
+financially productive activities leading to greater savings and access to credit.  
+54. 
+Lessons from World Bank operations in FCV countries, that is, South Sudan, Republic of Yemen, 
+and others, as well as ongoing projects in Somalia, emphasize the importance of ‘doing no harm’ and 
+promoting social cohesion. The SNHCP design integrates measures not only to avoid aggravating conflict 
+because of the project interventions, but to emphasize addressing the drivers of conflict. For example, the 
+targeting approach ensures clear and objective criteria reduce exclusion and considers political economy 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+22
+ 
+ 
+and fair and equitable access to participation. Community consultations are embedded in implementation 
+processes, and a functional GRM is a prerequisite for project launch. These are achieved through engaging 
+NGOs that are familiar with local contexts and challenges. Special attention is also given to the inclusion 
+of minority and marginalized groups. In other FCV countries, effective community engagement and 
+participation and rigorous monitoring have proven to help support social cohesion and foster inclusion of 
+marginalized groups, including women, displaced populations, and other minorities.  
+55. 
+A World Bank review of global trends and challenges of SP programs in FCV countries indicates 
+that in fragile settings, SP policies and programs can play a dual role in reducing exclusion and 
+promoting cohesion. Specifically, SP policies and programs can contribute to (a) reducing social 
+inequalities and exclusion through provision of income support/security, and access to employment 
+opportunities and basic services, especially to historically excluded groups or populations in lagging 
+regions and (b) enhancing social cohesion and social capital and thereby, reducing the probability of social 
+tension, conflict, and violence, as well as building trust in state institutions, thereby supporting the state-
+building agenda. 
+56. 
+The 2011 World Development Report argues that strengthening legitimate state institutions 
+and their ability to provide stability, justice, security, and jobs mitigates risks of repeated cycles of 
+conflict and fragility. SP thus plays an important role in restoring confidence; transforming institutions 
+that provide security, justice, and jobs; addressing external stresses; and mobilizing international support 
+to overcome FCV. Through developing a national SP system that protects Somalia’s most vulnerable 
+populations across the country, the project would restore a sense of identity to individuals and confidence 
+in the ability of the state to deliver services and improve social inclusion and equity. This, in turn, would 
+contribute to the objectives of state building. 
+57. 
+The World Bank SP diagnostic work in Somalia provides relevant lessons for policy formulation 
+and programming. These emphasize that regularity and predictability of cash assistance are critical for 
+protecting beneficiary households from resorting to harmful or negative coping strategies and enabling 
+them to meet basic needs and invest in human capital and livelihood enhancement opportunities.32 
+Therefore, humanitarian cash assistance can support a government-led safety net system but not replace 
+it. Second, trust and transparency in the delivery system by the people are critical for its success and 
+scalability. Thus, it is important to design and implement safety net programs with deep understanding of 
+political economy dynamics, which inform necessary measures that foster trust, accountability, and 
+transparency.  
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+58. 
+MoLSA would be the primary institutional home for the SNHCP and responsible for project 
+implementation. The SNHCP would be implemented through MoLSA’s existing structures, supported by 
+                                            
+32 Rift Valley Institute. 2017. Remittances and Vulnerability in Somalia. Nairobi, Kenya 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+23
+ 
+ 
+the PIU, as described in Component 3. The SP section of MoLSA would be responsible for the day-to-day 
+management of the project and will report to the Minister of Labor and Social Affairs.  
+59. 
+The PIU structures at the federal level would be as follows. The PIU at the federal level will be 
+headed by a project manager/coordinator and will include an operations officer, a communications 
+officer, an MIS officer, a GRM and social specialist, an M&E officer, an FM officer, and a procurement 
+officer. Capacity building at the FMS level will be phased in and a support structure at FMS level would be 
+determined in discussion with state governments. This may include support structure for key technical 
+functions such as M&E, GRM and social risk monitoring, and communications.  
+60. 
+MoLSA would sign service contracts with WFP and UNICEF to support the implementation of 
+Components 1 and 2, respectively. These service contracts will follow the ‘Standard Form of Agreement 
+for Use by World Bank Borrowers: Delivery of Output Service Contract.’ Detailed implementation 
+arrangements are described in annex 1.  
+61. 
+WFP was selected to support the FGS implement the cash transfers (Component 1) due to its 
+experience and track record of implementing cash-based transfers in Somalia and globally. WFP has 
+been implementing cash-based transfers in Somalia since 2012, starting with the use of paper vouchers 
+and gradually shifting to multipurpose cash-based transfers since 2015.33 To optimize processes, since 
+February 2015, WFP Somalia moved to using SCOPE,34 a digital beneficiary and transfer management 
+platform that supports WFP’s operational cycles from beginning to end. Due to the lack of a base registry, 
+widespread incidents of gatekeepers, and poor regulations of financial institutions in Somalia, WFP chose 
+to use biometric signatures for authenticating delivery of transfers. The use of biometric signatures 
+provides beneficiaries, donors, and government partners the assurance that WFP assistance will reach the 
+intended beneficiaries. SCOPE offers offline capabilities for challenging environments with poor Internet 
+connectivity. WFP has the largest beneficiary registry in Somalia containing about 5.6 million individuals. 
+The registry is dynamic and gets updated frequently. To enhance preparedness for delivery of cash-based 
+transfers, WFP currently has agreements with a total of around 1,000 retailers and cash withdrawal points 
+(combined) across the country with potential for expansion based on demand. This network of service 
+providers enables beneficiaries to use e-transfers on their SCOPE card to receive their cash assistance 
+from a local service provider.  
+62. 
+UNICEF is also uniquely positioned to support the FGS to establish the key building blocks of 
+safety net delivery systems and support institutional capacity building (Component 2). UNICEF’s 
+strategic priorities in Somalia includes a commitment to support the FGS to build a government-led SP 
+system, reflected in its Country Programme Document (2018–2020). As such, UNICEF has been supporting 
+the FGS to establish a fit-for-purpose national SP system on the ground, building on its in-depth knowledge 
+of and long-term operational presence in Somalia. To that end, it has supported MoLSA, in collaboration 
+with other partners, to develop the National Social Protection Policy. Moreover, UNICEF is well placed to 
+support delivery systems and institutional capacity, as it is the lead agency within the UN country team 
+focused on strengthening local authorities’ capacity for social service delivery at the district level. In 
+addition, UNICEF supports institutional building and service delivery at the FMS, district, and community 
+                                            
+33 WFP experience has indicated that the delivery of paper vouchers from Nairobi to different field locations, and the subsequent 
+manual reconciliation of redeemed vouchers had a high management cost and logistics complexities. 
+34 It is a cloud-based solution used for biometric registration of beneficiaries, intervention setup, distribution planning, 
+entitlement transfers, and distribution reporting. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+24
+ 
+ 
+levels for long-term human capital development, including health to nutrition; education; water, 
+sanitation, and hygiene; and child protection. UNICEF has recently augmented its in-house technical 
+expertise in the social policy, equity, and gender section to ensure evidence-based technical and impartial 
+quality advice to the FGS and the sector. Further, UNICEF can leverage its global experience and expertise 
+to technically support and operationalize a nationwide SP system in high-risk environments such as 
+Somalia, supported by in-house technical experts at headquarters and regional offices. This will enrich the 
+opportunities for the FGS to learn from regional experience.  
+ 
+B. Results Monitoring and Evaluation Arrangements 
+63. 
+MoLSA would have overall responsibility for monitoring and supervision of project activities, 
+supported by WFP and UNICEF. A dedicated M&E officer will be hired by the MoLSA PIU to lead project 
+M&E and would report to the project manager. WFP and UNICEF will ensure timely and quality monitoring 
+of the activities and would report on progress and challenges/issues to MoLSA. MoLSA will provide the 
+World Bank with semiannual progress reports, including social management plan implementation reports 
+and quarterly financial reports. These reports are to be submitted 45 days after the end of each reporting 
+period. In addition, MoLSA will hire a TPM agency to undertake quarterly monitoring and verification of 
+the cash transfer component. This will include verification of the targeting mechanism, beneficiary 
+identity verification, compliance of the payment delivery agents, and beneficiary feedback. The quarterly 
+TPM exercise will be conducted on a sample of beneficiaries with a focus on high-risk areas and will include 
+visits to payment sites as well as to beneficiaries’ homes. 
+64. 
+A targeting evaluation would be undertaken during the first year of implementation. The 
+purpose would be to assess the accuracy of the targeting and distribution of beneficiaries and benefits, 
+and to measure the soundness of the targeting approach under Component 1. The results of the 
+evaluation would be used to inform and adjust the targeting approach under Component 1, and also 
+provide input to the dialogue and design of the national program’s targeting methodology under 
+Component 2.  
+C. Sustainability 
+65. 
+The project seeks to target the poorest households, those whose living standards are estimated 
+to be at half of the national poverty line. Therefore, the transfers will improve the standard of living of 
+the poorest and most vulnerable households and protect them from shocks (that is, droughts). It is 
+expected that cash transfers will also diminish the depth of poverty for these communities, with a slight 
+reduction in extreme poverty. Due to this improvement, the poverty gap index of the targeted 
+communities is expected to be slightly reduced contributing to the overall reduction in extreme poverty 
+for the targeted households. 
+66. 
+The SNHCP will lay the foundations for a government-led national SSN system and will 
+strengthen capacities at the FGS and FMS levels to manage and implement it. Building human capital is 
+a pathway to resilience and a sustainable investment. At the community and household levels, resilience 
+involves investing in communities’ and households’ ability to cope with shocks and crises and to invest in 
+their human capital (health and education), productive livelihoods, and community assets. Although 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+25
+ 
+ 
+strengthening systemwide resilience will be gradual and is expected to evolve as the Government’s 
+capacity expands, this project is a first step in that direction. 
+67. 
+By developing a social registry, a future SP program is likely to achieve cost efficiencies and 
+improve transparency. The new system is expected to reduce transaction costs and wait times for 
+beneficiaries and reduce duplication across programs. It will also generate more usable information for 
+policy makers, who currently have little more than aggregate statistics and periodic household sample 
+surveys with which to evaluate program performance and impact. It is also expected to improve the 
+coordination and targeting effectiveness of the humanitarian interventions during shocks. 
+68. 
+Given the current low revenue base of Somalia, it is expected that the project will initially 
+depend on external funding. To ensure fiscal sustainability of the national program in the long run, it 
+would be important to incorporate provisions in the public budget to gradually phase in public 
+contributions for the program, as government revenue collection improves. Another aspect of 
+sustainability is that building institutional ownership and capacity will encourage development partners, 
+including humanitarian agencies, to contribute financing to the program instead of implementing 
+separate projects outside government systems and the national budget. Once a government-owned SSN 
+program is functional and trusted, it will provide a platform for international partners to shift toward a 
+well-targeted national social assistance mechanism, aligning with and contributing to the Government’s 
+social and economic agenda. Beneficiary feedback assessment will be carried out to understand their 
+experiences with the processes and the effect of transfers on households’ nutritional outcomes. 
+ 
+IV. PROJECT APPRAISAL SUMMARY 
+ 
+A. Technical, Economic and Financial Analysis (if applicable) 
+Technical Analysis 
+69. 
+Strategic relevance. Repeated shocks, such as widespread droughts, lead to an increase in risks 
+faced by the poor and vulnerable. Even a temporary loss of income because of a shock can lead vulnerable 
+households to fall into poverty without strategies to build up their resilience and protect their human 
+capital, further depleting their productive assets. This project will establish the foundation for a 
+sustainable safety net system that can help poor and vulnerable households and those affected by 
+malnutrition and repeated shocks in the short and medium term.  
+70. 
+Technical soundness. The project will provide cash transfers to 200,000 households (equivalent 
+to about 1.2 million people) with mothers and children under five years, in selected rural districts. Based 
+on the 2014 population data, target districts will account for 18 percent of all children under the age of 
+five years, 24 percent of the rural population, and 26 percent of all IDPs. By targeting the rural poor, the 
+project will complement humanitarian interventions that focus largely on urban areas with concentrated 
+IDP camps. By building the resilience of the rural poor, the project will reduce the rural to urban migration 
+during droughts and lessen the burden on humanitarian assistance in the medium to longer term. The 
+project’s emphasis on developing the social registry would allow future national safety net programs to 
+be shock-responsive by facilitating rapid identification of potential beneficiaries for expanded coverage. 
+It would also support enhanced coordination among relevant government institutions and humanitarian 
+and development partners for services delivery, leading to improved efficiency of interventions.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+26
+ 
+ 
+71. 
+Cash provides liquidity to allow the purchase of food and basic necessities and potentially inputs 
+for productive investment that alter production possibilities. Helping households to become more food 
+secure and resilient to droughts is an important long-term aim of the SNHCP. The project also focuses on 
+building human capital in a phased approach, as delivery systems and procedures are developed. 
+Beneficiaries of the cash transfers will be supported to access preventative and curative nutritional 
+services that are delivered by humanitarian agencies, which is expected to improve the nutrition outcome 
+of beneficiary mothers and children.  
+72. 
+Beneficiary targeting is based on objective criteria associated with poverty, risks of experiencing 
+droughts, and food security/nutrition vulnerability. Mothers and children under five years35 are targeted 
+to address the malnutrition challenge and invest in the early years that are critical for human development 
+and children’s future prospects and productivity. 
+73. 
+MoLSA will engage WFP to support the implementation of the cash transfers and UNICEF to 
+support the building blocks of a government-led national SP and capacity building to enable future direct 
+implementation by the FGS. Beneficiary database and case management will be supported by WFP and 
+eventually transferred to MoLSA once the social registry and data protection policy are established (with 
+support under Component 2) and in agreement with member states. UNICEF will provide TA for the 
+development of safety net delivery systems. UNICEF will also support the development of a governance 
+structure that defines the roles and responsibilities and governance and implementation relationships 
+between federal level and member states, and across ministries in delivering and managing SSN programs. 
+These will be developed in a participatory and consultative process at all levels and will determine the 
+implementation arrangement and governance structure of the future national safety net program.36 
+Terms of references (TORs) for consultancy firms and/or individuals will be developed with UNICEF’s TA 
+support and input from MoLSA and WFP (to reflect lessons from Component 1).  
+74. 
+Payment agents will be encouraged to expand their outreach network to minimize the travel 
+distance for beneficiaries. Beneficiaries can also formally authorize another family member to collect 
+benefits on their behalf. They have the option to collect their benefits in cash or have it transferred to 
+their mobile wallets (for those who have access to a secure mobile phone). Under Component 2, the 
+project will support a shift to mobile payment, in coordination with the World Bank-funded SCALED-UP 
+project, which is supporting the regulations of mobile companies and the foundational ID system. 
+Accountability and risks of leakage/fraud will be mitigated through a multilayered implementation and 
+monitoring process, including (a) securing biometrically enhanced beneficiary identification, (b) 
+transferring an electronic beneficiary list to the payment agency through secure data exchange protocols 
+(supported by SCOPE), (c) using the GRM to address grievances/complaints, and (d) contracting a TPM 
+agency which will assess beneficiaries’ experience with regard to the benefits received as well as the 
+delivery processes. 
+75. 
+Gender. The proposed cash transfer project is expected to have a positive impact on targeted 
+poor and vulnerable households, especially females. It is envisioned that in the longer term, cash transfers 
+under Component 1 would help to smooth consumption gaps, increase food consumption, reduce 
+                                            
+35 Targeting of beneficiaries will include measures to include those with disability, IDPs, expectant mothers, and female-headed 
+households.  
+36 Consultations will include Somalia’s development partners, NGOs, civil society organizations, and the private sector, as relevant. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+27
+ 
+ 
+prevalence of malnutrition, secure basic needs, diversify livelihoods, and lead to investments in human 
+capital and economic participation. Of the total 200,000 beneficiary households, the vast majority of the 
+direct recipients of the cash transfers would be pregnant and lactating women and mothers or the primary 
+female caregiver of children under the age of five years. This is expected to contribute to addressing the 
+gender gap in accessing socioeconomic opportunities and to enhance women’s decision-making power in 
+the household and community. As women will also be linked to nutrition services, it is further expected 
+that this will contribute to improved nutrition welfare of mothers and children, thereby supporting human 
+capital accumulation at the household level.  
+76. 
+Field facilitation will be supported by NGOs, including women staff, to ensure effective outreach 
+to female beneficiaries. Therefore, the TPM agency and GRM will include female workers to also reach 
+women and ensure that they are able to voice any potential concerns or complaints in a safe environment. 
+Finally, the program was designed to reduce negative coping mechanisms by targeting support to poor 
+and vulnerable households in rural areas, as women and girls often move to urban areas and IDP camps 
+during shocks and may be exposed to GBV and sexual exploitation and abuse (SEA). While the project is 
+likely to increase household resilience and address a number of factors that may otherwise exacerbate 
+GBV risks, there is potential that project activities, particularly cash transfers, may increase exposure to 
+GBV and in particular to SEA. To address these risks, the project will adopt robust GBV risk mitigation 
+measures to prevent incidents from occurring (as detailed in the environment and social section below).  
+77. 
+Climate change adaptation. The proposed project has been screened for short- and long-term 
+climate change and disaster risks. The climate vulnerability of the project was identified, and climate 
+adaptation measures considered in the project design. The proposed project would build the resilience of 
+households through provision of emergency cash transfers, as it would enable them meet urgent needs 
+and mitigate drought risks, as well as avoid negative coping mechanisms that could be harmful to the 
+climate. Further, the SNHCP would improve the shock responsiveness of the safety net system in Somalia, 
+which is increasingly affected by frequent devastating droughts occasioned by climate change. For 
+example, the social registry would eventually contribute to a system more responsive to shocks through 
+better identification and categorization of beneficiaries. The expanded coverage of potential beneficiaries 
+in the future would also enable identification for other service delivery interventions, beyond SSN, for 
+example nutrition services, social, and economic inclusion services, further contributing to improved 
+resilience and human capital accumulation of poor and vulnerable households.  
+Economic Analysis 
+78. 
+The economic analysis of the nutrition-linked cash transfer component shows that the level of 
+transfer is likely to have a positive impact on the level of poverty and food insecurity in Somalia. Further, 
+it is commensurate with international experience. The benefit level would be set to US$20 per household 
+per month, which is equivalent to US$240 per household per year. This benefit size is based on estimates 
+and initial data on prices of the MEB. While the value of the MEB varies significantly by region and season, 
+rough estimates indicate that a US$20 benefit would cover about 70 percent of the MEB, based on the 
+December 2018 price data. Targeted beneficiaries will be covered by nutrition-linked cash transfers for 12 
+months. 
+79. 
+The average poverty gap in Somalia is 29 percent, indicating that the average consumption level 
+of a poor Somali is about 71 percent of the international poverty line. While almost three-fourths of the 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+28
+ 
+ 
+population in rural areas, IDP settlements, Mogadishu, and among nomads are poor according to survey 
+estimates, poverty is deeper in rural areas and IDP settlements (34 percent for both), compared to 
+Mogadishu (27 percent, p<0.1) and other urban areas (24 percent, p<0.05). A large share of Somalis living 
+in poverty, together with a large gap between their consumption expenditure and the poverty line 
+indicates that many of the poor are far from overcoming poverty and would need a substantial increase 
+in their consumption to bring it to the poverty line.  
+80. 
+The needs of the poor and most vulnerable in Somalia are therefore significant, and the 
+situation worsens in times of drought. The SNHCP with its contribution of US$65 million would cover 
+200,000 households (approximately 1.2 million people) with the nutrition-linked cash transfer program.37 
+This project would also establish a foundation for a sustainable safety net system that can help poor and 
+vulnerable households and those affected by malnutrition.  
+81. 
+The economic benefits of the proposed SNHCP would include both protective and productive 
+benefits to households. These will include (a) improvements in household well-being because of 
+consumption smoothing (through cash transfers) and (b) enhancements in access to nutrition services 
+that will augment human capital development in the short and long term. 
+82. 
+Level of transfers compared to basic food needs. The project includes a transfer of US$240 per 
+year per beneficiary household, which is an average of about US$40 per household member per year. This 
+represents about 7.1 percent of the national poverty and 70 percent of the MEB. 
+83. 
+Impact of safety net activities on poverty. The project seeks to target the poorest of poor 
+households, those whose living standards are estimated to be at one-half of the national poverty line. 
+Therefore, the transfers will improve their standard of living and protect them from a shock (drought). 
+The depth of poverty for these communities will diminish and extreme poverty will be reduced slightly. 
+Due to this improvement, the poverty gap index of the targeted communities will be slightly reduced. An 
+increased benefit amount would have stronger poverty impacts. However, this would create negative 
+incentives for labor participation and productivity. Further, it would mean that fewer beneficiaries could 
+be covered, which would increase exclusion and risk exacerbating tensions within the communities.  
+84. 
+By developing a social registry, the project is likely to achieve cost efficiencies and improve 
+transparency. The new system is expected to reduce transaction costs and wait times for beneficiaries 
+and reduce duplication of paperwork across programs. It will also generate more usable information for 
+policy makers, who currently have little more than aggregate statistics and periodic household sample 
+surveys with which to evaluate program performance and impact. 
+B. Fiduciary 
+ 
+(i)    Financial Management 
+85. 
+The proposed project will be implemented by the FGS with technical and implementation 
+support from WFP and UNICEF. Technical and FM assessments of both WFP and UNICEF were conducted 
+in line with the Financial Management Framework Agreement (FMFA) between the World Bank and the 
+                                            
+37 This is estimated to cover about 13 percent of the poor, assuming a population of 12 million Somalis and 77 percent poverty 
+rate.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+29
+ 
+ 
+UN. As part of design and appraisal, an in-depth assessment of end-to-end cash transfer business 
+processes and technical design assessment of the cash transfer component have been undertaken to be 
+implemented through support of WFP. The purpose of this in-depth assessment was to identify key risks 
+and possible cash transfer systems strengthening interventions, design improvements, and the risk 
+mitigation measures. The FM systems and arrangements will include budgeting; accounting; internal 
+controls; funds flow; financial reporting and internal and external auditing arrangements; FM staffing; and 
+risks management and related policies, procedures, and practices. The objective of the assessment was 
+to ascertain that the FM and cash transfer systems will facilitate the preparation of regular, timely, and 
+reliable financial statements and will support the provision of a complete, true, and fair record of all 
+transactions and balances, safeguard assets, and internal and external auditing arrangements, in line with 
+World Bank FM policies and internationally accepted standards. 
+86. 
+In view of the specific context and the operating environment in Somalia, the combined overall 
+fiduciary risk for the project is assessed as High. The High risk rating is largely attributable to (a) country-
+specific weak and evolving rudimentary funds flow and banking systems particularly at the 
+implementation level in Somalia, characterized by potential anti-money laundering and anti-terrorism 
+financing risks; (b) inadequate public financial management (PFM) and cash transfer management 
+capacities at the implementing agency and community level to spend and account for the funds correctly 
+and on time; (c) limited access to the project sites at the local level due to security constraints; and (d) 
+potential beneficiary inclusion and exclusion errors in the context of the emergency situation.  
+87. 
+Proposed ongoing measures to mitigate the identified risks: (a) strengthening the existing 
+beneficiaries’ identification and enrolment systems through the use of biometric systems as a way of 
+identifying beneficiaries at enrolment and payment check points; (b) strengthening the existing 
+framework agreements with third-party payment service providers to facilitate delivery of payments and 
+services, in particular, practical measures to minimize liquidity challenges; (c) deploying TPM 
+arrangements complemented by field-based monitors; and (d) agreeing with the Government and WFP 
+to ensure utilization of banking institutions supervised by recognized regimes. The World Bank will also 
+carry out regular joint implementation support reviews of the project, led by the Government with 
+support of WFP and UNICEF. The proposed interim risk mitigation measures will further be strengthened 
+as part of the design and appraisal process with the overall aim of strengthening country institutional 
+capacities, systems, policies, and procedures.  
+88. 
+Given the consideration for use of country systems (UCS), the project will adopt the UCS in 
+various aspects of the project’s FM, including budgeting, accounting and reporting, banking, and 
+oversight arrangements with the Office of the Auditor General. This will be supported by TA with clear 
+requirements for knowledge transfer incorporated in the TORs. Similar to other World Bank-supported 
+operations, the External Assistance Fiduciary Section (EAFS) units, established within the Offices of the 
+Accountant General at the FGS and FMS, will be charged with the project’s overall FM responsibility for 
+all projects financed by either the Somalia Multi Partner Fund or IDA resources at the FGS and FMS, whose 
+performances thus far has been satisfactory. With overall guidance from the accountant general(s) and 
+the EAFS units, the respective PIUs will continue to provide day-to-day FM of the project. The effectiveness 
+of the EAFS unit alongside other key functional units will be continuously monitored while key areas of 
+capacity strengthening will be identified and supported through the project. The existing organizational 
+and functional structure of the EAFS units are expected to be maintained and further strengthened to 
+provide effective FM support to the project.  
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+30
+ 
+ 
+89. 
+All project FM transactions will be recognized, captured, recorded, analyzed, summarized, and 
+reported through the Government’s Financial MIS. The EAFS units with support of the Accountant 
+General will ensure that  
+(a) 
+All important business and financial processes are adhered to, 
+(b) 
+Adequate internal controls and procedures are in place and adequately enforced, 
+(c) 
+Unaudited interim financial reports (IFRs) are prepared on time, 
+(d) 
+All statements of expenditure from UNICEF and WFP are consolidated and submitted to the 
+World Bank on time,  
+(e) 
+Project financial statements are prepared on time and in accordance with International 
+Public-Sector Accounting Standards cash basis, and  
+(f) 
+External audit is completed on time and audit findings and recommendations/issues raised 
+in the Management Letter are implemented expeditiously. 
+ 
+  (ii)   Procurement 
+90. 
+Procurement will be carried out in accordance with the requirements in the ‘Procurement 
+Regulations for IPF Borrowers: Goods, Works, Non-Consulting and Consulting Services dated July 1, 2016 
+(revised November 2017 and August 2018)’; ‘Guidelines on Preventing and Combating Fraud and 
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants (revised as of July 1, 2016)’; and 
+provisions stipulated in the Financing Agreement. Given Somalia’s FCV country status, procurement will 
+be processed under the special procurement arrangements referred to under paragraph 12 of Section III 
+of the World Bank Policy on Investment Project Financing dated September 30, 2018.  
+91. 
+The main procurement activities under this project will include contracting of specialized UN 
+agencies, namely WFP and UNICEF, to support the FGS in the implementation of Components 1 and 2. 
+Other procurement activities will include procurement of goods and services by MoLSA, mainly under 
+Component 3.  
+92. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). According to 
+the requirement of the procurement regulations, the recipient has developed a PPSD, based on which the 
+PP for the first 18 months has also been prepared. The PP sets out the selection methods to be followed 
+by the borrower during the project implementation in the procurement of goods, works, and consulting 
+services. The PP will also include the cost estimates, time schedules, the World Bank’s review 
+requirements, brief description of the activities/contracts, and so on. The PP will be updated at least every 
+12 months, or as required to reflect the actual project implementation needs, but each update shall 
+require World Bank Group approval. All PPs will be publicly disclosed in accordance with World Bank 
+Group disclosure policy.  
+93. 
+Systematic Tracking of Exchanges in Procurement (STEP). The World Bank Group’s STEP system 
+will be used to prepare, clear, and update PPs and conduct all procurement transactions for the project. 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+31
+ 
+ 
+The system allows the systematic planning and tracking of procurement activities throughout the project 
+cycle, including online collaboration with clients and recording service level standards through workflow. 
+The PIUs will be trained on using STEP. 
+C. Legal Operational Policies 
+. 
+. 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+. 
+D. Environmental and Social 
+ 
+94. 
+Potential environmental and social risks and impacts have been screened and been assessed to 
+be minimal on the environment, but Component 1 holds substantial risks for the human population. 
+Given that the project will be implemented in areas of fragility due to endemic poverty, acute drought 
+and protracted conflict and insecurity, directly accessing vulnerable beneficiaries will require careful 
+planning. Security risks and difficulty in accessing rural Somalia make stakeholder engagement effective 
+and community participation challenging. As such, the primary challenge for the project is ensuring that 
+cash transfers reach the most vulnerable eligible community members such as minority groups, people 
+with disabilities, or widows. In addition, gender dynamics in Somalia can be restrictive for women and 
+children (the target beneficiaries) and the nature of the project could potentially exacerbate GBV through 
+providing opportunities for exploitation of vulnerable women. The implementing agency, MoLSA, has 
+been assessed as having limited capacity to apply the World Bank's Environmental and Social Framework 
+on the project. For these reasons, the social risks have been assessed to be Substantial. 
+95. 
+To overcome the clients’ limited capacity and effectively manage the project-related risks 
+outlined, the project will rely on high-capacity partners: WFP and UNICEF. WFP will be the FGS’s 
+implementing partner for Component 1 and hence responsible for managing the majority of project risks. 
+WFP has a proven track record in effectively implementing unconditional cash transfers, including in rural 
+areas in Somalia and has developed mitigation mechanisms for all of the risks identified in paragraph 114 
+below and applied them in their standard operating procedures. Central to WFP’s process for managing 
+social risks are detailed requirements for robust and meaningful community consultations and a 
+functioning GRM which has been in operation and under near continuous evaluation in Somalia for a 
+number of years. In addition, WFP has developed a robust and multitiered project monitoring approach 
+which is required for all of their operations in Somalia and will be used on this project. TPM agencies will 
+also be used to provide independent verification of results.  
+96. 
+A Stakeholder Engagement Plan (SEP) has been prepared which includes (a) stakeholder 
+identification and analysis, (b) planning for stakeholder engagement, (c) consultations and disclosures, (d) 
+communication and sensitization campaigns, (e) participatory citizen engagements, and (f) grievance 
+redressal systems. The SEP draws upon the experience and expertise of WFP and UNICEF as the 
+implementing partners, because they have a better understanding of the local context and have existing 
+implementing systems. The client will maintain and disclose a documented record of all stakeholder 
+engagement activities. The SEP includes mechanisms for setting out a GRM which will help the 
+beneficiaries/affected individuals to express their concerns and grievances and enable the borrower to 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+32
+ 
+ 
+address them effectively. This will involve the GRM that is currently in use for similar activities by WFP 
+being adopted for the project. Greater detail on the GRM is provided in the section below.  
+97. 
+As the districts in which the project will operate have not yet been identified, and NGOs with 
+intimate understanding of local sociocultural sensitivities are not yet in place, community consultations 
+have not yet been undertaken in the preparation of this SEP. Instead the risks identified for this analysis 
+were gleaned from WFP’s past experience in implementing unconditional cash transfers in rural areas of 
+Somalia and elsewhere. Due to this experience and the nature of the intervention (cash transfers), the 
+lack of community consultations to date is not expected to have significant adverse impact on the project. 
+Once the NGOs, who are central to the strong consultative process which underpins the WFP targeting 
+process are on board, the SEP will be updated to reflect any changes necessary.  
+98. 
+The project shall ensure that any e-waste generated from project funding is segregated from 
+other forms of waste and is taken to licensed refurbishers, collection centers or recyclers. Details to guide 
+this should be included in the Project Operations Manual.  
+99. 
+The project will be implemented in areas of fragility due to endemic poverty, acute drought and 
+protracted conflict and insecurity which makes direct access to beneficiaries challenging. Against this 
+backdrop, the major social challenges identified are: 
+a)  Security: Conflict and insecurity remain persistent challenges in Somalia and have, in the past, 
+impeded delivery of drought relief services. Ensuring security for project operations (including 
+the handling of cash) amid armed groups in a region with a recent history of relative lawlessness 
+and the potential for increased conflict due to the drought, will remain a significant challenge. 
+Delivery points cash transfers may be targeted by opportunistic armed actors including Al-
+Shabaab. This general insecurity may impact both the project workers and beneficiaries. In 
+addition, the presence of security services in the project area can pose a threat to the 
+community through violence, exploitation and abuse. 
+• 
+Mitigation: By design, the project will only operate in relatively permissive parts of 
+the country, with security of operations and access to site for monitoring and 
+supervision key criteria in the selection of districts for support. Further, the choice 
+of WFP and UNICEF as key implementing partners provides the project access to 
+the UNs system and local capacity for identifying and managing security threats to 
+operations. UNDSS provides overarching security for all UN agencies. In addition, 
+WFP has security officers in all of the regions who oversee the security of the WFP 
+operations. These systems are tried and tested on projects such as this. They work 
+in all districts except those controlled by armed groups and as such have established 
+systems for managing the security of their operations. Moreover, the WFP service 
+agreement with project service providers contain a contractual obligation for the 
+service provider and any contracted security to uphold humanitarian principles 
+such as “do no harm” and to protect beneficiaries (from violence, exploitation and 
+abuse). They also contain an obligation to ensure the security of their own 
+personnel or workers by implementing appropriate risk prevention and mitigation 
+strategies to reduce the likelihood of a harmful event occurring and to mitigate the 
+impact of a security event if it were to occur. The WFP have developed a Safe 
+ 
+The World Bank 
+ 
+Shock Responsive Safety Net for Human Capital Project (P171346) 
+ 
+ 
+ 
+33
+ 
+ 
+Distribution Guidelines which outline their requirements and provide training to 
+contracted entities in their use. 
+b) Exclusion: The security and other challenges associated with working in rural Somalia make 
+effective stakeholder engagement and community participation very challenging. As such, the 
+challenges of ensuring the project reaches vulnerable community members (such as minorities, 
+people with disabilities or widows present in any cash transfer project are amplified. 
+• 
+Mitigation: In Somalia, community participation has been more robust in rural 
+areas than in Urban and is used extensively by WFP on like projects. The WFP 
+guidelines for community participation (adopted by the Somalia Food Security 
+Cluster) in targeting uses a community driven process for identifying vulnerable 
+people at risk of exclusion. To monitor the application and effectiveness of the 
+targeting process the WFP carries out their own monitoring, of this system and 
+where they are unable to carry out their own monitoring they use a monitoring 
+contractor. Monitoring reports will be included in the SMP along with a detailed 
+description of this process. 
+c) Selection: The project targets women and children at risk of malnutrition due to the drought. 
+As such gender and other cultural dynamics will need to be managed to ensure transferred cash 
+being captured by spouses, family, nominated caregivers, community leaders or armed groups 
+but instead makes it to the intended beneficiaries.  
+• 
+Mitigation: WFP carries out periodic evaluations of intrahousehold dynamics 
+including in Somalia seeking to better observe and understand this effect. After 10 
+years of administering cash transfer operations, WFP monitoring has not revealed 
+an increase in intrahousehold abuse of the system including among spouses, family 
+members or caregivers. However, this does remain of potential concern and hence 
+WFP 
+monthly 
+monitoring 
+screens 
+for 
+this 
+effect.  
+External capture has been observed both in terms of soliciting kickbacks and 
+favoring one group of beneficiaries. To combat this, the WFP has developed a 
+robust and multitiered monitoring system including hotline for anonymous reports. 
+Where offenders are individuals, they are dismissed, or where the problem is 
+systemic, contracts with implementing partners may be terminated and the matter 
+is addressed with local authorities. Note WFP has not encountered this impact in 
+their operations in Somalia. As WFP has a requirement to monitor their operations, 
+they do not work in areas controlled by armed groups in Somalia. Similarly, capture 
+by armed groups has not been a problem observed in parts of

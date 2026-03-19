@@ -1,0 +1,2881 @@
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD2718  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT PAPER 
+ 
+ON A 
+ 
+PROPOSED ADDITIONAL GRANT 
+ 
+IN THE AMOUNT OF SDR 14.3 MILLION 
+(US$20 MILLION EQUIVALENT) 
+ 
+AND ON A  
+ 
+PROPOSED ADDITIONAL GRANT FROM SOMALIA MULTI-PARTNER FUND 
+IN THE AMOUNT OF US$10 MILLION 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA  
+ 
+FOR THE 
+ 
+DOMESTIC REVENUE MOBILIZATION AND PUBLIC FINANCIAL MANAGEMENT 
+CAPACITY STRENGTHENING PROJECT 
+ 
+ 
+ 
+August 29, 2018 
+ 
+ 
+ 
+ 
+Governance Global Practice 
+Africa Region 
+ 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+CURRENCY EQUIVALENTS  
+ 
+Exchange Rate Effective June 30, 2018 
+ 
+Currency Unit = Somali Shillings 
+ 
+Somali Shillings 578.5000 = US$1 
+US$1 = SDR 0.71094933 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez Ghanem 
+Country Director: Bella Bird 
+Senior Global Practice Director: Deborah L. Wetzel 
+Practice Manager: Nicola J. Smithers 
+Task Team Leaders: Sher Shah Khan, Frederick Yankey 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AF 
+Additional Financing  
+AfDB 
+African Development Bank 
+AFROSAI-E 
+African Organization of English Speaking Supreme Audit Institutions 
+AFS 
+Annual Financial Statements 
+AG 
+Accountant General 
+ASA 
+Advisory Services and Analytics 
+ASPA 
+Association of Somali Professional Accountants 
+AuG 
+Auditor General 
+CAATs 
+Computer Aided Audit Techniques 
+CBS 
+Central Bank of Somalia 
+CIP 
+Capacity Injection Project 
+CIPFA 
+Chartered Institute of Public Finance and Accountancy 
+CIT 
+Component Implementation Team 
+CMU 
+Cash Management Unit 
+CPF 
+Country Partnership Framework 
+CSO 
+Civil Society Organization 
+DA 
+Designated Account 
+DFID 
+Department for International Development 
+DRC 
+Disaster Recovery Center 
+DRM 
+Domestic Revenue Mobilization 
+DRM & PFM 
+Domestic Revenue Mobilization and Public Financial Management Capacity 
+Strengthening Project 
+EAFS 
+External Assistance Fiduciary Section 
+EFT 
+Electronic Funds Transfer 
+EMP 
+Environmental Management Plan  
+EU 
+European Union 
+FCV 
+Fragile, Conflict and Violence 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMIS 
+Financial Management Information System 
+FMS 
+Federal Member States 
+FY 
+Fiscal Year 
+GDP 
+Gross Domestic Product 
+GRS 
+Grievance Redress Service 
+GST 
+Goods and Services Tax 
+HIPC 
+Heavily Indebted Poor Countries 
+HWA 
+Hargeisa Water Agency 
+IBRD 
+International Bank for Reconstruction and Development 
+ICBF 
+Institutional Capacity Building Framework 
+ICPAS 
+Institute of Certified Public Accountants of Somalia 
+ICT 
+Information and Communication Technology 
+IDA 
+International Development Association 
+IDI 
+INTOSAI Development Initiative 
+IFC 
+International Finance Corporation 
+ 
+ 
+IFI 
+International Finance Institutions 
+IFR 
+Interim Unaudited Financial Report 
+IMF 
+International Monetary Fund 
+INTOSAI 
+International Organization of Supreme Audit Institutions 
+IP 
+Implementation Progress 
+IPF 
+Investment Project Financing 
+IPSAS 
+International Public-Sector Accounting Standards 
+ISN 
+Interim Strategy Note 
+ISR 
+Implementation Status and Results Report 
+ISSAI 
+International Standards for Supreme Audit Institution 
+JIT 
+Just-in-Time 
+LTO 
+Large Tax-payer Office 
+M&E 
+Monitoring and Evaluation 
+MDA 
+Ministries Departments and Agencies 
+MoE 
+Ministry of Education 
+MoF 
+Ministry of Finance 
+MTI 
+Macroeconomics Trade and Investment 
+MTR 
+Mid-term Review 
+NGO 
+Non-Governmental Organization 
+OAG 
+Office of the Accountant General 
+OAuG 
+Office of the Auditor General 
+PAC 
+Public Accounts Committee 
+PACG 
+Pre-arrears Clearance Grant 
+PAD 
+Project Appraisal Document  
+PDC 
+Primary Data Center 
+PDO 
+Project Development Objective 
+PEFA 
+Public Expenditure and Financial Accountability 
+PETS 
+Public Expenditure Tracking Survey 
+PFM 
+Public Financial Management 
+PFMCSP II 
+Second Public Financial Management Capacity Strengthening Project 
+PIM 
+Project Implementation Manual 
+PIU 
+Project Implementation Unit 
+PL-FMIS 
+Puntland Financial Management Information System 
+PMF 
+Performance Measurement Framework 
+PP 
+Procurement Plan 
+PPSD 
+Project Procurement strategy for Development 
+PREMIS 
+Public Resource Management in Somalia 
+PSS 
+Puntland State of Somalia 
+PSU 
+Puntland State University 
+RCRF II 
+Recurrent Cost and Reform Financing Project Phase 2  
+RCU 
+Reforms Coordination Unit  
+RIU 
+Reform Implementation Unit  
+ROC 
+Reform Oversight Committee  
+RRF 
+Rapid Response Facility 
+SAI 
+Supreme Audit Institution 
+SCD 
+Systemic Country Diagnostics 
+ 
+ 
+SCoA 
+Standard Chart of Accounts 
+SDR 
+Special Drawing Rights 
+SFMIS 
+Somalia Financial Management Information System 
+Sida 
+Swedish International Development Cooperation Agency 
+SL-FMIS 
+Somaliland Financial Management Information System 
+SMEs 
+Subject Matter Experts 
+SMP 
+Staff Monitored Program 
+SMPF 
+Somalia Multi-Partner Fund 
+SoE 
+Statement of Expenditure 
+SORT 
+Systematic Operations Risk Rating Tool 
+SPF 
+Single-partner Fund 
+SQL 
+Structured Query Language 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TA 
+Technical Assistance 
+TIN 
+Taxpayer Identification Number 
+TPU 
+Tax Policy Unit 
+TSA 
+Treasury Single Account 
+TSC 
+Technical Steering Committee 
+UNDB 
+United Nation Development Business 
+UNOPS 
+United Nations Office for Project Services 
+USAID 
+United States Agency for International Development 
+US$ 
+United States Dollar 
+VAT 
+Value Added Tax 
+WB 
+World Bank 
+WBG 
+World Bank Group 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 66 
+ 
+ 
+     
+ 
+BASIC INFORMATION – PARENT (Second Public Financial Management Capacity Strengthening Project - P151492) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+Recipient Executed 
+Activities 
+Frederick Yankey 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P151492 
+Investment Project 
+Financing 
+GGOAE (9748) 
+AFCE1 (6541) 
+Governance 
+ 
+Implementing Agency: Ministry of Finance, Puntland, Ministry of Finance of Somaliland Hargeisa, Ministry of Finance 
+Federal Government 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+ 
+No 
+ 
+Approval Date 
+Closing Date 
+ 
+Original Environmental 
+Assessment Category 
+Current EA Category 
+07-Jul-2015 
+30-Jun-2020 
+ 
+Not Required (C) 
+Not Required (C) 
+ 
+Financing & Implementation Modalities Parent 
+[  ] Multiphase Programmatic Approach [MPA] 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-Linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 66 
+ 
+Development Objective(s) 
+ 
+The Project Development Objective is to establish and strengthen institutional capacity for the management of 
+public funds inCentral Finance Agencies and targeted sectors. 
+ 
+Ratings (from Parent ISR) 
+ 
+RATING_DRAFT_NO 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+05-Nov-2015 
+29-Jun-2016 
+29-Jun-2017 
+10-Mar-2018 
+Progress towards 
+achievement of PDO 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+S 
+ 
+Overall Implementation 
+Progress (IP) 
+MS 
+ 
+MS 
+ 
+MS 
+ 
+S 
+ 
+Overall Safeguards 
+Rating 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall Risk 
+H 
+ 
+H 
+ 
+H 
+ 
+S 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Domestic Revenue Mobilization and Public Financial 
+Management Capacity Strengthening Project - P166206) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P166206 
+Domestic Revenue 
+Mobilization and Public 
+Financial Management 
+Capacity Strengthening 
+Project 
+Restructuring, Scale Up 
+Yes 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+IBRD/IDA 
+25-Sep-2018 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+ 
+ 
+30-Oct-2022 
+No 
+ 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 66 
+ 
+Is this a regionally tagged project? 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities Child 
+ 
+ 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-Linked Indicators (DLIs) 
+[✓] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+Grants 
+  20.00 
+  15.70 
+   4.30 
+    
+ 
+79 % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Domestic Revenue Mobilization and Public Financial 
+Management Capacity Strengthening Project - P166206) 
+  
+ 
+ 
+ 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+20.00 
+30.00 
+50.00 
+Total Financing 
+20.00 
+30.00 
+50.00 
+of which IBRD/IDA  
+0.00 
+20.00 
+20.00 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 66 
+ 
+DETAILSNewFinEnh1- Additional Financing 
+World Bank Group Financing 
+     International Development Association (IDA) 
+20.00 
+          IDA Grant 
+20.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+10.00 
+          Somalia Multi-Partner Fund 
+10.00 
+ 
+   
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Total Amount 
+ National PBA 
+0.00 
+20.00 
+20.00 
+Total 
+0.00 
+20.00 
+20.00 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+[    ] Yes   [ ✔ ] No 
+  
+INSTITUTIONAL DATA 
+ 
+ 
+Practice Area (Lead) 
+Governance 
+ 
+Contributing Practice Areas 
+Macroeconomics, Trade and Investment 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 66 
+ 
+ 
+Gender Tag 
+ 
+Does the project plan to undertake any of the following? 
+ 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified 
+through SCD and CPF 
+ 
+No 
+ 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment 
+ 
+No 
+ 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+ 
+No 
+ 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Sher Shah Khan 
+Team Leader (ADM 
+Responsible) 
+DRM 
+GGOAP 
+Frederick Yankey 
+Team Leader 
+PFM 
+GGOAE 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+Procurement 
+GGOPA 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist 
+Fiduciary; PFM & Systems 
+Controls 
+GGOAE 
+Cem Dener 
+Peer Reviewer 
+Peer Reviewer 
+GGOSC 
+Edith Ruguru Mwenda 
+Team Member 
+Legal Counsel 
+LEGAM 
+Eugenia Nafula Konya 
+Team Member 
+Administrative Support 
+AFMSO 
+Fabienne Mroczka 
+Peer Reviewer 
+Peer Reviewer 
+GGOAW 
+Gael J. R. F. Raballand 
+Team Member 
+DRM 
+GGOAE 
+George Ferreira Da Silva 
+Team Member 
+Disbursements 
+WFACS 
+Ikechi B. Okorie 
+Team Member 
+PFM 
+OPSFM 
+Jean O Owino 
+Team Member 
+Disbursements 
+WFACS 
+Khuram Farooq 
+Team Member 
+FMIS 
+GGOSC 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206)-
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 66 
+ 
+Knut Opsal 
+Team Member 
+Social Safeguards 
+GSU07 
+Lucy Anyango Musira 
+Team Member 
+Operations 
+GGOAE 
+Matthias Mayr 
+Team Member 
+Coordination 
+AFMSO 
+Moses Misach Kajubi 
+Team Member 
+DRM 
+GGOGT 
+Naseer Ahmad Rana 
+Peer Reviewer 
+Peer Reviewer 
+GTFOS 
+Nicola J. Smithers 
+Team Member 
+Overall Guidance 
+GGOAE 
+Richard Anthony 
+Sutherland 
+Team Member 
+DRM, PFM, and Operations 
+GGOLP 
+Rita Obioma Itoro-Godfrey 
+Team Member 
+Administrative and Operations 
+Support 
+GGOAE 
+Salome Awuor Aganda 
+Team Member 
+Administrative and Operations 
+Support 
+AFMSO 
+Sheila Lucrecia Francisco 
+Pene Neves 
+Team Member 
+Disbursements 
+WFACS 
+Tracy Hart 
+Environmental Safeguards 
+Specialist 
+Environmental Safeguards 
+GEN01 
+Verena Phipps-Ebeler 
+Social Safeguards Specialist 
+Social Safeguards 
+GSU07 
+Yoko Kagawa 
+Team Member 
+Monitoring & Evaluation 
+GGOAW 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+   
+ 
+   
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) 
+ 
+ 
+ 
+ 
+ 
+July 30, 2018 
+Page 7 of 66 
+ 
+DOMESTIC REVENUE MOBILIZATION AND PUBLIC FINANCIAL MANAGEMENT CAPACITY STRENGTHENING 
+PROJECT 
+ 
+TABLE OF CONTENTS 
+ 
+  I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 8 
+II. 
+DESCRIPTION OF ADDITIONAL FINANCING .................................................................... 16 
+III. KEY RISKS ..................................................................................................................... 23 
+IV. APPRAISAL SUMMARY .................................................................................................. 26 
+V. WORLD BANK GROUP GRIEVANCE REDRESS .................................................................. 31 
+VI. SUMMARY TABLE OF CHANGES .................................................................................... 32 
+VII. DETAILED CHANGE(S) .................................................................................................... 32 
+VIII. RESULTS FRAMEWORK AND MONITORING ................................................................... 38 
+ANNEX 1: AF COMPONENT AND SUB-COMPONENTS BUDGET ESTIMATES ............................ 49 
+ANNEX 2: IMPLEMENTATION ARRANGEMENTS .................................................................... 55 
+ 
+LIST OF TABLES 
+ 
+Table 1: Coordinated PFM support to Somalia governments .................................................... 12 
+Table 2: Proposed AF components and sub-components .......................................................... 17 
+Table 3: Parent project components captured in the AF ............................................................ 17 
+ 
+Annex Table 1: Component 1 -  Strengthening Tax Policy and Inland Revenue Administration 
+(AF=US$12,300,000) ..................................................................................................................... 49 
+Annex Table 2: Component 2: Strengthening Capacity for Public Financial Management 
+Control and Accountability (AF=US$12,700,000) ........................................................................ 49 
+Annex Table 3: Component 4: Public Financial Management Reform Oversight, Coordination 
+and Management (AF=US$3,000,000) ......................................................................................... 49 
+Annex Table 4: Implementation status of the FMIS modules .................................................... 51 
+Annex Table 5: Disbursement Tables .......................................................................................... 60 
+Annex Table 6: Procurement Risk and Mitigation Measures ..................................................... 65 
+Annex Table 7: Thresholds for procurement approaches and methods ................................... 66 
+ 
+ 
+LIST OF FIGURES 
+ 
+Annex Figure 1: Funds flow arrangements ......................................................................................... 57 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 66 
+ 
+ 
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+A. Introduction 
+ 
+1. 
+This Project Paper seeks the approval of the Executive Directors to provide Additional Financing (AF) in 
+the amount of US$20 million to the Federal Republic of Somalia for the Domestic Revenue Mobilization and 
+Public Financial Management Capacity Strengthening Project (DRM&PFM – P166206), funded from the 
+International Development Association (IDA) resources, which are available on an exceptional basis as part of 
+the Pre-arrears Clearance Grants (PACG) for Somalia. In addition, the proposed AF will have an additional 
+financing for US$10 million from the Somalia Multi-Partner Fund (SMPF)1 (TF072283) resources. This will bring 
+the total financing of the proposed AF to US$30 million. The proposed AF will include restructuring of the parent 
+project Second Public Financial Management Capacity Strengthening Project P151492.  
+ 
+2. 
+The AF is being processed at the request of the Federal Government of Somalia (FGS) of June 23, 2018, 
+to: (i) expand the scope of activities concerning domestic revenue mobilization (DRM); (ii) deepen treasury 
+management and budget execution reforms and align them with the 2016-2020 Public Financial Management 
+(PFM) Reform Action Plan; and (iii) introduce new activities to enhance fiscal accountability and transparency. 
+The AF will continue to benefit the Puntland State of Somalia (PSS) and Somaliland in addition to the FGS. Overall, 
+the activities are consistent with the original Project Development Objective (PDO) and are strategically aligned 
+with Somalia’s most recent Interim Strategy Note (ISN) fiscal year (FY) 2014-20162, its Systemic Country 
+Diagnostics (SCD)3 ,and the forthcoming Country Partnership Framework (CPF) FY2019-20224. 
+ 
+3. 
+The AF also entails project restructuring to: (i) revise the original PDO to explicitly include the DRM 
+support; (ii) consolidate the PFM and integrity-related activities into one component; (iii) reallocate resources in 
+accordance with the new design; (iv) amend the Just in Time (JIT) support; (v) revise the results framework and 
+monitoring systems to improve the attribution of project specific interventions; and (vi) extend the closing date 
+of the original project by two years, from June 30, 2020 to June 30, 2022, to allow for successful implementation 
+of the project’s original and new activities. The changes will strengthen the overall development impact of the 
+original project and better align the World Bank assistance with the changing government priorities and country 
+context. The project is expected to achieve results which include strengthened capacity to formulate efficient tax 
+policy, establishment of more efficient inland revenue tax administration organization and systems and 
+strengthened PFM and auditing systems. The project is also expected to contribute to higher level development 
+objectives of enhanced revenues and more efficient and accountable government spending. The AF support is 
+aligned to the key economic reform objectives of the federal government and its member states, as outlined in 
+the National Development Plan 2017-2019, and is providing technical and financial resources to the 
+internationally-supported state-building process in Somalia. The AF also re-prioritizes expansion of treasury 
+                                            
+ 
+1 To be approved by the Africa Region Vice President. 
+2 P124647, report number 39951-SO. 
+3 P155548, report number 123807-SO. 
+4 P165624, report number 124734-SO.  
+ 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 66 
+ 
+management and budget execution activities in accordance with the 2016-2020 PFM Reform Action Plan. The 
+operation also supports the Somali Government to meet International Monetary Fund (IMF) Staff Monitored 
+Program (SMP), and reforms towards Heavily Indebted Poor Countries (HIPC) Initiative Decision Point. 
+ 
+4. 
+The proposed AF is fully compliant with World Bank procedures that are set out for Parent Project-
+proposed AF in the context of ongoing, well-performing projects.5 The parent project is currently rated as 
+Satisfactory for both progress towards achievement of the PDO and Implementation Progress (IP). All legal 
+covenants are met under the original project and there is substantial compliance with financial management 
+(FM) arrangements, and with the respective legal covenants. The proposed AF is being processed in accordance 
+with the condensed procedures outlined in Paragraph 12 of Section III of the World Bank Investment Project 
+Financing (IPF) Policy, and Paragraph 56 of Section III of the IPF Directive: Exceptional Arrangements in Situations 
+of Urgent Need of Assistance or Capacity Constraints. The Safeguards requirements will in that regard be deferred 
+to implementation as outlined in Paragraph 12(a) of the IPF Policy. 
+ 
+Background and alignment  
+ 
+5. 
+Somalia has achieved significant progress in laying the foundations for stability and development; 
+however, political and institutional gains must have tangible benefits for people if Somalia’s transition is to 
+hold. The CPF for the period FY2019-2022 aims to increase citizens’ access to services and help restore economic 
+resilience – laying the foundations for longer-term poverty reduction and inclusive growth. The CPF is based on 
+an analytical framework elaborated in the recently-concluded SCD as well as the outcome of country level 
+dialogue between the World Bank Group (WBG), its Somalia partners and the international community. 
+ 
+6. 
+Recent political and institutional gains reflect a country making a positive transition from acute fragility 
+and protracted emergency. Agreement on a new federal structure, two peaceful transitions of power, nascent 
+resource sharing deals and a willingness to tackle vested interests - all signal a collective willingness to move 
+forward. To secure the new political settlement, Somalia’s emerging federal institutions are working to generate 
+dividends for the people, by enabling access to basic services and offering economic opportunities for a fast-
+growing population. 
+ 
+7. 
+Nevertheless, Somalia’s long period of fragility has given rise to a “dual development trap” reflecting 
+systemic distrust, and acute vulnerability to repeated shocks. First, weak fiscal space constrains service delivery, 
+including security and justice, leading to low trust in state institutions (further undermining revenues) and cycles 
+of political crises. Second, climatic shocks (like the 2017 drought) deplete rural communities’ assets, causing 
+displacement and rapid urbanization – resulting in mounting exclusion, and unsustainable exploitation of natural 
+resources. The two traps reinforce each other, becoming structural drivers of the country’s sustained fragility.  
+Overcoming the dual development trap requires the restoration of citizens’ trust in institutions by strengthening 
+accountability and oversight, mobilizing revenue and increasing citizens’ access to services.  
+ 
+8. 
+With debt arrears outstanding, Somalia is ineligible for regular concessional financing from IDA and 
+other International Finance Institutions (IFIs) – but the WBG re-engagement in 2012 funded by the SMPF has 
+helped stabilize institutions and initiate IFI normalization. With support of eleven donors, the SMPF has enabled 
+                                            
+ 
+5Following World Bank Procedure, Additional Financing for Investment Project Financing, Issued March 1, 2018. 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 66 
+ 
+the World Bank to support the strengthening of federal institutions and establishment of basic economic 
+regulatory foundations, including through the DRM&PFM. The SMPF will remain the core financing vehicle under 
+the CPF – but will be complemented in FY19 by an exceptional allocation of IDA PACGs targeting the key 
+milestones to reach Decision Point under the Heavily Indebted Poor Countries (HIPC) Initiative. Provided reform 
+momentum continues, the Decision Point is feasible within the CPF period, which would allow Somalia access to 
+regular concessional resources from IDA and other IFIs, together with investment of private capital from the 
+International Finance Corporation (IFC). 
+ 
+9. 
+The World Bank’s ongoing Somalia governance operations will be helping Somalia deliver the CPF focus 
+of building institutions to deliver services, and ultimately in reaching HIPC Decision Point. Specifically, the 
+exceptional access to PACGs will be used to scale-up two ongoing governance projects, namely: The DRM&PFM 
+AF, (co-financed by US$20 million equivalent from IDA PACG and US$10 million from SMPF), and the Recurrent 
+Cost and Reform Financing Project Phase 2 AF (RCRF)6or “RCRF II7” (co-finance by US$60 million equivalent from 
+IDA PACG and US$2 million from SMPF). Fundamentally, the DRM&PFM operation will build upon the 
+foundations already laid by the project’s early successes, strengthen the systems for revenue mobilization and 
+expenditure management to ensure both increased revenue collection and help for the governments to spend it 
+wisely. RCRF will provide recurrent cost finance to provide continued fiscal stability and support the FGS and the 
+Federal Member States (FMS) to deliver tangible education and health services to citizens. Working together, 
+both operations will contribute to building state legitimacy and an increasingly coherent federal structure for 
+service delivery. 
+ 
+10. 
+The two operations are being scaled-up in close coordination with other key development partners, and 
+at a crucial time for development of public sector systems and coherence. This includes the International 
+Monetary Fund (IMF) Staff Monitored Program (SMP), the European Union (EU)’s forthcoming budget support 
+operations, officially titled the ‘State-building and Resilience Contract’, and other World Bank operations and 
+bilateral Technical Assistance (TA) providers. Through this coordinated approach, they help to support Somalia 
+on an accelerated pathway towards the HIPC Decision Point. The timing is also very important. The PACGs are 
+well timed to enable Somalia to take advantage of the expected more favorable macroeconomic outlook (higher 
+growth after the drought, higher domestic revenue) to continue focusing on stabilization and strengthening 
+capacity. 
+ 
+Somalia governance program integrated view 
+ 
+11. 
+Addressing the multi-faceted governance challenges in Somalia requires the adoption of approaches, 
+which are: highly innovative; flexible; and balance between short, medium- and long-term reform strategies 
+and manages high transaction costs with multiple clients. The Troika8 of WB Governance-focused projects 
+provides a foundation that is premised on the 2011 World Development Report (WDR) with a focus on 
+                                            
+ 
+6 P167224, Report No PAD 2958. 
+7 P154875, Report No. PAD 1380. 
+8 The Troika of Governance-focused projects include: (i) The Capacity Injection Project (CIP) (P149971) with the objective of 
+strengthening the staffing and institutional capacity of selected line ministries and central agencies; (ii) the Recurrent Cost and 
+Reform Financing Project (P154875), aimed at providing credible and sustainable payroll and to establish the foundation for 
+efficient budget execution and payment systems for the non-security sectors; and (iii) the PFM Capacity Strengthening Project 
+(P151492) which focuses on improving the institutional capacity of central finance agencies. 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 66 
+ 
+strengthening legitimate institutions and governance as a sin-qua-non for the provision of security, justice and 
+jobs for citizens – all of which are central to breaking the cycles of violence and setting the path towards economic 
+development.  
+ 
+12. 
+The Somalia Governance program therefore takes an integrated view and an iterative approach - 
+starting with the SMPF funded pilots and using the IDA PACG to scale up - that considers the strengthening of 
+core institutions of government as fundamental.  This is achievable through: (i) transparent and sustainable 
+support to civil service salary payments – this serves as a mechanism for legitimizing the Government; (ii) the 
+strengthening of DRM and PFM system – via support for an effective core DRM and PFM system; strong oversight 
+including the engagement of citizens; and (iii) merit-based recruitment and enhanced capacity of civil servants.  
+As such, the Troika of projects provide an integrated and interdependent set of broader governance solutions 
+and incentives aimed at governance and public-sector systems improvement.   
+ 
+B. Description of the existing project and its performance  
+ 
+Somalia Second Public Financial Management Capacity Strengthening Project (PFMCSP II) (P151492) 
+ 
+13. 
+Original approval and restructuring. The PDO of the original project is ‘to establish and strengthen 
+institutional capacity for the management of public funds in central finance agencies and targeted sectors.’ The 
+parent project in the amount of US$20 million was approved by the Africa Regional Vice President on July 7, 
+2015, and has been effective since September 2015. A US$20 million grant from the SMPF is the current sole 
+source of financing. The original closing date was June 30, 2018. However, the project was restructured to extend 
+the closing date by two years, from June 30, 2018 to June 30, 2020. The extension was approved on December 
+7, 2017. The project’s geographical scope (FGS, PSS, and Somaliland was decided through coordination with the 
+Department for International Development (DFID) and the EU and in harmonization with their programs of PFM 
+support in southern Somalia, ensuring national coverage of PFM support. Such coordination, in particular 
+includes: Public Resource Management in Somalia (PREMIS) –DFID, EU; and Support for the FGS to Strengthen 
+Domestic Revenue Generation and Macroeconomic Management for Customs reforms (DFID, United States 
+Agency for International Development [USAID], and EU). Coordination among key partners for PFM and DRM 
+support to government is ongoing through government-led Pillar Working Groups under the Somalia 
+Development and Reconstruction Facility as well as through technical level exchanges to ensure comprehensive 
+accountability and integrity-related support across Somalia. 
+ 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 66 
+ 
+Table 1: Coordinated PFM support to Somalia governments 
+Note: *RCRF - focused capacity development to manage RCRF funds. 
+Note: **PREMIS - DFID/EU project support for PFM and DRM. 
+ 
+14. 
+Overall performance. Currently, the IP, progress towards the achievement of the PDO, and performance 
+of most project components are rated as Satisfactory. The Government is very committed to the project’s 
+continued successful implementation. Although the fiduciary arrangements remain adequate, the FM 
+arrangements will further be strengthened as part of the project specific fiduciary arrangements as well as overall 
+PFM capacity strengthening activities under the project. The project has no overdue audits, supervision reports 
+or IFRs. Likewise, FM, procurement, project management, and monitoring and evaluation (M&E) are rated as 
+Moderately Satisfactory as reflected in the last Implementation Status and Results Report (ISR) dated March 10, 
+2018. Smooth project implementation has translated into high disbursement rate for the parent project funds, 
+which stands at a current disbursement ratio of about 79 percent as of August.  
+ 
+15. 
+The parent project has achieved tangible results. The components and progress are described in more 
+detail in Annex 1. Some of the key results include:  
+ 
+a) The Somalia Financial Management Information System (SFMIS) configuration has enabled the 
+FGS’s Office of the Accountant General (OAG) to improve its day-to-day treasury functions 
+substantially, including to scrutinize payment transactions more effectively. Also, it has improved 
+transparency and accountability in revenue collection and has set the foundations for the 
+implementation of the cash management and Treasury Single Account (TSA). Furthermore, the 
+payment module has been extended to the Central Bank of Somalia (CBS) to allow integration. As a 
+consequence, for the first time FGS recorded the 2015 budget in the system, resulting in the 
+generation from the system of the budget utilization and revenue performance reports as well as 
+Interim Unaudited Financial Report (IFRs) for World Bank financed projects. 
+ 
+b) The capacity assessment of Supreme Audit Institution (SAI) - FGS Office of the Auditor General 
+(OAuG) - is at an advanced stage. In addition, a framework for collaboration with the media and 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 66 
+ 
+non-state actors—which is a crucial element towards promoting outreach for the work of the 
+Public Accounts Committee (PAC)—has been finalized. Moreover, the OAuG has over the past few 
+months developed a Strategic and Operational Plan, with the help of the International Organization 
+of Supreme Audit Institutions (INTOSAI) Development Initiative (IDI), to provide direction on the 
+medium to longer term goals over the period 2017-2020. Similarly, in PSS, Strategy and 
+Development Action Plan for the OAuG has been completed, and the OAuG is conducting three pilot 
+audits using the newly developed Risk Based Auditing procedures manuals. 
+ 
+c) The PFM Staff Professionalization activities are successfully completed for the FGS, PSS, and the 
+Somaliland Government. As a result, 53 percent (126 out of 239) registered students passed the 
+certificate level PFM examination. Similarly, 59 percent passed the procurement stream certificate 
+level examination. The PSS has followed up with immersion of the participants. As seven of these 
+students have been employed under the Work Bank-supported projects. Likewise, 36 (of 45) civil 
+servant students enrolled for the international Chartered Institute of Public Finance and 
+Accountancy (CIPFA) examinations at the Puntland State University (PSU) passed the certificate level 
+examination.  
+ 
+d) DRM TA support has made improvements in the efficiency and effectiveness of tax administration 
+with the broader expectation of enhanced domestic revenue collection.  
+ 
+C. Rationale for the Additional Financing  
+ 
+16. 
+Somalia’s development trajectory has improved in the last few years, and there is a real opportunity 
+for Somalia to reach the HIPC Decision Point during the next three years. Reaching Decision Point is a stated 
+objective of Somalia’s leadership, to unlock access to the World Bank’s IDA window and other sources of 
+concessional financing. However, this will require sustained and strong commitment to reform and stability.   
+ 
+17. 
+Somalia is in urgent need of assistance due to protracted fragility, extremely low fiscal capacity, 
+inequitable geographic distribution of resources, and the need for a ‘step change’ in assistance to support the 
+FGS in reaching Decision Point. Despite progress at Federal level on revenue generation, both the FGS and FMS 
+remain subject to chronic fiscal stress, with low revenues, and fluctuating grants from international partners. 
+Similarly, expenditure management remains weak, as reforms critical to minimizing the accumulation of arrears 
+and enhancing fiscal discipline remain outstanding. 
+ 
+18. 
+With satisfactory progress with the implementation of the parent project, the FGS requested for AF of 
+US$30 million for the DRM&PFM operation to address fiscal constraints, sustain the reform effort to help reach 
+HIPC Decision Point, and increase the emphasis on DRM&PFM institutional strengthening. For this purpose, 
+the DRM&PFM proposes to:  
+ 
+a) scale up and expand some carefully chosen project activities. The AF is a necessary response to 
+the emerging needs of Somalia and is considered crucial for the full achievement of the project’s 
+development objectives. To this end, the Government is requesting to restructure the project to: (i) 
+upgrade the revenue administration sub-component into a new standalone component that would 
+include, inter alia, activities to enhance “readiness” of the FGS and the FMS to implement and 
+operationalize the new revenue legislation upon its enactment; (ii) consolidate and deepen PFM 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 66 
+ 
+related activities, including to: re-prioritize and expand treasury management and budget execution 
+activities in accordance with the 2016-2020 PFM Reform Action Plan; introduce activities to 
+enhance fiscal accountability and transparency via improving the institutional effectiveness of the 
+SAIs of FGS, PSS and Somaliland, thus strengthening audit and external oversight capacities; 
+strengthen internal control systems by establishing and operationalizing modern internal audit 
+functions, strengthening government procurements systems and enhance the overall fiduciary 
+environment; and (iii) include a mechanism that rapidly responds to the FGS’s need for more flexible 
+and adaptive operational support to help seize windows of reform opportunities as they emerge;  
+ 
+b) support the project’s restructuring as the evolving government priorities and emerging technical 
+concerns require an informed response. Notwithstanding the achievements of the project, 
+Somalia’s fiscal situation continues to face challenges. In addition, the added complexity of changing 
+internal and external dynamics are already influencing the nature of the PFM reform program. 
+Consequently, there is need to revise the project’s implementation timeline, scope, costs, and 
+approach to achieving the development objectives; and  
+ 
+c) improve other aspects of the original project as the design can be simplified around three 
+components instead of six, while resources could be reallocated to better respond to emerging 
+needs. Similarly, to facilitate successful implementation of the expanded activities under the AF, the 
+closing date will be extended to June 2022. Likewise, the restructuring would also involve 
+improvements to the results framework and monitoring systems. In particular, results indicators are 
+to be refined to improve the attribution of project specific interventions. Furthermore, the wording 
+of the PDO will be revised to reflect the expanded DRM scope.  
+ 
+19. 
+With regard to DRM, the Government’s strong commitment to strengthening its institutional capacity 
+for mobilizing and managing public funds is potentially a game changer, and is already yielding promising 
+results. Domestic revenue collection has increased markedly from US$76 million in 2013 to US$143 million in 
+2017. At 4 percent of Gross Domestic Product (GDP), tax revenues are, however, not adequate to support 
+Somalia’s reconstruction and development agenda, and the FGS remains dependent on development partners 
+to finance capital expenditures. While federal revenues have increased over the last five years, gains have been 
+made mainly based on increased trade taxes (customs), whereas inland revenue remains untapped. In addition, 
+inland revenue has little support, if at all, by other development partners.   
+ 
+20. 
+With regard to PFM, substantial progress has been made to improve budget execution—the variance 
+between actual and originally budgeted primary expenditure has reduced from a baseline measure of 45 
+percent in December 2013 to 31 percent in December 2017. Yet, expenditure management remains weak, as 
+reforms critical to minimizing arrears and enhancing fiscal discipline remain outstanding. At the same time, there 
+has been little progress on achieving targets to reduce the time to submit audit reports to Parliament. While the 
+project has delivered very useful and relevant analytical work throughout implementation, there is a need to 
+ensure that TA reform recommendations are translated into tangible actions that can spur growth in DRM and 
+strengthen PFM.  
+ 
+21. 
+In this context, the FGS leadership is strongly committed to remaining ‘on track’ under the third IMF 
+SMP as well as with RCRF reform benchmarks and, in particular, the quantitative targets relating to revenue 
+mobilization and non-accumulation of arrears. Also, access to PACG is a major step and intends to accelerate 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 66 
+ 
+reforms required for IDA arrears clearance, and to help restore resilience. It is in this context that the project is 
+expected to make a substantial contribution to the achievement of higher level objectives of increased inland 
+revenues and improved quality of public spending.  In addition, the adjustments are considered necessary for 
+ensuring that the project beneficiaries can effectively consolidate the gains of the project.  
+ 
+22. 
+The proposed AF is considered the most appropriate mechanism to maximize development impact of 
+the expanded activities for two main reasons: (i) the scope of the scale-up can be accommodated in the context 
+of the original project, relying on the beneficiaries’ existing implementation capacity and project management 
+arrangements; and (ii) the proposed AF brings greater procedural, time, and cost-effectiveness gains for the 
+Government vis-à-vis preparing a new IPF operation. Comparatively, the proposed AF ensures greater synergies, 
+efficient resource deployment, and better attribution of results. Furthermore, the activities are consistent with 
+the original PDO, and are strategically aligned with Somalia’s most recent ISN (FY2014-2016), its SCD, and the 
+forthcoming CPF. 
+ 
+23. 
+There are no significant changes in fiduciary, social safeguards or other design aspects of the project 
+since it was appraised. The external audit report for Fiscal Year 2016 highlighted weaknesses in the management 
+of project vehicles which required close monitoring, particularly the refund of unauthorized disposal of project 
+vehicles by a beneficiary institution. However, the refund has since been processed by the authorities and funds 
+credited back to the trust fund.  
+ 
+24. The environmental category of this project is assessed as “B" due to funding allocated for the completion 
+of an annex to the Ministry of Finance (MoF) building in Mogadishu. 
+ 
+D. Higher-level Objectives to which the Project Contributes 
+ 
+25. 
+Somalia has achieved significant progress in laying the foundations for stability and development; 
+however, political and institutional gains must have tangible benefits for people if Somalia’s transition is to 
+hold. Somalia’s emerging federal institutions are working to generate dividends for people, by collecting and 
+managing public resources to enable access to basic services that offer economic opportunities for a fast-growing 
+population.  The proposed AF is aligned with the key economic reform objectives of the FGS and FMS, as outlined 
+in the National Development Plan 2017-2019, and is providing technical and financial resources to the 
+internationally-supported state-building process in Somalia. 
+ 
+26. 
+The proposed AF will support the CPF focus area of building institutions to strengthen the systems for 
+revenue mobilization and expenditure management to enable both increased revenue collection and spending 
+these resources wisely and in an accountable manner for the benefit of the citizens. The support provided will 
+establish and strengthen the processes and automation for selected inland revenue instruments to enable these 
+instruments to become operational and so collect revenue. The proposed AF will monitor inland revenue 
+collections and will draw on this to inform project implementation. In addition, the proposed AF re-prioritizes 
+the PFM and integrity-related activities to accord with the 2016-2020 PFM Reform Action Plan. The systems for 
+strengthened expenditure controls and accountability that the AF is expected to deliver will provide mechanisms 
+to enable compliance with aggregate expenditure targets, use of funds for intended purposes, and oversight of 
+spending. The operation also supports the Somali Government to meet the International Monetary Fund (IMF) 
+Staff Monitored Program (SMP), and reforms towards Heavily Indebted Poor Countries Initiative Decision Point. 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 66 
+ 
+27. 
+The project is being scaled-up in close partnership with other key DPs, and at a crucial time for 
+development of public sector systems and coherence. This includes the IMF SMP, EU’s forthcoming budget 
+support operation, officially titled the ‘State-building and Resilience Contract’ – and other World Bank operations 
+and bilateral TA providers. Collectively they help to support Somalia on an accelerated pathway towards HIPC 
+Decision Point. The timing is also very important. The PACGs are well timed to enable Somalia to take advantage 
+of the expected more favorable macroeconomic outlook (higher growth after the drought, higher domestic 
+revenue) to continue focusing on stabilization and strengthening capacity, as well as the conditions-based 
+phasing out of the African Union Mission in Somalia (AMISOM) and an associated potential scale-up of funding 
+through country systems, making investment in strengthening government resource management systems highly 
+strategic at this time. 
+ 
+II. DESCRIPTION OF ADDITIONAL FINANCING 
+ 
+28. 
+The proposed AF and restructuring entail the following changes:  
+a) Modification of the PDO to reflect the expanded scope of the project and new emphasis on DRM;  
+b)  AF allocation of $US12.3 million to substantially scale up of project activities to strengthen tax policy 
+and inland revenue administration, which is potentially a ‘game changer’ as inland revenue has great 
+revenue generation potential but has received little support up to now;  
+c) Consolidation of the PFM and integrity related activities into one component of US$12.7 million;  
+d) An additional allocation of US$3.0 million to extend project management and coordination support in 
+accordance with the new AF activities and extended timeline; 
+e) Redesigning the JIT (Component 6) into Rapid Response Facility (RRF) US$2.0 million;  
+f) Adjustments to the results framework and monitoring to reflect the changes in the project’s design; 
+and 
+g) Extension of the project closing date from June 2020 to June 2022 to allow for successful 
+implementation of the project’s original and new activities. 
+ 
+29. 
+The PDO is changed to reflect the expansion in scope of the project and the new emphasis on DRM and 
+on public funds accountability, as follows: 
+ 
+x 
+Original PDO: To establish and strengthen institutional capacity for the management of public funds in 
+central finance agencies and targeted sectors.  
+x 
+Revised PDO: To strengthen systems of domestic revenue mobilization, expenditure control and 
+accountability in the Federal Government, Puntland State of Somalia, and Somaliland. 
+ 
+30. 
+The relationship between parent project structure and that of the AF is shown in Table 2 and Table 3. 
+Table 2 provides the overview of the proposed AF component structure, while Table 3 summarizes how the 
+components and sub-components of the parent project are now reflected in the AF structure. 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 66 
+ 
+Table 2: Proposed AF components and sub-components 
+ 
+Table 3: Parent project components captured in the AF  
+ 
+AF Components
+US$'000
+Component 1
+Strengthening Tax Policy and Inland Revenue Administration systems
+12,300
+Sub-component 1.1 Improving organizational capacity for tax policy
+750
+Sub-component 1.2 Improving systems for inland revenue administration
+10,250
+Sub-component 1.3 Tax payer education and facilitation to promote voluntary compliance
+1,000
+Sub-component 1.4 Supporting the Revenue Bill consultations and bridging operationalization upon enactment
+300
+Component 2
+Strengthening Capacity for PFM Control and Accountability
+12,700
+Sub-component 2.1 Strengthening systems of treasury management, budget execution, procurement, accounting 
+and financial reporting
+6,550
+Sub-component 2.2 Strengthening the integrity systems
+4,050
+Sub-component 2.3 Professionalization of PFM staff
+2,100
+Component 3
+Rapid Response Facility
+2,000
+Component 4
+PFM reform Oversight, Coordination and Management
+3,000
+TOTAL AF
+30,000
+Parent Project Component
+Parent 
+Project 
+Allocation 
+US$'000
+AF Component/ 
+Sub-
+component
+Change
+1. Inland Revenue Administration, Planning and Budget preparation
+2,750
+Substantially expanded inland 
+revenue  support provided in 
+AF Component 1
+1.1 Strengthening planning and budgeting
+630
+Completed
+1.2 Strengthening Inland Revenue administration
+2,120 1.1, 1.2, 1.3, 1.4
+2. Treasury Management, Budget Execution, Procurement, Accounting 
+and Financial Reporting
+9,880
+Consolidated into AF Sub-
+Component 2.1
+2.1 Treasury Management and Budget Execution
+1,500
+2.1
+2.2 Accounting and Financial Reporting
+1,000
+2.1
+2.3 Concessions, procurement and contract management
+1,000
+2.1
+2.4 Bespoke financial management information systems (FMIS)
+4,380
+2.1
+2.5 Modernizing CBS banking operations and financial control environment
+2,000
+2.1
+Reduced scope 
+3. Strengthening the Integrity Pillar
+1,945
+Consolidated into AF Sub-
+Component 2.2
+ 3.1 Foundations for Supreme Audit Institution (SAI)
+1,795
+2.2
+3.2 Planning, Finance and Public Accounts Committee
+150
+2.2
+4. PFM Professionalization
+1,000
+2.3
+Becomes AF Sub-Component 
+2.3
+5. PFM Reform Oversight, Coordination and Management
+2,925
+4
+Becomes AF Component 4
+6. Demand Driven Just-in-Time (JIT) Bank-Executed
+1,000
+Becomes AF Component 3
+6.1 Social accountability and open government data
+500
+3
+6.2 Governance/PFM Reviews and advisory notes
+500
+3
+Unallocated
+500
+Total Parent
+20,000
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 66 
+ 
+31. 
+The components and sub-components of the AF are described below.  
+ 
+32. 
+Component 1: Strengthening Tax Policy and Inland Revenue Administration systems (US$12,300,000). 
+This component is expected to strengthen tax policy and selected9 inland revenue10 systems and capacity. It 
+substantially expands the support to inland revenue and incorporates parent project Sub-Component 1.2.  The 
+component includes sub-components described below   
+ 
+33. 
+Sub-component 1.1: Improving organizational capacity for tax policy (US$750,000). This sub-component 
+includes: (i) establishing the tax policy unit (TPU) in the MoF by supporting activities to crowd in support for the 
+TPU, definition of structure and job specifications, definition of linkages to the Attorney General’s office and 
+support in establishing legal or regulatory frameworks for access to tax payer and other data, and (ii) support 
+TPU in development of a credible and fair revenue policy, evidence based research, revenue forecasting, and tax 
+gap analysis capacity.  
+ 
+34. 
+Sub-component 1.2: Improving systems for inland revenue administration (US$10,250,000). This sub-
+component includes the following:  
+ 
+a) Operationalizing large tax payer office (US$250,000): This will include re-tooling the Large Tax-
+payer Office (LTO), people capacity, and organization structure, and will supplement the IMF’s TA 
+to establish the LTO.  
+ 
+b) Business process mapping and redesigning (US$250,000) (initially focusing on the LTO processes 
+and gradually covering the whole spectrum and ensuring standardization): This will include review 
+of existing business processes, and development  and implementation of  more efficient processes 
+and systems for: (a) registered tax payer base; (b) risk-management; (c) timely filing of declaration; 
+(d) timely payments; (e) accurate reporting in declaration, business intelligence and audit; (f) 
+dispute resolutions; (g) revenue reconciliation, refunds and arrears; and (h) transparency and 
+accountability of the administration including integrity management. 
+ 
+c) Modernizing and automation11 (US$9,500,000): This will include: (a) development and 
+implementation of integrated automation system user requirement specifications and Information 
+                                            
+ 
+9 The FGS has prioritized specific tax instruments including: Sales Tax; Excise Duty; Personal and Corporate Income Tax; Rental 
+Income Tax; Road Tax; Stamp Duty; Registration fee / levies, turnover tax. A draft Revenue Bill has been developed and is being 
+processed to reform policy and administration of the above specific instruments. All the above taxes have been introduced in 
+Somaliland. Goods and Services Tax (GST) will be introduced soon.   
+10 This scope of the support is limited to Inland Revenue, and based on the division of labor amongst development partners. 
+Support to Customs reforms is being supported under a program mainly financed by DFID. However, the Bank will deliver Advisory 
+Services and Analytics (ASA) and TA activities to complement DFID support. Using the RRF, the project is structured to take 
+advantage and plug any emerging gaps in improvements to the Customs performance. This should help sustain dialogue around 
+a major revenue stream for Somalia. Structural benchmarks under consideration by IMF include the following areas with 
+accompanying TA to be provided by the IMF: sales tax for domestic products/services (e.g. telecoms, utilities), turnover tax for 
+large taxpayers, submission of National Revenue Bill to parliament, fisheries licensing implementation, large and medium 
+taxpayer office implementation. 
+11 Support for automation shall be at FGS and later rolled out to PSS if PSS adopts the revenue bill.  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 66 
+ 
+and Communication Technology (ICT) strategy; (b) financing and supporting deployment of a fit-for-
+purpose integrated tax administration system fully interfaced with SFMIS, and procuring necessary 
+ICT equipment and infrastructure; and (c) training and change management strategy to facilitate 
+adoption of the system by both staff and taxpayers. 
+ 
+d) Capacity building (US$250,000): This includes: (a) development of a human resource management 
+strategy for the inland revenue department; (b) execution of a training needs assessment and 
+development of a skill development strategy; (c) development and implementation of a 
+communication strategy; and (d) delivery of the knowledge and skill sets following the successful 
+PFM and procurement accreditation program of the parent project. In this regard, two pivotal 
+elements will underpin this support. Firstly, complementing African Development Bank (AfDB) 
+support which is setting up infrastructure for a Somalia Revenue Academy, the AF will develop 
+curriculum and equip trained trainers to facilitate continuous professional development for staff. 
+Secondly, the skill development of the tax officials will among others adopt an accreditation model, 
+learning from the (PFM) certification, which has been successfully implemented by the parent 
+project, and including personal and supervisory skills development to facilitate effectiveness of the 
+institution.  
+ 
+35. 
+Sub-component 1.3: Tax payer education and facilitation to promote voluntary compliance 
+(US$1,000,000).This sub-component will include development and implementation of: (i) taxpayer orientation/ 
+socialization program; (ii) taxpayer service charter; (iii) facilitation and grievance redressal help-desk; (iv) 
+proactive disclosure of revenue performance reports; (v) tax forums; (vi) training curriculum; and (vii) utilizing 
+the Somalia Revenue Academy to equip the wider public with tax compliance skillsets and knowledge.  
+ 
+36. 
+Sub-component 1.4: Supporting the Revenue Bill consultations and bridging operationalization upon 
+enactment (US$300,000). This sub-component includes: (a) support for FGS-led Revenue Bill12 consultation 
+process with the FMS; (b) support to selected FMS to implement the enacted revenue law, in addition to PSS and 
+Somaliland that are already in the project scope; and (c) analytical work on revenue assignment and unbundling 
+issues following the revenue bill consultation, and to help operationalization upon the enactment. In this regard, 
+this support will supplement the revenue related dialogue at the Inter-Governmental Fiscal Forum which is 
+receiving ongoing support from the RCRF Project. In doing so, the sub-component will build on findings and 
+recommendations of the analytical work that was produced by the parent project. Also, given the substantial 
+support at the FGS level by the AfDB, the World Bank’s Macroeconomics Trade and Investment (MTI) Global 
+Practice, and DFID, implementation of Component 1 will be coordinated particularly with these, and other 
+relevant key stakeholders. Finally, the project will consider development and implementation of the Medium-
+Term Revenue Strategy, likely in the beyond 24 months of effectiveness timeframe once the government-led 
+follow up of the revenue enactment becomes clear. 
+ 
+37. 
+Component 1 will support both the FGS (US$9,300,000) and PSS (US$3,000,000). The Government of PSS 
+will prepare an Annual Work Plan, in consultation with the FGS. The Annual Work Plan is expected to specify the 
+activities to be implemented in PSS in a given year, costings, deliverables, with clear targets and indicators that 
+directly contribute to the PDO. The planned activities for PSS will be appraised as part of the Annual Work Plan, 
+                                            
+ 
+12 The bill development is being supported by the IMF SMP. 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 66 
+ 
+which will be reviewed and approved by the Bank.  
+ 
+38. 
+Component 2: Strengthening Capacity for Public Financial Management Control and Accountability 
+(US$12,700,000). This component consolidates the support for PFM and integrity systems in Components 2 and 
+3 of the parent project into one component.  The consolidated Component 2focuses on: (i) the implementation 
+of critical treasury management, control, budget execution, public procurement and accounting and reporting 
+reforms; (ii) deepening reforms targeted at enhancing transparency and accountability in the use of public funds 
+through strengthening key integrity pillars including SAIs, external oversight capacities, internal control systems, 
+and the overall fiduciary environment; and (iii) expanding the reach of the government’s PFM staff 
+professionalization program. The consolidated Component 2 will have three sub-components, and these 
+components are described in broad terms to allow flexibility for activities to be undertaken under the original 
+and new envisaged activities. These components are as follows:  
+ 
+39. 
+Sub-component 2.1: Strengthening systems of treasury management, budget execution, procurement 
+accounting and financial reporting (US$6,550,000). This sub-component (incorporating parent project 
+Component 2) is expected to institute essential controls needed to promote fiscal discipline, transparency, and 
+accountability. At the FGS level, the additional resources will be used to ensure integrity of the SFMIS by 
+supporting the quality assurance of the SFMIS and throughout the system’s implementation and post-
+implementation phases, including Primary Data Center (PDC), and Disaster Recovery Center (DRC) that assure 
+the timely recovery of data in case of any mishap. The AF will also support sustainable management of the SFMIS 
+through targeted institutional capacity building programs. Such programs will support the recruitment of a PFM 
+expert to support the OAG throughout implementation of accounting policies and procedures. TA will also 
+support the implementation of government cash management policies. Besides this, the AF will finance a 
+sustainable, skills transfer focused capacity development plan to ensure sustainability of the SFMIS. Specific 
+training will include: (i) Windows Server Management Training (Phase 1) and (ii) completion of the Phase 2 
+training plan on Structured Query Language (SQL) Server Management.  
+ 
+40. 
+Given the importance of ensuring integrity of the FGS’s financial information, there is a need to support 
+SFMIS business continuity and disaster management plans, especially in the areas of information security 
+policy, strategies, and procedures (including functionality to support attachment of transactions supporting 
+documentation). There will also be need for independent quality assurance to affirm whether the business 
+processes are accurately mapped into the applications in line with specified user and business requirements, and 
+adherence to the system’s overall implementation and governance framework. Furthermore, to enhance 
+transparency and accountability, support will be provided to prepare unified reporting formats for use by the 
+FGS and FMSs for reporting on fiscal transfers. As part of the strengthening the comprehensiveness and all-
+inclusive nature of the budget to focus on the critical needs of citizens, the team will engage with the FGS and 
+participating FMS on the need for citizens involvement in the budgeting process and pilot the process when 
+modalities have been agreed and documented.  
+ 
+41. 
+In PSS, additional resources will provide hands-on TA support to the OAG in areas such as financial 
+reporting and expenditure management and control. Given the criticality of the Puntland Financial Management 
+Information System (PL-FMIS) to improved transparency, the AF will also support a systems audit to review 
+potential gaps and data integrity issues that could endanger sustainability of the solution. The AF will also support 
+capacity building activities targeted at improving expenditure management and control, including 
+implementation of government cash management policy.  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 66 
+ 
+42. 
+In Somaliland, the additional resources will be deployed to specifically support the Government to 
+undertake the following: (i) FM TA to the OAG focused on expenditure controls, cash management, accounting 
+and reporting; (ii) implementation of business process reengineering, including change management; (iii) 
+implementation of Somaliland Financial Management Information System (SL-FMIS) quality assurance, system 
+security, business continuity, and disaster recovery strategies; (iv) implementation of a cash management policy 
+and establishment of a Cash Management Unit (CMU) at the office of the AG, amongst others. To sustain 
+progressive rollout of the SL-FMIS, foster ownership, and ensure sustainability of the original IT infrastructure 
+provided by UN-Habitat, the AF will support a post-implementation assessment of the SL-FMIS infrastructure. 
+This will include configuration and installation of Citrix Servers and post-implementation technical support. In 
+addition, the AF will likewise support implementation of SL-FMIS system security, business continuity, and 
+disaster recovery strategies for Somaliland. The AF support will involve interim back-up option such as cloud 
+disaster recovery, and private network connection to facilitate easier access to the SL-FMIS servers. 
+ 
+43. 
+Important to note is that the CBS is currently managing Sub-component 2.5 of the parent project which 
+includes Financial Accounting Control and Transactional System (FACTS) and Automated Transfer System 
+(ATS+) with inbuilt: (i) real-time gross settlement (RTGS); and (ii) automated clearinghouse (ACH); and (iii) instant 
+funds transfer (IFT) functions. This sub-component was not considered as part of the PFM Reform Action Plan. 
+With this understanding, the scope of support under the AF will be limited to the completion of ongoing FACTS 
+activities. Subsequent support to the CBS for the implementation of balance of FACTS and ATS+ activities will be 
+financed through the ongoing Somali Core Economic Institutions and Opportunities Program (P152241). 
+ 
+44. 
+The sub-component also supports strengthening of public procurement. Specifically, it will provide 
+advisory support regarding concessions contracting, procurement processes and contract management. 
+ 
+45. 
+Lastly, the sub-component will introduce a new activity: Modernization of the Internal Audit function. 
+Internal Audit is an essential component of a well-functioning internal control system, and over time it is 
+expected to play an important role in evaluating the effectiveness of control systems within the Government’s 
+strategic operations. As part of the ongoing business process review, pre-audit of vouchers should be the direct 
+responsibility of the expenditure or payment section. Given the importance of Internal Audit, the AF will be 
+supporting the operationalization of internal audit functions across the three regions (FGS, PSS and Somaliland). 
+Initially, the Internal Audit function will be focused in undertaking risk-based systems audit, including projects 
+activities at the FGS and States level. 
+ 
+46. 
+Sub-component 2.2: Strengthening the integrity systems (US$4,050,000). This sub-component 
+(incorporating parent project Component 3) is expected to enable publication of timely and quality audit reports; 
+improvement in the percentage of expenditures represented by the Government entities audited as part of total 
+public expenditures; and better follow up by Parliament of audit recommendations. It supports institutional 
+strengthening of the Supreme Audit Institutions of the FGS and FMS. The AF will support delayed SAI 
+strengthening activities to fast track the audit of projects and Government-wide Annual Financial Statements 
+(AFS), while also building capacity of the SAIs as follows: 
+ 
+a) In FGS, with the support of the IDI, the SAI has developed its strategic plan, which seeks to lead it 
+to meet the INTOSAI requirements for SAIs; the AF will support some of the strategic goals in 
+collaboration with other participating partners. 
+  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 66 
+ 
+b) In PSS, the AF will support a review of the Audit Law number 15 of 2000—which is currently based 
+on the judicial system—to ensure alignment with INTOSAI and reflect the modern mandate, 
+structure, and roles of the SAI. This extant legal framework is needed to ensure sustainability of the 
+ongoing reforms discussed earlier. In addition, there is need to develop and implement capacity 
+building approaches to ensure sustainability beyond the project. This will include twinning 
+arrangements with more mature SAIs, on-the job training, access to peer learning, and experience 
+sharing. The project has also supported the OAuG to acquire audit management information system 
+and tools to facilitate its use of such technics to audit Ministries Departments and Agencies (MDAs) 
+financial statements prepared using the PLFMIS. As a result, the OAuG will be required to use these 
+systems to carry out its audits including centralized project audits.  
+ 
+c) In Somaliland, the scope of support to the OAuG has been limited to the following activities due 
+to the initial financing gap. Going forward, engagement with civil society organizations (CSOs) and 
+non-state actors will be valuable in deepening accountability of public resources to ensure that the 
+oversight roles of both the OAuG and the PAC are well anchored. The AF will therefore support the 
+development of a framework of engagement with CSOs, leveraging non-state actors to monitor the 
+quality of public expenditures and strengthening their impact in exercising public oversight. As in 
+the case of PSS, the AF will continue to support Somaliland SAI institutional strengthening activities 
+to fast-track the audit of projects and Government-wide AFSs across the three regions. 
+ 
+47. 
+Separately, the sub-component will introduce “Centralized project audit” to support the project’s 
+annual and interim audits, and will extend periodic performance monitoring across areas of limited/remote 
+access (including emerging States). These new activities are motivated by the lessons learned from the twinning 
+arrangement between the OAuG and audit firms providing TA in the audit of SMPF/Single-partner Fund (SPF)-
+funded projects. In implementing this activity of the sub-component, the relevant cost-benefit analyses will be 
+undertaken to evaluate the pros and cons of engaging individual practicing auditors compared to firms. The AF 
+will seek to formulate strategic linkages with regional Professional Association Organizations. In line with the 
+design of the original project, the AF will support establishment of a national Institute of Certified Public 
+Accountants of Somalia (ICPAS) and its membership to Pan Africa Federation of Accountants and International 
+Federation of Accountants. These activities were not undertaken initially because of the resource constraints. 
+Government officials working across key PFM institutions and registered as CIPFA students will be encouraged 
+to register under appropriate ICPAS membership classification. 
+ 
+48. 
+Sub-component 2.3: Professionalization of PFM staff (US$2,100,000). This sub-component (incorporating 
+parent project Component 4) provides support to expand the government’s professionalization of PFM staff 
+program. The AF will help train more cadres and work with the FGS and the FMS to ensure these qualified 
+candidates are posted to the right functions and grades in the civil service. The project will gather gender data 
+relating to this training to ensure a fair balance is accorded. This component will also explore the need to support 
+some of the outstanding candidates, who may want to further their education to gain a fuller professional 
+qualification. With limited funding, this will be carefully reviewed during implementation and a quality-based 
+criterion established prior to its introduction. The PFM Reform Coordination Unit (RCU) will coordinate activities 
+to assist the Association of Somali Professional Accountants (ASPA) to evolve as a Professional Accountancy 
+Organization. To achieve this, the AF will finance the development and implementation of an action plan to meet 
+the standards of the International Federation of Accountants as well as Statement of Membership Obligations. 
+The ASPA will be used as a platform for Continuing Professional Development of like-minded PFM professionals 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 66 
+ 
+and also for exercising oversight of its members.  
+ 
+49. 
+The PSS government has requested that the implementation of PFM staff professionalization activities 
+in PSS financed under the SMPF (TF0A0388) be managed directly by the PSS MoF. This request is supported by 
+the commitment of the PSS which is evidenced by the considerable number of qualifying CIPFA and International 
+Training Centre of the International Labor Organization graduates absorbed within the Puntland Civil Service 
+especially its PFM institutions, as well as the development of a PFM Academy within the PSU. This approach is 
+aligned with the WB’s Capacity Development Strategy that encourages the use of domestic institutions as a 
+sustainability strategy. The implementation of this sub-component therefore is aligned with the Capacity 
+Injection Project and its support to the establishment of the Puntland School of Public Administration. 
+ 
+50. 
+Component 3: Rapid Response Facility (US$2,000,000). This component replaces parent project 
+Component 6. The RRF will provide JIT support, responding to the authorities’ request for a flexible window 
+within the project to respond to emerging DRM and PFM priorities in a timely manner, without the need to 
+reallocate project proceeds or for project restructuring. Access to the RRF will be based on a set of transparent 
+criteria that align with the project objectives, and will be the decision of the Technical Steering Committee (TSC) 
+chaired by the FGS Minister of Finance. The RRF will support the three governments—FGS, PSS, and Somaliland 
+- and finance: (i) consultants; (ii) services; and (iii) consultations, workshop and focus-group discussions; and (iv) 
+training to the staff of the Project Implementation Unit (PIU) in environmental and social safeguards 
+management. The activities and expenditures funded through the RRF will be subject to the project’s 
+implementation arrangements and reporting requirements. 
+ 
+51. 
+For the FGS, the first activity to be funded by the RRF will be construction completion of the MoF 
+building estimated at US$1,400,000. Reestablishing a functional MoF building is a pre-requisite to strengthening 
+the Ministry’s capacity for DRM. The Bank will engage with Government to explore contracting options to finalize 
+the pending works activities for the MoF building, including contracting through a United Nations Agency.  
+ 
+52. 
+For Somaliland, the first activity to be funded by the RRF will be a needs assessment for development 
+and implementation of an integrated automation system, including user requirement specifications, ICT strategy, 
+financing for procuring necessary ICT equipment and infrastructure. The second activity will be an e-payment 
+system for inland revenue, providing a short term solution based on the existing money transfer system in 
+Somaliland, including ICT and geo-enabling technology.   
+ 
+53. 
+Component 4: Public financial management reform oversight, coordination and management 
+(US$3,000,000). This component incorporates parent project Component 5 and augments its financing to extend 
+project management and coordination support for the three governments—FGS, PSS, and Somaliland - in 
+accordance with the new activities and extended timeline.  
+ 
+III. KEY RISKS 
+ 
+54. 
+Overall Project Risk (High): Somalia remains a high-risk context for institution building and development 
+financing. The risks include political contestation among key political and economic partners (resulting in conflict) 
+and fiscal pressure on the budget from a wide array of needs across the country and recurring external shocks. 
+At the project level, risks include weak PFM Legal framework compounded by limited access to the client/projects 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 66 
+ 
+sites; a rudimentary and weakly regulated banking sector, and weak PFM institutional and human capital 
+capacities. The in-depth knowledge gained by the World Bank’s project team during the implementation of the 
+parent project over the last several years has led to the adoption of measures that contribute to mitigating the 
+high level of country and implementing entity risks, including close monitoring through the use of a Monitoring 
+Agent, enhanced implementation support and appropriate funds management arrangements, and are discussed 
+further below. The overall risk to the project achieving its objectives over the three years is judged to be high, 
+due to high political and governance, macroeconomic and fiduciary risks.  
+ 
+55. 
+Political and Governance (High): Risk of political instability remains high and could slow or derail reforms 
+over the course of the AF. The government’s reform trajectory remains positive, but is costly in terms of political 
+capital for the current administration. Improving governance, and tackling corruption, are key demands from 
+domestic and international partners, yet, the political space for reform is uncertain with domestic and regional 
+pressures on the Government. A key risk is that the reform trajectory is slowed down due to intra-governmental 
+and inter-governmental contestation around the assignment of authority in the ongoing constitutional review 
+process, among the federal government institutions and between FGS and the FMS.  In addition, political 
+economy risk will be heightened over the course of the project as consequential and high-level decisions will 
+occupy the client’s agenda. The constitutional review process, the AMISOM transition and security sector reform, 
+federal elections in 2020, and state-level elections each year towards and beyond 2020, as well as increased 
+regulatory activity on the federal level will impact on the emerging formal institutional framework, and the 
+informal networks currently providing space for reform.  
+ 
+56. 
+These risks are being managed through a range of World Bank engagements. The proposed AF for the 
+RCRF project, taking place alongside this project, is investing in inter-governmental institutional frameworks 
+aimed at providing a conducive environment for constructive inter-governmental relations. Furthermore, the 
+RCRF project supports inter-governmental transfers between the FGS and FMS which further support a 
+consolidation of the political compacts between the different levels of government, and provides additional 
+confidence-building features, such as inter-governmental transfers based on participation in inter-governmental 
+institutions, support to the IGFF, and TA to education and health service delivery through FMS. This project 
+reinforces the RCRF support for strengthening intergovernmental institutional framework, by collaborating 
+across DPs to ensure coordinated reform support on DRM, PFM and accountability institutions to all FMS as well 
+as FGS.  They will be further mitigated by leveraging policy dialogue and client engagement through support for 
+the Financial Governance Committee and other Bank-finance operations.  
+ 
+57. 
+Macroeconomic (High): The macro-economic risks remain high due to limited, yet increasing, ability of 
+the Government to react to external shocks to the nascent formal economy. Despite important and wide-spread 
+reforms, the Federal Government’s fiscal position remains weak due to the limited ability to generate domestic 
+revenues, the weight of security sector expenditures in the budget, and the pressure to increase fiscal transfers 
+to subnational units and FMS. Consequently, the authorities are at risk of structural over-reliance on external 
+grant-financing.  Somalia’s growth prospects are also dependent on external remittances, and on export 
+revenues from only a few commodities (mainly livestock) which make them vulnerable for example to disease or 
+trade bans. Furthermore, the introduction of the new currency set for 2019 will create further challenges to 
+sustaining macroeconomic stability.  The key mitigation of macro-fiscal risk is the ongoing work - jointly with 
+other development partners, including the IMF - to support increased DRM, including through this AF. The 
+proposed EU budget support operation will further provide fiscal space to mitigate against shocks and provide a 
+more predictable fiscal basis over the coming years. The World Bank is also supporting the modernizing of the 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 66 
+ 
+Central Bank of Somalia banking operations and financial control environment, which is expected to contribute 
+to a more robust framework for financial flows 
+ 
+58. 
+Technical Design of Project or Program Risk (Substantial): The technical design of the project is straight 
+forward and has been streamlined to reduce the number of components from the parent projects’ six (6) to four 
+(4). However, the AF will continue to support multiple PFM institutions and departments across FGS, PSS and SL. 
+Implementation of financial management information systems (FMIS) are generally difficult with challenging 
+implementation modalities. Technical Design or Project Risk is therefore still rated as Substantial and will 
+continue to be mitigated through strong coordination among the participating PFM institutions, as well as the 
+oversight arrangements to support close supervision of activities, comprehensive monitoring and reporting and 
+the constant engagement of the World Bank’s team with the client.  
+ 
+59. 
+Institutional Capacity for the Implementation and Sustainability (Substantial): The RCU within MoF will 
+continue to be central for coordinating the AF, with clearly aligned responsibilities and procedures. The scaling 
+up is expected to result in enhanced resources at the RCU, including one DRM reforms officer and a procurement 
+officer. These additional resources will support the Coordinator given the scaled-up DRM scope of the project. 
+The institutional capacity risk is assessed as Substantial because it includes some potential sensitive reform 
+agenda that changes the way business is done across government. To mitigate this risk, the project will 
+strengthen further collaboration through increased monitoring of the quality and timeliness of the Technical 
+Steering Committee (TSC) and Reform Oversight Committee (ROC) mandated activities– both of which are central 
+elements of the projects governance arrangement. These efforts are expected to ensure the sustainability of 
+reform outcomes. Substantial training and on-the-job capacity building activities especially at the CIT level, which 
+are currently budgeted for within the existing project and the AF, including workshops and training activities, will 
+be undertaken. Furthermore, the new actors involved with the AF activities have been briefed on accelerated 
+protocol procedures and teamed up with existing players within the project to deliver the desired objectives. 
+ 
+60. 
+The project will leverage lessons learned from the implementation of Phases I and II of the PFMCSP, 
+client feedback at the mid-term review (MTR) for the Governance troika, and associated analytical work. To 
+this end, a two-pronged conflict sensitive approach is based on lessons from Fragile, Conflict and Violence (FCV) 
+situations. Such an approach comprises of the: multi-tracked implementation; and reallocation flexibility across 
+components. The multi-track approach envisages simultaneous implementation of short term (3-12 months), 
+medium term (12- 24 months) and long term (beyond 24 months) reforms, to ensure that the short-term results 
+are aligned, and contribute to the long term institutional development vision. In doing so, the short-term support 
+will target government-led reforms based on the existing legal environment. The medium-term support will 
+target enhancing preparation readiness for the enactment of the revenue bill as well as related PFM reforms. 
+The long-term support will target bridging gaps to help operationalize such laws upon enactment. The flexibility 
+to reallocate across components enables reallocation of resources from slow moving activities to fast moving 
+activities, without recourse to reallocate project proceeds or project restructuring as the case may be. Such 
+flexibility is imperative, in view of the project evolving implementation environment on the request of the 
+authorities. This flexible design is expected to enable the project to adapt to a rapidly changing national context 
+and evolving priorities within the project scope.  
+ 
+61. 
+Fiduciary (High): The fiduciary risk rating for the existing operation is rated substantial. The AF’s Fiduciary 
+risk rating is assessed as High, largely due to the Country and Implementing entities’ weak PFM and DRM Legal 
+framework and risks related to civil works, including financing for the completion of the MoF building, limited 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 66 
+ 
+access to the client/projects sites, rudimentary unregulated banking sector, weak PFM and DRM institutional and 
+human capital capacities. Appropriate risk mitigation measures including periodic extended implementation 
+support activities complemented by close monitoring will be undertaken in addition to providing “on the ground” 
+PFM/fiduciary capacity support to the country PFM oversight institutions as well as the project as a whole. The 
+World Bank and mandated Government PFM institutions will continuously monitor the banking and funds flow 
+processes and take appropriate actions to strengthen the funds flow, disbursement and banking controls and 
+mitigate highlighted risks  The layered approach to risk, which has functioned well for increasing levels of 
+disbursements since 2014, will be continued--the World Bank will continue to: maximize disbursements under 
+the project directly to vendors, minimizing Designated Account (DA) balances; intensify FM monitoring through 
+reconciliation of project and bank accounts and deployment of a monitoring agent in-country; and support 
+capacity building of the country PFM oversight institutions including the OAG and OAuG.   
+ 
+62. 
+Stakeholders Risks (Substantial): Public Sector Reforms, especially in the areas related to DRM and PFM, 
+involve changes that will affect the interests of different stakeholders and likely to have “winners and losers”. In 
+situations where the interests of respective parties are incompatible, or where other stakeholders cannot or will 
+not accept a common position, this can undermine reform objectives. Some of these risks can be mitigated by 
+investing in a prior understanding of the power dynamics, interests and influences among different stakeholders 
+which in turn can help the reformers to navigate and reconcile varying positions that may otherwise impact on 
+the project. Broad consensus for the reforms will also ensure durability, noting that all stakeholders are important 
+but different stakeholders must be managed differently. Key constituencies such as parliamentarians, the media, 
+CSOs, Think-Tanks and academia will continue to be meaningfully engaged to play their role in minimizing these 
+risks. 
+ 
+63. 
+Other Risk (High): Additional context-specific risks not captured in the other categories include insecurity 
+related risks. Insecurity poses a risk to human security (WB staff and client), project implementation and its 
+sustainability. It can create limitations on access to the operating environment, which in turn poses additional 
+project risks, creating challenges for project implementation and monitoring. Insecurity can further discourage 
+vendors from accepting assignments under the project and slow down the pace of reforms. Security costs can 
+also significantly increase the overall cost of the project implementation and related reforms. As part of the risk 
+mitigation approach, the World Bank team operates in close consultation and guidance provided by WBG 
+Corporate Security and United Nation Department of Safety and Security, which includes on the ground security 
+support. In addition, the World Bank has contracted with security firms in all areas where the project – and wider 
+World Bank portfolio – is active to help manage the day to day missions of World Bank staff in Somalia. 
+ 
+IV. APPRAISAL SUMMARY 
+ 
+A. Economic and Financial Analysis 
+ 
+64. 
+The AF Component 1 is expected to contribute to increase in inland revenues in Somalia. More than 25 
+years of civil conflict destroyed Somalia’s tax administration system. Governments failed to provide public 
+services, and companies and individuals failed to pay taxes. Improvement in inland revenue (individual and 
+corporate income tax) generation offers a promising source of home-grown development finance, to contribute 
+toward fiscal sustainability and funding for service delivery. In the short term, enabled by creation of a LTO, 
+evidence-based policy, administrative and voluntary compliance efforts supported by the project, government-
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 66 
+ 
+led reforms are expected to increase inland revenues from US$2 million (2015) to about US$30 million (2019).13 
+Similarly, in the medium term, enabled by the automation of the core business processes, harmonization, and 
+taxpayer education and facilitation supported by the project, is expected to increase the inland revenues further 
+to about US$170 million (2022). During implementation, drawing on the progress that is made in inland revenue 
+collection and improved economic data that is expected to become available, the World Bank will update the 
+economic and financial analysis which will inform the assessment of the scope and opportunities to further 
+narrow the tax gap.  
+ 
+65. 
+The AF Component 2 is expected to contribute to enhanced expenditure management and 
+accountability. These enhancements in the PFM system are in turn important enablers of fiscal sustainability, 
+and greater efficiency and effectiveness of public spending and government operations. A key focus of the project 
+is to support the strengthening of expenditure controls, reporting and oversight, which are fundamental to sound 
+PFM. For example, the largest beneficiary from the AF will be the offices of the Accountant General (AG)at the 
+FGS, PSS and Somaliland, which are to receive US$6 million.  The treasury management function is strategic in 
+strengthening the controls needed to ensure greater fiscal discipline and minimize the accumulation of arrears. 
+The move from a manual payroll to a computerized payroll that ensures consistency between the nominal roll 
+under the control of the Civil Service Commission and the calculated payroll under the control of the OAG will 
+reduce the fiscal burden arising from ghost workers. Similarly, the operationalization of TSA will reduce potential 
+cost of borrowing in the long run. The strengthening of the integrity pillar and the planned conduct of audit over 
+75 percent of MDAs over the life of the project will ensure effective scrutiny over significant portion of the 
+government’s recurrent budget, which in 2017 amounted to US$179 million. Likewise, the support to the SAI 
+aligns with the post 2015 development agenda and also helps the better use of resources through improvements 
+in the quality of expenditures - all of which provide a critical pathway to increasing the reach of available 
+development financing for Somalia with the added potential of ensuring better public service delivery results, 
+especially in critical sectors as education, health care, water and sanitation amongst others. 
+ 
+66. 
+The WBG is the lead partner to Somalia in its DRM and PFM reforms. The World Bank has strong technical 
+expertise and a good record of results in DRM and PFM institutional development in the fragile and conflict 
+affected situations, and no other development partner is providing support for inland revenue or the PFM 
+institutions in these three governments. The World Bank’s global knowledge will facilitate direct, indirect, and 
+induced benefits that will be well beyond the total investment made into the project. The economic and financial 
+benefits financed under the AF remains the same as for the ongoing and completed activities. On DRM, the AF 
+will have a strong economic rationale due to the rather limited cost of the interventions and the strong potential 
+economic benefits even with conservative estimates of benefits without project.  
+ 
+67. 
+Rationale for public sector financing. Somalia has achieved significant progress in laying the foundations 
+for stability, rebuilding state capacity and institutions, improving security, and rehabilitating physical 
+infrastructure. However, these economic, political and institutional gains must have tangible benefits for people 
+if the country’s transition is to hold. The project design aims to strengthen core institutions and resource 
+management systems that are required to improve public sector efficiency, value for money, and improved 
+management of overall fiscal risks. These are core government reforms that are not characterized as bankable 
+                                            
+ 
+13 The World Bank Group (2017), Federal Republic of Somalia, Somalia Economic Update, Mobilization Domestic Revenue to 
+Rebuild Somalia. 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 66 
+ 
+commercial projects and hence private sector financing is not suitable. Therefore, to provide such support there 
+is no alternative to public sector financing for strengthening core institutions and building the capacity of 
+government agencies to undertake PFM, resource mobilization reforms, and management of public resources to 
+deliver basic services. 
+ 
+B. Technical 
+ 
+68. 
+The design of the AF is simplified, more focused, consolidated and more flexible, building on lessons 
+from the parent project, aiming for better outcomes. To this end, the design has been simplified into three 
+substantive components (in addition to reform oversight, coordination and management), namely an enhanced 
+focus on revenue to generate inland revenues; a PFM and integrity component consolidated to enhance impact; 
+and a JIT component redesigned into an innovative RRF. Also, this design takes on board the lessons-learned 
+during the implementation of the ISN and the need to adopt a flexible approach to implementation. It also 
+addresses more directly the reality of an incremental and non-linear reform trajectory in which ‘learning-by-
+doing’ in a problem-solving iterative manner, with appropriate controls, is a more sustainable approach. 
+Furthermore, multi-track and balanced implementation between simultaneous short, medium, and long-term 
+reform strategies ensure that short-term results are aligned with the medium to longer term institutional 
+development vision. The rationale of the technical design is also based on the following considerations: 
+ 
+a) Value added: A key added value from the World Bank involvement in this project is its application 
+of technical expertise in an innovative manner to use country systems as an inroad for strategic 
+dialogue on PFM and DRM reforms. Also, hand-holding the project team through capacity building 
+during design and implementation has proven to be an invaluable strategy. The parent project was 
+catalytic in laying a foundation for longer-term PFM and DRM reforms in Somalia since effectiveness 
+in 2015. Finally, the World Bank is ideally placed to use its convening power to crowd-in funds from 
+both IDA and through the SMPF for this project to scale up the original activities for the FGS and 
+extend support to PSS and Somaliland, while coordinating with other actors operational in southern 
+Somalia. 
+b) Opportunity: Following a decade of intense conflict during the 1990’s, Somalia has in recent years 
+experienced a series of encouraging transitions, laying the foundations for a stable political 
+settlement. A security transition, facilitated by the ousting of Al Shabab from key urban areas 
+including the capital Mogadishu, opened up political space. Secondly, the 2011 agreement to adopt 
+a federal system enshrined in the 2011 Provisional Constitution opened the way for two electoral 
+processes that generated momentum and support for the FGS. Thirdly, wide-ranging institutional 
+reforms have improved public finances and the regulation of the economy helping to address the 
+inequities favored by entrenched vested interests. As a result, many analysts claim the country is 
+experiencing a unique opportunity to escape from protracted political crisis.  
+c) Strengthened approach: Building on a doubling of federal revenues in the last four years, the World 
+Bank will add value by introducing substantial new TA for DRM and PFM reforms. Increasing fiscal 
+space - to avoid dependence and to finance essential services - is a key to overcoming the fragility 
+trap and a key objective of the project as well as the CPF. The AF will invest in tax policy and 
+administration (including systems automation) and tax payer education. In so doing, it will build 
+upon the systems experience and expertise developed in the MoF on the successful development 
+and implementation of SFMIS.  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 66 
+ 
+d) Client demand: The project’s design reflects the request of FGS, PSS and Somaliland, which targets 
+the following outcomes: (i) increase in DRM; and (ii) accountability in the use of public funds through 
+enhanced institutional strengthening.  
+ 
+e) Flexibility: Global experience from FCV countries indicates that flexibility to make timely 
+adjustments to project activities enables smoother implementation and better results. The AF is 
+designed to enable flexible responses to relevant government initiatives, as these develop and 
+evolve over time. This flexibility would include mobilizing JIT TA within the scope of the project 
+components and PDO, changing the sequence of activities, and reallocating funds from slow-moving 
+activities to fast-moving ones in line with reform momentum without recourse to reallocation of 
+project proceeds or project restructuring as the case may be. 
+ 
+C. Financial Management 
+ 
+69. 
+The FM risk rating of the AF is assessed as High. In Somalia, the lack of a unified PFM architecture is 
+compounded by constraints recognizable in FCV countries, including limited access to the client, which continues 
+to present challenges in provision of effective implementation support. The FM function has the dual role of: (i) 
+providing assurance that project resources are used for the intended purposes with due consideration to the 
+principles of economy, efficiency, effectiveness, transparency and accountability; and (ii) development of 
+institutional PFM capacities. The FM capacity challenges that are likely to affect the project continue to exist. 
+These include an inadequate legal framework and DRM and PFM competencies, risk of circumventing internal 
+controls, over reliance on consultants, and absence of a solid local banking system for flow of funds. Exceptional 
+funds flow and banking arrangements have been operational since the effectiveness of the current operation in 
+July 2015 with no identified ineligible expenditures or leakage of funds under the project. Various risk mitigation 
+measures and FM and funds flow arrangements will be further integrated into the AF’s design and fully aligned 
+to the country’s PFM systems to further deepen the use of country systems. The AF’s FM arrangements are 
+designed to facilitate and promote sustainable development PFM capacities across key government institutions.  
+ 
+70. 
+The offices of the Accountant Generals and Offices of the Auditor General for the FGS, Puntland, and 
+Somaliland will be central counterparts in the management and oversight of FM arrangements and the 
+implementation of risk mitigation measures. In line with SMART fiduciary principles, FM arrangements for the 
+project are centralized and managed by special units, the External Assistance Fiduciary Section (EAFS), headed 
+by the EAFS Director and reporting to the AG at FGS, PSS, and Somaliland. The EAFS units are designed to ensure 
+harmonization, donor coordination, reduction in duplication, fragmentation, and proliferation of donor-specific 
+FM units. To foster sustainability, the EAFS units are staffed with mainstream civil servants supported by targeted 
+TA with clear Terms of Reference outlining measures to promote knowledge transfer and an exit strategy. 
+Additional in-built sustainability arrangement for the PFM staff professionalization will be annexed as part of the 
+EAFS units civil service scheme of service for the PFM job family to create a cohort of competent PFM 
+practitioners in government. The PFM Education and Training program continue to gradually build critical mass 
+of PFM professionals with a good mix of skills to perform a broad range of PFM tasks. Like other projects 
+implemented through country systems, the EAFS using the FMIS will prepare and publish project financial reports 
+as part of government-wide fiscal performance reports. Meanwhile, the various Offices of Auditor General, with 
+support of a qualified and registered practicing audit TA firm, are responsible for project audits. Given the high 
+risks, special reference and attention will be made to International Standards on Auditing (800): Auditor’s Report 
+on Special Purpose Audit Engagements. The World Bank will engage with Government to explore contracting 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 66 
+ 
+options to finalize the pending works activities for the MoF building, including contracting through a United 
+Nations Agency.  
+ 
+D. Procurement 
+ 
+71. 
+Procurement under the AF will be carried out in accordance with the requirements in the Procurement 
+Regulations for Borrowers under IPF: Goods, Works, Non-Consulting Services and Consulting Services dated July 
+1, 2016 (revised November 2017 and August 2018); “Guidelines on Preventing and Combating Fraud and 
+Corruption in Projects Financed by International Bank for Reconstruction and Development (IBRD) Loans and IDA 
+Credits and Grants (revised as of July 1, 2016)”; and provisions stipulated in the Financing Agreement. Somalia 
+being a FCV country, Procurement under the projects will be processed under special procurement arrangements 
+referred to in Paragraph 12 of the World Bank Policy IPF dated November 10, 2017. 
+ 
+72. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP): As per the 
+requirement of the Regulations, the Recipient has developed a PPSD, based on which the PP for the first 18 
+months has also been prepared. The PP sets out the selection methods to be followed by the Recipient during 
+project implementation in the procurement of goods, works, non-consulting services. The PP will be updated at 
+least every 12 months, or as required, to reflect the actual project implementation needs, but each update shall 
+require WBG approval. All PPs will be publicly disclosed in accordance with the WBG disclosure policy. 
+ 
+73. 
+Systematic Tracking of Exchanges in Procurement (STEP): The WBG’s STEP system will be used to 
+prepare, clear, and update PPs and conduct all procurement transactions for the project. Staff of the PIUs have 
+already been trained in using STEP. 
+ 
+74. 
+The overall procurement assessment risk is Substantial. 
+ 
+E. 
+Social (including Safeguards) 
+ 
+75. 
+The AF does not trigger any social safeguards policies. The Social impacts of the project are expected to 
+be positive, as it will improve the DRM capacity of the government; ensure timely financial reporting; strengthen 
+the PFM capability to increase the timely disclosure of overall government revenue collections, improve the link 
+between procurement and budget, and henceforth improve procurement efficiency, all leading to greater 
+accountability. 
+ 
+F. 
+Environment (including Safeguards) 
+ 
+76. 
+The environmental category of this project is “B”, with OP 4.01 Environmental Assessment applicable, 
+due to the construction completion (Phase 2) of the MoF building in Mogadishu, as referenced in Component 
+3. The negative impacts of this construction are expected to be site-specific, reversible and can be readily 
+mitigated.  Phase 1 funding, previously provided by the Swedish International Development Cooperation Agency 
+(Sida) outside the scope of this project, provided for demolition of the previous MoF building on the same 
+footprint as well as construction of the structural base and frame of the new building. Impacts are known, as the 
+building is currently under construction, and include the following: (i) risk to construction workers, including risks 
+of falls; (ii) risk to adjacent properties and their inhabitants; (iii) risks associated with construction debris 
+management, including removal and disposal; (iv) construction-related noise, air pollution, and traffic; and (v) 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 66 
+ 
+increased demand for water and wastewater services, both during construction and operation. Phase 2 of the 
+construction will be completed by an engineering firm with both worker health and safety and environmental 
+management covenants consistent with World Bank safeguard standards. 
+ 
+77. 
+Climate change and disaster screening has been conducted for this AF. Although the Somalia country 
+profile is highly susceptible both to near-term climate-induced disasters as well as long-term climate change 
+impacts, this project does not have any activities with exposure to climate risks, not does it have any activities 
+which mitigate climate risks. 
+ 
+78. 
+Safeguards requirements have been deferred, as provided for under Paragraph 12(a) of the IPF World 
+Bank Policy, as the project being prepared under condensed procedures. A Terms of Reference for an 
+Environmental Audit of Phase 1 and an Environmental Management Plan (EMP) for Phase 2 has been prepared 
+during project appraisal. The Phase 2 EMP, to include and build upon the Phase 1 Audit, will be prepared, 
+reviewed, cleared, and disclosed both in the World Bank external website as well as in-country prior to 
+disbursement of funds related to construction completion. The EMP will provide provisions for supervision of 
+and reporting on construction contractor compliance with World Bank environmental and social safeguards 
+policies.  Other than construction completion of the MoF building, there are currently no other identified 
+environmental impacts associated with the DRM & PFM AF.  If the RRF proceeds to finance another activity where 
+environmental and/or social safeguards policies are applicable, relevant safeguards documentation specific to 
+that activity must be prepared, disclosed, and implemented. 
+ 
+V. WORLD BANK GROUP GRIEVANCE REDRESS 
+ 
+79. 
+Communities and individuals who believe that they are adversely affected by a WBG supported project 
+may submit complaints to existing project-level grievance redress mechanisms or the WB’s Grievance Redress 
+Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-
+related concerns. Project affected communities and individuals may submit their complaint to the WB’s 
+independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-
+compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been 
+brought directly to the WBG’s attention, and Management has been given an opportunity to respond.  For 
+information on how to submit complaints to the WBG’s corporate Grievance Redress Service (GRS), please visit 
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. 
+For 
+information on how to submit complaints to the WBG Inspection Panel, please visit www.inspectionpanel.org 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 66 
+ 
+      
+ 
+VI. SUMMARY TABLE OF CHANGES 
+ 
+ 
+Changed 
+Not Changed 
+Project's Development Objectives 
+  ✔ 
+   
+Results Framework 
+  ✔ 
+   
+Components and Cost 
+  ✔ 
+   
+Loan Closing Date(s) 
+  ✔ 
+   
+Reallocation between Disbursement Categories 
+  ✔ 
+   
+EA category 
+  ✔ 
+   
+Procurement 
+  ✔ 
+   
+Implementing Agency 
+     
+✔ 
+Cancellations Proposed 
+     
+✔ 
+Disbursements Arrangements 
+     
+✔ 
+Safeguard Policies Triggered 
+     
+✔ 
+Legal Covenants 
+     
+✔ 
+Institutional Arrangements 
+     
+✔ 
+Financial Management 
+     
+✔ 
+APA Reliance 
+     
+✔ 
+Other Change(s) 
+     
+✔ 
+ 
+ 
+VII. DETAILED CHANGE(S) 
+  
+PROJECT DEVELOPMENT OBJECTIVE 
+Current PDO 
+The Project Development Objective is to establish and strengthen institutional capacity for the management of 
+public funds inCentral Finance Agencies and targeted sectors. 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 33 of 66 
+ 
+Proposed New PDO 
+To strengthen systems of domestic revenue mobilization, expenditure control and accountability in the Federal 
+Government, Puntland State of Somalia, and Somaliland. 
+ 
+  
+COMPONENTS 
+Current Component Name 
+Current Cost 
+(US$, millions) 
+Action 
+Proposed Component 
+Name 
+Proposed Cost (US$, 
+millions) 
+Component 1: Revenue 
+mobilization, planning and 
+budget preparation 
+2.75 Marked for 
+Deletion 
+ 
+0.00 
+Component 2: Treasury 
+management, budget 
+execution, procurement, 
+accounting and financial 
+reporting 
+9.88 Marked for 
+Deletion 
+ 
+0.00 
+Component 3: 
+Strengthening the integrity 
+pillars 
+1.95 Marked for 
+Deletion 
+ 
+0.00 
+Component 4: Public 
+financial management 
+professionalization 
+1.00 Marked for 
+Deletion 
+ 
+0.00 
+Component 5: Public 
+financial management 
+reform oversight, 
+coordination and 
+management 
+2.93 Revised 
+Component 4: Public 
+financial management 
+reform oversight, 
+coordination and 
+management 
+3.00 
+Component 6:  Demand-
+driven Just-in-Time support 
+(JIT) (Bank Executed) 
+1.00 Marked for 
+Deletion 
+ 
+0.00 
+Unallocated 
+0.50 Marked for 
+Deletion 
+ 
+0.00 
+ 
+0.00 New 
+Component 1:   
+Strengthening Tax Policy 
+and Inland Revenue 
+Administration Systems 
+12.30 
+ 
+0.00 New 
+Component 2: 
+Strengthening Capacity 
+for Public Financial 
+Management Control 
+and Accountability 
+12.70 
+ 
+0.00 New 
+Component 3: Rapid 
+Response Facility 
+2.00 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 34 of 66 
+ 
+TOTAL 
+  20.01  
+ 
+  30.00 
+ 
+ 
+LOAN CLOSING DATE(S) 
+Ln/Cr/Tf 
+Status 
+Original Closing 
+ 
+Current 
+Closing(s)  
+ 
+Proposed  
+Closing  
+ 
+Proposed Deadline 
+for Withdrawal 
+Applications 
+TF-A0388 
+Effective 
+30-Jun-2018 
+30-Jun-2020 
+30-Jun-2022 
+30-Oct-2022 
+TF-A0389 
+Effective 
+30-Jun-2018 
+30-Jun-2020 
+30-Jun-2022 
+30-Oct-2022 
+   
+REALLOCATION BETWEEN DISBURSEMENT CATEGORIES 
+Current Allocation 
+Actuals + Committed 
+Proposed Allocation 
+Financing % 
+(Type Total) 
+ 
+ 
+ 
+Current 
+Proposed 
+ REALLOCATION NEW 
+ 
+TF-A0388-001    |    Currency: USD 
+ 
+iLap Category Sequence No: 1 
+Current Expenditure Category: Gds,Wks,NonCS,CS,Trg&OCPts1A-5A 
+10,000,000.00 
+9,368,249.13 
+10,000,000.00 
+100.00 
+100.00 
+ 
+iLap Category Sequence No: 2 
+Current Expenditure Category: Gds,Wks,NonCS,CS,Trg&OCPts1B-5B 
+6,000,000.00 
+3,208,524.10 
+6,000,000.00 
+100.00 
+100.00 
+ 
+Total 
+16,000,000.00
+12,576,773.23 
+16,000,000.00 
+ 
+ 
+ 
+TF-A0389-001    |    Currency: USD 
+ 
+iLap Category Sequence No: 1 
+Current Expenditure Category: Gds(incl vehcl),NonCS,CS,Trg&OC 
+4,000,000.00 
+1,638,387.04 
+4,000,000.00 
+100.00 
+100.00 
+Total 
+4,000,000.00
+1,638,387.04 
+4,000,000.00 
+ 
+ 
+ 
+ Expected Disbursements (in US$) 
+ DISBURSTBL 
+Fiscal Year 
+Annual 
+Cumulative 
+2016 
+1,030,040.00 
+1,030,040.00 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 35 of 66 
+ 
+2017 
+2,550,180.00 
+3,580,220.00 
+2018 
+3,983,380.00 
+7,563,600.00 
+2019 
+8,136,400.00 
+15,700,000.00 
+2020 
+7,000,000.00 
+22,700,000.00 
+2021 
+8,000,000.00 
+30,700,000.00 
+2022 
+10,000,000.00 
+40,700,000.00 
+2023 
+9,300,000.00 
+50,000,000.00 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+Risk Category 
+Latest ISR Rating 
+Current Rating 
+ 
+Political and Governance 
+z Substantial 
+z High 
+ 
+Macroeconomic 
+z High 
+z High 
+ 
+Sector Strategies and Policies 
+z Moderate 
+z Moderate 
+ 
+Technical Design of Project or Program 
+z Substantial 
+z Substantial 
+ 
+Institutional Capacity for Implementation and 
+Sustainability 
+z Substantial 
+z Substantial 
+ 
+Fiduciary 
+z Substantial 
+z High 
+ 
+Environment and Social 
+z Low 
+z Moderate 
+ 
+Stakeholders 
+z Substantial 
+z Substantial 
+ 
+Other 
+z High 
+z High 
+ 
+Overall 
+z Substantial 
+z High 
+ 
+  
+Environmental Assessment (EA) Category 
+ 
+Change of EA Category 
+Original EA Category 
+Yes 
+Not Required (C) 
+Current EA Category 
+Proposed EA Category 
+Not Required (C) 
+Partial Assessment (B) 
+  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 36 of 66 
+ 
+LEGAL COVENANTS2 
+LEGAL COVENANTS – Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening 
+Project (P166206) 
+Sections and Description 
+ 
+ 
+Schedule 2 Section I Part D.1: The Recipient shall, not later than December 31 of each year prepare and furnish to 
+the Association, a consolidated annual program of activities proposed for implementation under the Project during 
+the following Fiscal Year, together with a proposed budget for the purpose. 
+ 
+Schedule 2 Section I Part D.2: The Recipient shall, in respect of Part 1.B.5 of Project cause the Puntland State of 
+Somalia to submit the identified priority activities for implementation during the following Fiscal Year as part of the 
+annual work program. 
+ 
+Schedule 2 Section I Part E.1(a): The Recipient shall prepare, in accordance with terms of reference acceptable to 
+the Association, an Environmental Management Plan, including an Environmental Audit. 
+ 
+Schedule 2 Section I Part E.1(b): The Recipient shall adopt the Environmental Management Plan (EMP) 
+Environmental Audit (EA) as shall have been approved by the Association and publish said EMP and EA, in a manner 
+acceptable to the Association. 
+ 
+Schedule 2 Section I.C.1: The Recipient shall not later than thirty (30) days after the Signature Date, update the 
+Project Implementation Manual, in form and substance satisfactory to the World Bank, and thereafter. 
+ 
+Schedule 2 Section I B1: The Recipient shall: not later than thirty (30) days after the Signature Date, update the 
+Project Implementation Manual, in form and substance satisfactory to the World Bank. 
+ 
+ 
+ 
+Conditions 
+ 
+Type 
+Description 
+Effectiveness 
+The SMPF Grant Agreement has been executed and delivered and all conditions 
+precedent to its effectiveness or to the right of the Recipient to make 
+withdrawals under it (other than the effectiveness of this Agreement) have been 
+fulfilled (FA with FRS Article V, 5.01, (a). 
+ 
+Type 
+Description 
+Effectiveness 
+The Subsidiary Agreement has been executed and delivered on behalf of the 
+Recipient and Puntland State of Somalia, and said Subsidiary Agreement is legally 
+binding upon the Recipient and Puntland State of Somalia, in accordance with its 
+terms (FA with FRS Article V, 5.01, (b). 
+ 
+Type 
+Description 
+Disbursement 
+No withdrawal shall be made for payments for works in respect of construction 
+of the second phase of the Federal Ministry of Finance headquarters building 
+under Category (3) set forth in the table under Section IV.1. of this Schedule, 
+unless the Recipient has prepared, adopted and disclosed the Environmental 
+Management Plan and the Environmental Audit, in form and substance 
+satisfactory to the Association (FA with FRS Schedule 2, Section III,B,(b)). 
+ 
+Type 
+Description 
+Disbursement 
+No withdrawal shall be made for payments under Categories (1), (2) and (3) in 
+respect of any Rapid Response Facility activity under Parts 3.A.1, 3.A.2 and 3.B.1 
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) – 
+Additional Financing 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 37 of 66 
+ 
+of the Project, unless the Recipient has, in form and substance satisfactory to the 
+Association, met the respective criteria established in the Project 
+Implementation Manual (FA with FRS Schedule 2, Section III,B,( c); and SMPF 
+Grant Agreement with FRS Schedule 2, Section IV,B,1, (b). 
+ 
+Type 
+Description 
+Effectiveness 
+The Financing Agreement has been executed and delivered and all conditions 
+precedent to its effectiveness or to the right of the Recipient to make 
+withdrawals under it (other than the effectiveness of this Agreement) have been 
+fulfilled (SMPF Grant Agreement with FRS Article V, 5.01,(a)). 
+ 
+Type 
+Description 
+Effectiveness 
+The Subsidiary Agreement has been executed and delivered on behalf of the 
+Recipient and Puntland State of Somalia, and said Subsidiary Agreement is legally 
+binding upon the Recipient and Puntland State of Somalia, in accordance with its 
+terms (SMPF Grant Agreement with FRS Article V, 5.01,(b)). 
+ 
+Type 
+Description 
+Disbursement 
+Payments under Category (2) in respect of any Rapid Response Faility activity 
+under Part 3 of the Project, unless the Recipient has, in form and substance 
+satisfactory to the World Bank, met the respective criteria established in the 
+Project Implementation Manual (SMPF Grant Agreement with Somaliland 
+Schedule 2, Section IV, B, 1, (b)). 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project (P166206) 
+ 
+ 
+ 
+ 
+Page 38 of 66 
+VIII. RESULTS FRAMEWORK AND MONITORING 
+ 
+      
+ 
+Results Framework 
+COUNTRY: Somalia  
+Domestic Revenue Mobilization and Public Financial Management Capacity Strengthening Project 
+Project Development Objective(s) 
+ 
+T

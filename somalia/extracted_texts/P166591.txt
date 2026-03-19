@@ -1,0 +1,2903 @@
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD2964  
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT PAPER 
+ON A 
+PROPOSED ADDITIONAL GRANT 
+FROM THE SOMALIA MULTI PARTNER TRUST FUND 
+ 
+IN THE AMOUNT OF US$3 MILLION 
+ 
+TO THE  
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+SOMALI URBAN INVESTMENT PLANNING PROJECT ADDITIONAL FINANCING  
+ 
+November 27, 2018 
+ 
+ 
+ 
+ 
+Social, Urban, Rural And Resilience Global Practice 
+Africa Region 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective October 31, 2018) 
+ 
+Currency Unit  =   Somali Shiling 
+SSH 580 = US$1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez Ghanem 
+Country Director: Bella Bird 
+Senior Global Practice Director: Ede Jorge Ijjasz-Vasquez 
+Practice Manager: Meskerem Brhane 
+Task Team Leaders: Makiko Watanabe, Zishan Karim 
+ 
+ABBREVIATIONS AND ACRONYMS 
+AFS 
+ARAP 
+BRA 
+COPM 
+CPF 
+Annual Financial Statements 
+Abbreviated Resettlement Action Plan 
+Benadir Regional Administration 
+Comprehensive Operating Procedure Manual 
+Country Partnership Framework 
+DA 
+Designated Account 
+EAFS 
+E&S 
+External Assistance Fiduciary Section 
+Environment and Social 
+ESIA 
+Environment and Social Impact Assessment 
+ESMF 
+Environmental and Social Management Framework 
+ESMP 
+Environment and Social Management Plan 
+FCV 
+FGS 
+Fragility, Conflict, and Violence 
+Federal Government of Somalia 
+FM 
+FMIS 
+FMS 
+GBV 
+GRM 
+Financial Management 
+Financial Management Information System 
+Federal Member State 
+Gender-Based Violence 
+Grievance Redress and Feedback Mechanism 
+IDPs 
+Internally Displaced Persons 
+IFR 
+Interim Unaudited Financial Report 
+IPSAS 
+International Public Sector Accounting Standards 
+ISA 
+International Standards on Auditing 
+ISP 
+Implementation Support Plan  
+M&E 
+Monitoring and Evaluation 
+MPF 
+Multi-Partner Fund 
+O&M 
+Operations and Maintenance 
+OP 
+Operations Policy 
+PA 
+Project Account 
+PAD 
+Project Appraisal Document 
+PAP 
+PDO 
+Project Affected Persons 
+Project Development Objective 
+PFM 
+PIM 
+Public Financial Management 
+Project Implementation Manual 
+PIU 
+Project Implementation Unit 
+PP 
+Procurement Plan 
+PPSD 
+Project Procurement Strategy for Development 
+RAP 
+RPF 
+Resettlement Action Plan 
+Resettlement Policy Framework 
+SCoA 
+SFMIS 
+Standard Chart of Accounts 
+Somali Financial Management Information System 
+SoE 
+Statement of Expenditures 
+SOP 
+SORT 
+Series of Projects 
+Systematic Operations Risk Rating Tool 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SUIPP 
+Somali Urban Investment Planning Project  
+SURP 
+Somali Urban Resilience Project 
+ 
+ 
+TA 
+Technical Assistance 
+UCS 
+UNOPS 
+WBG 
+Use of Country Systems 
+United Nations Office for Project Services 
+World Bank Group 
+ 
+ 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 1 of 38 
+ 
+    
+1.   
+ 
+BASIC INFORMATION – PARENT (Somali Urban Investment Planning - P150374) 
+ 
+ 
+Country 
+Product Line 
+Team Leader(s) 
+Somalia 
+Recipient Executed 
+Activities 
+Zishan Faiza Karim 
+Project ID 
+Financing Instrument 
+Resp CC 
+Req CC 
+Practice Area (Lead) 
+P150374 
+Investment Project 
+Financing 
+GSU13 (9348) 
+AFCE1 (6541) 
+Social, Urban, Rural and 
+Resilience Global Practice 
+ 
+Implementing Agency: Hargeisa Municipality, Mogadishu Municipality, Garowe Municipality, Baidoa Municipality, 
+Kismayo Municipality 
+ ADD FIN TBL1 
+Is this a regionally tagged 
+project? 
+ 
+No 
+ 
+Bank/IFC Collaboration    
+ 
+No 
+ 
+Approval Date 
+Closing Date 
+ 
+Original Environmental 
+Assessment Category 
+Current EA Category 
+04-Feb-2016 
+ 
+Partial Assessment (B) 
+Partial Assessment 
+(B) 
+ 
+Financing & Implementation Modalities  Parent 
+[  ] Multiphase Programmatic Approach [MPA] 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-Linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 2 of 38 
+ 
+Development Objective(s) 
+ 
+To provide (i) an assessment of the feasibility of, and preliminary plans for, selected urban investment and 
+institutional strengthening activities in southern Somalia, Puntland and Somaliland, and (ii) enhanced project 
+preparation and implementation capacity of participating agencies.  
+ 
+Ratings (from Parent ISR) 
+ 
+RATING_DRAFT_NO 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation 
+Latest ISR 
+ 
+17-May-2016 
+23-Mar-2017 
+06-Nov-2017 
+13-Jun-2018 
+Progress towards 
+achievement of PDO 
+S 
+ 
+MS 
+ 
+MS 
+ 
+S 
+ 
+Overall Implementation 
+Progress (IP) 
+S 
+ 
+MS 
+ 
+S 
+ 
+S 
+ 
+Overall Safeguards 
+Rating 
+S 
+ 
+S 
+ 
+S 
+ 
+S 
+ 
+Overall Risk 
+H 
+ 
+H 
+ 
+H 
+ 
+H 
+ 
+ 
+ 
+ 
+BASIC INFORMATION – ADDITIONAL FINANCING (Somali Urban Investment Planning Project Additional Financing 
+- P166591) 
+ 
+ADDFIN_TABLE 
+Project ID 
+Project Name 
+Additional Financing Type 
+Urgent Need or Capacity 
+Constraints 
+P166591 
+Somali Urban Investment 
+Planning Project Additional 
+Financing 
+Scale Up 
+Yes 
+Financing instrument 
+Product line 
+Approval Date 
+Investment Project 
+Financing 
+Recipient Executed 
+Activities 
+30-Nov-2018 
+Projected Date of Full 
+Disbursement 
+Bank/IFC Collaboration   
+ 
+ 
+30-Apr-2022 
+No 
+ 
+ 
+Is this a regionally tagged project? 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 3 of 38 
+ 
+No 
+ 
+ 
+Financing & Implementation Modalities  Child 
+ 
+ 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-Linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a Non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Contingent Emergency Response Component (CERC) 
+ 
+ Disbursement Summary (from Parent ISR) 
+ 
+Source of Funds 
+Net  
+Commitments 
+Total Disbursed 
+Remaining Balance 
+Disbursed 
+Grants 
+ 
+ 
+ 
+  
+ 
+ % 
+ 
+PROJECT FINANCING DATA – ADDITIONAL FINANCING (Somali Urban Investment Planning Project Additional 
+Financing - P166591) 
+  
+ 
+ 
+ 
+ 
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+SUMMARY (Total Financing) 
+ 
+Current Financing 
+Proposed Additional 
+Financing 
+Total Proposed 
+Financing 
+Total Project Cost 
+6.00 
+3.00 
+9.00 
+Total Financing 
+6.00 
+3.00 
+9.00 
+Financing Gap 
+0.00 
+0.00 
+0.00 
+ 
+ 
+DETAILSNewFinEnh1- Additional Financing 
+Non-World Bank Group Financing 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 4 of 38 
+ 
+     Trust Funds 
+3.00 
+          Somalia Multi-Partner Fund 
+3.00 
+ 
+   
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[    ] Yes   [ ✔ ] No 
+Does the project require any other Policy waiver(s)? 
+[    ] Yes   [ ✔ ] No 
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Social, Urban, Rural and Resilience Global Practice 
+ 
+Contributing Practice Areas 
+ 
+ 
+ 
+Gender Tag 
+ 
+Does the project plan to undertake any of the following? 
+ 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified 
+through SCD and CPF 
+ 
+No 
+ 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment 
+ 
+No 
+ 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+ 
+No 
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 5 of 38 
+ 
+PROJECT TEAM 
+ 
+Bank Staff 
+Name 
+Role 
+Specialization 
+Unit 
+Makiko Watanabe 
+Team Leader (ADM 
+Responsible) 
+ 
+GSU13 
+Zishan Faiza Karim 
+Team Leader 
+ 
+GSU13 
+Francis Akolu Muthuiya 
+Procurement Specialist (ADM 
+Responsible) 
+Procurement 
+GGOPA 
+Anjani Kumar 
+Procurement Specialist 
+Procurement 
+GGOPA 
+Leonard Mutuku Matheka 
+Financial Management 
+Specialist (ADM Responsible) 
+Financial Management 
+GGOAE 
+Tracy Hart 
+Environmental Specialist (ADM 
+Responsible) 
+Environmental Safeguards 
+GEN01 
+Bernard Harborne 
+Team Member 
+Advisor (FCV) 
+GSUGL 
+Dahir Elmi Warsame 
+Team Member 
+Consultant 
+GSU13 
+Dean A. Cira 
+Team Member 
+Advisor (Urban) 
+GSU09 
+Edith Ruguru Mwenda 
+Counsel 
+Legal 
+LEGAM 
+George Ferreira Da Silva 
+Team Member 
+Finance Officer 
+WFACS 
+Harub Ahmed Harub 
+Social Specialist 
+Social Safeguards 
+GSU07 
+Janerose Muboka Lubisia 
+Team Member 
+Member 
+AFMSO 
+Knut Opsal 
+Safeguards Advisor/ESSA 
+ 
+GSU07 
+Salome Awuor Aganda 
+Team Member 
+ 
+AFMSO 
+Samuel Ngethe Mbachia 
+Team Member 
+Engineer 
+GSU13 
+Sheila Lucrecia Francisco 
+Pene Neves 
+Team Member 
+Disbursement 
+WFACS 
+Verena Phipps-Ebeler 
+Social Specialist 
+Social Safeguards 
+GSU07 
+ 
+Extended Team 
+Name 
+Title 
+Organization 
+Location 
+Desta Solomon 
+Consultant 
+World Bank 
+ 
+ 
+2.   
+ 
+3.  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+November 19, 2018 
+Page 6 of 38 
+ 
+ 
+SOMALIA 
+ 
+SOMALI URBAN INVESTMENT PLANNING PROJECT ADDITIONAL FINANCING 
+ 
+TABLE OF CONTENTS 
+ 
+   
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ........................................ 7 
+II. 
+COUNTRY AND SECTOR CONTEXT ................................................................................. 10 
+III. DESCRIPTION OF ADDITIONAL FINANCING .................................................................... 12 
+IV. KEY RISKS ..................................................................................................................... 18 
+V. APPRAISAL SUMMARY .................................................................................................. 20 
+VI. WORLD BANK GRIEVANCE REDRESS .............................................................................. 27 
+VII. SUMMARY TABLE OF CHANGES ................................... ERROR! BOOKMARK NOT DEFINED. 
+VIII. DETAILED CHANGE(S) ................................................... ERROR! BOOKMARK NOT DEFINED. 
+IX. RESULTS FRAMEWORK AND MONITORING ..................................................................... 35 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 7 of 38 
+ 
+ 
+I. 
+BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING 
+ 
+1. 
+This Project Paper seeks the approval of an additional financing of US$3 million to the Somali 
+Urban Investment Planning Project (P150374). The original project, referred to as SUIPP or the “parent 
+project” has been under implementation since February 24, 2016, with a budget of US$6 million from the 
+Somali Multi-Partner Fund (MPF). The current closing date is December 31, 2018.  
+ 
+2. 
+The parent project aimed to provide: (i) an assessment of the feasibility of, and preliminary 
+plans for, selected urban investment and institutional strengthening activities in southern Somalia, 
+Puntland and Somaliland, and (ii) enhanced project preparation and implementation capacity of 
+participating agencies. The SUIPP financed feasibility studies and engineering designs for prioritized urban 
+investments in the three cities of Mogadishu, Hargeisa, and Garowe as well as institutional assessments 
+for the municipalities of Mogadishu, Garowe and Hargeisa as well as the federal Ministry of Public Works 
+and Hargeisa Water Agency.  The SUIPP also set up Project Implementation Units (PIUs) and built the 
+capacity of PIU staff in fiduciary, safeguards, project management, and monitoring and evaluation.  
+ 
+3. 
+The main objective of the SUIPP is to lay the groundwork for a follow-on investment project- 
+the Somali Urban Resilience Project (SURP) (P163857). SUIPP helps develop the institutional platform 
+and technical studies for priority investments to be financed under the follow-on project. SURP is a 
+national project with the aim of piloting the use of Somalia’s Public Financial Management (PFM) systems 
+at the sub-national level and strengthening municipal government capacity. The SURP takes a 
+programmatic or Series of Projects (SOP) approach, scaling up its geographical and sectoral coverage as 
+additional funding becomes available. The first phase of SURP (SOP1) will finance investments in 
+Mogadishu and Garowe. 
+ 
+4. 
+The overall implementation progress of the parent SUIPP is rated as Satisfactory and the Project 
+Development Objective remains achievable. In Mogadishu, the SUIPP undertook feasibility studies and 
+preliminary engineering designs for 4 primary urban roads (17km in length) and 31 secondary roads across 
+17 districts, which were prioritized in a participatory manner, totaling an investment of US$33 million. In 
+Garowe, feasibility studies and preliminary engineering designs were prepared for 18 km of secondary 
+roads and 2 bridges totaling investments of US$17 million. In Hargeisa, feasibility studies and preliminary 
+engineering designs were prepared for sanitary landfill solid waste management facility and anaerobic 
+pond liquid waste management system with an estimated cost of US$14 million. Institutional assessments 
+were undertaken for Mogadishu, Garowe and Hargeisa Municipalities as well as Ministry of Public Works 
+and the Hargeisa Water Agency. Finally, PIUs were set up and trained in all three cities.  There were no 
+legal covenants in the parent project.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 8 of 38 
+ 
+Table 1: Original SUIPP Cost Table 
+Project Components 
+Project 
+Cost 
+Available 
+balance 
+Execution 
+Component 1: Mogadishu 
+1.73 
+0.0 
+ 
+Primary Roads FS and PED 
+0.43 
+ 
+Bank 
+Secondary roads FS 
+0.29 
+ 
+Bank 
+BRA and MoPW Institutional 
+Assessment 
+0.21 
+ 
+Bank 
+Project Prep/TA 
+0.80 
+ 
+BRA 
+Component 2: Garowe 
+0.98 
+0.0 
+ 
+Intra-city roads FS and PED 
+0.23 
+ 
+Bank 
+GM institutional assessment 
+0.10 
+ 
+Bank 
+Project prep/TA 
+0.65 
+ 
+Garowe 
+Municipality 
+Component 3: Hargeisa 
+1.03 
+0.0 
+ 
+Waste management FS and 
+PED 
+0.21 
+ 
+Bank 
+HM/HWA institutional 
+assessment 
+0.12 
+ 
+Bank 
+Project Prep/TA 
+0.70 
+ 
+Hargeisa 
+Municipality 
+Component 4: Crosscutting 
+activities 
+1.83 
+0.0 
+ 
+LDF Assessment 
+0.17 
+ 
+Bank 
+Conflict assessment 
+0.20 
+ 
+Bank 
+Impact assessment 
+0.20 
+ 
+Bank 
+Audit 
+0.40 
+ 
+Bank 
+Operational enhancements 
+0.86 
+ 
+Bank 
+Total Baseline costs 
+5.57 
+ 
+ 
+Contingencies 
+0.43 
+0.38 
+ 
+Total Project Costs 
+6.00 
+0.38 
+ 
+ 
+ 
+5. 
+The SUIPP has made good disbursement progress with US$3.47 million disbursed from the TFs 
+executed by the Bank on Behalf of the Recipient and US$2.15 million fully disbursed from the Recipient 
+executed TF1.  The balance of US$380,000 is expected to be fully disbursed by end December 20182. Some 
+cross-cutting activities envisaged in the parent SUIPP such as the conflict and impact assessment were not 
+undertaken, and the budget allocated for mitigating against any potential operational risks was not 
+needed. These cost savings were allocated for undertaking (i) a rapid urban assessment in Kismayo and 
+                                            
+1 These disbursement figures are currently not reflected in the datasheet due to a technical issue with the project portal of the 
+parent project. This is being resolved with the Information Technology team.  
+2 This balance of US$380,000 is expected to contribute to the Trunk Drainage Masterplan and Road Network Assessment in 
+Mogadishu.  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 9 of 38 
+ 
+Baidoa to lay the groundwork for the proposed SUIPP Additional Financing as well as a (ii) Trunk Drainage 
+Masterplan and Road Connectivity Assessment for Mogadishu. The Trunk Drainage Masterplan will map 
+out existing trunk drainage systems and identify gaps in their connectivity and develop topography specific 
+designs which can help mitigate unplanned expansion of the drainage system, frequent localized flooding, 
+and road shoulder erosion. This master plan will enable the Mogadishu Municipality to develop 
+Mogadishu city in a more planned and coordinated manner and both the master plan and road 
+connectivity assessment will provide the municipality with an important tool to maximize limited 
+resources and mobilize donor financing for roads and drainage works. 
+ 
+6. 
+The SUIPP has made important achievements by laying the foundation for the delivery of 
+infrastructure investments through municipalities for the first time in Somalia. A subset of the prioritized 
+investments studied under SUIPP will be financed by the first phase of the follow-on SURP (SOP1), which 
+is effective as of October 19, 2018. Specifically, the SURP first phase will finance 19 secondary roads across 
+7 districts in Mogadishu totaling 7.5 km and 4 secondary roads in Garowe totaling 4.4km.3  PIUs, which 
+were established within respective municipal governments, will implement these capital investment 
+projects. By demonstrating the effectiveness of local government systems in implementing donor-funded 
+projects, the Government hopes to leverage additional resources in the future.  
+ 
+7. 
+Given the paramount needs on the ground and the centrality of cities to Somalia’s stability and 
+sustainable growth, there is a strong rationale to scale-up SUIPP and the follow on SURP to additional 
+cities. Somalia is a highly urbanized country with 42 percent of the total population residing in urban areas 
+and growing at a rate of around 4 percent per annum.4 If the current trend continues, its urban population 
+will nearly double by 2030. Rapid urbanization is exacerbated by decades of violent conflict and political 
+instability and compounded by cyclical environmental adversities such as drought and flooding. An 
+estimated 2.6 million Internally Displaced Persons (IDPs) in Somalia reside in cities, with Mogadishu, 
+Baidoa, and Kismayo alone hosting almost 40 percent of the total drought-related displacements.5 Somali 
+cities, however, have not been able to keep pace with the rapid urbanization. An accelerated urban 
+population growth, high unemployment rate especially among the youth, income inequality, lack of access 
+to basic services, and lack of Government’s ability to address the people’s needs are all contributing to 
+increased fragility of the cities in Somalia. 
+ 
+8. 
+ In light of the immense needs in Kismayo and Baidoa, the German government has contributed 
+additional funding for the SUIPP and SURP through the MPF for strengthening municipal capacity and 
+addressing urban infrastructure needs. The German contribution will support the scale up of the SUIPP 
+through this proposed additional financing to the two additional cities of Kismayo and Baidoa. These two 
+cities are strategically important secondary cities that contribute to Somalia’s stability and sustainable 
+growth but are struggling to meet the increased demands for services with a large influx of IDPs.  
+ 
+ 
+ 
+                                            
+3 The Hargeisa feasibility study focused solely on a solid and liquid waste management facility which would require a substantial 
+investment of US$16 million and will not be financed due to budget limitations. 
+4 UNFPA (2014) 
+5 Humanitarian Bulletin, July 2017, UNOCHA 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 10 of 38 
+ 
+9. 
+Scaling up the SUIPP and the follow on SURP provides an opportunity for local governments to 
+strengthen their capacity and deliver tangible benefits to their citizens in key Somali cities. The SUIPP 
+parent project has helped build local government capacities in planning, budgeting, financial 
+management, and procurement. Capacity building coupled with a capital investment budget channeled 
+through the Government PFM systems can greatly improve the municipalities’ ability to manage public 
+funds more transparently and with more accountability. In the current state building process, these are 
+important components for building citizen confidence in emerging institutions by delivering tangible and 
+visible peace dividends. The proposed AF will help build these capacities in the two key secondary cities 
+of Kismayo and Baidoa in Somalia.  
+ 
+10. 
+The SUIPP AF builds on the findings of an urban assessment undertaken for Kismayo and Baidoa 
+as well as other work carried out by other development partners. The urban assessment identified key 
+urban infrastructure needs in both cities and recommended ‘quick wins’ or infrastructure/services and 
+shelter provisions that can be prioritized for implementation under the SUIPP and SURP second phase 
+(SOP2). This assessment also provided an overview of the key social and land issues to be considered in 
+implementation of urban infrastructure investments in Kismayo and Baidoa. The AF also builds on UN-
+Habitat’s ongoing work on urban planning and strategic spatial planning in Kismayo and Baidoa which 
+provides important city level information on existing land use, housing, IDPs, infrastructure and service 
+delivery; as well as an urban plan that points to the future direction of city growth; and 
+infrastructure/service requirements.  Finally, the participatory decision-making structures established 
+under the IOM-UN-Habitat-UNDP’s Midnimo6 project in Kismayo and Baidoa can be used for community 
+consultations under the SUIPP AF. These community structures are spearheaded by the district 
+government and represents different population groups including women, youth and IDPs. The World 
+Bank will help institutionalize other development partners’ outputs – such as the spatial plans and the 
+participatory planning system - by leveraging on the Bank’s comparative advantage of working through 
+the Government. That is, the Bank will facilitate the adoption of these plans and mechanisms by the 
+Government.  
+ 
+11. 
+This proposal includes a restructuring of the original project to: (i) expand the geographical 
+coverage; (ii) extend the project closing date until December 31, 2021; (iii) restructure the project 
+components; and (iv) revise the indicators and targets in the Results Framework. The Project Development 
+Objective (PDO) is also being adjusted.   
+ 
+12. 
+The proposed AF is being processed under procedures specified under Bank Policy Investment 
+Project Financing dated November 10, 2017, Paragraph 12 and 13 for situations of urgent need of 
+assistance. The use of this policy is justified as Somalia meets both relevant eligibility criteria with an 
+urgent need of assistance because of a natural disaster as well as conflict and severe capacity constraints 
+because of fragility.  
+ 
+II. 
+COUNTRY AND SECTOR CONTEXT 
+ 
+13. 
+Somalia is emerging from a legacy of two and half decades of cycles of violent conflict and 
+fragility. Since 1991, the country has been fragmented by armed conflict, ad hoc regime changes and 
+                                            
+6 “Midnimo” means “unity” in Somali language.  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 11 of 38 
+ 
+state capture. The August 2012 peaceful transfer of power from a transitional to a full federal 
+government and the peaceful handover of power in 2017 to the current President generated domestic 
+political momentum and triggered international recognition and support for the new federal 
+government. Over the last four years, Somalia has taken encouraging steps towards a political settlement 
+and the rehabilitation of government institutions.  
+ 
+14. 
+However, decades of conflict compounded by recurring natural disasters have displaced a 
+significant part of the society and damaged much of the country’s infrastructure, resulting in high rates 
+of poverty and food insecurity. Of the 12.3 million Somali population,7 2.4 million are likely to live on the 
+margins of food insecurity.8 Poverty is estimated at approximately 69 percent at the national level while 
+overall urban poverty rate stands at 64 percent. Poverty is heavily concentrated among IDPs estimated at 
+76 percent.  
+ 
+15. 
+Somalia’s urban population is growing rapidly partly as a result of significant forced migration 
+into urban areas caused by protracted conflicts, insecurity, and cyclical natural disasters. The influx of 
+the displaced is concentrated in Mogadishu, Kismayo, and Baidoa. As of July 2018, there are an 
+estimated 2.6 million IDPs in Somalia, many of whom reside in urban areas.9 The country has also 
+witnessed a steady flow of returnees and refugees from neighboring countries. Returnees and IDPs are 
+settling in urban areas in the hope of better access to humanitarian assistance, safety, services and job 
+opportunities. The influx of IDPs and returnees has been concentrated in certain cities, namely 
+Mogadishu, Kismayo and Baidoa. In Mogadishu, area occupied by IDP settlements increased by 16 percent 
+between 2013 and 2017. In Kismayo, the IDP-occupied area increased over seven-fold, and in Baidoa, it 
+has more than tripled.10 Current urban population is estimated at around 5.2 million people (42 percent) 
+with a growth rate of around 4 percent per annum.11 If the current trend continues, by 2030, Somalia will 
+add another 4.5 million urban residents to its already constrained urban environment, nearly doubling 
+current numbers.12 
+ 
+16. 
+If managed well, urbanization can contribute to stability in Somalia. With a greater 
+concentration of people, capital, and assets, cities are better equipped to provide anonymity to those 
+fleeing from conflict and offer better access to security, services, and jobs than rural areas. Somali cities 
+are growing rapidly as they serve as a safe haven for people who seek refuge. 
+ 
+17. 
+Yet, as urban areas fail to keep pace with the rapid urbanization, Somali cities are becoming 
+more fragile. In the absence of security of land tenure, IDPs are highly vulnerable to forced eviction. For 
+example, over 109,000 IDPs living in informal settlements across the country have been forcefully evicted 
+between January and August 2017.13 Due to forced eviction, many IDPs have shifted to the outskirts of 
+cities, causing uncontrolled urban sprawl. The area occupied by IDP settlements in the fringes of Baidoa 
+has increased by 177 percent in 2017. The number of IDPs in Kismayo tripled in 2017, and most of them 
+                                            
+7 UNFPA (2014) http://somalia.unfpa.org/sites/default/files/pub-pdf/Population-Estimation-Survey-of-Somalia-PESS-2013-
+2014.pdf 
+8 FEWSNET – Somalia Food Security Outlook for October 2017 to May 2018. 
+9 UNOCHA Humanitarian Bulletin Somalia 2 June – 5 July 2018. 
+10 UN-Habitat calculation (2017). 
+11 UNFPA (2014). 
+12 World Bank staff calculation based on UN-Habitat and CIA World Factbook.  
+13 Norwegian Refugee Council (2017).  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 12 of 38 
+ 
+have settled outside of the city.14 Such spatial sprawl makes service provision difficult and costly as new 
+settlements are disconnected from the existing urban centers and infrastructure networks. Spatial 
+fragmentation also inhibits IDPs’ access to jobs and prevents cities from reaping the scale and 
+agglomeration benefits. As a result, Somali cities are expanding in a haphazard manner, slums are 
+growing, and unemployment especially among the youth is increasing. Large influxes of people are also 
+disrupting the social cohesion and protection challenges are significant in the context of ongoing 
+urbanization and displacement. Gender-based violence (GBV), among other protection concerns, is a 
+prevalent issue in Somalia and a significant challenge confronting displaced populations in particular15. 
+Indeed, Mogadishu, Merca and Kismayo are considered the three most fragile cities in the world.16 Urban 
+fragility, particularly in key cities which include Mogadishu, Kismayo, and Baidoa, can have a profound 
+impact on Somalia’s nascent stability. 
+ 
+18. 
+The Government has limited capacity and resources to address the challenges urbanization in 
+Somalia brings. District governments (which function as municipal governments) have the primary 
+responsibility for providing land, housing and basic services. But capacity and fiscal constraints often limit 
+their ability to undertake basic municipal functions, and outside of a few larger cities, these constraints 
+deepen rapidly. Sub-national governments are only receiving a small recurrent budget through an inter-
+governmental fiscal transfer, and staffing is generally skeletal with limited capacity. Municipal 
+governments’ own source revenue collection is minimal and unstructured. They are dependent on 
+external assistance or private sector for capital investments and delivery of services which tends to be ad 
+hoc due to lack of comprehensive urban development plans and limited resources.  
+ 
+III. 
+DESCRIPTION OF ADDITIONAL FINANCING 
+A. Project Development Objective 
+19. 
+The original project objective is being amended to remove the mention of any specific geographic 
+areas to enable the SUIPP to be scaled up to key Somali cities as funding becomes available. It is also being 
+streamlined to make it more succinct. The original PDO was to provide: (i) an assessment of the feasibility 
+of, and preliminary plans for, selected urban investment and institutional strengthening activities in 
+southern Somalia, Puntland and Somaliland; and (ii) enhanced project preparation and implementation 
+capacity of participating agencies.  The revised objective would be to provide: (i) an assessment of the 
+feasibility of, and preliminary plans for, selected urban investment and institutional strengthening 
+activities in targeted areas, and (ii) enhanced project preparation and implementation capacity of 
+participating agencies.  
+ 
+B.  Project Components 
+20. 
+The proposed AF will scale-up SUIPP activities to the cities of Kismayo and Baidoa with an 
+additional financing of US$3 million. Overall, the SUIPP AF will finance the same activities as in the parent 
+project, mainly: 
+ 
+                                            
+14 Somalia Drought Impact Needs Assessment (2017). Urban chapter.  
+15 Several studies estimate that roughly three-quarters of survivors are IDPs. 
+16 “These are the World’s Most Fragile Cities”. Urban Gateway. http://new.unhabitat.org/news/these-are-worlds-most-fragile-
+cities. 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 13 of 38 
+ 
+a) Establishment of Project Implementation Units (PIUs) in target cities and provision of technical 
+assistance to enhance the capacity of the Somali executing agencies to plan, prepare and 
+implement urban development projects, such as SURP, effectively and efficiently while mitigating 
+fiduciary and safeguards risks. These activities will be client executed.  
+ 
+b) Technical studies and designs of the priority urban investments and institutional assessments of 
+the implementing agencies in target cities. The selection of the priority investments will be based 
+on the rapid urban assessment which was undertaken in Kismayo and Baidoa under SUIPP original 
+financing, but also on pre-agreed selection criteria and a multi-stakeholder participatory selection 
+process. The priority urban investments that will be studied under SUIPP AF will be financed under 
+SURP, the follow-on investment project. The institutional assessments will provide an 
+informational and analytic base for the preparation of institutional strengthening activities to be 
+supported under SURP. Other thematic analytics may also be undertaken as needs emerge. In 
+order to facilitate the quick execution of these activities and ensure quality in the fragile and 
+conflict affected environment of Somalia, they will be executed by the World Bank on behalf of 
+the Client.17  
+ 
+21. 
+The infrastructure investments to be studied in Kismayo and Baidoa have been selected using the 
+criteria listed below which were agreed to between the Bank and the Government (both federal and state 
+levels) in preparatory consultations: 
+ 
+(i) 
+Strategic investments that contribute to urban resilience. The investment should be aligned 
+with a broader strategic plan or vision of the city. This plan should focus on how to make the 
+city more resilient.  
+(ii) 
+Inclusiveness. Investments identified should be as inclusive as possible, i.e. incorporate needs 
+of the IDPs, returnees, refugees and host communities.  The investments should be selected 
+in a participatory manner in consultations with community representatives.  
+(iii) 
+Maximizing development impact.  Investments should maximize development impact and 
+return on investment, thus avoiding small scale/piece meal investments.  
+(iv) 
+Coordination/complementarity with ongoing projects.  Investments should avoid overlap with 
+ongoing Government and development partner interventions and try to complement and 
+build on these activities.  
+(v) 
+Labor intensity. Investments should provide short term income generation opportunities for 
+vulnerable groups.  
+(vi) 
+Sustainability. Investments should build in operations and maintenance measures to ensure 
+that they are sustained over the long term.  
+(vii) 
+Government visibility. Investments should be visible to citizens and highlight the 
+Government’s (both federal and state levels) lead in implementation so as to strengthen their 
+legitimacy.  
+ 
+                                            
+17 Bank execution on behalf of the Recipient was approved by the Regional Vice President on October 5, 2018.  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 14 of 38 
+ 
+22. 
+The AF introduces a restructuring of the project components to include one component for 
+Technical Studies in Kismayo and Baidoa and one component for Project Implementation Capacity Support 
+across the two new cities of Kismayo and Baidoa, some project coordination work continued in 
+Mogadishu, and winding down activities in Garowe and Hargeisa. This restructuring replaces the 
+component structure in the original project with one component for each city. The component on cross-
+cutting activities is being removed. These components are described in more detail below. This 
+restructuring of the components is to better align with the Grant Agreements and Agreement Letters 
+linked to this project (see Section C below). An itemized budget for the full project is given in Section B 
+below.  
+ 
+Component 1: Technical Studies (US$1.94 million) 
+ 
+23. 
+This component will cover all technical studies to be carried out under SUIPP AF in preparation 
+for the follow on SURP SOP2 which includes: (i) technical studies and engineering designs for priority 
+investments; (ii) environment and social due diligence work; (iii) institutional assessments of 
+implementing agencies; and (iv) any other necessary analytical work.  
+ 
+24. 
+Technical studies for the priority investments. Based on the preliminary consultations with the 
+Government and findings of the rapid urban assessment undertaken in Kismayo and Baidoa, priority 
+investments are likely to be urban roads, along with corresponding drainage system, sidewalks, and 
+streetlighting. Under the SUIPP AF, a feasibility study and preliminary engineering design study will be 
+undertaken for the long list of roads to examine which road segments are the most cost-effective and 
+strategically important considering the pre-agreed selection criteria. The shortlist of roads will be finalized 
+using the findings from these studies and through a participatory decision-making process that includes 
+state and district-level governments, community (with representatives of the vulnerable such as women, 
+poor, youth, and IDPs), and the private sector. Once the shortlist of the roads is developed, the team will 
+develop detailed engineering designs for the shortlisted investments. Community consultations will also 
+be undertaken in each of the relevant catchment areas to determine how they can participate in and 
+benefit from the implementation and maintenance of the physical investments.  
+ 
+25. 
+Environmental and social (E&S) due diligence work will include the following activities: (i) a 
+baseline survey of environmental and social data, capacity, and potential impacts that would help to 
+identify E&S mitigations, but also areas of potential enhancement of project outcomes, and provide 
+sufficient E&S context for the subsequent design process; (ii) the development of an environmental and 
+social management framework, which would constitute a generic tool for managing social and 
+environmental risks related to the long list of investments, regardless of funding source for use by entities 
+such as local governments; and (iii) the development of a resettlement policy framework which would 
+constitute a generic tool for managing any resettlement or compensation issues that may arise related to 
+the long list of investments.  
+ 
+26. 
+Institutional assessments. An assessment of district governments (which functions as the de facto 
+municipal governments) and other relevant agencies will be undertaken for the detailed preparation and 
+execution of institutional strengthening activities to be supported under the follow-on SURP. The 
+assessment will focus on basic functionality, performance, strategic planning capacity, technical and 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 15 of 38 
+ 
+operational capacity, fiduciary systems, transparency and accountability mechanisms and environmental 
+and social management capacity. 
+ 
+27. 
+Other Analytical Studies. Urban infrastructure development projects can have both intended and 
+unintended socio-economic and political impacts and outcomes that can vary based on different 
+population groups such as men, women, female-headed households, the poor, host communities and the 
+displaced, influencing their access to land, services, and jobs. The local power dynamics can also influence 
+the process and outcome of the project. This component will therefore undertake a qualitative socio-
+economic assessment for the target cities. The study will undertake a stakeholder analysis and political-
+economy analysis to better understand the local power dynamics in each city. The study will examine how 
+the local power dynamics may influence the participatory decision-making process, levels of participation 
+in project activities (such as labor-intensive works), and maintenance of the infrastructure to be financed 
+under SURP. At the same time, the study will also try to identify both positive and negative impacts the 
+urban infrastructure investments may have on various population groups, and how negative impacts may 
+be mitigated to the extent possible. For example, with urban investments, land value can increase which 
+may lead to the forced eviction of IDPs or informal vendors. Alternatively, improved access may result in 
+positive socio-economic outcomes. Additional analytic works may be considered as needs emerge.   
+ 
+Component 2: Project Implementation Capacity Support (US$1.06 million) 
+ 
+28. 
+Subcomponent 1: Mogadishu Municipality (US$60,000). To help the two new cities, Kismayo and 
+Baidoa, to liaise with the federal government and also to foster peer-to-peer learning across the cities 
+that have been supported by SUIPP AF and follow-on SURP, a program coordinator will be assigned in 
+Mogadishu. This program coordinator will be appointed in consultation with Kismayo and Baidoa 
+stakeholders.  
+ 
+29. 
+Subcomponent 2: Kismayo Municipality (US$500,000). In order to establish sufficient capacity to 
+prepare and implement the SURP, a PIU will be established within the Kismayo municipal/district 
+government comprising a full-time project coordinator, a procurement specialist, a finance specialist, a 
+project engineer, a social and environmental safeguards specialist and a monitoring and evaluation 
+specialist. Operating and minor equipment costs related to the recruitment and employment of these 
+positions will also be incurred. Training and capacity building for the PIU staff on fiduciary management, 
+procurement, safeguards, project management, and monitoring and evaluation will be conducted based 
+on their capacity and needs. The PIU will prepare safeguards instruments, namely theEnvironment and 
+Social Management Plans (ESMPs)/Resettlement Action Plans (RAPs) for the prioritized shortlist of 
+investments.  Finally, costs for the financial audit would be covered under this component. A program 
+coordinator, who will oversee both the SUIPP and the SUIPP AF, will help Kismayo liaise with the federal 
+government. The program coordinator will also help coordinate activities across all target cities, foster 
+cross-fertilization and peer learning.  
+ 
+30. 
+Subcomponent 3: Baidoa Municipality (US$500,000). In order to establish sufficient capacity to 
+prepare and implement the SURP, a PIU will be established within the Baidoa municipal/district 
+government comprising a full-time project coordinator, a procurement specialist, a finance specialist, a 
+project engineer and a social and environmental safeguards specialist. Operating and minor equipment 
+costs related to the recruitment and employment of these positions will also be incurred. Training and 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 16 of 38 
+ 
+capacity building for the PIU staff on fiduciary management, procurement, safeguards, project 
+management, and monitoring and evaluation will be conducted based on their capacity and needs. The 
+PIU will prepare safeguards instruments (ESMPs/RAPs) for the prioritized shortlist of investments. Costs 
+for the financial audit would be covered under this component. A program coordinator, who will oversee 
+both the SUIPP and the SUIPP AF, will help Baidoa liaise with the federal government. The program 
+coordinator will also help coordinate activities across all target cities, foster cross-fertilization and peer 
+learning.  
+ 
+B. Project Cost and Financing 
+31. 
+The project will be financed by a Recipient Executed Trust Fund (RETF) sourced from the MPF. 
+Component 1 for Technical Studies would be executed by the World Bank on behalf of the Recipient 
+(BEBR) whereas Component 2 – Project Implementation Capacity Support would be Recipient executed 
+(RE). Table 2 shows the cost table proposed for the SUIPP AF.  
+ 
+Table 2: SUIPP AF Cost Table 
+Project Components 
+Project Cost 
+Grant 
+Financing 
+% 
+Financing 
+Execution 
+Component 1: Technical Studies 
+1.94 
+1.94 
+100 
+World Bank  
+Feasibility studies, preliminary 
+engineering designs, safeguards 
+assessments 
+1.68 
+1.68 
+ 
+ 
+Institutional Assessments 
+0.15 
+0.15 
+ 
+ 
+Other Analytical Studies 
+0.11 
+0.11 
+ 
+ 
+Component 2: Project 
+Implementation Capacity 
+Support 
+1.06 
+1.06 
+100 
+Recipient 
+Subcomponent 1 – Mogadishu 
+Municipality  
+0.06 
+0.06 
+ 
+Mogadishu 
+Municipality 
+Subcomponent 2 – Kismayo 
+Municipality 
+0.50 
+0.50 
+ 
+Kismayo 
+Municipality 
+Subcomponent 3 – Baidoa 
+Municipality 
+0.50 
+0.50 
+ 
+Baidoa Municipality 
+Total  
+3.0 
+3.0 
+ 
+ 
+ 
+ 
+C. Institutional and Implementation Arrangements 
+32. 
+The institutional and implementation arrangements will largely be the same as in the parent 
+project. Project activities under Component 1: Technical Studies will be executed by the World Bank on 
+behalf of the Recipient due to the client’s low capacity. Project activities under Component 2 which 
+include the appointment of the program coordinator in Mogadishu and liaison with all cities, recruitment 
+of PIU staff and their capacity building activities will be undertaken by the client. As under the original 
+SUIPP, the Bank team will work closely with the client in undertaking these activities, particularly the 
+Kismayo and Baidoa municipal governments as well as the government designated inter-ministerial 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 17 of 38 
+ 
+technical teams at the state-level. Moreover, for policy issues, the World Bank will consult with the inter-
+ministerial committee at the state level as well as with relevant ministries at the federal level.   
+ 
+33. 
+A Grant Agreement will be signed between the World Bank and the federal Ministry of Finance 
+for the Recipient executed grants. The Federal Government of Somalia (FGS) will have overall 
+responsibility in coordination of the project. Both the Federal Member State (FMS) of Jubbaland and South 
+West State will oversee the project implementation while the respective municipalities will be responsible 
+for the day-to-day project implementation. For the World Bank executed Grants, an agreement between 
+the FGS and the Bank will be signed. Subsidiary Agreements between the federal Ministry of Finance and 
+State governments will outline the respective roles and responsibilities of these entities in the project.  
+ 
+D. Lessons Learned from the Parent Project 
+34. 
+Given that SURP is the first project to be implemented through municipalities, a preparatory 
+phase under SUIPP prior to commencing civil works is crucial. The Bank only reengaged with Somalia in 
+2013, and all the Bank-financed projects to date have been implemented at the federal or state level. 
+Given the weak capacity and unfamiliarity with the World Bank procedures at the municipal level, it is 
+essential to have a preparatory phase under SUIPP. While contexts and capacities vary across cities, all 
+SUIPP cities in the parent project benefited greatly from this preparatory phase. The PIUs in the original 
+three cities were able to become familiar with the Bank’s procurement processes, financial reporting 
+requirements and safeguard policies and procedures. The PIUs in Mogadishu and Garowe in particular are 
+now able to commence procurement for civil works under the follow on SURP immediately due to the 
+training and hands on learning they gained from SUIPP. Under SUIPP AF, a program coordinator based in 
+Mogadishu will be hired to help Kismayo and Baidoa better liaise with the federal government and also 
+facilitate peer-to-peer learning with Mogadishu and Garowe, who have accumulated experience working 
+with World Bank financed projects.  
+ 
+35. 
+Preparatory phase under SUIPP AF helps better define the roles and functions of different levels 
+of government and across different agencies. As Somalia’s political institutions are still in their infancy, 
+there can be ambiguity in the division of labor across different levels of government as well as across 
+different agencies. Ensuring all levels of government and relevant agencies are involved in the project 
+planning, however, can be a time-consuming process. To this end, the preparatory phase under SUIPP AF 
+allows the necessary time for the Government to work out the optimal division of labor among 
+themselves. Down the line, a clear division of labor allows for a smoother project implementation and 
+garners political support from the client. 
+  
+36. 
+With the Bank’s limited accessibility on the ground, it is important to build on existing 
+participatory platforms and systems established under other programs.  For any investment 
+prioritization, it is important to adopt a participatory decision-making process to the extent possible 
+where all stakeholders such as the Government, IDPs, women, youths, traditional leaders and the urban 
+poor can have a voice. Such an approach improves communication between the local government and 
+the communities and fosters ownership over the investments to be provided under the project that can 
+lead to better operation and maintenance. However, the World Bank’s accessibility to the grassroots is 
+limited. Under the original SUIPP, the team tried to reach out to different segments of the society through 
+the municipal government, but the participatory planning became superficial with a possible selection 
+bias in the participants. To ensure a substantive participatory approach, the SUIPP AF will utilize the 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 18 of 38 
+ 
+participatory approach and platform that have proven effective under the UN Midnimo project. (See para. 
+10 for details.) 
+ 
+37. 
+Ensure participation of the municipalities in the preparation of technical studies to improve the 
+quality of these studies and ensure cross learning. While the feasibility studies and engineering designs 
+will be prepared by the World Bank on behalf of the Recipient by engaging United Nations Office for 
+Project Services (UNOPS), it would be crucial to ensure UNOPS works closely with the municipalities 
+throughout the process. This is important for ensuring the studies incorporate local knowledge and are as 
+accurate as possible. This is also key for ensuring there is some knowledge transfer to municipalities on 
+how feasibility studies are undertaken. 
+ 
+38. 
+It is important to keep the project design adaptable to possible scale-up in the future. While 
+SUIPP parent project was designed as a stand-alone preparatory project, SUIPP AF has been redesigned 
+to ensure that SUIPP can serve as a vehicle to establish project planning and implementation capacity at 
+the municipal level. Once such capacity is established, cities can raise funds from other donors to address 
+the paramount needs on the ground.  
+ 
+E. Alignment with Higher Level Objectives 
+39. 
+SUIPP’s scaled-up activities are consistent with the Country Partnership Framework (CPF) (FY19-
+22). The new CPF focuses on two areas, namely: (i) strengthening institutions and expanding access to 
+services; and (ii) unlocking inclusive growth, while building Somalia’s structural resilience to fragility and 
+shocks is highlighted as a cross-cutting consideration. Under the “institutions and services” pillar, 
+improvement of urban governance and municipal services is one of the four main objectives, and SUIPP 
+and the follow-on investment project, SURP, are listed as directly contributing to the achievement of the 
+objective. Additionally, building government capacity and providing services through municipal 
+institutions to meet the increased demands are noted to contribute to building resilience.  
+ 
+IV. 
+KEY RISKS 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+High 
+2. Macroeconomic 
+Moderate 
+3. Sector Strategies and Policies 
+Moderate 
+4. Technical Design of Project or Program 
+Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+High  
+6. Fiduciary 
+Substantial 
+7. Environment and Social 
+Substantial 
+8. Stakeholders 
+High 
+9. Other (Security) 
+High 
+10. Overall 
+High 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 19 of 38 
+ 
+40. 
+The overall risk rating for SUIPP AF is High. The following high and substantial risks are the result 
+of the challenging operational environment, continued insecurity, and inadequate institutional capacity. 
+The World Bank will provide intensive capacity building and oversight to the PIUs to be established in 
+Kismayo and Baidoa.  
+ 
+41. 
+Insecurity risk is High. There are areas in Kismayo and Baidoa that remain insecure which affects 
+access to locations and insecurity for staff. This may prevent or delay work and may make monitoring 
+difficult. The chief mitigation measure will be the use of consulting firms, NGOs, UNOPs and other UN 
+agencies for much of the technical work. Agencies that have appropriate expertise and which are not 
+precluded, by regulation, from working in environments in which the World Bank itself may find it difficult 
+to operate will be selected. The World Bank team will visit these sites at certain points to ensure that work 
+is being undertaken satisfactorily.  
+ 
+42. 
+Political and governance risks are High. In order to execute the work successfully, the World Bank 
+will need to rely on its key counterpart institutions for close cooperation throughout and on efficient 
+decision-making at critical points. Yet, the relationship between the Federal Government of Somalia (FGS) 
+and Federal Member States remains fragile. Horizontal and vertical divisions of labor across different 
+government agencies are ill defined. These can lead to competition over power and resources over this 
+project across different levels of government as well as across different ministries. Such political 
+competition may complicate decision-making, make reaching consensus difficult, and be the source of 
+delay. Mitigating measures will include investment in sustained client dialogue, with ground presence of 
+the World Bank team in Somalia, setting up of an inter-ministerial committee at the outset both at the 
+national and state levels to ensure transparency and inclusivity, and designation of government focal 
+points for the project prior to project commencement.  
+ 
+43. 
+The institutional capacity for implementation and sustainability risks are High. Capacity and 
+authority in Somalia, especially at the sub-national level, is weak given the history of conflict and mistrust 
+with public institutions. Moreover, government institutions do not have experience managing 
+development partner-funded projects as most projects bypass the government systems. Mitigation 
+measures include staffing the PIUs with qualified consultants, in conformity with the guidelines of the Civil 
+Service Commission; to provide regular training and support from a third-party consulting firm and the 
+World Bank team.   
+ 
+44. 
+Fiduciary risks are Substantial.  The financial management and procurement environment in 
+Somalia remains challenging.  Levels of mismanagement, fraud, lack of transparency and corruption exist.  
+Although anticorruption and public-sector regulations are in place, problems persist, contributing to low 
+levels of trust in government institutions. The fiduciary risk rating has been increased from Moderate in 
+the parent project to Substantial in the AF due to the limited prior engagement with municipalities in 
+Kismayo and Baidoa. Mitigation measures for governance issues have been built into the project design 
+in the form of strict fiduciary control mechanism and application of World Bank fiduciary rules as well as 
+a focus on social accountability. The project will ensure that the PIU always has in place dedicated 
+procurement and financial management specialists who are adequately trained.  
+ 
+45. 
+Environment and Social Safeguard risks are Substantial. While these risks in the SUIPP AF are 
+low, there are potential downstream impacts of the investments in the follow on SURP SOP2 which raises 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 20 of 38 
+ 
+the risk rating. These potential risks will be mitigated through the preparation of safeguards documents 
+under the SUIPP AF – Environment and Social Management Framework (ESMF), Resettlement Policy 
+Framework (RPF), Environment and Social Impact Assessments (ESIAs) and RAPs. Moreover, safeguards 
+staff will be recruited into the PIUs for both cities to monitor safeguards implementation in the follow on 
+SURP.  
+ 
+46. 
+Stakeholder risks are High. As stated in para 34 above, there is a lack of clarity on the division of 
+labor among Ministries, agencies as well as between the federal and state ministries. Moreover, there is 
+a lack of clarity on the roles and responsibilities of the municipalities. This can result in poor coordination 
+and potential slowdown in implementation of project activities. Mitigation measures include preparation 
+of subsidiary agreements between various levels of government involved in implementation which clearly 
+outline the respective roles and responsibilities for each entity. The task team will ensure adherence to 
+these agreements during supervision.  
+ 
+ 
+V. 
+APPRAISAL SUMMARY 
+ 
+A. Economic and Financial (if applicable) Analysis 
+ 
+46.  
+Given that the project will support feasibility and preliminary design studies and the recruitment 
+of technical assistance only, the cost of the project is limited to the US$3m investment from MPF. The 
+economic benefit of the project will derive from the enhanced urban infrastructure and strengthened 
+urban management institutions supported by the investment activities under SURP SOP2 which will follow 
+from the preliminary design and Technical Assistance (TA) work to be undertaken under the SUIPP AF. 
+Overall rates of return to these investments (e.g. roads) are expected to be high but cannot be calculated 
+at this point.  
+ 
+B. Technical 
+ 
+47. 
+Preliminary assessments and consultations undertaken by the World Bank Task Team during 
+missions to Kismayo, Baidoa, and Mogadishu indicate that the identified investment priorities (likely urban 
+roads with drainage, sidewalks, and streetlighting) for which the feasibility studies and preliminary design 
+work under SUIPP will be undertaken are sensible and technically feasible. This view must, however, be 
+qualified by the fact that in some cases – particularly in Baidoa – it has not been possible to visit the sites 
+of the initial investments, and secondary information is scarce. In addition, conditions – particularly, but 
+not only, those related to security – may make the implementation of project activities difficult or even 
+impossible. It will certainly add to their costs. It thus needs to be recognized that the feasibility of at least 
+some of the proposed project activities is difficult to determine at the outset, and that the work conducted 
+under the SUIPP will further inform this assessment. The cost estimates for the activities to be undertaken 
+in the two cities of Kismayo and Baidoa are subject to considerable variations once the feasibility and 
+preliminary design engineering has commenced. This might necessitate the reduction in the scope of 
+works should the true costs escalate. 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 21 of 38 
+ 
+C. Financial Management 
+ 
+48. 
+Background. The SUIPP AF will involve both BEBR and RE activities. The RE activities comprise 
+limited and simple activities related to the employment of a program coordinator based in Mogadishu 
+and employment of specialist technical staff by the key implementing agencies i.e. Kismayo and Baidoa 
+municipal governments. FM assessment has already been conducted for Mogadishu and has been found 
+satisfactory. The additional financing will leverage and rely on the FM arrangements of the existing SUIPP 
+project. The updated FM assessment conducted during missions indicate that although the External 
+Assistance Fiduciary Section (EAFS) at the State Ministry of Finance has the PFM capacity to handle the 
+FM responsibilities related to these activities, significant levels of fiduciary risks that are likely to affect 
+the project do exist. These include (i) weak legal PFM Frameworks; (ii) lack of prior experience in the 
+implementation of World Bank supported projects; (iii) inadequate financial management competencies 
+and internal controls mechanisms at the municipalities/district level particularly works contracts 
+management and payment for works; (iv) lack of or weak intergovernmental fiscal relations arrangement 
+frameworks between the FGS and the regional governments, as well as internally between the State 
+governments and local authorities and;  (v) very rudimentary banking arrangements. Various mitigating 
+measures will be designed both specific to the project and as part of other World Bank/Donor 
+engagements in the country. Given the consideration for Use of Country Systems (UCS), the project, so 
+far as is practical, will adopt UCS in various aspects of the project’s financial management arrangements. 
+These include financial planning, budgeting, funds flow arrangements, banking, internal control 
+framework, accounting, reporting, internal and external audit arrangements. The project will institute 
+appropriate oversight arrangements, staffing and capacity building initiatives. The project will also focus 
+on developing financial management capacity as part of project activities through targeted financial 
+management technical assistance with a clear requirement for knowledge transfer incorporated. 
+ 
+49. 
+Project Financial Management System. Dedicated financial management units (EAFS) established 
+within the Office of the Accountant General at FGS and Ministries of Finance in Jubbaland (Kismayo) and 
+South West States (Baidoa) will manage the project’s financial management arrangements. These Units 
+have been operational for the last three years and they are charged with the responsibility of ensuring 
+harmonization of financial management arrangements for externally funded projects using country PFM 
+systems, donor co-ordination to mitigate duplication and proliferation of donor funded projects. The EAFS 
+units in consultation with the PIUs at the Municipalities will have overall day to day management of the 
+project financial management arrangements. The World Bank will work closely with the authorities to 
+support and strengthen the use of country PFM systems without creating parallel arrangements and in 
+line with the provisions of the ‘Somalia New Deal’. The FM arrangements will be continuously monitored 
+through frequent FM supervisions and updated to reflect the emerging issues in the PFM systems. For the 
+payment of Mogadishu based program coordinator, the existing system established under SUIPP parent 
+project will be utilized.  
+ 
+50. 
+Budgeting.  In each region (Baidoa and Kismayo), the Municipalities PIUs will work closely with 
+each of the respective EAFS units to prepare and submit the project annual work plan; budget and cash 
+flow forecast. The annual work plans and the cash forecast will be submitted to the World Bank for review 
+and clearance before the final estimates are incorporated in the annual appropriation budgets.   The work 
+plans, cash flow projections and budget will include the figures for the year segregated by months and 
+quarters. The cash forecasts will reflect the detailed specifications for project activities, schedules 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 22 of 38 
+ 
+(including procurement plan), and anticipated expenditures. Budget utilization reports shall be prepared 
+from the financial management system as part of the internal government(s) periodic reports as well as 
+quarterly reports submitted to the World Bank. For the program coordinator, the budget developed by 
+Benadir Regional Administration (BRA) will be appropriated by the Ministry of Finance.  
+ 
+51. 
+Accounting. The project expenditures will be recognized, captured, analyzed, summarized and 
+reported on cash basis.  These will be supported with appropriate records and documentation to track 
+commitments and to safeguard assets. The project budgets and expenditure will be classified to facilitate 
+the preparation of relevant reports and financial Statements, including information on total project 
+expenditures; total expenditure on each project component/activity, and analysis of that total 
+expenditure into various categories of goods, training, consultants and other procurement and 
+disbursement categories. Standard Chart of Accounts (SCoA) will be used to map the project activities into 
+the bespoke financial management information systems (Bisan at the Federal Member States and Somali 
+Financial Management Information System(SFMIS) at the Federal level) to facilitate the preparation of 
+relevant reports and financial statements, including information on total project expenditures; 
+component/sub-components, categories and economic items (object codes) among other essential 
+dimensional analysis. All the project financial management records will be maintained through the 
+system. Eligibility of expenditures will be based on the actual amount expended as evidenced by 
+appropriate supporting documents. The project financial management arrangements at the PIU will be 
+outlined in the Project Implementation Manual whereas those related to EAFS FM activities are outlined 
+in the respective EAFS Manuals (or Comprehensive Operations and Accounting Procedure Manual – 
+COAPM). The project accounting will cover all project funds and any other contributions under the project.  
+Accounting records will be maintained in US dollars. The respective EAFS units in consultation with the 
+PIUs will ensure that:  
+ 
+(i) 
+All important business and financial processes are adhered to; 
+(ii) 
+Adequate internal controls and procedures are in place; 
+(iii) 
+Interim un-audited Financial Reports (IFRs) are prepared on a timely basis; 
+(iv) 
+The financial statements are prepared on a timely basis and in accordance with International 
+Public-Sector Accounting Standards (IPSAS cash-basis); 
+(v) 
+The external audit is completed on time and audit findings and recommendations/ issues raised 
+in the management letter are implemented expeditiously. 
+ 
+52. 
+The Project Implementation Manual (PIM) will outline specific internal controls related to internal 
+and independent review and approval of works interim payments certificates, authentication and 
+management of contracts security documents, calculation and retirement of retention amounts as well 
+as measures to mitigate potential penalties. The EAFS units and PIUs will also ensure that the contracts 
+are consistent with the invoices and payment request before processing. They will also monitor and report 
+on the utilization of project funds, including the fiduciary standards complied with and the reliability of 
+the FM systems. The Fixed Assets Register relating to the project will be prepared and regularly updated. 
+Physical verification of outputs and assets will be carried out periodically – at least once every year. The 
+Fixed Assets Register will reflect details of suppliers, description and location of goods, original cost, 
+disposal of assets, asset reference (identification) number; Serial or registration number; date of 
+purchase, price (cost) and/or valuation, additions to the asset; condition of asset, useful life and residual 
+value; disposal. A Contracts Register will also be maintained in respect of all contracts with consultants, 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 23 of 38 
+ 
+contractors and suppliers. The EAFS units will prepare Contract Status Reports quarterly as part of the 
+IFRs. Control procedures over fixed assets and contracts management will be the responsibility of the PIU. 
+ 
+53. 
+Financial Reporting. The EAFS in consultation with the PIUs will prepare Quarterly IFRs covering 
+all project funds for monitoring the implementation of the project and submitted to the World Bank within 
+45 days of the end of each fiscal quarter but the periodicity shall be revised based on project fiduciary risk 
+rating. The IFRs will be generated directly from the Core PFM systems (Financial Management Information 
+Systems- FMIS). The IFRs will cover all funds received for the project as well as counterpart or Government 
+funds received under the project, if any. The accounting system will ensure that financial reports are 
+designed to provide relevant and timely information to the project management, implementing agencies, 
+and various stakeholders monitoring the project’s performance. All the original financial records shall be 
+maintained at the EAFS Units. The EAFS will maintain adequate filing and archival system of all accounting 
+and relevant supporting documents for review by the Bank’s FM team during supervision missions and for 
+audit purposes. The EAFS unit at the FGS in consultation with the States EAFS units and PIUs will also 
+prepare Project annual financial statements (PAFS) for the entire project. The content of the statements 
+will be documented in the Audit ToRs to be agreed between the Bank and the Government. The PAFS will 
+be prepared by EAFS in accordance with Cash Basis International Public-Sector Accounting Standards 
+(IPSAS). The AFS shall include adequate notes and disclosures consistent with the cash basis of financial 
+reporting under the IPSAS. 
+ 
+54. 
+External Auditing. The Offices of the Auditor General at the FGS in consultation with the States 
+Auditor General has the constitutional responsibility to carry out independent audit of the project. The 
+project will allocate adequate funds to support the engagement of an external audit firm to work with the 
+staff of the respective Offices of the Auditor General with special reference to International Standards on 
+Auditing (ISA 800) - Auditor’s Report on Special Purpose Audit Engagements. The audited project annual 
+financial statements, management letters together with any additional information required will be 
+submitted to the World Bank within six months after the end of the financial year. The audits shall be in 
+conformity with the World Bank’s audit requirements and in accordance with internationally recognized 
+auditing standards. The respective Offices of the Auditor General will express an opinion on the Financial 
+Statements in compliance with International Standards for Supreme Audit Institutions (ISSAI); and, 
+prepare a Management Letter giving observations and comments, and providing recommendations for 
+improvements in accounting records, systems, controls and compliance with financial covenants in the 
+Grant Agreement(s). 
+ 
+55. 
+Flow of Funds and Banking Arrangements. The Federal Government on behalf of the States will 
+open a separate project Designated Bank Account (DA) at the Central Bank of Somalia (or a Financial 
+Institution Acceptable to the World Bank). The States Ministries of Finance in consultation with the EAFS 
+Units will open Project Accounts (PAs) at the State level for purposes of drawdown of proceeds from the 
+DA. Funds drawdown from the DA to the State PA will be based on approved cash flow and subsequently 
+accounted through Statement of Expenditures (SoEs). Further funds flow processes and procedures shall 
+be defined in the PIM. All the expenditures incurred through the DAs and PAs and as well as those 
+submitted to the World Bank for direct payments will be justified, supported and eligible as shall be 
+defined in the Project Appraisal Document (PAD) and the Grant Agreement(s).  All project withdrawal 
+applications to the World Bank will be made in US dollars and will be submitted online through the client 
+connection.  Replenishment and reimbursement Withdrawal Applications will be accompanied by SOEs in 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 24 of 38 
+ 
+accordance with the procedures established in the disbursement Letter and the Bank’s Disbursement 
+Guidelines. Detailed disbursement arrangements will be documented in the Disbursement Letters. The 
+PIUs, EAFS Units in consultation with the FGS Offices Accountant General will institute adequate controls 
+in the management of the DAs and PAs.  The signatories to the DAs and PAs (Treasury Cheques/Payment 
+Instructions/Electronic Funds Transfer) and Withdrawal Applications will include at least two bank 
+account signatories’ categories (either from each panel must sign) in each of the following panels: -  
+ 
+Designated Accounts (DA) Signatories 
+ 
+Federal Government 
+• 
+Panel A: Director General of MoF (with Director of Administration as alternate)  
+• 
+Panel B: Accountant General (with Deputy Accountant General as alternate) 
+ 
+States (Jubbaland and South West) 
+• 
+Panel A: Director General (with Director of Revenue as alternate)  
+• 
+Panel B: Treasurer (with Deputy Treasurer as alternate) 
+ 
+56. 
+The EAFS units in consultation with the PIUs will prepare detailed cash flow projection segregated 
+into activities for which funds shall be paid as a) direct payments b) from the DA c) from PAs d) operating 
+costs. Payments from the PAs shall be limited to operational activities. Disbursement of funds from the 
+Designated Accounts (DAs) to the PAs shall be based on SOEs to be prepared the PIU and submitted to 
+the EAFS Units on periodic basis. The statements of expenditures shall be supported by transaction ledger 
+listing, bank reconciliation statements and a bank reconciliation statements. Management of the project 
+account procedures shall be detailed in the PIM and comprehensive operating procedure manuals ( 
+COPMs).  
+ 
+Figure 1. Funds flow process 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Payments 
+Reports & information 
+Payments 
+Reports
+Payment Requests 
+Funds disbursement
+MPF  
+World Bank 
+Designated Bank Account 
+Each for FGS and Puntland)  
+(Acceptable Financial Institution)  
+EAFS Unit  
+(Office of the Accountant 
+General)  
+Project Implementation Unit 
+ 
+Banking 
+data  
+Vendor payments 
+(Consultants, contractors etc.   
+Withdrawal applications  
+Direct payments 
+Project Account (each for Kismayo 
+& Baidoa Municipalities) 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 25 of 38 
+ 
+Each of the EAFS units will maintain: 
+ 
+(i) A DA in US Dollar (US$) for the project component in a financial institution acceptable to the 
+World Bank18. The ceiling of the DA will be based on SOE. 
+(ii) Project component funds will be transferred into the DA/PAs against an approved Withdrawal 
+Application/SOEs to be prepared by the EAFS units.  Subsequent withdrawals will be based on SOE 
+and after the change to report-based disbursement, they will be based on the actual amount 
+expended with a forecast of expenditure and cash flow needs for the next six months.  
+(iii) Detailed disbursement arrangements will be documented in the Disbursement Letter.  
+ 
+57. 
+Staffing. Kismayo and Baidoa municipal governments will work closely with the State EAFS teams 
+to carry out the project financial management functions. The implementing agencies’ financial 
+management staff will work closely with the respective Ministries of Finance at the state level to ensure 
+that project activities are well recorded and incorporated in governments budget and financial 
+statements. Options in recruitment of external FM staff through States Civil Service Commissions to 
+support the project activities and PFM capacities of the municipalities will be explored.  
+ 
+58. 
+Fraud and Corruption. Possibility of circumventing the internal control system with colluding 
+practices such as bribes, abuse of administrative positions is a critical issue and may include: (a) complex 
+accounting and internal controls inherent with the construction work contracts in particular management 
+of contracts security documents, retentions, penalties and payments certificates (b) poor filing and 
+records; (c) nascent intergovernmental fiscal relations between FGS, States and Municipalities (d) lack of 
+budget discipline; (e) unauthorized commitment to suppliers, bypassing budget and expenses vetting 
+procedures; (f) uncertainty over the banking arrangements supporting the project g) potential exposure 
+to money laundering, and, h) insecurity and political instability.  These are mitigated as follows: (i) specific 
+aspects on corruption auditing will be included in the external audit and monitoring arrangements ToR; 
+(ii) FM Procedures (as part of EAFS Manual or COAPM and PIM) approved and in operation for the project 
+(iii) strong FM arrangements (including qualified Project Accountants in the EAFS Units (iv) periodic IFRs 
+including budget execution and monitoring; and (v) measures to improve social accountability and 
+transparency that are built into the project design by ensuring that project reports are available to the 
+public vi) Annual PFM forums will be held. The external audit will pay special attention to the risks of 
+material misstatement of the financial statements due to fraud, in line with International Standards on 
+Auditing (ISA) 240: "The auditor’s responsibilities relating to fraud in an audit of financial statements"). 
+ 
+D. Procurement 
+59. 
+Guidelines. Procurement under the proposed AF will be carried out in accordance with the 
+requirements in the Procurement Regulations for Borrowers under IPF: Goods, Works, Non-Consulting 
+Services and Consulting Services dated July 1, 2016 (revised November 2017 and August 2018); “Guidelines 
+on Preventing and Combating Fraud and Corruption in Projects Financed by International Bank for 
+Reconstruction and Development  (IBRD) Loans and IDA Credits and Grants (revised as of July 1, 2016)”; 
+and provisions stipulated in the Financing Agreement. Somalia being a Fragility, Conflict and Violence 
+(FCV) country, Procurement under the projects will be processed under special procurement 
+                                            
+18 On terms and conditions in the World Bank Disbursement Guidelines for Projects (May 1, 2006:11). 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 26 of 38 
+ 
+arrangements referred to in Paragraph 12 of the World Bank Policy Investment Project Financing (IPF) 
+dated November 10, 2017. 
+ 
+60. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan. As per the 
+Procurement Rules and Regulations, the borrower has developed a PPSD, based on which the 
+Procurement Plans (PPs) for the first 12 months have been prepared. The PPs sets out the selection 
+methods to be followed by the borrower during project implementation in the procurement of goods, 
+works, non-consulting and consulting services. The PP will be updated at least every 12 months, or as 
+required, to reflect the actual project implementation needs, but each update will require World Bank 
+approval. All PPs will be publicly disclosed in accordance with the World Bank Group disclosure policy. 
+ 
+61. 
+Under SUIPP AF, the major procurements will be undertaken in respect of World Bank Executed 
+activities. In addition, some project funding is to be used for Recipient Executed activities. These 
+procurements will be simple i.e. to procure qualified individuals (viz. Project Coordinator, Procurement 
+Specialist, Safeguard Specialist) at the two locations of Kismayo and Baidoa to assist with preparation 
+(and, later, implementation) of SURP. This activity will be led by the respective municipal governments 
+under the supervision of the inter-ministerial committees that have been established in each state. An 
+initial procurement assessment of these agencies suggests that although they have some procurement 
+experience, they lack capacity and previous experience in the World Bank Procurement procedures and 
+hence will require support to undertake the necessary procurements according to Bank procedures 
+satisfactorily.  In both Baidoa and Kismayo, the necessary procurement support would be provided by 
+EAFS of the State Ministry of Finance until full time Procurement Specialists are recruited. The project will 
+hire the procurement specialists first, who in turn will handle the procurement of other PIU staff.  
+ 
+62. 
+Systematic Tracking of Exchanges in Procurement (STEP): The World Bank’s STEP system will be 
+used to prepare, clear, and update PPs and conduct all procurement transactions for the project. Staff of 
+the PIUs will be trained in using STEP. 
+ 
+E. Social (including Safeguards) 
+ 
+63. 
+The project is financing the preparation of feasibility studies and preliminary design studies for 
+the long list of roads, and detailed engineering designs for shortlisted priority roads in Kismayo and 
+Baidoa. Due to potential downstream impacts in the follow-on SURP SOP2, OP/BP 4.12 – Involuntary 
+Resettlement is triggered. The rehabilitation and construction of roads in Kismayo and Baidoa may involve 
+land acquisition leading to involuntary resettlement and/or restrictions of access to resources or 
+livelihoods. A Resettlement Policy Framework (RPF) will be developed to guide the management of 
+resettlement caused by land acquisition as well as specific safeguard instrument – Abbreviated 
+Resettlement Action Plans (ARAPs) for the prioritized investments that require land acquisition for the 
+prioritized investments.  
+ 
+64. 
+The RPF/ESMF primarily provides the flexibility to changes in priority investments – which may 
+happen due to frequent political transitions and changes in the Government’s priorities and fills the 
+anticipated capacity gaps in the newly established PIUs for undertaking directly the preparation of specific 
+safeguard instruments namely the ESMPs and ARAPs. An ESMF will also be prepared to screen the long 
+list of investments and to provide guidance for the preparation of the ESMPs for the shortlisted priority 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 27 of 38 
+ 
+investments. UNOPS will, in the process of developing the ESMF/RPF, transfer skills for the subsequent 
+tasks by the PIUs of preparing specific safeguard instruments.  Draft TORs for developing an ESMF and a 
+RPF as well as TORs for the preparation of specific safeguard instruments ESMPs and ARAPs will be 
+produced and disclosed in country and at Infoshop. The TORs will guide the preparation of the ESMF/RFP, 
+the ESMP and the ARAP for SURP SOP2 to comply with World Bank safeguard policies.  
+ 
+F. Environment (including Safeguards) 
+65. 
+While the project will not finance any physical activities or civil works for the potential 
+investments in urban infrastructure in Kismayo and Baidoa, it has been assigned the environment category 
+B. The rationale for this rating is that the project will finance the preparation of feasibility study and 
+preliminary design studies for the long list of roads, and detailed engineering designs for shortlisted 
+priority roads in the two cities. These activities are expected to incur downstream environmental and 
+social impacts commensurate with the preparation of ESMPs.  
+ 
+66. 
+Two environmental safeguards policies - OP/BP 4.01 - Environmental Assessment and OP/BP 4.11 
+- Physical and Cultural Resources are deemed applicable due to potential adverse environmental impacts 
+in the follow-on SURP SOP2. This includes deposition of solid wastes, dust emission, and health and safety 
+of construction workers and communities - are expected to relate mainly to construction activities during 
+project implementation and will occur concurrently.  OP/BP 4.11 - Physical and Cultural Resources is 
+applicable owing to the potential for chance find of cultural or archeological significance during 
+construction, including the existence of some historic buildings around the secondary road investments 
+that could potentially be impacted from the construction.  
+ 
+67. 
+The final identification of specific investments will be made from the long list of roads and 
+technical surveys that would determine the optimal design, construction methods and cost estimates. 
+Detailed design work for the shortlisted prioritized investments would require the drafting, consultation 
+and disclosure of ESMF and RPF as well as developing specific ESIA/ESMPs and RAPs as part of the SUIPP 
+AF.  
+ 
+68. 
+While the ESMF and RPF will be prepared by UNOPS on behalf of the Recipient, the site specific 
+ESIAs/ESMPs and RAPs for the priority roads will be prepared by the respective PIUs.  The Scope of Work 
+outlining the above environmental and social studies/preparation of ESMF and RPF, as well as Generic 
+ToRs for the preparation of site specific ESIAs/ESMPs and RAPs, have been prepared and will be disclosed 
+in-country as feasible and on the World Bank external website.  
+ 
+VI. 
+WORLD BANK GRIEVANCE REDRESS 
+ 
+Grievance Redress 
+69. 
+Communities and individuals who believe that they are adversely affected by a World Bank (WB) 
+supported project may submit complaints to existing project-level grievance redress mechanisms or the 
+WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed 
+in order to address project-related concerns. Project affected communities and individuals may submit 
+their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or 
+could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 28 of 38 
+ 
+submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank 
+Management has been given an opportunity to respond.  For information on how to submit complaints 
+to 
+the 
+World 
+Bank’s 
+corporate 
+Grievance 
+Redress 
+Service 
+(GRS), 
+please 
+visit 
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. For 
+information on how to submit complaints to the World Bank Inspection Panel, please visit 
+www.inspectionpanel.org 
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 29 of 38 
+ 
+    
+70.   
+ 
+I. 
+SUMMARY TABLE OF CHANGES 
+ 
+ 
+Changed 
+Not Changed 
+Implementing Agency 
+  ✔ 
+   
+Project's Development Objectives 
+  ✔ 
+   
+Results Framework 
+  ✔ 
+   
+Components and Cost 
+  ✔ 
+   
+Loan Closing Date(s) 
+  ✔ 
+   
+Disbursements Arrangements 
+  ✔ 
+   
+Safeguard Policies Triggered 
+  ✔ 
+   
+Cancellations Proposed 
+     
+✔ 
+Reallocation between Disbursement Categories 
+     
+✔ 
+EA category 
+     
+✔ 
+Legal Covenants 
+     
+✔ 
+Institutional Arrangements 
+     
+✔ 
+Financial Management 
+     
+✔ 
+Procurement 
+     
+✔ 
+Other Change(s) 
+     
+✔ 
+ 
+ 
+II. 
+DETAILED CHANGE(S) 
+ 
+IMPLEMENTING AGENCY 
+ 
+ 
+Implementing Agency Name 
+Type 
+Action 
+Hargeisa Municipality 
+Subnational/Local 
+Government 
+Marked for Deletion 
+Mogadishu Municipality 
+Subnational/Local 
+Government 
+No Change 
+Hargeisa Water Agency 
+Parastatal/Indepen
+dent Government 
+Institute 
+Marked for Deletion 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 30 of 38 
+ 
+Garowe Municipality 
+Subnational/Local 
+Government 
+Marked for Deletion 
+Baidoa Municipality 
+Subnational/Local 
+Government 
+ 
+Kismayo Municipality 
+Subnational/Local 
+Government 
+ 
+ 
+ 
+ 
+ 
+PROJECT DEVELOPMENT OBJECTIVE 
+Current PDO 
+To provide (i) an assessment of the feasibility of, and preliminary plans for, selected urban investment and 
+institutional strengthening activities in southern Somalia, Puntland and Somaliland, and (ii) enhanced project 
+preparation and implementation capacity of participating agencies.  
+ 
+Proposed New PDO 
+To provide: (i) an assessment of the feasibility of, and preliminary plans for, selected urban investment and 
+institutional strengthening activities in targeted cities, and (ii) enhanced project preparation and implementation 
+capacity of participating agencies. 
+ 
+  
+COMPONENTS 
+Current Component Name 
+Current Cost 
+(US$, millions) 
+Action 
+Proposed Component 
+Name 
+Proposed Cost (US$, 
+millions) 
+Mogadishu 
+2.43 Marked for 
+Deletion 
+Mogadishu 
+1.73 
+ 
+0.00 New 
+Technical Studies 
+1.94 
+ 
+0.00 New 
+Project Implementation 
+Capacity Support 
+1.06 
+Garowe 
+1.63 Marked for 
+Deletion 
+Garowe 
+0.98 
+Hargeisa 
+1.68 Marked for 
+Deletion 
+Hargeisa 
+1.03 
+Cross-cutting Activities 
+1.83 Marked for 
+Deletion 
+Cross-cutting Activities 
+1.83 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 31 of 38 
+ 
+TOTAL 
+   7.57  
+ 
+   8.57 
+ 
+ 
+LOAN CLOSING DATE(S) 
+Ln/Cr/Tf 
+Status 
+Original Closing 
+ 
+Current 
+Closing(s)  
+ 
+Proposed  
+Closing  
+ 
+Proposed Deadline 
+for Withdrawal 
+Applications 
+TF-A1710 
+Effective 
+30-Jun-2017 
+30-Jun-2018 
+31-Dec-2021 
+30-Apr-2022 
+TF-A1754 
+Effective 
+30-Jun-2017 
+30-Jun-2018 
+31-Dec-2021 
+30-Apr-2022 
+    
+DISBURSEMENT ARRANGEMENTS 
+Change in Disbursement Arrangements 
+Yes 
+ 
+ Expected Disbursements (in US$) 
+ DISBURSTBL 
+Fiscal Year 
+Annual 
+Cumulative 
+2016 
+21,462.00 
+21,462.00 
+2017 
+156,420.00 
+177,882.00 
+2018 
+227,085.00 
+404,967.00 
+2019 
+352,311.00 
+757,278.00 
+2020 
+589,467.00 
+1,346,745.00 
+2021 
+819,456.00 
+2,166,201.00 
+2022 
+833,799.00 
+3,000,000.00 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+Risk Category 
+Latest ISR Rating 
+Current Rating 
+ 
+Political and Governance 
+⚫ High 
+⚫ High 
+ 
+Macroeconomic 
+⚫ Low 
+⚫ Moderate 
+ 
+Sector Strategies and Policies 
+⚫ Low 
+⚫ Moderate 
+ 
+Technical Design of Project or Program 
+⚫ Moderate 
+⚫ Moderate 
+ 
+Institutional Capacity for Implementation and 
+Sustainability 
+⚫ High 
+⚫ High 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 32 of 38 
+ 
+Fiduciary 
+⚫ Moderate 
+⚫ Substantial 
+ 
+Environment and Social 
+⚫ Low 
+⚫ Substantial 
+ 
+Stakeholders 
+⚫ High 
+⚫ High 
+ 
+Other 
+⚫ High 
+⚫ High 
+ 
+Overall 
+⚫ High 
+⚫ High 
+ 
+ Safguard_Table 
+COMPLIANCE 
+Change in Safeguard Policies Triggered 
+Yes 
+Safeguard Policies Triggered 
+Current 
+Proposed 
+Environmental Assessment OP/BP 
+4.01 
+ 
+Yes 
+Yes 
+Performance Standards for Private 
+Sector Activities OP/BP 4.03 
+ 
+No 
+No 
+Natural Habitats OP/BP 4.04 
+ 
+No 
+No 
+Forests OP/BP 4.36 
+ 
+No 
+No 
+Pest Management OP 4.09 
+ 
+No 
+No 
+Physical Cultural Resources OP/BP 
+4.11 
+ 
+No 
+Yes 
+Indigenous Peoples OP/BP 4.10 
+ 
+No 
+No 
+Involuntary Resettlement OP/BP 4.12 
+ 
+No 
+Yes 
+Safety of Dams OP/BP 4.37 
+ 
+No 
+No 
+Projects on International Waterways 
+OP/BP 7.50 
+ 
+No 
+No 
+Projects in Disputed Areas OP/BP 7.60 
+ 
+No 
+No 
+   
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 33 of 38 
+ 
+LEGAL COVENANTS2 
+LEGAL COVENANTS – Somali Urban Investment Planning Project Additional Financing (P166591) 
+Sections and Description 
+ 
+ 
+SCHEDULE 2: Project Execution 
+Section I. 
+Institutional and Other Arrangements 
+ 
+D. Project Implementation Manual 
+ 
+The Recipient shall: (a) not later than thirty (30) days after the Effective Date,  adopt the Project Implementation 
+Manual, in form and substance to the World Bank, and thereafter (b) carry out the Project in accordance with said  
+Project Implementation Manual containing, detailed guidelines and procedures for the implementation of the 
+Project, including monitoring and evaluation, procurement, coordination, financial, administrative and accounting 
+procedures, corruption and fraud mitigation measures and such other arrangements and procedures as shall be 
+required for the Project, and  except as the World Bank shall otherwise agree in writing, not amend or waive, or 
+permit to be amended or waived any provision of thereof. 
+ 
+ 
+ 
+Conditions 
+ 
+Type 
+Description 
+Effectiveness 
+Article IV: Effectiveness 
+ 
+4.01.       The Grant Agreement shall not become effective until evidence 
+satisfactory to the World Bank has been furnished to the World Bank that the 
+following condition has been fulfilled, namely that the Subsidiary Agreements 
+have been executed and delivered, respectively, on behalf of the Recipient and 
+South West State of Somalia, and on behalf of the Recipient and the Jubbaland 
+State of Somalia, and the pertinent Subsidiary Agreement is legally binding upon 
+the Recipient and South West State of Somalia, or upon the Recipient and the 
+Jubbaland State of Somalia, in accordance with the terms of such Subsidiary 
+Agreement; and  
+ 
+4.02.        As part of the evidence to be furnished pursuant to Section 4.01(a) 
+immediately above, there shall be furnished to the World Bank an opinion or 
+opinions satisfactory to the World Bank of counsel acceptable to the World Bank 
+or, if the World Bank so requests, a certificate satisfactory to the World Bank of a 
+competent official of the Recipient, showing the following matters: 
+ 
+(a) 
+that on behalf of the Recipient, this Agreement has been duly authorized 
+or ratified by, and executed and delivered on behalf of the Recipient and is 
+legally binding upon it in accordance with its terms; and 
+ 
+(b) 
+that the pertinent Subsidiary Agreement has been duly authorized or 
+ratified by the Recipient and South West State of Somalia, or by the Recipient 
+and the Jubbaland State of Somalia, and is legally binding upon the Recipient and 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 34 of 38 
+ 
+South West State, or upon the Recipient and the Jubbaland State of Somalia, in 
+accordance with terms of such Subsidiary Agreement.  
+ 
+4.03.  Except as the Recipient and the World Bank shall otherwise agree, date 
+on which this Agreement shall enter into effect (Effective Date) shall be the date 
+upon which the World Bank dispatches to the Recipient notice of its acceptance 
+of the evidence required pursuant to Section 4.01. If, before the Effective Date, 
+any event has occurred which would have entitled the World Bank to suspend 
+the right of the Recipient to make withdrawals from the Grant Account if this 
+Agreement had been effective, the World Bank may postpone the dispatch of 
+the notice referred to in this Section until such events have ceased to exist. 
+ 
+4.04.        This Agreement and all obligations of the parties under it shall 
+terminate if it has not entered into effect by the date ninety (90) days after the 
+date of this Agreement, unless the World Bank, after consideration of the 
+reasons for the delay, establishes a later date for the purpose of this Section. The 
+World Bank shall promptly notify the Recipient of such later date. 
+ 
+ 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 35 of 38 
+ 
+IX. RESULTS FRAMEWORK AND MONITORING 
+ 
+ 
+      
+ 
+Results Framework 
+COUNTRY: Somalia  
+Somali Urban Investment Planning Project Additional Financing 
+Project Development Objective(s) 
+ 
+To provide: (i) an assessment of the feasibility of, and preliminary plans for, selected urban investment and institutional strengthening activities in targeted cities, and (ii) 
+enhanced project preparation and implementation capacity of participating agencies. 
+ 
+Project Development Objective Indicators by Objectives/ Outcomes 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+End Target 
+ 
+ 
+ 
+Feasibity studies, preliminary and detailed design studies for specific urban investments conducted (Action: This Objective is New) 
+Feasibility, preliminary design, and detailed design studies for 
+specific urban investments: secondary roads in Kismayo and 
+Baidoa (Number)  
+0.00 
+5.00 
+Action: This indicator has been Revised  
+Institutional assessments of participating agencies conducted (Action: This Objective is New) 
+Institutional assessments of participating agencies (Number)  
+0.00 
+5.00 
+Action: This indicator has been Revised  
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 36 of 38 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+End Target 
+ 
+ 
+ 
+Assessment of Local Development Fund (Number)  
+0.00 
+1.00 
+Action: This indicator has been Marked for Deletion  
+Project implementation units established in targeted cities (Action: This Objective is New) 
+Project implementation units established in targeted cities 
+(Number)  
+0.00 
+5.00 
+Action: This indicator has been Revised  
+ 
+PDO Table SPACE 
+ 
+Intermediate Results Indicators by Components 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+End Target 
+ 
+ 
+ 
+ 
+Component 1: Technical Studies (Action: This Component is New) 
+Contracting for Feasibility Studies and Institutional Assessments 
+(Number)  
+0.00 
+4.00 
+Action: This indicator has been Revised  
+Component 2: Project Implementation Capacity Support (Action: This Component is New) 
+Establishment of Project Implementation Units (PIUs) in target 
+cities (Number)  
+0.00 
+5.00 
+Action: This indicator is New  
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 37 of 38 
+ 
+IO Table SPACE 
+  
+Monitoring & Evaluation Plan: PDO Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Feasibility, preliminary design, and 
+detailed design studies for specific urban 
+investments: secondary roads in Kismayo 
+and Baidoa 
+Number of cities that have 
+had technical studies 
+conducted for priority 
+urban investment. 
+Annual 
+ 
+Project 
+reports 
+ 
+Regular supervision 
+missions and reporting 
+from the project. 
+ 
+World Bank 
+ 
+Institutional assessments of participating 
+agencies 
+Number of cities that have 
+had institutional 
+assessments conducted. 
+Project end 
+ 
+Implementati
+on Support 
+Missions and 
+Project 
+reports 
+ 
+Regular reporting 
+ 
+World Bank 
+ 
+Assessment of Local Development Fund 
+Reports 
+Bank team 
+Output of 
+project 
+ 
+Over the course of the 
+project 
+Project implementation units established 
+in targeted cities 
+Number of project 
+implementation units 
+established in each city 
+Annual 
+ 
+Project 
+support 
+missions and 
+project 
+reporting 
+ 
+Regular project reports 
+ 
+World Bank 
+ 
+ 
+ME PDO Table SPACE 
+ 
+ 
+The World Bank 
+ 
+Somali Urban Investment Planning Project Additional Financing (P166591) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 26, 2018 
+Page 38 of 38 
+ 
+Monitoring & Evaluation Plan: Intermediate Results Indicators Mapped 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+Contracting for Feasibility Studies and 
+Institutional Assessments 
+Number of contracts 
+signed 
+Annual 
+ 
+Project 
+activity 
+ 
+Regular implementation 
+support missions and 
+project reports 
+ 
+World Bank 
+ 
+Establishment of Project Implementation 
+Units (PIUs) in target cities 
+Number of PIUs set up in 
+target cities. 
+Annual 
+ 
+Project 
+reports 
+ 
+Regular implementation 
+support missions and 
+project monitoring and 
+completion report 
+ 
+World Bank 
+ 
+ 
+ME IO Table SPACE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
