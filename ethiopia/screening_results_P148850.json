@@ -1,0 +1,102 @@
+{
+  "project_id": "P148850",
+  "project_name": "Ethiopia- Expressway Development Support Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2015,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides a standard country context focused on economic growth and demographics, with no conflict or fragility diagnostic. Do-no-harm analysis is absent despite acknowledged resettlement and social disruption risks. Stakeholder engagement is framed around multi-donor coordination and safeguards compliance, not political economy or conflict sensitivity."
+    },
+    "responsiveness": {
+      "numeric_score": 1.8,
+      "rating": "Not Addressed",
+      "rationale": "The PDO is a conventional transport efficiency objective with no FCV dimension. Design, targeting, and implementation arrangements follow standard infrastructure practice with no conflict-sensitive adaptations. The results framework contains no FCV-adjusted indicators and adaptive management provisions address only fiduciary and capacity risks."
+    }
+  },
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia has a federal, democratic government system...The Ethiopian People's Revolutionary Democratic Front (EPRDF) has been in power since 1991. EPRDF comprises four regionally based parties from the four major regions.",
+      "rationale": "The country context describes Ethiopia's federal-ethnic governance structure and population pressures but frames these solely in economic development terms. There is no conflict risk analysis, no reference to localized fragility or inter-ethnic tensions, and no FCV diagnostic informing project design."
+    },
+    {
+      "id": 2,
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "Service providers in smaller towns along the existing road would consider they will lose business. The highway will restrict movement of crossing traffic and animals.",
+      "rationale": "The PAD acknowledges social disruption to existing road-side communities and resettlement of farmland and scattered households, but frames these as safeguards compliance issues rather than conflict or do-no-harm risks. No conflict sensitivity lens is applied to displacement, livelihood loss, or corridor access restrictions."
+    },
+    {
+      "id": 3,
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "ERA has prepared a Framework for Project Implementation Coordination (FPIC) outlining the arrangements for joint monitoring of compatibility of the engineering standard of the works and consistent implementation of the safeguard instruments.",
+      "rationale": "Stakeholder engagement focuses on multi-donor coordination and safeguards implementation among government agencies. There is no political economy analysis, no assessment of elite capture risks in corridor investments, and no engagement strategy for conflict-affected or marginalized populations in the project area."
+    },
+    {
+      "id": 4,
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of the Project is to enhance efficiency and safety in the movement of goods and people along the Batu (Zeway)-Arsi Negele section of the Modjo-Hawassa development corridor.",
+      "rationale": "The PDO is a standard transport efficiency and institutional capacity objective with no FCV-related components. The theory of change links road construction to trade facilitation and economic growth, with no pathway addressing fragility drivers, social cohesion, or conflict-sensitive development."
+    },
+    {
+      "id": 5,
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "Direct beneficiaries within the project influence area between Batu (Zeway) and Arsi Negele are estimated to be about 400,000 of which approximately 50 percent are female.",
+      "rationale": "Beneficiary targeting is based on geography and gender disaggregation with no FCV-adapted approach. The greenfield highway alignment and livelihood restoration sub-component address safeguards obligations but are not designed to prioritise conflict-affected or marginalised populations. No FCV-sensitivity is embedded in design choices."
+    },
+    {
+      "id": 6,
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "As multiple donors will finance separate sections of the road, and this is a new greenfield development...the risk at preparation and implementation is considered to be substantial.",
+      "rationale": "Implementation risk management addresses fiduciary, capacity, and environmental/social safeguards. There are no conflict-contingency provisions, no adaptive protocols for FCV-related disruptions, and no flexibility mechanisms tied to changes in the security or political environment."
+    },
+    {
+      "id": 7,
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 1.5,
+      "rating": "Not Addressed",
+      "key_quote": "Expected outcomes include: (a) a reduction in travel time between Batu (Zeway) and Arsi Negele; (b) a reduction in vehicle operating cost...and (f) the production of annual reports on citizens' engagement.",
+      "rationale": "The results framework comprises entirely standard transport sector indicators — travel time, vehicle operating cost, road accident fatalities, and beneficiary counts. There are no FCV-adjusted indicators, no resilience or social cohesion metrics, and no adaptive management provisions linked to conflict or fragility dynamics."
+    },
+    {
+      "id": 8,
+      "name": "One WBG Integration",
+      "composite": "Responsiveness",
+      "numeric_score": 1.5,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No",
+      "rationale": "IFC/MIGA involvement is explicitly absent. While the PAD notes China EXIM Bank parallel co-financing and references IFC/MIGA alignment with the Country Partnership Strategy's Pillar One, there is no joint WBG instrument, no IFC private sector engagement, and no MIGA guarantee component."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This transport infrastructure PAD operates entirely outside an FCV framework, with no conflict diagnostic, no do-no-harm analysis, and no FCV-adjusted objectives or indicators. Ethiopia was not on the WB FCV list in 2015, but the project's complete absence of conflict sensitivity — despite acknowledged resettlement, ethnic-regional governance complexity, and corridor-level social disruption — places it firmly in the Low FCV integration quadrant."
+}

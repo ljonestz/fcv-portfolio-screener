@@ -1,0 +1,94 @@
+{
+  "project_id": "P171742",
+  "project_name": "Access to Distributed Electricity and Lighting in Ethiopia (ADELE)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2021,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.67,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides a brief country context noting IDP figures (1.6M to 2.8M since 2018), refugee hosting (920,000), and regional diversity, but offers no systematic conflict or fragility analysis. Despite SORT rating Political and Governance risk as High, neither conflict dynamics nor the ongoing Tigray conflict (active at time of appraisal, March 2021) are discussed. Do-no-harm considerations are absent from the design narrative, and stakeholder analysis is limited to gender and geographic targeting with no power economy or elite capture assessment."
+    },
+    "responsiveness": {
+      "numeric_score": 3.00,
+      "rating": "Not Addressed",
+      "rationale": "The PDO and theory of change are framed as a standard energy access operation with no FCV-sensitive logic. Geographic targeting of underserved lowland regions (Somali, Afar, Gambella, Benishangul-Gumuz) provides implicit FCV-relevant reach but is framed in poverty and market-access terms rather than conflict sensitivity. No CERC, no adaptive management triggers for security scenarios, and the results framework contains no FCV-adjusted indicators or conflict-disaggregated monitoring."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "the number of internally displaced persons (IDPs) has risen from 1.6 million to 2.8 million since the beginning of 2018... Ethiopia hosts more than 920,000 refugees, primarily from neighboring Somalia, Sudan, South Sudan, and Eritrea",
+      "rationale": "The PAD mentions displacement and refugee hosting in passing within the poverty/social context section, but does not analyse causes, conflict dynamics, or implications for the project. The Tigray conflict, which erupted in November 2020 and was ongoing at appraisal (March 2021), is entirely absent from the document. SORT flags Political and Governance risk as High without connecting it to fragility or armed conflict. No causal link is drawn from FCV drivers to project design."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "SORT Rating — Political and Governance: High",
+      "rationale": "The SORT table rates Political and Governance risk as High, but the accompanying Key Risks section does not include conflict-specific harm pathway analysis. Mini-grid investments in the Somali region are mentioned without any discussion of conflict dynamics in that context. GBV/SEA is referenced in Environmental and Social Standards but no conflict-specific do-no-harm analysis appears in the project design narrative."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Particularly Benishangul-Gumuz, Gambella, Somali, and Afar are underserved... The project will provide specific incentives for companies to target these poorer, underserved areas",
+      "rationale": "The PAD includes a substantive gender analysis (Annex 7), targets historically underserved ethnic communities in the lowlands, and invokes ESS7 on indigenous/historically underserved traditional local communities. However, there is no power dynamics or political economy analysis, no discussion of elite capture risks in mini-grid site selection or RBF disbursements, and no assessment of how ethnic or regional political dynamics could affect benefit distribution."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The Project Development Objective is to increase access to reliable electricity for households, social institutions, and enterprises in Ethiopia.",
+      "rationale": "The PDO is a standard energy access objective with no FCV-specific framing. The results chain links electricity access to poverty reduction, gender empowerment, and COVID-19 recovery without accounting for how conflict, displacement, or fragility mediate these pathways. There is no peace dividend logic, no FCV-sensitive assumption, and no acknowledgement that achieving the PDO in conflict-affected regions requires fundamentally different theory of change assumptions."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Benishangul-Gumuz, Gambella, Somali, and Afar are underserved... The project will provide specific incentives for companies to target these poorer, underserved areas through results-based financing",
+      "rationale": "The project explicitly targets some of Ethiopia's most FCV-affected and conflict-adjacent regions through geographic RBF incentives, and the mini-grid hybridisation subcomponent specifically covers the Somali region. This de facto FCV-relevant targeting is commendable. However, the targeting rationale is framed entirely in poverty and market-failure terms rather than conflict sensitivity; there are no tailored design adaptations for operating in active or post-conflict areas."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "[ ] Contingent Emergency Response Component (CERC)... [ ] Fragile State(s)... [ ] Conflict",
+      "rationale": "The Datasheet explicitly leaves CERC, Fragile State, and Conflict implementation modality boxes unchecked. No adaptive management triggers for security deterioration or conflict-driven implementation disruptions are included. The multi-implementing-agency structure (MoWIE, EEU, DBE) is standard for energy projects and includes no flexibility provisions for operating in conflict-affected areas."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "PDO level indicators: People provided with new or improved electricity service... Enterprises provided with new or improved electricity service... Institutions provided with new or improved electricity service",
+      "rationale": "All PDO-level indicators are standard energy access metrics with no FCV dimension. There is no disaggregation by displacement status, conflict-affected location, or ethnicity. No adaptive management protocol for FCV-related shocks is described."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The Datasheet explicitly states there is no Bank/IFC collaboration. The project references private sector mobilisation goals (US$100 million in private capital for mini-grids) but this is framed as a development finance mobilisation objective, not IFC/MIGA coordination with an FCV rationale. No WBG joint FCV analysis or IFC investment in conflict-affected energy markets is discussed."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "ADELE is a well-designed large-scale energy access operation that implicitly reaches some of Ethiopia's most FCV-affected populations through geographic targeting of the lowlands (Somali, Afar, Gambella, Benishangul-Gumuz), but it is designed and framed entirely as a technical infrastructure project with no meaningful FCV sensitivity or responsiveness integration — most strikingly, the Tigray conflict ongoing at appraisal is entirely absent from the document."
+}

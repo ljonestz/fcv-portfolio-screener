@@ -1,0 +1,94 @@
+{
+  "project_id": "P175167",
+  "project_name": "Ethiopia Program for Results (Hybrid) for Strengthening Primary Health Care Services",
+  "doc_type": "Program Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 8.0,
+      "rating": "Substantially Addressed",
+      "rationale": "The document provides an extensive and evidence-based diagnosis of how conflict in Tigray, Amhara, and Afar has devastated health system access, displaced 5.5 million people, and exacerbated GBV and undernutrition. FCV context is integrated throughout the strategic rationale, with explicit acknowledgement of do-no-harm considerations through SEA/SH frameworks, security risk management plans, and differentiated programming for conflict versus non-conflict areas. Political economy and stakeholder dimensions are handled through the SDGPF multi-donor coordination platform, though analysis of conflict-driven elite dynamics is less explicit."
+    },
+    "responsiveness": {
+      "numeric_score": 7.8,
+      "rating": "Substantially Addressed",
+      "rationale": "The hybrid PforR/IPF design is a direct and substantive operational response to conflict, using a third-party implementing agency for conflict-affected areas, mobile health teams, temporary clinics for IDPs, and a Contingent Emergency Response Component (CERC). The theory of change explicitly tracks parallel results chains for conflict and non-conflict areas. Results indicators are disaggregated by conflict/non-conflict status, and the operation is expressly aligned with six FCV Strategy modalities. IFC/MIGA engagement is noted as absent, which slightly limits D8."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 8.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The conflict in Tigray, Amhara, Afar, and other parts of the country resulted in significant disruptions... close to 24 million people have been impacted in the conflict-affected areas.",
+      "rationale": "The document provides an unusually thorough conflict impact analysis for a health sector operation, quantifying displacement (5.5 million), humanitarian need (5.2 million in Northern Ethiopia alone), GBV escalation, nutritional deterioration, and health facility destruction. Climate-conflict interactions are also explicitly addressed. The analysis is grounded in identified sources including IOM, UN-OCHA, and EHRC/OHCHR joint investigations. Minor limitation: the political drivers and actors behind the Tigray conflict are not named, and subnational variation beyond the main conflict regions receives less attention."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 8.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "The Recipient has contracted a third party agent to be responsible for implementation of activities in high risk of conflict areas under Parts II.1 of the Project.",
+      "rationale": "The document requires, as an effectiveness condition, that a third-party implementing agent with proven access to conflict hotspots is contracted before disbursement, directly mitigating do-no-harm risks in active conflict zones. A security risk assessment and management plan, SEA/SH prevention and response action plan, and community health and safety standards are all built into the legal covenants. GBV is explicitly addressed as an escalating risk with targeted mitigation through One-Stop Centers. The PforR component deliberately restricts to non-conflict woredas, limiting exposure further."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 7.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The SDGPF has been financed by twelve contributing partners including the World Bank... a revised joint financing agreement between MOH, MOF, and the 12 contributors.",
+      "rationale": "Stakeholder mapping is strong at the institutional level: the SDGPF multi-donor architecture, Joint Consultative Forum, and Federal Steering Committee are well-described as coordination mechanisms. The operation aligns with UNFPA, UNICEF, WHO, GAVI, and bilateral donors. However, the document does not analyse political economy risks related to wartime governance, potential capture of health resources by conflict parties, or how the government's control over health infrastructure in contested areas could shape implementation. Civil society engagement is mentioned but not elaborated in detail."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 8.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "The operation is fully aligned with the World Bank Group Strategy for Fragility, Conflict, and Violence (FCV) 2020-2025... aligned with six key modalities linked to the FCV Strategy.",
+      "rationale": "The PDO explicitly targets equitable provision and access, with conflict-affected populations identified as a primary beneficiary group alongside the broader population. The theory of change includes distinct results chains for conflict and non-conflict areas, tracking mobile health teams, IDP clinics, and facility rehabilitation alongside the PforR RMNCAH+N chain. The six FCV Strategy modalities are explicitly enumerated and linked to design features. The connection between health service delivery and state legitimacy is stated in the strategic rationale."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 8.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The IPF instrument is needed for channeling financial and technical support to the conflict areas... through a third-party implementing agency with proven access into these hot spots.",
+      "rationale": "The hybrid PforR/IPF design is the central operational innovation: the PforR covers non-conflict woredas through country systems, while the IPF component ($89M) directly targets conflict-affected and IDP populations with mobile health teams, temporary clinics, and facility rehabilitation. Targeting women, children, and IDPs — including the 720,000 displaced children — is explicit and quantified. Equity is operationalised through focus on the lowest-performing 4 regions and lowest-performing 20% of woredas in DLIs. CERC provides additional adaptive capacity."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 8.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "The IPF component will be conducted through a third-party implementing agency with proven access into these hot spots... a Contingent Emergency Response Component (CERC).",
+      "rationale": "Operational flexibility is well-institutionalised through: (i) a CERC for rapid reallocation in emergencies; (ii) third-party implementation in conflict areas; (iii) mobile health and nutrition teams (MHNTs) for IDP and displaced population reach; and (iv) annual work plan and budget cycles. The overall risk rating is High, reflecting acknowledged implementation complexity. The Federal Steering Committee provides a governance mechanism for obstacle removal. The non-earmarked SDGPF financing also provides programmatic flexibility."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 7.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The results framework provides baselines and targets for similar outcome indicators for conflict- and non-conflict-affected areas.",
+      "rationale": "The results framework explicitly tracks parallel indicators for conflict and non-conflict areas, which is a meaningful design choice reflecting FCV-sensitive M&E thinking. PDO indicators include facility delivery for lowest-performing regions, ANC4, and IFA adherence — all relevant to conflict-affected populations. DLIs are constructed to disburse against results in non-conflict woredas while IPF results cover conflict areas. However, the framework does not include explicit FCV-adjusted indicators such as access metrics under insecurity or health system resilience measures. Adaptive management mechanisms beyond CERC are not fully elaborated."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 4.5,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. The document does reference public-private partnership as a strategic objective within HSTP II and the Health Care Financing Strategy, and mentions private sector engagement as a WBG FCV Strategy pillar. However, there is no operational IFC or MIGA engagement designed into this operation, and no discussion of how private health providers in conflict-affected areas could be leveraged. The score reflects the absence of WBG integration beyond IDA, which is a structural limitation in the Ethiopia conflict context where private and NGO health providers are critical."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "This hybrid PforR/IPF operation demonstrates high FCV integration, explicitly deploying differentiated instruments for conflict and non-conflict areas, using third-party implementation in active conflict zones, and aligning with all six WBG FCV Strategy modalities. The main gap is the absence of IFC/One WBG engagement and limited political economy analysis of wartime governance risks."
+}

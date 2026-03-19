@@ -1,0 +1,102 @@
+{
+  "project_id": "P163383",
+  "project_name": "Ethiopia Resilient Landscapes and Livelihoods Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2018,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.33,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a meaningful country context covering political instability, land tenure insecurity, climate vulnerability, and rural fragility, with SORT rating political/governance risk as Substantial. However, conflict dynamics in Ethiopia's most fragile sub-regions (Somali, Oromia) are absent, and there is no structured fragility/conflict diagnostic. Do-no-harm awareness is evident through CDP screening and elite capture flagging, but inter-community resource conflict — a known driver in highland watersheds — is not analysed. Stakeholder analysis is participatory but lacks depth on political economy of land access."
+    },
+    "responsiveness": {
+      "numeric_score": 4.00,
+      "rating": "Partially Addressed",
+      "rationale": "The project's theory of change links landscape restoration to livelihood diversification and resilience but does not explicitly connect to FCV reduction pathways. Targeting is driven by land degradation severity, not FCV hotspot analysis. The results framework is technically strong but contains no FCV-adjusted indicators — no conflict reduction, social cohesion, or displacement prevention metrics. Operational flexibility is limited; CERC is not included and contingency planning for civil disturbance is generic. IFC/MIGA collaboration is explicitly absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Political and governance risk is rated Substantial... risk that implementation could be negatively impacted should civil disturbances recur.",
+      "rationale": "The PAD acknowledges Ethiopia's political instability, including the February 2018 State of Emergency and risk of recurrence, and frames land/water/tenure insecurity as structural vulnerability drivers. Conflict is treated as background governance risk rather than analysed diagnostically. Fragility dynamics in sub-regions such as Somali or Oromia — where RLLP watersheds may be located — are absent, and there is no use of fragility indices or conflict mapping tools."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "To mitigate risks related to the CDP, woreda staff will be trained in the application of the Alignment of Operations Screening checklist.",
+      "rationale": "The PAD demonstrates genuine do-no-harm awareness through the Alignment of Operations Screening Checklist to avoid overlap with the Government's Commune Development Programme (forced resettlement), explicit flagging of elite capture, and spatial separation from Mass Mobilisation Campaign sites. However, inter-community conflict over land and natural resources — a well-documented risk in Ethiopian highland watershed interventions — is not addressed. Mitigation for named risks (CDP, elite capture) relies on procedural safeguards and communication rather than structural design changes."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "composite": "sensitivity",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Required participation of women in Community Watershed Teams, Kebele Watershed Teams, KLAUCs, and Watershed User Associations.",
+      "rationale": "The PAD builds in strong participatory mechanisms with mandatory women's inclusion across all community governance structures and specific targeting of landless youth through communal land certification. However, political economy analysis of who controls access to restored productive landscapes is shallow. Elite capture is named as a Substantial stakeholder risk but the proposed mitigation — enhanced transparency and communication — is generic and not grounded in a power analysis of local resource governance dynamics."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Building resilience is a central consideration... Resilience-building involves strengthening three specific capacities: absorptive, adaptive, and transformative.",
+      "rationale": "The PDO and theory of change are coherently structured around a three-tiered resilience framework (absorptive, adaptive, transformative) with clear pathways from SLWM interventions to livelihood diversification. The theory of change is credible for climate and environmental resilience but does not articulate how the project reduces conflict risk, builds social cohesion, or addresses drivers of civil unrest — even though the PAD acknowledges that RLLP will 'contribute to alleviating some of the drivers of civil unrest, including natural resource degradation and rural landlessness.' This causal claim is not operationalised in the theory of change."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "composite": "responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "17 new watersheds selected for RLLP, prioritized for extent and severity of land degradation, will receive assistance for the preparation of MYDPs.",
+      "rationale": "Watershed selection is based entirely on land degradation severity using biophysical data, not on FCV vulnerability, conflict exposure, or displacement risk. While this is technically sound for an NRM project, it means the intervention may miss or underserve communities in the most conflict-affected areas where livelihood precarity is greatest. Women and landless youth are systematically targeted within selected watersheds, which is a positive equity dimension, but geographic targeting is not conflict-sensitive."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "RLLP will adopt the approach of other Bank-financed operations, including careful implementation support mission planning that emphasizes security.",
+      "rationale": "The PAD acknowledges Substantial political/governance risk but the operational response is minimal: security-sensitive mission planning, strategic communication, and safeguards monitoring. No Contingent Emergency Response Component is included. The project relies on the same government implementation structures (MoALR, Regional BoAs) that are associated with governance risks flagged in the SORT. For 17 new woredas, a start-up capacity-building period is planned but no differentiated implementation protocols for higher-conflict areas are specified."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "PDO-level results indicators: Land area under SLM, NDVI, LSWI, net GHG emissions, households adopting diversified livelihood activities.",
+      "rationale": "The results framework is technically robust — using remote sensing (NDVI, LSWI) for objective measurement of landscape change, with gender-disaggregated livelihood indicators and three-level impact evaluations. However, not one PDO or intermediate indicator captures FCV-relevant outcomes: conflict incidence, social cohesion, trust in institutions, food security in conflict-affected sub-populations, or displacement. The M&E improvements over SLMP-II are noted but adaptive management protocols for conflict-triggered adjustments are absent."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "IFC/MIGA collaboration is explicitly absent. The project does engage substantively with external co-financiers (Norway MDTF, GCF, GEF, GIZ, KfW, DFID, Finland) and coordinates with other WB-financed operations (PSNP P120957, AGP P148591). Internal WBG coordination across sectors is evident in the contributing practice areas (Agriculture, Climate Change, Energy). The absence of IFC engagement despite explicit private sector engagement components (value chain linkages, PES with private breweries) represents a missed opportunity for One WBG integration."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "P163383 demonstrates strong climate and environmental resilience logic but weak FCV integration: conflict dynamics are treated as background risk rather than analytically engaged, the theory of change does not connect to conflict reduction, and the results framework contains no FCV-adjusted indicators despite the PAD explicitly acknowledging that the project could alleviate drivers of civil unrest."
+}

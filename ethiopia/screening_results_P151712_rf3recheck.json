@@ -1,0 +1,102 @@
+{
+  "project_id": "P151712",
+  "project_name": "Urban Productive Safety Net Project (UPSNP)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2015,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.50,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides detailed urban poverty and labour market diagnostics but does not engage with Ethiopia's FCV drivers: no conflict analysis, no fragility framing (the FCV checkbox on the data sheet is unticked), and only a passing acknowledgement that inequality may produce 'social disintegration and instability'. Red flag RF5 triggered (no FCV-adjusted results indicators) deducts 0.5 from the raw composite of 4.00, yielding 3.50."
+    },
+    "responsiveness": {
+      "numeric_score": 4.20,
+      "rating": "Partially Addressed",
+      "rationale": "The project's three-phase integrated pathway, explicit learning-and-adaptation emphasis, food price early warning system, and multi-layered targeting demonstrate meaningful operational responsiveness to urban poverty dynamics. However, the design lacks FCV-specific contingency protocols, conflict-sensitive implementation triggers, or security-scenario planning, and IFC/MIGA integration is absent."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The GoE has shown a strong commitment to SP to sustain economic growth while protecting social and economic rights of citizens and preventing social disintegration and instability that widening inequality may generate.",
+      "rationale": "The PAD contains strong urban poverty diagnostics (poverty rates, labour market segmentation, gender gaps) and references food price crises of 2008/2011. However, Ethiopia's political context — EPRDF developmental state, ethnic federalism tensions, regional grievances — is absent from the analysis. The FCV cross-cutting topic checkbox is unticked on the data sheet, confirming that conflict and fragility drivers are not treated as a frame for the project."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "SORT Political and Governance Risk: Moderate. Environment and Social Risk: Substantial. Stakeholders Risk: Substantial.",
+      "rationale": "The PAD rates political/governance risk as only 'Moderate' with no substantive explanation of Ethiopia's ethnic tensions or the conflict potential of large urban cash-transfer targeting in a politically managed kebele system. There is no do-no-harm analysis, no assessment of how PW assignment, targeting lists, or resource allocation could exacerbate inter-group tensions, and no mitigation strategy for conflict-induced disruption to beneficiaries."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Annex 11: Governance and Corruption Risks and Mitigating Measures... CBT with public disclosure of beneficiary lists, PMT verification, GRM established.",
+      "rationale": "The PAD dedicates an annex to governance and corruption risks, establishes a GRM, and uses public beneficiary lists with PMT cross-verification to reduce targeting capture. A Gender Action Plan addresses exclusion of women. However, the political economy of Ethiopia's kebele system — where community targeting committees sit within a party-state structure — is not analysed, and risks of politically directed inclusion/exclusion are not mitigated."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The UPSNP will adopt a three-phase integrated support pathway designed to provide income support and increase employability... piloted, evaluated, course-corrected, and expanded as needed.",
+      "rationale": "The PDO is clear and the three-phase graduated pathway (income support → livelihood development → employment) is well-articulated with operational logic. Linkages to PSNP, WEDP, and CJC strengthen coherence. However, the theory of change does not address how conflict, displacement, or security deterioration could disrupt graduation assumptions or reset beneficiary trajectories."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Beneficiaries will be identified through a combination of geographic targeting, community-based targeting (CBT), proxy means tests (PMTs), and self-selection... targeting committees will rank households from poorest to richest.",
+      "rationale": "The multi-layered targeting system (geographic + CBT + PMT + self-selection + categorical) is methodologically sound for reaching the urban poor. Unconditional transfers protect non-able-bodied groups. Women's labour constraints are addressed in the Gender Action Plan. FCV-sensitive adjustments — for IDPs, conflict-displaced, or peri-urban settlements with insecure tenure — are not addressed."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will put a significant premium on adaptation and learning, including establishing flexible arrangements that can be molded based on prevailing circumstances and are informed by systematic feedback loops.",
+      "rationale": "The PAD explicitly prioritises adaptation and learning, with pilot-evaluate-scale sequencing for the livelihood component, food price monitoring as an early warning trigger, and coordination with the Disaster Risk Management sector for covariate shocks. However, no security-specific triggers are defined, and there are no contingency protocols for conflict-induced suspension, access constraints, or staff safety."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Key results indicators: direct beneficiaries, beneficiaries reporting needs met, beneficiaries under poverty line, increased household consumption, livelihood outcomes, ULGs reporting improved capacity.",
+      "rationale": "The results framework tracks beneficiary coverage, consumption, livelihood graduation, and institutional capacity — appropriate for a safety net programme. Market price monitoring feeds adaptive management. However, no FCV-adjusted indicators are included: there are no measures of social cohesion, conflict sensitivity of PW sites, or resilience to shocks, which limits the framework's ability to detect early FCV deterioration."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No. The UPSNP will work closely with the ULGDP, CJC project and WEDP.",
+      "rationale": "The PAD explicitly marks the project as having no joint IFC engagement. Cross-referencing of the WEDP (an IFC-linked women's entrepreneurship instrument) and the CJC project indicates awareness of the broader WBG portfolio, but there is no structured IFC or MIGA co-investment, guarantee, or private-sector facilitation linked to this project's safety net or livelihood components."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV Integration",
+  "key_finding": "The UPSNP is a technically well-designed urban safety net programme with strong poverty diagnostics and operational flexibility, but it is not FCV-sensitive: conflict and fragility drivers in Ethiopia's urban context are absent from the analysis, do-no-harm risks in the kebele-based targeting system are unmitigated, and the results framework contains no FCV-adjusted indicators (triggering RF5). With sensitivity rated 'Not Addressed' and responsiveness 'Partially Addressed', the project falls in the Low FCV Integration quadrant."
+}

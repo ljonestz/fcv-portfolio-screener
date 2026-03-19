@@ -1,0 +1,109 @@
+{
+  "project_id": "P173119",
+  "project_name": "Somalia - Horn of Africa Infrastructure Integration Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.33,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides substantive FCV context analysis — Somalia is identified as a conflict-affected state, Al-Shabaab is explicitly named as an ongoing threat, and the protracted IDP crisis and border insecurity are well-documented. However, do-no-harm operationalisation is limited to corridor security criteria and GBV/SEA assessments, with no dedicated conflict sensitivity framework. Political economy analysis of corridor governance is shallow, and distributional risks from market associations and FMS elite networks are acknowledged but not mitigated in design. Three red flags trigger (RF2, RF4, RF5), reducing the composite from 5.83 to 4.33."
+    },
+    "responsiveness": {
+      "numeric_score": 4.50,
+      "rating": "Partially Addressed",
+      "rationale": "The PDO is appropriately calibrated to Somalia's fragile context — financing pipeline preparation rather than civil works reflects an FCV-responsive sequencing logic. A CERC component, SOP structure, and phased capacity building support operational flexibility. However, PDO-level indicators are standard infrastructure output metrics with no conflict-sensitivity adjustments, the results framework lacks FCV-adapted targets, and there is no IFC/MIGA integration. The project scores consistently in the mid-range across responsiveness dimensions, constrained by weak adaptive management design and absent One-WBG coordination."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 7.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "Al-Shabaab and other non-state actors continuing to conduct attacks throughout most of the country... improvement in security and stability is both a precondition to effective development, and a possible outcome of infrastructure development.",
+      "rationale": "The PAD situates the project explicitly within Somalia's conflict-affected status (FCS-listed), names Al-Shabaab, documents the protracted IDP crisis (20+ years, among highest concentrations globally), and analyses regional FCV dynamics across all HoA countries. SORT ratings of High for Political/Governance and E&S confirm risk awareness. The fragmented FGS/FMS governance architecture and its implications for sector management are identified as key institutional hurdles. The score stops short of 8+ due to limited sub-national conflict mapping and absence of a standalone FCV diagnostic document referenced in the PAD."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The prioritization of investments within Somalia will have to take security into account, as a consideration for project readiness, as an ongoing threat to be mitigated through the project cycle, and through its mitigation as a potential project outcome.",
+      "rationale": "GBV/SEA risks are explicitly named and gender assessments are committed as part of project ToRs. Security is integrated into corridor prioritisation methodology, and lessons from a Cameroon security management plan are noted. However, there is no dedicated do-no-harm framework or conflict sensitivity assessment of the corridor design. The acknowledgement that infrastructure development may both require and produce stability is analytically promising but is not operationalised into a structured risk mitigation pathway within the PAD."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "In the absence of state intervention, central market associations/organizations in port cities... have developed to organize and streamline operations where most trade and long-distance transport transactions materialize.",
+      "rationale": "The PAD acknowledges FGS/FMS jurisdictional tensions, gender gaps in transport and trade sector employment, and the central role of informal market associations in corridor operations. IDP vulnerability and border community livelihoods are documented. However, there is no systematic political economy analysis of how corridor investments might be captured by dominant clan networks or port city market associations, and no stakeholder engagement mechanism for FMS or community-level actors is specified in the implementation arrangements available in the extracted text."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 6.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Although the level of need is great, the scope of the challenge, the fragile context, and Somalia's nascent and weak institutions are not ready to launch such a program, and no pipeline of investment ready projects is available.",
+      "rationale": "The PDO is explicitly calibrated to Somalia's institutional fragility — financing preparation and pipeline development rather than construction is a sound FCV-responsive choice that avoids capacity overload. The ToC acknowledges that sustainable infrastructure requires institutions, analytical foundations, and investment readiness before civil works. However, PDO indicators are conventional output metrics (pipeline value in USD, transport policy submitted to cabinet, staff count), with no conflict-sensitive objectives or FCV-adapted targets embedded in the PDO statement itself."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "While optimally the component will support development of a contiguous corridor, the prevailing political and security considerations may require financing preparation of corridor sections that are not contiguous.",
+      "rationale": "Security considerations are integrated into the corridor prioritisation methodology, allowing non-contiguous corridor design in response to Al-Shabaab presence. A CERC component provides emergency flexibility. Gender assessments and GBV risk analysis are built into component ToRs. However, the primary direct beneficiaries are FGS ministries, not conflict-affected populations; there is no explicit targeting mechanism for displaced communities, pastoralists, or border households who depend on corridor trade for livelihoods."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Experience in rebuilding institutions in countries following conflict was considered... insights into the development of a security management plan for the project and preparing road designs in insecure environments.",
+      "rationale": "The CERC component, SOP structure, and phased delivery approach provide meaningful operational flexibility. Lessons from post-conflict institutional rebuilding in Liberia and Cameroon are explicitly incorporated. The project relies on local staff and learning-by-doing to reduce dependency on external implementers. However, the implementation arrangements section was partially captured in the extraction, and specific security protocols, access contingencies, or adaptive triggers for the Somali context are not detailed in the available text."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Expected results indicators include: Value of spatially coordinated economic corridor pipeline projects ready for investment; National Transport Policy developed and submitted to Cabinet for approval.",
+      "rationale": "PDO-level indicators are standard infrastructure output metrics — pipeline investment value, policy submissions, trade facilitation pilots, and staff count. None are FCV-adjusted: there are no security outcome indicators, no displacement or access metrics, no conflict-sensitive proxy measures, and no adaptive triggers linked to deteriorating security or political conditions. The absence of FCV-aligned indicators in the results framework is the single largest responsiveness gap in the project design."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. No MIGA engagement is mentioned in the text. Private sector development along the economic corridors — including port concessions (Berbera, Bosasso, Mogadishu), freight logistics, and digital infrastructure — offers multiple entry points for IFC advisory or financing that would strengthen the FCV-responsive logic of the project. The absence of a One-WBG integration strategy in a project designed to unlock private investment along fragile state corridors is a significant gap."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "red_flag_rationales": {
+    "RF1": "Al-Shabaab is named and security is identified as an ongoing project threat. However, corridor prioritisation explicitly incorporates security criteria, and lessons from a security management plan (Cameroon) are referenced as design inputs. The PAD names conflict risks and includes a mitigation pathway. RF1 does not trigger.",
+    "RF2": "The PAD identifies government ministries as the direct beneficiaries and downstream community benefits as indirect outcomes. There is no distributional analysis of who along the corridors will capture economic gains. FMS clan networks, port city market associations, and informal trade intermediaries are acknowledged as dominant actors but no analysis of benefit exclusion or systematic diversion to elite actors is conducted. RF2 triggers.",
+    "RF3": "Al-Shabaab is named as a threat actor conducting attacks (Para 42) but the PAD does not describe any engagement with Al-Shabaab, transfer of resources to Al-Shabaab, or engagement with any other named de facto or unconstitutionally constituted authority as defined under OP 7.30. Somaliland and Puntland FMS are mentioned as implementation partners — these are FMS under Somalia's federal architecture, not de facto authorities in the OP 7.30 sense as applied in this document. RF3 does not trigger under the strict definition.",
+    "RF4": "Market associations in port cities (Mogadishu, Berbera, Bosasso, Kismayo) and trade gateways are acknowledged as having developed to fill governance vacuums and dominate trade and transport operations. The PAD notes their central role but does not analyse the risk that corridor investments will reinforce these actors' market power or that FMS institutional capture will divert project benefits. No mitigation mechanism addresses this named pathway. RF4 triggers.",
+    "RF5": "PDO indicators (pipeline value in USD, National Transport Policy submitted to cabinet, trade facilitation pilots in two FMS, FGS staff count by gender) are standard infrastructure output metrics. None are adjusted for FCV conditions: no conflict-sensitivity indicators, no access metrics for displacement-affected populations, no security-contingent targets, and no FCV-resilience benchmarks in the results framework. RF5 triggers."
+  },
+  "gap_matrix_cell": "Low FCV Integration",
+  "key_finding": "SHIIP is a technically well-designed infrastructure preparation project whose FCV context analysis is strong, but whose responsiveness is constrained by a results framework with no conflict-sensitive indicators and an absent One-WBG integration strategy; the decision to fund pipeline preparation rather than construction is itself the project's most significant FCV-responsive design choice."
+}

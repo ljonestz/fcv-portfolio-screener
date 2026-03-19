@@ -1,0 +1,94 @@
+{
+  "project_id": "P163226",
+  "project_name": "AF Ethiopia Statistics for Results Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2018,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 1.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD presents Ethiopia exclusively through an economic and development lens, noting strong GDP growth and MDG progress, without any analysis of fragility, conflict dynamics, or political tensions. The 'Fragile and/or Capacity Constraints' checkbox is left blank. There is no acknowledgment that Ethiopia's diverse ethnic landscape, border insecurities, or subnational political tensions could affect statistical system development or vice versa."
+    },
+    "responsiveness": {
+      "numeric_score": 1.40,
+      "rating": "Not Addressed",
+      "rationale": "The project's PDO, design, and implementation arrangements are entirely conventional capacity-building in orientation. Branch office locations in Mekele, Hawassa, and Ambo — regions with significant ethnic and political tensions — are selected on logistical grounds with no FCV-adapted targeting or operational flexibility provisions. Results indicators measure data quality and timeliness with no FCV-adjusted metrics, and IFC/MIGA collaboration is absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia is a large and diverse country... Ethiopia has experienced strong economic growth over the past decade.",
+      "rationale": "The country context section covers population, growth, poverty, and MDG progress but contains no analysis of conflict drivers, fragility indicators, ethnic tensions, or security risks. The document does not situate the statistical capacity gap within Ethiopia's complex political and security landscape, where subnational conflicts and governance fragility are relevant to data collection and institutional trust."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Safeguard Policies Triggered: Indigenous Peoples OP/BP 4.10 — No; Involuntary Resettlement OP/BP 4.12 — No.",
+      "rationale": "No conflict risk assessment is present. The safeguards section triggers only Environmental Assessment (OP 4.01) due to construction of branch offices; Indigenous Peoples and Involuntary Resettlement are not triggered. There is no analysis of whether strengthening state statistical capacity in a contested political environment could reinforce exclusionary governance or create harm pathways for marginalised groups."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Key producers and users of statistics... include: the Central Statistical Agency; MOFED and select MDAs; Regional Governments; Parliament; policy makers and planners in the public and private sectors, including civil society organizations.",
+      "rationale": "The PAD identifies a broad stakeholder universe including civil society and regional governments, and establishes a National Partnership Group (NPG) for multi-stakeholder coordination. However, there is no political economy analysis of power dynamics within the NSS, no assessment of how elite interests might shape data production, and no consideration of how marginalised ethnic communities relate to official statistics."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of the proposed project is to enhance the capacity of the Central Statistical Agency (CSA) at the organizational, human, and physical levels in order to produce and disseminate reliable, accessible, and timely statistics.",
+      "rationale": "The theory of change runs from capacity-building inputs to improved statistical outputs to better development policy — a standard institutional development logic with no FCV dimension. There is no articulation of how improved statistics might contribute to conflict prevention, peacebuilding, or accountability in a fragile context, nor how FCV conditions could undermine the assumed causal chain."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Potential locations for branch office construction include Ambo, Hawassa, Mekele, and Bahir Dar.",
+      "rationale": "Branch office locations span regions with significant ethnic and political complexity (Tigray, Oromia, SNNPR, Amhara), but selection criteria are logistical and technical rather than conflict-sensitive. The design does not incorporate geographic or demographic targeting to address data gaps for conflict-affected populations, and no gender or conflict-disaggregated data priorities are built into the component design."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The annual work plan review will help distil lessons and make adjustments in keeping with regional preferences.",
+      "rationale": "Annual work planning allows some adaptive management, and the DFID-funded in-country statistician provides a degree of ongoing advisory support. However, there are no FCV-specific contingency provisions, no protocols for operating in insecure areas, and no provisions for adjusting implementation if security conditions deteriorate in branch office regions."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "The project development objective will be assessed by the quality and timeliness of statistical products and services produced by the Central Statistical Agency (CSA).",
+      "rationale": "The results framework uses three PDO-level indicators: data reliability/quality, timeliness of publication, and data accessibility via Open Data Portal. None of these indicators are disaggregated by conflict-affected area, ethnicity, or vulnerability status. There are no FCV-adjusted indicators, no monitoring of coverage in conflict-affected regions, and no adaptive management triggers linked to security or governance conditions."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No.",
+      "rationale": "The PAD explicitly notes no IFC involvement. There is no mention of MIGA, private sector engagement, or IFC partnership for strengthening business statistics or private data users. This is consistent with the project's institutional focus, though the document does note that improved trade and enterprise data would support private sector competitiveness — an indirect link that is not operationalised."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This statistics capacity-building project is entirely blind to Ethiopia's fragility and conflict dynamics, with no FCV context analysis, no conflict risk assessment, and no FCV-adjusted indicators in the results framework. The project strengthens federal statistical institutions whose geographic reach spans conflict-sensitive regions (Tigray, Oromia, SNNPR) without any conflict-sensitive design or do-no-harm consideration."
+}

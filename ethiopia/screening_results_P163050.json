@@ -1,0 +1,94 @@
+{
+  "project_id": "P163050",
+  "project_name": "Ethiopia General Education Quality Improvement Program for Equity",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.33,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a substantive country context that identifies structural vulnerabilities — drought, famine, pastoralist seasonality, ethnic and linguistic diversity across 90+ groups — and explicitly links these to education outcomes including dropout, gender disparity, and emergency-induced school absence. FGM/C, early marriage, and gender-based violence in schools are named with regional data. However, the analysis does not frame these as FCV dynamics per se: conflict, political fragility, and subnational tension (notably in Somali Region and Afar, which were experiencing active insecurity at the time) are absent. The do-no-harm lens is weak — risks of elite capture in performance awards or political instrumentalisation of school grants in contested regions are not examined."
+    },
+    "responsiveness": {
+      "numeric_score": 5.10,
+      "rating": "Partially Addressed",
+      "rationale": "The program demonstrates meaningful responsiveness to structural disadvantage through targeted equity interventions in emerging regions, supplementary grants for pastoralist and fragile-context schools, flexible phased rollout, and an emergency response TA component. DLIs are gender-disaggregated and geographically targeted to the most lagging woredas. However, the results framework does not include FCV-adjusted indicators, and there is no explicit adaptive management mechanism triggered by conflict events. The PforR instrument links disbursements to results that may be disrupted by insecurity without provision for force majeure or context-adjusted benchmarks."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Twenty-seven million people in Ethiopia are vulnerable to absolute poverty and food insecurity. In times of drought and famine, children may not be able to attend school or concentrate due to hunger.",
+      "rationale": "The PAD presents a reasonably detailed country context covering drought vulnerability, pastoralism, ethnic diversity, and poverty. It explicitly identifies the education sector's lack of an emergency response strategy as a gap. However, there is no analysis of active conflict dynamics, political fragility, or sub-national insecurity — particularly notable given that Somali Region and Afar were experiencing significant instability at appraisal. The SCD is referenced but not used to draw FCV-specific conclusions."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Life skills courses will cover topics related to sexual reproductive health, menstruation, pregnancy, family planning, gender-based violence, conflict resolution and leadership.",
+      "rationale": "The document identifies several harm pathways — GBV in schools, early marriage, FGM/C, and exclusion of special needs children — and proposes mitigations including girls clubs, life skills training, and separate latrines. However, there is no assessment of whether performance-based awards or school grants could be captured by local elites or distorted along ethnic lines in politically contested regions. Conflict risk at the subnational level is not examined. Risk mitigation for humanitarian disruption to DLI achievement is absent."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The Government is committed to providing pre-primary education to 80 percent of children by 2020... national and sub-national agencies will be committed towards the achievement of a common set of results, given that funding is tied to these results.",
+      "rationale": "The PAD acknowledges Ethiopia's decentralised, multi-ethnic governance structure and the role of regional education bureaus. It recognises that pastoralist communities are underserved and that emerging regions face structural disadvantage. However, there is no political economy analysis examining how results-based financing might interact with regional political incentives, whether certain groups might be systematically excluded from performance awards, or how community leaders influence girls' school participation beyond supply-side factors."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The PDO is to assist the Government of Ethiopia in improving internal efficiency, equitable access, and quality in general education... interventions under the Equitable Access results area will be monitored and evaluated in Afar, Ethiopia Somali and Benishangul-Gumuz.",
+      "rationale": "The theory of change is clearly articulated and evidence-based, linking pre-primary quality, teacher effectiveness, equity interventions, and results-based incentives to learning outcomes. Geographic targeting of emerging and conflict-affected regions (Afar, Ethiopia Somali) is built into the PDO and KPIs. However, the ToC does not explicitly account for how insecurity or displacement could disrupt causal pathways, and there is no FCV-specific objective or sub-objective."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Interventions under the Equitable Access results area will be monitored and evaluated in Afar, Ethiopia Somali and Benishangul-Gumuz... supplementary grants (3-5 percent top-up) to schools in emerging regions.",
+      "rationale": "Targeting is well-designed with explicit geographic focus on lagging and historically marginalised woredas, gender-disaggregated KPIs, targeted support for pastoralists, special needs children, and girls in emerging regions. Phased rollout reduces implementation risk in capacity-constrained environments. The design does not, however, adapt delivery modalities for conflict-affected or insecure areas where standard school-based approaches may not function, and no provisions address service delivery during displacement or insecurity-induced school closures."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "A phased approach is proposed to mitigate the risk of low quality of implementation in a capacity constrained environment, especially for the elements that are introducing massive shifts in behavior at lower levels of education delivery.",
+      "rationale": "The phased rollout and IPF-TA component provide meaningful operational flexibility. The TA supports emergency response capacity building within the education system, explicitly noting the current absence of a strategy. However, PforR DLIs do not include provisions for context-triggered adjustments if conflict or natural disaster disrupts service delivery, and there is no force majeure clause or pre-agreed alternative targets for fragile-context regions."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Progress toward achievement of the PDO will be measured through Key Performance Indicators disaggregated by gender... school report cards that will be publicly disseminated.",
+      "rationale": "The results framework includes gender-disaggregated KPIs, regional breakdowns for emerging regions, and transparent public reporting through school report cards. Third-party verification of DLI achievement is built in. However, there are no FCV-adjusted indicators, no triggers for adaptive management in response to conflict events, and no indicators tracking access for displaced or conflict-affected children specifically. The RF is equity-oriented but not FCV-sensitive."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The expectation is that the PforR will contribute significantly to the achievement of the sector goals in the CPF together with other complementary investments.",
+      "rationale": "The program is well-integrated within the broader WB portfolio — it explicitly references ESPES, PCDP III, Health SDG PforR, and WASH projects as complementary interventions addressing demand-side and cross-sectoral constraints. Coordination mechanisms are noted. However, there is no IFC or MIGA engagement mentioned, and the private sector education dimension (including low-fee private schools common in Ethiopia) is not addressed. Portfolio-level FCV coherence is not explicitly discussed."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "GEQIP-E demonstrates strong equity orientation — targeting pastoralist, gender-lagging, and special-needs populations in emerging regions — but applies a development lens rather than an FCV lens, treating insecurity and conflict as background conditions rather than live risk factors shaping implementation. The absence of FCV-adjusted DLIs and conflict-triggered adaptive management mechanisms creates an implementation gap given Ethiopia's fragile subnational dynamics."
+}

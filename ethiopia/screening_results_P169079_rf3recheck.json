@@ -1,0 +1,110 @@
+{
+  "project_id": "P169079",
+  "project_name": "Second Ethiopia Growth and Competitiveness Programmatic Development Policy",
+  "doc_type": "Program Document",
+  "instrument_category": "DPF",
+  "approval_year": 2020,
+  "screener_note": "Extracted text file (P169079.txt) contains the Program Document for P168566 (First Ethiopia Growth and Competitiveness DPF, approved October 2018, 1st in a series of 3). This is the document screened; P169079 is the second operation in the same programmatic series. Scoring reflects document content.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "rationale": "The document situates Ethiopia in the conflict-affected Horn of Africa and acknowledges severe political instability (two states of emergency, 2.8 million IDPs, 920,000 refugees), but this context is confined to introductory paragraphs and does not inform the operation's design. There is no conflict analysis, no do-no-harm framework, and no acknowledgment of how the three reform pillars interact with fragility or political economy dynamics. FCV context is noted but not analysed."
+    },
+    "responsiveness": {
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "rationale": "The operation is a standard competitiveness DPF with no FCV-adapted design features. Prior actions engage constitutional federal government institutions on macroeconomic and structural reform with no adaptation to fragility, conflict risk, or exclusion dynamics. The results framework contains no FCV-sensitive indicators, and there is no adaptive management provision for a volatile political environment. One positive note is the CSO social accountability prior action, but it is framed as a governance reform, not an FCV-responsive design element."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia, a growing economy...located in the conflict-affected Horn of Africa region, is experiencing an unprecedented political and economic change...state of emergency twice in three years. IDPs has risen from 1.6 million to 2.8 million.",
+      "rationale": "The document opens with a clear acknowledgement of Ethiopia's fragile political environment, including the state of emergency, political crisis, IDP surge, and large refugee population. However, FCV context analysis stops at the introductory section and is not connected to the operation's reform pillars. No drivers-of-conflict analysis, no regional fragility mapping, and no link between the macroeconomic vulnerabilities and conflict dynamics is made."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The reforms announced by the Government and supported under this operation aim to support the needed transformation with an expanding role for the private sector, reform of SOEs and a gradual shift towards more sustainable financing mechanisms.",
+      "rationale": "The document does not conduct a do-no-harm analysis of any prior action. Potentially conflict-sensitive reforms — power tariff increases affecting poor households, logistics liberalisation that may displace informal sector actors, telecom liberalisation in a politically volatile environment — are treated purely as economic efficiency measures. Distributional impacts are partially assessed in the poverty section but not through a conflict lens. No conflict risk register or mitigation strategy is present."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia ranked 161st out of 189 countries in the 2018 Doing Business report...The new administration has opened new political space for dialogue, released political prisoners, lifted bans on political parties and media outlets.",
+      "rationale": "There is basic acknowledgement of political transition and reform momentum under the new PM, and consultations with development partners are noted. However, no stakeholder mapping is conducted for reform constituencies or veto players, no ethnic or regional political economy considerations are raised despite Ethiopia's highly federalised, ethnically contested politics, and no analysis of who wins and loses from SOE privatisation and sector liberalisation is provided."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "The proposed operation is structured around three strategic pillars: (i) maximizing finance for development; (ii) improving the investment climate and developing the financial sector; and (iii) enhancing transparency and accountability.",
+      "rationale": "The theory of change is entirely growth-and-competitiveness focused with no FCV pathway. There is no argument for how macroeconomic and structural reforms reduce fragility or build resilience, nor how the political and security environment shapes reform feasibility. The document notes that reform is in its early stages and uses a programmatic series to monitor progress, but this is presented as technical sequencing, not adaptive FCV-responsive programming."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "All Ethiopian civil society organizations (CSOs) are eligible to engage in Social Accountability activities: 0 (2018) → All (2021).",
+      "rationale": "Targeting is defined by sector reform objectives rather than vulnerability or exclusion criteria. The CSO social accountability prior action is the only element with potential FCV-relevant targeting (it expands CSO participation rights), but it is not framed or designed to reach conflict-affected or marginalised populations. Regional disparities and IDP/refugee populations are not addressed in the design. Power tariff protections for the poor are noted but not FCV-contextualised."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "The second tranche will be made upon completion and verification of specific policy-related tranche-release conditions as well as the adequacy of the macroeconomic policy framework and satisfactory progress in carrying out the program.",
+      "rationale": "The two-tranche structure provides some flexibility for monitoring reform progress, but this is a standard macroeconomic management tool, not an FCV-adaptive mechanism. There is no provision for adjusting conditionality or pace in response to security deterioration, political instability, or conflict escalation. No risk-based triggers or pause mechanisms tied to fragility indicators are included."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Results indicators include: Power sector losses 23%→15%; Number of licensees in telecom 1→3; FDI value US$3.7bn→US$5bn; Share of tradable instruments in borrowing 0→10%.",
+      "rationale": "The results framework is composed entirely of macroeconomic and sector performance indicators with no FCV-adjusted or conflict-sensitive dimensions. There are no fragility or resilience indicators, no monitoring of distributional outcomes in conflict-affected areas, and no adaptive management provisions. The framework would not detect — let alone respond to — deteriorating conflict or political economy conditions."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The implementation of government reforms is supported through an extensive technical assistance program supported by the World Bank, International Finance Corporation (IFC), IMF and development partners.",
+      "rationale": "IFC is mentioned as part of the technical assistance support program, and the DPF is noted as complementing a US$11 billion WBG portfolio of 38 operations. However, there is no explicit description of IFC or MIGA instruments being deployed in a coordinated FCV-responsive manner. The WBG integration is framed as sectoral/economic complementarity rather than as a coherent FCV strategy."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "red_flag_rationales": {
+    "RF1": "The document does not name a specific conflict pathway that is unmitigated. While the operation lacks do-no-harm analysis, the absence of explicit naming means RF1 does not trigger under the evidence-based definition.",
+    "RF2": "No documentary evidence of a systematic elite capture mechanism is present. SOE reform and transparency provisions, and the CSO social accountability prior action, are the reverse of elite capture facilitation.",
+    "RF3": "All prior actions engage constitutional federal government institutions (Parliament, Council of Ministers, Ministry of Finance, Ethiopia Investment Board). No de facto or non-constitutional authority is named in the document. RF3 does not trigger.",
+    "RF4": "No specific harm pathway is named in the document and left unmitigated in design terms. RF4 does not trigger.",
+    "RF5": "The results framework contains exclusively macroeconomic and sector performance indicators with no FCV-adjusted targets, no fragility-sensitive baselines, and no acknowledgement that Ethiopia's political instability and conflict context could affect the achievability of the targets. This constitutes an unrealistic macro framework in FCV terms."
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This standard competitiveness DPF briefly acknowledges Ethiopia's severe political fragility and IDP crisis but makes no analytical or design connection between FCV context and the three reform pillars, resulting in a near-complete absence of FCV sensitivity or responsiveness across all dimensions. The results framework is entirely macro/sector-performance focused with no FCV-adapted indicators, and no do-no-harm or conflict-risk analysis is conducted for potentially disruptive reforms such as energy tariff increases and sector liberalisation."
+}

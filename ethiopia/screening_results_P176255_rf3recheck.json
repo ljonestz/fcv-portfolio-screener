@@ -1,0 +1,103 @@
+{
+  "project_id": "P176255",
+  "project_name": "ADDITIONAL FINANCING - TRADE LOGISTICS PROJECT",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2023,
+  "screening_note": "The WB Documents API returned the parent project PAD (P156590, March 2017) as the source document for this Additional Financing. The extracted text covers strategic context, PDO, project components, and partial project description but does not include a conflict or FCV section. Scores reflect the document as extracted; FCV integration is assessed as weak throughout.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 1.5,
+      "rating": "Not Addressed",
+      "rationale": "The PAD contains no substantive FCV context analysis. Ethiopia's conflict dynamics — including ethnic tensions, Tigray conflict precursors, and regional political fragility — are entirely absent from the strategic context, which frames the country as a fast-growing, stable economy. The SORT Political and Governance risk is rated Substantial and Stakeholder risk High, but these are not translated into FCV-sensitive design features or do-no-harm considerations."
+    },
+    "responsiveness": {
+      "numeric_score": 1.6,
+      "rating": "Not Addressed",
+      "rationale": "Project objectives, design, and results framework are framed purely around logistics performance efficiency with no FCV-adaptive features. Beneficiary targeting is generic (farmers, SMEs, government agencies) with no conflict-sensitive geographic or social differentiation. No adaptive management, contingency planning, or FCV-adjusted results indicators are present. No IFC/MIGA integration is mentioned."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia has experienced rapid and stable economic growth over the past decade... the country avoided the volatility brought by spells of drought and conflict.",
+      "rationale": "The strategic context presents Ethiopia as a stable growth economy. There is no analysis of fragility drivers, ethnic political tensions, regional conflict dynamics, or displacement pressures. The framing actively downplays conflict history. SORT Political and Governance risk rated Substantial is not elaborated with FCV-specific content."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Political and Governance: Substantial... Stakeholders: High",
+      "rationale": "The document identifies Substantial political/governance risk and High stakeholder risk in the SORT table but provides no do-no-harm analysis, conflict pathway mapping, or assessment of how logistics corridor investments might intersect with conflict dynamics or armed group territories. No conflict sensitivity lens is applied to infrastructure investments."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Logistics services in Ethiopia are dominated by ESLSE, a government-owned enterprise... current government policy means that ESLSE is the only provider of multimodal services.",
+      "rationale": "The document discusses regulatory capture by ESLSE and the government's monopoly on multimodal logistics, acknowledging political economy barriers to reform. However, this analysis is purely economic and does not explore how ethnically or politically connected interests might resist reform, nor does it consider conflict-sensitive stakeholder mapping. No marginalised group inclusion lens is applied."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of this project is to enhance the performance of the Ethio-Djibouti corridor through improvements in operational capacity, efficiency, and range of logistics services at the Modjo Dry Port.",
+      "rationale": "The PDO is framed entirely around logistics efficiency with no FCV-responsive framing. There is no theory of change linking logistics improvements to conflict reduction, social cohesion, or resilience outcomes. The project does not articulate how it would remain relevant or adaptive under deteriorating security conditions."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Project beneficiaries will primarily be private sector exporters, importers, manufacturers and farmers, those working for companies producing goods for export, government agencies involved in exporting and importing, and consumers.",
+      "rationale": "Beneficiary targeting is broad and generic with no conflict-sensitive differentiation. There is no targeting of conflict-affected populations, displaced communities, or conflict-vulnerable value chain actors. Design components (intermodal facility, bulk storage, CFS infrastructure) are purely technical with no FCV-adaptive features such as phased implementation or security contingencies."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Within two months of the effective date the Recipient shall establish and thereafter maintain during the project implementation: (a) a Project Steering Committee (PSC).",
+      "rationale": "Implementation arrangements are standard and follow conventional PIU/PSC structures with no provisions for adaptive management under conflict or security deterioration. No contingency protocols, alternative implementation modalities, or conflict-triggered response mechanisms are described. The legal covenants and implementation manual requirements are conventional."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "PDO level indicators: (a) Throughput of the Modjo Dry Port (total tons per year); (b) Container dwell time in Modjo Dry Port (days); (c) Moves within Modjo facility (number per hour); (d) Containers returning to Djibouti stuffed with exports.",
+      "rationale": "All four PDO-level results indicators are logistics performance metrics with no FCV-adjusted or resilience-oriented indicators. There are no conflict-sensitive intermediate results, no adaptive management protocols tied to context monitoring, and no provisions for revising targets in response to security deterioration. The results framework is entirely conventional."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No",
+      "rationale": "The PAD data sheet explicitly records no IFC joint engagement. No MIGA instruments are mentioned. There is no discussion of leveraging private sector investment tools for conflict-sensitive logistics development or supply chain resilience, despite the private sector focus of the project's reform agenda."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This trade logistics project has no discernible FCV integration: the strategic context presents Ethiopia as a stable growth economy with no conflict analysis, and the PDO, design, and results framework are framed purely around logistics efficiency with zero FCV-adaptive features. No red flags are triggered because the document does not engage with conflict pathways at all — risks are omitted rather than identified and left unmitigated."
+}

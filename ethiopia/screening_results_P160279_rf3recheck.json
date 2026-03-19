@@ -1,0 +1,102 @@
+{
+  "project_id": "P160279",
+  "project_name": "Ethiopia: National Quality Infrastructure Development Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 1.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD makes a single passing reference to Ethiopia's October 2016 nationwide state of emergency but conducts no FCV diagnostics, conflict analysis, or fragility framing. SORT rates Political and Governance risk as Substantial without FCV-specific content. RF2 and RF4 triggered, each deducting 0.5 from the raw sensitivity score of 2.33, yielding 1.33."
+    },
+    "responsiveness": {
+      "numeric_score": 2.60,
+      "rating": "Not Addressed",
+      "rationale": "The project's PDO, theory of change, design, implementation arrangements, and results framework are entirely oriented toward economic competitiveness and trade facilitation with no FCV adaptation. No conflict-sensitive targeting, no adaptive management provisions for instability, and no FCV-adjusted results indicators are present anywhere in the document."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "At the time of writing, the country is in a nationwide state of emergency declared by the GoE on October 9, 2016 for six months in light of growing concerns related to internal security following months of anti-government protests.",
+      "rationale": "The state of emergency is acknowledged in one sentence in the country context section but is entirely disconnected from project design, risk analysis, or implementation arrangements. No conflict or fragility diagnostic is conducted; the country context focuses exclusively on macroeconomic growth trends and trade performance. The SORT table notes Substantial political and governance risk but provides no FCV-specific elaboration."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Environmental Assessment Category: B - Partial Assessment. Safeguards Policies Triggered: Environmental Assessment OP/BP 4.01.",
+      "rationale": "The project triggers only OP 4.01 (Environmental Assessment) among safeguard policies, with no conflict or social risk safeguards beyond standard ESMF provisions. No analysis is made of whether project activities — including industrial park pilots, NQI institution strengthening, or private sector TA — could exacerbate social tensions, exclude ethnic minorities, or interact with the state of emergency context. Do-no-harm framing is entirely absent."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The direct beneficiaries of the project interventions include the private sector (particularly existing and potential exporters), private NQI service providers, regulatory authorities, and consumers.",
+      "rationale": "Stakeholder engagement is framed in purely commercial and technical terms — industry associations, NQI institutions, and exporters — with no political economy analysis of who controls these institutions or which groups may be systematically excluded. A gender action plan is referenced and gender indicators appear in the results framework, which is a partial positive. However, there is no analysis of elite capture risks, ethnic economy dynamics, or regional exclusion in the context of Ethiopia's federalist tensions."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The theory of change for the proposed project is that both improved delivery of quality assurance services by NQI institutions (supply side) and increased demand by targeted enterprises... will strengthen the competitiveness of the selected industries in GVCs.",
+      "rationale": "The theory of change is clearly articulated and internally coherent as an economic competitiveness intervention. However, it contains no FCV-sensitive conditional pathways and makes no acknowledgement of how political instability, conflict, or fragility dynamics could affect the causal chain between inputs, outputs, and outcomes. The project's PDO and ToC would be identical in a stable middle-income country."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "These three value chains have been selected as priority sectors under the project for the following main reasons: (a) the GoE has clearly identified them in GTP II as its priority sectors... (b) the expected significant impact of quality assurance services... (c) the increasing trend and potential growth in investments.",
+      "rationale": "Value chain selection is based purely on economic criteria (government industrial policy priorities, export growth rates, NQI readiness) with no consideration of whether targeting is conflict-sensitive, inclusive of marginalised groups, or geographically distributed to reduce regional inequality. The industrial parks focus risks concentrating benefits among large formal-sector exporters and Addis Ababa-centric businesses, but this distributional risk is not acknowledged or mitigated."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The PIC will meet regularly (at least monthly) to review progress on the implementation of the agreed work plan, address any challenges, and take up to the ministry any issues that may need high-level support or intervention.",
+      "rationale": "Implementation arrangements include a PIU within MoST, a monthly PIC, and a PIM as an effectiveness condition — providing some operational structure. However, no contingency provisions exist for political disruption, security incidents, or the state of emergency context that was live at approval. There are no adaptive management triggers, no provisions for suspending or rerouting activities during instability, and no crisis-responsive procurement arrangements."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Number of enterprises that used NQI institutions' quality assurance services (disaggregated by sector); Average number of days required to obtain selected calibration and testing services; Number of accredited/internationally recognized services provided by NQI institutions.",
+      "rationale": "All four PDO-level indicators are technical service delivery measures with no FCV-adjusted targets, conflict sensitivity disaggregation, or resilience metrics. The M&E framework is described as robust but is designed entirely for tracking quality infrastructure outputs. No adaptive management provisions are described; the M&E specialist role is framed as reporting and data compilation, not as a feedback mechanism for course correction under instability."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The PAD explicitly records no IFC collaboration. IFC and MIGA are not mentioned in any section of the document. The project references complementarity with other WBG operations (Competitiveness and Job Creation Project, SME Finance Project, Trade Logistics Project) but these are portfolio coordination linkages, not FCV-oriented One WBG integration. No private sector instruments are deployed in support of conflict-sensitive outcomes."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This quality infrastructure project is one of the weakest performers in the Ethiopia portfolio on FCV integration: approved while a nationwide state of emergency was in force, it contains no conflict diagnostics, no do-no-harm analysis, and no FCV-adapted design or results framework. Both RF2 (missing distributional analysis of who benefits from NQI services) and RF4 (elite capture risk through industrial park and large-exporter concentration, unmitigated) are triggered, pulling the sensitivity score to 1.33."
+}

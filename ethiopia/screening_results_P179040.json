@@ -1,0 +1,94 @@
+{
+  "project_id": "P179040",
+  "project_name": "Ethiopia Digital ID for Inclusion and Services Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2023,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 7.33,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD provides comprehensive FCV context including the Tigray war, ongoing conflicts in Amhara/Oromia/Gambella, 3.4 million IDPs, and nearly 1 million refugees, with a conflict analysis explicitly cited as an input to design. Do-no-harm provisions are concrete and targeted — the removal of ethnicity and religion from mandatory ID fields directly addresses discrimination risks inherent to the predecessor Kebele ID system. Stakeholder engagement is a dedicated $14M component with explicit coverage of refugees, IDPs, host communities, and persons with disabilities, with culturally adapted, multilingual communications."
+    },
+    "responsiveness": {
+      "numeric_score": 6.60,
+      "rating": "Substantially Addressed",
+      "rationale": "The PDO is explicitly framed around inclusion of FCV-affected populations, with refugee registration counts and remote/hard-to-reach coverage as PDO-level disaggregations. Design features — a dedicated $50M IDA WHR window, mobile Fayda centres, solar-powered registration kits, an introducer system for the undocumented, and multi-channel delivery — represent systematic adaptation to FCV conditions. The results framework carries FCV-sensitive disaggregations, though no explicit adaptive management trigger is defined, and IFC/MIGA engagement is absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 8,
+      "rating": "Substantially Addressed",
+      "key_quote": "As of June 2023, nearly 3.4 million IDPs were displaced across 2,750 accessible sites in Ethiopia... largely resulting from the ongoing conflict in northern Ethiopia and localized conflicts in different parts of the country.",
+      "rationale": "The PAD provides a comprehensive FCV diagnostic covering the Tigray conflict, post-cessation-of-hostilities fragility, ongoing conflicts in Amhara/Oromia/Gambella, climate displacement, 3.4M IDPs, and 1M refugees. A dedicated conflict analysis and end-user survey are explicitly cited as inputs to project design. The document situates the ID exclusion problem directly within conflict and displacement dynamics, including how Kebele IDs paused or became inaccessible during active conflict."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Most Kebele IDs display holder's ethnicity, which is a potential source of discrimination... Fayda collects minimal data, including only four mandatory fields... while excluding sensitive information like ethnicity and religion.",
+      "rationale": "The PAD identifies concrete harm pathways — ethnicity-linked discrimination via existing ID, surveillance and biometric misuse risks in a conflict context, and potential exacerbation of exclusion for IDPs and stateless persons — and directly mitigates them through design choices (no ethnicity/religion fields, data minimisation, cybersecurity subcomponent). A security risk assessment and interim data protection guidelines are legal covenants. However, the Data Protection Proclamation remains unratified at appraisal, and biometric data misuse in active conflict zones is named but only partially mitigated by interim measures, warranting RF4."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "A special focus will be on including and addressing host communities and refugees with adapted communication strategies, including in their own languages, and using culturally sensitive methods.",
+      "rationale": "Stakeholder engagement is a dedicated $14M component with systematic coverage of refugees, IDPs, women, persons with disabilities, regional governments, civil society, academia, and the private sector. The PAD traces the political economy of institutional transfers (MInT to Ministry of Peace to PMO) and acknowledges governance risks around the yet-to-be-established ID Institution. Some depth is lacking on political economy of resistance from existing kebele-level identity gatekeepers and potential elite interests in the outsourced super-agent model."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "By ensuring that Fayda is accessible for refugees, host communities, and IDPs, the project will be contributing to fulfilling the principle of inclusion and mitigating the spillovers of FCV, as well as helping Ethiopia to transition out of fragility.",
+      "rationale": "The PDO explicitly includes inclusion as a core objective, and the FCV strategy link is articulated in terms of mitigating FCV spillovers and supporting fragility transition. The results chain connects ID access to service delivery improvements for conflict-affected and displaced populations. The ToC is primarily a digital inclusion ToC with FCV integration, rather than a fully FCV-shaped ToC that traces conflict-sensitive pathways; the peace dividend narrative (para 23) is present but not operationalized into the results framework."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 9,
+      "rating": "Substantially Addressed",
+      "key_quote": "Subcomponent 3.2 will support NIDP... to prioritize registration and ID issuance to host communities and refugees in regions where large populations of refugees exist... estimated to cover up to 1.7 million persons in host communities and up to 924,000 refugees.",
+      "rationale": "Design adaptation to FCV conditions is comprehensive and systematic: a dedicated $50M IDA WHR window with a separate sub-component for host communities and refugees; mobile and solar-powered registration kits for remote and conflict-affected areas; an introducer/vouching system for persons without documents (IDPs, stateless persons); 30+ accepted identity documents; temporary/mobile Fayda centres for populations unlikely to be reached by other channels; and disability accommodations built into registration processes. Targeting of the most FCV-affected populations is among the strongest seen in Ethiopia portfolio projects."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "In Tigray, numbers of refugees require confirmation as RRS is currently in the process of re-engaging in the region following the recent conflict.",
+      "rationale": "The multi-channel delivery model (registration partners, super agents, mobile Fayda centres) provides de facto operational flexibility to adapt to security conditions, and pilot feedback was incorporated into final design. The PAD acknowledges that Tigray registration was paused during conflict and has been partially resumed, and the refugee target is explicitly flagged as subject to change. However, no formal CERC mechanism or conflict-triggered adaptive management protocol is defined; flexibility is embedded in design rather than institutionalised as an adaptive management framework."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "Number of people who have received a Fayda ID: (ii) Number of whom are refugees. (iii) Number of whom are individuals living in refugee host communities. (iv) Number of whom registered in remote and hard to reach areas.",
+      "rationale": "The PDO-level results indicators are meaningfully disaggregated for FCV-affected populations — refugees, host community members, and persons in remote/hard-to-reach areas — which is above-average for an Ethiopian portfolio project. The authentication indicator is also disaggregated for refugee-hosting areas. A Gender Action Plan (Annex 3) and risk mitigation annex (Annex 2) supplement the framework. The absence of an explicit FCV-specific outcome indicator (e.g., measuring reduced exclusion or conflict sensitivity of implementation) and no adaptive management trigger mechanism prevent a higher score."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. MIGA is not mentioned in the PAD. The MFD rationale (para 27c) references enabling private sector service providers to verify identities and expand offerings, which is an enabling condition for future private investment, but no active IFC co-investment or MIGA guarantee is associated with this operation. This is consistent with the digital public infrastructure nature of the project."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": false
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "This is the most FCV-responsive project in the Ethiopia portfolio reviewed to date: a dedicated $50M IDA WHR window, systematic targeting of 924,000 refugees and 1.7M host community members, and removal of ethnicity from ID fields directly address conflict-specific exclusion and discrimination risks. The one unresolved harm pathway is biometric data misuse in an active conflict context, where interim data protection guidelines only partially substitute for the Data Protection Proclamation not yet ratified at appraisal."
+}

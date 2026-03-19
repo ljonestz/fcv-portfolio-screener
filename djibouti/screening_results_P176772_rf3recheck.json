@@ -1,0 +1,109 @@
+{
+  "project_id": "P176772",
+  "project_name": "Djibouti Affordable Housing Finance Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2022,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.17,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a competent socioeconomic and climate vulnerability context for Djibouti, with explicit reference to poverty concentration, inequality (Gini 0.416), rapid urbanisation, informality, and climate-induced displacement. However, FCV drivers — including Djibouti's strategic geopolitical position, its hosting of large refugee and migrant populations, and the political economy of import monopolies and construction sector exclusion — are acknowledged instrumentally rather than analysed as conflict or fragility risks. Do-no-harm analysis is absent; the document names distributional risks (non-transparent beneficiary selection, non-coverage of the poorest deciles) but does not treat them as FCV-related harm pathways. Political economy analysis is confined to sector constraints and coordination risks without examining patronage, elite capture, or exclusion dynamics that characterise FCV-adjacent housing and land markets."
+    },
+    "responsiveness": {
+      "numeric_score": 4.64,
+      "rating": "Partially Addressed",
+      "rationale": "The project PDO is clearly focused on financial inclusion for underserved populations and the design is innovative (guarantee fund, self-construction loans, rent-to-own conversion). Targeting mechanisms are well-specified (electronic social register, income decile thresholds, climate risk eligibility criteria). Gender is explicitly integrated with disaggregated targets and dedicated staffing. However, the theory of change does not articulate FCV-specific operational logic — resilience to conflict or fragility shocks is not referenced. Adaptive management is limited to annual beneficiary surveys with no provision for conflict-sensitive adjustment. D7 indicators are output-focused with no FCV-adjusted results. One WBG integration is explicit (IFC PPP complementarity) but not framed in FCV terms."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Djibouti's strategic location close to major maritime transportation routes, conflict areas in the Middle East, and piracy activity zones, coupled with its relative political stability, has made it an important location for foreign military bases.",
+      "rationale": "The PAD acknowledges Djibouti's geopolitical position, its large refugee and migrant population, and COVID-19/Ethiopia conflict spillovers on growth. Poverty, inequality, and climate vulnerability are quantified. However, there is no structured FCV diagnostic: drivers of fragility such as elite concentration in the import and construction sectors, governance constraints on land titling, or the political economy of the housing sector are not analysed as conflict risk factors. The document does not reference the World Bank FCV strategy, any fragility assessment, or Djibouti's classification as an FCV-adjacent context."
+    },
+    {
+      "dimension_id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project also entails risks associated with poor or non-transparent beneficiary selection... risks associated with sexual abuse and exploitation and sexual harassment.",
+      "rationale": "The PAD identifies discrete E&S risks including non-transparent beneficiary selection, occupational health and safety, labour conditions, and SEA/SH, and establishes ESMF/ESMS frameworks to address them. However, it does not analyse these risks through a conflict or fragility lens. The risk that housing finance interventions in a context of severe informality and land tenure insecurity could reinforce exclusion or generate community tensions is not examined. The Social Register eligibility requirement for the poorest beneficiaries, while well-intentioned, could exclude unregistered populations including refugees and irregular migrants — a notable gap given Djibouti's refugee hosting role — but this is not flagged as a do-no-harm concern."
+    },
+    {
+      "dimension_id": "D3",
+      "name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Finance Law No. 142/AN/21/8th of 2022 introduced a 100 percent surcharge on imports of reinforcing steel and cement... Developers and companies complain of a monopoly situation on import licensing that discourages the construction of affordable housing.",
+      "rationale": "The PAD identifies structural political economy constraints — import monopolies, restrictive licensing, lack of SME sub-contracting quotas — and notes coordination risk among ARULoS, FGPCD, and financial institutions. A Stakeholder Engagement Plan is in place and citizen engagement is built in. However, no political economy analysis is conducted on potential beneficiaries' access to justice, informal power dynamics in land allocation, or the risk that guarantee fund governance (with representation from the Presidency and Prime Minister's Office) could be captured by elite interests. The document does not analyse which groups are systematically excluded and why."
+    },
+    {
+      "dimension_id": "D4",
+      "name": "Objectives and Theory of Change",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The Project's Development Objective is to expand access to affordable housing finance for underserved populations in the Recipient's territory.",
+      "rationale": "The theory of change is logically structured and explicitly addresses market failures preventing low-income household access to housing finance. It sequences interventions coherently (guarantee fund to mobilise private capital, self-construction loans for the poorest, rent-to-own conversion for the middle tier, TA for policy reform). However, FCV considerations are entirely absent from the results chain: there is no articulation of how the project contributes to social cohesion, reduces grievance, or accounts for the fragility of Djibouti's context. Climate resilience is well-integrated into the ToC but conflict or fragility resilience is not."
+    },
+    {
+      "dimension_id": "D5",
+      "name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The electronic social register (Registre Social) which was supported by WB social safety net projects will help ensure appropriate targeting for the poorest households in category 1.",
+      "rationale": "Targeting is sophisticated: a four-category income segmentation framework directs different instruments to different income groups, the electronic social register is used to reach the poorest, and climate risk eligibility criteria exclude properties in flood-prone areas. Gender disaggregated targets are set with measurable end-targets and dedicated staffing. The design explicitly addresses market failure (risk aversion of financial institutions) rather than simply subsidising demand. Weaknesses include the absence of FCV-specific targeting (e.g. targeting displaced persons, refugees, or conflict-affected communities) and the unaddressed risk that Social Register exclusions could reproduce existing inequalities."
+    },
+    {
+      "dimension_id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Annual surveys of potential and existing beneficiaries whose results inform the design of the microfinance line of credit and mortgage guarantee throughout the project's implementation.",
+      "rationale": "The project builds in a two-phase approach for self-construction (pilot then scale-up via microfinance), allowing course-correction based on early implementation experience. Annual beneficiary surveys are a genuine adaptive mechanism. The political and governance risk (rated Substantial) acknowledges coordination challenges among multiple implementing entities, and mitigation measures are specified. However, there is no contingency provision for conflict spillovers, macro shocks (beyond inflation risk noted), or sudden changes in the operational environment — which is relevant given Djibouti's neighbourhood (Ethiopia, Somalia, Yemen)."
+    },
+    {
+      "dimension_id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Number of housing units resilient to climate-induced floods and fires (Number): End Target 450.",
+      "rationale": "The results framework includes PDO-level and intermediate indicators with disaggregation by gender, and climate resilience is tracked through a dedicated indicator. Semi-annual reporting cycles allow regular oversight. However, there are no FCV-adjusted indicators: no measure of social cohesion impacts, community-level conflict, grievance uptake rates, or distributional equity of benefit access. Adaptive management is limited to the beneficiary survey mechanism; there is no provision for adjusting implementation modalities in response to fragility or conflict dynamics."
+    },
+    {
+      "dimension_id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "IFC is working on a PPP project to increase private sector participation in the supply of affordable housing... The WBG will focus on the affordable housing segment, which is currently not covered by any other partner.",
+      "rationale": "The PAD explicitly describes WBG collaboration: the IDA project addresses demand-side finance while IFC leads an affordable housing PPP on the supply side. This is a well-articulated complementarity with genuine division of labour. The FGPCD's partnership with the Moroccan guarantee fund (itself WB-supported) demonstrates cross-portfolio learning. However, the One WBG narrative does not address FCV-specific synergies or how IFC's private sector engagement could reinforce or undermine fragility drivers in the construction sector (e.g. foreign firm dominance, displacement of local SMEs)."
+    }
+  ],
+  "red_flags": {
+    "RF1": {
+      "triggered": false,
+      "rationale": "The PAD identifies E&S risks including non-transparent beneficiary selection and SEA/SH but does not name a specific conflict pathway that is left unmitigated. The ESMF and negative list address construction-related risks. No do-no-harm violation is documented in the project design."
+    },
+    "RF2": {
+      "triggered": true,
+      "rationale": "The PAD acknowledges the risk of non-transparent beneficiary selection as a primary project risk (para. 74) and notes that FGPCD governance includes representation from the Presidency, Prime Minister's Office, and Chamber of Commerce. The document does not analyse whether this governance composition creates elite capture risk in guarantee allocation. The absence of any distributional analysis of who benefits — and who is excluded — from the guarantee mechanism and rent-to-own conversion (which disproportionately favours existing ARULoS/SIAF contract holders rather than the most marginalised) constitutes a missing distributional analysis."
+    },
+    "RF3": {
+      "triggered": false,
+      "rationale": "The project does not reference engagement with any de facto or unconstitutionally constituted authority under OP 7.30. All implementing entities (ARULoS, FGPCD, BCD, MVUH) are organs of the constitutionally recognised Government of Djibouti. RF3 does not apply."
+    },
+    "RF4": {
+      "triggered": false,
+      "rationale": "While distributional risks exist (RF2), the document does not name a specific harm pathway that is then left unmitigated in the design. The grievance mechanism, ESMF, and beneficiary selection criteria provide mitigation channels."
+    },
+    "RF5": {
+      "triggered": true,
+      "rationale": "The results framework contains no FCV-adjusted indicators. In a context where Djibouti faces macro shocks from conflict spillovers (Ethiopia war, Horn of Africa drought), high debt distress (public debt 70% of GDP), and inflation risk, the results framework does not include any sensitivity analysis or adjustment mechanism for fragility shocks. Output targets (2,000 mortgage loans, 450 self-construction households) are set without scenario planning for deteriorating macro or security conditions."
+    }
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "A technically well-designed housing finance project with strong targeting, gender integration, and climate resilience components, but minimal FCV integration: fragility drivers in the construction and land sector are acknowledged as market failures rather than conflict risks, and neither the theory of change nor the results framework is adapted to Djibouti's FCV-adjacent context."
+}

@@ -1,0 +1,94 @@
+{
+  "project_id": "P167794",
+  "project_name": "One WASH\u2014Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH\u2014CWA)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2019,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.33,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD identifies Ethiopia\u2019s fragility markers \u2014 IDPs, refugee influxes, inter-ethnic tensions, GBV, and climate shocks \u2014 in the country context section, and formally tags the project \u2018Fragile within a non-fragile Country\u2019 and \u2018Responding to Natural or Man-made Disaster\u2019 in the datasheet. Conflict and political economy risks are flagged in SORT (Political & Governance rated High) but are not analysed in depth: the narrative attributes governance weaknesses to capacity gaps rather than to contested political settlements or ethnic competition over resources. GBV is named as a risk compounded by poor WASH access, but the pathway from WASH design to conflict harm is not articulated, and the do-no-harm lens is absent from the safeguards section."
+    },
+    "responsiveness": {
+      "numeric_score": 5.10,
+      "rating": "Partially Addressed",
+      "rationale": "The PDO and theory of change are grounded in WASH access and climate resilience rather than FCV dynamics, leaving conflict sensitivity implicit at best. Design adaptations \u2014 CERC, decentralised delivery, women-led MSEs, grievance redress mechanisms, and geographic targeting of hotspot areas \u2014 are operationally sound but respond primarily to climate and capacity risks rather than conflict or fragility. The results framework monitors access and functionality indicators disaggregated by sex but lacks FCV-adjusted indicators such as inter-community water conflict, service equity across displaced/host populations, or adaptive management triggers linked to security conditions. One WBG collaboration is not present (Bank/IFC Collaboration: No)."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Ethiopia hosts more than 920,000 refugees...and the number of internally displaced people has recently doubled due to sporadic unrest.",
+      "rationale": "The PAD provides a solid macro country context referencing IDPs, refugees, GBV risk, regional inequality, and ethnic diversity. The fragility flag \u2018Fragile within a non-fragile Country\u2019 is checked and pastoralist/lowland vulnerability is acknowledged. However, there is no conflict analysis beyond brief mentions of \u2018sporadic unrest\u2019 and no reference to the 2018 political transition, ethnic federalism tensions, or regional conflict hotspots. Drivers of fragility in targeted woredas are not assessed."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Gender disparities are also profound nationally, and a combination of cultural norms and socioeconomic inequality greatly increases the risks of gender-based violence faced by women.",
+      "rationale": "GBV is named as a contextual risk exacerbated by poor WASH access, and GBV is referenced in BCC campaign design. The SORT Political & Governance risk is rated High with brief acknowledgement of community tensions and governance failures. However, no explicit do-no-harm analysis is conducted: there is no assessment of whether infrastructure siting, targeting criteria, or community committee structures could advantage certain ethnic groups or exacerbate resource competition. Conflict risk mitigation in design is absent."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Responsibilities are fragmented. Four federal ministries and their respective regional bureaus share responsibility for the implementation of the OWNP.",
+      "rationale": "The PAD maps the multi-ministerial institutional landscape and decentralised delivery chain in reasonable detail, identifying coordination failures and capacity gaps at woreda and community level. It acknowledges regional disparities and weaker capacity in pastoralist areas. However, political economy risks \u2014 elite capture of WASH committees, exclusion of minority ethnic communities, or misuse of targeting criteria by local officials \u2014 are not assessed. Stakeholder engagement is described procedurally but without conflict-sensitive analysis of power dynamics."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "To increase access to safe water supply, sanitation, and hygiene services and strengthen capacity for water resources management and service delivery.",
+      "rationale": "The PDO and results chain are well-structured around WASH access, functionality, and climate resilience, with a clear logic from inputs to outcomes. FCV considerations are implicit \u2014 climate resilience components address disaster risk, and CERC provides emergency flexibility \u2014 but the theory of change does not articulate how improved WASH services reduce fragility, manage conflict over water resources, or strengthen social cohesion. Conflict or fragility outcomes are absent from the PDO and the results chain."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Smaller regions and predominantly pastoralist areas with weaker capacities have seen poorer human development outcomes. In some areas, influxes of refugees and internally displaced people further complicate WSS service delivery.",
+      "rationale": "The project targets climate hotspot woredas, disadvantaged rural and small-town populations, and explicitly prioritises women and youth participation through women-led MSEs and gender-informed infrastructure design. Refugees and IDPs are acknowledged as complicating service delivery, and institutional WASH components cover schools and health facilities. However, no explicit targeting of conflict-affected or displacement-affected communities is built into selection criteria, and the project does not address service equity between host communities and displaced populations."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "Subcomponent 4.C\u2014Contingency Emergency Response Component (CERC)...will allow, on an as-needed basis, a reallocation or replenishment of the Project resources to address elements of an emergency response.",
+      "rationale": "The CERC provides a formal mechanism for emergency resource reallocation, and the 10% unallocated IDA financing for performance-based mid-term reallocation builds in adaptive capacity. Decentralised implementation through woredas and communities also provides operational flexibility. However, flexibility mechanisms are designed for climate and natural disaster emergencies rather than conflict contingencies; there is no conflict-triggered implementation adjustment protocol or security risk management plan."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Number of people provided with access to safe drinking water services (rural/urban/female); Proportion of water schemes that are functional and supply safe drinking water.",
+      "rationale": "The results framework includes six PDO-level indicators with sex disaggregation and operational efficiency metrics, and the mid-term review is designed as an adaptive management trigger for reallocation of unallocated funds. However, no FCV-specific indicators are included: there are no measures of equity across displaced/host populations, no indicators for community conflict over water resources, and no adaptive management triggers linked to political instability or conflict escalation. The framework does not track whether FCV-affected populations are being reached."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no IFC/MIGA collaboration. While private sector engagement is a design element \u2014 women-led MSEs for O&M, sanitation marketing centres, microcredit institutions, vocational training \u2014 this is domestic private sector development at the community level, not a WBG integrated approach. No IFC investment, MIGA guarantee, or joint WBG advisory engagement is referenced anywhere in the document."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "P167794 demonstrates moderate FCV sensitivity through recognition of displacement, GBV, and ethnic diversity, but lacks conflict analysis for targeted woredas and a do-no-harm framework. Responsiveness is constrained by a PDO and results framework anchored in access and climate resilience with no FCV-adjusted indicators or conflict-contingent flexibility mechanisms, despite operating in fragile sub-national contexts."
+}

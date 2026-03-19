@@ -1,0 +1,94 @@
+{
+  "project_id": "P151847",
+  "project_name": "Eastern and Southern Africa Higher Education Centers of Excellence",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2016,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD contains no FCV diagnostic for any of the eight participating countries, including Ethiopia, which faces significant internal conflict dynamics. The 'Fragile, Conflict & Violence' cross-cutting topic checkbox is explicitly left unmarked. Political and governance risk is rated Substantial in the SORT but is framed entirely around governance capacity and multi-country coordination, not conflict or fragility. No do-no-harm or stakeholder political economy analysis is present."
+    },
+    "responsiveness": {
+      "numeric_score": 2.40,
+      "rating": "Not Addressed",
+      "rationale": "The PDO, project design, and results framework are entirely devoid of FCV adaptation. The performance-based DLI/DLR financing model is robust for education accountability but contains no FCV-adjusted indicators or flexibility provisions for conflict-affected ACE locations. Burundi's exclusion due to unrest is noted factually but generates no design response. No IFC/MIGA integration, no adaptive management provisions tied to FCV risk."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Fragile and/or Capacity Constraints [ ] ... Cross Cutting Topics: [ ] Fragile, Conflict & Violence",
+      "rationale": "The PAD provides no FCV context analysis for any of the eight participating countries. Ethiopia's ethnic and regional conflicts, Uganda's post-conflict north, and Tanzania's political tensions are completely absent from the strategic context. The only conflict reference is a passing mention that Burundi could not participate 'due to the unrest at that time,' with no further analysis."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Political and Governance: Substantial ... The risk is related to multi-country coordination challenges and varying commitment levels.",
+      "rationale": "The SORT rates political and governance risk as Substantial but frames this entirely around multi-country coordination, not conflict or harm pathways. No analysis of whether concentrating elite university resources in capital cities could exacerbate regional inequalities or exclusion in conflict-affected areas. No do-no-harm assessment is present."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ten countries originally expressed interest in the project. Out of the ten countries, eight are participating in ACE II as ACE hosting countries.",
+      "rationale": "The PAD documents a competitive, merit-based selection process for ACEs involving broad stakeholder consultation. However, political economy analysis is limited to institutional buy-in and does not address power dynamics, elite capture risks in university governance, or how gender and ethnic exclusion patterns in higher education intersect with fragility. Burundi's exclusion due to conflict is noted without analysis."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "To strengthen selected Eastern and Southern African higher education institutions to deliver quality post-graduate education and build collaborative research capacity in the regional priority areas.",
+      "rationale": "The PDO and theory of change are grounded entirely in human capital and economic competitiveness logic. There is no acknowledgment that fragility, conflict, or social exclusion affect higher education access or outcomes in the region. The causal chain from ACE investment to regional development benefits assumes stable institutional environments that do not exist across all participating countries."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Female enrollment rates (as a percent of total enrollment) are even lower with rates of less than one percent in Malawi and four percent in Ethiopia.",
+      "rationale": "The design includes gender disaggregation in enrollment targets and geographic balance across countries. However, targeting does not account for conflict-affected populations, internally displaced students, or universities in insecure locations. The competitive selection process may systematically exclude institutions in fragile sub-national contexts. No conflict-sensitivity in the beneficiary targeting framework."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The Recipient shall cause the Africa Centers of Excellences to adopt not later than one month after the Effective Date... their respective PIPs in form and substance satisfactory to the Association.",
+      "rationale": "The DLI/DLR performance-based financing model creates disbursement rigidity that is not adapted to conflict or institutional disruption. Semi-annual NSC and RSC reviews provide some oversight flexibility but are not designed to respond to FCV events. No contingency provisions for sudden-onset conflict affecting ACE operations are visible in the extracted text."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Regional students enrolled by the ACEs in Master's and PhD programs (number); Students enrolled by the ACEs in Master's and PhD programs (number); MoUs on partnerships (number); Accredited education programs (number).",
+      "rationale": "All PDO-level indicators are quantitative enrollment and partnership metrics with no FCV dimension. No indicators track access for conflict-affected or marginalised populations, institutional resilience to disruption, or conflict-sensitive research outputs. The results framework would register success even if ACE benefits accrued exclusively to elite, non-conflict-affected students in capital cities."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No",
+      "rationale": "No IFC or MIGA involvement in this operation. The PAD notes industry-academia partnership goals and private sector engagement as ACE activities, but there is no formal WBG integration with IFC instruments that could support private sector development in fragile contexts. No reference to MIGA political risk coverage for cross-border activities in FCV-affected countries."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This regional higher education project treats all eight ESA participating countries as stable development contexts, with no FCV diagnostic, no conflict-sensitivity in design, and results indicators that measure only enrollment volumes and institutional partnerships. The competitive merit-based ACE selection model, while technically sound, risks concentrating benefits among already-advantaged institutions in capital cities while systematically excluding conflict-affected sub-national contexts and marginalised populations."
+}

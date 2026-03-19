@@ -1,0 +1,102 @@
+{
+  "project_id": "P159382",
+  "project_name": "Livestock and Fisheries Sector Development Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD operates in a context of active political unrest and ethnic tensions between Somali and Oromia regions but addresses FCV drivers only in passing (one paragraph in the country context section) with no structured conflict analysis informing design. The document acknowledges a High SORT rating for Political and Governance risk and references the state of emergency lifted in August 2017, but provides no stakeholder or political economy analysis tied to conflict dynamics, no do-no-harm assessment, and no distributional mapping of how benefits might be captured in politically contested regions. The overall sensitivity framing is minimal and insufficient to guide an FCV-informed implementation in six ethnically diverse regions. RF5 triggered (−0.5 deduction applied): dimension average 3.83, post-deduction 3.33."
+    },
+    "responsiveness": {
+      "numeric_score": 4.40,
+      "rating": "Partially Addressed",
+      "rationale": "The project includes a CERC component (Sub-component B.5) providing an emergency response mechanism, gender-tagged indicators, and an inclusive targeting approach for women, youth, and vulnerable groups. However, the theory of change is grounded in a productivity-and-market-linkage logic that does not adapt to conflict or fragility risks, implementation arrangements rely on standard federal-regional-woreda PCU structures with no contingency for operational disruption, and the results framework lacks FCV-adjusted indicators. IFC linkages (L-MIRA) are explicitly noted and constitute a meaningful One WBG integration element, partially offsetting the responsiveness gap."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Political unrest in 2016 has largely settled but pockets of uncertainty remain. Strikes and signs of unrest erupted in some parts of the country linked to ethnic tensions on the borders between Somali and Oromia regions.",
+      "rationale": "The PAD acknowledges political unrest and ethnic tensions in one brief paragraph, referencing a High SORT rating for Political and Governance risk and a state of emergency lifted in August 2017. No structured FCV diagnostics or conflict analysis tool is applied, and the sector and country context sections do not explore how conflict or fragility dynamics shape livestock and fisheries value chains. The mention of tensions is descriptive and not analytically integrated into project design."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "key_quote": "Special attention will be given to include underserved peoples and vulnerable groups as potential beneficiaries as identified in the Social Assessment (Social Development Plan, see PAD Annex 7).",
+      "rationale": "The PAD does not conduct a do-no-harm assessment or identify pathways through which the project could exacerbate inter-communal, ethnic, or resource-based conflict. The targeting of six ethnically diverse regions including areas with documented Somali-Oromia border tensions is not accompanied by a conflict-sensitivity review. The Social Assessment reference is confined to inclusion of vulnerable groups, not conflict risk mitigation."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy Analysis",
+      "composite": "Sensitivity",
+      "numeric_score": 4.5,
+      "rating": "Partially Addressed",
+      "key_quote": "Stakeholder consultation processes and policy dialogue between public, private and associative actors; and consensus building to ensure that new policies reflect the views and needs of women, youth, smallholder farmers and larger participants.",
+      "rationale": "The PAD includes consultative processes for policy development and a Social Assessment covering inclusion of vulnerable groups and gender, with gender-tagged indicators across all three criteria. However, political economy analysis is absent at the sectoral and regional levels: the document does not examine power dynamics, elite influence over cooperatives or input markets, or how ethnic or geographic inequities in service delivery could reinforce exclusion. The analysis is inclusion-focused but not politically grounded."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 4.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Increase productivity and commercialization of producers and processors in selected value chains, strengthen service delivery systems in the livestock and fisheries sectors, and respond promptly and effectively to an eligible crisis or emergency.",
+      "rationale": "The PDO includes an emergency response clause (CERC) which demonstrates awareness of crisis scenarios, but the underlying theory of change is a standard productivity-to-poverty-reduction logic that does not account for how fragility, conflict, or political instability could disrupt or distort value chain outcomes. The transformation pathway model (subsistence to specialized cooperative) assumes stable institutional conditions that may not hold across all six target regions. FCV-adaptive reasoning is largely absent from the ToC narrative."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "The arid and semi-arid lowland regions, where pastoralism dominates, are already supported by ongoing IDA-funded projects (RPLRP; PCDP III) and therefore are not being considered here under component A.",
+      "rationale": "The project demonstrates deliberate portfolio complementarity by excluding pastoralist lowlands (already covered by RPLRP and PCDP III) and focusing on highland value chains, reducing duplication risk. Targeting methodology uses technical criteria and geographic balancing across six regions. However, no conflict-sensitive targeting criteria are applied, and the geographic footprint spans regions with active ethnic tension without design adaptations to manage differential inclusion or resource allocation risks."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 4.5,
+      "rating": "Partially Addressed",
+      "key_quote": "Sub-component B.5. Contingent Emergency Response (US$0 IDA) aims to support immediate and rapid response to an Eligible Crisis or Emergency, as needed.",
+      "rationale": "The CERC mechanism provides a formal crisis-response channel with legal covenant requirements for an operations manual, coordinating authority, and rapid disbursement arrangements. PCUs are established at federal, regional, and woreda levels providing multi-tier coordination. However, CERC carries zero initial allocation, and the implementation manual does not include conflict-contingency protocols; flexibility is crisis-reactive rather than conflict-proactive."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "key_quote": "The following PDO level results indicators have been identified: (i) Change in productivity of small-scale producers; (ii) Increase in sales of primary and processed livestock and fish products; (iii) Number of system improvements in support of better livestock and fisheries service delivery.",
+      "rationale": "The results framework focuses entirely on productivity, sales, service delivery systems, and training uptake metrics; there are no FCV-adjusted indicators measuring conflict sensitivity, inclusion of conflict-affected populations, or adaptive management triggers tied to political risk. The M&E component (US$1.1m) supports progress reporting and household surveys but not conflict monitoring or early warning integration. No adaptive management protocol is described for pivoting project activities in response to deteriorating security conditions."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: Yes. Complementary or Interdependent project requiring active coordination. The World Bank Group is also working to improve the quality and access of inputs related to animal drugs, vaccines and feed used in the livestock sector through ongoing IFC non-lending advisory services (L-MIRA).",
+      "rationale": "The project explicitly notes active IFC coordination through the L-MIRA project (Livestock Micro-Reform for Agribusiness) on regulatory reform and input market development, and the cover sheet flags the collaboration as requiring active coordination. This represents a genuine One WBG integration effort. However, IFC engagement is limited to advisory services on regulatory reform and does not extend to private sector investment mobilisation or MIGA coverage for political risk, limiting the depth of integration."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The Livestock and Fisheries Sector Development Project is a productivity-focused agricultural investment that operates across six ethnically diverse regions of Ethiopia, including areas with documented political unrest and ethnic tensions, without conducting a conflict analysis or embedding conflict-sensitive design measures. The CERC mechanism and gender-tagged indicators provide a partial responsiveness foundation, but the absence of FCV diagnostics, do-no-harm safeguards, and conflict-adjusted results indicators places this project in the low FCV integration quadrant."
+}

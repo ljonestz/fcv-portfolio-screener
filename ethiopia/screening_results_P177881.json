@@ -1,0 +1,94 @@
+{
+  "project_id": "P177881",
+  "project_name": "Ethiopia Education and Skills for Employability Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2023,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.00,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a substantive macro-level account of Ethiopia's FCV context — Tigray conflict, 4.39M IDPs, regional instability, climate shocks — and links these to labor market disruption. However, the analysis does not disaggregate fragility by region, map conflict dynamics spatially, or engage with political economy drivers of violence. The FCV narrative contextualises rather than diagnoses."
+    },
+    "responsiveness": {
+      "numeric_score": 4.80,
+      "rating": "Partially Addressed",
+      "rationale": "Design responsiveness is uneven: targeting of IDPs and conflict-affected youth is explicit and operationalised through a dedicated window and higher payment incentives, but the theory of change does not theorise FCV pathways, adaptive mechanisms for conflict disruption are absent from the body of the PAD, the results framework uses IDP disaggregation as a proxy for FCV measurement rather than conflict-sensitivity indicators, and IFC/MIGA collaboration is explicitly absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The conflict that began in November 2020 led to a significant loss of life, left 9.4 million people in dire need of humanitarian assistance, and triggered an ongoing displacement crisis with an estimated 4.39 million IDPs.",
+      "rationale": "The PAD includes a dedicated country context section covering the Tigray conflict, ongoing regional displacement, Sudan refugee influx, climate shocks, and COVID-19 — all linked to labor market vulnerability. However, the analysis is macro-level and does not differentiate fragility dynamics by region, map conflict-affected implementation areas, or provide a diagnostic of conflict drivers relevant to the TVET sector."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The Recipient has prepared, consulted, approved and disclosed... a security risk assessment and management plan; and a social assessment with annexes including sexual exploitation and abuse/sexual harassment prevention and response action plan.",
+      "rationale": "A security risk assessment and management plan and a SEA/SH action plan are required as effectiveness conditions, signalling awareness of protection risks. However, the PAD body contains no explicit do-no-harm analysis of how training investments or IDP targeting could affect inter-group tensions, resource competition, or conflict dynamics. No conflict-pathway analysis is visible in the design narrative."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "MoLS will establish SSCs for 4-5 priority sectors that bring together employers, the public sector (e.g., Ministry of Education, Ministry of Industry), and training institutions to ensure that skill demand and supply are aligned.",
+      "rationale": "The PAD identifies a broad stakeholder landscape — MoLS, PTCs, IABs, SSCs, private providers, employers, IDPs, PWDs, women, rural populations — and discusses governance reform incentives. However, there is no political economy analysis of vested interests in the public TVET system, no analysis of how conflict-affected political economy could distort implementation, and no engagement with IDP community leadership or host community dynamics."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The Project is also well aligned with the World Bank's AFE Priorities with its focus on skills for jobs, digital skills, green skills and importantly investing in people which also has the potential of addressing drivers of fragility, conflict and violence.",
+      "rationale": "The PDO explicitly targets IDPs and PWDs as marginalized groups, and the project is flagged as a Fragile State and Conflict operation. The CPF alignment note gestures toward FCV driver reduction. However, the theory of change is a skills-to-employment logic chain that does not explicitly theorise how TVET investment addresses fragility or contributes to stability, nor does it incorporate conflict-sensitivity in its causal model."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 7,
+      "rating": "Substantially Addressed",
+      "key_quote": "A special window for IDPs to support trainees from the conflict-affected regions of Ethiopia will also be included. Higher payments will be used to incentivize providers to select, train and place women, trainees from rural areas, IDPs and PWDs into jobs.",
+      "rationale": "This is the strongest FCV dimension in the design: an explicit IDP window in Component 2, a 15% IDP beneficiary target, financial incentives for providers serving IDPs and conflict-affected populations, rehabilitation of conflict-damaged PTCs, at-least-one-PTC-per-region geographic coverage, and SMIS targeting mechanisms for IDPs. Safe facilities for women (WASH, separation) address protection risks. The design operationalises FCV targeting systematically across components."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Evaluation activities will be introduced during the pilot stage and continue as the component is rolled-out to allow for iterative learning and to identify adjustments to the design and implementation of these approaches.",
+      "rationale": "The performance-based Component 2 design includes an ex-ante RCT with iterative learning, and a security risk management plan is a pre-condition. However, the PAD does not articulate contingency arrangements for conflict-related disruptions to PTC operations, does not define triggers for adapting implementation in conflict-affected regions, and the SORT rates Political and Governance risk as Substantial with generic mitigation language."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Employment rates of graduates of project-supported training programs, disaggregated by gender, IDPs and persons with disabilities. Number of students who successfully complete project-supported training programs, disaggregated by gender, rural, IDPs, PWDs and green skills.",
+      "rationale": "PDO-level indicators are disaggregated by IDP and PWD status, constituting a meaningful FCV-relevant accountability mechanism. Tracer studies will track employment outcomes for these groups. However, the results framework contains no FCV-specific indicators measuring conflict sensitivity, protection outcomes, or contributions to social cohesion — IDP disaggregation serves as the sole FCV proxy."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no IFC collaboration. There is no mention of MIGA, IFC private sector investment platforms, or coordinated WBG portfolio engagement relevant to the skills and employability agenda in Ethiopia. Engagement with private training providers and employers is described but entirely through the government-administered performance-based contracting mechanism, not through IFC instruments."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The project's strongest FCV feature is its operational targeting of IDPs and conflict-affected youth through a dedicated training window and financial incentives — but this practical responsiveness sits within a design whose theory of change does not theorise FCV pathways, whose sensitivity analysis remains macro-level, and whose results framework lacks conflict-sensitivity indicators beyond IDP disaggregation."
+}

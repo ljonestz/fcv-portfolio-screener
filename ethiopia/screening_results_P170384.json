@@ -1,0 +1,94 @@
+{
+  "project_id": "P170384",
+  "project_name": "ETHIOPIA CLIMATE ACTION THROUGH LANDSCAPE MANAGEMENT PROGRAM FOR RESULTS",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2019,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.33,
+      "rating": "Not Addressed",
+      "rationale": "The document provides a substantive climate-vulnerability and land-degradation context but contains no dedicated conflict analysis, fragility drivers assessment, or discussion of the FCV dimensions of Ethiopia's political environment beyond a SORT 'Substantial' rating for political and governance risk. Land tenure insecurity is treated as a development constraint rather than an FCV driver, and there is no analysis of how conflict or displacement dynamics interact with program targeting. The FCV context of Afar and Somali exclusion zones is acknowledged only in passing, without analysis of spillover or border-area risks."
+    },
+    "responsiveness": {
+      "numeric_score": 2.60,
+      "rating": "Not Addressed",
+      "rationale": "The PDO and theory of change are framed entirely around climate-smart land management and land tenure security, with no FCV-sensitive objectives or conflict-linked pathways. Design provisions for vulnerable households (labor exemptions, joint land certificates for women) are inclusion-oriented but not conflict-responsive. The results framework tracks SLM area, NDVI, and land registration with a gender sub-indicator but contains no FCV-specific indicators, adaptive management provisions linked to conflict risk, or CERC/contingency mechanisms; IFC/MIGA collaboration is explicitly absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Political and Governance risk rated Substantial in SORT. Poverty reduction results recorded globally are very fragile. Development Response to Displacement Impacts Project mentioned as separate operation.",
+      "rationale": "The document situates Ethiopia in a climate-vulnerability and poverty frame with acknowledgment of governance risk via the SORT 'Substantial' rating, but provides no conflict analysis, fragility-drivers mapping, or examination of how political/ethnic tensions affect targeted regions. The reference to a separate displacement project signals awareness of displacement dynamics without integrating them into this program's context analysis. This constitutes brief acknowledgment rather than analytical engagement with FCV dimensions."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Special provisions will be established for vulnerable households to ensure inclusion into the program with exceptions on labor input requirements. The voluntary nature of the provision of labor will be documented.",
+      "rationale": "The document identifies social risks through the ESSA process and incorporates safeguards such as voluntary labor provisions and protections for vulnerable households, but these address exploitation/exclusion concerns rather than conflict harm pathways. There is no analysis of how land certification, watershed demarcation, or community institution formation could exacerbate inter-community tensions or land disputes in ethnically diverse regions. The Environmental and Social risk is rated 'Substantial' in SORT but no conflict-specific do-no-harm logic is visible."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "Female-headed households (26 percent of all rural HHs) remain particularly vulnerable to climate shocks and face multiple challenges such as lower levels of landholding and weaker tenure rights.",
+      "rationale": "The document gives meaningful attention to gender-differentiated vulnerabilities, mandates joint land certification for married couples and individual titles for female-headed households, and sets DLI targets for women's land registration. However, there is no systematic political economy analysis addressing elite capture risks, ethnic or community power dynamics in watershed governance, or the risks that land formalization could disadvantage customary rights-holders. Stakeholder analysis is gender-focused but not broader PEA."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The Program Development Objective is to increase adoption of sustainable land management practices and to expand access to secure land tenure in non-rangeland rural areas.",
+      "rationale": "The PDO is framed entirely in climate and land management terms with no FCV-sensitive element. The theory of change links watershed management and land tenure to climate resilience and livelihood outcomes without any conflict-linked logic, peace dividend framing, or acknowledgment that land administration interventions in a fragile governance environment can have conflict implications. This is a standard development ToC applied to an FCV-affected context."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Activities in predominantly rangeland areas (including the Afar and Somali Regions) will be excluded because watersheds are less suitable as planning units given the physical and social characteristics of these rangelands.",
+      "rationale": "The explicit exclusion of Afar and Somali regions reflects an awareness of their distinct socio-political characteristics but is justified on technical-agronomic grounds rather than conflict-sensitivity grounds. The targeting of non-rangeland areas is not designed with reference to conflict hotspots, displacement-affected communities, or FCV vulnerability gradients. Protections for vulnerable households within the program are social-inclusion measures rather than conflict-responsive design features."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The PforR instrument provides a mechanism to incentivize the rollout of institutional reforms for participatory watershed management and land administration.",
+      "rationale": "The PforR instrument's results-based architecture provides a degree of programmatic flexibility through DLI redesign, but the document contains no contingency components, CERC provisions, security protocols, or remote monitoring arrangements responsive to conflict disruption. Implementation flexibility is designed around government capacity and fiscal transfer mechanisms, not around potential deterioration of the security or political environment in target regions."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "PDO 4: Share of securely registered landholdings held by a woman either individually or jointly with a man (Percent).",
+      "rationale": "The results framework includes a gender equity indicator (women's land registration) and climate outcome proxies (NDVI, SLM area) but contains no FCV-specific indicators such as conflict-affected area coverage, displacement-sensitive disaggregation, or indicators tracking community tensions around land administration. Adaptive management is discussed in terms of institutional performance, not conflict-sensitive course correction. There is no protocol for revising the program in response to deteriorating security conditions."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 1,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The program appraisal document explicitly records that there is no IFC collaboration on this operation. There is no evidence of MIGA engagement or any One WBG coordination on FCV analysis, private sector development in conflict-affected areas, or joint diagnostic work. The absence of IFC/MIGA engagement is consistent with the program's focus on public-sector-led land management, but means D8 cannot be credited."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "P170384 is a large-scale climate and land management program that addresses Ethiopia's agrarian vulnerabilities with technical competence but virtually no FCV framing: the context section contains no conflict analysis, the PDO and ToC are climate-smart but not conflict-sensitive, and the results framework tracks land and vegetation outcomes without any FCV indicators. The program's scale ($500M IDA) and land certification activities in a context of ethnic federalism and governance tensions represent a missed opportunity to build in conflict-sensitivity safeguards against elite capture of land formalization processes."
+}

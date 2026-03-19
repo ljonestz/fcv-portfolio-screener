@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "P148850",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia- Expressway Development Support Project",
+    "sector1": {
+      "Name": "Rural and Inter-Urban Roads",
+      "Percent": 92
+    },
+    "sector2": {
+      "Name": "Public Administration - Transportation",
+      "Percent": 8
+    },
+    "theme1": "Infrastructure services for private sector development!$!10!$!39",
+    "totalcommamt": "370,000,000",
+    "boardapprovaldate": "2015-05-19T00:00:00Z",
+    "closingdate": "6/30/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P148850",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The project development objective of the Expressway Development Support Project for Ethiopia is to enhance efficiency and safety in the movement of goods and people along the Batu (Zeway)-Arsi Negele section of the Modjo-Hawassa development corridor, whilst strengthening the Recipient’s institutional capacity to develop and manage high capacity highways and expressways. The project is comprised of three main components. Component 1, construction of high capacity highway, included constructing the Batu (Zeway) - Arsi Negele section of the new Modjo - Hawassa Highway, including support for livelihood restoration; monitoring and supervising the civil works to be carried out, and supporting prioritized road safety improvement works at potential accident sites on the trunk road network and piloting the implementation of corridor based road safety actions along the high capacity highway and expressway network. Component 2, institutional development and regulatory framework, includes the following parts: (1) strengthening the recipient’s capacity for the development of expressways and high capacity highways, strengthening functional units within the Ethiopian Toll Roads Enterprise for expressway and high capacity highway management, undertaking studies and making recommendations on how to monitor and strengthen governance and transparency in procurement and contract management in the road sector; and preparing follow-on operations, including the preparation of related feasibility studies. Component 3, road safety and institutional development support to the transport sector, includes the following parts: supporting the implementation of the road safety and strengthening the policy-making, planning and monitoring functions of the Ministry of Transportation."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P155828",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "AdditionalFianncing-LSMS-ISA Ethiopia Rural Socioeconomic Survey",
+    "sector1": {
+      "Name": "Other Agriculture, Fishing and Forestry",
+      "Percent": 70
+    },
+    "sector2": {
+      "Name": "Other Education",
+      "Percent": 10
+    },
+    "theme1": "Other rural development!$!70!$!79",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2015-06-22T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P155828",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P151432",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Enhancing Shared Prosperity through Equitable Services",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 60
+    },
+    "sector2": {
+      "Name": "Primary Education",
+      "Percent": 25
+    },
+    "theme1": "Other social protection and risk management!$!60!$!56",
+    "totalcommamt": "798,000,000",
+    "boardapprovaldate": "2015-09-15T00:00:00Z",
+    "closingdate": "11/30/2024 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P151432",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Program for Results (PforR) Enhancing Shared Prosperity through Equitable Services Project for Ethiopia is to improve equitable access to basic services and strengthen accountability systems at the decentralized level. The operation supports the government’s system for the delivery of basic services, which is supported by the Federal Government through the intergovernmental fiscal transfer (IGFT) to the woredas - Ethiopia’s main instrument to finance decentralized service delivery. Under this program of support, the woredas are responsible for the delivery of basic education, primary health care, agriculture extension, water supply, and rural road maintenance. The government’s overall program of support is reflected in the current growth and transformation plan (GTP), which includes broad objectives for service delivery in each sector. The GTP aims to expand the coverage of basic services and improve their quality as a key mechanism to achieve the millennium development goals (MDGs). The PforR will prioritize local-level financing for education, health, and agriculture. The PforR beneficiaries are the whole population benefiting from basic service delivery, particularly the bottom 20 percent of income groups and most poorly performing woredas. The key challenges for maintaining the gains achieved so far include ensuring that IGFT grants follow predictable patterns by using regional fiscal distribution formulas, having adequate ground-level service delivery staff, and maintaining strong fiduciary controls."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P151712",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Urban Productive Safety Net Project (UPSNP)",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 92
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 8
+    },
+    "theme1": "Social Safety Nets/Social Assistance & Social Care Services!$!60!$!54",
+    "totalcommamt": "300,000,000",
+    "boardapprovaldate": "2015-12-16T00:00:00Z",
+    "closingdate": "10/10/2022 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P151712",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The objective of the Urban Productive Safety Net Project is to support the Government of Ethiopia to improve income of targeted poor households and establish urban safety net mechanisms. There are three components to the project, the first component being safety net support.  This component will support the delivery of a predictable, timely, and productive safety net through conditional and unconditional safety net transfers. The project will ensure that various safety net principles such as primacy, adequacy, and predictability of transfer are respected. The second component is the livelihood services. This component will support interventions that will facilitate graduation from the program and promote moving out of poverty. The target groups for these interventions are individuals in households receiving conditional transfers who desire more and higher-paid work. One individual per household can receive this support which will result in a total of 98,000 individuals eligible for this component. The individual will be selected by the household. The support will be implemented by the One Stop Center Directorate (OSCD) in the Urban Food Security and Job Creation Agency (UFS&JCA) which established One Stop Centers in woredas/kebeles. Some of the functions will be performed in collaboration with MoLSA. Finally, the third component is the institutional strengthening and project management. This component will support the development and strengthening of project systems for targeting, monitoring and evaluation (M&E) and MIS, payments, and citizens’ engagement (CE). It will also finance capacity building (human resource, training, administrative, and physical capacity) and strengthening program management (coordination, financial management (FM), procurement, and safeguards)."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2015
+  },
+  {
+    "id": "P148447",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia: SME Finance Project",
+    "sector1": {
+      "Name": "Banking Institutions",
+      "Percent": 65
+    },
+    "sector2": {
+      "Name": "Other Non-bank Financial Institutions",
+      "Percent": 30
+    },
+    "theme1": "Micro, Small and Medium Enterprise support!$!70!$!41",
+    "totalcommamt": "200,000,000",
+    "boardapprovaldate": "2016-05-17T00:00:00Z",
+    "closingdate": "8/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P148447",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Small and Medium Enterprise (SMEs) Finance Project for Ethiopia is to increase access to finance for eligible small and medium enterprises in the recipient’s territory.  The project comprises of four components. The first component, financial services to SMEs is to establish a credit facility providing access to finance for (a) working capital and leasing finance for participating financial institutions (PFIs) which in turn lend to eligible SMEs and (b) leasing finance for eligible SMEs.  Development Bank of Ethiopia (DBE) will provide both direct financing to SMEs and wholesale finance to other financial intermediaries for on-lending to SMEs. A Technical Assistance (TA) facility will be established to complement and reinforce project implementation. In order to have access to the credit facility, PFIs will be required to enter into Technical Cooperation Agreements (TCA) with the Project Management Team (PMT) in DBE and with Private Enterprise Project for Ethiopia (PEPE). The second component is to improve the enabling environment for facilitating SME finance in Ethiopia.  The project will support the hardware and associated software requirements, licenses, capacity building and training for a centralized electronic collateral registry. The main purpose of the diagnostic review on insolvency and credit or debtor regime is to analyze and identify the areas for improvement in the country’s insolvency and credit or debtor systems. The third component, Business Development Services to SMEs is to support SMEs through the provision of tailored Business Development Services (BDS) to address constraints on the demand side.  BDS support to SMEs can address the lack of capacity to develop bankable business plans, the poor quality of financial statements and records, the inability to manage risk, the lack of knowledge of business development and management, the lack of adequate collateral, etc. In addition to the standard BDS, the project will also aim at providing highly specialized services to growth-oriented SMEs capable of becoming suppliers for global value chains.  The fourth component, project management, communication and impact evaluation is to support overall coordination of project activities, and to rigorously measure the impact of the project on the growth of participating SMEs.  The two main implementers of the project will be the Development Bank of Ethiopia (DBE) and the Ministry of Industry (MoI). The impact evaluation will focus on innovation and measurement with the beneficiaries of loans and BDS.  The impact evaluation will also aim to capture heterogeneous impacts across various groups of participants, especially between female and male entrepreneurs, examining differential impacts of access to loans, leases, and business development services for the growth of male and female-owned enterprises. The impact evaluation will involve a long-term research partnership with the Ethiopian Development Research Institute (EDRI)."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P151847",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Eastern and Southern Africa Higher Education Centers of Excellence",
+    "sector1": {
+      "Name": "Tertiary Education",
+      "Percent": 98
+    },
+    "sector2": {
+      "Name": "Public Administration - Education",
+      "Percent": 2
+    },
+    "theme1": "Education for the knowledge economy!$!100!$!66",
+    "totalcommamt": "148,000,000",
+    "boardapprovaldate": "2016-05-26T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P151847",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Eastern and Southern Africa Higher Education Centers of Excellence Project in Africa is to strengthen selected Eastern and Southern African higher education institutions to deliver quality postgraduate education and build collaborative research capacity in the regional priority areas. This project has three components. 1) The first component, Strengthening Africa Centers of Excellence (ACEs) in Regional Priority Areas, the International Development Association (IDA) Credit will finance the strengthening of twenty four ACEs in five clusters of regional priorities – Industry, Agriculture, Health, Education and Applied Statistics. 2) The second component, Capacity Building Support to ACEs through Regional Interventions, the IDA Credit will finance activities at the regional level to enhance the capacity of the ACEs and help them overcome key challenges for achieving the Project Development Objective (PDO). 3) The third component, Facilitation, Coordination and Administration of Project Implementation,financed in the form of Regional IDA Grant will explore networks of regional institutions and industries within and outside of the Eastern and Southern Africa (ESA) region and manage Technical Assistance (TA) firm(s), as needed, to ensure effective project preparation and implementation and oversee, administer, and coordinate Monitoring and Evaluation (M&E) activities across the ACEs to ensure their achievement of the agreed Disbursement Linked Indicator (DLI) results."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P155563",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "ENREP ADDITIONAL FINANCING",
+    "sector1": {
+      "Name": "Energy Transmission and Distribution",
+      "Percent": 100
+    },
+    "theme1": "Rural services and infrastructure!$!45!$!78",
+    "totalcommamt": "205,000,000",
+    "boardapprovaldate": "2016-05-27T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P155563",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P158770",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "PRODUCTIVE SAFETY NET PROJECT (PSNP 4) ADDITIONAL FINANCING",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 92
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 8
+    },
+    "theme1": "Improving labor markets!$!10!$!51",
+    "totalcommamt": "718,000,000",
+    "boardapprovaldate": "2016-06-30T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P158770",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2016
+  },
+  {
+    "id": "P160279",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia: National Quality Infrastructure Development Project",
+    "sector1": {
+      "Name": "Public Administration - Industry, Trade and Services",
+      "Percent": 28
+    },
+    "sector2": {
+      "Name": "Trade",
+      "Percent": 24
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "50,000,000",
+    "boardapprovaldate": "2017-03-31T00:00:00Z",
+    "closingdate": "1/5/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P160279",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of National Quality Infrastructure (NQI) Development Project for Ethiopia is to improve the delivery of quality assurance services to enterprises in the targeted sectors. This project is structured around three components. 1) The first component, Strengthening Institutional Capacity for NQI Development, aims to strengthen the NQI institutions’ capacity to deliver effective and efficient quality assurance services to enterprises in the targeted sectors. It has the following subcomponents : (i) Technical Assistance and Training to Industries; and (ii) Strengthening Ministry of Science and Technology's (MoST) NQI Oversight Function. 2) The second component, Enhancing Private Sector Engagement, aims to support more active private sector involvement for the development of NQI systems in terms of creation of the demand for NQI services and increase of the number of private sector NQI service providers, in particular conformity assessment services.  It has three subcomponents as follows: (i) Technical Assistance and Training to Industries; (ii) Technical Support to Private Sector NQI Service Providers; and (iii) Strengthening the Feed-back and Dialogue Mechanism. 3) The third component, Project Management and Monitoring and Evaluation, aims to support Project management and monitoring and evaluation through, inter alia, financing of Operating Costs, consultants’ services, goods and technical assistance."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P156590",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Trade Logistics Project",
+    "sector1": {
+      "Name": "Trade",
+      "Percent": 44
+    },
+    "sector2": {
+      "Name": "Ports/Waterways",
+      "Percent": 43
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "150,000,000",
+    "boardapprovaldate": "2017-03-31T00:00:00Z",
+    "closingdate": "7/7/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P156590",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Trade Logistics Project for Ethiopia is to enhance the performance of the Ethio-Djibouti corridor through improvements in operational capacity, efficiency, and range of logistics services at the Modjo Dry Port. This project has three components. 1) The first component, : Improvement of infrastructure at Modjo, will support the facility to achieve three key objectives: (a) to improve the efficiency of processing of current traffic flows through the dry port; (b) to increase the capacity of Modjo to process the projected increasing volumes of trade, including the interconnectivity between rail and road transportation; and (c) to facilitate the transformation of Modjo to become a logistics hub offering a wide range of logistics services to exports as well as imports and to support diversification into a wider range of higher value-added exported products. 2) The second component, Enhancing coordination through investments in IT systems, aims at improving coordination to facilitate efficiency of the dry port and flow of information between stakeholders.  It has two subcomponents as follows: (i) A management information system to facilitate the provision of documents and flow of information between agencies along the corridor; and (ii) Logistics terminal operation and electronic gate pass system at the Modjo Dry Port. 3) The third component, Regulatory and institutional capacity support, has the following two subcomponents : (i) Capacity enhancement program for the Ethiopian Maritime Affairs Authority, Logistics Transformation Office, and Ethiopia National Logistics Transformation Council; and (ii) Project management, communication, and monitoring and evaluation ."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P156433",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second Ethiopia Urban Water Supply and Sanitation Project",
+    "sector1": {
+      "Name": "Sanitation",
+      "Percent": 89
+    },
+    "sector2": {
+      "Name": "Water Supply",
+      "Percent": 8
+    },
+    "theme1": "Other urban development!$!20!$!74",
+    "totalcommamt": "445,000,000",
+    "boardapprovaldate": "2017-03-31T00:00:00Z",
+    "closingdate": "6/30/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P156433",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Second Ethiopia Urban Water Supply and Sanitation Project is to increase access to enhanced water supply and sanitation services in an operationally efficient manner in Addis Ababa and selected Secondary Cities. 1) The first component, Sanitation and water supply services improvements in Addis Ababa, will finance the construction of sanitation facilities in various settlements and socio economic situations and will seek to implement appropriate cost-effective sanitation options.  It has three subcomponents as follows: (i) Sanitation services improvement in Addis Ababa; (ii) Operational efficiency improvements in Addis Ababa; and (iii) Project management and institutional strengthening in Addis Ababa. 2) The second component, Sanitation and water supply services improvement in secondary cities, twenty two cities selected from all the regional states and the Dire Dawa city administration will be supported. It has three subcomponents as follows: (i) Sanitation services improvement in secondary cities; (ii) Water supply and operational efficiency improvement in secondary cities; and (iii) Project management and institutional development in secondary cities. 3) The third component, Project management and institutional strengthening, will help Ministry of Water, Irrigation, and Electricity (MoWIE) and Regional Water Bureau (RWBs) manage the project and strengthen their institutional capacity, and will include short term training, study tours, and carefully planned acquisition of office equipment, and vehicles."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P163350",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Productive Safety Net 4 Project Additional Financing",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "108,100,000",
+    "boardapprovaldate": "2017-05-02T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163350",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P161060",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "General Education Quality Improvement Program Phase 2 - GPE 2 Grant",
+    "sector1": {
+      "Name": "Primary Education",
+      "Percent": 48
+    },
+    "sector2": {
+      "Name": "Secondary Education",
+      "Percent": 47
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "0",
+    "boardapprovaldate": "2017-07-11T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P161060",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P161373",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Enhancing Shared Prosperity through Equitable Services",
+    "sector1": {
+      "Name": "Sub-National Government",
+      "Percent": 40
+    },
+    "sector2": {
+      "Name": "Health",
+      "Percent": 20
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "925,000,000",
+    "boardapprovaldate": "2017-09-14T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P161373",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Enhancing Shared Prosperity Through Equitable Services (ESPES) Project for Ethiopia is to improve equitable access to basic services and strengthen accountability systems at the decentralized level. The program is anchored around four sets of key results: (a) ensuring equitable access to basic services; (b) enhancing citizens’ engagement, environmental, and social management capacity; (c) deepening fiduciary aspects of basic service delivery; and (d) ensuring quality data access and results. The ESPES program finances Woreda-level recurrent spending, mainly salaries, to deliver basic services. Over 80 percent of the block grants go to recurrent costs - mainly Woreda-level salaries for teachers, health care workers, agriculture development agents (DAs), and administrators, and also some small operational costs."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P163438",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Rural Productive Safety Net Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 89
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 11
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "1,145,100,000",
+    "boardapprovaldate": "2017-09-14T00:00:00Z",
+    "closingdate": "6/30/2022 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163438",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Rural Productive Safety Net Project for Ethiopia is to support the Government of Ethiopia in improving the effectiveness and scalability of its rural safety net system. The project comprises of three components. The first component, safety net transfers for food insecure households in rural areas is focused on the delivery of predictable and timely transfers (both regular transfers to core clients and transfers to households in response to shocks). The second component, enhanced access to complementary livelihood services will support the livelihood interventions that are currently carried out under the Productive Safety Net Program (PSNP) for chronically food insecure households. The third component, institutional support to strengthen systems for the rural productive safety net will support activities to strengthen the government’s institutions, human resources, and systems to enable: (a) the effective targeting of safety net resources to both chronically and transitorily food insecure households; (b) the timely delivery of predictable safety net support in the form of cash or food; (c) scaling-up of safety net support in response to drought to eligible households; (d) interventions to increase the productive nature of the program, specifically the quality of the public works (PW) and delivery of livelihood support; (e) the existence of an effective system for managing complaints (grievance redress) and processes to hear feedback from beneficiary communities (social accountability); and (f) robust monitoring and evaluation (M and E) of these systems and the impacts of this support on households and communities."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P159382",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Livestock and Fisheries Sector Development Project",
+    "sector1": {
+      "Name": "Livestock",
+      "Percent": 75
+    },
+    "sector2": {
+      "Name": "Public Administration - Agriculture, Fishing & Forestry",
+      "Percent": 5
+    },
+    "theme1": "Rural services and infrastructure!$!30!$!78",
+    "totalcommamt": "170,000,000",
+    "boardapprovaldate": "2017-12-12T00:00:00Z",
+    "closingdate": "7/7/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P159382",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Livestock and Fisheries Sector Development Project for Ethiopia is to increase productivity and commercialization of producers and processors in selected value chains, strengthen service delivery systems in the livestock and fisheries sectors, and respond promptly and effectively to an eligible crisis or emergency. The project comprises of three components. The first component, linking more productive farmers to markets will finance a program of activities aimed at increasing productivity and commercialization of producers and processors in selected value chains and targeted areas in 58 Woredas by improving their access to critical knowledge, services, inputs, equipment and productive infrastructure, and increasing their linkages with markets and value chains. It consists of following sub-components: (i) enabling sub‐projects implementation; (ii) support to subsistence farmers and unemployed youth; (iii) support to improved cooperatives; and (iv) support to specialized cooperatives and municipalities. The second component, strengthening national institutions and programs will carry out a program of activities to improve the immediate and long‐term human, organizational, and institutional capacity of Ministry of Livestock and Fisheries (MoLF) and key public and private actors and cooperatives of the livestock and fisheries sectors. It consists of following sub-components: (i) human resources and organizational capacity development; (ii) policy, planning, and coordination; (iii) sustainable animal health, extension, and advisory services; (iv) development of strategic national programs (SNPs); and (v) contingent emergency response. The third component, project coordination, monitoring and evaluation, and knowledge management will support project coordination, management, monitoring and evaluation, and learning needs. It consists of following sub-components: (i) project coordination; and (ii) monitoring, evaluation, and knowledge management."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P163050",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia General Education Quality Improvement Program for Equity",
+    "sector1": {
+      "Name": "Primary Education",
+      "Percent": 55
+    },
+    "sector2": {
+      "Name": "Secondary Education",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "447,350,000",
+    "boardapprovaldate": "2017-12-19T00:00:00Z",
+    "closingdate": "4/8/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163050",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of General Education Quality Improvement Program for Equity Project is to assist the government of Ethiopia in improving internal efficiency, equitable access, and quality in general education. The Program (PforR) will focus on selected subprograms/activities in the first three of the government Program’s six priority programs, covering pre-primary, primary and secondary education (Grades 0-12). These are: capacity development for improved management; general education quality; and general education access, equity, and internal efficiency. Within the selected programs and cross-cutting issues, and with improved student learning as the core objective, the Program will focus on four main results areas, namely: (1) The first results area, Improved Internal Efficiency, will focus on addressing the chronic issue of over-enrollment in Grade 1 and promoting progression of children through the early grades for improved internal efficiency of the education system. It has the following subcomponents: (i) Quality Enhancement and Assurance Program for O-Class in Pre-primary Education; and (ii) School-based monitoring and incentives to track on-time enrollment of Grade 1 entrants and uninterrupted progression; (2)  The second results area, Improved Equitable Access, focuses on promoting equitable access to general education in Ethiopia. It has the following subcomponents: (i) Improved gender equality in upper primary education; (ii) Increased participation in schooling in pastoralist woredas and emerging regions; and (iii) Inclusive education in primary and secondary schools. (3) The third results area, Improved Quality, focuses on the quality of general education, aiming to improve student learning outcomes in early grade reading (KPI 5) and in English and mathematics (KPI 6). It has the following subcomponents: (i) Improved teaching practice; and (ii) Improved learning environment in schools. (4) The fourth results area, System Strengthening for planning, policy formulation and reform, focuses on strengthening the key elements of the overall education system, specifically improved data collection and analysis, and teacher preparation, to enable its students to achieve higher levels of learning. It has the following subcomponents: (i) Improved data collection and analysis of school and student performance for evidence based decision making; and (ii) Improved system for teacher preparation"
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2017
+  },
+  {
+    "id": "P163226",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "RE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "AF Ethiopia Statistics for Results Project",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 88
+    },
+    "sector2": {
+      "Name": "ICT Infrastructure",
+      "Percent": 12
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "5,500,000",
+    "boardapprovaldate": "2018-02-20T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163226",
+    "status": "Closed",
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P160395",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Electrification Program (ELEAP)",
+    "sector1": {
+      "Name": "Energy Transmission and Distribution",
+      "Percent": 87
+    },
+    "sector2": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "375,000,000",
+    "boardapprovaldate": "2018-03-01T00:00:00Z",
+    "closingdate": "7/7/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P160395",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Electrification Program Project is to increase access to electricity in Ethiopia and to enhance institutional capacity for planning and implementation of the government’s electrification program. The National Electrification Program (NEP) aims to achieve universal electrification by 2025. The NEP will be carried out in phases, with the immediate focus being on the early years of the Program (2018–2023). The NEP is organized into three pillars addressing the dominant challenges of the sector: (a) Pillar 1: Ongrid electrification; (b) Pillar 2: Off-grid service provisioning; and (c) Pillar 3: Sector capacity and institutional reform. Each of the pillars provides a specific menu of activities to be carried out to reach universal electrification. The phased focus under the NEP also allows for enhanced technical planning and coordinated fund mobilization. The PforR instrument is well suited to support the NEP. The PforR instrument allows the establishment of high-level, programmatic targets, compared with the traditional investment approach, with focus on project-based implementation. As such, the PforR instrument provides a unique opportunity to influence system wide improvements by supporting the GoE’s flagship engagement in the electricity sector, that is, the NEP. The PforR allows the GoE to use and strengthen its own systems, which not only ensures longer-term sustainability of the NEP but also provides a unique window of dialogue on core issues."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P163829",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Economic Opportunities Program",
+    "sector1": {
+      "Name": "Agricultural markets, commercialization and agri-business",
+      "Percent": 9
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 45
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "239,120,000",
+    "boardapprovaldate": "2018-06-26T00:00:00Z",
+    "closingdate": "6/30/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163829",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Economic Opportunities Program Program-for-Results Project is to provide economic opportunities for Ethiopians and refugees in an environmentally and socially sustainable way. Ethiopia is a landlocked country that has experienced impressive growth and gains in development in the past two decades. Despite accelerated progress, Ethiopia remains challenged by the need to create economic opportunities for its fast-growing population of over 100 million, including for an estimated 20 million Ethiopians living below the poverty line. A hybrid Program for Results (PforR) and Investment Project Financing (IPF) operation is chosen to address the mix of policy actions, investment activity, and technical assistance to achieve the desired outcomes of the Economic opportunities program. The Economic opportunities program will support a subset of the government’s jobs compact program. The activities supported by the PforR constitute the boundary of the program and have been selected based on the World Bank Group’s strengths and ongoing development operations."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P163383",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Resilient Landscapes and Livelihoods Project",
+    "sector1": {
+      "Name": "Agricultural markets, commercialization and agri-business",
+      "Percent": 6
+    },
+    "sector2": {
+      "Name": "Forestry",
+      "Percent": 48
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "119,000,000",
+    "boardapprovaldate": "2018-07-30T00:00:00Z",
+    "closingdate": "7/7/2024 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P163383",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The Resilient Landscapes and Livelihoods Project of Ethiopia has the objectives to improve climate resilience, land productivity and carbon storage, and increase access to diversified livelihood activities in selected rural watersheds.  This project is comprised of four components: (1) Green infrastructure and resilient livelihoods component will support the restoration of degraded landscapes in selected watersheds and help build resilient livelihoods on this newly productive foundation. (2) Investing in institutions and information for resilience component will build capacity for the promotion and management of SLWM practices, and improve information for better decision-making in supporting resilient landscapes and diversified rural livelihoods in the project area. (3) Rural land administration and use component will strengthen the rural land administration system that secures tenure rights, optimizes land use, and empowers land-users to sustainably invest in productive landscapes. (4) Project management and reporting component will work to ensure effective implementation and reporting on project activities with due diligence and integrity. It will also finance the operational cost of the project coordination units in the Ministry of Agriculture and Livestock Resource and Regional State Bureaus of Agriculture and Natural Resources."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P168566",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Ethiopia Growth and Competitiveness",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 34
+    },
+    "sector2": {
+      "Name": "Banking Institutions",
+      "Percent": 22
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "1,200,000,000",
+    "boardapprovaldate": "2018-10-30T00:00:00Z",
+    "closingdate": "11/30/2019 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P168566",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of the Growth and Competitiveness Programmatic Development Policy Financing (DPF) Project for Ethiopia is structured around three strategic pillars: (i) maximizing finance for development; (ii) boosting competitiveness through a better environment for the private sector; and (iii) enhancing public transparency and accountability to promote good governance. It supports the implementation of the government’s second growth and transformation plan (GTP II) 2016-2020 and advances Ethiopia’s strategic vision for becoming a lower-middle-income country by 2025. The DPF supports the acceleration of the government’s reform program under GTP II by taking actions to open the private sector for competition and foreign participation, reform state-owned enterprise (SOE) sector, and put the economy on a fiscally sustainable path. The presented operation is aligned with both the World Bank Group (WBG) country partnership framework (CPF) 2018-2022 for Ethiopia and the WBG’s twin goals of boosting shared prosperity and ending extreme poverty."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2018
+  },
+  {
+    "id": "P162607",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "GU",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Renewable Energy Guarantees Program",
+    "sector1": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "10,000,000",
+    "boardapprovaldate": "2019-05-23T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P162607",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Renewable Energy Guarantees Program Project for Ethiopia is to increase renewable energy generation capacity through private sector participation in Ethiopia. There is one component to the project, the first component being Metehara Solar IPP. The REGREP first phase consists of IDA guarantee support to the Metehara Solar IPP (100 MW), which is the most advanced IPP transaction. The Metehara Solar IPP is expected to be operational by 2021. Under the IPP project, a consortium led by Enel Green Power (EGP) will be investing approximately US dollar 120 million in the construction of the solar PV plant, with an estimated US dollar 35 million of private capital mobilized. The power purchasing tariff, which has not yet been made public, is consistent with solar auction results observed in other SSA countries around the same time. The facility will generate approximately 280 GWh per year. This output will be sold under a 20-year PPA to EEP that covers all the energy generated by the plant. The IPP project’s location is in the Oromia region, almost 200 km east of the capital Addis Ababa, an area that enjoys high levels of solar radiation. The power plant will cover an area of 250 ha. USAID’s Power Africa Transactions and Reform Program (PATRP) provided transaction advisory assistance to the GoE and EEP for the development of the Metehara Solar IPP. PATRP supported EEP in its efforts to identify a qualified developer through a competitive bidding process to design, construct, own, operate, maintain, generate, and sell the energy produced. The RFP was first issued in May 2016 and revised in December 2016. The deadline for bid submission was in February 2017. The tender attracted more than 60 bidding companies. Five consortia submitted their offers. The bidding process has been completed and the Letter of Intent signed with the awarded consortium, led by EGP, in July 2018. Commercial agreements, geotechnical studies and surveys, implementation and connection agreements, and relevant safeguards instruments were prepared by EEP with support from USAID/Power Africa. Financial close is expected to be achieved by June 2020."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P164336",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Lowlands Livelihood Resilience Project",
+    "sector1": {
+      "Name": "Agricultural Extension, Research, and Other Support Activities",
+      "Percent": 8
+    },
+    "sector2": {
+      "Name": "Livestock",
+      "Percent": 73
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "440,000,000",
+    "boardapprovaldate": "2019-05-23T00:00:00Z",
+    "closingdate": "10/10/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P164336",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Lowlands Livelihood Resilience Project is to Improve Livelihood Resilience of Pastoral and Agro-Pastoral Communities in Ethiopia. This project has four components. 1) The first component, Integrated Rangeland Development and Management, aims to support the overall management of rangelands where Pastoral and Agro-pastoral (PAP) production systems operate. It has the following three subcomponents: (i) Integrated Rangeland Management Planning; (ii) Supporting Strategic Investments; and (iii) Conflict Management and Secure Access to Key Resources. 2) The second component, Livelihood Improvement and Diversification, aims to finance activities that will support three categories of communities, namely those who want to pursue the pastoral system, those who opt to diversify within the pastoral system including to agro-pastoralism, and those who have moved out of the PAP systems and are looking for alternative livelihoods options. It has the following two subcomponents: (i) Enhancing Pastoral and Agro-Pastoral Production Systems; and (ii) Promoting Livelihood Diversification and Market Access. 3) The third component, Improving Basic Services and Capacity Building, has the following subcomponents: (i) Provision of Basic Social Services and Infrastructure; (ii) Institutional Capacity Building; and (iii) Knowledge Management, Research, and Policy Support. 4) The fourth component, Project Management, Monitoring, and Evaluation, aims to ensure that the project is managed and implemented efficiently, on time, and in accordance with the project development objective (PDO) and financing agreement, and that its performance and effectiveness are tracked."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P170384",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "ETHIOPIA CLIMATE ACTION THROUGH LANDSCAPE MANAGEMENT PROGRAM FOR RESULTS",
+    "sector1": {
+      "Name": "Other Agriculture, Fishing and Forestry",
+      "Percent": 67
+    },
+    "sector2": {
+      "Name": "Public Administration - Agriculture, Fishing & Forestry",
+      "Percent": 33
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "500,000,000",
+    "boardapprovaldate": "2019-06-13T00:00:00Z",
+    "closingdate": "9/7/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170384",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Climate Action through Landscape Management (CALM) Program for Results Project for Ethiopia is to increase adoption of sustainable land management (SLM) practices and to expand access to secure land tenure in non-rangeland rural areas. The program will help Ethiopia address international and national policy commitments that seek to address climate resilience and mitigation goals and promote the sustainable management of natural resources. The program will align with focus area 2: building resilience and inclusiveness. This focus area includes the objective of enhancing the management of natural resources and climate risks through improved natural resources and forest management, scaling-up the Government of Ethiopia (GoE’s) SLM program and addressing land tenure through the issuance of land use certificates. The program will also address the World Bank’s high-level corporate priorities on climate change which aim to increase the level of ambition and commitments on both adaptation and resilience. The program will make a substantial contribution to addressing priorities of the World Bank’s Africa climate business plan now in its fourth year of implementation."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P167794",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA)",
+    "sector1": {
+      "Name": "Water Supply",
+      "Percent": 35
+    },
+    "sector2": {
+      "Name": "Sanitation",
+      "Percent": 35
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "300,000,000",
+    "boardapprovaldate": "2019-06-13T00:00:00Z",
+    "closingdate": "1/7/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167794",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Consolidated Water Supply, Sanitation (WSS), and Hygiene Account Project for Ethiopia is to increase access to safe WSS, and hygiene services and strengthen capacity for water resources management and service delivery. The project comprises of five components. The first component, rural WSS, and hygiene will help increase access to safe and reliable WSS services and promote hygienic practices in selected rural woredas that have not previously benefited from the Water Supply, Sanitation, and Hygiene Project (WASHP) interventions or that require expansion and improvement of services in new communities to achieve universal access. It consists of following sub-components: (i) increasing rural access to WSS services; and (ii) enhancing service delivery management capacity. The second component, urban WSS, and hygiene will contribute to increasing access to WSS services and to strengthening the capacity of town water boards and utilities to effectively manage water resources and WSS service delivery in selected small- and medium-sized towns. The third component, institutional WSS, and hygiene will improve integrated access to advanced WASH facilities in schools and health centers and is intended to complement interventions to improve health impacts, decrease school dropout rates, and increase resilience of WSS services to floods and droughts and reduce the contamination of water bodies. The fourth component, climate resilient WASH will contribute to strengthening the management of water resources for service delivery and to increasing access to WASH services in selected flood- and drought-prone areas. It consists of following sub-components: (i) water resource monitoring and planning; (ii) climate-adaptive service delivery; and (iii) contingency emergency response component (CERC). The fifth component, institutional strengthening and project management consists of following sub-components: (i) operationalization of a sector management information system (MIS); and (ii) institutional strengthening and project management."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2019
+  },
+  {
+    "id": "P169079",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Second Ethiopia Growth and Competitiveness Programmatic Development Policy Financing",
+    "sector1": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 20
+    },
+    "sector2": {
+      "Name": "Other Industry, Trade and Services",
+      "Percent": 20
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "500,000,000",
+    "boardapprovaldate": "2020-03-19T00:00:00Z",
+    "closingdate": "2/26/2021 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P169079",
+    "status": "Closed",
+    "project_abstract": {
+      "cdata!": "The development objective of Second Growth and Competitiveness Programmatic Development Policy Financing (DPF) for Ethiopia aims at boosting economic transformation in Ethiopia by increasing private sector participation and promoting good governance practices. This second operation is expected to contribute to the deepening of key structural reforms, while it also introduces measures aimed at removing constraints to access to credit by the private sector and improving macroeconomic management. The operation is structured around three strategic pillars: (i) maximizing finance for development; (ii) improving the investment climate and developing the financial sector; and (iii) enhancing transparency and accountability. This DPF series directly supports the government’s program, with a focus on maximizing finance for development, expanding the economic role of the private sector, and promoting transparency and accountability."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P173750",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia COVID-19 Emergency Response",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 57
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 28
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "82,600,000",
+    "boardapprovaldate": "2020-04-02T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173750",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the COVID-19 (Coronavirus) Emergency Response Project is to prevent, detect and respond to the threat posed by COVID-19 (Coronavirus) and strengthen national systems for public health preparedness in Ethiopia. There are five components to the project, the first component being medical supplies and equipment. This component will finance the procurement of medical supplies and equipment needed for activities outlined in the EPRP such as (i) case management; (ii) infection prevention and control; and (iii) other pillars of the strategic plan. The second component is the preparedness, capacity building and training. This component will finance activities related to preparedness, capacity building and training, guided by the different pillars and activities of the EPRP. The third component is the community discussions and information outreach. Activities supported by this component include: risk communication and community engagement; behavioral and sociocultural risk factors assessments; production of RCCE strategy and training documents; production of communication materials; establish a production center for information and communication tools production center (media and community engagement); and monitoring and evidence generation; and human resources for risk communication. The fourth component is the quarantine, isolation and treatment centers establishment. Activities supported by this component include: establishing isolation and treatment centers, including provision of nutrition and dignity kits to quarantined patients, and equipping them with medical supplies and furniture and network installation. Finally, the fifth component is the project implementation and monitoring."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P169943",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Urban Productive Safety Net and Jobs Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 70
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 17
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "458,000,000",
+    "boardapprovaldate": "2020-09-30T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P169943",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Urban Productive Safety Net and Jobs Project for Ethiopia is to support the Government of Ethiopia (GoE) in improving the incomes of the urban poor and the labor market inclusion of disadvantaged urban youth. The Project has five components. 1. Expand the Urban Productive Safety Net to Improve the Urban Environment component will provide labor-intensive public work opportunities for selected urban poor in selected cities, assist in business development, and provide livelihood grants for beneficiary households. 1.1. Public Works subcomponent will provide monthly payments for public work beneficiaries, based on a daily wage rate calibrated so as not to undercut the labor market. 1.2. Livelihood Development subcomponent will provide support for business development and livelihood grants through technical, financial, and\nbehavior change. 1.3. Integration of Refugees and Host Communities in Selected Localities subcomponent will include refugees and host communities living near selected cities in a joint public works and livelihoods program. 2. Foster Urban Youth Employment component supports key elements of Ethiopia’s National Plan for Job Creation, through fostering the development of human capital (Subcomponent 2.1) and strengthening labor market intermediation (Subcomponent 2.2). 3. Strengthen Social Assistance and Services for the Urban Poor and Destitute component will entail: 3.1: Expanding Permanent Direct Support (PDS) subcomponent which will provide a combination of cash and service link assistance to the poorest and 3.2. Services for the Urban Destitute subcomponent which will support the homeless toward their social, economic, and educational reintegration in cities with high number of homeless people. 4. Institutional Strengthening, Project Management and Monitoring and Evaluation component support the development and strengthening of safety net systems, at JOBFSA, Ministry of Labor and Social Affairs (MoLSA), and Jobs Creation Commission (JCC), as well as regions, cities and woreda offices. 5. Contingent Emergency Response component will be activated and funded in case of a declared crisis that affects the economy or the environment and threatens to increase the vulnerability of the urban population."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P172479",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Strengthen Ethiopia’s Adaptive Safety Net",
+    "sector1": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 8
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 47
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "1,498,500,000",
+    "boardapprovaldate": "2020-11-25T00:00:00Z",
+    "closingdate": "12/31/2025 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P172479",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P174874",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "ETHIOPIA WOMEN ENTREPRENEURSHIP DEVELOPMENT PROJECT ADDITIONAL FINANCING",
+    "sector1": {
+      "Name": "Banking Institutions",
+      "Percent": 95
+    },
+    "sector2": {
+      "Name": "Workforce Development and Vocational Education",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "100,000,000",
+    "boardapprovaldate": "2020-12-10T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174874",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2020
+  },
+  {
+    "id": "P175853",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Additional Financing for Ethiopia COVID-19 Emergency Response Project",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 44
+    },
+    "sector2": {
+      "Name": "Health Facilities and Construction",
+      "Percent": 41
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "207,000,000",
+    "boardapprovaldate": "2021-03-26T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P175853",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P171742",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Access to Distributed Electricity and Lighting in Ethiopia (ADELE)",
+    "sector1": {
+      "Name": "Renewable Energy Solar",
+      "Percent": 75
+    },
+    "sector2": {
+      "Name": "Public Administration - Energy and Extractives",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "500,000,000",
+    "boardapprovaldate": "2021-03-29T00:00:00Z",
+    "closingdate": "3/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171742",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Access to Distributed Electricity and Lighting in Ethiopia (ADELE) Project for Ethiopia is to increase access to reliable electricity for households, social institutions, and enterprises in Ethiopia. The project comprises of five components. The first component, network strengthening for improved reliability of supply in urban areas will improve the reliability of supply in Addis Ababa and 10 other regional capitals and selected zonal towns, where deficiencies in availability, quality, and reliability of supply remain a challenge. The second component, solar-hybrid mini grids for rural economic development will finance the rollout of solar mini-grids along with battery storage and or diesel backup. It consists of following sub-components: (i) Ethiopian electric utility (EEU) - led mini-grids; and (ii) private sector-led mini-grid pilot. The third component, solar home systems for households (HHs), small-holder farmers and small businesses will expand availability and affordability of off-grid solar (OGS) systems for households, smallholder farmers, and small businesses in rural areas, with a particular focus on deep-rural and other underserved areas. It consists of following sub-components: (i) incentivizing market expansion into deep-rural areas and innovation; and (ii) access to finance to increase OGS penetration. The fourth component, standalone solar systems for health and education facilities will finance the supply and installation of stand-alone solar systems for health and education facilities identified under the national electrification program (NEP) 2.0. The fifth component, capacity building, technical assistance, and implementation support will finance various sector studies and technical assistance, capacity-building, and implementation support activities to ensure EEU, Ministry of Water, Irrigation, and Energy (MoWIE), Development Bank of Ethiopia (DBE), Ethiopian Energy Authority (EEA), the local and international private sector, cooperatives, mobile network operators, financial institutions, and other sector stakeholders have adequate technical, planning, and operational capacity to implement the electrification program. It consists of following sub-components: (i) enhancing EEU’s institutional, technical, and planning capacity; (ii) enhancing MoWIE’s monitoring and technical capacity; and (iii) enhancing the financial sector’s capacity to provide financing to the off-grid energy sector."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P175045",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Small and Medium Enterprises Finance Project - Additional Finance",
+    "sector1": {
+      "Name": "Capital Markets",
+      "Percent": 98
+    },
+    "sector2": {
+      "Name": "Public Administration - Financial Sector",
+      "Percent": 1
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "200,000,000",
+    "boardapprovaldate": "2021-04-02T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P175045",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P171034",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Digital Foundations Project",
+    "sector1": {
+      "Name": "ICT Infrastructure",
+      "Percent": 69
+    },
+    "sector2": {
+      "Name": "Public Administration - Education",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "200,000,000",
+    "boardapprovaldate": "2021-04-21T00:00:00Z",
+    "closingdate": "10/31/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171034",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The Project Development Objective (PDO) for the Ethiopia Digital Foundations Project is to increase the inclusiveness and affordability of digital services and digital job creation in Ethiopia. The Ethiopia Digital Foundations Project is intended to lay the building blocks to develop Ethiopia’s digital economy. Liberalization and the introduction of competition in the telecom sector, coupled with improved private management of the incumbent, has proven to deliver consistent results for improved access and affordability across the world. Building on this premise, this project will support the necessary steps to introduce market competition, private sector participation, foreign investment and independent sector regulation (component 1). The project will also help the country expand and strengthen its basic digital infrastructure, especially the fiber network and mobile broadband, towards achieving the African Union goal of universal affordable and quality broadband access by 2030 (component 2), a pre-condition to being able to leverage digital technologies for growth in the various sectors of the economy. A special area of focus will be enhancing broadband services to government and better serving universities and government offices in provincial areas, using an MFD approach, whereby the private sector takes the lead on investment. Supporting a robust cybersecurity framework to protect these investments from attacks and breaches will be critical. Finally, the country can generate opportunities for new jobs it needs through its investments and reforms in digital transformation; this will require creating an ecosystem in which new digital start-ups can thrive (component 3). There is also a need to ensure that offline citizens benefit from the push towards the digital economy. This is addressed through the design of the matching grants program that seeks to serve both online and offline businesses (also under component 3). Ultimately, the project aims at enabling its citizens, businesses and government to reap digital dividends in the form of faster growth, lower transaction costs, more jobs and greater efficiency. A Contingent Emergency Response Component (CERC) has been added to the program design to allow for greater flexibility in responding to any emergency crises during the duration of the project."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P168411",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Additional Financing to GEQIP-E for Refugees Integration",
+    "sector1": {
+      "Name": "Primary Education",
+      "Percent": 37
+    },
+    "sector2": {
+      "Name": "Public Administration - Education",
+      "Percent": 27
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "79,500,000",
+    "boardapprovaldate": "2021-05-07T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P168411",
+    "status": "Active",
+    "_instrument_category": "P4R",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P176354",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "ENHANCING SHARED PROSPERITY THROUGH EQUITABLE SERVICES (ESPES) Second Additional Financing",
+    "sector1": {
+      "Name": "Other Education",
+      "Percent": 8
+    },
+    "sector2": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 38
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "250,000,000",
+    "boardapprovaldate": "2021-05-20T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176354",
+    "status": "Active",
+    "_instrument_category": "P4R",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P176997",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "ADDITIONAL FINANCING FOR STRENGTHEN ETHIOPIA’S ADAPTIVE SAFETY NET PROJECT",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 100
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "37,500,000",
+    "boardapprovaldate": "2021-09-10T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176997",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P177906",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second AF for the Ethiopia Covid-19 Emergency Response Project",
+    "sector1": {
+      "Name": "Health Facilities and Construction",
+      "Percent": 50
+    },
+    "sector2": {
+      "Name": "Health",
+      "Percent": 47
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "206,000,000",
+    "boardapprovaldate": "2021-12-20T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177906",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2021
+  },
+  {
+    "id": "P177233",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Response - Recovery - Resilience for Conflict-Affected Communities in Ethiopia Project",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 93
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 7
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "300,000,000",
+    "boardapprovaldate": "2022-04-12T00:00:00Z",
+    "closingdate": "3/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177233",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Response-Recovery-Resilience for Conflict-Affected Communities in Ethiopia Project is to (i) rebuild and improve access to basic services and climate-resilient community infrastructure and (ii) improve access to multi-sectoral response services for Gender-Based Violence (GBV) survivors; in selected conflict-affected communities in Ethiopia. This project has four components. 1) The first component, Rebuilding and Improving Access to Basic Services and Climate-resilient Community Infrastructure, has the following sub-components: (i) Community-based Rapid Response Basic Services; (ii) Community-based Recovery Activities; and (iii) Strengthening Institutions for Resilience. 2) The second component, Improving Access to GBV Response Services, has the following sub-components: (i) Expanding and Strengthening GBV Services in Conflict-affected Communities; (ii) GBV Prevention and Behavior Change; and (iii) Support to Coordination, Policy Development, and Research for GBV Prevention and Response. 3) The third component, Adaptive Project Management, has the following sub-components:(i) Project Management; and (ii) Learning and Adaptive Implementation. 4) The fourth component, Contingent Emergency Response Component, is included in the project in accordance with the Investment Project Financing (IPF) Policy, paragraphs 12 and 13, for situations of urgent need of assistance and capacity constraints."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178821",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Third Additional Financing for the Ethiopia COVID-19 Emergency Response Project",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 97
+    },
+    "sector2": {
+      "Name": "Public Administration - Health",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "195,000,000",
+    "boardapprovaldate": "2022-05-31T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178821",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178047",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Development Response to Displacement Impacts Project in the Horn of Africa Phase II",
+    "sector1": {
+      "Name": "Other Agriculture, Fishing and Forestry",
+      "Percent": 8
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 46
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "180,000,000",
+    "boardapprovaldate": "2022-06-17T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178047",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of Second Phase Development Response to Displacement Impacts Project in the Horn of Africa Project for Ethiopia is to improve access to basic social and economic services, expand livelihood opportunities and enhance environmental management for host communities and refugees in the target areas. This project has five components. 1) The first component, Social and economic services and infrastructure, has the following: (i) Community Investment Fund and Strategic Investment Fund; (ii) Capacity Support for Local Planning and Decentralized Service Delivery; (iii) Women’s Leadership and Voice; and (iv) Social Cohesion and Inclusion. 2) The second component, Sustainable environmental management, has the following sub-components: (i) Integrated Natural Resource Management; and (ii) Alternative Energy Sources. 3) The third component, Livelihoods program, has the following sub-components: (i) Traditional Livelihoods; (ii) Non-traditional Livelihoods; and (iii) Small-Scale, Micro and Household Irrigation Schemes. 4) The fourth component, Project Management, Monitoring and Evaluation and Learning, aims to maintain a functional Project Coordination Unit (PCU) at the federal, regional and woreda levels. 5) The fifth component, Contingent Emergency Response, is set to respond to eligible crises in the project areas."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P179092",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Second Additional Financing for Strengthen Ethiopia's Adaptive Safety Net",
+    "sector1": {
+      "Name": "Social Protection",
+      "Percent": 97
+    },
+    "sector2": {
+      "Name": "Public Administration - Social Protection",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "350,000,000",
+    "boardapprovaldate": "2022-09-20T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179092",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P175167",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Program for Results (Hybrid) for Strengthening  Primary Health Care Services.",
+    "sector1": {
+      "Name": "Health",
+      "Percent": 68
+    },
+    "sector2": {
+      "Name": "Health Facilities and Construction",
+      "Percent": 4
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "445,000,000",
+    "boardapprovaldate": "2022-12-13T00:00:00Z",
+    "closingdate": "6/30/2026 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P175167",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Program for Results (Hybrid) for Strengthening Primary Health Care (PHC) Services for Ethiopia is to improve access to and equitable provision of high-quality PHC services, with a focus on reproductive, maternal, neonatal, child, and adolescent health plus nutrition (RMNCAH+N), while strengthening health systems. The operation is fully aligned with the World Bank Group strategy for fragility, conflict, and violence (FCV) 2020-2025, recognizing that inclusive and effective social sector service delivery is central to improving state legitimacy and trust in institutions. The framework for engagement in FCV countries underlines improving human and social capital; equitably scaling up private sector engagement for impact; strengthening core institutions; and working across the humanitarian development nexus."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P176327",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Flood Management Project",
+    "sector1": {
+      "Name": "Other Public Administration",
+      "Percent": 90
+    },
+    "sector2": {
+      "Name": "Central Government (Central Agencies)",
+      "Percent": 10
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "300,000,000",
+    "boardapprovaldate": "2022-12-13T00:00:00Z",
+    "closingdate": "3/31/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176327",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Flood Management Project for Ethiopia is to strengthen Ethiopia’s institutional capacity for disaster risk management (DRM), and flood risk management in selected basins. The project comprises of four components. The first component, strengthening institutional and coordination capacity for disaster risk management aims to improve the Government of Ethiopia (GoE) DRM by strengthening the institutional capacity of federal-level agencies (including priority sectors) and the coordination between federal and decentralized levels of the government. The second component, accelerating flood risk management aims to accelerate flood risk management by investing in physical infrastructure to reduce flood risks, strengthening hydromet services and impact-based flood early warning systems (FEWSs), increasing community-level preparedness and awareness, and providing technical assistance and capacity building to facilitate integrated flood risk management (IFRM). It consists of following sub-components: (i) basin-level flood risk reduction investments; (ii) hydromet services and impact-based flood early warning systems; (iii) community-level flood preparedness and awareness raising; and (iv) strategic studies for future investments and capacity building for urban flood risk management. The third component, contingent emergency response supports the implementation of the World Bank’s global crisis response framework (GCRF), pillar 3, strengthening resilience, as it provides the opportunity to reallocate funds to quickly respond in the event of an emergency or crisis. The fourth component, project management and implementation support aim to ensure the successful implementation of the activities carried out under the project."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2022
+  },
+  {
+    "id": "P178895",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Electrification Program Additional Financing",
+    "sector1": {
+      "Name": "Energy Transmission and Distribution",
+      "Percent": 82
+    },
+    "sector2": {
+      "Name": "Public Administration - Energy and Extractives",
+      "Percent": 17
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "250,000,000",
+    "boardapprovaldate": "2023-03-31T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178895",
+    "status": "Active",
+    "_instrument_category": "P4R",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P172284",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Human Capital Operation",
+    "sector1": {
+      "Name": "Early Childhood Education",
+      "Percent": 7
+    },
+    "sector2": {
+      "Name": "Social Protection",
+      "Percent": 33
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "405,000,000",
+    "boardapprovaldate": "2023-06-16T00:00:00Z",
+    "closingdate": "7/7/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P172284",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Human Capital Operation (HCO) for Ethiopia is to improve learning outcomes and nutrition services for girls and boys, and to strengthen service delivery and accountability, in all regions including areas affected by conflict, droughts and high levels of refugees. The HCO will have three components. Component 1 using Program-for-Results (PforR) will support basic service delivery at the woreda level, including for refugees and host communities; component 2 using investment project financing (IPF) will improve human capital outcomes in areas affected by conflicts, droughts, and high level of refugees and strengthen system capacity, including on refugee integration and protection through technical assistance; and component 3 as a zero-dollar contingent emergency response component (CERC) that can be triggered to respond to emergencies if, and when, deemed appropriate."
+    },
+    "_instrument_category": "P4R",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P177881",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Education and Skills for Employability Project",
+    "sector1": {
+      "Name": "Workforce Development and Vocational Education",
+      "Percent": 95
+    },
+    "sector2": {
+      "Name": "Public Administration - Education",
+      "Percent": 5
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "200,000,000",
+    "boardapprovaldate": "2023-09-29T00:00:00Z",
+    "closingdate": "12/31/2028 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177881",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Education and Skills for Employability Project for Ethiopia is to improve employment outcomes of the technical and vocational education and training (TVET) system of Ethiopia with a focus on women and marginalized groups. The project comprises of three components. The first component, strengthening public polytechnics for improved labor market outcomes will strengthen selected Polytechnic Colleges (PTCs) to produce high-quality skilled graduates that meet the industry’s needs in priority sectors of the economy. The second component, skills for jobs will support short-term skills programs through a competitive and performance-based financing model that links payments to the employment outcomes of participants. The third component, system strengthening will enhance the information, coordination, and capacity of the TVET system to make it more dynamic in responding to the evolving technical skill needs in the economy and improving employability of its graduates. It consists of following sub-components: (i) information for decision-making; (ii) strengthened system coordination; and (iii) strengthened system capacity for policymaking and implementation."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P179040",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Ethiopia Digital ID for Inclusion and Services Project",
+    "sector1": {
+      "Name": "ICT Services",
+      "Percent": 87
+    },
+    "sector2": {
+      "Name": "Public Administration - Information and Communications Technologies",
+      "Percent": 3
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "350,000,000",
+    "boardapprovaldate": "2023-12-13T00:00:00Z",
+    "closingdate": "1/7/2029 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179040",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The objective of the Digital ID for Inclusion and Services Project is to establish an inclusive digital ID ecosystem and improve service delivery for registered persons in Ethiopia. There are five components to the project, the first component being building institutions and trust. This component includes three subcomponents: supporting stakeholder engagement and communications, establishing and operationalizing the ID Institution, and establishing and operationalizing the Data Protection Commission of Ethiopia. The second component is the establishing scalable and secure Fayda ICT infrastructure. This component includes three subcomponents: supporting the design, development and maintenance of appropriate software for Fayda, supporting development of data infrastructure, and strengthening digital security. The third component is the inclusive ID issuance. This component includes three subcomponents: supporting mass registration and issuance of physical IDs to Ethiopian residents, supporting mass registration and issuance of physical IDs to Ethiopian residents in host communities and refugees, and supporting integration of Fayda and digital civil registration. The fourth component is the improving service delivery. This component includes two subcomponents: supporting the integration of Fayda and developing an Ethiopia digital stack. Finally, the fifth component is the project management. This component will facilitate effective implementation of the project by supporting the establishment and functioning of the Project Management Unit (PMU) to undertake financial management (FM), procurement, risk management, ESF management, and reporting responsibilities, as well as act as the secretariat for the PSC and augment technical expertise in more complex activities."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P176255",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "ADDITIONAL FINANCING -  TRADE LOGISTICS PROJECT",
+    "sector1": {
+      "Name": "Public Administration - Industry, Trade and Services",
+      "Percent": 6
+    },
+    "sector2": {
+      "Name": "Ports/Waterways",
+      "Percent": 32
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "90,000,000",
+    "boardapprovaldate": "2023-12-13T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176255",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2023
+  },
+  {
+    "id": "P181550",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Urban Productive Safety Net and Jobs Project Second Additional Financing",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "95,000,000",
+    "boardapprovaldate": "2024-03-22T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181550",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P180076",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Lowlands Livelihood Resilience Project, Phase Two (LLRP II)",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "340,000,000",
+    "boardapprovaldate": "2024-03-22T00:00:00Z",
+    "closingdate": "6/30/2029 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180076",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P176731",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Power Sector Reform, Investment and Modernization in Ethiopia (PRIME-1)",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "522,630,000",
+    "boardapprovaldate": "2024-03-26T00:00:00Z",
+    "closingdate": "8/30/2030 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176731",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181626",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "THIRD ADDITIONAL FINANCING FOR STRENGTHEN ETHIOPIA’S ADAPTIVE SAFETY NET PROJECT",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "200,000,000",
+    "boardapprovaldate": "2024-03-28T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181626",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objectives of Third Additional Financing for Strengthen Ethiopia’s Adaptive Safety Net Project are (a) to expand geographic coverage and enhance service delivery of Ethiopia’s adaptive rural safety net to improve the well-being of extremely poor and vulnerable households in drought prone communities, and (b) in case of an Eligible Early Response Financing Event (“Eligible ERF Event”), respond promptly and effectively to it. This project has three components. 1) The first component, Adaptive Productive Safety Net, has the following sub-components: (i) Public works; (ii) Mother and Child Package; (iii) Safety Net Transfers to Extremely Poor People; and (iv) 4 Complimentary Livelihood Services. 2) The second component, Improved Shock Responsiveness of the Rural Safety Net will not include any additional funding to this component of the parent project. 3) The third component, Systems, Capacity Development, and Program Management Support, has the following sub-components: (i) Systems Development; and (ii)  Capacity Building, Management and Administration."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P176303",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Program-for-Results Financing",
+    "lendinginstrtype": "PR",
+    "project_name": "Ethiopia Rural Connectivity to Support Food Security Program",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "300,000,000",
+    "boardapprovaldate": "2024-03-29T00:00:00Z",
+    "closingdate": "3/31/2029 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176303",
+    "status": "Active",
+    "_instrument_category": "P4R",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181545",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Additional Financing for the Second Urban Water Supply and Sanitation Project",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "275,000,000",
+    "boardapprovaldate": "2024-03-29T00:00:00Z",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181545",
+    "status": "Active",
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P181591",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Development Policy Lending",
+    "lendinginstrtype": "AD",
+    "project_name": "Ethiopia First Sustainable and Inclusive Growth Development Policy Operation",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "1,500,000,000",
+    "boardapprovaldate": "2024-07-30T00:00:00Z",
+    "closingdate": "12/31/2027 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181591",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "This Development Policy Operation (DPO) is the first in a programmatic series of two operations to support the Government of Ethiopia’s efforts to: (i) advance financial sector restructuring and trade liberalization, (ii) promote fiscal sustainability and transparency, and (iii) enhance social resilience and climate action. It comprises an International Development Association (IDA) grant in the amount of SDR 760.3 million (US$1,000 million equivalent) and an IDA credit in the amount of SDR 380.2 million (US$500 million equivalent). The DPO series supports reforms that help to address market distortions and constraints undermining macroeconomic stability and inclusive private-sector-led growth. This DPO series is part of a broader stabilization program that includes a four-year International Monetary Fund (IMF) Extended Credit Facility (ECF) program and expected debt treatment from the G20 Common Framework. The stabilization program supports the liberalization of the foreign exchange (FX) market and complementary measures to reduce financial and fiscal risks, promote trade, mobilize revenues, and expand social safety nets to mitigate the effects of the adjustment on the poor. This DPO is aligned with a forthcoming World Bank Country Partnership Framework for Ethiopia (CPF, FY2025-30) and the 2024 Ethiopia Country Climate and Development Report (CCDR)."
+    },
+    "_instrument_category": "DPF",
+    "_approval_year": 2024
+  },
+  {
+    "id": "P178808",
+    "regionname": "Eastern and Southern Africa",
+    "countryname": [
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "prodline": "PE",
+    "lendinginstr": "Investment Project Financing",
+    "lendinginstrtype": "IN",
+    "project_name": "Governance Modernization to Enable Efficient Service Delivery Project",
+    "sector1": {
+      "Name": "",
+      "Percent": 0
+    },
+    "theme1": "!$!0",
+    "totalcommamt": "70,000,000",
+    "boardapprovaldate": "2024-09-10T00:00:00Z",
+    "closingdate": "10/9/2029 12:00:00 AM",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178808",
+    "status": "Active",
+    "project_abstract": {
+      "cdata!": "The development objective of the Governance Modernization to Enable Efficient Service Delivery Project for Ethiopia is to improve government institutional capacity to mobilize and manage public financial and human resources efficiently. The project comprises of four components. The first component, improving public administration capabilities will focus on three fundamental building blocks aligned with the Government of Ethiopia (GoE’s) draft Homegrown Economic Reform Agenda (HGER) 2.0, civil service reform roadmap and civil service policy. It consists of following sub-components: (i) developing an evidence-based and data-informed approach to human resource management; (ii) competency-based human resource management; (iii) institutionalizing training, capacity building, and change management; and (iv) reform innovation facility. The second component, improving domestic revenue mobilization capabilities will support the GoE in implementing key tax administration reforms to help it achieve the national medium term revenue strategy. It consists of following sub-components: (i) leveraging technology and data analytics to support risk-based tax administration; and (ii) improving the quality and availability of taxpayer services. The third component, improving public financial management capabilities will support the GoE in scaling up the use of technology, addressing critical deficiencies along the public financial management (PFM) cycle, the professionalization of accountants and procurement professionals within the public service, and the institutionalization of core training and government-to-government capacity building. It consists of following sub-components: (i) scaling up the use of technology for improved public financial management; (ii) address critical public financial management deficiencies; and (iii) institutionalizing professional training, capacity building, and change management. The fourth component, project management will support the management, coordination, and monitoring and evaluation (M and E) of project activities and funds."
+    },
+    "_instrument_category": "IPF",
+    "_approval_year": 2024
+  }
+]

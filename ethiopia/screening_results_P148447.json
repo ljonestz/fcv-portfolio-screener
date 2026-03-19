@@ -1,0 +1,94 @@
+{
+  "project_id": "P148447",
+  "project_name": "Ethiopia: SME Finance Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2016,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides a detailed economic and financial sector context but contains no FCV diagnostics whatsoever. Ethiopia's ethnic diversity, nascent decentralisation tensions, and proximity to conflict-affected neighbours are noted only in neutral developmental terms. No conflict analysis, fragility framing, or do-no-harm assessment is present anywhere in the document."
+    },
+    "responsiveness": {
+      "numeric_score": 2.20,
+      "rating": "Not Addressed",
+      "rationale": "The project PDO is narrowly transactional — increasing SME access to finance — with no FCV-informed theory of change, no conflict-sensitive targeting, and no adaptive management provisions for conflict or instability scenarios. Results indicators measure financial volumes and portfolio quality only; no FCV-adjusted metrics are present. IFC/MIGA integration is limited to a technical assistance role on leasing regulation."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia is a large and geographically diverse country, with a representation of 98 nationalities and peoples who speak 93 languages... Ethiopia marked an important milestone in August 2012 with the first peaceful and constitutional transition of power.",
+      "rationale": "The country context is described entirely through an economic growth and financial sector development lens. Ethnic diversity and governance transition are mentioned but not analysed for FCV implications. No fragility assessment, no conflict driver analysis, and no reference to subnational tensions — including Oromia protests already emerging at the time of appraisal — are present."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Agricultural project as well as Mining and Quarries however are excluded from the project beneficiaries' sectors due to higher risk of potential negative impact on the environment.",
+      "rationale": "Sector exclusions are justified on environmental grounds only, with no conflict-sensitivity rationale. The SORT rates Political and Governance risk as only Moderate with no elaboration on conflict pathways. No analysis is made of whether channelling finance through state-owned DBE or state-linked MFIs could reinforce patronage networks or exacerbate inter-group inequalities."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The GoE has followed a 'developmental state' model with a strong role for the Government in certain aspects of the economy... State-owned banks constitute 70 percent of total assets of the banking sector.",
+      "rationale": "The PAD correctly identifies the dominant role of state-owned banks and the government's developmental state model, providing some implicit political economy framing. However, this analysis is not extended to assess elite capture risks, exclusion of ethnic or regional minority-owned enterprises, or the political economy of DBE's lending priorities in a diverse federal state."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The project development objective is to increase access to finance for Eligible Small and Medium Enterprises in the Recipient's territory.",
+      "rationale": "The PDO and theory of change are purely financial sector development objectives. There is no acknowledgement of how improved SME finance could intersect with social stability, employment of conflict-affected or displaced populations, or regional equity. The theory of change (Figure 2.3 referenced in TOC) follows a linear financial intermediation logic with no FCV dimensions."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The final project beneficiaries will be eligible SMEs operating in the manufacturing and agro-processing industries... SMEs in the tour and construction industries will not be eligible to receive working capital only.",
+      "rationale": "Targeting is based on sector and enterprise size criteria only. No geographic targeting of conflict-affected or lagging regions is proposed despite Ethiopia's significant subnational disparities. No provisions are made for SMEs owned by women in conflict-affected areas, displaced entrepreneurs, or enterprises in fragile peripheral regions such as Somali or Gambella regions."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "A Project Management Team (PMT) will be established in DBE with the direct responsibility of managing the credit facility... A Project Implementation Unit (PIU) will be established under the MoI.",
+      "rationale": "Implementation arrangements are standard for a financial intermediary project. No contingency provisions for political instability, conflict disruption, or civil unrest are included. The reliance on DBE branches and regional ReMSEDAs as entry points offers some geographic reach but no explicit conflict-sensitive operational protocols."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The progress towards the PDO will be measured by the following indicators: (a) Volume of Financial Support to SMEs under the credit facility; (b) Number of SMEs reached with financial services; (c) Portfolio Quality under the credit facility.",
+      "rationale": "The results framework is entirely financial — volume, outreach, and portfolio quality. No FCV-sensitive indicators are present (e.g. share of SMEs in conflict-affected areas, employment of conflict-affected populations, geographic equity of lending). The impact evaluation design is rigorous but follows a standard treatment/control methodology with no conflict sensitivity lens."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The WBG/IFC is currently providing technical assistance to the NBE in drafting all the necessary leasing directives and guidelines to supervise and regulate the leasing market in Ethiopia.",
+      "rationale": "IFC engagement is referenced in relation to leasing regulatory TA and is noted as complementary to the project's enabling environment component. This represents some degree of WBG coordination. However, this coordination is purely technical and financial sector focused; there is no evidence of FCV-oriented WBG integration or joint conflict-sensitivity analysis across IDA/IFC operations."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The Ethiopia SME Finance Project is a technically competent financial sector operation that contains no FCV analysis, conflict sensitivity, or fragility-adaptive design — notable given Ethiopia's multi-ethnic federal structure and the subnational tensions already visible at time of appraisal. The results framework and theory of change are entirely disconnected from the country's fragility dynamics."
+}

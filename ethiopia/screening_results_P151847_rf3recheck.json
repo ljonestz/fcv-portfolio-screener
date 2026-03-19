@@ -1,0 +1,102 @@
+{
+  "project_id": "P151847",
+  "project_name": "Eastern and Southern Africa Higher Education Centers of Excellence",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2016,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 1.0,
+      "rating": "Not Addressed",
+      "rationale": "The PAD contains no fragility or conflict analysis for Ethiopia or the wider ESA region. FCV is explicitly unchecked as a cross-cutting topic in the PAD data sheet. There is no do-no-harm framing, no conflict risk assessment, and no political economy analysis of FCV dynamics. Two red flags (RF2 and RF5) triggered, reducing the raw composite of 1.83 to the 1.0 floor."
+    },
+    "responsiveness": {
+      "numeric_score": 2.40,
+      "rating": "Not Addressed",
+      "rationale": "The project's theory of change, design, and results framework are entirely standard higher education sector logic with no FCV adaptation. DLI/DLR disbursement mechanisms provide some implementation flexibility, but there are no contingency arrangements for conflict disruption, no FCV-adjusted indicators, and no IFC/MIGA integration. The project is explicitly framed as a regional academic excellence initiative with no acknowledgment that several participating countries, including Ethiopia, face fragility drivers."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 1.5,
+      "rating": "Not Addressed",
+      "key_quote": "Fragile, Conflict & Violence [unchecked cross-cutting topic]. The project presents economic growth, enrollment, and research output diagnostics only.",
+      "rationale": "The PAD provides detailed regional economic and higher education sector diagnostics but contains zero analysis of conflict, fragility, or FCV drivers for Ethiopia or any participating country. Ethiopia's political tensions, governance fragility, or conflict-affected regions are never mentioned. The FCV cross-cutting topic is explicitly not selected in the PAD data sheet."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 1.5,
+      "rating": "Not Addressed",
+      "key_quote": "Environmental Assessment OP/BP 4.01 triggered (Category B). No conflict risk identified. SORT Political and Governance risk rated Substantial without conflict elaboration.",
+      "rationale": "The SORT flags Political and Governance risk as Substantial, but the risk narrative does not elaborate on conflict or fragility dimensions. No do-no-harm analysis is present. The safeguards section addresses only environmental and physical infrastructure risks. There is no assessment of whether concentrating resources in specific universities could exacerbate regional inequalities or tensions."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "The Call for Proposals was followed by a two-step evaluation process...Out of the 92 eligible proposals submitted, RSC conditionally selected 25 proposals...through the independent evaluation process.",
+      "rationale": "The project demonstrates attention to institutional governance through competitive ACE selection, NSC/RSC oversight structures, and independent verification mechanisms. However, there is no political economy analysis of how resource allocation to specific universities might interact with ethnic, regional, or elite dynamics in Ethiopia. No stakeholder analysis addresses conflict-affected or marginalised communities."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "key_quote": "To strengthen selected Eastern and Southern African higher education institutions to deliver quality post-graduate education and build collaborative research capacity in the regional priority areas.",
+      "rationale": "The PDO is clear and coherent as a higher education development objective, with a logical theory of change linking ACE strengthening to regional skills and research gaps. However, the ToC contains no FCV pathway — there is no articulation of how conflict, fragility, or instability might affect the causal chain or how the project contributes to peacebuilding or stability outcomes. The ToC is entirely sector-standard."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "The ACEs financed under the ACE II project were selected through an open, objective, transparent, and merit-based competitive process.",
+      "rationale": "Merit-based competitive selection is appropriate for academic excellence but does not incorporate FCV-sensitive targeting criteria such as geographic equity across conflict-affected regions, inclusion of conflict-displaced scholars, or deliberate support to institutions in fragile sub-national contexts. No design features address the heightened vulnerabilities of students or faculty in FCV-affected areas. Burundi's exclusion due to civil unrest is noted but not addressed as an equity gap."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 2.5,
+      "rating": "Not Addressed",
+      "key_quote": "The Recipient shall cause the Africa Centers of Excellences to: (i) adopt not later than one month after the Effective Date...the Project Implementation Plan (PIP)...and carry out the Project in accordance with the PIP and Environmental and Social Management Plan.",
+      "rationale": "The DLI/DLR performance-based financing mechanism provides some results-oriented flexibility. However, there are no explicit contingency arrangements for conflict disruption to university operations, no provisions for remote or conflict-adapted delivery, and no adaptive management triggers linked to deteriorating security conditions. Implementation arrangements are rigid and standard for a multi-country higher education operation."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "PDO-level indicators: Regional students enrolled in Master's and PhD programs; MoUs on partnerships; Accredited education programs; Direct Project Beneficiaries (number), of which female (%).",
+      "rationale": "The results framework consists entirely of standard academic output indicators with no FCV dimension. There are no conflict-sensitive indicators, no measures of stability contribution, no tracking of inclusion of scholars from conflict-affected zones, and no adaptive management triggers linked to FCV conditions. The framework would fail to detect FCV-related implementation risks or measure any peace-dividends from the project."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No. Contributing Practice Areas: Agriculture, Energy & Extractives, Health, Nutrition & Population, Trade & Competitiveness.",
+      "rationale": "IFC joint engagement is explicitly marked as No. While the project notes engagement with multiple practice areas and industry partnerships as an aspiration, there is no IFC or MIGA co-financing, coordination mechanism, or private sector de-risking arrangement described in the PAD. In an FCV context, IFC engagement to de-risk private sector partnerships with academic institutions could have strengthened the project's sustainability logic."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This regional higher education project has no FCV framing whatsoever — the PAD explicitly excludes FCV as a cross-cutting topic and contains no conflict analysis, do-no-harm provisions, or FCV-adapted design features despite Ethiopia's documented fragility drivers. The results framework tracks only academic output metrics with no conflict-sensitive indicators, and merit-based competitive ACE selection provides no equity adjustment for conflict-affected sub-national contexts."
+}

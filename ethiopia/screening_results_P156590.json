@@ -1,0 +1,94 @@
+{
+  "project_id": "P156590",
+  "project_name": "Trade Logistics Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 2.67,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides no substantive analysis of FCV dynamics in Ethiopia. The country context section focuses exclusively on macroeconomic growth, trade competitiveness, and logistics infrastructure, with no mention of fragility drivers, conflict risks, or political economy of violence. Ethiopia's Somali Region tensions, intercommunal conflicts, and the political fragility of the ruling coalition — all highly relevant to a corridor project traversing contested territories — are entirely absent. The SORT table rates Political and Governance risk as 'Substantial' and Stakeholders as 'High' but does not connect either to FCV dynamics; do-no-harm considerations are limited to environmental and social safeguards for physical resettlement and are not extended to conflict sensitivity."
+    },
+    "responsiveness": {
+      "numeric_score": 2.40,
+      "rating": "Not Addressed",
+      "rationale": "The project's theory of change, design, and results framework make no FCV-responsive adaptations. The PDO is expressed entirely in logistics efficiency terms (throughput, dwell time, container moves) with no indicators for inclusive access, conflict-sensitive implementation, or FCV-adjusted outcomes. The project concentrates $120M of $150M in a single physical facility with no mechanisms for adaptive management in response to political or conflict deterioration. Institutional design relies on a government-owned enterprise (ESLSE) with a monopoly on multimodal services — a dependency that creates vulnerability to political capture — yet no mitigation is articulated. One WBG integration is explicitly marked 'No' in the PAD data sheet."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia has experienced rapid and stable economic growth over the past decade... the country avoided the volatility brought by spells of drought and conflict, which plagued growth in the past.",
+      "rationale": "The country context section explicitly frames Ethiopia as having overcome conflict and instability, without any recognition of ongoing fragility. No FCV diagnostic is provided: there is no reference to ethnic tensions, regional insurgencies (Ogaden/Somali region, Oromia unrest), or the political fragility of the EPRDF coalition. The corridor traverses politically sensitive territories but the PAD contains no conflict or fragility mapping whatsoever."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Social (including Safeguards)... Involuntary Resettlement OP/BP 4.12 [triggered]... The project will affect approximately 600 project affected persons.",
+      "rationale": "The PAD triggers social safeguards for involuntary resettlement and requires a Livelihood Restoration Plan, which shows some awareness of harm pathways. However, these are purely physical-displacement framed; there is no analysis of whether concentration of logistics infrastructure and ESLSE monopoly could generate resentment, exclusion of certain ethnic or regional business communities, or entrench state-business patronage networks. Conflict risk is not assessed; the SORT table notes 'Substantial' political and governance risk but does not connect it to do-no-harm design."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Logistics services in Ethiopia are dominated by ESLSE, a government-owned enterprise... Current government policy means that ESLSE is the only provider of multimodal services.",
+      "rationale": "The PAD identifies ESLSE's monopoly and regulatory barriers to competition as key sector constraints, which shows awareness of political economy dynamics. However, this analysis is framed through a market efficiency lens, not a fragility or elite capture lens. There is no analysis of who controls ESLSE, who benefits from the monopoly, whether the project could reinforce existing power asymmetries, or how ethnic and regional political economy dynamics shape logistics sector governance. Stakeholder risk is rated 'High' in SORT but is not unpacked in FCV terms."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The objective of this project is to enhance the performance of the Ethio-Djibouti corridor through improvements in operational capacity, efficiency, and range of logistics services at the Modjo Dry Port.",
+      "rationale": "The PDO is narrowly focused on logistics efficiency at a single node. The theory of change does not incorporate FCV dynamics as either a risk to the change pathway or as an entry point for programming. There is no acknowledgment that political instability, ethnic conflict, or governance fragility could disrupt the corridor or undermine project outcomes, nor is resilience-building or conflict-sensitive infrastructure framing incorporated into the objectives."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Project beneficiaries will primarily be private sector exporters, importers, manufacturers and farmers... New and better jobs created for local residents.",
+      "rationale": "The project identifies broad beneficiary categories including smallholder farmers and SMEs, which has some pro-poor orientation. However, no targeting logic accounts for FCV-affected populations, marginalised regions, or conflict-displaced communities. The $120M infrastructure concentration at Modjo serves primarily the Addis Ababa industrial and commercial class; there is no disaggregation of benefits by region, ethnicity, or conflict exposure. The design is standard infrastructure project design with no FCV-responsive adaptations."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The project comprises a mix of public infrastructure at the Modjo Dry Port, coordinated with targeted investment in ICT and regulatory and administrative reforms.",
+      "rationale": "The project has no documented mechanisms for adaptive management in response to political or security deterioration. Implementation relies heavily on EMAA and ESLSE — government entities whose operational capacity is described as a 'Substantial' risk — without contingency arrangements. There are no provisions for geographic or operational pivots if security conditions along the corridor deteriorate, and no crisis-response protocols are described."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "PDO level indicators: (a) Throughput of Modjo Dry Port (total tons per year); (b) Container dwell time in Modjo Dry Port (days); (c) Moves within Modjo facility (number per hour); (d) Containers returning to Djibouti stuffed with exports (number per year).",
+      "rationale": "All four PDO-level indicators are purely operational logistics metrics. None are FCV-adjusted, conflict-sensitive, or inclusive in design. There are no indicators tracking access by marginalised groups, conflict-related disruptions to operations, or governance improvements with FCV relevance. The M&E framework does not include a mechanism for tracking conflict dynamics or adjusting implementation in response to security deterioration."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No",
+      "rationale": "The PAD data sheet explicitly records no IFC joint engagement. Given the project's focus on private sector logistics, regulatory reform, and ESLSE monopoly reduction — all areas where IFC private sector instruments could have strengthened the FCV-responsiveness of the design — this absence is a missed opportunity. No MIGA instruments are referenced. There is no discussion of IFC or MIGA support to private logistics operators, which could have provided an alternative to state-dominated service delivery."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This trade logistics infrastructure project has no FCV sensitivity or responsiveness whatsoever: the country context is framed as a growth success story with conflict explicitly written off, and the design, theory of change, and all results indicators are standard logistics efficiency metrics with no FCV adaptation. The project's dependence on ESLSE — a state monopoly with well-documented governance constraints — raises elite capture concerns that are named but not mitigated."
+}

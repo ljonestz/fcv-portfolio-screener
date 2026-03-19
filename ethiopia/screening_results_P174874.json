@@ -1,0 +1,99 @@
+{
+  "project_id": "P174874",
+  "project_name": "ETHIOPIA WOMEN ENTREPRENEURSHIP DEVELOPMENT PROJECT ADDITIONAL FINANCING",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2020,
+  "note": "Extracted text is the 2012 parent project PAD (P122764). No AF-specific document content was available. Scores reflect analysis of the parent PAD text only.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.3,
+      "rating": "Not Addressed",
+      "rationale": "The 2012 parent PAD provides a strong socioeconomic country context for Ethiopia but contains no substantive analysis of conflict, fragility, or violence dynamics. Ethiopia was not on the WB FCV list in 2012, but even so the document makes no mention of inter-ethnic tensions, displacement, or conflict-sensitive risks that were already present in parts of the country. The do-no-harm and political economy dimensions are entirely absent from the strategic framing."
+    },
+    "responsiveness": {
+      "numeric_score": 3.6,
+      "rating": "Not Addressed",
+      "rationale": "The project design is a market-development/microfinance operation with no FCV-adaptive features. Targeting covers six major cities across ethnically diverse regions (Tigray, Amhara, SNNPR, Oromiya, Addis Ababa, Dire Dawa) but the selection rationale is entirely economic rather than conflict-sensitive. There is no operational flexibility for conflict-related disruptions, no FCV-adjusted indicators in the results framework, and no One WBG integration with IFC or MIGA on FCV dimensions."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopian real GDP per capita has grown by 6.5 percent on average per year since 2001/02... Most people are dependent on subsistence agriculture.",
+      "rationale": "The country context section (paras 1-9) is entirely framed around economic growth, employment, and gender gaps with no reference to conflict, fragility, or FCV drivers. Ethiopia's Somali, Afar, and other conflict-affected regions are acknowledged only in a geographic expansion note, not as FCV contexts. No fragility or conflict diagnostic is present."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The training module for CDAs will include the specifics of cluster development, conflict management and resolution, gender issues, network building.",
+      "rationale": "The only reference to conflict is a brief mention of conflict management in the CDA training module (para 54), framed as a business skill rather than a social or political risk. No harm pathways are identified. The project's work in ethnically heterogeneous cities (SNNPR, Oromiya) and potential male-exclusion from women-only programming are unanalysed conflict sensitivities."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "MFIs are supervised by the National Bank of Ethiopia... more than 80 percent of clients served by 5 largest MFIs... very much influenced by their respective regional governments.",
+      "rationale": "The document provides a reasonable political economy analysis of the microfinance sector, including government ownership stakes in MFIs and the dominance of state-linked institutions. Husbands of participants are identified as a stakeholder group requiring consent. However, no broader conflict or ethnic political economy analysis is present, and power dynamics around women's economic agency in patriarchal or conflict-affected settings are not examined."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project development objective of the WEDP is to increase the earnings and employment of MSEs owned or partly owned by the participating female entrepreneurs in the targeted cities.",
+      "rationale": "The theory of change is coherent for an economic empowerment project — skills + finance + cluster support leads to earnings growth. However, there is no FCV dimension to the theory of change; the logic does not account for how conflict, displacement, or institutional fragility could disrupt the pathway or why FCV-context women face additional barriers."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The project will undertake a resource and implementation assessment for Harar and the four emerging regions (Afar, Somali, Benishangul-Gumuz and Gambela) during project implementation.",
+      "rationale": "The project explicitly targets urban women entrepreneurs in the most vulnerable regions and includes a mechanism to assess expansion to conflict-affected areas (Somali, Afar, Gambela regions). However, targeting criteria are entirely economic; no FCV-specific eligibility or conflict-sensitive outreach to displaced or conflict-affected women is included. The decision to defer the most fragile regions to a later stage without an FCV rationale is a design gap."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The operational responsibility for the project implementation in the regions will rest with the City Offices, MFIs and TVET colleges using OSS as the entry point.",
+      "rationale": "Implementation is routed through government agencies (FeMSEDA, ReMSEDAs) and regional government-owned MFIs with no contingency provisions for political or conflict disruptions. The ORAF risk table is referenced (Annex 4) but conflict risk is not among the named risk categories. No adaptive management triggers for conflict-related disruptions are described."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Key PDO results indicators will be (1) enterprise earnings and (2) enterprise employment.",
+      "rationale": "The results framework is built entirely around economic performance indicators (earnings, employment, loan volumes, training completion). No FCV-sensitive indicators are included — there are no measures of project reach into conflict-affected areas, social cohesion effects, or grievance/exclusion monitoring. The impact evaluation design (para 63-65) is rigorous but FCV-blind."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Joint IFC: No.",
+      "rationale": "The PAD data sheet explicitly records 'Joint IFC: No.' There is no reference to IFC or MIGA engagement in the document. The project cooperates with DFID and other donors (KfW, USAID, IFAD, AfDB) but no WBG group synergy on FCV dimensions is evident."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": true,
+    "RF4": false,
+    "RF5": true
+  },
+  "red_flag_notes": {
+    "RF3": "The women-only targeting design, while appropriate for gender equity, excludes male-headed households in poor urban communities. No analysis of whether this exclusion could generate intra-community tensions or resentment — particularly in ethnically or socially fractured urban settings — is provided.",
+    "RF5": "The results framework contains no FCV-adjusted indicators. There are no measures of reach into conflict-affected or displaced populations, no social cohesion proxies, and no grievance tracking. The impact evaluation design is sophisticated but entirely blind to FCV dynamics."
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "The extracted document is the 2012 parent project PAD (P122764), not the 2020 AF document for P174874; scores are based on available text only. The project demonstrates no substantive FCV analysis — Ethiopia's conflict and fragility landscape is entirely absent from the diagnostic, design, and results framework, placing this project in the Low FCV Integration quadrant."
+}

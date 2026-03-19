@@ -1,0 +1,99 @@
+{
+  "project_id": "P180076",
+  "project_name": "Lowlands Livelihood Resilience Project, Phase Two (LLRP II)",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2024,
+  "screener_note": "Extracted PDF text appears to be from the Phase 1 PAD (P164336, May 2019); P180076 file stored under this ID. Scores reflect the document as extracted.",
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 7.0,
+      "rating": "Substantially Addressed",
+      "rationale": "The PAD provides a well-grounded FCV context analysis for Ethiopia's pastoral Lowlands, explicitly naming conflict over natural resources, resource-based violence, proliferation of arms, and the decline of traditional conflict management mechanisms as key drivers of vulnerability. The political economy of marginalisation — Lowlands communities excluded from political power and economic opportunity for centuries — is explicitly framed. Red flag deductions are minor (RF4 partially triggered), keeping the composite in the Substantially Addressed range."
+    },
+    "responsiveness": {
+      "numeric_score": 6.2,
+      "rating": "Substantially Addressed",
+      "rationale": "The PDO and theory of change are clearly linked to conflict and fragility drivers, with livelihood resilience framed around absorptive, adaptive, and transformative capacities. Operational design includes dedicated conflict management activities, CDD approaches, mobile service delivery adapted to pastoralist mobility, and adaptive management provisions. The results framework includes several FCV-relevant indicators but lacks conflict-specific outcome measures, and IFC/MIGA integration is limited to consultations rather than active co-investment."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 7.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "Conflicts have adversely affected pastoral areas for centuries, but they have increased in recent years, variously attributed to rising pressure on resources, reduced resource availability, a proliferation of arms, and the decline of traditional conflict management mechanisms.",
+      "rationale": "The PAD provides a substantive conflict and fragility diagnostic grounded in structural drivers — resource scarcity, arms proliferation, weakened customary institutions, political marginalisation of Lowlands communities, and climate-driven shocks. It explicitly identifies the nexus between natural resource access, mobility restrictions, and violent conflict. The analysis draws on two dedicated WB-IFAD studies and references regional conflict dynamics including cross-border dimensions. Some gap remains in quantified conflict incidence data and subnational fragility differentiation across the six regions."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 6.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "There is still a residual risk that access to some of these resources might create conflict within and between communities. The design of programs to improve PAP livelihoods must take into account the high-risk environment.",
+      "rationale": "The PAD acknowledges that rangeland investments and improved resource access could generate or intensify intra- and inter-community conflict, and mandates conflict analyses and mapping as a prerequisite to RMIP formulation. Conflict management activities are embedded in Component 1 subcomponent 1.2. However, the document does not provide a systematic conflict sensitivity review of all investment types (e.g. irrigation expansion, market infrastructure), and mitigation measures for elite capture of productive alliances or CIG matching grants are not fully elaborated."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 7.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "The traditional social systems and economic arrangements that supported PAP communities are in transition... the Lowlands stand at the margins of political and economic engagement.",
+      "rationale": "The PAD contains a substantive political economy analysis covering the historical marginalisation of Lowlands communities, gendered power asymmetries, the transition from customary to market-based institutions, and the role of large-scale commercial agriculture and mega-projects in fragmenting rangelands. Customary institutions are identified as key stakeholders for conflict resolution and indigenous knowledge. The analysis of how GoE institutional interests (Ministry of Peace mandate) may shape implementation is present but not deeply interrogated. Exclusion risks for the poorest, most mobile households are noted but not fully analysed."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 6.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The proposed project recognizes that an integrated, comprehensive approach is essential to address multiple livelihood challenges in a complex, fragile, and conflict-prone environment.",
+      "rationale": "The PDO (improve livelihood resilience of PAP communities) is directly responsive to the FCV-fragility nexus identified in the diagnostics, and the three-capacity resilience framework (absorptive, adaptive, transformative) provides a credible theory of change for fragile lowland contexts. The theory of change explicitly links rangeland management, conflict management, and livelihood outcomes. However, the PDO indicators are primarily productivity and access metrics with no direct conflict or social cohesion outcome measure, creating a gap between the stated conflict-responsiveness and what the project commits to measuring."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6.5,
+      "rating": "Substantially Addressed",
+      "key_quote": "The planning process will employ both a gender and a conflict lens to ensure that the RMIPs adequately address these two concerns.",
+      "rationale": "The project design embeds conflict-sensitivity through the RMIP planning process (which mandates conflict analysis and mapping), conflict management activities (Subcomponent 1.2), and CDD targeting (Component 3). The mobile-population delivery modalities (pastoral field schools, ICT tools, mobile grievance mechanisms) are explicitly adapted to the fragile, dispersed context. Targeting of women and youth is operationalised with quantitative benchmarks. Residual concerns include the risk that productive alliance CIGs may favour better-off, more market-integrated households over the most conflict-affected communities."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6.0,
+      "rating": "Substantially Addressed",
+      "key_quote": "The project is implementing new approaches, in a fragile environment with low capacity and therefore the project management will follow a learning and adaptive approach to ensure course correction and revision of activities.",
+      "rationale": "The PAD explicitly commits to an adaptive, learning-based project management approach given the high-risk environment and novel intervention model. The SORT overall risk rating is Substantial, with Political and Governance rated High — and risk mitigation measures are described. The absence of a Contingent Emergency Response Component (CERC) is notable given the acknowledged frequency of drought shocks and conflict disruptions. Phased implementation and multi-level coordination structures (Federal/Regional Steering Committees, Rangeland Cluster Support Teams) provide some operational flexibility."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "Baseline value in the result framework will be provided after completion of the baseline survey by December 2019.",
+      "rationale": "The results framework is structured around three resilience capacities with a mix of PDO-level and intermediate indicators covering land management, yield, access to services, and financial inclusion. Gender and youth disaggregation is systematically applied. However, the framework contains no direct conflict or social cohesion indicators, no peace dividend or conflict recurrence measure, and no indicator tracking the effectiveness of conflict management platforms. The absence of FCV-adjusted indicators — particularly given the centrality of conflict management to the theory of change — is the main gap."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The International Finance Corporation (IFC) was consulted extensively during the project design phase, and as the project is implemented, the task team will continue proactively engaging with IFC.",
+      "rationale": "The PAD explicitly discusses IFC engagement for productive alliances, private sector crowding-in, and pipeline development — which is stronger than many comparable IPF projects in FCV contexts. The Bank/IFC Collaboration checkbox is marked 'No' in the datasheet, however, indicating no formal co-investment is structured at appraisal. MIGA is not mentioned. Given the pastoral context and cross-border dimensions, more structured IFC engagement with value chain actors and cross-border trade facilitation would strengthen FCV responsiveness."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "red_flag_notes": {
+    "RF4": "Harm pathway of resource-competition conflict from project investments (rangeland, water, irrigation) is named but mitigation relies on conflict mapping as a planning precondition rather than embedded design safeguards across all investment types.",
+    "RF5": "Results framework contains no conflict-specific, social cohesion, or peace dividend indicators despite conflict management being a core component of the theory of change."
+  },
+  "gap_matrix_cell": "High FCV integration",
+  "key_finding": "LLRP provides one of the stronger FCV-integrated designs in the Ethiopia portfolio: conflict is named as a structural driver, dedicated conflict management activities are embedded in Component 1, and the theory of change explicitly links rangeland governance to peace and resilience. The main gap is the results framework, which tracks livelihood outcomes without any direct conflict or social cohesion indicators, limiting the project's accountability for its core FCV ambitions."
+}

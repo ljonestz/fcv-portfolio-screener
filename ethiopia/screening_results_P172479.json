@@ -1,0 +1,94 @@
+{
+  "project_id": "P172479",
+  "project_name": "Strengthen Ethiopia's Adaptive Safety Net",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2020,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 4.83,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD provides a thorough socioeconomic and climate vulnerability analysis and acknowledges a High SORT rating for Political and Governance risk, noting that 'upward accountability mechanisms weakened due to the evolving political environment.' However, the document was approved in November 2020 — the precise month the Tigray conflict erupted — yet contains no explicit conflict analysis, no fragility driver mapping, and no discussion of subnational armed conflict as a risk to beneficiaries or program integrity. FCV sensitivity is addressed through the climate and poverty lens but not through a conflict or fragility lens."
+    },
+    "responsiveness": {
+      "numeric_score": 5.50,
+      "rating": "Partially Addressed",
+      "rationale": "The project demonstrates meaningful operational responsiveness to climate shocks through the CERC/ERF component, lowland-specific public works design, and a Contingent Emergency Response Component pre-positioned for rapid scale-up. PBCs incentivise government co-financing and payment timeliness. However, conflict-responsive adaptations are absent: there are no contingency arrangements for conflict-affected areas, no FCV-adjusted indicators in the results framework, and no IFC/MIGA engagement despite Ethiopia's private sector development needs."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "In recent years the upward accountability mechanisms weakened due to the evolving political environment. Even though the safety nets are designed as federal programs...setting and enforcing a single set of implementation standards and rules remains a balancing act.",
+      "rationale": "The PAD contains a rich poverty and climate vulnerability diagnosis, COVID-19 impact analysis, and acknowledges high political and governance risk. However, it conspicuously omits any analysis of Ethiopia's conflict dynamics despite the Tigray conflict beginning during appraisal. No fragility drivers, conflict actors, or geographic conflict hotspots are identified."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "SORT Risk: Political and Governance — High. Environmental and Social Risk Classification — Substantial. Enhanced Social Assessment and Consultation (ESAC) required as an effectiveness condition.",
+      "rationale": "The project adopts the ESF with a Substantial environmental and social risk rating and requires an Enhanced Social Assessment. A GRM is established and GBV is listed as a concern. However, there is no do-no-harm analysis specific to conflict — no assessment of whether public works targeting or transfer exclusions could fuel inter-group tensions or whether program resources could be diverted in conflict-affected woredas."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "The social protection sector is coordinated by the Ministry of Labor and Social Affairs...coordination of these multi-sectoral engagements is facilitated by a Social Protection Council, which includes the Ministers of the main sectors.",
+      "rationale": "The PAD maps the institutional landscape across MoA, MoLSA, NDRMC, regional bureaus, and a large donor coordination structure (USAID, DFID, EU, Irish Aid, WFP). Lowland pastoral communities receive tailored design. However, there is no political economy analysis of conflict stakeholders, elite interests, or the risk that decentralised implementation in contested areas enables capture or exclusion by dominant groups."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The adaptive approach of PSNP will integrate the well-established productive aspects of the program...with an increased focus on climate change adaptation, building resilience, and shock responsive social protection that can be easily scaled up to respond to climate-related and other types of shocks.",
+      "rationale": "The PDO and theory of change are clearly articulated around geographic expansion, service delivery improvement, and shock responsiveness. The CERC/ERF component operationalises rapid response to crises. The ToC is credible for climate and poverty objectives but does not include conflict as a shock type or stabilisation as an intermediate outcome, limiting FCV relevance."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "In lowland pastoral and semi-pastoral areas, the PW community planning process will cover an administrative area such as a kebele, or an area of clan or sub-clan/community rangeland...the emphasis is expected to be on interventions that reduce risk and increase the resilience of communities to shocks.",
+      "rationale": "The project includes strong context-specific design features: lowland pastoral-specific public works guidelines, a mother-and-child package with TDS exemptions for pregnant women, case management for child labour, and a shift toward e-payments to reduce fiduciary risk. These adaptations reflect vulnerability-sensitive targeting. However, no design provisions address conflict-affected households, displaced populations, or areas with active insecurity."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 6,
+      "rating": "Partially Addressed",
+      "key_quote": "The Contingent Emergency Response Component (CERC)...respond promptly and effectively to it [Eligible ERF Event]. A Preparedness Plan is prepared and adopted...the ERF CERC Part shall be implemented in accordance with the adopted Preparedness Plan.",
+      "rationale": "The CERC/ERF mechanism is a genuine operational flexibility innovation, enabling pre-positioned resources to be deployed within 45 days of a shock trigger. PBCs are structured to incentivise incremental reforms rather than penalise underperformance, reflecting realism about implementation constraints. However, no contingency arrangements exist for conflict-disrupted programme areas, and the High political governance risk is not mirrored in operational safeguards."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO indicators: Number of new woredas in which PSNP systems have been established; Percentage of payments made according to performance standards for timeliness; Average number of months of rural household food insecurity.",
+      "rationale": "The results framework tracks coverage, timeliness, and food security outcomes, which are appropriate for a safety net programme. Biannual impact evaluations are referenced and PBCs enable results-based accountability. However, there are no FCV-adjusted indicators measuring conflict sensitivity, beneficiary safety in insecure areas, or programme integrity under political stress. Adaptive management mechanisms do not include conflict early warning triggers."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No.",
+      "rationale": "The datasheet explicitly records no IFC collaboration. Given Ethiopia's context and the project's livelihood and financial inclusion components (e-payments, microfinance linkages), there was scope to integrate IFC financial sector engagement or MIGA guarantee instruments for private sector payment providers. This dimension is not addressed."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "SEASN is a well-designed adaptive safety net with genuine shock-responsive innovations (CERC/ERF, lowland-specific design, PBCs), but it was approved at the exact onset of the Tigray conflict without any conflict analysis, do-no-harm assessment for conflict-affected areas, or FCV-adjusted indicators — a significant gap for a project operating in one of Sub-Saharan Africa's most politically fragile states."
+}

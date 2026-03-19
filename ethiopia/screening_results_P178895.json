@@ -1,0 +1,211 @@
+{
+  "project_id": "P178895",
+  "project_name": "Ethiopia Electrification Program Additional Financing",
+  "doc_type": "Program Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2023,
+  "metadata": {
+    "title": "Ethiopia Electrification Program (ELEAP) — Program Appraisal Document",
+    "country": "Ethiopia",
+    "operation_id": "P160395 (parent); P178895 (AF as labelled by user)",
+    "document_type": "P4R Program Appraisal Document",
+    "instrument": "Program-for-Results (PforR/P4R)",
+    "wbg_entities": "IDA (Regular Credit + Scale-Up Facility)",
+    "fcv_classification": "Tier 2 — Moderate [EXTERNAL ASSESSMENT: Ethiopia is not on the WBG Harmonized FCS List but has significant active subnational conflicts — notably in Tigray, Afar, Amhara, and Oromia regions — and elevated fragility indicators.]",
+    "fcv_intensity_tier": "Tier 2 — Moderate",
+    "calibration_note": "Ethiopia is not on the WBG FCS list but faces significant subnational armed conflict and fragility drivers; proportionate FCV awareness and targeted adaptation are expected, but the full high-intensity toolkit is not required to score well.",
+    "series_info": "Original ELEAP operation; AF framing as P178895 per user instruction",
+    "document_date": "February 7, 2018"
+  },
+  "external_context_summary": "[EXTERNAL — NOT FROM DOCUMENT] Ethiopia faces Tier 2 moderate FCV intensity: subnational armed conflicts in Tigray, Afar, Amhara, and Oromia regions; inter-communal violence driven by ethnic competition over land and resources; state fragility at subnational level despite functional federal government; large-scale internal displacement (one of the highest in the world); regional spillovers from South Sudan and Somalia; and structural grievances linked to unequal development, exclusion of ethnic minorities, and governance deficits.",
+  "external_context_gap_assessment": "[EXTERNAL OBSERVATIONS — NOT SCORING EVIDENCE] 1. The document does not address Ethiopia's active subnational conflicts (Oromia insurgency, inter-communal violence) despite the energy sector being contested terrain. 2. Regional electrification disparities that could reinforce exclusion of conflict-affected areas (e.g. Somali Region, Afar, Western Oromia) are not analysed. 3. Displacement dynamics — particularly for internally displaced populations — are absent from beneficiary targeting. 4. Political economy of utility reform, including potential resistance from regional elites, is not examined. 5. No cross-border spillover analysis despite Ethiopia's role in regional energy trade with conflict-affected neighbours (South Sudan, Somalia, Eritrea).",
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "rating": "Not Addressed",
+      "evidence_quotes": [],
+      "rationale": "The Country Context section (Section I.A) describes Ethiopia's development trajectory, poverty levels, demographic trends, and economic growth but contains no analysis of FCV drivers, conflict dynamics, subnational violence, displacement, or fragility. The sectoral context (Section I.B) focuses entirely on energy infrastructure, tariffs, and institutional reform without any reference to how conflict or fragility affects sector performance or access. No diagnostics such as an RRA, SCD conflict annex, or CEN are referenced.",
+      "component_note": ""
+    },
+    {
+      "id": 2,
+      "name": "Do No Harm and Conflict Risk Identification",
+      "composite": "Sensitivity",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "The Program will not support activities that are likely to have significant adverse impacts that are sensitive, diverse or unprecedented on the environment and/or affected people.",
+          "section": "Section II.C — PforR Program Scope, para 40",
+          "page": "16"
+        },
+        {
+          "text": "safeguarding the environment and society",
+          "section": "Section II.A — Pillar 3, para 30",
+          "page": "10"
+        }
+      ],
+      "rationale": "The document identifies environmental and social safeguard systems (ESMS) as a DLI and excluded activities clause as a harm-reduction mechanism, but these are standard PforR safeguard provisions rather than conflict-specific harm pathway analysis. There is no identification of ways the electrification rollout could exacerbate ethnic or regional tensions, reinforce exclusion of marginalised groups, or generate community-level conflict through land access for infrastructure. The GBV abbreviation appears in the glossary but is not discussed substantively. This represents a floor-level harm awareness without FCV-specific analysis.",
+      "component_note": "ESMS DLI (DLI7) provides a mechanism for managing environmental and social risks but is not FCV-specific."
+    },
+    {
+      "id": 3,
+      "name": "Stakeholder and Political Economy Analysis",
+      "composite": "Sensitivity",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "The GoE is also considering additional actions, such as augmenting domestic revenue with revenue from power exports, systematic restructuring and/or refinancing of existing debt, and finding innovative ways of reducing the public investment burden and introducing sustainable financing mechanisms",
+          "section": "Section I.B, para 9",
+          "page": "4"
+        },
+        {
+          "text": "gender and citizen engagement (CE) framework",
+          "section": "Section II.A — Pillar 3, para 30",
+          "page": "10"
+        },
+        {
+          "text": "Reports on fraud and corruption (F&C) verified by the Federal Ethics and Anti-Corruption Commission (FEACC [DLI5c]",
+          "section": "Table 2 — Program Results Chain",
+          "page": "13"
+        }
+      ],
+      "rationale": "The document describes government commitment through GTP-II priorities and mentions a citizen engagement and gender framework as a DLI, which reflects some awareness of accountability. An anti-corruption DLI (DLI5c via FEACC) addresses governance risk. However, no political economy analysis is conducted on who benefits from or could obstruct the electrification program, there is no assessment of regional elite interests, and the document does not examine whether utility reform could face politically-motivated resistance. Donor coordination is mentioned (Energy Sector Roundtable) but without FCV-informed sequencing or differentiated engagement.",
+      "component_note": ""
+    },
+    {
+      "id": 4,
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "rating": "Not Addressed",
+      "evidence_quotes": [],
+      "rationale": "The PDO is to increase access to electricity and enhance institutional capacity for planning and implementation. This is an entirely technocratic and development-oriented objective with no FCV dimension. The theory of change (Table 2 and paras 36–38) traces from infrastructure investment to connections to poverty reduction and institutional strengthening, but contains no explicit logic linking electrification to conflict prevention, social cohesion, reduced grievances, or resilience. The instrument choice (PforR) is justified on results-based financing grounds, not FCV responsiveness.",
+      "component_note": ""
+    },
+    {
+      "id": 5,
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "the majority of the unelectrified households in Ethiopia are in rural areas, the Program activities are substantially geared toward being 'pro-poor'",
+          "section": "Section II.C — Program beneficiaries, para 39(a)",
+          "page": "15"
+        },
+        {
+          "text": "Households connected to the grid under the Program that are female-headed",
+          "section": "Table 2 — Program Results Chain",
+          "page": "12"
+        },
+        {
+          "text": "densification activities in areas where the network can support new connections",
+          "section": "Section II.C — Results Area 1, para 36",
+          "page": "15"
+        }
+      ],
+      "rationale": "The program targets rural and poor households and includes a female-headed household indicator, which represents a baseline equity consideration. However, geographic targeting follows a least-cost, network-proximity logic (densification near existing grid infrastructure) rather than any FCV-informed prioritisation of conflict-affected or marginalised regions. The DLIs are primarily output-based (number of connections) and do not weight or differentiate by conflict-affected geography. There is no PSIA or distributional analysis examining which ethnic or regional groups are systematically excluded from the existing grid footprint.",
+      "component_note": "Off-grid Pillar 2 targets remote areas not reachable by grid, which could incidentally reach some conflict-affected communities, but this is not stated as an FCV rationale."
+    },
+    {
+      "id": 6,
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "Efforts are also under way to improve the implementation capacity of the sector utilities which has, thus far, constrained the scaling-up of electrification programs.",
+          "section": "Section I.B, para 12",
+          "page": "5"
+        },
+        {
+          "text": "ESMS established and operational according to the adopted guidelines [DLI7]",
+          "section": "Table 2 — Program Results Chain",
+          "page": "13"
+        },
+        {
+          "text": "Overall Risk Rating: Substantial",
+          "section": "PAD Data Sheet",
+          "page": "vii"
+        }
+      ],
+      "rationale": "The document acknowledges substantial utility capacity constraints and makes institutional strengthening a core pillar and DLI, which addresses a key implementation risk. The ESMS DLI provides a mechanism for managing social risks during implementation. However, there are no provisions for FCV-specific operational flexibility such as CERC, third-party monitoring in access-constrained areas, or security protocols for infrastructure deployment in conflict-affected regions. The SORT risk rating of Substantial is not unpacked in relation to conflict risk.",
+      "component_note": ""
+    },
+    {
+      "id": 7,
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "Number of people provided with on-grid electricity services",
+          "section": "Section II.B — PDO Indicators, para 33",
+          "page": "12"
+        },
+        {
+          "text": "Annual customer satisfaction in key aspects of the Program was equal or higher than last year's, as per annual surveys [DLI6b]",
+          "section": "Table 2 — Program Results Chain",
+          "page": "13"
+        },
+        {
+          "text": "DoE is established and has put in place integrated M&E system, that is maintained throughout the Program [DLI3]",
+          "section": "Table 2 — Program Results Chain",
+          "page": "12"
+        }
+      ],
+      "rationale": "The results framework includes people-level output indicators disaggregated by grid/off-grid and includes a female-headed household sub-indicator, which provides limited equity tracking. An integrated M&E system is a DLI, and annual customer satisfaction surveys provide a feedback mechanism. However, no indicators track FCV-relevant outcomes (reduced grievances, inclusion of displaced persons, access in conflict-affected regions), targets are not calibrated to FCV access constraints, and there are no adaptive management provisions for conflict disruptions to implementation.",
+      "component_note": ""
+    },
+    {
+      "id": 8,
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "rating": "Partially Addressed",
+      "evidence_quotes": [
+        {
+          "text": "the International Finance Corporation (IFC) is supporting the development of the private sector-led SAS market through the World Bank Group/IFC 'Lighting Africa Program', as well as supporting the development of the mini-grid market through advisory activities",
+          "section": "Section I.C, para 18",
+          "page": "7"
+        },
+        {
+          "text": "The World Bank Group has prepared a 'Joint Implementation Plan' to coordinate support for the NEP and for IPP development.",
+          "section": "Section I.C, para 18",
+          "page": "7"
+        }
+      ],
+      "rationale": "The document references IFC engagement on stand-alone solar and mini-grid markets through Lighting Africa and a Joint Implementation Plan for IPP development, demonstrating meaningful One WBG coordination in the energy access space. However, this coordination is described in development/market-development terms with no FCV framing — there is no discussion of conflict-sensitive investment screening, IFC engagement in fragility-affected areas, or blended finance instruments designed for FCV conditions. The private sector engagement narrative is entirely commercially oriented.",
+      "component_note": ""
+    }
+  ],
+  "red_flags": [],
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.0,
+      "rating": "Not Addressed",
+      "rationale": "Two of the three Sensitivity dimensions are rated Not Addressed (D1) and Partially Addressed (D2, D3). The country context contains no FCV diagnostics, and harm pathway analysis is limited to standard safeguard exclusions without conflict-specific content. While governance mechanisms (FEACC, CE framework) provide a thin political economy layer, there is no grounding in fragility analysis. At Tier 2 intensity, some FCV contextualisation is expected; its near-total absence places Sensitivity at Not Addressed."
+    },
+    "responsiveness": {
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "rationale": "All five Responsiveness dimensions are rated Partially Addressed or Not Addressed. The PDO and theory of change are entirely technocratic (D4: Not Addressed). Design targeting follows least-cost network logic rather than FCV prioritisation (D5), implementation arrangements address capacity but not conflict flexibility (D6), results indicators are output-heavy with no FCV outcome tracking (D7), and IFC integration is commercially framed without conflict sensitivity (D8). The pattern is consistent: FCV is not a shaping logic for any operational element."
+    }
+  },
+  "gap_assessment": {
+    "matrix_cell": "Low FCV integration",
+    "is_implementation_gap": false,
+    "strong_sensitivity_dimensions": [],
+    "weak_responsiveness_dimensions": ["D4 — Objectives and Theory of Change", "D5 — Design and Targeting", "D6 — Implementation and Operational Flexibility", "D7 — Results Framework and Adaptive Management", "D8 — One WBG Integration"],
+    "operational_implication": "Both Sensitivity and Responsiveness are absent or minimal. This is a Low FCV Integration pattern: the operation neither analyses FCV context nor adapts its design to it. This is partially appropriate given it is a 2018 document predating Ethiopia's most acute conflict period (2020 Tigray war), but even at that time subnational conflict and fragility drivers were significant and should have informed a national electrification program."
+  },
+  "gap_observations": [
+    "[EXTERNAL OBSERVATION] Ethiopia's active subnational conflicts — particularly inter-communal violence in Oromia and historical tensions in the periphery — were present at time of document preparation but are entirely absent from the context section.",
+    "[EXTERNAL OBSERVATION] The electrification program's geographic rollout (densification near existing grid) likely follows historic infrastructure investment patterns that systematically under-served conflict-affected and peripheral regions; no corrective FCV targeting is designed.",
+    "[EXTERNAL OBSERVATION] Internal displacement in Ethiopia is among the highest globally; displaced populations face acute energy poverty but are not identified as a target group.",
+    "[EXTERNAL OBSERVATION] Subnational governance and regional bureau capacity varies significantly across Ethiopia's regions, with conflict-affected areas having weaker institutional capacity — the uniform institutional strengthening model may not be calibrated to this variation.",
+    "[EXTERNAL OBSERVATION] Ethiopia's cross-border energy export ambitions (Sudan, Djibouti, Kenya) involve conflict-affected neighbours; no analysis of political economy or conflict risks in those trade relationships is present."
+  ],
+  "key_finding": "This 2018 ELEAP PAD is a strong technical electrification document but demonstrates near-zero FCV integration: the country context contains no fragility analysis, the PDO and theory of change are entirely technocratic, and no design elements are adapted to Ethiopia's subnational conflict and fragility dynamics. At Tier 2 intensity, proportionate FCV engagement was expected even in 2018.",
+  "gap_matrix_cell": "Low FCV integration"
+}

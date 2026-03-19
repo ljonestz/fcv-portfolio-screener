@@ -1,0 +1,94 @@
+{
+  "project_id": "P176303",
+  "project_name": "Ethiopia Rural Connectivity to Support Food Security Program",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2024,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.67,
+      "rating": "Not Addressed",
+      "rationale": "The document acknowledges Ethiopia's internal conflicts and rising food insecurity but does not conduct systematic FCV diagnostics. Conflict dynamics (Tigray, Amhara, Oromia) are entirely absent and the framing is climate/food security rather than FCV. No harm pathway analysis is present despite the Conflict box being checked in the datasheet."
+    },
+    "responsiveness": {
+      "numeric_score": 3.20,
+      "rating": "Not Addressed",
+      "rationale": "The PDO and Theory of Change are structured around climate resilience and food markets with no FCV-specific objectives or assumptions. DLIs are infrastructure-output and institutional-capacity focused with no conflict-sensitive indicators. There is no CERC, no security protocol, and IFC/MIGA collaboration is explicitly absent."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 4,
+      "rating": "Not Addressed",
+      "key_quote": "rural livelihoods have become increasingly fragile as a result of climate change and increasing instability due to internal conflicts. Levels of food insecurity are rising with over 20 million people currently food insecure",
+      "rationale": "The document briefly acknowledges internal conflict and instability as drivers of rural vulnerability but provides no conflict analysis, no reference to specific conflict dynamics, and no displacement data. FCV context is folded into climate and food security framing rather than treated as a distinct diagnostic category."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Financing & Implementation Modalities: [✓] Fragile State(s) [✓] Conflict",
+      "rationale": "Despite checking both Fragile State and Conflict boxes, the document contains no harm pathway analysis and no conflict-sensitivity framework for road construction operations. ESS standards 3 through 9 are marked 'Not Currently Relevant,' which is a significant gap given the conflict-affected operating environment. There is no discussion of how road investments might differentially benefit armed actors or exacerbate local tensions."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Not Addressed",
+      "key_quote": "women are 17 percent less likely than men to participate in the national labor force... women occupy a much smaller share of technical positions in the formal wage sector",
+      "rationale": "The PAD includes substantive gender analysis covering women's labour market exclusion, agricultural productivity gaps, and barriers to market participation. However, there is no political economy analysis of infrastructure targeting in conflict regions, no elite capture risk assessment, and no discussion of how overlapping mandates across road entities interact with conflict-era governance fragmentation."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Key Assumptions: (a) shared understanding and close collaboration among federal, regional, and woreda road sector entities; and (b) rural roads selection criteria are maintained.",
+      "rationale": "The PDO focuses on climate-resilient food market access and institutional capacity with no FCV-shaped objective. The Theory of Change assumptions make no reference to conflict dynamics or security conditions as enabling or constraining factors. Conflict is not incorporated as a risk pathway or an adaptive trigger in the ToC."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 4,
+      "rating": "Not Addressed",
+      "key_quote": "construction of special structures (pipe culverts, box culverts, bridges, etc.) for lowland and pastoralist communities with crossing problems due to seasonal floods",
+      "rationale": "Design shows some context-sensitivity through attention to pastoralist communities, topographically isolated areas, and the Voluntary Land Donation Protocol. However, targeting criteria are based on agricultural potential and food production, not conflict-affected or displacement-affected areas. There is no displacement-sensitive design and no differentiated approach for regions under active conflict."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Not Addressed",
+      "key_quote": "DLI1 will be assessed annually during all Program years... The MAC will remain as a precondition for assessing achievements under this DLI throughout the Program period.",
+      "rationale": "The PforR DLI structure with Annual Performance Assessments, Minimum Access Conditions, and Steering Committees at federal and regional levels provides some institutional adaptability. However, CERC is explicitly not included, there are no security protocols or suspended-operations provisions, and the flexibility mechanisms are fiduciary and procurement-focused rather than conflict-responsive."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "DLI-4: People that benefit from improved access to sustainable rural roads and connectivity services (Number), out of which 5,651,404 are women.",
+      "rationale": "The results framework includes gender disaggregation as a DLI requirement, which is a positive feature. However, all DLIs are structured around infrastructure outputs, institutional compliance, and climate resilience with no FCV-specific or conflict-sensitive indicators. There is no tracking of food insecurity or accessibility by conflict-affected area, and no adaptive management trigger linked to conflict deterioration."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no Bank/IFC collaboration. The document references complementarity with EFSRP (P176167) and other WB operations, demonstrating some portfolio coherence, but this is Bank-only. There is no IFC private sector engagement or MIGA guarantee mechanism in the design, representing a missed opportunity given the Private Capital Enabling designation."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "Despite operating in a country where both 'Fragile State' and 'Conflict' are checked in the datasheet, P176303 provides no conflict analysis, no harm pathways, and no FCV-adjusted indicators — the design is structured entirely around climate resilience and food market access. This is a transport infrastructure program with minimal FCV integration, reflecting a sector-standard rather than context-adapted approach."
+}

@@ -1,0 +1,102 @@
+{
+  "project_id": "P148447",
+  "project_name": "Ethiopia: SME Finance Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2016,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 1.33,
+      "rating": "Not Addressed",
+      "rationale": "The PAD provides a detailed economic and institutional country context but applies no FCV lens whatsoever — conflict risk, fragility drivers, and ethnic-regional tensions are absent from the analysis. Do-no-harm considerations are not raised despite channelling $200M through state-dominated institutions in a highly diverse country with known interethnic fault lines. Two red flags triggered (RF2 and RF4) for missing distributional analysis and unmitigated elite capture risk through DBE/state-owned MFIs, reducing the composite by 1.0 point."
+    },
+    "responsiveness": {
+      "numeric_score": 2.80,
+      "rating": "Not Addressed",
+      "rationale": "The project's PDO and theory of change are standard financial-sector objectives with no FCV-adapted elements. Design and targeting rely on existing state-dominated delivery channels without any conflict-sensitivity provisions or geographic equity mechanisms. The results framework is entirely composed of financial metrics with no FCV-adjusted indicators, adaptive management triggers, or political-economy monitoring."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia is a large and geographically diverse country, with a representation of 98 nationalities and peoples who speak 93 languages... Ethiopia's constitution ensures a federal, democratic system.",
+      "rationale": "The country context covers economic growth, poverty, governance structure, and demographic diversity but frames these purely as development variables. No FCV diagnostic is applied — conflict risk, fragility drivers, and ethnic-regional tensions are never mentioned. The SORT rates Political and Governance risk as only 'Moderate' with no FCV-specific justification."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Safeguard Policies Triggered: PS 1 Assessment and Management of Environmental and Social Risks and Impacts [X]; PS 2 Labor and Working Conditions [X].",
+      "rationale": "No do-no-harm analysis is present. The project triggers only PS1 and PS2 with no conflict-specific safeguard. Despite channelling credit through state-owned institutions serving priority sectors in a country with documented interethnic and regional tensions, no analysis is provided of differential access risks or conflict-exacerbating pathways."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The banking sector is operated exclusively by domestic banks and dominated by state-owned banks... State-owned banks... constitute 70 percent of total assets of the banking sector.",
+      "rationale": "The PAD documents state dominance of the financial sector and the 'developmental state' model, providing factual political-economy context. However, no analysis follows of how this concentration creates capture risk for politically connected borrowers, nor how ethnic/regional power dynamics in state-owned MFIs might shape who benefits. Gender is listed as a cross-cutting tag but not operationalised in stakeholder analysis."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The project development objective is to increase access to finance for Eligible Small and Medium Enterprises in the Recipient's territory.",
+      "rationale": "The PDO is clear and the theory of change is articulated (credit facility + TA → PFI capacity → SME bankability → jobs). However, there is no FCV-adapted element — no acknowledgment that conflict, ethnic tensions, or state fragility might disrupt the causal chain or require modified pathways in conflict-affected regions."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "At the regional level, the regional SME development offices (ReMSEDAs) will serve as entry points... while around 80 percent of the population lives in rural areas, access points remain concentrated in the capital city.",
+      "rationale": "Regional delivery channels (DBE branches, ReMSEDAs) are incorporated and urban-rural disparity is factually acknowledged. However, targeting is not disaggregated by conflict-affected area, ethnicity, or vulnerability status, and no compensating mechanism addresses known geographic concentration of financial services in Addis Ababa."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "A Project Management Team (PMT) will be established in DBE... A Project Implementation Unit (PIU) will be established under the MoI.",
+      "rationale": "Implementation arrangements are clearly specified with DBE, MoI, NBE, and ReMSEDAs defined. However, no provisions exist for adjusting implementation in conflict-affected areas, no contingency protocols for political instability, and no adaptive triggers linked to security or governance deterioration despite Ethiopia's documented political volatility in 2015-2016."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "The progress towards the PDO will be measured by the following indicators: (a) Volume of Financial Support to SMEs under the credit facility; (b) Number of SMEs reached with financial services; (c) Portfolio Quality under the credit facility.",
+      "rationale": "All PDO indicators are purely financial metrics. There are no FCV-adjusted indicators, no geographic equity tracking by region, and no political-economy monitoring in the results framework. The impact evaluation focuses on treatment-control comparison of beneficiary SMEs with no reference to conflict sensitivity or adaptive management triggers."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The WBG/IFC is currently providing technical assistance to the NBE in drafting all the necessary leasing directives and guidelines to supervise and regulate the leasing market in Ethiopia.",
+      "rationale": "IFC engagement on leasing regulation is referenced and coordination with FISF and MDI is mentioned, representing some One-WBG effort. However, the Joint IFC field is marked 'No,' IFC/MIGA involvement has no FCV dimension, and there is no evidence of an integrated WBG FCV strategy across the portfolio."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV Integration",
+  "key_finding": "The SME Finance Project applies no FCV lens to design, targeting, or results measurement despite channelling $200M through state-dominated financial institutions in a multiethnic country with documented conflict risk and ethnic-regional political tensions. The portfolio exhibits structural elite capture risk through DBE and state-owned MFIs — which are regionally concentrated, government-owned, and lack distributional safeguards — with no mitigation built into the project design."
+}

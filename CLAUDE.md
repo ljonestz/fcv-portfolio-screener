@@ -6,7 +6,9 @@ This repo contains the workflow for running **World Bank FCV Sensitivity and Res
 Each country's analysis lives in its own subfolder: `<country>/`
 
 Current countries:
-- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16
+- `somalia/` — completed 2026-03-14 (40 projects, 2015–2024); report redesigned 2026-03-16; RF3 re-screened 2026-03-18 → corrected to 0%
+- `djibouti/` — completed 2026-03-16 (22 projects, 2015–2024); RF3 re-screened 2026-03-18 → corrected to 0%
+- `ethiopia/` — completed 2026-03-16 (56 projects, 2015–2024); red flags narrative expanded 2026-03-18; RF3 re-screened 2026-03-18 → corrected to 0%
 
 ---
 
@@ -92,59 +94,83 @@ https://search.worldbank.org/api/v2/wds?format=json&project_id=<PID>&rows=10&fl=
 
 ### Step 3 — Extract text from PDFs
 
-For each project in `screening_targets.json`:
+**Head+tail approach (recommended for large portfolios, e.g. Ethiopia):**
 
 ```python
-import fitz  # PyMuPDF
-import urllib.request
-import ssl
+def extract_pdf_text(url: str, head_chars: int = 50_000, tail_chars: int = 20_000) -> str:
+    """Extract first head_chars + last tail_chars from a WB PDF.
 
-ssl_ctx = ssl.create_default_context()
-ssl_ctx.check_hostname = False
-ssl_ctx.verify_mode = ssl.CERT_NONE
-
-def extract_pdf_text(url, max_chars=120000):
-    with urllib.request.urlopen(url, context=ssl_ctx, timeout=60) as r:
+    Head captures: cover, SORT risk table, country context, PDO, theory of change.
+    Tail captures: results framework, risk annexes, safeguards.
+    Short docs (<= head+tail chars) returned in full.
+    """
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, context=SSL_CTX, timeout=90) as r:
         pdf_bytes = r.read()
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
+    max_needed = head_chars + tail_chars
     text = ''
     for page in doc:
         text += page.get_text()
-        if len(text) >= max_chars:
+        if len(text) >= max_needed:
             break
-    return text[:max_chars]
+    doc.close()
+    if len(text) <= head_chars:
+        return text
+    head = text[:head_chars]
+    tail = text[max(head_chars, len(text) - tail_chars):]
+    sep = '\n\n[... procurement/fiduciary sections omitted ...]\n\n'
+    return head + sep + tail
 ```
 
+**Flat 120k approach (used for Somalia/Djibouti):** Cap at 120,000 characters — covers ~80–100 pages.
+
 **Key decisions:**
-- Cap at **120,000 characters** — covers ~80–100 pages, sufficient for any PAD/PD
+- Prefer head+tail for portfolios >40 projects — saves ~42% of tokens per project vs flat 120k
 - Save each extracted text as a `.txt` file in `extracted_texts/<PID>.txt` (not committed — archive locally)
-- Log extraction status in `extraction_results.json` (not committed)
 - Use `fitz`, not `pdfplumber` — WB PDFs have complex layouts that break pdfplumber
 
 ---
 
 ### Step 4 — FCV Screening (the main analytical step)
 
-**How to run:**
-- Divide the projects into batches of ~8
-- For each batch, launch a Claude Code `general-purpose` agent in background
-- Pass the agent: the extracted text for each project + the FCV skill instructions
+**Recommended approach: 1 project per background agent** (introduced for Ethiopia; supersedes batch-of-8)
 
-**Agent prompt template:**
+Each agent receives only: skill instructions (~5k tokens) + one project's extracted text (~17.5k tokens) = ~23k tokens per agent. Compare to batch-of-8 which accumulates ~267k tokens by project 8.
+
+**Agent prompt template (per project):**
 ```
-You are running the FCV Sensitivity and Responsiveness Screener for a World Bank portfolio analysis.
+Screen this single project using the FCV screener skill.
+Project ID: <PID> | Name: <project_name>
+Document type: <doc_type> | Instrument: <instrument_category> | Year: <approval_year>
 
-For each project in this batch, read the extracted PDF text and apply the FCV screener skill.
-Output a JSON array of screening results — one object per project.
+Output format constraints (strictly enforced):
+- key_quote: max 250 chars per dimension
+- rationale per dimension: max 3 sentences / 200 words
+- key_finding: max 2 sentences / 100 words
+- Output: a single JSON object only. No preamble before the JSON.
 
-Projects to screen:
-[list of {project_id, project_name, doc_type, instrument_category, approval_year, text}]
+Save result to: <country>/screening_results_<PID>.json
 
-The FCV skill is installed. Use /fcv-sensitivity-and-responsiveness-screener for each document.
-Save results to: screening_results_batch_N.json
+[extracted text below]
+<text>
 ```
 
-**Parallel execution:** Running batches simultaneously dramatically reduces total time.
+**Session management for large portfolios (>40 projects):**
+
+Launch agents in groups across multiple sessions to avoid main-session context accumulation. Never read or paste extracted text into the main session.
+
+| Session | Action |
+|---|---|
+| A | Steps 1–3: Run data collection script |
+| B | Launch screening agents for projects 1–20 (all as background) |
+| C | Launch screening agents for projects 21–40 |
+| D | Launch screening agents for projects 41–60 |
+| E+ | Remaining projects; then check all results saved |
+
+After launching each group, you can `/clear` or close the session — the background agents run independently and save their results as files.
+
+**Legacy batch-of-8 approach (Somalia/Djibouti):** Divide projects into batches of ~8, launch one agent per batch, pass a JSON array of projects+texts. Still valid for small portfolios (<25 projects) to reduce session overhead.
 
 **Output per project (target schema):**
 ```json
@@ -165,16 +191,17 @@ Save results to: screening_results_batch_N.json
 }
 ```
 
-**Important:** Different agents may produce slightly different JSON schemas. Run `normalize_results.py` after all batches complete.
+**Important:** Different agents may produce slightly different JSON schemas. Run `normalize_results.py` after all results are saved.
 
 ---
 
 ### Step 5 — Normalize and merge results
 
 Run `normalize_results.py` — this script:
-1. Merges all `screening_results_batch_N.json` files
-2. Normalises scores, ratings, and dimension lists into one canonical schema
-3. Saves `<date>_<country>_screening_results_normalized.json`
+1. **1-per-agent approach:** globs `screening_results_P*.json` files (one per project)
+2. **Batch approach:** merges all `screening_results_batch_N.json` files
+3. Normalises scores, ratings, and dimension lists into one canonical schema
+4. Saves `<date>_<country>_screening_results_normalized.json`
 
 ---
 
@@ -243,13 +270,17 @@ Each dimension scored 1–10. Red flags apply a deduction to the relevant compos
 
 ### Red flags (RF)
 
-| Flag | Description |
-|---|---|
-| RF1 | Do-no-harm violation — design could exacerbate conflict |
-| RF2 | Elite capture — benefits systematically diverted |
-| RF3 | Exclusion — marginalised groups structurally excluded |
-| RF4 | Harm pathway named but not mitigated in design |
-| RF5 | Results framework has no FCV-adjusted indicators |
+Red flags are **binary pass/fail checks** applied *after* dimension scoring. They capture specific design failures that dimension scores alone may miss — a project can score adequately on a dimension and still trigger a related RF. Each triggered flag deducts **−0.5 from the Sensitivity composite** (floored at 1.0). Red flags are evidence-based: they trigger only when the project document itself provides evidence of a gap, not from absence of content.
+
+> **⚠ Agent drift warning — RF3:** In past screenings (Somalia, Djibouti, Ethiopia), agents over-applied RF3 to general exclusion, safeguards, and pastoralist/resettlement gaps — which are not what OP 7.30 governs. Only accept RF3=true if the agent's rationale quotes explicit OP 7.30 language or names a de facto authority from the project document. Where RF3 rates look anomalously high and rationale does not reference OP 7.30 language, include a caveat in the report narrative explaining the likely interpretive drift.
+
+| Flag | Short label | Description |
+|---|---|---|
+| RF1 | Unmitigated Conflict Risk | Do-no-harm violation — design could exacerbate conflict |
+| RF2 | Missing Distributional Analysis | Elite capture — benefits systematically diverted |
+| RF3 | OP 7.30 Weakly Handled | **Narrow definition:** triggers only when a project document explicitly references engagement with a *de facto* or unconstitutionally constituted authority (OP 7.30) and fails to address the governance/legitimacy risks this creates. It is **not** a general safeguards, resettlement, or marginalised-group inclusion check. |
+| RF4 | Elite Capture Unmitigated | Harm pathway named but not mitigated in design |
+| RF5 | Macro Framework Unrealistic | Results framework has no FCV-adjusted indicators |
 
 ### Gap Matrix (2×2)
 
@@ -259,6 +290,46 @@ Each dimension scored 1–10. Red flags apply a deduction to the relevant compos
 | **Low Sensitivity** | Low FCV integration | Responsive but underanalysed |
 
 Threshold: Sensitivity ≥ 6.0 = "High", Responsiveness ≥ 5.5 = "High"
+
+---
+
+## Report Narrative Guidelines
+
+### FCS classification — verify before labelling
+Do **not** assume a country is on the WBG's Harmonized List of Fragile and Conflict-Affected Situations (FCS List). Before generating any report narrative, verify the country's current status against the latest FCS list published at:
+- https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations
+
+If the country **is** on the current FCS list, it can be referred to as an FCS country. If it is **not** on the list (e.g. Djibouti as of FY25), describe it as "affected by drivers of fragility, conflict, and violence" or "FCV-affected" — do not call it an FCS or FCAS country. This distinction matters for institutional credibility.
+
+### Sensitivity–responsiveness gap — do not overplay small differences
+The gap between portfolio-average sensitivity and responsiveness scores is a useful analytical signal, but on a 1–10 scale with inherent measurement uncertainty, differences of less than ~1 point should not be overstated. Specifically:
+- Do **not** call a sub-1-point gap "the central finding" of an assessment
+- Do **not** describe it as "widening" or "closing" unless the trend data clearly supports that claim across cohorts
+- **Do** note the direction of the gap (sensitivity > responsiveness is the typical pattern) and contextualise it as consistent with broader FCV portfolio patterns
+- **Do** focus narrative weight on the **trend** (are the composites converging or diverging over time?) rather than the **level** of the gap at a single point in time
+- Where the gap is modest (<1 point), acknowledge measurement uncertainty explicitly
+
+### Red flags narrative — explain, contextualise, don't just list
+The red flags section of each report must follow this structure:
+
+1. **Open with methodology explanation.** Readers will not have seen the screener skill. Explain that red flags are binary pass/fail checks distinct from dimension scores, that they are evidence-based (triggered by documentary evidence, not absence), and that each deducts −0.5 from the Sensitivity composite. Explain how a project can score well on a dimension but still trigger the related RF.
+
+2. **Portfolio overview.** State how many projects trigger at least one flag (the "any RF" count), then present Chart 6.
+
+3. **Deep-dive on the 1–2 most prevalent flags.** For each, provide:
+   - The rate and what it means operationally
+   - **Country-specific context** explaining *why* the rate is what it is (e.g. conflict history, governance structure, macro shocks, instrument mix)
+   - What it implies for portfolio management or project design going forward
+
+4. **Brief contextualisation of mid-frequency flags** (typically RF2, RF3) — 2–3 sentences each linking to the country's specific policy/operational context. For RF3 specifically: always explain the narrow OP 7.30 definition (de facto authority engagement, not a general safeguards flag) and — if the reported rate looks high relative to the country's governance context — include a caveat that agents are known to have drifted from the strict definition, inflating the rate.
+
+5. **Interpretive note on RF1 = 0%.** RF1 triggers only when a document names a conflict pathway *and* fails to mitigate it. A 0% rate may mean projects avoid naming conflict risks explicitly rather than that all risks are mitigated. Cross-reference with the D2 (Do No Harm) dimension average — low D2 + zero RF1 suggests under-analysis, not effective mitigation.
+
+**Common mistakes to avoid:**
+- Do **not** highlight RF1 as "most concerning" when it has 0% prevalence
+- Do **not** just list flag rates without explaining what they mean in context
+- Do **not** treat high RF5 rates as individual project failures — in volatile FCV contexts, unrealistic macro assumptions are a systemic challenge, not a design flaw
+- **Do** ensure the narrative matches the actual data (verify counts against the normalized results JSON before writing)
 
 ---
 
@@ -310,6 +381,46 @@ These are backed up via OneDrive sync.
 | Agent hits rate limit mid-batch | Results for completed projects still saved; relaunch remaining only |
 | `totalcommamt` stored as string in portfolio JSON | Cast to `float()` before arithmetic |
 | Old `generate_report.py` wrote to hardcoded `Claude_Outputs` path | Fixed 2026-03-16: now uses `Path(__file__).parent` — script writes to its own directory |
+| WB Documents API returns >200 PADs for large countries (e.g. Ethiopia) | Script paginates up to 800 docs per document type |
+| Head+tail separator causes minor discontinuity in extracted text | Separator `[... procurement/fiduciary sections omitted ...]` is visible to screener — agents handle it correctly |
+| Agent Write permission denied mid-session | Agent returns full JSON in text output; parent session saves using Write tool directly |
+| Extracted text file contains wrong project's PAD (e.g. P175045, P174874, P169079) | Flag in `screener_note` field; scores are indicative; re-extract when AF PAD becomes available |
+
+---
+
+## RF3 Re-screening Workflow
+
+When RF3 rates look anomalously high and rationales do not cite OP 7.30 language or de facto authorities, run a targeted re-screen of all RF3=true projects with an explicit strict definition. Each country has a `patch_rf3_recheck.py` script that:
+
+1. Reads `screening_results_<PID>_rf3recheck.json` files (one per project)
+2. Patches the normalized JSON in-place (backing up first)
+3. Updates all 5 RF flags, composite scores, dimensions, gap matrix, and key_finding
+4. Reports post-patch flag counts
+
+**Agent prompt template for RF3 recheck:**
+```
+Screen this project using the FCV screener skill.
+Project ID: <PID> | Name: <name> | Year: <year> | Instrument: <IPF/DPF/P4R>
+
+⚠ RF3 OVERRIDE (strict definition):
+RF3 must ONLY trigger if the project document explicitly names engagement with,
+or transfer of resources to, a de facto or unconstitutionally constituted
+authority (OP 7.30). Do NOT trigger RF3 for: exclusion of marginalised groups,
+safeguards gaps, resettlement, community consultation, pastoralist targeting.
+Constitutional regional states, woredas, federal ministries = NOT de facto.
+
+Save result to: <country>/screening_results_<PID>_rf3recheck.json
+[extracted text below]
+```
+
+**Re-screening results (2026-03-18):**
+| Country | Original RF3 | Corrected RF3 | Explanation |
+|---|---|---|---|
+| Djibouti | 4/22 (18%) | 0/22 (0%) | Stable constitutional governance; no OP 7.30 scenarios |
+| Somalia | 1/40 (2%) | 0/40 (0%) | P173119 did not explicitly name non-state authority engagement |
+| Ethiopia | 20/56 (36%) | 0/56 (0%) | Pre-Tigray docs; no PAD explicitly names TPLF/OLA engagement |
+
+Note: correcting RF3 may surface other flags that agents missed in the original pass (RF2, RF4, RF5). Scores may also shift. Run patch script and regenerate charts + report after each re-screening batch.
 
 ---
 
@@ -330,4 +441,4 @@ Never commit directly to `main` for non-trivial changes.
 
 ---
 
-*Last updated: 2026-03-16 — report redesign (blog-style HTML), path config fix, git workflow added*
+*Last updated: 2026-03-18 — RF3 re-screened across all three countries; corrected to 0% in Djibouti, Somalia, and Ethiopia; patch_rf3_recheck.py workflow documented; known extraction errors noted*

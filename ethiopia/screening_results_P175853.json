@@ -1,0 +1,94 @@
+{
+  "project_id": "P175853",
+  "project_name": "Additional Financing for Ethiopia COVID-19 Emergency Response Project",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2021,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.5,
+      "rating": "Not Addressed",
+      "rationale": "The PAD acknowledges Ethiopia's proximity to fragile states and its 1.5 million refugees, but this is framed as an epidemiological risk factor rather than a structured FCV context analysis. There is no conflict analysis, no political economy assessment, and no discussion of how Ethiopia's internal tensions (Tigray, Oromia) intersect with COVID-19 response. The SORT table flags Political & Governance risk as High without unpacking the implications for project design."
+    },
+    "responsiveness": {
+      "numeric_score": 3.2,
+      "rating": "Not Addressed",
+      "rationale": "Project design follows a standard COVID-19 MPA template with no FCV-specific adaptations. Beneficiary targeting does not explicitly address conflict-affected populations or refugees despite the document noting 1.5 million refugees in underserved subnational areas. The results framework contains no FCV-adjusted indicators and flexibility provisions are fiduciary rather than conflict-adaptive in nature. IFC/MIGA collaboration is absent and there is no One WBG integration."
+    }
+  },
+  "dimensions": [
+    {
+      "dimension_id": "D1",
+      "dimension_name": "FCV Context and Diagnostics",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia currently shelters about 1.5 million registered refugees from neighboring fragile states...All of Ethiopia's neighboring fragile states are highly susceptible to outbreaks at subnational levels.",
+      "rationale": "The document references Ethiopia's fragile neighbourhood and refugee population but only as epidemiological vulnerability context, not as a basis for conflict analysis. There is no systematic FCV diagnostic, no reference to Ethiopia's internal conflict dynamics (Tigray, Oromia), and no fragility/conflict data beyond the SORT rating of High for Political & Governance risk. The FCV framing is entirely absent from the country context section."
+    },
+    {
+      "dimension_id": "D2",
+      "dimension_name": "Do No Harm and Conflict Risk",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Political and Governance risk: High. Environment and Social risk: High.",
+      "rationale": "The SORT table identifies Political & Governance and E&S risks as High, but the document does not analyse how project activities (quarantine centres, security at points of entry, resource allocation across regions) could interact with existing conflict dynamics or exacerbate tensions. No do-no-harm analysis is conducted and there is no conflict risk mitigation plan. Harm pathways through resource diversion in a politically contested environment are named implicitly in the FM section but not mitigated through design."
+    },
+    {
+      "dimension_id": "D3",
+      "dimension_name": "Stakeholder and Political Economy Analysis",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The SEP outlines a structured approach to engagement with stakeholders...addressing cultural sensitivities, as well as challenges deriving from illiteracy or disabilities.",
+      "rationale": "A Stakeholder Engagement Plan was prepared and disclosed, and community engagement through RCCE is a dedicated project component (US$8.5m). However, the political economy analysis is absent: there is no assessment of which actors benefit, which are excluded, or how ethnic or regional political dynamics in Ethiopia shape health system access. Engagement is framed through a public health lens, not a conflict-sensitive one."
+    },
+    {
+      "dimension_id": "D4",
+      "dimension_name": "Objectives and Theory of Change",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The objective of the project is to prevent, detect and respond to the threat posed by COVID-19 and strengthen national systems for public health preparedness in Ethiopia.",
+      "rationale": "The PDO is clear and coherent as a public health emergency response but makes no reference to FCV dynamics. The theory of change is a standard COVID MPA results chain — strengthen coordination, detection, response — without acknowledging how fragility, conflict, or displacement might disrupt or shape pathways to outcomes. The learning agenda (para 5) mentions behavioural and sociocultural assessments, which is a partial nod to context."
+    },
+    {
+      "dimension_id": "D5",
+      "dimension_name": "Design and Targeting",
+      "score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The majority of refugees are located in emerging and under-developed subnational states with limited health services and opportunities depending largely on humanitarian assistance.",
+      "rationale": "Despite explicitly noting that refugees in underserved subnational areas face acute health system gaps, the project does not specifically target these populations. Component design follows a national-level template; subnational allocation is based on administrative capacity rather than vulnerability mapping. There is no differentiated design for conflict-affected areas or displaced communities."
+    },
+    {
+      "dimension_id": "D6",
+      "dimension_name": "Implementation and Operational Flexibility",
+      "score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The specific budgets for each activity are indicative at the time of appraisal and can be adjusted during implementation...to allow for agility and flexibility in responding to evolving country needs.",
+      "rationale": "The project includes budget flexibility provisions and fast-track emergency procurement arrangements. The MPA structure also allows for adaptive programming at the global level. However, flexibility is framed entirely around public health and procurement efficiency, not conflict sensitivity. There are no provisions for operating in areas of restricted access or active conflict, and the CERC is not activated."
+    },
+    {
+      "dimension_id": "D7",
+      "dimension_name": "Results Framework and Adaptive Management",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Achieving the required timeliness of reporting for COVID-19 and other immediately reportable diseases under IDSR. Responding within 24 hours to confirmed outbreaks.",
+      "rationale": "The results framework is a standard COVID MPA template with five PDO indicators measuring timeliness of reporting, lab results, response rates, and facility preparedness. There are no FCV-adjusted indicators, no measures of reach to conflict-affected or displaced populations, and no equity disaggregation. Adaptive management provisions are limited to routine implementation support and supervision missions."
+    },
+    {
+      "dimension_id": "D8",
+      "dimension_name": "One WBG Integration (IFC/MIGA)",
+      "score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Bank/IFC Collaboration: No",
+      "rationale": "The datasheet explicitly records no IFC collaboration. There is no mention of MIGA instruments or private sector mobilisation strategies. Given Ethiopia's context, private sector health providers and diaspora networks could have been leveraged; no such integration is explored. This is a single-agency public health response with no One WBG dimension."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": true,
+    "RF4": true,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "This emergency COVID-19 response PAD follows a standard MPA template with minimal FCV integration despite Ethiopia's acute internal conflict dynamics and large refugee population; the project acknowledges fragility context only as an epidemiological risk factor while its results framework, targeting, and design contain no FCV-adjusted provisions."
+}

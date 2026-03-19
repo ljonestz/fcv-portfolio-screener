@@ -1,0 +1,102 @@
+{
+  "project_id": "P161373",
+  "project_name": "Enhancing Shared Prosperity through Equitable Services",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "P4R",
+  "approval_year": 2017,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 5.83,
+      "rating": "Partially Addressed",
+      "rationale": "The PAD demonstrates solid contextual grounding: it identifies Ethiopia's federal-decentralized governance architecture, notes horizontal and vertical equity gaps in service delivery, and explicitly addresses the Inspection Panel findings related to the Commune Development Programme (CDP) in Gambella as a reputational and operational risk. However, the FCV analysis is framed primarily through a service-delivery and poverty lens rather than a conflict/fragility lens — conflict dynamics, ethnic political tensions, and subnational instability receive only passing acknowledgment. The do-no-harm analysis is weak: the document acknowledges the CDP-ESPES operational interface but relies on an environmental and social screening tool and DAG dialogue rather than a dedicated conflict-sensitive assessment. Stakeholder and political economy analysis is oriented toward fiduciary and accountability dimensions but does not probe elite capture within regional or woreda administrations in conflict-affected areas. Red flag deduction of -0.5 applied for RF2."
+    },
+    "responsiveness": {
+      "numeric_score": 5.50,
+      "rating": "Partially Addressed",
+      "rationale": "ESPES is explicitly designed around equity — it targets the bottom 20 percent of income groups and poorest-performing woredas, incorporates gender mainstreaming in health and agriculture DLIs, and funds citizen engagement, social accountability, GRMs, and financial transparency systems at the woreda level. The PforR instrument disburses against DLIs tied to system performance, providing some adaptive management capacity. However, the theory of change does not explicitly incorporate FCV dynamics: it assumes a functioning constitutional delivery system without contingency design for conflict-disrupted service delivery. The results framework uses standard sectoral indicators (NER, Penta3, antenatal care) without FCV-adjusted baselines. Implementation flexibility is limited by the PforR structure, which disburses against results rather than enabling adaptive reprogramming. One WBG integration (IFC/MIGA) is not discussed."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "Sensitivity",
+      "numeric_score": 6.0,
+      "rating": "Partially Addressed",
+      "key_quote": "The Panel expressed the view that given the geographical and sectoral overlap between the PBS and CDP, PBS 3 should have acted to mitigate adverse developments associated with the CDP, specifically those stemming from the relocation.",
+      "rationale": "The PAD provides a credible macroeconomic and governance context for Ethiopia, including decentralization architecture, equity gaps, and fiscal trends. It explicitly references the Inspection Panel investigation of PBS 3 and the CDP-Gambella relocation controversy, demonstrating awareness of a documented conflict-linked harm pathway. However, it does not present a structured fragility/conflict analysis — there is no conflict map, no FCV classification, and no discussion of subnational drivers of violence including the OLF/TPLF dynamics or ethnic federalism tensions that were already active."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "Sensitivity",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The ESPES's support of improved management of social and environmental safeguards at the woreda level will address most of the concerns, since decisions on the implementation of decentralized programs are made at the woreda level.",
+      "rationale": "The PAD identifies the CDP-ESPES operational interface as the main harm pathway and proposes a government-approved environmental and social screening tool and continued DAG-level policy dialogue as mitigation. This is a meaningful but partial response: it addresses a known Inspection Panel risk but does not assess whether block grant transfers through the IGFT to politically contested or conflict-affected woredas could inadvertently reinforce grievances. The do-no-harm framework is reactive rather than proactive and conflict-specific risk analysis is absent."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "Sensitivity",
+      "numeric_score": 6.0,
+      "rating": "Partially Addressed",
+      "key_quote": "Local competition for these leadership positions is significant, and officeholders are keen to reach their service delivery targets. This arrangement encourages local authorities to listen to citizens and take responsibility for results.",
+      "rationale": "The document contains substantial discussion of accountability structures, citizen engagement, and decentralization political economy — including block grant allocation formulas and the role of woreda leadership. However, it does not examine how political economy dynamics in ethnically contested or conflict-affected areas may distort these accountability channels. The risk of elite capture at woreda level in Gambella, Somali region, or Afar is not systematically assessed despite evidence from the Inspection Panel investigation that such risks materialized under PBS."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "Responsiveness",
+      "numeric_score": 5.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The general 'theory of change' underpinning the key results areas centers on the effectiveness of the IGFT mechanism in expanding service delivery, supported by robust national accountability systems for citizen engagement, fiduciary management, environmental and social management capacity.",
+      "rationale": "The PDO — improving equitable access to basic services and strengthening accountability systems at the decentralized level — is clearly articulated and equity-oriented, including geographic and income targeting. However, the theory of change does not account for FCV dynamics: it does not address how conflict, forced displacement, or institutional breakdown could interrupt the IGFT-to-results chain. The program logic assumes that strengthening systems and accountability will improve outcomes, without considering how fragility may compromise the institutional preconditions for those systems to function."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "Responsiveness",
+      "numeric_score": 6.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The PforR beneficiaries are the whole population benefiting from basic service delivery, particularly the bottom 20 percent of income groups and most poorly performing woredas.",
+      "rationale": "ESPES has a well-designed equity-targeting mechanism: the IGFT formula directs disproportionate resources to underdeveloped regions (Gambella, Benishangul-Gumuz), the bottom income quintile, and low-performing woredas. Gender mainstreaming is embedded in specific DLIs. However, targeting is based on income/geographic equity metrics rather than conflict-exposure or displacement status. There is no explicit targeting of conflict-affected or displacement-hosting woredas as a distinct vulnerability category, which limits FCV responsiveness of the design."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "Responsiveness",
+      "numeric_score": 4.5,
+      "rating": "Partially Addressed",
+      "key_quote": "The PforR feeds into the government's broader program for service delivery, contributing approximately 10 percent of overall expenditures. The PforR will therefore finance and support the client's programs of expenditures, using vast program systems that are already supporting service delivery.",
+      "rationale": "The PforR instrument disburses against verified results in government systems, which limits the Bank's ability to redirect resources in response to conflict-driven disruption. There are no contingency protocols, conflict escalation triggers, or alternative disbursement pathways described for scenarios in which regional governments are unable to deliver services due to instability. The PAP includes safeguards and fiduciary capacity actions but no operational flexibility provisions linked to FCV risks."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "Responsiveness",
+      "numeric_score": 5.0,
+      "rating": "Partially Addressed",
+      "key_quote": "PDO monitoring indicators are as follows: (a) Per capita increase in budgeted federal government block grant transfers to regions... (b) Improved geographic equity in NER outcomes (c) Improved geographic equity in Penta3 outcomes.",
+      "rationale": "The results framework includes equity-oriented PDO indicators (geographic and income equity in education and health) and a strong DLI system with independent verification. However, indicators are standard sectoral measures without FCV-adjusted baselines or conflict-sensitive disaggregation. Adaptive management is constrained by the PforR structure: DLIs are pre-agreed and disbursement-linked, reducing scope for in-course adjustment to changing conflict conditions. There is no mention of FCV monitoring or early warning indicators."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "Responsiveness",
+      "numeric_score": 2.0,
+      "rating": "Not Addressed",
+      "key_quote": "The program provides a solid foundation for the Bank's programmatic approach of support to the GoE, and works critically to support the outcomes of related sectoral programs.",
+      "rationale": "The document references coordination with other IDA-financed operations (AGP-2, PSNP, ULGDP, General Education Quality Improvement) and development partners (DFID, AfDB, EU, Italian Development Cooperation). However, there is no mention of IFC or MIGA engagement, and no discussion of private sector development linkages in FCV-affected areas. One WBG integration in the FCV sense is not addressed."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": true,
+    "RF3": false,
+    "RF4": false,
+    "RF5": false
+  },
+  "gap_matrix_cell": "Implementation gap",
+  "key_finding": "ESPES is a well-structured equity-focused PforR that targets underserved woredas and strengthens accountability systems, but its FCV sensitivity is constrained by the absence of conflict analysis and reliance on systemic institutional pathways that may not function in conflict-affected areas. The explicit Inspection Panel history around the CDP-Gambella relocation raises distributional accountability concerns that are only partially mitigated, triggering RF2 and reducing the sensitivity composite."
+}

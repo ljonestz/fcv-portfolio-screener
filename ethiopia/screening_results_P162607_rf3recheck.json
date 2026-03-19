@@ -1,0 +1,102 @@
+{
+  "project_id": "P162607",
+  "project_name": "Renewable Energy Guarantees Program",
+  "doc_type": "Project Appraisal Document",
+  "instrument_category": "IPF",
+  "approval_year": 2019,
+  "composites": {
+    "sensitivity": {
+      "numeric_score": 3.83,
+      "rating": "Not Addressed",
+      "rationale": "The PAD acknowledges Ethiopia's location in the 'conflict-affected Horn of Africa region' and notes a severe political and social crisis requiring two states of emergency in three years, but treats this as backdrop for economic reform rather than a risk requiring analytical depth. There is no conflict or fragility diagnostic, no political economy analysis of the energy sector's exposure to ethnic or regional tensions (notably the Oromia siting), and no do-no-harm assessment despite the project operating in a context of significant instability. The SORT table rates Political and Governance risk as Substantial but provides no FCV-specific mitigation pathway."
+    },
+    "responsiveness": {
+      "numeric_score": 2.60,
+      "rating": "Not Addressed",
+      "rationale": "The project's PDO, design, and results framework are entirely focused on MW capacity and private capital mobilization, with no adaptation to Ethiopia's fragile and conflict-affected context. The MPA structure emphasises commercial bankability and transaction sequencing but includes no FCV-adjusted indicators, conflict-sensitive operational protocols, or adaptive mechanisms tied to political or security conditions. The IFC/MIGA integration is well developed for commercial purposes but is not linked to any FCV-responsiveness logic. The results framework has no FCV-adjusted indicators whatsoever."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "FCV Context and Diagnostics",
+      "composite": "sensitivity",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "Ethiopia, a growing economy with a population of over 100 million located in the conflict-affected Horn of Africa region, is experiencing an unprecedented political and economic change.",
+      "rationale": "The document briefly situates Ethiopia in the conflict-affected Horn of Africa and references a state of emergency declared twice in three years, but treats this solely as a reform-enabling context rather than as a fragility driver requiring diagnostic depth. No conflict analysis, fragility typology, or subnational FCV mapping is provided. The SORT political/governance risk is rated Substantial with no corresponding FCV-grounded explanation."
+    },
+    {
+      "id": "D2",
+      "name": "Do No Harm and Conflict Risk",
+      "composite": "sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "PS 4. Community Health, Safety and Security [triggered]; GBV [Gender-based Violence]; VAC [Violence Against Children]; FPIC [Free, Prior, and Informed Consent].",
+      "rationale": "The project triggers all eight IFC Performance Standards including PS4 (Community Health, Safety and Security) and includes GBV and VAC protections, indicating some awareness of protection risks. However, no conflict-sensitive risk assessment is provided for the Oromia siting, which carried significant ethnic and political salience in Ethiopia's crisis context at appraisal. The document does not assess whether the project could exacerbate local grievances or resource tensions."
+    },
+    {
+      "id": "D3",
+      "name": "Stakeholder and Political Economy",
+      "composite": "sensitivity",
+      "numeric_score": 4,
+      "rating": "Partially Addressed",
+      "key_quote": "The GoE has adopted an umbrella legislation... a dedicated PPP Directorate General has been established at the Ministry of Finance... the PPP DG coordinates with EEP's IPP development unit.",
+      "rationale": "The PAD maps government institutional actors (MoF, EEP, EEU, EEA, PPP DG) and their roles in detail, and notes governance risks in the SORT. However, this is a technocratic-institutional analysis focused on commercial viability, not a political economy analysis of who benefits or who may be excluded. There is no analysis of community-level stakeholders, ethnic dimensions of land access in Oromia, or elite capture risks in the IPP procurement process."
+    },
+    {
+      "id": "D4",
+      "name": "Objectives and Theory of Change",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The PDO for REGREP Phase 1 is to increase renewable energy generation capacity through private sector participation in Ethiopia.",
+      "rationale": "The PDO and results chain are exclusively focused on energy capacity and private capital mobilization, with no reference to FCV context or peacebuilding co-benefits. The theory of change assumes stable institutional conditions and commercial risk allocation frameworks that are poorly suited to Ethiopia's political fragility. There is no articulation of how the project's energy access outcomes relate to stability or resilience goals."
+    },
+    {
+      "id": "D5",
+      "name": "Design and Targeting",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The IPP project's location is in the Oromia region, almost 200 km east of the capital Addis Ababa... The power plant will cover an area of 250 ha.",
+      "rationale": "The project is sited in Oromia, a region with acute ethnic and political tensions at the time of appraisal, but the design does not reflect any conflict-sensitive siting logic or targeting rationale. Beneficiary analysis is framed around aggregate national electricity consumers and export markets. There is no analysis of whether the project design could exclude conflict-affected communities or reinforce existing inequalities."
+    },
+    {
+      "id": "D6",
+      "name": "Implementation and Operational Flexibility",
+      "composite": "responsiveness",
+      "numeric_score": 3,
+      "rating": "Not Addressed",
+      "key_quote": "The MPA places emphasis on the achievement of a longer-term vision and provides assurance to the Client to commit to a higher level of ambition from the outset.",
+      "rationale": "The MPA structure provides commercial flexibility (phased approvals, adaptive guarantee structuring) but this is entirely oriented toward investor confidence and market development. No contingency or suspension triggers related to political instability, security deterioration, or conflict escalation are described. The implementation arrangements do not include any FCV-sensitive protocols for contractor conduct, community engagement, or adaptive management in response to conflict risk."
+    },
+    {
+      "id": "D7",
+      "name": "Results Framework and Adaptive Management",
+      "composite": "responsiveness",
+      "numeric_score": 2,
+      "rating": "Not Addressed",
+      "key_quote": "Progress toward achieving the PDO will be measured by: (a) renewable energy generation capacity...from 0 MW in 2018 to 100 MW by 2022; (b) amount of private capital mobilized...from US$0 million to US$35 million by 2022.",
+      "rationale": "The results framework contains two PDO-level indicators measuring MW and private capital, with no FCV-adjusted indicators. There are no indicators tracking community grievances, social cohesion impacts, conflict incidents, or inclusive access. Adaptive management is framed entirely around technical and commercial learning, not FCV risk monitoring."
+    },
+    {
+      "id": "D8",
+      "name": "One WBG Integration (IFC/MIGA)",
+      "composite": "responsiveness",
+      "numeric_score": 5,
+      "rating": "Partially Addressed",
+      "key_quote": "Bank/IFC Collaboration: Yes... IFC Advisory Services supports governments in preparing a competitive and transparent solar auction... MIGA political risk insurance... IFC blended finance to potential investors.",
+      "rationale": "The project has strong and well-articulated IFC/MIGA integration through the Scaling Solar initiative, with IFC providing transaction advisory services and MIGA offering political risk insurance. This is the most developed dimension in the document. However, the WBG integration is entirely commercially motivated — there is no evidence that IFC/MIGA engagement is coordinated around FCV-sensitivity considerations or shared conflict risk analysis."
+    }
+  ],
+  "red_flags": {
+    "RF1": false,
+    "RF2": false,
+    "RF3": false,
+    "RF4": false,
+    "RF5": true
+  },
+  "gap_matrix_cell": "Low FCV integration",
+  "key_finding": "REGREP is a commercially sophisticated guarantee program that mentions Ethiopia's conflict-affected context but contains no FCV diagnostic, no conflict-sensitive design, and a results framework with zero FCV-adjusted indicators. The Oromia siting is never examined through a conflict or political economy lens despite acute ethnic tensions in the region at appraisal, and all counterparty engagement is with constitutional federal authorities — no de facto actors are involved."
+}
