@@ -36,6 +36,9 @@ extracted_texts/
 # Large data files (>1MB JSON, >1MB CSV/XLSX)
 # Exceptions: normalized results and filtered portfolio are committed (both <1MB)
 
+# Stability test run outputs (raw per-run JSONs — committed: summary CSV + heatmaps only)
+stability_test/results/
+
 # Temp
 *.tmp
 *.log
