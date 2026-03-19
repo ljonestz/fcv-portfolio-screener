@@ -5,8 +5,8 @@ Compute stability statistics from repeated FCV screening runs.
 Loads all run_*.json files for a project, computes per-dimension and
 composite variance, detects categorical flips, and saves:
   - Console summary table
-  - stability_test/stability_summary.csv  (all projects × all metrics)
-  - stability_test/stability_heatmap_<PID>.png  (8 dims × N runs, coloured 1–10)
+  - stability_test/stability_summary.csv  (all projects x all metrics)
+  - stability_test/stability_heatmap_<PID>.png  (8 dims x N runs, coloured 1-10)
 
 Usage:
     python stability_test/analyze_stability.py --project P148850
@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import numpy as np
 
-# ── Config ──────────────────────────────────────────────────────────────────
+# -- Config ------------------------------------------------------------------
 SCRIPT_DIR   = Path(__file__).parent
 RESULTS_ROOT = SCRIPT_DIR / 'results'
 SUMMARY_CSV  = SCRIPT_DIR / 'stability_summary.csv'
@@ -61,7 +61,7 @@ PROJECTS = {
 RED_FLAGS = ['RF1', 'RF2', 'RF3', 'RF4', 'RF5']
 
 
-# ── Helpers ──────────────────────────────────────────────────────────────────
+# -- Helpers ------------------------------------------------------------------
 
 def score_to_rating(s: float) -> str:
     if s >= 7:
@@ -137,7 +137,7 @@ def load_runs(project_id: str) -> list[dict]:
                 if len(data) == 1:
                     data = data[0]
                 else:
-                    print(f"  WARNING: {f.name} contains a list of {len(data)} items — using first")
+                    print(f"  WARNING: {f.name} contains a list of {len(data)} items -- using first")
                     data = data[0]
             data['_run_file'] = f.name
             runs.append(data)
@@ -146,7 +146,7 @@ def load_runs(project_id: str) -> list[dict]:
     return runs
 
 
-# ── Core analysis ────────────────────────────────────────────────────────────
+# -- Core analysis ------------------------------------------------------------
 
 def analyze_project(project_id: str) -> dict | None:
     """
@@ -160,15 +160,15 @@ def analyze_project(project_id: str) -> dict | None:
         print(f"\n{project_id}: No run files found in {RESULTS_ROOT / project_id}")
         return None
     if n < 2:
-        print(f"\n{project_id}: Only {n} run — need at least 2 to compute variance")
+        print(f"\n{project_id}: Only {n} run -- need at least 2 to compute variance")
         return None
 
     print(f"\n{'=' * 65}")
-    print(f"Project: {project_id} — {PROJECTS.get(project_id, {}).get('name', '')}")
+    print(f"Project: {project_id} -- {PROJECTS.get(project_id, {}).get('name', '')}")
     print(f"Runs loaded: {n}")
     print(f"{'=' * 65}")
 
-    # ── Extract composite scores from each run ───────────────────────────────
+    # -- Extract composite scores from each run -------------------------------
     sens_scores = []
     resp_scores = []
 
@@ -196,7 +196,7 @@ def analyze_project(project_id: str) -> dict | None:
         if r is not None:
             resp_scores.append(float(r))
 
-    # ── Dimension scores (D1–D8) ─────────────────────────────────────────────
+    # -- Dimension scores (D1-D8) ---------------------------------------------
     dim_scores: dict[str, list[float]] = {dim_id: [] for dim_id, _, _ in DIMENSIONS}
 
     for run in runs:
@@ -205,19 +205,19 @@ def analyze_project(project_id: str) -> dict | None:
             if score is not None:
                 dim_scores[dim_id].append(score)
 
-    # ── Red flags ────────────────────────────────────────────────────────────
+    # -- Red flags ------------------------------------------------------------
     rf_values: dict[str, list[bool]] = {f: [] for f in RED_FLAGS}
     for run in runs:
         rfs = extract_rf(run)
         for f in RED_FLAGS:
             rf_values[f].append(rfs[f])
 
-    # ── Gap matrix cells ─────────────────────────────────────────────────────
+    # -- Gap matrix cells -----------------------------------------------------
     gap_cells = []
     for s, r in zip(sens_scores, resp_scores):
         gap_cells.append(gap_cell(s, r))
 
-    # ── Statistics ───────────────────────────────────────────────────────────
+    # -- Statistics -----------------------------------------------------------
     def safe_stats(vals: list[float]) -> dict:
         if not vals:
             return {'mean': None, 'sd': None, 'min': None, 'max': None, 'n': 0}
@@ -231,15 +231,11 @@ def analyze_project(project_id: str) -> dict | None:
 
     sens_stats = safe_stats(sens_scores)
     resp_stats = safe_stats(resp_scores)
-    dim_stats  = {dim_id: safe_stats(scores) for dim_id, _, _ in DIMENSIONS
-                  for dim_id in [dim_id]
-                  if (dim_scores[dim_id] or True)}
-    # Cleaner: rebuild without the generator confusion
     dim_stats = {}
     for dim_id, _, _ in DIMENSIONS:
         dim_stats[dim_id] = safe_stats(dim_scores[dim_id])
 
-    # ── Categorical flip rates ────────────────────────────────────────────────
+    # -- Categorical flip rates ------------------------------------------------
     sens_ratings  = [score_to_rating(s) for s in sens_scores]
     resp_ratings  = [score_to_rating(r) for r in resp_scores]
     modal_s_rating = Counter(sens_ratings).most_common(1)[0][0] if sens_ratings else None
@@ -250,7 +246,7 @@ def analyze_project(project_id: str) -> dict | None:
     r_flip_rate   = sum(1 for x in resp_ratings if x != modal_r_rating) / len(resp_ratings)   if resp_ratings else None
     gap_flip_rate = sum(1 for x in gap_cells    if x != modal_gap)      / len(gap_cells)      if gap_cells    else None
 
-    # ── RF flip rates ─────────────────────────────────────────────────────────
+    # -- RF flip rates ---------------------------------------------------------
     rf_flip_rates = {}
     for flag in RED_FLAGS:
         vals = rf_values[flag]
@@ -260,7 +256,7 @@ def analyze_project(project_id: str) -> dict | None:
         else:
             rf_flip_rates[flag] = None
 
-    # ── Print summary ────────────────────────────────────────────────────────
+    # -- Print summary --------------------------------------------------------
     print(f"\nComposite Scores ({n} runs)")
     print(f"  {'':28s}  {'Mean':>6}  {'SD':>6}  {'Min':>6}  {'Max':>6}  {'Status'}")
     print(f"  {'-' * 70}")
@@ -289,7 +285,7 @@ def analyze_project(project_id: str) -> dict | None:
     print(f"\nGap Matrix Cell Distribution ({n} runs)")
     cell_counts = Counter(gap_cells)
     for cell, count in cell_counts.most_common():
-        marker = ' ← MODAL' if cell == modal_gap else ''
+        marker = ' <-- MODAL' if cell == modal_gap else ''
         print(f"  {count:3d}x  {cell}{marker}")
     flip_str = f"{gap_flip_rate:.0%}" if gap_flip_rate is not None else 'N/A'
     print(f"  Gap matrix flip rate: {flip_str}")
@@ -305,9 +301,9 @@ def analyze_project(project_id: str) -> dict | None:
         status = 'STABLE' if flip_rate_rf <= RF_FLIP_MAX else 'UNSTABLE'
         true_count  = sum(1 for v in vals if v is True)
         false_count = len(vals) - true_count
-        print(f"  {flag}: {true_count}× True / {false_count}× False  |  flip rate: {flip_rate_rf:.0%}  {status}")
+        print(f"  {flag}: {true_count}x True / {false_count}x False  |  flip rate: {flip_rate_rf:.0%}  {status}")
 
-    # ── Verdict ───────────────────────────────────────────────────────────────
+    # -- Verdict ---------------------------------------------------------------
     all_composite_sds = [
         s for s in [sens_stats.get('sd'), resp_stats.get('sd')] if s is not None
     ]
@@ -318,13 +314,13 @@ def analyze_project(project_id: str) -> dict | None:
         v is not None and v > RF_FLIP_MAX for v in rf_flip_rates.values()
     )
 
-    print(f"\n{'─' * 65}")
+    print(f"\n{'-' * 65}")
     print(f"VERDICT: Composite SD status: {composite_verdict} (max SD = {max_composite_sd:.3f})")
-    print(f"         Categorical rating flips: {'YES — INVESTIGATE' if any_cat_flip else 'None'}")
-    print(f"         Red flag instability:     {'YES — INVESTIGATE' if any_rf_unstable else 'None'}")
-    print(f"{'─' * 65}")
+    print(f"         Categorical rating flips: {'YES -- INVESTIGATE' if any_cat_flip else 'None'}")
+    print(f"         Red flag instability:     {'YES -- INVESTIGATE' if any_rf_unstable else 'None'}")
+    print(f"{'-' * 65}")
 
-    # ── Assemble return dict ──────────────────────────────────────────────────
+    # -- Assemble return dict --------------------------------------------------
     return {
         'project_id':       project_id,
         'n_runs':           n,
@@ -350,15 +346,15 @@ def analyze_project(project_id: str) -> dict | None:
     }
 
 
-# ── Heatmap ──────────────────────────────────────────────────────────────────
+# -- Heatmap ------------------------------------------------------------------
 
 def make_heatmap(result: dict, project_id: str) -> None:
-    """Save a heatmap of dimension scores × runs."""
+    """Save a heatmap of dimension scores x runs."""
     dim_ids   = [d[0] for d in DIMENSIONS]
     dim_names = [d[1] for d in DIMENSIONS]
     n_runs    = result['n_runs']
 
-    # Build 2D array: dims × runs
+    # Build 2D array: dims x runs
     matrix = np.full((len(dim_ids), n_runs), np.nan)
     for i, dim_id in enumerate(dim_ids):
         scores = result['dim_scores'].get(dim_id, [])
@@ -386,11 +382,11 @@ def make_heatmap(result: dict, project_id: str) -> None:
     ax.set_yticklabels([f'{did}: {name}' for did, name in zip(dim_ids, dim_names)], fontsize=9)
 
     cbar = fig.colorbar(im, ax=ax, orientation='vertical', fraction=0.03, pad=0.02)
-    cbar.set_label('Score (1–10)', fontsize=9)
+    cbar.set_label('Score (1-10)', fontsize=9)
 
     proj_name = PROJECTS.get(project_id, {}).get('name', project_id)
     ax.set_title(
-        f'FCV Screener Stability Test — {project_id}: {proj_name}\n'
+        f'FCV Screener Stability Test -- {project_id}: {proj_name}\n'
         f'Dimension Scores Across {n_runs} Independent Runs',
         fontsize=10, pad=10
     )
@@ -402,7 +398,7 @@ def make_heatmap(result: dict, project_id: str) -> None:
     print(f"\nHeatmap saved: {out_path.name}")
 
 
-# ── CSV output ────────────────────────────────────────────────────────────────
+# -- CSV output ----------------------------------------------------------------
 
 CSV_COLS = [
     'project_id', 'n_runs',
@@ -440,10 +436,10 @@ def update_summary_csv(new_row: dict) -> None:
     print(f"Summary CSV updated: {SUMMARY_CSV.name}  ({len(rows)} row(s))")
 
 
-# ── Entry point ───────────────────────────────────────────────────────────────
+# -- Entry point ---------------------------------------------------------------
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description='FCV Screener Stability Test — analysis')
+    parser = argparse.ArgumentParser(description='FCV Screener Stability Test -- analysis')
     group  = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('--project', metavar='PID', help='Single project ID')
     group.add_argument('--all',     action='store_true', help='Analyze all projects with completed runs')
