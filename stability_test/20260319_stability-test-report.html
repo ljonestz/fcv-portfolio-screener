@@ -259,6 +259,15 @@
   .rf-leg .l-clear::before     { background: #e8f4e8; }
   .rf-leg .l-triggered::before { background: #fce8e8; }
 
+  /* ── Narrative text ── */
+  .narr {
+    font-size: 13.5px;
+    color: var(--mid);
+    line-height: 1.65;
+    margin: 10px 0 16px;
+  }
+  .narr + canvas, .narr + .rf-wrap { margin-top: 4px; }
+
   /* ── Footer ── */
   footer {
     border-top: 1px solid var(--rule);
@@ -304,11 +313,25 @@
     </div>
   </div>
 
+  <!-- ── Test design ── -->
+  <div class="section" style="margin-bottom:32px">
+    <div class="section-title">Test design</div>
+    <h2>What was tested and how</h2>
+    <p class="narr">
+      The FCV Screener scores World Bank project appraisal documents across eight analytical dimensions, grouped into two composites: <strong>Sensitivity</strong> (does the project understand the FCV context?) and <strong>Responsiveness</strong> (does the design adapt to it?). Each composite runs from 1–10, with scores below 4 rated <em>Not Addressed</em>, 4–6.9 as <em>Partially Addressed</em>, and 7+ as <em>Substantially Addressed</em>. In addition, five binary red flags capture specific design failures that can occur regardless of the dimension scores.
+    </p>
+    <p class="narr">
+      Because the screener uses a large language model — which is probabilistic by nature — the same document can in principle produce different scores on different runs. This stability test assesses whether that variance is small enough to trust the results. The document for P148850 (a 2015 Ethiopia infrastructure PAD with no FCV content) was passed to ten completely independent screening agents, each unaware of the others' results. Stability thresholds are: composite standard deviation (SD) ≤ 0.5 for a stable verdict, 0.5–1.0 marginal, and &gt;1.0 unstable. The four key metrics above summarise the outcome.
+    </p>
+  </div>
+
   <!-- ── 1. Composite scores ── -->
   <div class="section">
     <div class="section-title">1 · Composite scores</div>
     <h2>Both composites are stable across all 10 runs</h2>
-
+    <p class="narr">
+      The chart below plots the Sensitivity and Responsiveness scores produced by each of the ten independent runs. If the screener were unreliable, we would expect the lines to jump around erratically. Instead, both composites stay close to their respective means throughout, with the widest spread being about half a point on the 1–10 scale. Crucially, every single run placed the project in the same rating category — <em>Not Addressed</em> — and the same gap matrix cell — <em>Low FCV integration</em>. From a practical standpoint, this means a single run is sufficient to classify a project like this correctly.
+    </p>
     <div class="chart-head">
       <div class="finding">Scores are tightly clustered; no run changes the categorical verdict</div>
       <div class="subtitle">Sensitivity and Responsiveness composite scores, runs 1–10 · Dashed lines = mean · Scale capped at 5 for readability</div>
@@ -326,7 +349,9 @@
   <div class="section">
     <div class="section-title">2 · Dimension-level variance</div>
     <h2>Six of eight dimensions are fully stable; two are marginal</h2>
-
+    <p class="narr">
+      Behind the two composite scores sit eight individual dimensions, each scored 1–10. The chart shows the mean score for each dimension (the bar) and the spread around that mean across the ten runs (the error bars, representing ±1 SD). A dimension with no error bar — D5, Design and Targeting — returned exactly the same score in every single run: the evidence in this document is unambiguous and the model reads it the same way every time. Dimensions with wider error bars (D6 and D7, shown in amber) reflect genuine interpretive ambiguity: the PAD contains some content that an assessor could plausibly credit or discount as FCV-adapted design. The table below provides the full statistics.
+    </p>
     <div class="chart-head">
       <div class="finding">D5 shows zero variance; D6 and D7 are the noisiest dimensions</div>
       <div class="subtitle">Mean score per dimension with ±1 SD error bars · Green = Stable (SD ≤ 0.5) · Amber = Marginal (SD 0.5–1.0)</div>
@@ -353,7 +378,9 @@
   <div class="section">
     <div class="section-title">3 · Red flag consistency</div>
     <h2>Four of five flags are perfectly consistent; RF2 sits at the stability threshold</h2>
-
+    <p class="narr">
+      Red flags are binary pass/fail checks on top of the dimension scores. They capture specific design failures — such as an unrealistic results framework or unmitigated elite capture risk — that are important enough to flag regardless of a project's overall score. The grid below shows, for each of the five flags and each of the ten runs, whether the flag was triggered (red ✕) or clear (green ✓). Four flags show a perfectly uniform result across all runs. RF5 — which checks whether the macro framework has been stress-tested against conflict or instability scenarios — is triggered in every run without exception, reflecting a clear evidence gap in the document. RF2 (distributional analysis) shows one departure: it was triggered in run 7 only. This is a borderline case — the PAD addresses resettlement and business displacement through standard safeguards, and whether that constitutes a "missing" conflict-sensitive distributional analysis is genuinely ambiguous. A 10% flip rate is exactly at the stability threshold and does not require corrective action.
+    </p>
     <div class="chart-head">
       <div class="finding">RF5 triggered in every run; RF2 triggered in one run only</div>
       <div class="subtitle">Binary flag outcome per run · RF = Red Flag</div>
@@ -375,6 +402,9 @@
   <div class="section">
     <div class="section-title">4 · Key findings</div>
     <h2>Summary and implications for methodology use</h2>
+    <p class="narr">
+      P148850 is a floor case — a project with essentially no FCV content, chosen specifically because it offers little ambiguity for the model to resolve differently across runs. The results confirm that the screener is highly consistent at this end of the scoring range. The more demanding test is a project that sits near the classification thresholds, where small score shifts could change a project's rating or move it between quadrants of the gap matrix. That test is planned next.
+    </p>
     <ul class="findings">
       <li>
         <span class="tag tag-pass">Pass</span>
