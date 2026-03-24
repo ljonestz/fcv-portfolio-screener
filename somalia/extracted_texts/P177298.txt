@@ -1,0 +1,2386 @@
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4759  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED GRANT 
+IN THE AMOUNT OF SDR 46.8 MILLION 
+(US$60 MILLION EQUIVALENT) 
+ 
+CO-FINANCED BY A 
+PROPOSED GRANT 
+IN THE AMOUNT OF US$15 MILLION 
+FROM THE SOMALIA MULTI-PARTNER FUND 2 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA  
+ 
+FOR AN 
+ 
+SOMALIA ENHANCING PUBLIC RESOURCE MANAGEMENT PROJECT 
+ 
+November 21, 2022 
+ 
+ 
+ 
+ 
+Governance Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective {October 31, 2022}) 
+ 
+Currency Unit =   
+Special Drawing Rights 
+(SDR);  
+Somali Shilling (SOS) 
+US$1 =  SOS 568.50 
+US$1 = SDR 0.78 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Country Director: Keith E. Hansen 
+Regional Director: Asad Alam 
+Practice Manager: Manuel Vargas 
+Task Team Leaders: Jiwanka B. Wickramasinghe, Lucy Anyango Musira, Sher 
+Shah Khan 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ATAF 
+African Tax Administration Forum 
+CIP  
+Capacity Injection Project  
+CPF  
+Country Partnership Framework  
+COAPM 
+Comprehensive Operating, Accounting and Procedures Manual 
+COVID-19 
+Coronavirus Disease 2019 
+CRATES  
+Customs Reform and Trade Enhancement Somalia  
+CSSP  
+Civil Service Strengthening Project  
+DA 
+Designated Account 
+DP 
+Development Partner 
+DPO 
+Development Policy Operation 
+DRM 
+Domestic Revenue Mobilization 
+E&S 
+Environmental and Social 
+EAFS 
+External Assistance Fiduciary Section 
+ESCP 
+Environment and Social Commitment Plan 
+ESF 
+Environmental and Social Framework 
+ESMF 
+Environmental and Social Management Framework 
+ESRS 
+Environmental and Social Review Summary  
+ESS 
+Environmental and Social Standards 
+EU  
+European Union  
+FCDO 
+Foreign, Commonwealth and Development Office  
+FCV 
+Fragility, Conflict, and Violence 
+FGS 
+Federal Government of Somalia  
+FMIS 
+Financial Management Information System 
+FMSs 
+Federal Member States  
+GBV 
+Gender-Based Violence 
+GDP  
+Gross Domestic Product  
+GEMS 
+Geo-Enabling initiative for Monitoring and Supervision 
+GFSM 
+Government Finance Statistics Manual 
+GRM 
+Grievance Redress Mechanism 
+GRS 
+Grievance Redress Service 
+GSS 
+Galmudug State of Somalia  
+HIPC 
+Heavily Indebted Poor Countries  
+HR 
+Human Resource 
+HRM 
+Human Resource Management 
+HRMIS  
+Human Resource Management Information System  
+HSS 
+Hirshabelle State of Somalia 
+ICT  
+Information and Communication Technology  
+IDA 
+International Development Association 
+IFI  
+International Financial Institution  
+IFR 
+Interim Financial Report 
+IGFF  
+Intergovernmental Fiscal Forum  
+ 
+ 
+ 
+IGFFTM 
+Intergovernmental Fiscal Federalism Technical Meeting 
+IMF 
+International Monetary Fund 
+IPF 
+Investment Project Financing  
+IPSAS 
+International Public Sector Accounting Standard 
+ITAS  
+Integrated Tax Administration Automation System  
+JSS 
+Jubbaland State of Somalia  
+LMP 
+Labor Management Procedures 
+LTO 
+Large Taxpayer Office 
+M&E 
+Monitoring and Evaluation 
+MDAs 
+Ministries, Departments, and Agencies  
+MoF 
+Ministry of Finance 
+MTFF 
+Medium-Term Fiscal Framework  
+MTRS  
+Medium-Term Revenue Strategy  
+NDP9  
+Ninth National Development Plan  
+Norad 
+Norwegian Agency for Development Cooperation 
+NPARSF  
+National Public Administration Reform Strategy Framework  
+OAG 
+Office of Auditor General 
+OBS 
+Open Budget Survey 
+ODA 
+Official Development Assistance 
+P&G  
+Pay and Grading  
+PAC 
+Public Account Committee 
+PBC 
+Performance-Based Condition  
+PCU 
+Project Coordination Unit 
+PDO 
+Project Development Objective 
+PFM  
+Public Financial Management 
+PFM RAP  
+PFM Reform Action Plan  
+PIM 
+Public Investment Management 
+PIU 
+Project Implementation Unit 
+PLFMIS 
+Puntland Financial Management Information System 
+POM 
+Project Operations Manual 
+PPA 
+Public Procurement Authority 
+PPP  
+Public-Private Partnership  
+PPSD 
+Project Procurement Strategy for Development 
+PREMIS  
+Public Resource Management in Somalia  
+PROFR  
+Prosperity from Revenue 
+PSC 
+Project Steering Committee 
+PSM 
+Public Sector Management 
+PSS 
+Puntland State of Somalia  
+RCRF 
+Somalia Recurrent Cost and Reforms Financing Project 
+SCSP ASA 
+Somalia Customs Support Advisory Services and Analytics Project 
+SEA 
+Sexual Exploitation and Abuse 
+SEAH 
+Sexual Exploitation, Abuse, and Harassment 
+SEAH -PRAP 
+Sexual Exploitation, Abuse and Harassment Prevention and Response Action Plan 
+SEP 
+Stakeholder Engagement Plan 
+ 
+ 
+ 
+SERP 
+Somalia Enhancing Public Resource Management Project 
+SFMIS 
+Somalia Financial Management Information System 
+SL 
+Somaliland 
+SLFMIS 
+Somaliland Financial Management Information System 
+SMF 
+Security Management Framework 
+SMPF 
+Somalia Multi-Partner Fund 
+SOE 
+Statement of Expenditure 
+SSC 
+Somaliland Steering Committee 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SWSS 
+Southwest State of Somalia  
+TA 
+Technical Assistance 
+TIN  
+Taxpayer Identification Number  
+TPU 
+Tax Policy Unit  
+TWG 
+Technical Working Group 
+UCS 
+Use of Country Systems 
+USD 
+United States Dollars 
+WBG 
+World Bank Group  
+  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 7 
+A. Country Context................................................................................................................................ 7 
+B. Sectoral and Institutional Context .................................................................................................. 10 
+C. Relevance to Higher Level Objectives ............................................................................................. 17 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 19 
+A. Project Development Objective ..................................................................................................... 19 
+B. Project Components ....................................................................................................................... 19 
+C. Project Beneficiaries ....................................................................................................................... 31 
+D. Results Chain .................................................................................................................................. 32 
+E. Rationale for Bank Involvement and Role of Partners ................................................................... 33 
+F. Lessons Learned and Reflected in the Project Design .................................................................... 33 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 35 
+A. Institutional and Implementation Arrangements .......................................................................... 35 
+B. Results Monitoring and Evaluation Arrangements......................................................................... 37 
+C. Sustainability ................................................................................................................................... 38 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 39 
+A. Economic and Technical Analysis and World Bank Value-Added ................................................... 39 
+B. Fiduciary .......................................................................................................................................... 43 
+C. Legal Operational Policies ............................................................................................................... 45 
+D. Environmental and Social ............................................................................................................... 45 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 48 
+VI. KEY RISKS ..................................................................................................................... 49 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 54 
+ANNEX 1: Implementation Arrangements and Support Plan .......................................... 70 
+ANNEX 2: SERP Intervention Mapping across Common Themes ..................................... 84 
+ANNEX 3: FGS, FMSs, and SL Reform Achievements ....................................................... 87 
+  
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+     
+Page 1 of 90 
+ 
+      
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia Enhancing Public Resource Management Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk 
+Classification 
+Process 
+P177298 
+Investment Project 
+Financing 
+Substantial 
+Urgent Need or 
+Capacity Constraints 
+(FCC) 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+14-Dec-2022 
+31-Dec-2027 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+To strengthen accountability, transparency and institutional capacity in public resource management, across 
+participating entities 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 2 of 90  
+     
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Component 1: Public Financial Management  
+  22.50 
+ 
+Component 2: Domestic Revenue Mobilization  
+  26.00 
+ 
+Component 3: Public Sector Management  
+  14.50 
+ 
+Component 4: Integrated Governance Support  
+   4.00 
+ 
+Component 5: Project Management, Coordination and Support in Delivery  
+   8.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of  Somalia  
+Implementing Agency: 
+ Federal Ministry of Finance, Somalia  
+ Ministry of Finance, Somaliland  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+75.00 
+Total Financing 
+75.00 
+of which IBRD/IDA  
+60.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+60.00 
+          IDA Grant 
+60.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+15.00 
+          Somalia Multi-Partner Fund 
+15.00 
+ 
+  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 3 of 90  
+     
+ 
+IDA Resources (in US$, Millions) 
+ Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+Somalia 
+   0.00 
+  60.00 
+0.00 
+   0.00 
+  60.00 
+National 
+Performance-Based 
+Allocations (PBA) 
+   0.00 
+  60.00 
+0.00 
+   0.00 
+  60.00 
+Total 
+   0.00 
+  60.00 
+   0.00 
+   0.00 
+  60.00 
+ 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+2023 
+2024 
+2025 
+2026 
+2027 
+Annual 
+ 
+ 
+ 
+ 
+ 
+   8.00 
+   9.00 
+  19.00 
+  19.00 
+   5.00 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+   8.00 
+  17.00 
+  36.00 
+  55.00 
+  60.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Governance 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Substantial 
+4. Technical Design of Project or Program 
+⚫ High 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ Substantial 
+7. Environment and Social 
+⚫ Substantial 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 4 of 90  
+     
+ 
+8. Stakeholders 
+⚫ Substantial 
+9. Other 
+⚫ High 
+10. Overall 
+⚫ High 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 5 of 90  
+     
+ 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+Schedule 2, Section I.B.1.(a) The Recipient shall, no later than 30 days from the Effective Date, establish, and 
+thereafter maintain throughout the period of implementation of its Respective Activities under the Project, a 
+steering committee with membership and terms of reference acceptable to the Association (variously, the “Project 
+Steering Committee” or “PSC”), as further elaborated in the POM; which committee shall: (i) be responsible for 
+strategic policy and decision making, technical coordination across FGS and FMSs, and leading on harmonization 
+where appropriate; (ii) meet periodically, as necessary, to provide policy guidance and high-level oversight to the 
+PCU; (iii) take decision on high level critical implementation issues under the Project; (iv) closely coordinate and 
+share information with the Recipient’s intergovernmental fiscal forum and (v) ensure inter-agency coordination and 
+cooperation. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01. (a) the Recipient has established and 
+operationalized the PCU referred to in Section I.B.1(b) of Schedule 2 
+of the Financing Agreement, in form and substance satisfactory to 
+the Association. 
+ 
+ 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01. (b) the Recipient has prepared and formally 
+adopted the Project Operation Manual for its Respective Activities 
+under the Project in a manner and substance satisfactory to the 
+Association, pursuant to Section I.C.1 of Schedule 2 of the Financing 
+Agreement. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01. (c) the Recipient has prepared, cleared, 
+disclosed and adopted the ESMF, LMP, SEAH-PRAP, and SMF (as 
+those terms are referred to in the ESCP), in form and manner 
+satisfactory to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01. (d) the Recipient has operationalized the 
+grievance redress mechanism referred to in paragraph 6 of Section 
+I.E in Schedule 2 of the Financing Agreement, in a manner and 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 6 of 90  
+     
+ 
+substance satisfactory to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01. (e) the SMPF 2 Grant Agreement has been 
+executed and delivered and all conditions precedent to its 
+effectiveness or to the right of the Recipient to make withdrawals 
+under it (other than the effectiveness of the Financing Agreement) 
+have been fulfilled. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV. Section 4.01(b). The Financing Agreement has been 
+executed and delivered and all conditions precedent to its 
+effectiveness, or of the right of the Recipient to make withdrawals 
+under it, (other than the effectiveness of this Agreement), have 
+been fulfilled. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, IBRD/IDA 
+Schedule2, Section III.B.1.(b) No withdrawal shall be made under 
+Category (2) until and unless Somaliland has: (a) executed the 
+Somaliland Subsidiary Agreement setting forth implementation 
+arrangements for Somaliland’s Respective Activities under the 
+Project (including the flow of funds out of the Grant proceeds), and 
+all Somaliland’s internal requirements for the agreement to be 
+binding upon Somaliland in accordance with its terms have been 
+duly obtained/secured; (b) prepared and formally adopted the 
+Somaliland Manual for its Respective Activities under the Project; 
+and (c) established the institutional arrangements set forth in the 
+foregoing manual, as shall be required to carrying out its Respective 
+Activities under the Project, in a manner and substance satisfactory 
+to the Association. 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 7 of 90  
+     
+ 
+I. STRATEGIC CONTEXT 
+ 
+1. 
+The World Bank is supporting Somalia to improve its institutions and service delivery with a view to 
+renewing the social contract. This is part of a broader effort to build state legitimacy and reduce institutional 
+fragmentation. For Somali citizens to be willing to contribute to public revenues, they must trust in the state’s 
+capability to discharge its basic functions and deliver public services. A similar trust is required to boost external 
+funding for essential services and humanitarian support, such as for drought and famine, and to channel such 
+funding via government institutions and systems. This requires, on the one hand, bolstering the institutional 
+capacity of the state, and on the other hand, addressing fragmentation and strengthening transparency and 
+accountability in managing public resources. The proposed operation will assist Somali governments by focusing 
+on synergies and interconnectedness between improving domestic revenue mobilization (DRM), public financial 
+management (PFM), and public service management (PSM).1  Integration of revenue, expenditure, and service 
+delivery will in time improve formal tax collection, strengthen legitimacy, and reduce the role of non-state actors. 
+This operation consolidates the World Banks’s efforts and will do so in the context of the whole of the Somali 
+peninsula, aiming for a consistent reform agenda across the Somali governments while customizing its 
+interventions to the needs of a given level of government.   
+ 
+2. 
+To achieve its objectives of strengthening institutional capacity, transparency, and accountability in 
+managing public resources, this operation will build on the success of previous operations and strive to strike a 
+balance between overall coordination at the federal level and implementation at the state levels. The project 
+design manages the complexity of the operation by reflecting the lessons learned through the World Bank’s recent 
+engagement in Somalia. It establishes coordination mechanisms at different levels, engages closely with all 
+stakeholders, and balances the advanced and ambitious governance agenda of the government with the 
+requirements and challenges of a fragile, conflict-affected, and violent (FCV) environment. To achieve consistency, 
+harmonization, economies of scale, and interoperability in managing public resources, the project is designed to 
+work across Somali governments.  At the same time, the FCV environment dictates a focus on communication, 
+flexibility, additional support through World Bank-executed technical assistance, and enhanced supervision. As a 
+result of this operation, domestic revenue collections will increase and the citizens will benefit from greater 
+government responsiveness, more accessible government administrative services, and improved public 
+administration. In the medium to long term, because of improvements in planning, budgeting, and cash flow in 
+the health and education sectors, citizens will enjoy better delivery of health and education services. 
+ 
+A. Country Context 
+ 
+3. 
+Somalia has a historic opportunity to turn the page on decades of conflict, fragility and state 
+fragmentation, and improve its trajectory toward poverty reduction and inclusive growth. For over two decades, 
+Somalia experienced protracted conflict and fragility, accompanied by the collapse of public sector institutions, 
+basic public services and the social contract, resulting in the impoverishment of millions. The 2012 Provisional 
+Constitution established a federal political structure, including a parliament, the Federal Government of Somalia 
+(FGS) and the Federal Member States (FMSs) of Somalia. Somalia also successfully undertook three peaceful 
+electoral processes at the federal level – in 2012, 2017, and 2022. Although much remains to be done to stabilize 
+the country and secure a lasting political settlement, the sustained political, economic and institutional reforms 
+ 
+1 This operation refers to public resource management, which includes the management of public financial resources – both revenues 
+(DRM) and expenditures (PFM) -- as well as the management of human resources (PSM). 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 8 of 90  
+     
+ 
+already undertaken have succeeded in rebuilding core state capabilities. These reforms have been supported by 
+the International Monetary Fund (IMF), European Union (EU) and World Bank Group (WBG) , including extensive 
+technical assistance (TA).  
+ 
+4. 
+The long-term growth of the Somali economy continues to be held back by various shocks. Upon 
+reaching the Heavily Indebted Poor Countries (HIPC) Initiative Decision Point milestone in 2020, growth was 
+projected at 3.2 percent. However, numerous shocks such as the Corona Virus Disease (COVID-19), floods, and a 
+desert locust infestation caused an economic contraction of 0.3 percent in 2020. While there was a modest 
+economic recovery in 2021, with growth estimated at 2.9 percent, severe drought and famine conditions are 
+emerging, which are contributing to high levels of food insecurity (affecting 7.1 million people) and internal 
+displacement. Growth in 2022 is projected at 2.2 percent, below the population growth rate of 2.9 percent. 
+Furthermore, inflation is projected at 8.5 percent in 2022 as global commodity prices increase and domestic 
+agricultural production falls. Expected improvements in business confidence, the implementation of new 
+investments in infrastructure and human capital, robust remittances, and social protection measures to support 
+the poorest are expected to support economic recovery, with growth projected at around 3.6 percent in the 
+medium term.    
+ 
+5. 
+Poverty remains widespread and deep. Somalia is one of the poorest countries in the world with a real 
+per capita Gross Domestic Product (GDP) of US$404 in 2021 and with 69 percent of the population estimated to 
+live below the poverty line (US$1.90 a day in purchasing power parity terms).2 Almost 9 of 10 Somali households 
+are deprived of at least one fundamental dimension of well-being: monetary, electricity, education, or water and 
+sanitation. Access to services is particularly limited for those living in rural areas, including nomads and internally 
+displaced settlements, where poverty is deepest and markets, health clinics and schools are scarce.3 Moreover, 
+the recent shocks, including the impacts of COVID-19, severe drought, and the war in Ukraine, are placing 
+additional pressure on the poor. The worsening drought conditions are estimated to have led to nearly 50 percent 
+of the population being food insecure and one million people displaced from their homes as rural dwellers seek 
+access to food and basic services in urban areas.   
+ 
+6. 
+Somalia’s fiscal situation is challenging, offering limited opportunities to respond to the multiple crises. 
+DRM has improved from a low base, nearly doubling from 2016 to 2021. However, it is still one of the lowest in 
+the world with the FGS’s revenue to GDP ratio at only 3 percent4 Progress in improving revenue collection is 
+uneven across the Federation. Trade-related taxes dominate revenues for regions, with ports (Mogadishu, 
+Jubbaland, and Puntland) accounting for over two-thirds of total taxes collected in these regions in 2020. The 
+remaining FMSs are dependent on intergovernmental transfers, although these are currently not based on clear 
+and transparent criteria. Meanwhile, public expenditures continue rising, dominated by personnel costs. Between 
+2016 and 2021, public expenditures have nearly tripled in nominal terms5. The wage bill accounts for half of total 
+expenditures. Expenditures are currently dominated by security and administration, as basic government 
+ 
+2 World Bank Group. 2019. Somali Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somali High Frequency Survey. World 
+Bank, Washington, DC. 
+3 World Bank Group. 2019. Somali Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somali High Frequency Survey. World 
+Bank, Washington, DC. 
+4 World Bank Group. 2022. Somalia Economic Update: Investing in Social Protection to Boost Resilience for Economic Growth. World Bank, 
+Washington DC. https://doi.org/10.1596/38206 
+5 World Bank Group. 2022. Collection of Policy Notes for the New Somali Government: Unlocking Somalia’s Potential to Stabilize, Grow 
+and Prosper. World Bank, Washington DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/37709 License: CC BY 
+3.0 IGO 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 9 of 90  
+     
+ 
+functions are established. Over time, it will be important to increase the fiscal space for economic and social 
+priorities so that expenditures support economic growth and poverty reduction. 
+ 
+7. 
+The institutional arrangements for intergovernmental relations are emerging between FGS and FMS at 
+different speeds, pointing to the need for greater harmonization. Each member state collects and retains its 
+taxes, supplemented by transfers from the FGS and direct official development assistance (ODA). Public finance 
+administrations, operational systems, and policies among the FGS and FMSs are fragmented, creating 
+inefficiencies and hampering the state-building process. However, progress has been made in defining the 
+respective functional responsibilities of the federal and member state governments in several areas, such as in 
+the division of functions and assignment of revenues, and the development of harmonized accounting and 
+reporting structures. Further harmonization of the key public resource management systems is critical to cement 
+the emerging inter-governmental fiscal settlement. 
+ 
+8. 
+Addressing broader challenges will require continuing the reform momentum, anchored in the HIPC 
+initiative. Somalia qualified for the HIPC Decision Point milestone in March 2020, which opened access to regular 
+concessional resources from IDA and other international financial institutions (IFIs), together with the investment 
+of private capital from the International Finance Corporation.6 Somalia is currently in the HIPC interim period7, 
+and only upon reaching the HIPC Completion Point milestone the country will be eligible for full and irrevocable 
+debt relief. Somalia prepares for future financing opportunities by strengthening institutions and government 
+capacity. Sustaining a positive trajectory will require predictable financing and improved institutions (among other 
+factors) as numerous challenges remain, such as weak government capacity, asymmetric federal structures, 
+security concerns, human capital deficits, and low levels of state legitimacy. 
+ 
+9. 
+Despite producing low levels of emissions, Somalia is acutely susceptible to climate change and 
+resultant shocks due to its geographic setting, with nascent institutions aimed at achieving “climate-proof 
+economic growth.” Climate projections for Somalia generally show that Somalia will experience both higher 
+average air temperatures and “very hot” days until 2080 (Weathering Risk, 2022).8 The British Met Office’s 
+projections for the larger East Africa region shows high confidence in a projected increase in average annual 
+temperatures of 1.5-3.5˚C in the 2050s relative to the 1981-2010 baseline under a high emissions scenario, and 
+temperatures are projected to increase in all months of the year (Richardson et al., 2022).  According to ND-GAIN 
+matrix, Somalia is the 2nd most vulnerable country and the 120th most ready country. Somalia’s current 
+greenhouse gas emissions are estimated to be 53.70 MtCO2eq, which represents less than 0.03 percent of total 
+global emissions.9  Agriculture, including crop production and livestock husbandry remains key to the livelihoods 
+of the majority of Somalia's population that lives in rural areas. It is also key to the country's food security and 
+economic growth prospects. Up to 60 percent of the population are nomadic or semi-nomadic pastoralists 
+(Jalango et al., 2021).10  Agriculture, the largest driver of the economy, accounts for 65 percent of GDP (IFAD, 
+2021).11  The agriculture and livestock sub-sectors contribute about 5 and 43 percent to GDP, respectively, and 
+ 
+6 https://www.worldbank.org/en/news/press-release/2020/03/25/somalia-to-receive-debt-relef-under-the-enhanced-hipc-initiative  
+7 HIPC interim period started in March 2020 and its ongoing until completion point is reached. There is no set date for completion as it is 
+contingent upon completing pre-agreed reforms.  
+8 Weathering Risk. 2022. Climate Risk Profile: Somalia.  
+9 Federal Government of Somalia. 2021. Updated Nationally Determined Contributions 
+10 Jalango D., Jaquet, S., Schiek, B., Belli, A., Ghosh, A., Hickson, K., Achicanoy, A., Esquivel, A., Saavedra, C., Schapendonk, F., Pacillo, G., 
+Ramirez-Villegas, J., Grosjean, G. 2021. WFP Critical Corporate Initiative: Climate Response Analysis Somalia. The Alliance of Bioversity 
+and The International Center for Tropical Agriculture; World Food Programme.  
+11 International Fund for Agricultural Development. 2021. Somalia Country Strategy Note (2022-2023).  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 10 of 90  
+     
+ 
+about 80 percent of export earnings. Somalia is at risk of natural hazards, including drought, floods, cyclones, and 
+climate-related diseases and epidemics.  
+ 
+10. 
+The Ninth Somalia National Development Plan (NDP 9 2020-2024) identifies environmental and climate 
+change as one of the most critical drivers of poverty.  In 2020, the Directorate of Environment and Climate Change 
+published a Somalia National Climate Change Policy. However, the governance and institutional architecture 
+related to climate-informed budgeting, climate-smart public investment management, etc. has not been fully 
+established. In the meantime, a mechanism is in place to enable coordination among national government 
+agencies on climate strategy and policy. An inter-ministerial National Climate Change Committee sets the strategic 
+priorities for the country in managing climate change while a new federal Ministry of Environment and Climate 
+Change has been set up that is in charge of the implementation of these priorities. 
+ 
+B. Sectoral and Institutional Context 
+ 
+11. 
+Somali governments have embarked on a broad reform agenda in the areas of public finances and public 
+sector management. Several successes in this reform agenda, such as an updated legal and policy framework, 
+automation, large and medium taxpayer offices and taxpayer identification in operation, and functional reviews 
+completed in selected ministries, departments and agencies, have laid a solid foundation and set the stage for the 
+next phase. Reform priorities have been identified in governments’ strategy documents such as FGS’s Public 
+Financial Management Reform Action Plan (PFM RAP), the Somaliland Strategy for Public Finance Management 
+Reform 2020–2024, and the National Public Administration Reform Strategy Framework (NPARSF), as well as in 
+World Bank diagnostics such as the DRM12 and PFM13 diagnostics carried out under the DRM and PFM modules of 
+the programmatic Public Expenditure Review (P160458) and the Somalia Customs Support ASA (P172650) . 
+ 
+Revenue and Expenditure Trends Impacting Public Resource Management  
+ 
+12. 
+Somalia’s fiscal federalism is nascent, but progress has been made for FMSs to assume more functional 
+responsibilities, with corresponding increases in their resource envelope. Notwithstanding the current lack of 
+overarching agreements on the distribution of functional assignments between the federal and state levels and a 
+clear intergovernmental fiscal formula for the distribution of resources, recent developments have helped put in 
+place the critical building blocks for Somalia to move forward in this area. Consequent to the increase in 
+responsibilities at the FMSs level, fiscal transfers more than doubled between 2018 and 2020, from US$30 million 
+to US$80.30 million.14  Regular transfers have grown and stabilized between FGS and FMS especially on salaries 
+for civil servants, teachers, and female health workers, supported by the Recurrent Costs and Reform Financing 
+Project (P173731). Additionally, an interim agreement was also reached in 2020 to share World Bank’s budgetary 
+support funding between the FGS and the FMSs on a 60:40 basis. As these trends continue, the fiscal envelope is 
+expected to further increase in the coming years. This also brings public resource management challenges in FMSs 
+to the fore.  
+ 
+ 
+12 The World Bank Group. 2021. Domestic Resource Mobilization in Somalia (Report # P151540). World Bank, Washington DC.  
+https://documents1.worldbank.org/curated/en/121391596804622057/pdf/Domestic-Resource-Mobilization-in-Somalia.pdf; Somalia 
+Transport Costs Study; Somalia Customs Compliance Study; Somalia Domestic Revenue Mobilization Organizational Structures and 
+Staffing Review.  
+13 Somalia PFM assessment June 2020. 
+14 This includes the Benadir Region. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 11 of 90  
+     
+ 
+13. 
+Domestic revenues have been steadily increasing but are insufficient to finance growing expenditures.15 
+FGS almost doubled its revenues from US$114 million in 2015 to US$225 million in 2021, due to ongoing reforms 
+and institutional capacity building. This success has partially resulted from the preparation of evidence-based 
+reports for informed policy decisions, the establishment and operation of the Large and Medium Taxpayer Offices, 
+the issuance of taxpayer identification numbers using the Financial Management Information System (FMIS), and 
+the continuous training of tax officials. Yet, FGS’s tax to GDP ratio is estimated at only 2.2 percent in 2021, low 
+compared to an average of 18.6 percent across the Sub-Saharan African region from 2015 to 2019. Key reasons 
+behind the under-performance include the legacy and a dependence on donors that developed after 
+independence. Somalia is also primarily pastoralist and clan based, which resulted in a mistrust in the government 
+and a minimal tax culture. The current system is also marked by informal taxation, fragmentation, and dated legal 
+frameworks. Consequently, around half of total budget expenditures in 2021 were financed from external grants 
+(Figure 1).  
+ 
+14. 
+The main revenue source for Somalia continues to be international trade. This mainly stems from the 
+largest ports in FGS, Puntland State of Somalia (PSS), Jubbaland State of Somalia (JSS) and Somaliland (SL), 
+resulting in the strong heterogeneity of revenue collection and potential between the states. Conversely, states 
+without ports, such as Hirshabelle State of Somalia (HSS), Galmudug State of Somalia (GSS), and Southwest State 
+of Somalia (SWSS), receive their main revenue from road-user taxes and fiscal transfers from the FGS. This 
+heterogeneity in revenue sources is also reflected in the different revenue levels. In 2020, 64 percent of the total 
+consolidated revenues of Somalia were collected by the FGS, 25 percent by PSS, 8 percent by JSS, and the 
+remaining 3 percent from SWSS, GSS, and HSS.  
+ 
+Figure 1. FGS revenue and expenditure trends, US$ million 
+ 
+Source: Somalia FGS Ministry of Finance (https://mof.gov.so/fiscal/); World Bank and IMF forecasts 
+(February 2022). 
+ 
+15. 
+FGS and all FMSs except PSS spend more than half of total expenditures on the public wage bill, which 
+is largely driven by the security sector. The FGS wage bill, including security and non-formalized payroll and 
+allowances, is consistently rising (Figure 2) and currently stands at a record high of 61 percent of total spending in 
+2021. While the size of the civil service is small as a share of the population,16 the civil service wage bill as a share 
+of total public expenditures is large because of low domestic revenue collection. Non-security civil service 
+ 
+15 Net Official Development Assistance (ODA) stood at US$3.04 billion in 2020 according to OECD data. 
+16 For example, the 2018 HR Audit counted 4,799 civil servants on the official FGS payroll and 5,588 in the nine regions of Puntland. 
+0
+100
+200
+300
+400
+500
+600
+700
+2016
+2017
+2018
+2019
+2020
+2021
+2022f
+2023f
+2024f
+Taxes, Fees & Customs
+Grants
+Total expenditure
+Wages
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 12 of 90  
+     
+ 
+employment has largely stabilized in the last few years, meaning that the modest increases in the overall non-
+security sector wage bill of late almost certainly reflect the reallocation of staff across grades, from lower to higher 
+grades. Consequently, the wage bill is crowding out fiscal space for development activities and a significant portion 
+of such activities is externally financed, posing important fiscal sustainability risks. The recently completed Human 
+Resources (HR) audits constitute a major step toward wage bill control, as ghost workers are being removed from 
+the payroll in FGS, PSS, and SL.17 
+ 
+Figure 2. FGS wage bill trends (US$) 
+ 
+ 
+Source: Abyrint  
+ 
+16. 
+The lack of functioning civil service pension systems and a mandatory retirement age contributes 
+significantly to both the large wage bill and the shortage of skills in the civil service. A growing number of public 
+servants are reaching retirement age but staying on in the system due to the lack of an exit strategy such as a clear 
+pension scheme. There are no mechanisms for providing adequate income for civil servants who become disabled, 
+and for their survivors if they die. Despite progress in developing civil service pension policies in FGS, PSS and SL, 
+implementation has not been possible due to the lack of a legal framework. The other FMSs have no pension 
+systems in place.  The absence of pension schemes, inter alia, is jeopardizing wage bill sustainability and the quality 
+of services as a significant number of “premium” jobs remain occupied by less educated and productive 
+individuals. Similarly, given that the security sector consumes over 35 percent of expenditures, a clear exit strategy 
+for security personnel reaching retirement age is required, as this will free up the limited slots for the most suitable 
+applicants.   
+ 
+17. 
+Although efforts to make capacity improvements have encountered difficulties, some progress is now 
+being achieved. The sub-optimal level of skilled staff has affected fiscal management capacity and the capacity to 
+analyze the fiscal implications of policies. While HR policies and plans18 have been developed in the past to 
+improve capacity, implementation has been inconsistent due to the lack of attention to the fiscal impact of these 
+policies. The urgency to implement these HR policies including a formal pay and grading system is further driven 
+by the growing non-formalized payroll and allowances. Despite these challenges, a good starting point to 
+structured civil service reforms has been established. Organizational reviews have been undertaken in FGS, PSS, 
+and SL, and mandates, vision, governance structures, technology, and staffing needs have been determined. 
+Skilled staff have been recruited in selected ministries, departments, and agencies (MDAs) in FGS and PSS. 
+Specialized training has been provided to these new recruits. The policy coordination and oversight capacity of 
+ 
+17 Though the ghost worker incidence found in the HR audits was low. 
+18 This includes recruitment, schemes of service, career progression, performance management, etc.    
+ -
+ 100,000,000
+ 200,000,000
+ 300,000,000
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+ Total wage bill incl security
+ Total non-security wage bill (Object 21)
+ Gross payroll - formalized civil service
+ Baseline RCRF financing of civil service
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 13 of 90  
+     
+ 
+the centers of government in FGS, PSS and SL were also strengthened through capacity development in policy 
+analysis and implementation, improving cabinet business processes, and clarifying roles within the structures in 
+policy coordination.  
+ 
+Budget Credibility  
+ 
+18. 
+Budget as a tool for policy implementation is weak. There are variances between the original budget and 
+the actual expenditures, undermining budget credibility. Low expenditure outturns are primarily the result of low 
+revenue outturns, especially in the FMSs. In this tight fiscal environment, reform efforts are ongoing to improve 
+the central budget and cash management functions, including strengthening the program classification of the 
+budget and improving the cash management function at the FGS treasury. The bottom-up capacity to meaningfully 
+contribute to these central functions is still weak.  
+  
+19. 
+Accurate forecasting of domestic revenues has also been challenging in view of the lack of modern 
+management practices and low capacity. Unrealistic fiscal frameworks, resulting from low institutional and 
+human capacity, have led to budget cuts during implementation. Although human resource management (HRM) 
+practices relevant to DRM are embedded in the respective civil service policies and procedures, most of these 
+procedures remain unimplemented and inconsistent across the MDAs. The FGS and PSS completed training needs 
+assessments of DRM staff in 2021, which indicate significant knowledge and skill gaps among staff. 
+ 
+20. 
+The large shortfall in the externally financed portion of the budget exacerbates the issue of low revenue 
+outturns. The Somali governments control only about half of the revenues, while the balance is externally 
+financed, and the portion of externally funded revenues has been increasing steadily over time. However, in 2021 
+only 55 percent of the revenue budget was met and the bulk of the revenue shortfall relates to external 
+revenues.19 Poor information sharing of planned donor operations during budget preparation and weak 
+implementation of results-based financing operations have contributed to this shortfall.    
+ 
+Accountability 
+ 
+21. 
+Foundational elements of accountability in public resource management have been put in place through 
+strengthening the legal and regulatory framework. For example, the legal framework for the civil service is in 
+place and the FGS, SL, and most FMSs have adopted modernized PFM Acts.20 Furthermore, enactment of the 
+Public Procurement, Disposal & Concessions Act and adoption of public procurement regulations have also been 
+significant achievements. However, capacity to implement the procurement regulations is a concern, explained 
+by the substantial centralized procurement at the Federal level. Finally, Audit Acts that provide independence to 
+the external audit function, which is a key element to ensure accountability in the use of public resources, are in 
+place in most FMSs. However, the Audit Act for the FGS passed in 2020 is still awaiting ratification. 
+ 
+22. 
+Key internal and external audit reforms have helped improve oversight and accountability. The internal 
+audit function has been established and strengthened by developing audit charters and manuals. At the FMSs 
+level, the audit function is also operational, though the follow-up processes are not being fully practiced. 
+ 
+19 The variances arise from the investment funding operations that did not materialize in 2021, specifically the Development Policy 
+Operation (see para. 38). The execution rate of recurrent cost financing is high, and therefore the under-execution does not affect the day-
+to-day functions of the government. 
+20 PSS’s PFM Act is in the process of being adopted. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 14 of 90  
+     
+ 
+Substantial further efforts will be required to implement the internal audit charters and manuals and strengthen 
+management capacity to follow up and implement audit recommendations. As a result of continuous external 
+audit capacity building, the Offices of the Auditors General (OAGs) have been gradually taking over from private 
+sector auditors the function of external audit of public finances, thereby strengthening the independent oversight 
+of public finances. They are also moving toward implementing International Standards for Supreme Audit 
+Institutions to improve the quality of audits. However, the delays in carrying out audits and the level of 
+implementation of audit recommendations are continuing concerns. To improve the efficiency and effectiveness 
+of audits, OAGs aim to convert manual processes to automated ones, engage in effective communication with 
+stakeholders, establish sound quality assurance processes, and strive to ensure audits are completed on time.  
+ 
+23. 
+Tax compliance is being strengthened through taxpayers’ access to information about turning revenue 
+into public services, as well as through tax education and facilitation; these developments are contributing to 
+better accountability and represent a significant opportunity to improve revenue collection. Somalia’s formal 
+DRM institutions are much less trusted than traditional or communal authorities, which reflects dissatisfaction 
+among Somalis, especially traders, with the lack of accountability of the state in managing public resources. 21  Low 
+legitimacy and poor perception by the citizenry create persistent difficulties for formal institutions regarding tax 
+collection. The operationalization of the Revenue Academy at Mogadishu, which has promoted citizen 
+engagement by providing taxpayer education,22 is a significant step towards improving both accountability and 
+revenue collection.  
+ 
+24. 
+The existence of implementation gaps in the processes and regulations for recruitment, training, and 
+performance management allows for political interference. While the policy specifies that recruitment should 
+be merit-based, it is often influenced by power-sharing agreements that result in decisions influenced by clan 
+affiliation. The influence of clan and politics also plays a role in performance evaluations, promotions, training, 
+and deployment. 
+ 
+Transparency 
+ 
+25. 
+The Ministry of Finance (MoF) has made political commitments and operational progress towards 
+improving budget transparency since the first Open Budget Survey (OBS)23 was published in 2017. Somalia’s OBS 
+ranking and score is among the lowest in the latest OBS report.24 According to the survey, there is no public 
+participation in fiscal activities and significant weaknesses in budget oversight and fiscal transparency.  Reform 
+measures are being undertaken on: (i) the preparation and publication of budget strategy papers, which lay out 
+the medium-term fiscal outlook and priorities and are presented to the cabinets of Ministers ahead of the 
+executive budget; (ii) the preparation of a mid-year budget analysis by the FGS; (iii) the improved timeliness of in-
+year budget execution reports; and (iv) the preparation and publication of citizens budgets. To further improve 
+budget transparency, the Somalia Recurrent Cost and Reforms Financing Project (RCRF) Phase III (P173731) 
+outlines a systematic and strategic approach to ensuring that the budget documents measured by OBS are 
+prepared and published in a timely manner, at the FGS level.   
+ 
+26. 
+Although the foundational elements of fiscal reporting have been established in the FGS, FMSs and SL, 
+ 
+21 Dom, Khan, Lomme, and Fiebelkorn (2021), Somalia Customs Compliance Study: assessing enforcement, facilitation, and trust. 
+22 In this regard, the FGS and PSS have led taxpayer engagement activities, which will be expanded to JSS, GSS, SWSS, and HSS. 
+23 https://www.internationalbudget.org/open-budget-survey/about. 
+24 https://www.internationalbudget.org/open-budget-survey/country-results. 2021 Open Budget Survey Report. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 15 of 90  
+     
+ 
+further improvements can be made to increase the value of such reporting. FGS, FMSs and SL prepare quarterly 
+budget execution reports in a timely manner and publish them on their websites. In addition, the FGS prepares 
+regular in-year consolidated fiscal reports. Moreover, the Somali governments have aligned their year-end 
+financial reports with cash-basis international standards to provide information in a structured format. FGS has 
+also commenced preparing ministry-level financial statements. The professionalization25 of staff and continuous 
+on-the-job support have been key underpinnings for these achievements. Building on these reforms, to strengthen 
+the usefulness of these reports as a decision-making support tool, further improvements are needed to increase 
+the comparability of these reports with the approved budgets, capture commitment information and other 
+information such as receivables and payables, and obtain an in-depth understanding of the variances. Besides the 
+publication of the citizens budget report, no forums or platforms are available to improve either citizens’ 
+engagement in public finance or their absorptive capacity to digest the information provided to them. 
+ 
+Harmonization 
+ 
+27. 
+The success of current efforts to harmonize inland revenue and customs systems is vital to strengthen 
+the country’s DRM institutions. At present, inland revenue as well as trade taxes are collected and spent 
+separately by the FGS and the FMSs, and in practice six stand-alone inland revenue and three customs 
+administrations operate. Each member state has adapted its own version of the Customs Act of 1961 as well as 
+inland revenue legislation, and collects and retains its own taxes, along with various fees. Whereas some tax 
+instruments may be considered as transitional for the FMSs, numerous tax instruments are imposed in both the 
+FGS and FMSs, creating potential tax competition, multiple taxation, and high compliance costs for the private 
+sector. New opportunities have emerged for harmonization of customs and inland revenue systems, resulting 
+from the FGS and FMSs dialogue at the Intergovernmental Fiscal Forum (IGFF) supported by Somalia Recurrent 
+Cost and Reforms Financing Project (RCRF) Phase III (P173731). The IGFF engages the Finance Ministers and 
+technical staff across Somalia. The IGFF has constituted a DRM Committee in 2022 comprising the FGS and FMSs 
+revenue director generals, which the proposed project will support. Also, the Somalia Customs Support Advisory 
+Services and Analytics Project (SCSP ASA - P172650), which is funded by the Norwegian Agency for Development 
+Cooperation (Norad) through the World Bank’s Global Tax Program, will complement this project with a technical 
+advisory for informed decision making. This harmonization dialogue on customs and inland revenue reforms aims 
+to strengthen the effectiveness and efficiency of their DRM institutions. To this end, the FGS, PSS and JSS are 
+leading the preparation of a Medium-Term Revenue Strategy (2022-2026) supported by the WBG. 
+ 
+28. 
+Harmonization of reporting practices is key to obtaining a consolidated picture of the country’s fiscal 
+position. FGS, FMSs, and SL have adopted the Government Finance Statistics Manual (GFSM) 2014 and are moving 
+towards harmonizing their charts of accounts around it; common reporting formats are being used; and 
+consolidation of fiscal reports is taking place. To consolidate FGS and FMSs fiscal reports more efficiently, it will 
+be essential to move away from the current laborious and manual consolidation processes, improve the 
+interoperability of FMISs to make way for an automated process, and agree upon institutional processes to 
+continuously maintain a harmonized coding and reporting structure. A roadmap is being prepared by the 
+Government to move towards smooth reporting of the consolidated fiscal position.   
+ 
+29. 
+Harmonization of the foundational underpinnings of public sector institutions, such as HRM laws, 
+policies, regulations, and systems, will be important in the next phase of reforms. For example, pay and grading 
+ 
+25 In-country PFM staff professionalization program through a twinning arrangement between the United Kingdom’s Chartered Institute 
+of Public Finance and Accountancy and local Somali universities. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 16 of 90  
+     
+ 
+(P&G) systems have commenced, but the methodologies are not consistent, including a fiscal sustainability check. 
+A harmonized methodology should be rolled out to all jurisdictions. The P&G methodology should be sufficiently 
+robust to provide a sound justification on the differences found in pay grades between FGS and FMSs, to suit the 
+local context.26 The absence of a P&G system that allows for career and salary progression also contributes to 
+payroll inflation and prevents the recruitment and retention of well-qualified personnel.  
+ 
+Automation 
+ 
+30. 
+The automation of financial management in each individual Somali government is a key achievement. 
+Reforms in FGS, FMSs and SL have led to the significantly improved use of FMISs. These systems have been 
+instrumental in ensuring the integrity of financial information and a key tool for implementing the internal control 
+framework. Key milestones include use of the FMISs for government staff payroll, and automated banking 
+instructions in FGS, which improved the integrity of the payment system. Moreover, the FMISs are used for 
+financial reporting, including generation of in-year budget reports, annual financial reports, and other ad hoc 
+reports that may be requested. As FGS, FMSs and SL move to the next level of reforms and automation becomes 
+more ingrained, some of the parallel processes require a gradual weaning out. Business processes will also need 
+to be revisited to check for comprehensiveness, relevance, and efficiency in today’s context. The next phase of 
+reforms will also include enhanced usage of the system by MDAs, improvements in functionalities to capture 
+critical information such as commitments, and enhanced governance of the system for improved security and 
+sustainability.   
+ 
+31. 
+There has been progress in automating DRM and HRM systems. The taxpayer registry was on paper until 
+2019, when it was linked to the FMIS in FGS. A longer-term solution, an Integrated Tax Administration Automation 
+System (ITAS), is underway. A critical tool to strengthen DRM capacity, it will become available in 2023. Progress 
+has also been made in establishing Human Resource Management Information Systems (HRMISs). FGS and 
+Puntland are in the process of procuring a system and the rest of the FMSs have HRMISs in place. These systems 
+will be a key tool for implementing HR rules and regulations. The next phase of reforms should also focus on the 
+upgrades in HRMISs that are required to address the needs of the pension systems that are being developed.  
+ 
+32. 
+While key public finance and human resource management systems have been developed or are under 
+development, they remain fragmented and are not yet interoperable. HRMISs, for instance, are not integrated 
+with FMISs, thereby increasing the risks of errors and fraud in payroll processing. Specifically, there is currently no 
+Information Technology (IT) platform, for example a government service bus for automating secure data 
+exchange, and no policy or roadmap for location-specific shared platforms (shared data centers/cloud hosting, 
+shared service bus). As a result, coverage of systems is limited, exchange of information does not occur, and 
+consolidated reports that could enable informed decision making on DRM, PFM, and Public Sector Management 
+(PSM) are not prepared.  
+ 
+Gender Gaps in Skills and Employment 
+ 
+33. 
+The public sector reflects gender gaps in skills and employment that exist across Somalia. According to 
+the National Development Plan (NDP) 9, the unemployment rate among women is high and women are hindered 
+by a mismatch between their jobs and skills. Women represent 56 percent of the population and generate up to 
+ 
+26 FGS salaries are between US$200-US$735 (excluding the Director/DG allowance of US$400, US$500/month); Puntland, US$80 -US$500 
+(excluding the allowance for senior management); and FMS pay ranges from US$150-US$1,285 (no allowance). 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 17 of 90  
+     
+ 
+70 percent of household income but are under-represented in the formal labor force, with a participation rate of 
+43 percent.27 Similarly, at the FGS, women make up only 26 percent of the total formalized civil service workforce 
+and only 19 percent of the two highest grade levels.28 In the FMSs, female civil servants make up 15.5 percent of 
+the workforce in SWSS, 3.8 percent in JSS, 28 percent in PSS, 4.5 percent in HSS, and 25 percent in GSS. A 2021 
+National Civil Service Commission report identified the following barriers to female employment: (i) lack of a 
+gender equity employment law; (ii) cultural barriers; (iii) clan and political barriers; (iv) skills and knowledge gaps; 
+(v) non-meritocratic promotions; and (vi) lack of female role models in senior public service positions. Planned 
+and well-targeted public sector reforms could begin to address these issues in the public sector. 
+ 
+C. Relevance to Higher Level Objectives 
+ 
+34. 
+The project contributes to the World Bank Group’s twin goals of ending extreme poverty and boosting 
+shared prosperity. The project is aligned with the World Bank Group Country Partnership Framework (CPF) for the 
+Federal Republic of Somalia (FY19 – FY22) (Report No. 124734-SO)29, discussed by the Board on September 25, 
+2018. The Performance and Learning Review (Report No. 176049)30 extended the CPF through FY23. The project 
+is aligned with the World Bank Group Strategy for Fragility, Conflict and Violence 2020 – 2025 (Report 
+No.146551)31. Somalia Enhancing Public Resource Management Project (SERP) aligns with CPF Focus Area 1: 
+Strengthening Institutions to Deliver Services and, as such, is a fundamental instrument for state building. Through 
+a joined-up approach to governance reforms that addresses PFM, DRM, and public sector performance, the 
+project supports the third FCV pillar, which entails strengthening the capacity and legitimacy of core institutions 
+and renewing the social contract.  
+ 
+35. 
+The project is aligned with the four pillars of the World Bank Group Crisis Response Framework (GCRF, 
+Report No 174677)32. The project interventions contribute mainly to Pillar 4 — Strengthening Policies, Institutions 
+and Investments for Rebuilding Better (supporting thematic areas ‘climate smart policies & incentives, PFM & 
+DRM, health and education, strengthening institutional & capacity building, digital development) by strengthening 
+institutional capacity and systems for PFM, DRM and civil service management for sustainable reforms. The SERP 
+also contributes to: Pillar 1 of the GCRF – Responding to Food Insecurity (thematic areas ‘sustainable food and 
+nutrition security) by strengthening the systems and management of public funds directed towards mitigating the 
+multiple crises faced by Somalia including food insecurity. Pillar 2 - Protecting People and Jobs (thematic area 
+‘vaccination & routine health and Gender equality’) by strengthening PFM in the health and education sectors for 
+effective service delivery and facilitating the recruitment of qualified female professionals into technical and 
+decision-making roles in the civil service. Pillar 3 – Strengthening Resilience to be better prepared for any future 
+crisis and challenge (thematic areas ‘climate resilience’) by mainstreaming climate–informed Public Investment 
+Management (PIM) for capital projects.  
+ 
+ 
+27 Somalia Country Economic Memorandum, World Bank (2021). 
+28 Report On Women Promotion Covering the Benchmark and the Entire Progress Achieved as per The NCSC Gender-Related Guidelines, 
+National Civil Service Commission (2021). 
+29 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/941361537906125793/somalia-country-
+partnership-framework-for-the-period-fy19-fy22 
+30 PLR https://documentsinternal.worldbank.org/search/33911410 
+31 https://www.worldbank.org/en/topic/fragilityconflictviolence/publication/world-bank-group-strategy-for-fragility-conflict-and-
+violence-2020-2025 
+32 https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/099640108012229672/idu09002cbf10966704fa00958a0596092f2542c 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 18 of 90  
+     
+ 
+36. 
+The project is also aligned with key government strategic documents and directions. Somalia’s NDP9 
+covering 2020–2024 sets out national priorities in five main areas; the project supports Pillar 1 (Institution 
+Building), Pillar 4 (Social and Human Development), and the reforms highlighted in the chapter on the Macro-
+Economic and Fiscal Framework. The project also addresses the governance cross-cutting imperative, which states 
+that all pillars of NDP9 should include activities that strengthen institutional capacity for effective governance.  In 
+addition, in his inaugural address, the newly elected President of the Federal Republic of Somalia, Mr. Hassan 
+Sheikh Mohamud, highlighted the need to strengthen the legitimacy of the state and build institutional capacity, 
+as well as greater accountability and transparency in government finances. These goals are aligned with NDP9 and 
+will also be directly supported by SERP. The project will also make critical contributions to FGS efforts to meet the 
+HIPC triggers for the floating completion point through its DRM and PFM interventions.   
+ 
+37. 
+The project will also contribute to IDA20 commitments on universally accessible GovTech, which 
+highlights access to services for all regardless of age, gender, ethnicity, and disability.  As a consequence of both 
+fragility and the COVID-19 crisis, the country urgently requires the building of digital foundations for increased 
+government resilience, integrity, coordination, transparency, and dialogue with citizens. The project supports the 
+GovTech agenda through effective coordination towards an integrated architecture for digital government, 
+disaster recovery, capacity building, change management, and design of user-centric digital government.  
+ 
+38. 
+The project will support and complement the Somalia RCRF in three major ways. First, SERP will support 
+the achievement of the RCRF’s Performance-Based Conditions (PBCs) through TA support, primarily those on 
+strengthening domestic revenue mobilization, expenditure management, reporting, auditing, and the pension and 
+pay and grading systems at the FGS and FMS levels. Second, RCRF will lead budget transparency efforts at the FGS 
+level, and SERP will focus on FMSs and SL regarding key budget documentation, parliamentary scrutiny, and citizen 
+engagement. SERP will also leverage the citizen engagement mechanisms under RCRF (call centers, mass media 
+campaigns) for the FMSs. Third, SERP will help to strengthen PFM for education and health, which aligns with the 
+RCRF’s investments in the governance of these sectors.   
+ 
+39. 
+The project also complements the Somalia Inclusive Growth Development Policy Operation series (DPO, 
+P174889) by increasing the ability to exercise effective macro-fiscal management across Somalia and build trust 
+that DPO funding will be spent effectively, efficiently, and transparently. As increased resources flow through 
+government systems at the FGS and FMSs levels, it will be important to ensure that the fiduciary environment also 
+improves. This is a focus area of SERP, which includes improvements to in-year reporting and internal and external 
+audits. Moreover, the reforms supported in the project complement the reforms supported in the DPO. For 
+example, while the DPO supports improvements to the audit process, e.g., the enactment of the Audit Bill and the 
+timely publication of audit reports, the project strengthens the quality of the external audit function and supports 
+the improved implementation of audit recommendations. Similarly, the DPO supports an improved 
+intergovernmental transfer formula, while the project improves the interoperability of PFM, DRM, and PSM 
+systems at FGS and the FMSs. This will help ensure improved consistency in how funds flow from the FGS to the 
+regions and how these funds are accounted for. Importantly, the project supports greater collaboration between 
+FGS and the FMSs, which is vital for trust-building and can support the broader objectives of the 
+intergovernmental pillar of the DPO. 
+ 
+40. 
+In August 2022, the Inter-Agency Standing Committee activated the humanitarian system-wide Scale-
+Up protocols in Somalia to support the ongoing drought and famine response. Total humanitarian support to 
+that point stood at US$1.14 billion with the Government of Somalia and World Bank funding at US$333.9 million. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 19 of 90  
+     
+ 
+The scale-up will result in significant additional funding being channeled to Somalia with the World Bank expected 
+to play an important role in improving resilience, expanding service delivery, and addressing drivers of 
+vulnerability. To this end, SERP will work to increase the capacity, transparency, and accountability of public 
+finances, which will be critical to these efforts as both the World Bank and United Nations (UN) are committed to 
+using country systems.  
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+PDO Statement 
+ 
+41. 
+The objective is to strengthen accountability, transparency, and institutional capacity in public resource 
+management, across participating entities. 
+ 
+42. 
+PDO Level Indicators 
+• 
+Implementation of previous years’ audit recommendations relevant to Ministries of Finance on 
+the consolidated financial statements (percentage)  
+• 
+Time taken (from end of financial year) to publish annual audited financial statements (number 
+of months) 
+• 
+New potential taxpayers identified and registered (percentage) 
+• 
+Implementation of budgeted staffing plans for technical positions in PFM, DRM and policy 
+making functions33 (percentage)  
+• 
+Pilot service centers established and operational - SL (number) 
+ 
+B. Project Components 
+ 
+43. 
+The project is expected to achieve the PDO through an innovative design to implement interdependent 
+reforms in public resource management, in an integrated manner, across the whole of Somalia. The project is 
+designed to leverage synergies between various reform elements and support them to work towards the common 
+PDO in a symbiotic manner. It will introduce a coherent, consistent, and sustainable reform agenda for managing 
+public finances and human resources. The improved outcomes of this integrated approach to reforms will 
+contribute to greater trust in fiscal management. A new project coordination structure will be set up, 
+commensurate with this design, for improved coordination among the various implementing agencies. The 
+entities participating in the project are the Federal Government of Somalia, Galmudug State of Somalia, 
+Hirshabelle State of Somalia, Jubbaland State of Somalia, Puntland State of Somalia, South West State of Somalia, 
+and Government of Somaliland. A detailed breakdown of participating MDAs can be found in Annex 1 (Table A1: 
+Responsible MDAs by Component). 
+ 
+44. 
+A single governance project that covers all of Somalia while combining PFM, DRM, and PSM is required 
+to achieve improved outcomes, given the interdependencies. This project includes support for interoperable or 
+shared systems across all three areas, which allows for improved information sharing and harmonized reporting. 
+The project also addresses the need for broader structural civil service reforms and change management to 
+ 
+33 These procedures are based on the civil service law, HR regulations, and procedures established through previous projects. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 20 of 90  
+     
+ 
+support the sustainability of DRM and PFM reforms (component 4). Furthermore, establishing a connection at the 
+onset between PSM reforms and the fiscal framework in DRM and PFM will allow for an early assessment of the 
+affordability of these reforms and create a pathway for successful implementation. In addition, two-way 
+interdependencies exist between areas; for example, DRM reforms improve PFM budget credibility (please see 
+Figure 5). Further benefits are accrued by bringing the FGS and FMSs together, as this allows for harmonization 
+between the governments in the areas of PFM, DRM, and PSM, comprehensive fiscal reporting and transparency 
+across Somalia, development of a consistent reform agenda, and cost-efficiency gains. The improved outcomes of 
+this integrated approach to governance reforms will be the establishment of strong macro fiscal frameworks and 
+greater trust in the management of public resources. It will also have the potential to result in increased access to 
+additional donor financing. Table A2.1 in annex 2 provides an overview of the interventions mapped across 
+common themes and reform areas.   
+ 
+45. 
+The project supports the strengthening of PFM, DRM, and PSM across Somalia through five 
+components: 
+ 
+• 
+Component 1: Public Financial Management (US$22.5 million) 
+• 
+Component 2: Domestic Revenue Mobilization (US$26 million) 
+• 
+Component 3: Public Sector Management (US$14.5 million) 
+• 
+Component 4: Integrated Governance Support (US$4 million) 
+• 
+Component 5: Project Management, Coordination, and Support in Delivery (US$8million) 
+46. 
+The project allocation between FGS, FMSs, and SL is outlined in table 1. This 5-year project will be funded 
+by an IDA grant of US$60 and co-financed by SMPF 2 for US$1534. All components are eligible for funding under 
+both IDA and SMPF2 and the SMPF2 will be disbursed first prior to drawing down on IDA.    
+ 
+Table 1: Allocation between components and FGS, FMSs, and SL (US$ millions) 
+ Components 
+Total 
+FGS and 
+FMSs 
+SL 
+PFM 
+22.5 
+17.42 
+5.08 
+DRM 
+26.00 
+19.50 
+6.50 
+PSM 
+14.50 
+12.50 
+2.00 
+Integrated Governance 
+Support 
+4.00 
+3.08 
+0.92 
+Project Management 
+8.00 
+6.00 
+2.00 
+Total 
+75.00 
+58.50 
+16.50 
+  
+ 
+34 The projects financed under the SMPF and SMPF 2 have adopted a portfolio wide strategy of tranching Grant Agreements for projects 
+commensurate with the available cash flow. As the World Bank’s practice is to sign grant agreements on a cash basis, the 
+budgets for most of the MPF projects have been tranched into a series of grants. Accordingly, the first SMPF 2 Grant Agreement is to be 
+signed for US$5 million. The remaining US$10 million of the grant will become available in tranches starting from the first quarter of FY2024.  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 21 of 90  
+     
+ 
+47. 
+The project will include retroactive financing. This financing will not exceed US$5 million, in respect of 
+payments made for eligible expenditures prior to the grant signing date but on or after November 1, 2022. This 
+will include procurable expenditures and comply with the World Bank’s procurement and anti-corruption 
+guidelines. The government has adequate internal controls in place to ensure that these expenses are incurred 
+efficiently, effectively, and for intended purposes.  
+  
+48. 
+The scope and substance of this project prioritizes reforms based on: (i) building on the gains made and 
+lessons learnt through ongoing projects of the World Bank and other Development Partners (DPs); (ii) impact on 
+revenue and expenditure; (iii) flexible solutions that fit local needs; (iv) urgent short-term needs that also lay a 
+foundation for medium- to long-term institutional development; and (v) absorption capacity of the government 
+entities.  
+ 
+49. 
+The project aims to build on several foundational reforms that have been put in place through previous 
+and ongoing interventions. These interventions include the World Bank-administered Somalia Second Public 
+Financial Management Capacity Strengthening Project (DRM & PFM Project P151492) supporting FGS, PSS, and 
+SL; Somalia Capacity Injection Project (CIP P149971) supporting FGS and PSS; Somaliland Civil Service 
+Strengthening Projects (CSSP P155123 and P174875); Somalia Customs Support Advisory Services and Analytics 
+Project (P172650), funded by Norad through the World Bank Global Tax Program; Public Resource Management 
+in Somalia (PREMIS) project funded by the Foreign, Commonwealth and Development Office (FCDO) and EU (GSS, 
+HSS, JSS, and SWSS); Customs Reform and Trade Enhancement Somalia (CRATES) project (FGS, JSS, and PSS) 
+funded by FCDO and EU; Prosperity from Revenue (PROFR) program funded by FCDO (SL); and EU budget support 
+technical assistance. 
+ 
+50. 
+The project will finance: (i) goods; (ii) consulting and non-consulting services; (iii) civil works; (iv) 
+consultations, workshops, and focus-group discussions; and (v) training. 
+  
+Component 1: Public Financial Management (US$22.50 million: FGS & FMSs US$17.42 million; SL US$5.08 
+million) 
+ 
+51. 
+The overall objective of this component is to strengthen budget preparation, execution, and oversight 
+for FGS, FMSs, and SL. The component contributes to all four pillars of the GCRF by strengthening public finance 
+decision making and practices that contributes to addressing the immediate crises in Somalia, building resilience 
+to face future crises and strengthening institutions.  It closely aligns with the FGS’s PFM Reform Action Plan (PFM 
+RAP)35 and the Somaliland Strategy for Public Finance Management Reform 2020–2024. Initial prioritization will 
+differentiate between the needs of states that have significant domestic revenue (FGS, PSS, JSS, and SL) and those 
+that depend almost entirely on donor funding (GSS, HSS, and SWSS). Priority will be given to downstream budget 
+execution processes for all governments, while for those with own domestic revenue, there will also be a focus 
+on upstream processes (e.g., budgeting, planning). The project will support the efforts of FGS, FMSs, and SL to 
+address PFM challenges through five subcomponents. Issues of capacity building, gender, and citizen engagement 
+will be addressed in a cross-cutting manner. The subcomponents include:  
+ 
+Subcomponent 1.1: Support essential budget execution functions (US$16.50 million: FGS & FMSs US$12.46 
+million; SL US$4.04 million) 
+ 
+35 SERP specifically aligns with PFM RAP objectives on 1. budget reliability, 2. transparency of public finances, 4. policy based fiscal strategy 
+and budgeting, 5. predictability and control in budget execution, 6. accounting and reporting, and 7. external scrutiny and audit. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 22 of 90  
+     
+ 
+ 
+52. 
+This subcomponent aims to strengthen the budget execution functions in FGS, FMSs, and SL. It will:  
+ 
+(a) Strengthen and update the legal and internal control frameworks and business processes, especially to 
+recognize the inter-governmental fiscal relations, improve risk management, eliminate cumbersome and 
+duplicate processes, and enhance the quality, comprehensiveness, and transparency of financial 
+reporting. Capacity will be enhanced by providing classroom and on-the-job support to implement the 
+revamped controls and business processes. 
+(b) Strengthen the functionalities, usage and security of the FMIS, a primary tool for budget management and 
+financial reporting for public disclosure and management decision making. The work will be underpinned 
+by an assessment of existing FMIS systems and a roadmap to implement the recommendations of the 
+assessment, giving due attention to fiscal affordability and system sustainability as well as to the 
+prospective integration of FMSs and FGS systems. Main areas of support include: (i) upgrading and 
+expanding FMIS functionalities and their usage; (ii) developing or improving the governance, 
+sustainability, disaster recovery and change management plans, and implementing those plans; (iii) 
+improving the Information and Communication Technology (ICT) infrastructure for data centers, storage, 
+security, helpdesk and more; and (iv) providing extensive training to users and superusers.  
+(c) Support the implementation of fundamental procurement reforms to improve controls, accountability, 
+and transparency. These reforms include (i) establishing and operationalizing a public procurement 
+authority, taking into account the fiscal and staffing implications, its roles and responsibilities, and the 
+need to sensitize stakeholders; (ii) developing and operationalizing the procurement portal; (iii) 
+developing and improving procurement documentation; (iv) building the capacity of civil servants 
+(including obtaining the services of international training institutions to develop a procurement 
+curriculum and modules, and deliver training of trainers); and (v) conducting periodic procurement 
+reporting. 
+(d) Improve monitoring and oversight by strengthening internal and external audit and the Public Accounts 
+Committees36 of the Parliaments. Specifically, the subcomponent will (i) support internal auditors' 
+capacity building as well as provide technical support to establish and operationalize audit committees to 
+improve the follow-up on audit recommendations; (ii) support external audit capacity building, 
+enhancement of methodologies, and improvement in physical infrastructure, including civil works, to 
+conduct statutory and other types of audits as per international standards and on time; (iii) develop 
+strategic plans and support the enhancement of the audit quality assurance, communication, human 
+resource management, and IT functions; and (iv) strengthen the process and capacity of Finance/Public 
+Accounts Committees to improve the quality, frequency, and reporting of parliament oversight of public 
+finance. 
+Subcomponent 1.2: Strengthen PFM in the health and education sectors (US$1.28 million: FGS & FMSs US$0.85 
+million; SL US$0.43 million) 
+ 
+53. 
+This subcomponent aims to strengthen planning, budgeting, and controls in the health and education 
+sectors, thus creating the enabling environment for effective service delivery. It will support the FGS, SL, PSS, 
+and JSS to: (a) improve systems and capacity to establish a strong connection between the sector policies/plans 
+with the resources allocated for these sectors in the Medium-Term Fiscal Framework (MTFF) to improve budget 
+ 
+36 The role of a typical Public Accounts Committee is carried out by the Budget and Finance Committees in FGS, FMS and SL.  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 23 of 90  
+     
+ 
+allocations to these sectors; (b) develop guidelines and build capacity to improve bottom-up planning and 
+budgeting; (c) provide the capacity and automated tools for enhancing cash management practices at the sector 
+level, with a view to ensuring a timely and adequate cash flow; and (d) improve compliance with rules by building 
+the compliance monitoring capacity of internal auditors, audit committees, and procurement committees in these 
+sectors. This subcomponent will be closely coordinated with the health and education sector activities of the RCRF 
+project that supports FGS and FMSs education and health ministries.  
+ 
+Subcomponent 1.3: Facilitate the harmonization of PFM systems between FGS and FMSs (US$0.67 million: FGS 
+& FMSs US$0.67 million) 
+ 
+54. 
+This subcomponent aims to establish a coherent and well-coordinated PFM system across FGS and the 
+FMSs. It will build capacity to support ongoing work to harmonize: (a) reporting and accounting structures and 
+templates; (b) roadmaps to improve disclosures in financial statements in line with International Public Sector 
+Accounting Standard (IPSAS); and (c) charts of accounts across the FMSs and FGS to build the foundation for 
+consolidating fiscal information. As a second stage, it will automate the generation of consolidated financial 
+statements and fiscal reports via interoperable systems. It will also support an assessment of the PFM Acts of FGS 
+and FMSs governments to improve intergovernmental fiscal coordination.  
+ 
+Subcomponent 1.4: Improve budget preparation and transparency (US$1.54 million: FGS & FMSs US$0.94 
+million; SL US$0.61 million)   
+ 
+55. 
+This subcomponent aims to improve budget preparation processes, budget transparency, and public 
+participation in the various stages of budgeting. It will: 
+ 
+(a) Contribute to improved budget credibility at FGS, SL, PSS, JSS, and other FMS selected in accordance 
+set forth in the Project Operations Manual (POM) by improving capacity and processes to strengthen 
+budget preparation and analysis, which is also climate and gender informed. It will also support the 
+establishment or enhancement of a Medium-Term Fiscal Framework that is underpinned by climate 
+adaptation and climate risk mitigation considerations, linkages to reliable revenue forecasting, and 
+other key budget preparation processes. A focus of budget analysis will be on the execution of 
+humanitarian aid, which is scaling up significantly.  
+(b) Enhance budget transparency and public participation, which is key to increase confidence in all levels 
+of government. As a complement to ongoing efforts to strengthen budget transparency at the FGS 
+level, this subcomponent will focus on FMSs and SL to build capacity and processes to (i) prepare and 
+publish budget documentation (including developing citizen versions of key documents and 
+conducting related outreach, and generating feedback through social media, radio, tv shows), (ii) 
+engage with citizens (for example, through hearings targeting civil society organizations, the private 
+sector, vulnerable populations, etc.), and (iii) improve parliamentary oversight of the budget.  
+Subcomponent 1.5: Strengthen climate-informed public investment management (US$2.50 million: FGS & PSS 
+US$2.50 million) 
+ 
+56. 
+This subcomponent will lay the foundations for the institutional and regulatory processes for capital 
+projects funded through domestic resources, external borrowing, public-private partnerships (PPPs), and 
+concessions. It will support the FGS and PSS in improving the legal and procedural framework for project screening 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 24 of 90  
+     
+ 
+and appraisal by carrying out an assessment and drafting appropriate amendments or proposed legislation. This 
+will include developing climate screening guidelines and on-the-job support to the concessions’ technical units to 
+assess project feasibility and prepare specifications for concession tenders and relatively large procurement.     
+ 
+Component 2: Domestic Revenue Mobilization (US$26.00 million: FGS & FMSs US$19.50 million; SL US$6.50 
+million) 
+ 
+57. 
+The objective of this component is to support the DRM priorities of FGS37, FMSs, and SL to strengthen 
+their inland revenue systems and capacity and contribute to harmonizing tax administration in FGS and FMSs. 
+In summary, the operation will support selected tax policy, tax administration, and taxpayer education and 
+facilitation reforms, with gender and citizen engagement as a cross-cutting reform measure. The project will also 
+support selected customs reforms in Somalia and SL, in active collaboration with the DPs, and build on the FCDO 
+and EU-funded CRATES and PREMIS projects in Somalia and the FCDO PROFR project in SL. The component 
+contributes to Pillars 3 and 4 of the GCRF by improving institutions and fiscal space to enable FGS, FMS and SL to 
+successfully engage in crisis recovery activities and build long term resilience crisis resilience.  
+ 
+Subcomponent 2.1: Improve tax policy capacity (US$1.50 million: FGS & FMSs US$1.25 million; SL US$0.25 
+million) 
+ 
+58. 
+This subcomponent aims to strengthen tax policy capacity in FGS, FMSs, and SL and contribute to 
+harmonizing tax policy in FGS and FMSs. For FGS and FMSs, the activities include: (a) deepening of tax policy 
+reforms in FGS and PSS, by strengthening the already functioning tax policy units (TPUs) that have been 
+established through the DRM & PFM Project; (b) research and analysis capacity building for evidence-based tax 
+policy in JSS, GSS, SWSS, and HSS; (c) review of harmonized legal or regulatory frameworks for access to taxpayer 
+and other data;38 (d) preparation of quarterly and annual revenue performance reports by FGS and FMSs, which 
+are annually consolidated by the FGS and disclosed online; (e) review of FMSs tax laws; (f) FGS and FMSs dialogue 
+and consensus-building on alignment and harmonization of tax policy; (g) implementation of the Medium-Term 
+Revenue Strategy (MTRS) and Transition Plan (2022-2026) that the FGS, PSS, and JSS are preparing; and (h) 
+recording of tax expenditures to prepare annual reports for submission to their respective legislatures along with 
+annual budget documents. The customs-related support will build on the reforms supported by the CRATES 
+Project. This subcomponent will also integrate climate adaptation and climate risk mitigation activities, such as 
+the assessment and disclosure of tax expenditures with adverse environmental impacts.  
+ 
+59. 
+For SL, this subcomponent includes: (a) strengthening the TPU, which is at a preliminary stage of 
+development; (b) supporting the TPU to conduct a problem-driven analysis and reform of tax instruments; (c) 
+drafting regulations or guidance notes for the new laws; (d) preparing quarterly and annual revenue performance 
+reports and disclosing them online; (e) recording tax expenditures to prepare annual reports for submission to the 
+legislature along with the annual budget documents; and (f) supporting and implementing the Somaliland National 
+Tax Policy (2021-2025) .39 These activities will include the preparation of achievable revenue-raising strategies and 
+ 
+37 The FGS project support may include support to the Benadir Region. 
+38 The WBG SCALED-UP project aims to support the creation of a comprehensive environment: a policy and legislative framework and the 
+establishment of a competent and well governed digital ID authority. The Somali authorities have drafted a digital ID policy framework 
+which includes key features of technical and data protection approaches. SERP activities can benefit from the ongoing SCALED-UP project 
+support to inform the related DRM activities. 
+39 Republic of Somaliland, Somaliland National Tax Policy (2021-2025), Ministry of Finance (October 2020), Macro-economic and Statistics 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 25 of 90  
+     
+ 
+targets in support of the medium-term budget framework. 
+ 
+Subcomponent 2.2: Improve and harmonize inland revenue and selected customs administration systems and 
+capacity (US$24.50 million: FGS & FMSs US$18.25 million; SL US$6.25 million) 
+ 
+60. 
+This subcomponent will strengthen tax administration systems and capacity in the FGS, FMSs, and SL 
+and contribute to harmonizing tax administration in FGS and FMSs. To this end, this subcomponent will finance 
+activities for: 
+  
+(a)  Modernization and Automation. Activities for FGS, FMSs, and SL include (i) development and 
+implementation of a ‘fit for purpose’ ITAS in SL, FGS, PSS, and JSS by building on the support provided by 
+the DRM & PFM Project and the PROFR project in SL. The ITAS will be interfaced with the FMIS of the 
+respective state, such as the Somalia Financial Management Information System (SFMIS), FMSs BISAN 
+system40 or the Somaliland Financial Management Information System (SL-FMIS); (ii) procurement of 
+necessary ICT equipment and infrastructure; and (iii) development and implementation of ICT strategies 
+and training to facilitate the adoption of the ITAS by both staff and taxpayers. In addition, existing business 
+processes will be reviewed, and a needs assessment will be carried out to develop and implement more 
+efficient and harmonized systems and processes in GSS, SWSS, and HSS. 
+ 
+(b) Capacity Building and Scholarships. Activities, which will include extensive training, are as follows: 
+ 
+(i) For FGS and FMSs, this subcomponent will finance capacity building activities, including: (a) 
+implementation of a high integrity harmonized taxpayer identification number (TIN) structure; (b) 
+designing and carrying out registration campaigns; (c) implementation and harmonization of a 
+taxpayer segmentation strategy in JSS, GSS, SWSS, and HSS; (d) review of the Large Taxpayer Office 
+(LTO) reforms in the FGS and PSS; (e) implementation of the medium-term training plans, which have 
+been developed by the FGS and PSS (these training plans will also feed into the development and 
+implementation of training plans by JSS, GSS, SWSS, and HSS;41 (f) expansion of the DRM Training 
+Course piloted in PSS to the FGS and FMSs; (g) design of scholarships for targeted undergraduate and 
+master’s level education; (h) technical assistance for the Somalia Revenue Academy in Mogadishu to 
+set up local units in the FMSs and harmonize countrywide training; and (i) development of a 
+consensus-based DRM HRM strategy for the FGS and FMSs, along with an optimal organizational 
+structure and staffing.  
+ 
+(ii) For SL, this subcomponent will finance capacity building activities including: (a) a training needs 
+assessment; (b) development and implementation of a medium-term training plan; (c) initiation of a 
+scholarship program; (d) a requirement for DRM officials to complete the DRM Training Course; (e) a 
+plan for instituting a Revenue Academy; (f) strengthening of the LTO, including its re-tooling, people 
+capacity, and organizational structure, building on the support provided by the PROFR Project, which  
+closed in March 2022; and (g) planning for the  Somaliland Revenue Authority. 
+ 
+ 
+Department.  
+40 The FMIS purchased from Bisan Systems Ltd and used for FMSs is called is called BISAN. 
+41 Informed by the Somalia Tax Administration Organizational Structures and Staffing Review (2021) supported by SCSP funded by Norad 
+through the Global Tax Program. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 26 of 90  
+     
+ 
+(iii)  For FGS, FMSs, and SL, this subcomponent will finance scholarships. A Civil Servants Scholarship 
+Program for targeted undergraduate and master’s level education, will be designed and financed 
+under the project. Gender based criteria will be used in the selection process and more details will be 
+provided in the project operations manual.  
+ 
+(c) Taxpayer Education and Facilitation. Activities will focus on communication and training. 
+   
+(i) For FGS and FMSs, this subcomponent will finance: (a) development and implementation of a 
+taxpayer42 orientation and communication program, including expansion of the DRM Training Course 
+to a broader audience; (b) proactive disclosure of revenue performance and forecasting reports; (c) 
+holding of tax forums; (d) taxpayer perception surveys; and (e) development of FGS and FMSs 
+consensus-based communication strategies for taxpayer engagement, including compliance-related 
+knowledge and skills, and development of the related training curriculum as well as taxpayers’ access 
+to information about turning revenue into public services. 
+ 
+(ii) For SL, this subcomponent will finance: (a) the same activities as at (a), (b), and (c) above; (b) 
+development of communication strategies for taxpayer engagement as well as taxpayers’ access to 
+information about turning revenue into public services; (c) monitoring of compliance with the 
+taxpayer service charter; (d) taxpayer perception surveys; and (e) monitoring of facilitation and 
+grievance redressal help desk services. 
+ 
+Component 3: Public Sector Management (US$14.50 million: FGS & FMSs US$12.50 million; SL US$2 million) 
+ 
+61. 
+The objective of this component is to support the enhancement of systems, staff skills, and 
+effectiveness of civil service management to improve government capacity to deliver services to citizens. The 
+component contributes to Pillar 443 of the GCRF, supporting central institutional strengthening and capacity 
+building. It closely aligns with the NPASRF for the FGS and FMSs, builds on the foundational reforms, and 
+complements ongoing reforms. Areas of alignment between the project and NPASRF that aim to address the 
+sectoral challenges include the: (a) operationalization and integration of HRMIS; (b) implementation of civil service 
+laws, regulations, and policies, including those related to P&G and pensions, and reviewing these laws for any 
+gaps; (c) improvement of strategic staffing; and (d) development of a civil servant pipeline as well as training and 
+professional development for existing staff. In SL, CSSP II will address many of these challenges, and SERP will 
+complement those efforts by focusing on the expansion of key government administrative services to local 
+governments in Somaliland. Prioritization will be based on the needs of each State and informed by the status of 
+current reforms as well as lessons learned and progress made under the CIP (which supports the FGS and PSS), 
+the FCDO and EU-funded PREMIS Project, the Somaliland CSSP I and II, and other DP-funded programs.  
+ 
+Subcomponent 3.1: Strengthening the capacity of central and line MDAs (US$7 million: FGS & FMSs US$5.20 
+million; SL US$1.80 million) 
+ 
+62. 
+This subcomponent aims to strengthen central MDAs in FGS and FMSs and central and line MDAs in SL 
+to enable them to deliver on their mandates. This will be achieved through the following:  
+ 
+ 
+42 Informed by the Somalia Customs Compliance Study (2021) supported by SCSP ASA funded by Norad through the Global Tax Program. 
+43 Strengthening Policies, Institutions and Investments for Rebuilding Better. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 27 of 90  
+     
+ 
+(a) Strategic staffing and capacity development of central MDAs. The subcomponent will determine the 
+minimum and critical staffing needs of the MDAs, including for PFM, procurement, DRM, HRM, policy, 
+M&E, and IT, while taking into account the wage bill and fiscal sustainability implications of staffing 
+decisions. Staffing levels and the skills mix in MDAs will be reviewed in relation to the potential for the 
+redeployment of staff and filling of critical positions. The recruitment and redeployment processes will be 
+meritocratic and will be done through tiered screening and based on existing State procedures, and 
+salaries shall be informed by their respective P&G structure. Recruitment and redeployment will also be 
+used to promote female representation44 in the civil service as meritocratic processes mitigate the impact 
+of cultural, clan, and political barriers that typically hinder female applicants. As regards capacity 
+development, the capacity of the governments of all jurisdictions will be assessed and strengthened to 
+enable them to develop, review and analyze, monitor, and coordinate policies. This will entail (i) 
+strengthening the capacity of the SL Ministry of Planning to monitor government projects through an M&E 
+system, and (ii) designing and developing a Cabinet Management Information System for FGS and SL. 
+Implementation of capacity development plans and other priorities will be underpinned by assessments 
+and strengthened institutional mandates and legal and policy frameworks. Coverage will include the Civil 
+Service Commissions, Ministries of Labour, Ministries of Planning, and Offices of the President. The 
+procurement of IT equipment, furniture, and vehicles for the new FMSs, central MDAs in the FMSs, and 
+the construction of buildings to host offices and IT labs for their Civil Service Commissions will also be part 
+of this subcomponent.   
+ 
+(b) Improving delivery of selected priority government online administrative services by line MDAs.45 The 
+subcomponent aims to improve access to such services in at least three of SL’s regions – through citizen 
+access points, while also enhancing timeliness and accountability. The pilot access points will be created 
+using existing infrastructure and office space to provide universal access to selected Government to 
+Business (G2B) and Government to Citizen (G2C) services.46  These centers will provide a bridge from 
+offline to online service delivery, and enable access to services to those without connectivity, devices, 
+digital literacy, or who prefer face-to-face interaction. Support will focus on designing and piloting an 
+operational model of decentralized service delivery. Support will include: a feasibility study and technical 
+assistance on an operational and costing model, service passports to provide information on available 
+services, delivery charters and service standards for accountability, and citizen feedback mechanisms on 
+the quality of services, which will then be used to improve service provision, with a specific focus on the 
+experience of female users. M&E systems will be developed to track and report on local governments’ 
+performance, service access, and service quality. Additional activities may include communication and 
+outreach to inform the public of the new service centers and the available services to support uptake and 
+use. 
+ 
+(c) Improving the quality of civil servants. Developing a cadre of high-quality staff in government is critical 
+for the states to deliver on their programs. This subcomponent will therefore identify the recipients of 
+training, provide continuous training through blended delivery models, establish a framework for 
+investing in a pipeline of civil servants, and strengthen peer-to-peer learning approaches. It will support:  
+ 
+(i) Strengthening of core training by conducting a training needs assessment that will inform 
+ 
+44 Targets for ensuring women are given equal opportunities to serve in the civil service will also be set and monitored. 
+45 These will be outlined in the project operations manual. 
+46 For example, licenses, registration of properties, issuance of certificates, etc. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 28 of 90  
+     
+ 
+development of an HR and capacity development/training strategy, which will cover: (a) routine 
+training modules along with medium- and long-term approaches, and (b) existing government 
+schools (SOMPA-FGS47 and IPAM-PSS48), expansion of their programs to FMSs, and use of 
+computer lab facilities to allow for continuous eLearning and web-based training. To help 
+address the skills gap between men and women, trainings and related opportunities arranged 
+through the project will ensure a gender balance by ensuring that, at the point of enrollment, 
+women and men are given equal opportunity.49 To support equal access for men and women, 
+training will be conducted during office hours and in the office whenever possible.  
+ 
+(ii) Building/investing in a pipeline of future civil servants in selected functions. This will involve 
+the development of an internship program for the FGS and FMSs.   
+ 
+(d) Strengthening coordination across FGS and FMSs. This will be undertaken through the establishment and 
+operationalization of public service reform committees50 within each FMS, supporting the establishment 
+and operationalization of an intergovernmental public service reform committee51 that integrates the FGS 
+and FMS intergovernmental public service reform committees, and enhancing coordination of civil service 
+commission activities across FGS and FMSs by supporting consultations of the intergovernmental forum 
+for civil service commissions.52 
+ 
+Subcomponent 3.2: Implement Civil Service Management Systems and Policies, Pay and Grading, and Pension 
+(US$7.50 million: FGS & FMSs US$7.30 million; SL US$0.20 million)  
+63. 
+This subcomponent will support the implementation of the following systems and policies, the 
+foundations of which have been supported under the Somalia CIP, the SL CSSP I and II, and the FCDO- and EU- 
+funded PREMIS PFM project. 
+ 
+(a) HRMIS. The procurement and implementation of the HRMIS for FGS and PSS will be supported under this 
+subcomponent.  The HRMIS53 in GSS, HSS, JSS, and SWSS will be upgraded, building on the progress already 
+made. The project will support a rapid assessment of the existing HRMIS and related action plan to identify 
+areas that need improvement.  Across the FGS and FMSs, the HRMIS will be interfaced with the pension 
+systems.54 Support will be provided for SL, drawing from ongoing support under SL CSSP II for continuous 
+payroll cleaning. HRMIS users in all jurisdictions will receive continuous training. The capacity of these 
+systems will be enhanced to support automatic enforcement of HRM procedural requirements, capture 
+evidence on how well HRM practices are complying with legal and regulatory requirements, as well as 
+how they are furthering core HRM objectives. 
+ 
+(b) HRM Policies and Regulations. The subcomponent will support: (i) assessment of the performance and 
+ 
+47 School of Management and Public Administration. 
+48 Institute of Public Administration and Management. 
+49 50 percent of seats will be reserved for women, and once there is no more interest, the seats will be open to anyone. 
+50 comprising all agencies implementing the public sector management component of the project. 
+51 comprising all agencies implementing the public sector management component of the project in FGS and each FMS. 
+52 comprising all civil service commissions of FGS and the FMSs. 
+53 Including modules for employee records, leave and attendance management, biometric attendance, recruitment, payroll, performance 
+appraisal, report generation. 
+54The HRMIS used by the four south-central FMS is called BISAN.  
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 29 of 90  
+     
+ 
+application of existing civil service management policies, regulations, procedures, and guidelines in all 
+jurisdictions in the Somali peninsula; (ii) implementation of the improvements identified; and (iii) 
+harmonization of civil service management procedures across FGS and FMSs.  
+ 
+(c) Pay and Grading. The subcomponent will also support the implementation of P&G systems already being 
+established in the FGS and PSS through the Somalia CIP, while ensuring that P&G reforms are fiscally 
+sustainable across all jurisdictions and provide civil servants with a clear career path with the promise of 
+career and income growth. The new P&G system in the FGS and PSS is expected to correct cases of 
+misclassified staff, i.e., staff assigned grades that are inconsistent with the responsibilities of their job. The 
+project will also design a similar P&G methodology for the FGS and FMSs and develop a P&G policy to 
+guide future reviews in the FMS. The project will support the governments in conducting P&G-related 
+awareness-raising and communication activities, and completing a comparative salary survey that will 
+require public/private comparative salary surveys in each FMSs, so that positions in the private and public 
+sectors can be matched.  
+ 
+(d) Pension. This subcomponent will support the development and operationalization of government pension 
+systems.  
+ 
+(i) The development of a policy and legal framework for pensions in GSS, HSS, JSS, and SWSS. This 
+will include: (a) an initial actuarial analysis to inform the Pension Policy; and (b) TA to develop the 
+Pension Policy and associated legislation. The subcomponent will also support the development of 
+governance and administrative framework options, including the design and budget requirements for 
+pensions in these FMSs. The project will allow flexibility to support implementation of the Pension 
+Policy of FMSs. 
+ 
+(ii) The FGS and PSS will be supported in the operationalization of their pension systems. Their 
+operationalization is outlined in the Pension Policy and Laws, which were developed under the 
+Somalia CIP. The World Bank has supported FGS and PSS in developing pension policies and 
+developing/amending pension legislation. These are structured around the “pay as you go” pension 
+system, which is the least expensive and best suited for Somalia. The project will entail establishing 
+the institutional and governance structures required to implement the pension systems; 
+implementing communications strategies; setting up payment systems; designing and procuring the 
+pension MIS (business processes and system software); linking these to other systems such as the 
+HRMIS, FMIS, and National ID systems; and training implementers and system users. The civil service 
+laws will also be revised to reflect the provisions of the new pension laws. The release of civil servants 
+who have attained retirement age will create fiscal space in the wage bill and enable fresh talent to 
+join the civil service at entry pay levels.  
+ 
+Component 4: Integrated Governance Support (US$4 million: FGS & FMSs US$3.08 million SL US$0.92 million) 
+ 
+64. 
+A joint approach across the different aspects of public resource management is necessary to achieve 
+the objectives of improved information sharing, harmonized reporting, and more sustainable reforms. This 
+component outlines the way in which PFM, DRM and PSM come together to support financial governance reforms 
+and change management to guide the process. The component contributes to Pillar 455 of the GCRF, supporting 
+ 
+55 Strengthening Policies, Institutions and Investments for Rebuilding Better. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 30 of 90  
+     
+ 
+institutional strengthening and capacity building.   
+ 
+Subcomponent 4.1: Interconnectivity of public finance and HR systems (US$1.40 million: FGS & FMSs US$1.20 
+million; SL US$0.20 million) 
+  
+65. 
+This subcomponent will support improvements in the vertical interconnectivity and interoperability of 
+existing and new systems in FGS and FMSs, and the horizontal interoperability between the FMIS, DRM, HRMIS, 
+and pensions system in FGS, FMSs, and SL. It will establish platforms to securely exchange solutions; and build 
+related capacity to ensure the sustainability of the interoperability framework and the interconnectivity of 
+systems. 
+   
+Subcomponent 4.2: Human resource management in PFM and DRM (US$1.90 million: FGS & FMSs US$1.48 
+million; SL US$0.42 million)  
+ 
+66. 
+This subcomponent will provide the broader structural reforms necessary to support the 
+professionalization of PFM and DRM included in Components 1 and 2, for FGS, FMSs, and SL. It will entail support 
+for (a) structured capacity building that is underpinned by functional reviews to establish suitable positions and 
+organizational structures in PFM and DRM, (b) the development of competency frameworks that harmonize 
+across the FGS and FMSs, and (c) a skills gap analysis performed against the required competences. The 
+subcomponent will also support job evaluations and development of job descriptions for PFM and DRM staff. This 
+will help set uniform structures of pay levels for PFM and DRM staff. Female participation in capacity building will 
+be a critical area and will be monitored closely. Moreover, for sustainability, in-country training institutions will 
+be strengthened.  
+ 
+Subcomponent 4.3: Change management to support DRM and PFM systems and civil service reform (US$0.70 
+million; FGS & FMSs US$0.40 million; SL US$0.30 million)    
+ 
+67. 
+This subcomponent will facilitate the transitions being supported in the project. It entails the 
+development and implementation of a change management strategy to establish a shared vision and priorities 
+among key stakeholders, garner their ownership for reform, and help leaders/managers in key MDAs to recognize 
+and effectively and timely respond to implementation challenges. The strategy will identify the reforms to be 
+addressed and include an assessment of existing power dynamics, the readiness for change, and the commitment 
+of leadership. It will also identify vested interests, reasons for their reluctance to change, and mitigation measures. 
+Finally, to address the issues identified, a communications strategy and related action plan will be developed and 
+implemented. To complement this work, advisory support will be provided to selected leaders in impacted MDAs 
+to help them implement the reforms. 
+ 
+Component 5: Project Management, Coordination, and Support in Delivery (US$8 million: FGS & FMSs US$6 
+million; SL US$2 million) 
+ 
+68. 
+This component will support the management, coordination, and M&E of project activities. It will also 
+support innovative approaches for mobilizing teams to help with the implementation and delivery of project 
+activities under Components 1 to 3. The component contributes to Pillar 456 of the GCRF, supporting institutional 
+strengthening and capacity building. The component will fund the following subcomponents:  
+ 
+56 Strengthening Policies, Institutions and Investments for Rebuilding Better. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 31 of 90  
+     
+ 
+ 
+Subcomponent 5.1. Project management (US$7 million: FGS & FMSs US$5.30 million; SL US$1.70 million)   
+ 
+69. 
+This subcomponent will support project coordination at FGS, FMSs, and SL. It will provide (a) overall 
+coordination for the project; and (b) support services to implementing agencies in procurement, financial 
+management, etc. Project management staff salaries, allowances, training, and basic facilities for managing the 
+project will be funded under the project.  
+ 
+Subcomponent 5.2. Results Monitoring and Impact Evaluation (US$1 million: FGS & FMSs US$0.70 million; SL 
+US$0.30 million)  
+ 
+70. 
+This subcomponent will support results monitoring in FGS, FMSs, and SL through (a) capacity 
+development for regular M&E at different implementation levels of the project, including writing and 
+disseminating reports on implementation progress; (b) an  M&E consultant for verification of results, qualitative 
+assessment of progress, and improvement of government capacity on M&E; and (c) a rigorous independent impact 
+evaluation of capacity improvement interventions at both the institutional and employee levels, to determine 
+changes to work performance and improvement of capacities/skills outcomes.  
+ 
+C. Project Beneficiaries 
+ 
+71. 
+The improved management of public and human resources derived from the project will have a positive 
+impact on the overall population of Somalia. While the primary beneficiaries will be the government, civil 
+servants, and system users of the implementing MDAs in FGS, FMSs, and SL, the citizens will also benefit from the 
+project. The government and system users in the MDAs will benefit from the harmonization and improvement of 
+PFM, DRM, HRM systems and structures across FGS, FMSs, and SL for better management of public resources and 
+administration. The capacity strengthening of employees of selected MDAs will minimize over-reliance on outside 
+experts as sources of knowledge and thus reduce costs. In the long term, the strengthened confidence, skills, 
+knowledge, and resources from capacity building will foster a sense of ownership and empowerment to civil 
+servants for greater control over their own future development and growth. In addition to the main beneficiaries, 
+the citizens will benefit from more accessible government administrative services, greater government 
+responsiveness facilitated through the citizen engagement interventions and empowerment, and, on a broader 
+scale, improved public administration in the respective jurisdictions. As a result of the intended improvements in 
+planning, budgeting, and cash flow in the health and education sectors, citizens will enjoy better delivery of health 
+and education services. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 32 of 90  
+     
+ 
+ 
+D. Results Chain 
+ 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 33 of 90  
+     
+ 
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+ 
+72. 
+Due to its singular experience in working on a comprehensive approach to governance reforms across 
+FGS, FMSs, and SL, the World Bank is well positioned to help build a cycle of enhanced state capability. First, 
+the World Bank has supported reforms in PFM, DRM, and PSM across the FGS, FMSs, and SL. In 2022, these 
+projects will end along with the FCDO and EU funded PREMIS project, though PREMIS will be renewed in a more 
+limited form. Thus, without the World Bank’s continued engagement through SERP, a gap would arise, and an 
+opportunity would be lost to consolidate and build on the reforms put in place through those interventions. 
+Second, SERP addresses synergies and interlinkages between PFM, DRM, and PSM, areas in which the World Bank 
+has extensive international experience. Lastly, by covering the whole of Somalia, SERP will be able to support the 
+government on a harmonized agenda, which is much needed for fiscal transparency as fiscal decentralization 
+becomes established.  
+ 
+73. 
+SERP will work in conjunction with other partners on specific activities. Under Component 1, SERP will 
+work in close collaboration with the project that succeeds PREMIS in 2022, and Component 2 will work closely 
+with the FCDO follow-on projects to CRATES in Somalia and PROFR in SL, which has taken the lead on customs 
+reforms. Such support will respond to investment gap-filling, if any, and provide technical advisory support for 
+DRM intergovernmental coordination and harmonization, building further on the collaboration developed by the 
+DRM & PFM project and the SCSP ASA. More broadly, SERP complements the IMF’s Extended Credit Facility and 
+Extended Fund Facility for Somalia. The program aims to mobilize domestic revenue and deepen and broaden 
+ongoing PFM reforms. 
+ 
+74. 
+The Somalia Multi Partner Fund (SMPF 2)57 will play a key role in this project in numerous fronts.  SMPF 
+will provide recipient executed funding worth US$ 15 million to supplement the IDA grant and support all activities 
+across the project. Additionally, the SMPF will provide implementation support funding to enable close 
+engagement of the World Bank task team with the implementing agencies of the project. Moreover, the World 
+Bank executed fiduciary strengthening activities across the World Bank portfolio, supported by the SMPF, will 
+directly strengthen the fiduciary quality of this project.  
+ 
+F. Lessons Learned and Reflected in the Project Design 
+75. 
+The Troika58 of World Bank governance-focused projects has demonstrated the value of an integrated 
+approach to strengthening core government institutions. It has provided a platform to address the multi-faceted 
+governance challenges in Somalia in a holistic manner. It has allowed for an integrated and interdependent set of 
+governance solutions and incentives to be implemented successfully to strengthen the governments’ core 
+institutions. The Troika has also highlighted the importance of adopting approaches that are: (i) innovative; (ii) 
+flexible; (iii) balanced with regard to short-, medium- and long-term priorities; and (iv) cost-effective especially 
+when engaging with multiple implementing agencies. While each of the three separate projects achieved their 
+immediate aims, the need to establish a coordinated and consistent approach to reforms became increasingly 
+ 
+57 https://www.worldbank.org/en/country/somalia/brief/the-somalia-multi-partner-fund-mpf 
+58 The Troika of governance-focused projects includes: (i) the Capacity Injection Project (CIP) (P149971) with the objective of strengthening 
+the staffing and institutional capacity of selected line ministries and central agencies; (ii) the Recurrent Cost and Reform Financing Project 
+(P154875), aimed at providing a credible and sustainable payroll and establishing the foundation for efficient budget execution and 
+payment systems for the non-security sectors; and (iii) the DRM & PFM Capacity Strengthening Project (P151492), which focuses on 
+improving the institutional capacity of central finance agencies. 
+ 
+The World Bank 
+ 
+Somalia Enhancing Public Resource Management Project (P177298) 
+ 
+ 
+ 
+ 
+Page 34 of 90  
+     
+ 
+clear during implementation, as also confirmed by the Multi Partner Fund midterm review. It is important to 
+acknowledge that PFM, DRM, and PSM are closely interrelated and consequently dependent on each other for 
+success, as shown in figure 5.  
+ 
+Figure 5: Interlinkages and related benefits from bringing together PFM, DRM, and PSM 
+ 
+ 
+76. 
+The Somalia 

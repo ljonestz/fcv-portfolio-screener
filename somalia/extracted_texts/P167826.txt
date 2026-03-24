@@ -1,0 +1,2241 @@
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD3104  
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED PRE-ARREARS CLEARANCE GRANT 
+IN THE AMOUNT OF SDR 30.4 MILLION 
+(US$42.0 MILLION EQUIVALENT) 
+TO THE 
+FEDERAL REPUBLIC OF SOMALIA  
+FOR THE 
+WATER FOR AGRO-PASTORAL PRODUCTIVITY AND RESILIENCE 
+OR THE “BIYOOLE” PROJECT 
+ 
+June 4, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+Water Global Practice 
+Africa Region 
+ 
+ 
+ 
+   
+This document is being made publicly available prior to Board consideration. This does not imply a presumed 
+outcome. This document may be updated following Board consideration and the updated document will be made 
+publicly available in accordance with the Bank’s Policy: Access to Information. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+ 
+ 
+CURRENCY EQUIVALENTS  
+(Exchange Rate Effective April 30, 2019) 
+ 
+Currency Unit =  Somali Shilling (SSHh) 
+SSHh 578 = US$1 
+SDR 0.7262568 = 
+US$1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AMISOM 
+African Union Mission in Somalia 
+BRCiS 
+Building Resilient Communities in Somalia 
+CDP 
+Community Development Plan 
+CERC 
+Contingency Emergency Response Component 
+CERIP 
+Contingent Emergency Response Implementation Plan 
+CMU  
+Country Management Unit 
+CPF 
+Country Partnership Framework 
+CQS 
+Selection Based on the Consultants’ Qualification 
+DA 
+Designated Account 
+DALY 
+Disability-adjusted Life Year 
+EAFS 
+External Assistance Fiduciary Section 
+EIA 
+Environmental Impact Assessment 
+EIRR 
+Economic Internal Rate of Return 
+EMP 
+Environmental Management Plan 
+ESMF 
+Environmental and Social Management Framework 
+FAO 
+Food and Agriculture Organization of the United Nations 
+FCV 
+Fragility, Conflict, and Violence 
+FRS 
+Federal Republic of Somalia 
+FM 
+Financial Management 
+FMIS 
+Financial Management Information System 
+FMS 
+Federal Member States 
+FSNAU 
+Food Security and Nutrition Analysis Unit 
+GBV 
+Gender-based Violence 
+GDP 
+Gross Domestic Product 
+GHG 
+Greenhouse Gas 
+GIS 
+Geographic Information System 
+GRM 
+Grievance Redress Mechanism 
+GRS 
+Grievance Redress Service 
+IDP 
+Internally Displaced Person 
+IFC 
+International Finance Corporation 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+ 
+ 
+IFI 
+International Finance Institution 
+INGO 
+International Nongovernmental Organization 
+IPF 
+Investment Project Financing 
+IPSAS 
+International Public Sector Accounting Standards 
+IRM 
+Immediate Response Mechanism 
+ISA 
+International Standards of Auditing 
+LIPW 
+Labor-intensive Public Works 
+MIS 
+Management Information System 
+MoF 
+Ministry of Finance 
+MoPIED 
+Ministry of Planning Investment and Economic Development 
+MPF 
+Multi-partner Fund 
+MTR 
+Midterm Review 
+NDP 
+National Development Plan 
+NGO 
+Nongovernmental Organization 
+NPV 
+Net Present Value 
+OHS 
+Occupational Health and Safety 
+OPM 
+Office of the Prime Minister 
+PA 
+Project Account 
+PDO 
+Project Development Objective 
+PFM 
+Public Finance Management 
+PIU 
+Project Implementation Unit 
+PLFMIS 
+Puntland Financial Management Information System 
+PP 
+Procurement Plan 
+PPA 
+Public Procurement, Concessions, and Disposal Act 
+PPSD 
+Project Procurement Strategy for Development 
+QCBS 
+Quality- and Cost-Based Selection 
+RFB 
+Request for Bid 
+RFQ 
+Request for Quotation 
+RPF 
+Resettlement Policy Framework 
+RRF 
+Recovery and Resilience Framework 
+SCD 
+Systematic Country Diagnostic 
+SDR 
+Special Drawing Rights 
+SCoA 
+Standard Charter of Accounts 
+SEA 
+Sexual Exploitation and Abuse 
+SFMIS 
+Somali Financial Management Information System 
+SLFMIS 
+Somaliland Financial Management Information System 
+SoE 
+Statement of Expenditure 
+SomReP 
+Somalia Resilience Program 
+SPD 
+Standard Procurement Document 
+STEP 
+Systematic Tracking of Expenditure in Procurement 
+TTL 
+Task Team Leader 
+UN 
+United Nations 
+UNDB 
+United Nations Development Business 
+UNDP 
+United Nations Development Programme 
+UNICEF 
+United Nations Children’s Fund 
+US$ 
+United States Dollar 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+ 
+ 
+VDC 
+Village Development Committee 
+WALP 
+Water for Agropastoral Livelihoods Pilot Project 
+WAPR 
+Water for Agro-pastoral Productivity and Resilience 
+WET 
+Wadi Evaluation Tool 
+WHO 
+World Health Organization 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Bella Bird 
+Senior Global Practice Director: Jennifer J. Sara 
+Practice Manager: Catherine Signe Tovey 
+Task Team Leaders: Tesfaye Bekalu Wondem, Stephen D'Alessandro 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+TABLE OF CONTENTS 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 6 
+A. 
+Country Context ............................................................................................................................ 6 
+B. 
+Sectoral and Institutional Context ................................................................................................ 8 
+C. 
+Relevance to Higher Level Objectives ......................................................................................... 11 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 15 
+A. 
+Project Development Objectives ................................................................................................ 15 
+B. 
+Project Components ................................................................................................................... 15 
+C. 
+Project Cost and Financing .......................................................................................................... 20 
+D. 
+Direct Project Beneficiaries ......................................................................................................... 22 
+E. 
+Results Chain ............................................................................................................................... 23 
+F. 
+Lessons Learned and Reflected in the Project Design ................................................................ 24 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 26 
+A. 
+Institutional and Implementation Arrangements ....................................................................... 26 
+B. 
+Results Monitoring and Evaluation Arrangements ..................................................................... 28 
+C. 
+Sustainability ............................................................................................................................... 29 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 29 
+A. 
+Economic and Financial Analysis ................................................................................................. 29 
+B. 
+Technical ..................................................................................................................................... 30 
+Greenhouse Gas Accounting .............................................................................................................. 30 
+Financial Management ....................................................................................................................... 30 
+C. 
+Procurement ............................................................................................................................... 31 
+D. 
+Safeguards ................................................................................................................................... 31 
+E. 
+Key Risks ...................................................................................................................................... 35 
+V. RESULTS FRAMEWORK AND MONITORING ................................................................... 40 
+ANNEX 1: Implementation Arrangements and Support Plan .......................................... 46 
+ANNEX 2. Economic and Financial Analysis .................................................................... 75 
+ANNEX 3. MAP .............................................................................................................. 79 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+  
+Page 1 of 79 
+ 
+  
+   
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia - Water for Agro-pastoral Productivity and Resilience 
+Project ID 
+Financing Instrument 
+Environmental Assessment Category 
+P167826 
+Investment Project 
+Financing 
+B-Partial Assessment 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[✓] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[  ] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+25-Jun-2019 
+28-Feb-2023 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+Develop water and agricultural services among agro-pastoralist communities in dryland areas of Somalia. 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 2 of 79 
+ 
+Component 1: Support the Development of Multiple Use Water Sources  
+  15.00 
+ 
+Component 2. Institutional and Capacity Development  
+   6.00 
+ 
+Component 3: Supporting Sustainable Land Management and Livelihoods 
+Development Around Water Points  
+   9.50 
+ 
+Component 4: Project Management, M & E, Knowledge Management and Learning  
+   9.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of Somalia  
+Implementing Agency: 
+ Participating States and Somaliland  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+42.00 
+Total Financing 
+42.00 
+of which IBRD/IDA  
+42.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+42.00 
+          IDA Grant 
+42.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+ National PBA 
+   0.00 
+  42.00 
+   0.00 
+  42.00 
+Total 
+   0.00 
+  42.00 
+   0.00 
+  42.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+2019 
+2020 
+2021 
+2022 
+2023 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 3 of 79 
+ 
+Annual 
+ 
+ 
+ 
+ 
+ 
+   0.83 
+   6.90 
+   9.92 
+  13.72 
+  10.63 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+   0.83 
+   7.73 
+  17.65 
+  31.37 
+  42.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Water 
+Agriculture, Fragile, Conflict & Violence 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+Gender Tag 
+Does the project plan to undertake any of the following? 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of 
+country gaps identified through SCD and CPF 
+Yes 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or 
+men's empowerment 
+Yes 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+Yes 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Substantial 
+4. Technical Design of Project or Program 
+⚫ High 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ High 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ Substantial 
+8. Stakeholders 
+⚫ Substantial 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 4 of 79 
+ 
+9. Other 
+⚫ Substantial 
+10. Overall 
+⚫ High 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+✔ 
+   
+Performance Standards for Private Sector Activities OP/BP 4.03 
+  
+✔  
+Natural Habitats OP/BP 4.04 
+✔ 
+   
+Forests OP/BP 4.36 
+  
+✔  
+Pest Management OP 4.09 
+✔ 
+   
+Physical Cultural Resources OP/BP 4.11 
+✔ 
+   
+Indigenous Peoples OP/BP 4.10 
+  
+✔  
+Involuntary Resettlement OP/BP 4.12 
+✔ 
+   
+Safety of Dams OP/BP 4.37 
+✔ 
+   
+Projects on International Waterways OP/BP 7.50 
+✔ 
+   
+Projects in Disputed Areas OP/BP 7.60 
+  
+✔  
+ 
+Legal Covenants 
+  
+ Sections and Description 
+The Recipient shall not later than two (2) months after the Effective Date, establish, and thereafter maintain, 
+throughout the implementation of the Project, an inter-ministerial steering committee (Steering Committee) at the 
+federal level with functions, composition and resources satisfactory to the Association. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 5 of 79 
+ 
+Type 
+Description 
+Effectiveness 
+The Recipient has recruited and/or designated a project coordinator and a monitoring and 
+evaluation specialist to the National Project Coordination Unit, with experience and under 
+terms of reference acceptable to the Association. 
+ 
+Type 
+Description 
+Effectiveness 
+The Recipient has prepared and adopted a project operation manual, in form and substance 
+satisfactory to the Association. 
+ 
+Type 
+Description 
+Effectiveness 
+A Subsidiary Agreement has been executed on behalf of the Recipient and each Participating 
+State and Somaliland in accordance with the provisions of Section I, Part D of Schedule 2 to 
+this Agreement, in form and substance satisfactory to the Association. 
+ 
+Type 
+Description 
+Disbursement 
+the Recipient has determined that an Eligible Crisis or Emergency has occurred, has furnished 
+to the Association a request to include said activities in the CERC Part in order to respond to 
+said Eligible Crisis or Emergency, and the Association has agreed with such determination, 
+accepted said request and notified the Recipient thereof; 
+ 
+Type 
+Description 
+Disbursement 
+the Recipient has prepared and disclosed all safeguards instruments required for said 
+activities, and the Recipient has implemented any actions which are required to be taken 
+under said instruments, all in accordance with the provisions of Section F of Schedule 2 to 
+this Agreement; 
+ 
+Type 
+Description 
+Disbursement 
+the Recipient’s Coordinating Authority has adequate staff and resources, in accordance with 
+the provisions of Section F of this Schedule 2 to this Agreement, for the purposes of said 
+activities; and 
+ 
+Type 
+Description 
+Disbursement 
+the Recipient has adopted a CERC Operations Manual in form, substance and manner 
+acceptable to the Association and the provisions of the CERC Operations Manual remain - or 
+have been updated in accordance with the provisions of Section C of this Schedule 2 so as to 
+be appropriate for the inclusion and implementation of said activities under the CERC Part. 
+ 
+ 
+     [dd
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 6 of 79 
+ 
+I. STRATEGIC CONTEXT 
+A. Country Context 
+1. 
+After more than two decades of insecurity and humanitarian crises, Somalia is establishing the 
+foundations for a new political settlement. An Agreement on a Provisional Constitution in 2011 and the 
+subsequent establishment of a new Federal Republic of Somalia (FRS) opens a new chapter for Somalia’s 
+development and offers hope for a stable future based on a federal model. Since 2011, Al Shabab’s 
+territorial footprint has narrowed and the insurgency has mainly resorted to asymmetric attacks focused 
+on Mogadishu.  
+2. 
+New Federal Member States (FMS) have emerged in the past five years, but the federation 
+process is complex. State formation is both a significant development opportunity and a contentious 
+process. Urban areas in southern Somalia, formerly under Al Shabaab control, are now the capitals of 
+newly formed FMS and responsible for subnational administration, including service delivery. While state 
+formation provides an opportunity for Somalia’s governance and service delivery, it has also opened new 
+uncertainties over representation and power and resource sharing. Meanwhile, Somaliland’s relationship 
+with Somalia remains unresolved. 
+3. 
+Somalia’s economic development challenges are equally daunting, and growth remains 
+insufficient for reducing vulnerability for a large segment of the population. Between 2013 and 2017, 
+Somali real gross domestic product (GDP) is estimated to have grown at an average of 2.5 percent per 
+year while population grew by 2.9 percent per year. The result has been an annual contraction in per 
+capita incomes of 0.4 percent during the same period, leaving GDP per capita at just over US$500. Growth 
+is mainly consumption driven, enabled by large remittance and aid inflows (US$1.4 billion and US$1.75 
+billion respectively in 2017), while construction, telecommunications, and money transfer services have 
+been the key growth sectors. The diaspora remittances enable household consumption at 132 percent of 
+GDP and represent an important component of income for the bottom 40 percent of households. Half of 
+Somalia’s estimated 12 million people live in rural areas, pursuing pastoralist and agro-pastoralist 
+livelihoods. The agriculture sector remains the backbone of the economy and accounts for about 75 
+percent of GDP among the highest in the world. Livestock alone accounts for about 40 percent of the 
+sector’s 79 percent share of export earnings, bringing in over US$500 million a year.  
+4. 
+Somalia is highly vulnerable to natural disasters, having experienced at least 14 drought events 
+since 1960.1 Rural Somalia remains acutely poor and subject to repeated cycles of devastating droughts 
+averaging once in every four years. By February 2017, over 6.2 million Somalis needed humanitarian 
+assistance. While famine was averted, there were nearly 400,000 cases of acute child malnutrition and an 
+additional 1 million people displaced to rapidly expanding urban settlements and camps for internally 
+displaced persons (IDPs). Losses in the livestock sector from the 2016/17 drought were estimated at US$2 
+billion with herd losses reported at between 40 percent and 60 percent. Just as Somalia was recovering 
+from the drought, flooding in the upper Shebelle area during the first half of 2018 displaced over 230,000 
+people and affected over 600,000. Between 2006 and 2018, Somalia experienced five major flood events, 
+affecting hundreds of thousands of people. Now, in 2019, Somalia is entering another crisis, with gu rains 
+failing following abnormally low deyr rains, causing widespread crop failure and accelerated decline in 
+                                            
+1 Masih, I., S. Maskey, F. E. F. Mussá, and P. Trambauer. 2014. “A Review of Droughts on the African Continent: A Geospatial 
+and Long-Term Perspective.” Hydrology and Earth System Science 18: 3635–3649. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 7 of 79 
+ 
+livestock productivity. This is likely to result in the numbers of people in crisis and emergency to climb 
+back up to 2016/7 levels of around 2.2 million – and humanitarian financing is proving harder to mobilize. 
+5. 
+Climate change is further exacerbating the situation, intensifying these droughts and floods. The 
+Center for Global Development places Somalia at the top of the list of 167 countries for overall 
+vulnerability to climate change adjusted for coping capacity.2 In addition to an intensification of droughts 
+and floods, increasing variability of between these two extremes is also expected over the coming 
+decades. Projections of warming across Africa vary from 0.2C per decade to more than 0.5C per decade. In 
+the short term, rainfall is predicted to increase by 7 percent across Eastern Africa. The amount of rainfall 
+is less important to farmers than how closely its timing correlates with the planting season and the 
+geographic distribution of the rain, and both are expected to become more irregular with climate 
+change.3 Moreover, Somalia is projected to experience a nearly 2C increase in maximum daily 
+temperatures, which could stress crop productivity thresholds and endanger livestock. Thus, adaptation 
+measures to address these increasing risks are at the core of this project and are embedded in the 
+technical design of the proposed operation. This project is therefore critical for dampening the impacts of 
+climate change by providing improved access to water and strengthening the adaptive capacity and 
+livelihood resilience of rural communities to restore elements of their landscapes, thereby reducing the 
+frequency and impacts of climate change and extreme weather events. 
+6. 
+Over half of Somalia’s population lives below the international poverty line.4 Somalia’s under-five 
+mortality rate is 137 per 1,000 births. Data on stunting of under-fives is limited with estimates ranging 
+widely from 12 percent to 38 percent.5 Three-quarters of the population are under 30 and access to 
+education is marred by gender inequality. The adult literacy rate is the lowest in the world, especially 
+among women and girls. Primary school enrollment is below 50 percent and less than a tenth of school-
+age children attend secondary school. Somalia’s youth bulge, coupled with high rates of unemployment, 
+is a major challenge. Over two-thirds of urban households have access to basic water services, but only 
+20 percent of rural households do, and less than 10 percent have basic sanitation or hygiene.6 Only about 
+one-fifth of the population has access to electricity. 
+7. 
+The Systematic Country Diagnostic (SCD)7 (Report No. 123807-SO), identified the country’s 
+‘fragility trap’ as two interconnected cycles: a short-term cycle of fiscal governance political turbulence 
+and a longer-term cycle of natural disaster displacement vulnerability. The SCD applied a wealth 
+accounting framework, bringing to light the depletion of assets, particularly natural capital, which creates 
+vulnerability to shocks. The framework first assessed the stocks of various natural capital assets such as 
+land, forests, fish, and minerals; productive assets such as buildings, machinery, infrastructure (highways 
+                                            
+2 The survey ranks countries across four dimensions of climate impact: extreme weather, sea-level Rise, agricultural 
+productivity loss, and overall. Rankings are based on a comprehensive dataset described in a new working paper “Quantifying 
+Vulnerability to Climate Change: Implications for Adaptation Assistance,” by the Center for Global Development (CGD) senior 
+fellow, David Wheeler, and can be accessed at http://www.cgdev.org/page/mapping-impacts-climate-change. 
+3 Stimson. 2011. Climate Change and Famine in Somalia. (https://www.stimson.org/content/climate-change-and-famine-
+somalia) 
+4 Poverty is estimated using the international US$1.90 2011 purchasing power parity (PPP) poverty line.  
+5 Food Security and Nutrition Analysis Unit (FSNAU) report 12 percent post Deyr 2015/16 while the 2006 Multiple Indicator 
+Cluster Survey (MICS) reports 38 percent. 
+6 United Nations Children’s Fund (UNICEF)/World Health Organization (WHO) Joint Monitoring Program 
+https://washdata.org/data#!/som.  
+7 Somalia - Systematic Country Diagnostic; http://documents.worldbank.org/curated/en.  
+ 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 8 of 79 
+ 
+and ports and electricity generation); human assets (population, education, and health); and various 
+forms of intangible capital; and then defined the process of development as one of accumulating a 
+diversified portfolio of national wealth.  
+8. 
+Breaking out of this fragility trap will require the country to sustain the reform and growth of 
+public institutions that can win peoples’ trust through transparency and fair delivery of basic services and 
+that broaden economic opportunities, especially to the young. However, with a tax base of just 2 percent 
+of GDP8 and only a nascent civil service, the reform and growth of public institutions capable of 
+overcoming this fragility trap will need to focus investment across a carefully selected range of public 
+functions that enable, rather than displace private, civic, and community institutions. 
+B. Sectoral and Institutional Context 
+9. 
+Roughly half of the Somali population lives in rural areas and derives their livelihoods from animal 
+herding and crop cultivation. As set out in the 2018 Country Economic Memorandum,9 the livestock and 
+crop subsectors remain critical to economic recovery and long-term development. Despite the challenges 
+of the past three decades, the livestock and crop subsectors remain the main sources of economic activity, 
+employment, and exports. Half of the rural population pursues nomadic pastoralist livelihoods, while the 
+other half pursues agro-pastoral livelihoods comprising a mix of settled crop production and livestock 
+rearing.  
+10. 
+Somalia faces declining agriculture production and a widening gap between food production and 
+consumption, estimated at more than 2 metric tons per hectare. The country’s crop production depends 
+on an increasingly narrow and fragile natural resource base and an arid and semiarid climate that has 
+become drier, more extreme, and more variable in recent decades due to climate change. Widespread 
+environmental degradation, fueled by, among other factors, the breakdown of traditional pastoral and 
+clan-based land management systems, demographic pressures, and the unsustainable exploitation of 
+groundwater, rangelands, and forests, threatens traditional livelihoods systems and the country’s food 
+security. Domestic cereal output, averaging about 265,000 tons a year, has declined nearly 60 percent 
+from its 1989 peak and provides less than one-quarter, on average, of per capita cereal needs. Declining 
+crop production has fueled a large increase in agricultural imports, including food aid, reaching US$1.5 
+billion in 2015, up from US$82 million in the late 1980s. Even before the 2016/17 drought, food aid and 
+food imports were already larger than domestic production of grains.  
+11. 
+Somalia’s livestock sector has rebounded markedly, but considerable downside risks remain. 
+Substantial investments have been made by the diaspora, Saudi-controlled companies, and some donors. 
+They have resulted in impressive export growth and fueled a dramatic expansion in livestock’s relative 
+economic importance. After roughly a tenfold increase in live animal exports in recent decades, the 
+subsector today accounts for an estimated 79 percent of total export earnings and is the largest source of 
+foreign exchange after remittances. In 2015, Somalia exported a record 5.3 million head of livestock to 
+Gulf markets, worth an estimated US$533 million. The 2017 drought in the country had a devastating 
+effect on the livestock subsector; the volume of live animal exports declined by 75 percent, from 5.3 
+million animals in 2015 to 1.3 million in 2017. In addition, production constraints related to nutrition, 
+                                            
+8 Compared to 15 percent to 20 percent of GDP across other low-income countries. 
+9 World Bank, and FAO (Food and Agriculture Organization). 2018. Rebuilding Resilient and Sustainable Agriculture in Somalia: 
+Volume 1 - Main Report (English). http://documents.worldbank.org/curated/en/781281522164647812/pdf/124651-REVISED-
+Somalia-CEM-Agriculture-Report-Main-Report-Revised-July-2018.pdf. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 9 of 79 
+ 
+disease, genetic resources, and poor resource management are compounded by structural and 
+institutional weaknesses that impede value addition and amplify exposure to climate and other shocks. 
+This is best evidenced by an estimated 50 percent drop in live animal exports linked to Saudi Arabia’s 
+import ban during 2017 and US$2 billion in livestock damages and losses during the 2016/17 drought 
+period (due to a combination of lack of water and pasture).10 Recurring export bans due to alleged disease 
+outbreaks not only dampen critical foreign exchange earnings, but also impede sector diversification and 
+growth.  
+12. 
+Revitalizing crop production and making livestock systems more resilient to shocks requires 
+overcoming foundational issues of water and environmental management. Most of Somalia is arid or 
+semiarid with mean annual rainfall of 200–300 mm per year and high inter-annual and spatial rainfall 
+variability. Two permanent rivers, the Shebelle and the Juba, flow from Ethiopia into southern Somalia. 
+Both river basins provide much-needed surface and groundwater for irrigation and to sustain fertile 
+alluvial flood plains covering an area 174,600 km2. Before the Central Government collapsed in 1990, over 
+220,000 ha along the flood plains in the middle and lower reaches of the Juba and Shebelle Rivers, were 
+under either controlled irrigation or flood recession farming. Today, much of the irrigation infrastructure 
+remains in disrepair with only 100,000 ha under cultivation.11  
+13. 
+In many African countries, groundwater sources from boreholes provide water for domestic use, 
+livestock, and irrigation. In Somalia, however, groundwater sources are technically demanding to identify 
+and exploit because aquifers are deep (more than half the boreholes are over 130 m deep with some over 
+400 m) and water within aquifers is often of low quality (salty or hard), which makes it unsuitable as 
+drinking water or for irrigation.12 Costs for drilling and equipping these deep boreholes are high, ranging 
+between US$0.5 million and US$1 million due to a combination of physical, market, and security 
+conditions.13 In 2014, the Food and Agriculture Organization of the United Nations (FAO) mapped 3,700 
+water points across the country. Only 2,200 were functional and perennial under normal non-drought 
+conditions. Of these, only around 500, mainly deep borehole groundwater sources, were improved 
+sources.  
+14. 
+While boreholes can play an important role in ensuring water security for people, they are 
+associated with environmental degradation. The yield of groundwater-fed boreholes is less vulnerable to 
+short-term fluctuation in rainfall than other sources such as berkads, open dams, shallow hand-dug wells, 
+and springs. This makes boreholes an important source of water in times of severe drought especially for 
+humanitarian response and particularly in non-riverine regions of Somalia. However, heightened 
+pressures on pasture around these boreholes during drought events can cause long-term damage to the 
+surrounding rangeland, creating so-called ‘sacrifice zones’. Deep boreholes are also not a good solution 
+for increasing agricultural productivity because their operation and maintenance costs are much higher 
+than from shallow water sources and challenges related to water quality (for example, high salinity).  
+15. 
+Based on recent experience, opportunities exist to enhance rural communities’ access to water 
+across Somalia’s dry lands by deploying low-cost, small-scale water harvesting and storage technologies 
+                                            
+10 Federal Republic of Somalia. 2017. Somalia Drought Impact and Needs Assessment: Synthesis Report. 
+11 The area currently under irrigation is roughly 50–61 percent of what it was prewar. Just before the collapse of the 
+Government, the Somali Ministry of Agriculture estimated that 112,950 ha were under controlled irrigation and 110,000 ha 
+were under flood-recession irrigation for a total irrigated area of 222,950 ha. 
+12 FAO Somalia Water and Land Information Management (SWALIM). http://fmt.faoso.net/imms/fmt/maps/website/227. 
+13 UNICEF Somalia, personal communication.  
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 10 of 79 
+ 
+and without exacerbating conflict (see Box 1). Rivers in northern Somalia, and in areas other than the Juba 
+and Shebelle Valleys, are ephemeral with water flowing for very short periods during the seasonal rains. 
+Following seasonal rains, water infiltrates into shallow aquifers that last for only a few months of the year. 
+Around these shallow aquifers, there is a small but growing horticultural production base selling 
+vegetables to urban areas and improving rural incomes. Pilot projects in Puntland and Somaliland, 
+including the World Bank-financed Water for Agropastoral Livelihoods Pilot Project (WALP, P152024), 
+have demonstrated that water harvesting and storage in these dry lands can be increased through 
+investment in small dams such as sand dams, subsurface dams, and infiltration galleries.14 Sand dams, in 
+particular, are experiencing a renewed interest because of their relative simplicity and their potential in 
+enhancing the resilience of marginal dry-land environments. Studying the impacts of sand dams in Kenya 
+on vegetation biomass, Ryan and Elsner (2016) concluded that sand dams hold strong scope to improve 
+the adaptive capacity of dry lands by helping sustain vegetation biomass during drought periods.15 
+Increased water availability supported by improved vegetation biomass and soil management means 
+better potential to support agricultural activities and food production, and thus increased resilience to 
+climate change and other risks. 
+Box 1. Addressing Conflict Risks and the Needs of Nomadic Pastoralists 
+In Somalia, as elsewhere in the Horn of Africa, localized conflicts between farmers and herders, and between 
+different pastoralist groups, frequently revolve around issues of contested land use, grazing rights, and insecure 
+access to water and pasture. Scarce and under increasing pressure, these resources must be shared with rural 
+farming communities and the needs of growing urban centers. Expansion in recent decades of private enclosures 
+on traditionally open communal rangelands, especially along livestock migration routes, increasingly jeopardizes 
+the mobility of pastoralist communities, thereby weakening their capacity to cope with adverse climate 
+conditions. Existing tensions and conflict risks are amplified during extended dry periods—the frequency and 
+intensity of which have increased in recent decades—when pastoralist livelihoods become particularly 
+precarious. In the absence of provisions to assist pastoralists to safeguard their capital stock during emergencies 
+and otherwise recover from the shock, resulting economic insecurity and deprivation increases the risk of wider 
+violence and social breakdown. Moreover, political and socioeconomic marginalization of pastoralist 
+communities and policies that either neglect or undermine traditional governance and arbitration mechanisms 
+have, over time, weakened resource management and conflict resolution capacities among rural communities.  
+The World Bank is well positioned to support the FRS in delivering services to rural communities in Somalia’s 
+marginalized dry-land areas. The current project design emphasizes a learn-by-doing approach to generate new 
+understanding about (a) the current dynamics of nomadic pastoralist systems in Somalia; (b) the specific needs 
+of pastoral communities, and their relationships with other livelihood groups including landed farming and agro-
+pastoralists communities; (c) reforms of regulations and land tenure rights relating to access to pasture land and 
+water for communities, especially nomadic pastoralists; and (d) mechanisms needed to ensure emergency access 
+for pastoralists to water and pasture and fodder during droughts. These lessons will inform downstream 
+interventions designed to mitigate drivers of vulnerability and conflict, build trust within communities, and 
+strengthen resilience. The project will also look to strengthen participation of pastoralists in consultative and 
+decision-making processes and to support customary approaches and traditional governance systems for 
+managing competition over natural resources and conflict resolution. 
+ 
+                                            
+14 These technologies protect water from high evapotranspiration rates by holding the water in shallow sand aquifers that can 
+be used to supply limited amounts of water for domestic, livestock, and agricultural uses. 
+15 Ryan C., and P. Elsner. 2016. “The Potential for Sand Dams to Increase the Adaptive Capacity of East African Drylands to 
+Climate Change.” Regional Environmental Change 16 (7): 2087–2096. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 11 of 79 
+ 
+ 
+16. 
+Reestablishing a rationalized public sector role in agriculture will help reintegrate markets for 
+private goods with support for public goods and extend the reach of services across the country. Over the 
+past decade, the private sector has moved in to fill service delivery gaps, with increasing diaspora 
+investments16 taking advantage of Somalia’s lack of restrictions on capital transfers and low barriers to 
+market entry. Commercial suppliers are stepping in to market new seed varieties and agrochemicals, while 
+networks of private veterinary associations provide animal health services. This has spurred the regrowth 
+of agricultural knowledge and innovation systems for private goods where there is favorable access to 
+urban markets (for example, for veterinary drugs, improved seeds, and fertilizers). While much aid has 
+also been channeled to public goods and knowledge (for example, climate-smart land management 
+technologies to improve soil, water, and rangelands management) through the United Nations (UN) and 
+civil society organizations to more remote areas, this has largely bypassed nascent public sector 
+institutions. Reintroducing a core public sector role in agricultural innovation systems is essential to 
+helping traditional rural livelihoods recover and become more resilient to climate change.  
+17. 
+Following the February 2017 Presidential election, the FRS is better positioned to coherently 
+address the numerous challenges associated with rural development. Somalia's National Development 
+Plan (NDP), the first in more than 30 years, set out the country's priorities for national recovery and 
+development for 2017–2019. The plan sets ambitious targets for peacebuilding, state building, and the 
+Sustainable Development Goals structured around nine pillars across the humanitarian-development-
+peace continuum. Agricultural development improved natural resource management, and upgrades to 
+infrastructure (water and roads) are top priorities to boost economic growth, help cement peace and 
+security, alleviate poverty and malnutrition, and enhance health and nutrition outcomes in both rural and 
+urban areas. Investment in rural development is also expected to strengthen the resilience of 
+communities against internal and external shocks, such as climate change and conflict. These objectives 
+are also aligned with the recently completed Recovery and Resilience Framework (RRF) developed 
+following the 2016/17 drought.  
+C. Relevance to Higher Level Objectives  
+18. 
+The Country Partnership Framework (CPF, Report No. 124734-SO), was approved by the World 
+Bank’s Board of Executive Directors in September 2018 and covers the period 2019–2022. The CPF is based 
+on the priorities of the current NDP and the priority sector plans such as the Public Financial Management 
+(PFM) Action Plan, the Financial Sector Roadmap, the Education Sector Strategic Plan, the Drought Impact 
+Needs Assessment, and the follow-up RRF. In addition, Somaliland also has a bespoke NDP 2017–2021. 
+The activities selected in the CPF were based on the three filters: (a) building on the World Bank Group 
+comparative advantage in Somalia; (b) addressing conflict drivers; and (c) managing access and security. 
+Investing in water infrastructure, environmental management, and agricultural innovation to diversify and 
+strengthen resilience of dry-land rural communities were specifically integrated into the CPF (Objective 
+2.4) under its second area of focus which aims at restoring economic resilience and opportunities. 
+19. 
+With its debt arrears outstanding, Somalia is ineligible for assistance from IDA and other 
+                                            
+16 A 2014 survey highlighted that more than 50 percent of sector investments by the Somali diaspora were directed to 
+agriculture. See Benson, Jay B., Lindsay L. Heger, Lee C. Sorensen, and Alexandria E. Wise. 2014. Somalia Diaspora Investments 
+Survey Report: Typologies, Drivers, and Recommendations. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 12 of 79 
+ 
+international finance institutions (IFIs) but the World Bank Group’s re-engagement in 2012 funded by the 
+Multi-partner Fund (MPF) has helped stabilize institutions and initiate IFI normalization. With support of 
+eight key donors, the MPF has enabled the World Bank Group to strengthen federal institutions and 
+establish basic economic regulatory foundations. The MPF will remain the core financing vehicle for the 
+CPF but is complemented in FY19 by IDA Pre-Arrears Clearance grants of US$140 million targeting 
+acceleration of Decision Point under the Heavily-Indebted Poor Country (HIPC) Initiative as well as 
+immediate country needs. Provided its reform momentum continues, the Decision Point is feasible within 
+the CPF period, allowing Somalia access to concessional resources from IDA and other IFIs, together with 
+investment of private capital from the International Finance Corporation (IFC). 
+20. 
+The World Bank is a relative newcomer in a crowded development field in Somalia, but brings 
+comparative advantages in supporting institution building, on-budget financing, and in the market/state 
+interface. At present, the World Bank portfolio represents approximately 8 percent of Somalia’s total 
+official development assistance). Other donors including U. K. Department of International Development, 
+European Union, German Agency for International Development (Gesellschaft für Internationale 
+Zusammenarbeit, KfW), Norway, Sweden, and the United States are playing a major role in financing rural 
+community-based resilience either through joint UN programs or directly implemented by 
+nongovernmental organizations (NGOs) or private sector contractors. The protracted humanitarian 
+situation and limited use of country systems has led to a fragmented aid environment, which unless 
+managed, will continue to undermine the capacity of national institutions and state-building initiatives. 
+Relative to the other main actors, the World Bank’s comparative advantage in Somalia has been to 
+strengthen institutions at the national and subnational level, through the establishment of clear norms 
+and standards. The World Bank therefore takes the lead in capacity building of government institutions, 
+mainly focused on the public finance and civil service functions but also extending to regulation in key 
+economic sectors, including financial services, energy, and telecom. By channeling funds through 
+government systems, the World Bank introduces fiduciary, social, and environmental standards in the 
+Government around which new practices and capacities can form. Until now, the World Bank has 
+channeled more than US$100 million through these country systems. The modalities used allow the World 
+Bank to play a strong convening role both for national and international actors. The World Bank finances 
+and supports an annual Aid Flow analysis by the Aid Coordination Unit of the Government, which allows 
+increased visibility on who is doing what and where. The World Bank has also facilitated dialogue between 
+public and private sectors. 
+21. 
+The proposed grant will scale up water delivery in the arid northern regions while incrementally 
+expanding geographically into states in the south of Somalia. This national program of water resource 
+development will build capacity of the nascent FMS and rural communities in the south to plan, deliver, 
+and sustainably manage water infrastructure for improved livelihoods. The menu of water resource 
+development options will be expanded from small dams to include technologies appropriate for 
+developing groundwater resources. Emerging lessons from the project and other interventions supporting 
+resilient rural livelihoods emphasize the need to also strengthen community-led watershed management 
+and promote the uptake of productivity-enhancing technologies and practices. Thus, the new project will 
+also finance community planning, mobilization activities, and the delivery of livelihood support services. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 13 of 79 
+ 
+Box 2. Drawing Lessons from WALP 
+As the first World Bank-financed rural infrastructure project in Somalia in more than 20 years, WALP was 
+intended to be a first step in a longer journey of World Bank reengagement in rural livelihoods support in 
+Somalia. As a pilot project funded by the World Bank’s State and Peacebuilding Fund, WALP was designed to 
+generate lessons in a learning-by-doing approach on how best to intervene on a local level in improving rural 
+supply services, how interventions have an impact on local communities, and how best to equip government 
+agencies (ministries and departments) with the tools and knowledge to lead the process in the future. The 
+project was relatively short (2.5 years) and modest (US$2 million), meant to tread lightly in the provision of water 
+services to marginalized communities with uncertain access and often facing acute water scarcity. 
+Though not all objectives were achieved, there is strong recognition that WALP constitutes a leap forward in the 
+World Bank’s experience and knowledge base about how to implement sustainable, small-scale water 
+interventions in a fragile state context. The project successfully delivered eight water points in Somaliland and 
+Puntland, including seven dams and one berkad, which are now providing an estimated 42,000 people (and more 
+than 200,000 animals) with an improved, reliable water source for human consumption, livestock watering, 
+small-scale vegetable gardening, agroforestry, and other uses. Further, the project was successfully 
+implemented by government civil servants—seconded from ministries responsible for water, agriculture, 
+livestock, and the environment who managed all fiduciary, procurement, and monitoring and evaluation (M&E) 
+aspects.  
+The WALP experience has generated some important lessons that have directly informed the design of the 
+current scale-up project. WALP has demonstrated the suitability of small-scale dam technology in delivering 
+critical water resources to communities in dry-land areas and the feasibility and critical importance of 
+channelling aid for infrastructure through core country systems and private sector capacity, even in fragile states. 
+This approach was both a fundamental principle driving the project’s approach and critical element for 
+enhancing institutional capacity as a means of ensuring the sustainability of investments. WALP also 
+demonstrated that while enhancing access to water is an essential ingredient in addressing acute vulnerability 
+among dry-land communities, these investments are insufficient on their own and need to be complemented by 
+parallel investments designed to restore a more healthy ecosystem and to strengthen the capacity of local 
+communities to sustainably and equitably manage their water assets and the natural resource base (that is, soils, 
+pastureland, and forests) that underpins their livelihoods. While formidable knowledge gaps remain, the WALP 
+experience has also generated a wealth of new understanding about social dynamics among marginalized 
+livelihood groups (landed farmer, agro-pastoralists, and pastoralists) living in Somalia’s dry lands and the 
+socioeconomic drivers of resource-based conflict, which will help inform and guide downstream interventions 
+that are community-driven, equitable across interest groups, and conflict-sensitive. 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 14 of 79 
+ 
+ 
+ 
+ 
+Source: WALP Project  
+Implementation Unit - Puntland 
+ 
+22. 
+The proposed operation Water for Agro-pastoral Productivity and Resilience (WAPR), or 
+“Biyoole”,17 contributes to a range of higher-level objectives, consistent with the World Bank’s twin goals 
+of ending extreme poverty and promoting shared prosperity. Improving access to multiple-use water 
+resources (for human consumption, livestock, and small-scale irrigation) in a dry-land environment can 
+significantly improve human health and well-being. It reduces the effects of poverty by building 
+community resilience to climate-induced risks and the associated vulnerabilities that disproportionately 
+affect the poor. The project will reduce the risks and impacts of floods and droughts in the targeted areas, 
+thereby enhancing the resilience of target communities to these threats, which are exacerbated by 
+climate change. Improved resilience and self-reliance, in turn, will contribute to reducing poverty. The 
+project will support income generation through sustainable livelihoods for vulnerable people and 
+catalyzing economic growth in rural areas. Enhanced water access among target communities will support 
+domestic use and livestock watering (and improved health outcomes), small-scale irrigation, and 
+environmental services. By promoting more sustainable use of natural resources, the project will also help 
+improve the availability of water for longer periods, thereby reducing water-related displacement and 
+attenuating the drivers of resources-based conflicts. 
+23. 
+Learning by doing. Biyoole is part of a multiyear programmatic approach with a potential to scale 
+up horizontally to cover more areas of the country and vertically to deepen and diversify the infrastructure 
+and livelihoods support. Building from the WALP experience and lessons learned (see Box 2), the initial 
+focus of Biyoole is to strengthen resilience in the northern and central parts of Somalia that are more 
+frequently affected by drought and are expected to be increasingly so in the future with climate change. 
+As implementation experience is gained and criteria for participation are met by other states, the goal is 
+to incrementally and sequentially scale up the project to improve rural resilience in all six states of 
+Somalia. This will depend on the availability of resources, readiness to engage (including institutional 
+capacity, financial management (FM), and coordination functions for example), and the security 
+environment. This project will scale up the activities under WALP in Puntland and Somaliland while 
+starting with new pilots in the states of Galmudug and South West. The learn-by-doing approach and 
+experience gained will accommodate future phases to include Hirshabelle and Jubbaland. Scale-up plans 
+for all FMS and Somaliland will be considered during the midterm evaluation of the project. 
+                                            
+17 ‘Biyoole’ means ‘water fetcher’ in Somalia. It is the person who collects water from shallow wells, water catchments, and 
+other sources to distribute for household consumption, livestock, and agriculture. The biyoole is a staple of Somali agricultural 
+and pastoral life. The FRS considers that, it is an easy brand to communicate with Somali audiences and easily pronounceable 
+by non-Somali speakers. Biyoole is a difficult brand to hijack and, of course, includes the word 'water' in it. 
+ 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 15 of 79 
+ 
+II. PROJECT DESCRIPTION 
+A. Project Development Objectives 
+24. 
+The proposed Project Development Objective (PDO) is to develop water and agricultural services 
+among agro-pastoralist communities in dry-land areas of Somalia. 
+25. 
+Achievement of the proposed PDO will be measured using the following three outcome 
+indicators: (a) People provided with access to improved water sources under the project, of which 50 
+percent are female (number); (b) Farmers/clients (number) adopting improved technology, share of which 
+are female (percent); and (c) Target beneficiaries satisfied with project investments (percentage). The 
+project outcome (PDO-level) and intermediate indicators are presented in the Results Framework (Part 
+V). 
+B. Project Components 
+26. 
+The proposed WAPR focuses primarily on (a) improving access to multiple-use water resources 
+(for human consumption, livestock, small-scale irrigation, and environmental services) in dry lands of 
+Somalia; (b) increasing the land area under sustainable landscape management practices; (c) reaching 
+targeted beneficiaries with agricultural services; and (d) promoting the uptake of productivity enhancing 
+innovations among target rural communities. Importantly, the integrating focus of all of these 
+components is the fundamental emphasis on strengthening the adaptive capacity of rural communities in 
+Somalia and their resilience to the impacts of climate change. 
+27. 
+Component 1: Support the Development of Multiple Use Water Sources (US$15 million 
+equivalent IDA). Based on detailed basin-level hydrology assessments, micro-watershed action plans, and 
+groundwater investigations, this component will finance investments in key water management 
+infrastructure for harvesting, storing, and delivering water for people, livestock, and agriculture. The 
+infrastructure will be designed to deliver both improved human health outcomes and water for productive 
+uses (mainly agricultural production and agroforestry services for landscape restoration), thereby making 
+the targeted communities more resilient to droughts and floods (restored landscapes suffer less from 
+erosion and are thus more resilient to flooding).  
+28. 
+Subcomponent 1.1: Construction of New Community Water Points (US$11.5 million IDA). This 
+subcomponent will support the rehabilitation of existing water infrastructure and small works. The menu 
+of water infrastructure investments will include small sand and subsurface dams in dry river beds (wadis), 
+surface water storage infrastructure (for example, berkads and hafir dams), area infiltration interventions 
+such as semicircular bunds or soil bunds, and rock catchments. As explained above, sand dams are 
+particularly effective at enhancing the resilience of marginal dry-land environments by helping sustain 
+vegetation biomass during drought periods. The improved vegetation biomass and soil management, 
+combined with the increased water availability derived from these various infrastructure investments, will 
+facilitate agricultural activities and food production. These will, in turn, increase the targeted 
+communities’ resilience to droughts and floods. Solar units will lift water and then use gravity to feed 
+auxiliary structures such as cattle troughs, water points for human use, and so on (Annex 1 describes these 
+technologies). In addition, if no other options are feasible, the component will support construction of 
+boreholes for groundwater extraction. Boreholes are an important source of water during severe drought, 
+especially for humanitarian response, and particularly in non-riverine regions of Somalia.  
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 16 of 79 
+ 
+29. 
+Subcomponent 1.2: Rehabilitation of Community Water Points (US$3.5 million IDA). This 
+subcomponent will finance the rehabilitation of existing water infrastructure and small prioritizing 
+boreholes. The subcomponent will also finance associated infrastructure to provide multiple-use water 
+services (zero-emission standpipes or shallow wells with hand or solar pumps and watering troughs for 
+livestock). Selected project sites can include multiple interventions to ensure adequate water through 
+periods of drought and for multiple purposes: high-quality water for domestic use and moderate quality 
+for livestock and agricultural uses. These investments will be the anchor assets around which other project 
+activities in each selected sub-catchment will seek to capitalize and manage. The diversification of water 
+sources based on the Wadi Evaluation Tool (WET), extensive ground truthing, and groundwater 
+assessment will increase the supply of water and therefore mitigate the risk of droughts and climate 
+change. 
+30. 
+Component 2: Institutional and Capacity Development (US$6 million equivalent IDA). As 
+Somalia consolidates its political transition and builds on the resulting peace and security dividends, there 
+is a strong need to support the FRS and the FMS to develop the knowledge systems and institutions 
+needed to deliver essential services and optimize use of the country’s natural resources. This component 
+will help build a strong foundation for a gradual transition to more integrated and sustainable agriculture 
+and water development—promoting the farmers’ adoption of drought-resistant seed varieties and 
+climate-smart technologies—by strengthening local, state, and national institutions and capacities. 
+Promoting water and agriculture in an integrated and sustainable way based on carefully managed water 
+infrastructure and allocation of water and selection of the most efficient technologies (from a water 
+conservation standpoint) will make the project beneficiary communities more resilient to droughts and 
+floods. The component objectives will be delivered through two subcomponents. 
+31. 
+Subcomponent 2.1. National and state Institutional capacity Building (US$2.0 million IDA). This 
+subcomponent will support strengthening of national and state institutions capacities to plan, implement, 
+and monitor integrated agriculture and water development programs. The Government needs to develop 
+better sector oversight to coordinate external interventions with its own nascent program of domestic 
+investment. The Government needs to establish the policies and laws to regulate the sector and ensure 
+that infrastructure investment is sustainable. This includes developing and implementing construction 
+standards; rangeland management guidelines; key feasibility studies for preparing project interventions 
+(site-specific Environmental Impact Assessments (EIAs), engineering surveys, and hydrological 
+assessments for project areas); and providing improved extension to farmers and pastoralists; 
+management models; and cost recovery mechanisms – all aimed at helping the beneficiaries better deal 
+with the increasing risk of droughts and floods. Better data are also needed to improve knowledge of 
+hydrogeology and groundwater exploration so that aquifer recharge can be optimized, thus further 
+contributing to water security and climate risk reduction. Without improved data, both external and 
+domestic infrastructure investment will continue to be ad hoc and poorly coordinated. 
+32. 
+To be able to leverage existing expertise, ground presence, and local knowledge, this component 
+will finance a technical assistance agency (for example, FAO, NGO, university, and technical team) to 
+support national and state government agencies in selecting, training, and monitoring nonstate actors for 
+local project implementation. It will also support research and the development of a training needs 
+assessment for relevant government agencies, development of curricula, and delivery of high-value 
+training programs. It will also finance highly targeted exposure visits to neighboring countries to learn 
+from best-practice approaches. This component will also support peer to peer knowledge exchange and 
+sharing of experiences. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 17 of 79 
+ 
+33. 
+Subcomponent 2.2. Community Development and Demand Mobilization (US$4.0 million IDA). 
+Drawing on lessons from WALP, this subcomponent will finance a holistic community engagement 
+approach that will support activities in Components 1 and 3 through a continuing dialogue about the 
+community’s development needs, the resources they have, their priorities for managing them, and how 
+to ensure equitable access. The state-level Project Implementation Units (PIUs) will be responsible for the 
+mobilization process. Given human resource constraints, the PIUs will leverage project funds to contract 
+technical assistance for community mobilization and planning activities. The PIUs and FMS ministry staff 
+will work on teams with the mobilization contractor to transfer knowledge of mobilization theory and 
+techniques among government staff and to add technical knowledge into dialogue with communities. 
+Mobilization will broadly (a) increase awareness of the ‘rules of the game’ for participation in the project; 
+(b) introduce the costs and benefits of different technologies to promote informed demand and increase 
+community ownership and sustainable management of infrastructure and other investments; (c) enhance 
+the capacity for community governance by training leaders on meeting management, ensuring inclusion 
+and participation, conflict resolution, and so on; (d) increase awareness of the resource constraints within 
+the community and considerations of equitable resource management across different stakeholder 
+groups; and (e) develop community livelihood development plans to identify priority needs that can be 
+met by collective action, specific project interventions, or leveraging other programs. Anchored by a 
+robust and inclusive consultative process, community mobilization activities will serve to inform the 
+team’s evolving understanding of the risk landscape and, thereby, will help to ensure that project 
+interventions are conflict-sensitive and well aligned with project safeguards. The proposed planning 
+process embeds project exits from the beginning and focuses on building community cohesion, self-
+reliance, and resilience to droughts and floods after the project closes, as explained in the next paragraph.  
+34. 
+In existing WALP sites, mobilization will begin immediately to help communities develop a water 
+budget based on ongoing water monitoring activities, water-use priorities, and how to maximize local 
+water resources in the most inclusive way possible. The activity will produce a plan for management of 
+the water infrastructure, including upkeep and maintenance, and for sustainable and equitable allocation 
+and access across stakeholder groups. In addition, it will produce a plan for productive livelihood 
+development with priority investments in land management, cropping, and livestock to be supported by 
+the project. New project sites will begin mobilization once the technical specifications for site selection 
+have been finalized and project communities have been identified. In these communities, in addition to 
+the activities above, the mobilization will help communities select the optimal technology to be financed 
+by the project to increase water capture and storage (for example, sand dams, berkhads, and so on). 
+Technical support for the implementation of livelihood development priorities will be provided through 
+separate contracts to technical service providers issued and managed by each state PIU.  
+35. 
+Component 3. Supporting Sustainable Land Management and Livelihoods Development Around 
+Water Points (US$9.5 million equivalent IDA). Linking with water infrastructure and community planning 
+and mobilization interventions under Components 1 and 2, this component will catalyze priority 
+investments, facilitated by participating FMS line ministries, to create and strengthen productive 
+livelihoods among target communities. The component will stimulate the growth and development of 
+productive and sustainable income-generating activities through two subcomponents that will (a) 
+improve the health and sustainability of the natural resource base (that is, land, water, and vegetative 
+cover), which underpins all agriculture and pastoralist livelihoods and (b) facilitate communities’ access 
+to productive assets and extension services needed for agriculture and livestock production.  
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 18 of 79 
+ 
+36. 
+Component 3 activities will be piloted during Year 1 within existing WALP sites where water assets 
+were installed and Community Development Plans (CDPs) developed during the pilot phase. Pilot activities 
+will initially look to build on the experience of FAO and NGO consortia, for example, SomReP18 and BRCiS,19 
+and local NGOs with investments designed to facilitate post-crisis recovery of rural households and 
+livelihoods while building stronger resilience to future climate-related shocks, primarily droughts and 
+floods. The experience gained, and lessons learned from the existing WALP sites will inform the 
+introduction and scale-up of validated approaches during Years 2–5 with target communities elsewhere 
+as CDPs are developed and water assets are delivered. The component will finance, among others, 
+services delivery contracts; field travel per diems; labor-intensive landscape interventions (through cash-
+for-work); and the purchase and distribution of assets (seeds, tools, irrigation, and other equipment) 
+needed for cropping and livestock activities.  
+37. 
+Subcomponent 3.1: Integrated Landscape Management (US$3.5 million IDA). Based on priorities 
+from the community planning and using a micro-watershed approach, this subcomponent will finance 
+through cash-for-work community-led soil and water conservation measures. These include landscape 
+rehabilitation and protection through terracing of irrigable land degraded or endangered by erosion, gully 
+rehabilitation, planting of trees and other vegetation in upland areas, rangeland management to 
+introduce rotational grazing and stocking rate limits, and improved management and sustainable use of 
+existing forest and vegetation resources. Together, these activities will encourage better infiltration of 
+water during the rainy season into the surrounding land and reduce loss of valuable topsoil from surface 
+runoff, all contributing to the restoration and management of a healthier ecosystem, one that can more 
+sustainably support rural communities and increase their adaptive capacity to better cope with floods and 
+droughts. This subcomponent would also promote the uptake of alternative energy solutions through 
+awareness building, demonstrations, and financing to curtail local demand for environmentally 
+destructive and unsustainable charcoal production. The subcomponent would also finance establishment 
+of community tree orchards for sustainable fuelwood and charcoal production and would support the 
+promotion and take-up of small-scale solar energy solutions for household use.  
+38. 
+Subcomponent 3.2: Agriculture and Livestock Support (US$6 million IDA). Anchored by the 
+water assets delivered under Component 1 and guided by the CDPs developed under Component 2, this 
+subcomponent will support the development and diversification of livelihoods among target 
+communities. It will facilitate the demand-driven delivery of agricultural assets and extension services 
+based on community-specific priorities and context-specific conditions, including estimates of water 
+availability and water-use demand. Activities envisioned under this subcomponent include the 
+establishment of community gardens and fruit tree groves (as demonstration plots); procurement and 
+distribution of improved seeds and other inputs; and introduction of high-efficiency micro-irrigation 
+systems, soil micronutrient assessments, and needed training. These investments will help communities 
+increase their production of more nutritious food for household consumption and, where possible, 
+marketable surpluses. Training would focus on promoting farmer adoption of climate-smart farming 
+                                            
+18 Founded in 2011, the Somalia Resilience Program (SomReP), consortia of seven International NGOs (INGOs) (ACF, ADRA, 
+CARE, COOPI, DRC, Oxfam, and World Vision), implements several projects across Somalia aimed at enhancing the resilience of 
+vulnerable communities through community participatory planning, the use of financial instruments such as savings groups and 
+the management of rangelands and ecosystem health. 
+19 With an objective to “Improve the resilience of rural communities and IDP households in Somalia,” the BRCiS Consortium, or 
+"Building Resilient Communities in Somalia,” comprises Cesvi, Concern Worldwide, Norwegian Refugee Council (lead agency), 
+International Rescue Committee, and Save the Children and currently operates in 22 districts of the southern and central 
+regions of Somalia. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 19 of 79 
+ 
+techniques that can improve household food and nutrition security while optimizing usage efficiency of 
+available water resources. Beyond soil and water conservation, training would focus on promoting 
+adoption of drought-resistance crops and seed, intercropping and crop diversification, integrated pest 
+management, fodder production and storage, animal health treatment, and household kitchen gardens 
+using harvested rainwater. These training activities (and other activities provided through this 
+subcomponent) will increase the beneficiaries’ resilience to floods (through soil conservation) and 
+droughts (through the remaining activities). Component activities will be overseen by technical line 
+ministries and delivered through service provider contracts (that is, NGOs and UN agencies). 
+39. 
+Component 4: Project Management, M&E, Knowledge Management, and Learning (US$9.0 
+million equivalent IDA). This component will finance the operational costs of the Project Management 
+Units in participating FMS and Somaliland, as well as project coordination and fiduciary support at the FRS 
+level. The component would also be responsible for M&E, knowledge management and learning, and 
+evidence-based policy input. This component also covers the Contingent Emergency Response (CERC) 
+subcomponent of the project that will support immediate and rapid response emergency needs. 
+Component activities will be delivered through three subcomponents. 
+40. 
+Subcomponent 4.1. Project Management (US$4.0 Million IDA). This subcomponent will ensure 
+that the project is implemented efficiently, on time, and in accordance with the Financing Agreement. A 
+strong PIU will be established and staffed by a team of experts at the national, state, and district levels. 
+This subcomponent will support (a) the incremental operating costs for managing the project, (b) the cost 
+of procurement and FM specialists, and (c) outreach and communications on the Government’s role and 
+leadership on the project to the broader Somali community. 
+41. 
+Subcomponent 4.2. M&E, Knowledge Management, and Learning (US$5.0 million IDA). The 
+project would support continuous learning and adaptable knowledge management. A web-based 
+management information system (MIS) will be set up to track real-time performance of the project and is 
+linked to an M&E system to focus on project results and outcome. This subcomponent will finance 
+baseline, concurrent monitoring of inputs and outputs and monitoring of safeguards, conflict, and gender 
+and focus on developing and disseminating knowledge generated through various project activities. 
+Subcomponent activities will incorporate new modern technology such as geo-tagging of site investments, 
+collection of field data with tablets/smartphones, and application of geospatial imaging for quantifying 
+before and after comparisons for specific indicators. With a view to obtain more information and 
+knowledge on the extent and period of flood, this subcomponent will support technical work such as flood 
+mapping and support to information sharing.  
+42. 
+Given the nascent institutional capacity of multisectoral rural resilience in Somalia, this 
+subcomponent will allow the FRS to engage a suitably qualified and experienced international 
+independent firm to provide quality enhancement and implementation support to the project. The 
+objective of the support will be to provide an additional and independent monitoring and assurance 
+ensuring that project funds are used for the purposes specified in project grant agreements. The firm will 
+be contracted by the FRS and will support Somali authorities to fulfill their fiduciary, procurement, 
+monitoring, and supervision obligations with respect to all four project components. The firm will also be 
+responsible for monitoring the development of capacity within recipient organizations and agencies such 
+that they advise on capacity-building needs to carry out the FM, procurement, and project management 
+obligations. Capacity assessment will be done in collaboration with the World Bank task team and the 
+FMS contracted engineering and sustainable land management implementation support entities 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 20 of 79 
+ 
+providing technical assistance and backstopping support for Components 1, 2, and 3. To this extent, the 
+firm will be expected to provide advisory as well as monitoring support to the World Bank.  
+43. 
+Subcomponent 4.3. Contingent Emergency Response (US$0). This subcomponent will support 
+immediate and rapid response to an eligible crisis or emergency, as needed. This zero-cost component 
+will finance eligible expenditures under the Immediate Response Mechanism (IRM) in the case of natural 
+or manmade crises or disasters, severe economic shocks, or other crises and emergencies in Somalia. It 
+can be triggered through formal declaration of a national emergency by the government authority and 
+upon a formal request from the FRS to the World Bank through the Ministry of Finance (MoF).  
+44. 
+In such cases, funds from other project components will be reallocated to finance emergency 
+response expenditures to meet agricultural crises and emergency needs. The emergency response would 
+include mitigation, recovery, and reconstruction following crises and disasters, such as severe droughts, 
+floods, disease outbreaks, and landslides, among others. Implementation of this subcomponent will 
+follow a detailed Contingent Emergency Response Implementation Plan (CERIP) satisfactory to the World 
+Bank that will be prepared for each eligible emergency. The Project Operations Manual (POM) will have a 
+dedicated annex for a Contingency Emergency Response Component (CERC) in line with the October 2017 
+guidelines.  
+C. Project Cost and Financing 
+Table 1. Summary of Project Costs by Component and Financing Source (US$ million) 
+Component/Subcomponent 
+Subtotal 
+Percentage 
+Component 1. Support the Development of Multiple Use Water Sources  
+15,000,000 
+36 
+1.1 Improved community water points constructed under the project 
+11,500,000 
+  
+1.2 Improved community water points rehabilitated under the project 
+3,500,000 
+  
+Component 2. Institutional and Capacity Development  
+6,000,000 
+14 
+2.1 National and state institutional capacity building 
+2,000,000 
+  
+2.2 Community development and demand mobilization 
+4,000,000 
+  
+Component 3. Supporting Sustainable Land Management and Livelihoods 
+Development Around Water Points  
+9,500,000 
+23 
+3.1 Integrated landscape management 
+3,500,000 
+ 
+3.2 Agriculture and livestock support 
+6,000,000 
+ 
+Component 4. Project Management, M&E, Knowledge Management, and 
+Learning 
+9,000,000 
+21 
+4.1 Project management 
+4,000,000 
+  
+4.2 M&E, knowledge management, and learning 
+5,000,000 
+  
+4.3 Contingent emergency response 
+ 
+  
+Subtotal Components 
+39,500,000 
+94  
+Contingency  
+2,500,000  
+6 
+TOTAL  
+42,000,000 
+  
+ 
+45. 
+Lending instrument. The proposed lending instrument is Investment Project Financing (IPF), 
+comprising an IDA grant of US$42 million equivalent to the FRS, implemented over five years. The IPF 
+instrument was selected in view of its flexibility and suitability for financing a broad range of activities, 
+including investments, technical assistance, and capacity-building measures. The project’s component 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 21 of 79 
+ 
+allocation has also considered a contingency of US$2.5 million to meet price variations on goods and 
+services during implementation.   
+46. 
+In line with the project’s plan to scale up activities under WALP in Puntland and Somaliland while 
+starting with new pilots in Galmudug and South West States, and also considering the existing capacity 
+and the functions expected in each of the participating institutions, project costs will be allocated as 
+follows. 
+Table 2.  Project Costs by Implementing Agency and Geography (US$ million) 
+ 
+ 
+Total Budget 
+42.00
+$             
+FGS
+1.00
+        
+4.50
+$                     
+2.50
+        
+Agriculture
+Livestock
+Water
+Environment
+0.25
+                 
+0.25
+              
+0.25
+                 
+0.25
+                
+Agriculture
+Livestock
+Water
+Environment
+Planning
+ $                    5.00 
+0.50
+                 
+0.50
+              
+2.00
+                 
+0.50
+                
+1.50
+        
+Agriculture
+Livestock
+Water
+Environment
+Planning
+ $                    5.00 
+0.50
+                 
+0.50
+              
+2.00
+                 
+0.50
+                
+1.50
+        
+Water
+Livestock
+Planning
+ $                  13.50 
+6.00
+                 
+3.00
+              
+0.50
+                 
+3.00
+                
+1.00
+        
+Agriculture
+Livestock
+Water
+Environment
+Planning
+ $                  14.00 
+3.25
+                 
+3.25
+              
+1.00
+                 
+5.00
+                
+1.50
+        
+Finance
+Agriculture
+Livestock
+Water
+Water & 
+Environment
+Planning
+1.00
+$                     
+7.50
+                 
+7.50
+              
+5.75
+                 
+12.25
+              
+8.00
+        
+Ministry of Finance (MOF)
+Ministry of Planning, Investment and Economic Development 
+Puntland
+Somaliland
+PIU (Project Coordinator, FM, Procurement, Safeguards Specialists) - housed Environment
+FEDERAL GOVERNMNET OF SOMALIA (FGS)
+FEDERAL MEMBER STATES
+ PIU (Project Coordinator, FM, Procurement, Safeguards/M&E Specialists) - housed Environment
+South West States
+Galmudug
+PIU (Project Coordinator, FM, Procurement, Safeguards/M&E Specialists) - housed Planning
+PIU (Project Coordinator, FM, Procurement, Safeguards/M&E Specialists) housed Planning
+Environment & Agriculture*
+SOMALILAND
+SECTOR
+* in Puntland the Environment and Agriculture Ministries have been merged
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 22 of 79 
+ 
+D. Direct Project Beneficiaries 
+47. 
+The primary project beneficiaries are more than 250,000 (of which 140,000 are women) agro-
+pastoralists in Galmudug, Puntland, South West State, and Somaliland. The project will provide benefits 
+in the form of access to improved water sources for multiple uses (domestic, livestock, agriculture, and 
+horticulture); agricultural extension services (livestock and crops); improved livelihood resilience; and 
+adaptive know-how.  
+48. 
+In Somalia, women and children are typically responsible at the household level for collecting 
+water. Access to improved water supply and sanitation facilities is expected to contribute to poverty 
+reduction and better gender equality among the beneficiary populations by addressing burdens borne by 
+women and girls. This includes the benefits of reduced time and effort spent in collecting water, as well 
+as associated benefits such as personal security, health, and economic productivity. The project will 
+emphasize the role of women in the decision-making process at various stages of system design, 
+implementation, and management to improve the sustainability of investments and improve the quality 
+of life. Gender-disaggregated indicators will be used to track gender equity in roles and benefits from the 
+project. Moreover, World Bank experience in other countries shows that families with members who have 
+a disability are often among the poorest and most marginalized in communities. To maximize inclusion in 
+decision making, implementation, and benefits, the project will identify beneficiaries affected with 
+disability, so they are included in the design of the infrastructure, in the prioritization of livelihoods, and 
+in linking to assistive services.  
+49. 
+Given the large role that women play in both agriculture and livestock activities, the project will 
+address challenges that have traditionally limited women’s productivity particularly access to extension 
+services and inputs. Drawing on lessons from ongoing agro-pastoral investments in Somalia, the project 
+can make participation by women mandatory (for example, 30 percent of leadership positions) in Village 
+Development Committees (VDCs) that participate in the project. An audit of processes will be conducted 
+to determine risk points where women can be excluded for example, selection for asset transfers and 
+labor-intensive public works (LIPW) income-earning opportunities.  Training in livestock management and 
+cropping will be designed to train family units together where possible, which has been found to not only 
+increase women’s access to training but also increase awareness among all family members of the role 
+women play. Other training will be designed and delivered at times and locations that are convenient to 
+women given the demands for their time from other duties, and child care will be provided to facilitate 
+their participation. The POM will clarify how this is going to be tracked.  
+50. 
+As outlined in the CPF, job creation is a top priority for growth, development, and social stability 
+in Somalia. By mobilizing and empowering women and youth as positive agents of change and supporting 
+the growth and development of rural livelihoods, the project will help address key drivers of 
+intergenerational poverty and conflict. In project areas, the construction of infrastructure (for example, 
+dams, offices and community centers) and related procurement of goods and services will create new 
+jobs and revenue streams for local businesses. Land management and livelihood support interventions 
+and cash for work programs will provide communities and households with crucial productive assets and 
+income-generating opportunities. Core project interventions will be complemented by targeted 
+investments in mobilizing and capacitating women and youth groups to engage in other income-
+generating activities such as sustainable charcoal production, provision of animal health and nutrition 
+services, and community gardening. The project will also explore income-enhancing opportunities 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 23 of 79 
+ 
+through value addition and, where feasible, linking communities with surplus production to downstream 
+markets. 
+E. Results Chain 
+Figure 1. Overview of Project Results Chain 
+ 
+Note: HH = Household. 
+ 
+51. 
+Somalia is especially vulnerable to climate shocks and the resulting cyclical droughts and floods 
+that hit communities, which are increasing with climate change. Following decades of insecurity, the 
+infrastructure and local knowledge to manage these shocks and traditional coping mechanisms have 
+deteriorated significantly. Land depleted of vegetation cover cannot retain flood waters that wash fertile 
+soil away nor can it support extensive pastoral livelihood systems. Degradation is accelerated by droughts. 
+With the loss of animals to drought and poor performing crops, many communities have migrated out of 
+rural areas, relying on humanitarian assistance from the diaspora or on non-sustainable extractive 
+livelihoods (for example, charcoal making) for income. Food and nutrition security is low among rural 
+households, which affects their overall health and productivity. 
+52. 
+This project will deliver water harvesting and storage infrastructure and facilitate community 
+action to help restore the quality of the land. It will leverage sand dam and other water-harvesting 
+technology to enhance the adaptive capacity of Somalia’s dry lands and the livelihoods that depend on 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 24 of 79 
+ 
+them. Through rigorous social mobilization processes, the project will help communities better 
+understand how their decisions about management of land and water resources affect their well-being 
+and how to become more climate-resilient. Communities will be aided to improve the quality of their land 
+and water resources and to invest in the technology, training, and services necessary to improve crop 
+production, pasture management and fodder production, animal health, and productivity. With improved 
+organization and knowledge, communities can manage a more inclusive development agenda that 
+increases the availability of water and food for all their member households and supports sustainable 
+livelihoods that generate income for households that can be saved to help them better withstand 
+inevitable future shocks. 
+53. 
+Project implementation is managed by civil servants from the FMS ministries responsible for the 
+water, agriculture, land/pasture, and animal resources of their states. By being fully responsible for all 
+contracting of works and services and fully participating in community mobilization activities, the capacity 
+of civil servants to manage limited public resources to deliver services will also be increased. Figure 1 
+summarizes the theory of change embedded in the project design. 
+F. 
+Lessons Learned and Reflected in the Project Design 
+54. 
+The design of the project has considered lessons learned from the World Bank’s engagement in 
+fragile and conflict settings in general and directly in Somalia during the last 3–4 years. More importantly 
+the project design is based on the lessons from the recently completed WALP operation (P152024), that 
+includes the following: 
+(a) Any initiative to improve the resilience of rural communities from water-related shock in a 
+dry environment such as Somalia needs to go beyond water service provision. A more 
+holistic, multisectoral, and integrated approach is needed to address challenges and 
+maximize livelihood development opportunities across the water/land/climate nexus.  
+(b) Resilience is not a onetime activity. It requires champions, the full participation of the 
+community, and continuous technical backstopping and monitoring institutions at all levels 
+from the community all the way to the federal level are equally important. They need to be 
+empowered, capacitated, and strengthened so that they can provide the required support 
+to the communities. 
+(c) 
+In a post conflict setting like Somalia, the use of country systems (even if in a nascent form) 
+has multiple advantages. Though the use of country systems carries some implementation 
+risk, it helps countries emerge more rapidly from a post conflict situation, reestablish 
+government systems, and improve the government-citizen relationship.  
+(d) In a post conflict setting like Somalia, a flexible ‘learning-by-doing’ approach is effective and 
+the quickest way to transfer knowledge and build the capacity of institutions while 
+adaptively mitigating risks. Making available systems procedures and resources provides 
+institutions with opportunities to gain on-the-job experience, skills, and confidence.  
+55. 
+The above lessons are consistent with the project’s theory of change, which is “supporting 
+institutional development at the local, subnational, and national levels and channeling integrated, 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 25 of 79 
+ 
+strategic investments into water, land, and people will enhance the relevance and sustainability of project 
+investments and reinforce poverty impacts.” 
+56. 
+Beyond the Somali experience, the project design is influenced by many years of evolving and 
+successful World Bank programs in integrated land/water management in other parts of Africa (Ethiopia, 
+Malawi, and Great Lakes Region), India, and Latin America. Key lessons include using a participatory 
+approach with communities for planning and implementation, while building strong local institutions; 
+undertaking a larger-scale strategic assessment to guide small-scale implementation; using a watershed 
+framework for developing integrated land and water interventions; including a livelihoods component to 
+improve equity for women and other disadvantaged groups, and increase local incomes; and applying 
+remote sensing and other information technology tools such as geographic information systems (GIS) to 
+support planning and M&E.  
+57. 
+Somalia suffers from acute unemployment and underemployment. Jobs play an important role 
+in fragile environments. They not only contribute directly to poverty reduction, productivity, and 
+economic growth but also facilitate social cohesion and reduce the risk of violence. However, the jobs 
+environment in Somalia is particularly challenging with high political, economic, and social risks; 
+inadequate institutional capacity; a difficult political economy; and significant constraints on financial 
+resources to support recovery and reconstruction. According to the International Labor Organization 
+(ILO), 54 percent of the active population (ages 15 to 64) in Somalia is unemployed. Unemployment rates 
+are considerably higher among women and Somalis under 30 years of age, who represent 70 percent of 
+the population. The unemployment rate among youth ages 14 to 29 years is 67 percent—among the 
+highest rates in the world (Human Development Report, UNDP 2015). Women fare worse20 (74 percent) 
+compared to men (61 percent). Due to high fertility rates, estimated at 6.2 births per woman between 
+2010 and 2015, the youth population in Somalia (increasingly marginalized and deeply discouraged 
+majority group) is arguably more vulnerable than any other to extremism and criminal behavior and the 
+numbers will continue to swell.  
+58. 
+To address these challenges and create job opportunities, well-structured assistance is needed. 
+To help strengthen engagement on jobs in fragility, conflict, and violence (FCV) settings, the World Bank 
+has developed an integrated jobs framework. This framework recognizes that progress on jobs in fragile 
+situations is hard-won, and even interventions with limited reach are crucial tools for emergency relief, 
+stabilization, and starting momentum in private sector recovery. This is true for livelihood programs, as 
+well as programs targeting investments in certain sectors, regions, or firms. Progress on jobs is particularly 
+crucial in FCV countries. Jobs are transformational, providing income, productivity, and social cohesion. 
+As outlined in the CPF, job creation is a top priority for growth, development, and social stability in 
+Somalia. By mobilizing and empowering women and youth as positive agents of change and supporting 
+the growth and development of rural livelihoods, the project will help address key drivers of 
+intergenerational poverty and conflict in Somalia. In project areas, the construction of infrastructure (for 
+example, dams, offices, and community centers) and related procurement of good and services will create 
+new jobs and revenue streams for Somali businesses. Land management and livelihood support 
+interventions and cash-for-work programs will provide communities and households with crucial 
+productive assets and income-generating opportunities. Core project interventions will be complemented 
+                                            
+20 Gender inequality is alarmingly high in Somalia at 0.776 out of a value of 1 (complete inequality), with Somalia at the fourth lowest position 
+globally on the Gender Inequality Index, if internationally comparable data were available. Women suffer severe exclusion and inequality in all 
+dimensions of the index—health, employment, and labor market participation (UNDP 2015). 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 26 of 79 
+ 
+by targeted investments in mobilizing and capacitating women and youth groups to engage in other 
+income-generating activities such as sustainable charcoal production, provision of animal health and 
+nutrition services, and community gardening. The project will also explore opportunities for income-
+enhancing opportunities through value addition and linking communities with surplus production with 
+downstream markets. 
+III. IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements 
+59. 
+All project interventions will be led by state-level ministries, while tracking and reporting of 
+project progress will happen at the federal level.  
+60. 
+Federal-level roles and responsibilities. A Federal Inter-Ministerial Steering Committee chaired 
+on a rotational basis by the Ministries of Water and Energy Resources; Ministry of Agriculture and 
+Irrigation; Ministry of Livestock, Forestry, and Range; and the Environment Directorate in the Office of the 
+Prime Minister (OPM) (to empower technical ministries in the overall oversight of implementation) and 
+comprising the MoF; Ministry of Planning Investment and Economic Development (MoPIED); Ministry of 
+Livestock, Forestry, and Range; Ministry of Agriculture and Irrigation; Ministry of Water and Energy 
+Resources; and the OPM will be convened for the duration of the project. The Ministry of Water and 
+Energy Resources will take the first chair role. The Steering Committee will meet quarterly to review the 
+project’s progress and identify policy or regulatory issues, particularly cross-sectoral issues, that will 
+surface during project implementation. The MoF oversees all project disbursements to line ministries at 
+the federal and member state level and coordinates all financial reporting. The project will support 
+additional human resource at the MoF to manage the financial aspects and to coordinate with the 
+MoPIED. 
+61. 
+A National Project Coordination Unit (PCU) with a project coordinator, supported by an M&E 
+specialist and data analyst, a procurement specialist, and specialists as needed with medium- and short-
+term input, will be appointed at the MoPIED to maximize the flow of communications among the federal 
+ministries, FMS, and Somaliland. This will help the MoPIED oversee the M&E aspect of the project through 
+its M&E Department. The National project coordinator will be responsible for maintaining a unified 
+Results Framework for the project. Funds for policy analysis and other relevant sector studies will be made 
+available to each stakeholder ministry at the federal level. FRS will also engage a suitably qualified and 
+experienced international independent firm that will support the National PIU by providing quality 
+enhancement and implementation support to the project.  
+62. 
+State-level roles and responsibilities. Somaliland and each FMS will establish and maintain a PIU 
+with representation from each participating line ministry to ensure cross-sectoral collaboration in 
+planning and implementation activities. The PIUs will be staffed by a project management specialist and 
+relevant fiduciary and safeguards specialists, in addition to the seconded sectoral specialists, to ensure 
+high quality throughout implementation. A specific indicator has been included in the Results Framework 
+under Component 2: Number of PIUs established under the project and functioning, and of which female 
+staff is 50 percent. Drawing from experiences in the WALP where it was found that having women playing 
+key roles in the PIUs greatly improved project implementation, the WAPR will seek to replicate this good 
+practice and ensure women’s participation by encouraging governments to establish PIUs that are gender 
+balanced. This is particularly important in the south where initial indications, from pre-appraisal meeting 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 27 of 79 
+ 
+attendance (where no women joined any of the meetings), are that civil servant women are marginalized 
+and not included in water, livestock, and agriculture project implementation or decision making.  
+63. 
+At the community level, while not part of the supply-side implementation structure, as such, the 
+project will work through representative community institutions to provide leadership of the 
+implementation process, including organizing the village for participation in the project, identifying and 
+agreeing on investment priorities, and organizing the community to deliver those investments in 
+collaboration with the Government and other service providers. This system of community institutions for 
+problem identification, planning, and execution is called a community management system in this project. 
+In many communities, such an organization the VDCs have already been formed under other programs, 
+and the project will work with them. In other communities, the project will facilitate the creation of such 
+VDCs. Leadership of the VDCs will be elected from the village members and will include representatives 
+from the different stakeholder groups within the village. In particular, the project will require that 40 
+percent of the VDC leadership are women to ensure that women’s voices are included in development 
+investment decisions.  
+64. 
+Community mobilization and planning. Each state government will oversee the community 
+mobilization process, which will engage communities throughout the project to help them identify their 
+priority water interventions (costs and benefits of different technologies), how they will manage their 
+water infrastructure, and how the community will use the water to increase their food security and 
+income opportunities. Given capacity and human resource constraints at the state level, the project will 
+provide funds to contract implementation support of the mobilization activity. Anchored by a robust and 
+inclusive consultative process, community mobilization activities will serve to inform the team’s evolving 
+understanding of the risk landscape and, thereby, will help ensure that project interventions are conflict 
+sensitive and well aligned with project safeguards. The approach will bring together all members of a 
+village, ensuring the inclusion of all stakeholder groups for example, pastoralists, irrigated farmers, rainfed 
+farmers, landless laborers, women, and youth.  
+65. 
+Water infrastructure. To inform key design elements of water interventions, state-level ministries 
+responsible for water will contract consultant engineers to (a) identify areas with potential for water 
+development; (b) inform the mobilization discussions led by the Government with communities; and (c) 
+provide detailed designs and supervision of the construction of water infrastructure.  
+66. 
+Each FMS will respond to the demand articulated by community-level institutions, considering 
+their preferences: (a) for the types of technology for water catchment, storage, and management; (b) for 
+siting infrastructure given their knowledge of water flows and service needs; and (c) options for 
+involvement in construction works.  
+67. 
+Community consultation will weigh the pros and cons of technological choices considering factors 
+such as (a) equity of access to water resources and abstraction rights; (b) affordability constraints for 
+different types faced by communities; and (c) upstream and downstream impacts on water use including 
+environmental flows. Construction companies will be contracted separately to carry out the construction 
+works. The construction process, where requested by communities, will include labor-intensive methods.  
+68. 
+Service delivery contracts will focus on operationalizing the livelihood plans created under 
+Subcomponent 2.2. Each PIU will have a budget envelope to support community-driven investments in 
+watershed/landscape management, agriculture, and livestock activities, from which they can calculate a 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 28 of 79 
+ 
+maximum investment envelope per community. FMS ministries will have funds available to contract 
+implementation support from qualified NGOs, firms, or agencies to support community land and 
+livelihood investments and to ensure the technical quality and sustainability of those investments. 
+Implementing partners will engage directly with the community and livelihood groups formed through 
+the mobilization process to implement their priority investments through training; civil works (for 
+example, bunding, terracing, reforestation, pasture restoration, and community service center); and asset 
+provision (for example, seeds, farm tools, machinery, and water-efficient irrigation equipment) needed to 
+support the growth and development of livelihoods. Technical staff from state-level ministries will work 
+with and provide oversight to implementation service providers to ensure the technical quality of training 
+and other activities. 
+69. 
+Readiness criteria. To mitigate risks related to the rollout of the project into new geographic areas 
+in the south where government structures are less developed and human resource capacities weaker, the 
+project will adopt a stepwise, incremental approach on two separate tracks. Project activities would be 
+rolled out in Somaliland and Puntland immediately following project effectiveness, while in Galmudug and 
+South West States, activities will focus during the initial 18 months of the project on laying the necessary 
+groundwork through training and other support to address readiness criteria for accession to the project. 
+This would provide more time for the PIUs and the extended project team to gain experience and refine 
+the approach as challenges, not to be underestimated, of scaling out to new areas are encountered and 
+overcome. This approach will also embed flexibility during initial project ramp up to modify the project’s 
+implementation schedule and planning if the need arises. The project could then, more comfortably and 
+with less risk, initiate project activities in the two FMS in Southern and Central Somalia in month 18 of 
+project implementation. Among the criteria that the project will use to evaluate the readiness for entry 
+of the two new states are (a) the presence of a State MoF with External Assistance Fiduciary Section 
+(EAFS); (b) evidence of an appropriate level of institutional capacity (that is, human resources and office 
+facilities) across line ministries; and (c) strong experience with inter-ministerial collaboration, including 
+with the FRS.  
+B. Results Monitoring and Evaluation Arrangements  
+70. 
+The project will support continuous learning and adaptable knowledge management. The existing 
+web-based MIS will be enhanced, if needed, to track real-time performance of the project. Data will feed 
+into a robust M&E system developed to focus on project results and outcome. This subcomponent will 
+finance baseline, concurrent monitoring of inputs and outputs and monitoring of safeguards, conflict, and 
+gender, and will focus on developing and disseminating knowledge generated through various project 
+activities. Subcomponent activities will incorporate new modern technology such as geo-tagging of site 
+investments, collection of field data with tablets/smartphones, and application of geospatial imaging for 
+quantifying before and after comparisons for specific indicators. This subcomponent will be managed by 
+the MoPIED and budgeted for under Subcomponent 4.2. 
+71. 
+Robust M&E frameworks developed under the WALP, and which mainly focused on 
+hydrogeological monitoring, will be revisited and strengthened for the WAPR, ensuring that new activities, 
+especially from Component 2, are included. Each PIU will include an M&E officer, and this person will 
+initially be tasked with modifying the existing survey forms to include questions related to Component 2. 
+The modified survey form will be used to work with VDCs to (a) undertake baseline surveys; (b) discuss 
+how village-level monitoring will be done; and (c) update the WALP M&E framework. A baseline report 
+will be produced following the first quarter of the project; thereafter, quarterly M&E reports will be 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 29 of 79 
+ 
+provided to the project coordinator who will send them to the Federal Government Coordinator for 
+consolidation and submission to the World Bank.  
+C. Sustainability 
+72. 
+Experience in the agricultural and water sectors has shown that the impact of multiple social, 
+economic, technical, institutional, or environmental factors operating over a long period may influence 
+the sustainability of services in rural areas. Based on lessons learned from similar projects, the project 
+design will work toward strengthening and supporting sustainability of systems through activities aimed 
+at, among others,  
+(a) Supporting the involvement of beneficiary communities and strengthening the participation 
+and role of women in all cycles of project design and implementation; 
+(b) Strengthening the units responsible for post-construction operation and maintenance 
+support at all levels; 
+(c) 
+Supporting the enabling environment for active participation of the private sector to support 
+operation and maintenance; 
+(d) Supporting continuous and periodical refresher trainings for user communities and directly 
+related institutions at different levels; and 
+(e) Supporting the choice of services and appropriate technologies, such as water technologies 
+and agricultural services during scheme design and implementation. 
+IV. PROJECT APPRAISAL SUMMARY 
+A. Economic and Financial Analysis 
+73. 
+The economic and financial analysis follows World Bank guidelines and reflects evidence from 
+similar projects in Somalia and elsewhere in the region. Annex 2 presents the detailed results. In summary, 
+a detailed cost-benefit analysis model has been developed to assess the financial and economic impacts 
+of these proposed project interventions and anticipated outcomes. The cost-benefit model analyzes cash 
+flows over a 15-year period discounted at 15 percent under the base-case scenario and 20 percent under 
+a higher-risk scenario to reflect the high cost of capital in the Somali context, where commercial projects 
+often require a 100 percent return within the first year of operations. Identified streams of benefits accrue 
+through direct financial savings and improved health of project beneficiaries.  
+74. 
+Based on the analysis, for each million-dollar invested in the proposed water infrastructure and 
+livelihood development activities is estimated to generate a discounted return of US$5.85 million under 
+the baseline assumptions. The net present value (NPV) of the total benefits is estimated to be US$144.3 
+million with an economic internal rate of return (EIRR) of 135 percent against a discounted World Bank 
+investment of US$32.9 million. These gains are observed primarily from improving sustained access to 
+water for an estimated 250,000 agro-pastoralists by constructing and rehabilitating water infrastructure 
+and small works and existing assets. The NPV highlights the significant financial benefits that will accrue 
+to the various project beneficiaries. An EIRR that is above the estimated cost of capital also indicates that 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 30 of 79 
+ 
+the project represents a financially viable investment.  
+B. Technical  
+Greenhouse Gas Accounting 
+75. 
+The World Bank uses the Ex Ante Carbon-Balance Tool (EX-ACT) to estimate the impact of 
+agricultural investment lending on greenhouse gas (GHG) emissions and carbon sequestration. EX-ACT is 
+a land-based appraisal system for assessing a project’s net carbon balance—the net balance of tons of 
+CO2 equivalent (tCO2-eq) of GHGs that were emitted, or carbon sequestered as a result of project 
+interventions—compared to a “without project” scenario. The net emissions for the project are 12,580 
+tCO2-eq over the project’s 15-year economic lifetime. The average annual emissions are 838 tCO2-eq. The 
+gross lifetime emissions are 18,084 tCO2-eq. The greenfield supply systems under Component 1 have 
+estimated net emissions of 13,758 tCO2-eq due to electricity use and zero-emissions baseline scenario. 
+The brownfield rehabilitation water supply systems under Component 1 have estimated net emissions of 
+−1,178 tCO2-eq due to an estimated 10 percent increase in energy efficiency gains, which is a respectable 
+level of net emission reductions for a project of this size in a country where the World Bank has only 
+recently started financing projects again. The systems to be replaced are still within their original 
+economic lifetimes. In addition, both the brownfield and greenfield investments are expected to lock in 
+the use of solar pumping and other solar systems, as well as zero-emissions gravity use.  
+Financial Management 
+76. 
+Financial Management Assessment. The purpose of the assessment was to determine whether 
+the FM arrangements in place ensure that financial resources reach the implementing and executing 
+agencies and ultimate project beneficiaries in the shortest time possible, are used to finance the intended 
+activities, are accounted for properly, and auditing arrangements are acceptable. At the national level, 
+the EAFS Unit established within the Office of the Accountant General in the MoF is charged with overall 
+FM responsibility for all the MPF/IDA-funded projects at the FRS and FMS. With overall guidance from the 
+Accountant General, the EAFS Unit, in consultation with the respective Public Finance Management 
+Reform Coordinating Units, will provide day-to-day FM of the project. The effectiveness of the EAFS Unit 
+alongside other key functional units will be continuously monitored while key areas of capacity 
+strengthening will be identified and supported through the project. All project FM transactions will be 
+recognized, captured, recorded, analyzed, summarized, and reported through the Government(s) 
+Financial Management Information System (FMIS). 
+77. 
+Flow of Funds Arrangements. The project will adopt the Statement of Expenditure (SoE) method 
+of disbursement. The project will open and maintain three Designated Accounts (DAs), two DAs at the CBS 
+and one operated separately by Somaliland in a financial institution acceptable to the World Bank. DA-A 
+in Mogadishu will be dedicated for the project activities implemented directly by the FRS, whereas DA-B 
+will be ring-fenced and dedicated for the project activities implemented by the FMS (except Somaliland). 
+DA-C will be dedicated for the project activities implemented by Somaliland. Each of the FMS will open 
+and operate a Project Account (PA) to which initial funds disbursements to the PAs will be based on cash 
+forecast to allow the FMS adequate working capital to implement the project activities. Subsequent funds 
+disbursement from DA-B to the PAs will be supported by SoEs. 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 31 of 79 
+ 
+C. Procurement 
+78. 
+Procurement Assessment. MoPIED (the main implementing agency at the national level) has no 
+prior experience of implementing World Bank-funded projects and procurement capacity at the FMS 
+levels is in inadequate. Thus, WAPR will endeavor to build procurement capacity during implementation 
+through recruitment of qualified and experienced procurement staff. In addition, TA, short-term, and 
+hands-on training will be provided to strengthen procurement capacity at all levels. Additional risk 
+mitigation measures are detailed in the procurement section. 
+79. 
+Procurement. Procurement will be carried out in accordance with the requirements in the 
+Procurement Regulations for IPF Borrowers: Goods, Works, Non-Consulting and Consulting Services, 
+dated July 1, 2016 (revised November 2017 and August 2018); ‘Guidelines on Preventing and Combating 
+Fraud and Corruption in Projects Financed by International Bank for Reconstruction and Development 
+(IBRD) Loans and IDA Credits and Grants (revised as of July 1, 2016)’; and provisions stipulated in the 
+Financing Agreement. Somalia being an FCV country, procurement under the project will be processed 
+under special procurement arrangements referred to in paragraph 12 of the World Bank Policy IPF dated 
+November 10, 2017. 
+80. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). According to 
+the requirement of the regulations, the Recipient has developed a PPSD, based on which the PP for the 
+first 18 months has also been prepared. The PPSD identifies that, contracts under works include 
+construction of sand/subface dams, earth dams, boreholes/shallow wells, rehabilitation of previous WALP 
+water structures, and office construction/rehabilitation. These being small works, the market research 
+shows that there are several qualified local contractors, many of whom have participated and completed 
+projects of similar nature, complexity, and value. Under the previous WALP, it has been observed that 
+local construction companies have experience in similar works, financial capacity, and sufficient expertise. 
+The contracts under goods include ICT equipment, vehicles, office furniture, hydrological water tools, and 
+office supplies. The contracts under non-consulting services include activities such as hiring of conference 
+facilities and transport or IT services. The type and budget for such activities will be defined and agreed 
+between the Borrower and the World Bank during the project implementation period. Recruitment of 
+individual consultants and consulting firms, NGOs, and UN-specialized agencies as the need arises for 
+technical support and assistance. The PP sets out the selection methods to be followed by the Recipient 
+during project implementation in the procurement of goods, works, consulting and non-consulting 
+services, cost estimates, time schedules, the World Bank’s review requirements, brief description of the 
+activities/contract, and so on. The PP will be updated at least every 12 months, or as required, to reflect 
+the actual project implementation needs, but each update shall require World Bank Group approval. All 
+PPs will be publicly disclosed in accordance with the World Bank Group disclosure policy. 
+81. 
+Systematic Tracking of Exchanges in Procurement (STEP). The World Bank Group’s STEP system 
+will be used to prepare, clear, and update PPs and conduct all procurement transactions for the project. 
+The PIUs under WALP have been trained and are using STEP and the World Bank STEP champion and the 
+procurement specialist will continue working closely with PIUs for smooth use of STEP.  
+D. Safeguards  
+82. 
+Environmental safeguards. The proposed WAPR is classified as environmental category ‘B’, in 
+accordance with the World Bank’s OP 4.01 (Environmental Assessment), due to potential adverse 
+ 
+The World Bank 
+ 
+Somalia - Water for Agro-pastoral Productivity and Resilience (P167826) 
+ 
+ 
+ 
+ 
+Page 32 of 79 
+ 
+environmental and social impacts which are site specific and reversible. These potential adverse 
+environmental impacts may include the following: (a) landscape degradation, especially topsoil 
+disturbance and hardpan setting; (b) possible loss of flora and fauna due to land clearance; (c) inefficient 
+waste management during the water infrastructure construction and operation and maintenance phases; 
+(d) water pollution and contamination at hafir dams, with concomitant increase in the prevalence of 
+waterborne diseases; (e) noise, dust, and vibration from construction and maintenance; (f) inadequate 
+occupational health and safety (OHS) practices; and (g) social conflicts between preexisting and new land 
+users. 
+83. 
+The project has triggered the World Bank’s OP/BP 4.04 (Natural Habitats), as seasonal streams 
+will be altered, OP 4.09 (Pest Management) since the project plans to support agricultural intensification, 
+OP/BP 4.11 (Physical Cultural Resources) for any unexpected occurrences of physical cultural resources 
+and, OP/BP 4.37 (Safety of Dams) since it will support the construction of small dams. An Environmental 
+and Social Management Framework (ESMF) has been developed to specify potential adverse impacts; 
+detail mitigation measures; and outline safeguards supervision, monitoring, reporting, and capacity 
+building. Public consultations were held and the ESMF and RPF were disclosed on January 15, 2019 on 
+both the World Bank external website and in-country. The Executive Summary of the ESMF was disclosed 
+prior to appraisal.  
+84. 
+The project also triggered OP/BP 7.50 (Projects on International Waterways) as it involves the 
+construction of small-scale sand and sub-surface dams and surface water storage infrastructures. 
+However, this small-scale water structures are not going to be built on the main rivers of Juba and Shebelle 
+rivers which are international waterways as defined by paragraph 1(a) of OP 7.50.  Rather they will be 
+built on the small tributaries and sub tributaries of dry river beds and are not expected to affect flow into 
+Shebele and Juba rivers. Moreover, all the tributaries proposed for sand dams and subsurface dams run 
+exclusively within Somalia which is the lowest downstream riparian. OP 7.50 requires riparian’s to be 
+notified and for projects with activities that have negligible impact on the flows to international water 
+ways, allows exception from notification. Based on this background, it was determined that the activities 
+under this project will have no impact on the flows to rivers Juba and Shebele and an exception for 
+notification was approved by the Africa Regional Vice President on February 15, 2019. 

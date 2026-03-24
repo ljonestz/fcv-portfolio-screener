@@ -1,0 +1,2758 @@
+ 
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+ 
+Report No: PAD1592 
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+ 
+PROPOSED GRANT 
+ 
+FROM THE SOMALIA MULTI-PARTNER FUND 
+ 
+IN THE AMOUNT OF 
+US$6 MILLION  
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+Special Financing Facility for Local Development Project 
+ 
+January 6, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+Social, Urban, Rural and Resilience Global Practice 
+Africa Region 
+ 
+ 
+This document has a restricted distribution and may be used by recipients only in the 
+performance of their official duties. Its contents may not otherwise be disclosed without World 
+Bank authorization.  
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+i 
+ 
+CURRENCY EQUIVALENTS 
+ 
+(Exchange Rate Effective December 18, 2015) 
+ 
+Currency Unit = Somali Shilling 
+Somali Shilling 588.2 = US$1 
+  
+ 
+ 
+FISCAL YEAR 
+January 1 
+– 
+December 31 
+AFS 
+Annual Financial Statement 
+AMISOM 
+AO 
+African Union Mission to Somalia 
+Administrative Officer 
+CBS 
+Central Bank of Somalia 
+CO 
+Communications Officer 
+CQS 
+Selection Based on Consultant’s Qualifications 
+DA 
+Designated Account 
+DPC 
+Deputy Project Coordinator 
+DSC 
+Design and Supervision Consultant 
+E&S 
+Environmental and Social 
+EAFS 
+External Assistance Fiduciary Section 
+ESAP 
+Environmental and Social Action Plan 
+ESIA 
+Environmental and Social Impact Assessment 
+ESMP 
+Environmental and Social management plan 
+FBS 
+Selection under a Fixed Budget 
+FCS 
+Fragile and Conflict-affected Situations 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMS 
+Financial Management Specialist 
+FO 
+Financial Officer 
+GoN 
+Government of Norway 
+GRS 
+Grievance Redress Service 
+ICB 
+IDA 
+International Competitive Bidding 
+International Development Association 
+IFR 
+Interim Financial Report 
+IMF 
+International Monetary Fund 
+IPC 
+Interim Payment Certificate 
+IPSAS 
+International Public Sector Accounting Standards 
+IRA 
+Interim Regional Administration 
+ISN 
+Interim Strategy Note  
+JNA 
+Joint Needs Assessment 
+JPLG 
+Joint Program on Local Governance and Decentralized Service 
+Delivery 
+LCS 
+Least-Cost Selection 
+MA 
+Monitoring Agent  
+MEO 
+Monitoring and Evaluation Officer 
+ii 
+ 
+MoF 
+Ministry of Finance  
+MoI 
+Ministry of Interior and Federalism 
+MPF 
+Multi-Partner Fund 
+PAD 
+Project Appraisal Document 
+PAP 
+Project-affected People 
+PC 
+Project Coordinator 
+PDO 
+Project Development Objective  
+PFM 
+Public Financial Management 
+PIU 
+Project Implementation Unit 
+PO 
+Procurement Officer 
+POM 
+Project Operational Manual 
+PSG 
+QBS 
+Peace- and State-building Goal 
+Quality-Based Selection 
+QCBS 
+Quality- and Cost-Based Selection 
+RAP 
+Resettlement Action Plan 
+SAI 
+Supreme Audit Institution 
+SC 
+Steering Committee 
+SDRF 
+Somalia Reconstruction and Development Facility  
+SFF 
+Special Financing Facility 
+SFF-LD 
+Special Financing Facility for Local Development 
+SFMIS 
+Somali Financial Management Information System 
+SoE 
+Statement of Expenditures 
+SoP 
+Series of Projects  
+SORT 
+Systematic Operations Risk-Rating Tool 
+SSF 
+Somalia Stability Fund 
+SSS 
+Single-Source Selection 
+TIS 
+Transition Initiatives for Stabilization 
+TIU 
+Temporary Implementation Unit 
+ToR 
+Terms of Reference 
+UN 
+United Nations 
+USAID 
+United States Agency for International Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President:  
+Makhtar Diop 
+Country Director:  
+Bella Bird 
+Senior Global Practice Director:  
+Ede Jorge Ijjasz-Vasquez 
+Practice Manager:  
+Idrissa Dia 
+Task Team Leader:  
+Dean Cira 
+Co-Task Team Leader:  
+Bernard Harborne 
+iii 
+ 
+SOMALIA 
+Special Financing Facility for Local Development (SFFLD)  
+(P156257) 
+ 
+TABLE OF CONTENTS 
+I. 
+STRATEGIC CONTEXT ................................................................................... 1 
+A. Country Context ............................................................................................... 1 
+B. Situations of Urgent Need of Assistance or Capacity Constraints .................. 2 
+C. Sectoral and Institutional Context .................................................................... 2 
+D. Higher Level Objectives to which the Project Contributes ............................. 5 
+II. 
+PROJECT DEVELOPMENT OBJECTIVES ........                                           5 
+A. PDO.................................................................................................................. 5 
+B. Project Beneficiaries ........................................................................................ 5 
+C. PDO Level Results Indicators .......................................................................... 6 
+III. 
+PROJECT DESCRIPTION ................................................................................ 6 
+A. Project Components ......................................................................................... 6 
+B. Project Financing ............................................................................................. 8 
+C. Series of Project Objective and Phases ............................................................ 9 
+D. Lessons Learned Reflected in the Project Design............................................ 9 
+IV. 
+IMPLEMENTATION ....................................................................................... 11 
+A. Institutional and Implementation Arrangements ........................................... 11 
+B. Results Monitoring and Evaluation ............................................................... 13 
+C. Sustainability.................................................................................................. 13 
+V. 
+KEY RISKS ........................................................................................................ 14 
+A. Overall Risk Rating and Explanation of Key Risks....................................... 14 
+VI. 
+APPRAISAL SUMMARY ................................................................................ 16 
+A. Economic and Financial Analysis .................................................................. 16 
+B. Technical ........................................................................................................ 16 
+C. Financial Management ................................................................................... 17 
+D. Procurement ................................................................................................... 17 
+E. Social (including Safeguards) ........................................................................ 18 
+F. Environment (including Safeguards) ............................................................. 19 
+G. Other Safeguards Policies Triggered ............................................................. 20 
+H. World Bank Grievance Redress ..................................................................... 20 
+iv 
+ 
+Annex 1: Results Framework and Monitoring ........................................................... 21 
+Annex 2: Detailed Project Description ......................................................................... 27 
+Annex 3: Implementation Arrangements .................................................................... 33 
+Annex 4: Implementation Support Plan ...................................................................... 55 
+Annex 5: Systematic Operational Risk-Rating Tool................................................... 58 
+Annex 6: Environmental and Social Action Plan ....................................................... 66 
+Annex 7: MAP ................................................................................................................ 90
+vi 
+ 
+ 
+PAD DATA SHEET 
+Somalia 
+Special Financing Facility for Local Development Project (P156257) 
+Report No.: PAD1592 
+Basic Information  
+Project ID 
+EA Category 
+Team Leader(s) 
+P156257 
+B - Partial Assessment 
+Dean A. Cira, Bernard Harborne 
+Lending Instrument 
+Fragile and/or Capacity Constraints [ X ] 
+Investment Project Financing 
+- Fragile States 
+- Post-Conflict 
+ 
+Financial Intermediaries [   ] 
+ 
+Series of Projects [ X ] 
+Project Implementation Start Date 
+Project Implementation End Date 
+15-Jan-2016 
+30-Apr-2018 
+Expected Effectiveness Date 
+Expected Closing Date 
+15-Jan-2016 
+31-Dec-2017 
+Joint IFC - No 
+ 
+ 
+ 
+ 
+ 
+Practice 
+Manager/Manager 
+Senior Global Practice 
+Director 
+Country Director 
+Regional Vice President 
+Idrissa Dia 
+Ede Jorge Ijjasz-Vasquez Bella Bird 
+Makhtar Diop 
+Approval Authority 
+For projects financed from the Somalia Multi-Partner Fund, the final approving authority rests with the 
+Africa Regional Vice President. Approval is expected January 6, 2016. 
+Borrower: Federal Republic of Somalia  
+Responsible Agency: Ministry of Finance 
+  Contact: 
+Ali Haji Aden 
+  Title: 
+Head of PIU 
+  Telephone No.: 252617219999 
+  Email: mofsffpiu@gmail.com 
+Safeguards Deferral (from Decision Review Decision Note)  
+Will the review of Safeguards be deferred?  [ X ]  Yes     [   ]   No 
+Project Financing Data(in USD Million) 
+[   ] 
+Loan 
+[   ] 
+IDA Grant [   ] 
+Guarantee 
+[   ] 
+Credit [ X ] 
+Grant 
+[   ] 
+Other 
+Total Project Cost: 
+6.00 
+Total Bank Financing: 
+0.00 
+Financing Gap: 
+0.00 
+ 
+vii 
+ 
+Financing Source 
+Amount 
+Borrower 
+0.00 
+Somalia Multi-Partner Fund 
+6.00 
+Total 
+6.00 
+Expected Disbursements (in USD Million) 
+Fiscal Year 2016 2017 
+2018 
+0000 
+0000 
+0000 
+0000 
+0000 
+0000 
+0000 
+Annual 
+3.00 3.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Cumulative 3.00 6.00 
+6.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Institutional Data 
+Practice Area (Lead) 
+Social, Urban, Rural and Resilience Global Practice 
+Contributing Practice Areas - None 
+Cross Cutting Topics 
+[   ] 
+Climate Change 
+[ X ] 
+Fragile, Conflict & Violence 
+[   ] 
+Gender 
+[ X ] 
+Jobs 
+[   ] 
+Public Private Partnership 
+Sectors / Climate Change 
+Sector (Maximum 5 and total % must equal 100) 
+Major Sector 
+Sector 
+% 
+Adaptation 
+Co-benefits % 
+Mitigation 
+Co-benefits % 
+Public Administration, Law, and 
+Justice 
+Sub-national government 
+administration 
+50 
+ 
+ 
+Public Administration, Law, and 
+Justice 
+General public 
+administration sector 
+50 
+ 
+ 
+Total 
+100 
+ I certify that there is no Adaptation and Mitigation Climate Change Co-benefits information 
+applicable to this project. 
+Themes 
+Theme (Maximum 5 and total % must equal 100) 
+Major theme 
+Theme 
+% 
+Social dev/gender/inclusion 
+Conflict prevention and post-conflict 
+reconstruction 
+20 
+Social dev/gender/inclusion 
+Participation and civic engagement 
+20 
+Public sector governance 
+Decentralization 
+20 
+Urban development 
+City-wide Infrastructure and Service 
+Delivery 
+20 
+viii 
+ 
+Rural development 
+Rural services and infrastructure 
+20 
+Total 
+100 
+Proposed Development Objective(s) 
+To support the construction and reconstruction of infrastructure and the development of public service 
+delivery capacity in targeted areas of Somalia and support the Federal Government and Regional 
+Administrations’ capacity to respond to an eligible crisis or emergency. 
+Components 
+Component Name 
+Cost (USD Millions) 
+Small-Scale Infrastructure 
+3.90 
+Program Operations, Capacity Building, and Contingencies 
+2.10 
+Emergency Contingency Component 
+0.00 
+Systematic Operations Risk- Rating Tool (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+High 
+2. Macroeconomic 
+Substantial 
+3. Sector Strategies and Policies 
+Substantial 
+4. Technical Design of Project or Program 
+Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+Substantial 
+6. Fiduciary 
+High 
+7. Environment and Social 
+Moderate 
+8. Stakeholders 
+Substantial 
+9. Security 
+High 
+OVERALL 
+High 
+Compliance  
+Policy 
+Does the project depart from the CAS in content or in other significant 
+respects? 
+Yes [   ] 
+No [ X ] 
+Does the project require any waivers of Bank policies? 
+Yes [   ] 
+No [ X ] 
+Have these been approved by Bank management? 
+Yes [   ] 
+No [   ] 
+Is approval for any policy waiver sought from the Board? 
+Yes [   ] 
+No [ X ] 
+Does the project meet the Regional criteria for readiness for implementation? 
+Yes [ X ] 
+No [   ] 
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+X 
+ 
+Natural Habitats OP/BP 4.04 
+ 
+X 
+Forests OP/BP 4.36 
+ 
+X 
+Pest Management OP 4.09 
+ 
+X 
+ix 
+ 
+Physical Cultural Resources OP/BP 4.11 
+ 
+X 
+Indigenous Peoples OP/BP 4.10 
+ 
+X 
+Involuntary Resettlement OP/BP 4.12 
+ 
+X 
+Safety of Dams OP/BP 4.37 
+ 
+X 
+Projects on International Waterways OP/BP 7.50 
+ 
+X 
+Projects in Disputed Areas OP/BP 7.60 
+ 
+X 
+Legal Covenants 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Hiring of Project Implementation Unit 
+Staff 
+ 
+15-Apr-2016 
+ 
+Description of Covenant 
+Within three months of the effectiveness date, the Project Implementation Unit shall be fully staffed with 
+a Project Coordinator, a Deputy Project Coordinator, at least one Engineer, a Procurement Specialist, a 
+Financial Management Specialist, a Monitoring and Evaluation Specialist, a Communications Specialist, 
+and an Administration Officer. 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Immediate Response Mechanism 
+ 
+30-Jun-2016 
+ 
+Description of Covenant 
+The Recipient shall, prior to implementation of the Immediate Response Mechanism: (a) prepare and 
+furnish to the World Bank for its review and approval an operations manual which shall set forth 
+detailed implementation arrangements for the Immediate Response Mechanism. 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Development of a Project Operations 
+Manual 
+ 
+15-Apr-2016 
+ 
+Description of Covenant 
+Within three months of the effective date the Project Operations Manual will be finalized and adopted by 
+the Project Steering Committee. 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+A Project Steering Committee 
+ 
+15-Mar-2016 
+ 
+Description of Covenant 
+The Recipient shall establish not later than sixty (60) days after the Effective Date and thereafter 
+maintain throughout project implementation, a Project Steering Committee with terms of reference 
+satisfactory to the World Bank and with adequate resources to carry out its functions. 
+Conditions 
+Source Of Fund 
+Name 
+Type 
+ 
+ 
+ 
+Description of Condition 
+None 
+ 
+ 
+x 
+ 
+Team Composition 
+Bank Staff 
+Name 
+Role 
+Title 
+Specialization 
+Unit 
+Dean A. Cira 
+Team Leader (ADM 
+Responsible) 
+Lead Urban 
+Specialist 
+ 
+GSU19 
+Bernard Harborne 
+Team Leader 
+Lead Social 
+Development 
+Specialist 
+ 
+GSUGL 
+John F. A Etidau 
+Procurement 
+Specialist (ADM 
+Responsible) 
+Consultant 
+ 
+GGODR 
+Leonard Mutuku Matheka 
+Financial 
+Management 
+Specialist 
+Consultant 
+ 
+GGODR 
+Diego Garrido Martin 
+Team Member 
+Senior Operations 
+Officer 
+ 
+GCFDR 
+Edith Ruguru Mwenda 
+Counsel 
+Senior Counsel 
+Counsel 
+LEGAM 
+Geoff Handley 
+Team Member 
+E T Consultant 
+ 
+GGO19 
+Ibrahim Khalil Dajani 
+Peer Reviewer 
+Senior Infrastructure 
+Specialist 
+ 
+GTI05 
+Janerose Muboka Lubisia 
+Team Member 
+Team Assistant 
+ 
+AFMSO 
+Joseph A. Gadek 
+Team Member 
+Consultant 
+ 
+GSU13 
+Matthias Mayr 
+Team Member 
+Consultant 
+ 
+AFMSO 
+Salome Awuor Aganda 
+Team Member 
+E T Temporary 
+ 
+AFMSO 
+Sean Bradley 
+Peer Reviewer 
+Lead Social 
+Development 
+Specialist 
+ 
+GSUGL 
+Stavros George Stavrou 
+Peer Reviewer 
+Senior Social 
+Development 
+Specialist 
+ 
+GSU07 
+Stephen Mugendi 
+Mukaindo 
+Counsel 
+Counsel 
+ 
+LEGAM 
+Verena Phipps-Ebeler 
+Safeguards Specialist Social Development 
+Specialist 
+Social Safeguards 
+and Gender 
+GSU07 
+Wolfhart Pohl 
+Safeguards Specialist Adviser 
+ 
+GCFDR 
+Zishan Faiza Karim 
+Team Member 
+Social Development 
+Specialist 
+Social Development 
+GSU19 
+Extended Team 
+Name 
+Title 
+Office Phone 
+Location 
+Locations 
+Country 
+First Administrative 
+Division 
+Location 
+Planned 
+Actual 
+Comments 
+Consultants (Will be disclosed in the Monthly Operational Summary) 
+Consultants Required ? 
+Consultants will be required 
+ 
+1 
+ 
+I. 
+A. Country Context 
+1. 
+Somalia is a fragile and conflict-affected country emerging from violent contestation and 
+the absence of formal state structures capable of effectively performing core state functions. 
+Basic social and economic indicators illustrate that Somalia has low standards of living, a low 
+level of human capital, and a severe lack of basic infrastructure and enabling services. An 
+estimated 43 percent of Somalia’s population, of an estimated 12.4 million, is living in extreme 
+poverty. The gross national income per capita of US$284 is one of the lowest in the world. 
+Approximately 70 percent of the population has yet to reach the age of 30 and a large proportion 
+of youth lack basic education and employment opportunities.  
+2. 
+After two decades of civil war, Somalia’s future remains on a challenging but more 
+positive trajectory. The election of President Hassan Sheikh Mohamud by an appointed Somali 
+parliament in August 2012 and the inauguration of the Federal Government of Somalia (FGS) 
+offered a new beginning. This has been coupled with international recognition and gradual 
+normalization with the Bretton Woods institutions. The FGS’ Vision 2016 document anticipates 
+the completion of the constitutional process, the settlement of federal relations between the 
+center and the regions, and the holding of national legislative and executive elections by end of 
+2016.  
+3. 
+Yet the political ‘coalition-building’ process remains fragile. The FGS itself has been 
+beset by internal political conflict; there have been three prime ministers, each with their 
+respective cabinets in the last three years. Federal state entities, so-called “interim regional 
+administrations” (IRAs), are emerging; however their relationship, and that of Puntland (an 
+administration in the north established in 1998), with the central FGS remains fraught with issues 
+such as natural resources and revenue sharing. In turn, the relationship with Somaliland, the self-
+declared independent state in the northwest, remains to be settled.  
+4. 
+In addition, the FGS faces the related challenge of the Al Shabaab insurgency, 
+particularly affecting southern and central Somalia, and also Puntland. In support of the FGS, the 
+African Union has launched a large peacekeeping mission, AMISOM,1 now comprising 22,000 
+troops, which has, in conjunction with Somali national forces, gradually taken over territory once 
+controlled by Al Shabaab. The insurgents, still present in many rural areas in southern Somalia, 
+have changed tactics using hit-and-run assaults against AMISOM forces as well as terrorist 
+attacks particularly in urban areas, notably the capital Mogadishu, against the FGS and 
+international partners.  
+5. 
+The contested political process between federal and regional institutions, the protracted 
+insurgency led by Al Shabaab, and the limited reach of the government outside of the capital 
+reduce the visibility and impact of government-led development programs. The legitimacy of the 
+FGS is therefore severely challenged, as capacities to establish it are lacking on most fronts. The 
+transition process will not only depend on the ability of the political actors to put in place a 
+                                                 
+1 African Union Mission in Somalia 
+2 
+ 
+viable and effective state-society compact but also on the ability of the emerging government 
+structures to demonstrate their capacity as service providers and delivery agents.  
+B. Situations of Urgent Need of Assistance or Capacity Constraints  
+6. This Special Financing Facility for Local Development (SFF-LD) operation is being 
+processed using condensed procedures as provided for in the Bank’s OP 10.00. Paragraph 12 of 
+OP 10.00 (Projects in Situations of Urgent Need of Assistance or Capacity Constraints) can be 
+triggered because of conflict as well as capacity constraints due to fragility. Condensed 
+procedures allow for (a) the stages of identification, preparation, and appraisal to be consolidated 
+and (b) the decision to authorize negotiations to be taken after a single consolidated review of a 
+complete negotiations package. 
+ 
+7. In the Somali context, there is an active armed conflict between the FGS forces and its allies, 
+supported by AMISOM and international partners, and Al Shabaab. A combination of this 
+insurgency and decades of conflict has resulted in around 3 million persons in need of 
+humanitarian assistance, including over 1.1 million internally displaced persons. Further, given 
+the historical context, Somalia confronts critical capacity constraints with nascent formal public 
+institutions beset by weak human and financial resourcing and perceptions of fraud and 
+corruption. 
+C. Sectoral and Institutional Context 
+8. 
+The 2011 World Development Report on Conflict, Security and Development highlights 
+the need for governments in unstable situations to establish political ‘legitimacy’ by delivering 
+concrete outcomes as ‘signals of future intent,’ or demonstrations of a new and better 
+government narrative. Soon after the creation of the FGS in September 2012, it was agreed 
+between the Government of Norway (GoN) and the FGS presidency that two important ‘signals’ 
+in the early life of the FGS would be the regular payment of civil service salaries and an ability 
+to design, procure, and implement simple projects of value to local communities. In each case, 
+this would be the first time that any central government had managed to do such an activity in a 
+generation. Consequently, in December 2012, the GoN pledged US$30 million as a grant to the 
+Special Financing Facility (SFF), a project mechanism to be established within the Ministry of 
+Finance (MoF), to pay civil servants as well as manage a number of small-capital investment 
+projects for the regions. 
+9. 
+During this same period, AMISOM started an offensive campaign against Al Shabaab, 
+forcing the group out of many urban areas in southern and central Somalia. Critical for the 
+success of this campaign was the ability of the FGS and its partners to come in behind military 
+forces and start providing essential security, justice, governance, and basic social services. 
+International donors provide about US$50 million per year through various modalities in support 
+of these recovery and stabilization efforts in these areas (above and beyond humanitarian 
+assistance). In early 2014, the FGS’ Ministry of Interior and Federalism (MoI) established a 
+Stabilization Strategy for Newly Accessible Areas as part of an attempt to better coordinate 
+donor interventions in the recovery effort. Among the different initiatives supporting recovery, 
+the only project providing service delivery and small project assistance through government 
+systems was the SFF.  
+3 
+ 
+10. 
+The other important political change since the original design of the SFF-Norway has 
+been the emergence of the IRAs. Subproject allocations under the SFF-Norway had been made 
+equitably according to the 18 administrative regions designated (pre-1991) under the Siad Barre 
+regime (minus the 5 regions that comprise Somaliland). As part of the federal constitutional 
+process initiated in 2012, local elite-based coalitions have been formed with the intention of 
+forming the ‘federal member states’ that comprise the Federal Republic of Somalia upon a final 
+political settlement. To this end, the Interim Juba Administration was established in May 2013, 
+the Interim South West Administration in November 2014, and the Galmudug Interim 
+Administration in June 2015. These administrations remain institutionally very weak and provide 
+little more than rudimentary security and justice for the local populations. However, as part of 
+the political process, their ambition is to take on (as yet undefined) roles and responsibilities 
+under the new state formation. 
+11. 
+An illustration of these newly formed IRAs is set out in the map below (note that Hiraan 
+and Middle Shabelle have yet to be formed as an IRA).  
+Map 1 IRAs in Somalia 
+ 
+ 
+12.    In these areas, local communities confront enormous humanitarian and development 
+challenges. Nearly 1.7 million children lack access to education, 3.2 million persons lack access 
+to regular health services and around 2.75 million are in need of regular access to safe water (as 
+estimated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)).  
+4 
+ 
+13.     Only about 10–15 percent of the 2,600 km of primary roads are in good condition and less 
+than 10 percent of the 19,200 km of secondary roads are in good condition. Basic infrastructure 
+has been devastated by war damage, vandalism, and neglect. A joint needs assessment (JNA) 
+undertaken by the Bank and the United Nations (UN) in 2006 and updated in 2011, estimated 
+that some US$1.12 billion was required for immediate priorities in the transport and urban 
+infrastructure sectors.  
+ 
+14. 
+In late 2014, the GoN approached the Bank requesting support to review the progress of 
+the SFF-Norway with the potential to take over the management of the small-projects window 
+(the Bank has taken over the payment of civil service salaries with its Recurrent Costs Project in 
+August 2014). In February 2014, a Bank team assessed the SFF-Norway as well as the broader 
+efforts of international partners to support recovery and stabilization in southern and central 
+Somalia. In discussions arising out of that review, it was agreed between the FGS, the GoN, and 
+the Bank that the latter would seek financing through the Multi-Partner Fund (MPF) to take over 
+the SFF-Norway by the end of calendar 2015.  
+15. 
+Given the volatile security context as well as the institutional concerns over governance 
+and accountability, the decision was for a small ‘pilot phase’ to start the Bank engagement, with 
+the potential for this to be scaled up subject to achieving results and securing additional trust 
+funding from donors. As a series of projects (SoP), this initial grant will invest in ‘learning-by-
+doing’ with particular focus on investing in project implementation capacity in such areas as 
+citizen participation, monitoring and evaluation (M&E), and safeguards.  
+16. 
+Transitioning the SFF-Norway as the SFF-LD, a Bank-financed project implemented 
+through the FGS’ MoF is in line with the general objectives of the Somalia Reconstruction and 
+Development Facility (SDRF) and the multi-donor trust fund, the MPF, established to part-
+finance the SDRF. These objectives are also reflected in the Bank’s Interim Strategy Note (ISN) 
+for Somalia for FY14–16. The ISN (discussed at the Board on November 11, 2013) has two 
+priority areas: (a) strengthening core economic institutions and (b) expanding economic 
+opportunity. The ISN aligns the Bank’s work fully within the New Deal Framework of the 
+Somali Compact that is committed to key peace and state-building goals necessary to address the 
+binding constraints to poverty reduction in Somalia.  
+17. 
+The rationale for the SFF-LD is that (a) it continues to support the building of legitimate 
+public sector institutions by using government systems and demonstrating they can work; (b) 
+being housed within the MoF, it will play a critical role in helping define the division of roles, 
+responsibilities, and capacities between the central government and the states in the area of 
+development financing; (c) it begins to rebalance Bank support between the center and regions; 
+and (d) it supports recovery efforts for vulnerable populations in the most war-affected parts of 
+Somali territory. 
+18. 
+The SFF-LD will complement the current Bank program. Considerable resources have 
+been invested in the federal government public sector, strengthening public financial 
+management (PFM), institutional capacity, and payment of recurrent costs. While working 
+through the central FGS’ MoF, the SFF-LD will also start supporting the project implementation 
+capacity of the newly emerging IRAs. In turn, where the Somali Urban Project (anticipated 
+US$80 million) will invest in three main cities (Mogadishu, Garowe, and Hargeisa), the SFF-LD 
+5 
+ 
+will invest in secondary cities. Finally, the SFF-LD will be an important instrument for the FGS 
+in its coordination with other multi-partner programs led by bilateral institutions who are 
+financing stabilization and recovery activities in the south.2 
+D. Higher Level Objectives to which the Project Contributes 
+19.      The strategic outcome is to strengthen state legitimacy and government effectiveness in 
+peripheral areas while improving local governance and supporting economic recovery through 
+the construction and reconstruction of small-scale public infrastructure. The SFF-LD will also 
+provide for an integration of existing stabilization efforts throughout Somalia towards a stronger 
+link between ongoing government-supported security operations and government-led recovery 
+and development programming. In turn, strengthening federal-regional state relations is 
+important to retain the momentum towards the establishment of effective and capable 
+administration at all levels of government. The Project will also support the Bank’s twin goals of 
+eliminating extreme poverty and promoting shared prosperity. Somalia is one of the poorest 
+countries in the world with more than 70 percent of the population living in poverty and 43 
+percent living in extreme poverty. The Project will benefit these marginalized populations by 
+improving services and creating short-term employment opportunities. 
+ 
+II. PROJECT DEVELOPMENT OBJECTIVES 
+A. PDO 
+20.      The proposed project development objective (PDO) is to support the construction and 
+reconstruction of infrastructure and the development of public service delivery capacity in 
+targeted areas of Somalia and support the Federal Government and Regional Administrations’ 
+capacity to respond to an eligible crisis or emergency.  
+ 
+B. Project Beneficiaries 
+21.     To date, the SFF-Norway has financed 10 sub-projects in the three (pre-1991) regions of 
+Benadir, Hiraan, and Galgaduud. Typical sub-projects have included reconstruction of 
+administrative buildings, new markets, road improvements and street lighting which have 
+benefited the populations of those regions. In addition to the beneficiaries of the infrastructure 
+there have been more than 2,200 people benefiting from short-term job opportunities resulting 
+from the implementation of the sub-projects.  
+ 
+22.     The proposed SFF-LD will finance similar sub-projects, scaling-up eventually to all 
+regions. During the first phase of the proposed project it is estimated that sub-projects will be 
+financed in five regions benefitting more than 1 million people in the targeted regions through 
+the different types of infrastructure.  In addition, the project will benefit (a) the federal and 
+interim regional authorities through capacity building and by helping to strengthen their 
+                                                 
+2 These include the multi-donor UN Joint Program on Local Governance and Decentralized Service Delivery 
+(JPLG); the United States Agency for International Development (USAID) funded Transition Initiatives for 
+Stabilization (TIS); the multi-donor Community-Driven Recovery and Development program; and the multi-donor 
+Somalia Stability Fund (SSF). 
+6 
+ 
+legitimacy, and (b) around 2000 people who will get access to short term job opportunities 
+resulting from the implementation of the sub-projects. 
+ 
+C. PDO Level Results Indicators 
+23. 
+A set of indictors have been identified to capture all the elements mentioned in the PDO. 
+These PDO indicators will allow to assess the success of the project by the time of closure.  
+(a) Financed subprojects that are functioning/delivering services to communities three 
+months after completion (number);  
+(b) Direct project beneficiaries (number), of which female (percentage); 
+(c) Subprojects for which community or local authority engagement in post-project 
+sustainability and/or operations and maintenance (O&M) plan is established 
+(number);  
+(d) Perceptions of regional administrations or federal government performance on 
+subproject activity (percentage); 
+(e) Beneficiaries under the activated crisis response component (number). 
+ 
+III. PROJECT DESCRIPTION 
+A. Project Components 
+24.    Three components are proposed for the SFF-LD for a duration of 24 months. 
+Component 1: Small-scale Infrastructure (US$3.9 million)  
+25. 
+This component will finance small-scale local development activities in the pre-1991 
+regions of the FGS. The grant amounts to each region will continue the previous approach of 
+distribution following an ‘equal shares’ basis of US$700,000–750,000 per region. The grants 
+will cover design and supervision costs and the costs of implementation of the works or 
+activities. Following a process of consultation with the regions, projects will be identified and 
+agreed, based upon a positive list of potential subprojects. The positive list will be reviewed on a 
+rolling basis every six months. 
+26. 
+Eligible subprojects will include the following: 
+(a) Buildings: Construction or repair of administrative and community buildings 
+(b) Sanitation: Provision or repair of public sanitation facilities in primary health care or 
+education facilities where water supply is already available 
+7 
+ 
+(c) Roads: Rehabilitation of local roads (using labor intensive methods only), 
+construction or rehabilitation of foot paths, culverts, and bridges, including street 
+lights 
+(d) Health: Construction, repair, or extension of primary health care centers only in cases 
+where a health care worker is already present 
+(e) Education: Construction, repair, or extension of existing primary schools where a 
+teacher is already present and purchase of furniture or equipment for existing primary 
+schools 
+(f) Markets: Construction or repair of public markets 
+(g) Livestock: Construction or rehabilitation of livestock dips 
+(h) Energy: Small-scale, off-grid renewable energy projects (for example, street lights, 
+energy for public buildings, and markets) 
+Component 2: Program Operations and Capacity Building (US$2.10 million)  
+ 
+27. 
+This component will finance costs associated with overall project implementation and 
+additional capacity-building activities that will support the strengthening of the Project 
+Implementation Unit (PIU), the proposed new name of the Temporary Implementation Unit 
+(TIU), and the new emerging IRAs. This will have two subcomponents:   
+(a) PIU Operating Costs. This will cover the costs of PIU staff for a period of two years 
+and day-to-day operations, including the salaries and allowances of the PIU members, 
+consultancies required for technical assistance, project officers at the subnational 
+level and associated costs with the running of the PIU including, among others, office 
+running costs, program-related travel expenses, meetings costs, and project 
+assessment and monitoring costs. An annual work plan will be agreed between the 
+PIU and the Bank to establish the parameters of the costs and activities to be financed 
+under this subcomponent. 
+(b) Capacity Building. Technical assistance and capacity building will include 
+workshops, training, advisory services and learning-by-doing and will focus on 
+practical aspects of capital investment project management. Targeted audiences will 
+be the FGS ministries as well as IRAs. Capacity building will focus on areas 
+including M&E, communications and community outreach, and environmental and 
+social (E&S) safeguards. Capacity building will include both central and regional 
+stakeholders and will include both hands-on assistance as well as workshops aimed at 
+building capacity in these areas. 
+Component 3: Contingency Emergency Response (US$0) 
+ 
+28. 
+This component will allow for project funds to be used to address emergency works or 
+activities resulting from potential natural disasters. Somalia is routinely affected by natural 
+disasters, including drought and flooding. If such conditions rise to a critical level (as determined 
+8 
+ 
+by the FGS) during the implementation of the project, funds can potentially be allocated for 
+emergency works or activities resulting from such natural disasters. Subprojects or activities 
+supported under this component will be approved by the Steering Committee (SC). This 
+component will be similar to contingent components routinely included in IDA-funded projects; 
+the Project Operational Manual (POM) will outline the specific ‘emergency eligibility’ criteria 
+for triggering this component. 
+B. Project Financing 
+29.    While the Series of Projects is anticipated to have a notional overall financing envelope of 
+US$25 million from the MPF and will be implemented over a period of five to seven years, this 
+first pilot phase will be a total MPF funding of US$6 million, in two separate grants of US$4 
+million and US$2 million (due to the timing of donor contributions to the MPF) comprising three 
+components implemented over a period of two years.  
+30. 
+The SFF-LD will allocate US$6 million according to the system established by the MoF 
+for SFF-Norway: on an ‘equal shares’ approach ($700,000 per region) following the old pre-
+1991 administrative regions and complete the cycle of the 13 (out of a total of 18) regions that 
+comprise southern and central Somalia and Puntland. As the project scales up and responds to 
+the changing political context, the Bank and the MoF will have to assess how to potentially 
+cohere the SFF-LD with the new IRAs in terms of (a) equitable allocations and (b) project 
+identification, implementation, and oversight capacity. 
+31. 
+Other partners planning to support the TIU include the UN Resident Coordinator’s 
+Office, who are planning to finance projects for US$2 million. The UN prefers to finance 
+projects in Lower Jubba and either Mudug or Gedo. These investments will follow the PIU POM 
+and be aligned with processes agreed under this Project Appraisal Document (PAD). The initial 
+World Bank funding and the UN funding will together finance projects in Bay, Middle Shabelle, 
+Lower Jubba, Benadir, Lower Shabelle, Nugal and Bakool.  Subsequent funding rounds will 
+finance projects in remaining regions before recycling to regions covered in previous rounds. 
+Table 1: Phasing of SFF Projects by Region  
+(showing the continuity of allocations from SFF-Norway to SFF-LD) 
+ 
+Regions Covered 
+under SFF-Norway 
+ 
+ 
+Proposed First Set of 
+Regions under SFF-LD 
+Pilot Phase 
+ 
+Proposed Second Set of 
+Regions under SFF-LD Pilot 
+Phase 
+ 
+Proposed for 
+Subsequent Funding 
+Round 
+Region 
+Budget 
+in US$ 
+Region 
+Budget in 
+US$ 
+Region 
+Budget in 
+US$ 
+Region 
+Budget 
+in US$ 
+Benadir 
+700,000 
+Bay 
+700,000 
+Lower 
+Shebelle 
+700,000 
+Mudug 
+700,000 
+Hiraan 
+750,000 
+Middle 
+Shabelle 
+700,000 
+Nugal 
+700,000 
+Gedo 
+700,000 
+Galgaduud 
+750,000 
+Lower 
+Jubba 
+700,000 
+Bakool 
+700,000 
+Bari 
+700,000 
+– 
+– 
+Benadir 
+300,000 
+– 
+– 
+Middle 
+Jubba 
+700,000 
+TOTAL 
+2,200,000 
+ 
+2,400,000 
+ 
+2,100,000 
+ 
+2,800,000 
+ 
+9 
+ 
+32. 
+By way of background, the SFF-Norway project budget was initially allocated a total of 
+US$10 million, distributed on an ‘equal shares’ basis of US$750,0003 for each of the 13 pre-
+1991 administrative regions. The SFF-Norway initially envisaged that the sub-projects would be 
+rolled out in four phases on a region-by-region basis, to give the TIU the opportunity to go 
+through a complete project cycle and gain the experience required for effective project 
+implementation (see Table 1). Phase I has focused on Hiraan, Galgaduud, and Benadir. This 
+selection was justified by the TIU on grounds of security, accessibility, and cross-clan 
+representation. Resource constraints meant that the TIU has not proceeded through the phases as 
+rapidly as planned; subprojects under Phase I of the SFF-Norway were completed at end of 2015.  
+33. 
+The project cost components, categories, and allocations are outlined below (does not 
+include the US$2 million UN contribution; and residual funds have been added to component 1). 
+Project Components 
+Project Cost 
+US$ millions 
+MPF Financing 
+US$ millions 
+% Financing 
+1. Small-scale Regional Infrastructure 
+2. Program Operations and Capacity 
+Building 
+3. Contingency Emergency Response 
+3.90 
+ 
+2.10 
+ 
+– 
+3.90 
+ 
+2.10 
+ 
+– 
+100 
+ 
+100 
+ 
+– 
+Subtotal Project Costs 
+Total Financing Required 
+6.00 
+6.00 
+6.00 
+6.00 
+100 
+100 
+ 
+C. Series of Project Objective and Phases 
+34. 
+The SFF-LD project is part of a SoP approach to prepare a time-series of projects 
+supporting the client’s long-term development program, building on the lessons learned and 
+achievements from previous projects in the series supporting a complex combination of long-
+term investment activities along institutional changes, with needed flexibility in implementation. 
+The SoP supports the strategic objectives of the Somalia ISN (FY2014–2016) and the Somalia 
+MPF that is designed to serve Somalia for 10 years on progressing economic development and 
+strengthening core economic institutions. It is anticipated that future funding of follow-on 
+projects will be at least US$25 million. This pilot phase will include the signing of two Grant 
+Agreements:  one in the first year of implementation for US$4 million and one in the second year 
+for US$2 million. 
+D. Lessons Learned Reflected in the Project Design 
+35.    The SFF-LD represents a new type of investment for the Bank in Somalia as it is aimed at 
+financing activities in southern and central Somalia, well outside the confines of the capital city 
+Mogadishu. In designing the SFF-LD, the team has therefore looked at lessons elsewhere such 
+as: (a) the World Bank Post-Conflict Fund financed Community Development and Recovery 
+program in northern Somalia in the 2000s; (b) World Bank and other donor programs in conflict-
+settings; and (c) relevant policy and academic literature.  
+ 
+                                                 
+3 Note the sub-grant amount under the SFF-LD has been reduced to $700,000 to ensure adequate coverage.  
+10 
+ 
+36.   There is a tension between the pressures to rapidly intervene against taking time to 
+ensure participatory processes. The project is starting small with a view to scale-up but will 
+face some pressure to ensure rapid and regular disbursements. At the same time, there is a 
+consultation process with local communities and local authorities during which projects are 
+identified. However, these consultation processes will need to be strengthened over time to 
+ensure active participation, particularly from marginalized groups, and allow for robust 
+accountability mechanisms. 
+ 
+37. 
+There is a need to start area by area and region by region with a gradual scaling-up 
+to achieve economies of scale. The most cost-efficient approach to infrastructure development 
+in Somalia will be to tender for service providers to undertake a whole number of projects at one 
+time to achieve economies of scale. However, this does not necessarily accord with the current 
+sociopolitical context whereby the project will have to take local clan and other dimensions into 
+account. This will result in the potential for economies of scale in having service providers 
+working across regions only in later phases of the project; hence, the proposal for a SoP subject 
+to resources. 
+38. 
+Externally financed projects must be informed by close contextual knowledge, 
+building off existing platforms of collective action (particularly found in urban areas) and 
+sustained over time. Large infusions of project funding with short time horizons have tended to 
+be self-defeating. War has changed the population; collective action can be difficult and trust, 
+particularly with public sector institutions, has been damaged. However, there are many 
+examples4 of successful governance arrangements and cross-clan and group collective action, 
+particularly at the municipal level in urban areas. Resources will be allocated to the project 
+buying-in M&E expertise to enhance the learning aspect of the project; in addition, the Bank 
+team will be able to call upon the services of the independent monitoring agent (MA) for data 
+and analysis in the impact of project delivery. 
+39. 
+The public sector inevitably takes the lead in post-conflict environments with a slow 
+buildup of private sector growth. Experience suggests that the private sector is slow to start 
+investing in conflict-affected environments, the exception being telecommunications. Over time, 
+private investors tend to focus on those public goods which can be ‘tolled’ or receive a tariff, 
+such as water and electricity. Donor financing will be required in the ‘recovery phase’ while the 
+necessary conditions of stabilization and rule of law are gradually reestablished. 
+40. 
+Fraud and corruption are high risks in a conflict-affected context such as Somalia. 
+Operations need to take measures to minimize risks, including on the supply side, such as (a) 
+ensuring technical as well as financial audits; (b) publicized information for contract bids and 
+project budgets; and (c) establishment of complaint links and grievance redress mechanisms. 
+These have to be matched on the demand side by strengthening transparency (for example, 
+public information on walls and signs), accountability (for example, score cards for social 
+infrastructure and social audits) and participation (for example, establishment of user-
+management committees).  
+                                                 
+4 See, for example, Ken Menkhaus, Aid and Institution Building in Fragile States, UNU Wider 2014/02 
+11 
+ 
+41. 
+Measures to build in sustainability of small-scale investments. The European Union 
+stated in 1997 that there is great need to build a sense of ownership, through beneficiary 
+contribution and, in the long run, to build sustainability through good cost-recovery systems 
+and/or private management of public utilities. The historic and structural lack of maintenance in 
+Somali infrastructure, the tradition of non-sustainability, is behind much of the decay of facilities 
+such as water supplies and tarmac roads. Users of such facilities will have to find ways for 
+maintenance, based on an enhanced sense of ownership. (Midterm Review of the First 
+Rehabilitation Program for Somalia, European Union, 1997). To counter the risks of 
+unsustainability, measures will need to include (a) institutional arrangements, to ensure the 
+continuation of O&M activities post-project, for example, linked with the local authorities; (b) 
+capacity building of community/local authority capacity for such post-project support; (c) costs 
+related to O&M to be included in subproject envelopes; (d) technical designs to account for the 
+vernacular and availability of materials on the local market; (e) the results framework to include 
+one indicator relating to O&M; and (f) the building up of lessons, such as joint work with other 
+donors and the FGS on longitudinal technical and qualitative studies with specific focus on 
+O&M arrangements and sustainability. 
+42. 
+Recovery and development interventions need to be implemented through a conflict 
+lens with a high preponderance of traumatized beneficiaries, presence of militia, and the 
+availability of small arms. One specific legacy important for infrastructure projects is the 
+presence of landmines and unexploded ordinance. The larger Somali sub region has 
+experienced over forty years of conflict that has left a legacy of landmines and unexploded 
+ordinance. Some of this dates back to the Ethiopian-Somali war of the 1970s, particularly along 
+the border with the Ogaden, others are more the recent use by Al Shabaab of improvised 
+explosive devices. The UN Mine Action Service reports that anti-personnel landmines caused 
+about 4 percent of deaths and injuries in Somalia during 2011; however, unexploded ordinance 
+represented 55 percent and unknown explosive items another 32 percent.  
+43. 
+The SFF-LD builds on lessons learned from the implementation of the SFF-Norway 
+Project. The SFF-LD will build-up the project management capacity of the Project 
+Implementation Unit by bringing expertise beyond that originally funded by Norway to include 
+specialists in community engagement, communications and safeguards.  These were areas not 
+adequately addressed under the previous project. In addition, the SFF-LD increases capacity in 
+financial management, procurement and engineering so that there will be less dependency on 
+third party monitoring agents required. Finally, with a long-term vision and the Series of Projects 
+approach, the Bank financing of SFF-LD will evolve over time to devolve more direct 
+implementation to the regional level as conditions allow. 
+IV. 
+A. Institutional and Implementation Arrangements 
+44. 
+  The SFF-LD project will be implemented on behalf of the FGS by the MoF using 
+proceeds from the MPF through a Grant Agreement with the Bank. The MoF will have overall 
+responsibility for project implementation, in consultation and coordination with the IRAs. A PIU 
+will be established within the MoF and will report directly to the director general. The PIU, 
+having overall project management responsibility, will be supported by an independent 
+12 
+ 
+Monitoring Agent (MA) that has been contracted by the Bank to provide monitoring support of 
+all projects in the MPF Bank portfolio. 
+45.    The MA has committed in its technical proposal to conduct supervision missions to sites by 
+professional international engineers or architects that can be undertaken when the subproject 
+pipeline and timelines for construction work are known. The MA will further support Bank 
+supervision by gathering information from those directly involved in program implementation 
+and apply a structured, risk-based approach to monitor each individual project. Additionally, 
+Environmental and Safeguards (E&S), as discussed and agreed with the task team, can form a 
+part of the work program. The MA will make use of Global Positioning System technology to 
+document project results and findings with specific photographs. The MA will submit a monthly 
+activity summary, for which reporting details will be determined with the task team and the PIU. 
+Monthly reports focus on individual projects’ findings in support of program supervision. Each 
+report comprises an executive summary, an overview of project activities performed, and the 
+results of this work. The monthly reports can be addressed to the Bank and relevant Somali 
+partners. Depending on access restrictions and travel plans, these reports can be discussed 
+regularly, face-to-face with the Bank. If any physical meetings turn out to be unpractical and not 
+feasible, alternatives will be sought. The MA can further deliver capacity assessments to guide a 
+risk-based monitoring plan, specifically designed to support project management and 
+supervision. This could include E&S safeguards issues. Fiduciary and Human Resource 
+reporting, based on the MA’s support to other MPF operations will be discussed with the task 
+team and reviewed regularly. The PIU will be led by a project coordinator (PC), reporting to the 
+director general of the MoF. In addition, the PIU will include a deputy project coordinator (DPC) 
+and also include at the central level a monitoring and evaluation officer (MEO), procurement 
+officer (PO), engineer, communications officer (CO), financial officer (FO), and administrative 
+officer (AO). At the decentralized level, project officers will be included in each IRA and project 
+committees will be established comprising stakeholders from across civil society. Sub-projects 
+will be implemented in the regions (pre-1991) with procurement and financial management (FM) 
+functions centralized in the FGS MoF through the PIU. The sub-projects will be identified 
+through a consultative process that is led by the regions, with the support of the PIU/MoF and the 
+FGS Ministry of Interior. Selected sub-projects are approved by a Steering Committee that 
+includes the IRA, FGS. A regional project’s officer will oversee the day-to-day implementation 
+of sub-projects and will be supported by a Project Committee comprising regional stakeholders 
+from the public, private, and civil society sectors. Once completed, sub-projects are transferred 
+to the IRAs. 
+ 
+46.   The SFF-LD project will be implemented over a period of 24 months as the first in the SoP.  
+ 
+47.   Given that the SFF-LD is taking over the SFF-Norway, the project, and particularly the 
+PIU, is in a satisfactory state of readiness for rapid project implementation. The PIU Head, 
+Deputy and principal engineer are in place and two sub-projects have already been identified and 
+have undergone the preparatory phase of local consultation and drawing up of an agreement 
+reflecting consensus. Expressions of interest have been initiated ready to launch the contracting 
+process for design engineers as soon as the project is effective. In turn, an updated draft POM 
+was completed prior to negotiations and will be finalized within three months of effectiveness 
+and a consultant is working with the PIU on strengthening its guidance on community 
+participation and social accountability.  
+13 
+ 
+ 
+B. Results Monitoring and Evaluation (M&E) 
+48.     Results-based M&E will follow a methodology for measuring and monitoring results, as 
+well as for review. The baseline for measuring results under the SFF-LD will be validated within 
+six months of appraisal; responsibility will rest with the PIU complemented by close Bank 
+support. A results framework and monitoring matrix to track inputs, outputs, and outcomes has 
+been developed for the project with intermediate and key performance indicators (see Annex 1). 
+Project implementation progress will be monitored continuously and outputs and outcomes will 
+be reviewed during project supervision to evaluate progress using data compiled by the PIU.  
+ 
+49.      M&E will measure individual project performance according to results framework targets 
+and provide quarterly activity reports, targeting both the management of contractors as well as 
+external stakeholders. A baseline survey, annual beneficiary surveys to measure who and to what 
+extent people benefit from the infrastructure and services as well as how it affects their lives in 
+both social and economic terms, an end-line survey, an end term review and final 
+implementation completion report will be completed. In view of the SFF-LD’s nature and the 
+strategic importance of scaling up its activities to other areas in Somalia, the M&E system will 
+target the identification of lessons to be applied to the design of follow up projects. The Bank 
+team will provide technical support to the PIU as needed to carry-out its duties and 
+responsibilities toward this project.  
+ 
+50.      Further, it is envisaged that some components of the M&E system will be participatory, 
+engaging citizens and in conjunction with the focal points and community leadership in the 
+regions thus contributing towards the empowerment of communities, building trust among 
+implementation stakeholders and strengthening cohesion by the socialization of the results and 
+achievements of the project.  
+ 
+C. Sustainability 
+51. 
+The SFF-LD project has been designed for sustainability. At the project level, the design 
+rests on building on the success of the original SFF-Norway to ensure rapid roll-out by working 
+through an existing implementation framework, focusing on sub-projects that are simple and do 
+not require heavy investment in  O&M, and which can be implemented by local private sector 
+contractors. At the same time the SFF-LD has introduced a more robust M&E framework to 
+assess project impacts and evaluate any changes that will be needed as implementation 
+progresses. The new design also introduces a framework for evaluating the E&S impacts of sub-
+projects as well as providing for assurances that sub-projects will take into account their 
+downstream O&M of sub-projects after the assets are transferred to the IRAs and local 
+communities. A proven methodology for engaging regional stakeholders in all phases of the 
+project cycle will be strengthened with additional support for civic engagement. The SoP design 
+will allow for continual assessment of project implementation and impact and for changes to be 
+made with each new project in the series to ensure sustainability. 
+ 
+14 
+ 
+V. 
+A. Overall Risk Rating and Explanation of Key Risks 
+52. 
+A full Systematic Operations Risk-Rating Tool (SORT) is outlined in Annex 5; a 
+summary is presented in Table 2. 
+Table 2. Summary SORT Assessment 
+Risk Categories 
+Rating (H, S, M, or L) 
+1. Political and Governance  
+High 
+2. Macroeconomic  
+Substantial 
+3. Sector Strategies and Policies  
+Substantial 
+4. Technical Design of Project or Program  
+Moderate 
+5. Institutional Capacity for Implementation and Sustainability  
+Substantial 
+6. Fiduciary  
+High 
+7. Environment and Social  
+Moderate 
+8. Stakeholders  
+Substantial 
+9. Security 
+High 
+Overall  
+High 
+ 
+53. 
+  The overall risk rating for the SFF-LD project is High. The government is unfamiliar 
+with Bank investment operations requirements and does not have the capacity required to 
+manage projects. High risks posed by the challenging operational environment, continued 
+insecurity, inadequate institutional capacity, and a negative fiduciary track record have been 
+systematically addressed through project preparation activities. The Bank will continue to guide 
+institutional arrangements for project implementation and coordination and provide support 
+through project components, supervision and oversight, and clear reporting and accountability 
+mechanisms. The project emphasizes building a capable and effective platform up front with the 
+PIU to deliver small-scale investments in the regions over the project duration. In turn, the POM 
+includes guidance to the PIU on when to suspend activities due to insecurity and how, through 
+the SC, the sequencing of activities can be revised to mitigate project risks. 
+54. 
+  Political and governance risks are High. Al Shabaab still retains control of territory, 
+particularly in rural areas, and occasionally launches attacks on key urban areas. In turn, the 
+political process, including the relationship between the emerging IRAs and the central FGS, 
+remains fragile. This tension may be exacerbated by the anticipated elections in 2016. This risk 
+can enter the project level with political competition over scarce financial resources. In turn, 
+there is very low accountability, transparency, and general FM capacity. Mitigating measures 
+will include regular and systematic efforts to encourage collective project action at the technical 
+levels in the FGS and IRAs to sustain activity beyond any political turbulence. This will include 
+regular communication on project activities, allocations, and processes. With regard to fiduciary 
+risks, the Bank has generic support on the PFM for the FGS, undertook an extensive review of 
+the SFF-Norway, and has put in place the necessary measures, including the use of an 
+independent MA.   
+15 
+ 
+55. 
+  The macroeconomic risk is Substantial.  Somalia is one of the poorest countries, with 
+a gross national income of US$284. Some 80 percent of its exports are from one product—
+livestock—leaving it exceptionally prone to external economic shocks. The substantial 
+dependency of the FGS upon donor funding underlines the fiscal fragility and weak revenue 
+base. The Bank, working with others such as the International Monetary Fund (IMF), is engaged 
+in strengthening the overall macroeconomic and fiscal framework. This includes potential next 
+steps toward debt relief. As a SoP, project objectives and activities can be adjusted accordingly, 
+contingent on the overall environment.  
+56. 
+  Sector strategies and policies risks are Substantial. There are weak national 
+institutional structures accompanied by a fragmented stabilization process with many different 
+actors including the African Union peacekeeping mission, the UN, and a number of donor and 
+nongovernmental recovery activities. Once effective, the Bank will work with the PIU on how to 
+coordinate with partners and strengthen technical approaches to project challenges such as 
+safeguards and M&E.   
+57. 
+  Technical design risk is Moderate. Project activities are moderately complex in a 
+highly complex environment that comprises many political security and governance challenges. 
+The design of the project is relatively simple, with an incremental SoP approach to allow for 
+adjustments and a relatively substantive up-front investment in program management capacity to 
+create an effective project platform that could absorb additional funding when available.  
+58. 
+  The institutional capacity risk is Substantial. Capacity and authority in Somalia is 
+relatively weak given the history of conflict and mistrust with public institutions. Conforming to 
+the new draft guidelines of the Civil Service Commission, the project will ensure the recruitment 
+of the best consultants to act as FGS advisors in the project (including the head and deputy head) 
+and create a sufficiently attractive technical environment in which the best available staff can be 
+identified and retained.  
+59. 
+  Fiduciary risks are High. The FM and procurement environment in Somalia remains 
+inadequate. Levels of mismanagement, fraud, lack of transparency, and corruption exist, and 
+although anticorruption and public sector regulations are in place, problems persist, contributing 
+to low levels of trust in government institutions. Mitigation measures for governance issues have 
+been built in the project design in the form of strict fiduciary control mechanisms and application 
+of Bank fiduciary rules, as well as through targeted participatory and consultative mechanisms 
+for project activities and a focus on social accountability. The project will (a) ensure that a 
+dedicated procurement specialist with experience in Bank policies and the ability to provide 
+capacity building is embedded within the PIU; (b) include in the POM a well-described 
+procurement process; and (c) include oversight as part of the MA’s role. Further details on these 
+risks are outlined in the Financial Management section of Annex 3.  
+60. 
+ Environmental and Social Safeguard risk is Moderate. Given the relative simplicity 
+and small scale of the proposed activities the E&S risks are Moderate. Mitigating measures 
+include the rollout of the E&S Action Plan as well as further training and technical assistance to 
+PIU staff.  
+16 
+ 
+61.       Stakeholders’ risk is Substantial. Opposition from some stakeholders (civil society, 
+private sector organizations, other donors, and other members of the general public), in light of 
+the sectarian nature of the conflict and violence, can have a negative impact on the achievement 
+of the PDO. The project objectives are however clear and through a targeted communications 
+strategy, it is hoped that they should generally be well understood by an array of stakeholders. 
+ 
+62.      Security situation risk is High. Much of Somalia remains in conflict which affects 
+access to locations and insecurity for staff, both national and international. Mitigation measures 
+will include standard operating procedures for Bank staff combined with further training on risk 
+analysis and monitoring for the PIU.  
+ 
+VI. 
+A. Economic and Financial Analysis 
+63.   
+No precise estimate of the economic rate of return has yet been undertaken and a usual 
+economic and financial analysis for this program will be difficult given the paucity of economic 
+data, the ongoing conflict in Somalia, and the uncertainty in determining costs and benefits. 
+However, the implementation of the program can lead to a number of benefits to the population 
+through the increased legitimacy and functionality of the state. This can be done in a number of 
+ways: (a) the establishment of public infrastructure as an important building-block towards 
+effective administration generating public support and the restoration of public confidence in 
+state structures; (b) allowing the state to be seen to provide basic services to populations outside 
+Mogadishu as security is progressively expanded; (c) the integration of FM and procurement 
+systems between the federal and emerging state structures enabling a technical engagement 
+horizontally between the IRAs and vertically between the states and the FGS; and (d) the 
+strengthening of various local investment programs focusing on stabilization with the emerging 
+state institutions concerned with development programming.   
+ 
+64.   
+The public good nature of the investments to be financed by the Project, with a particular 
+focus on using government systems in stabilization activities in Somalia, justifies Bank 
+financing.  In addition, the Bank has extensive experience working in conflict environments in 
+similar projects where the Bank can bring significant value in helping to build state legitimacy 
+through small-scale infrastructure and utilizing participatory approaches. 
+ 
+B. Technical 
+65. 
+  The risk assessment in relation to the technical aspects of the project is rated as 
+Moderate. The TIU is in the process of executing works under the SFF-Norway in the Benadir, 
+Hiraan, and Galgaduud regions. The SFF-LD project preparation team met in Somalia with the 
+PIU officers involved with the implementation of the ongoing SFF-Norway to discuss the 
+implementation arrangements, procurement procedures, design modalities, contractors’ 
+availability and quality of work, construction supervision, labor-intensive construction 
+methodologies, and the choice of investments in infrastructure and services in relation to the 
+ability of the local population to operate and maintain the infrastructure.   
+17 
+ 
+66. 
+  The SFF-LD project preparation team’s assessment of the capacity of the PIU is 
+sufficiently high enough to undertake and implement the proposed SFF-LD and scale-up over the 
+coming years, as envisaged with the Series of Projects. There may be the need to recruit an 
+additional one or two engineering staff once the SFF-LD finances additional rounds. Additional 
+procurement staff might also be required; this is being taken up under the procurement section.   
+C. Financial Management 
+67.    The FM risk is assessed as High. This is confirmed in the UN-Bank JNA and the PFM 
+Needs Assessment which recognized that systems managing public resources are very weak. 
+Further, there is a rudimentary, unregulated banking sector with a high potential for money-
+laundering and vulnerability to financial crime. In addition, there is the potential of restricted 
+movement, high insecurity and volatility due to the active Al Shabaab insurgency. The Bank 
+therefore will work closely with the FGS to support and strengthen the use of country systems 
+without creating parallel arrangements and in line with the provisions of the ‘Somalia New Deal 
+Compact’. The FM arrangements will be continuously monitored through frequent FM 
+supervision and independent monitoring, and will be updated to reflect the emerging 
+developments in the FM systems. A detailed description of the project FM system and flow of 
+funds is provided in Annex 3.  
+ 
+D. Procurement 
+68. 
+  The FGS does not have the institutional capacity or a legislative framework to handle 
+robust public procurement. To strengthen the government procurement system, a Public 
+Procurement and Concessions Bill, one of five PFM bills, was prepared and tabled before the 
+parliament. At entity level, multilateral development agencies do not have any designated 
+procurement cadre. The institutional and managerial capacity remains very weak and poorly 
+staffed. The designated officers at the MoF, like all the other ministries and local governments 
+(regional administrations), do not have the desired skills and experience to handle public 
+procurement. 
+69. 
+  Procurement for the proposed project will be carried out in accordance with the latest 
+revision of the Bank’s ‘Guidelines: Procurement of Goods, Works, and Non-Consulting Services 
+under IBRD Loans and IDA Credits & Grants by World Bank Borrowers’ dated January 2011 
+(revised July 2014); and ‘Guidelines: Selection and Employment of Consultants under IBRD 
+Loans and IDA Credits & Grants by World Bank Borrowers’ dated January 2011 (revised July 
+2014), that facilitate dealing with the emergency and fragile situations in Bank-financed projects 
+and Recipient-executed Trust Funds. ‘Guidelines on Preventing and Combating Fraud and 
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, (the Anti-
+Corruption Guidelines)’ dated October 15, 2006 and revised in January 2011 and the provisions 
+stipulated in the Legal Agreement will be applied. Somalia being a fragile and conflict-affected 
+situations (FCS) country, procurement under the projects will be processed under special 
+procurement arrangements referred to in paragraph 20 of OP 11.00. 
+70.    Project procurement implementation arrangements and risk identification. The TIU 
+will be transformed into a PIU. Procurement under the project will be carried out by a PIU to be 
+established under the MoF, which will greatly benefit the PIU because it will draw on the 
+18 
+ 
+support from the Directorate of Procurement to compliment the role of the Procurement Officer 
+(PO) designated to the PIU. Due to the apparent capacity limitations, the diverse locations of 
+project sites, and the tight timelines for the implementation of the grant, a qualified and 
+experienced PO, conversant with project procurement and IDA procurement guidelines, will be 
+recruited competitively to strengthen the PIU. The PO will also be supported by the technical 
+assistance procurement specialist supporting other Bank projects and the procurement team 
+deployed under the Directorate of Procurement in the MoF. Detailed procurement arrangements 
+are in Annex 3. 
+ 
+E. Social (including Safeguards) 
+71. 
+  Somalia has been beset by armed conflict for over two decades. This has had an 
+enormous social impact upon the population. Society is fragmented along many social lines, real 
+and imagined, and in the absence of trusted public institutions, communities rely far more upon 
+informal networks and traditional structures such as clan elders. Various research suggests that 
+the best examples of cross-clan collective action has been established in the urban space 
+particularly at the municipal level where pragmatic search for solutions has overruled primordial 
+fears and mistrust.  
+72. 
+  However, given such social fragmentation, there remain many challenges around active 
+participation, recognition, and redress for many marginalized groups starting with women but 
+also including youth and certain minority sub-clans. These groups are often discriminated 
+against, stigmatized, and excluded from decision making. Externally financed projects have not 
+had a great track record in establishing systems and procedures to ensure inclusion of such 
+groups as well as strengthened accountability of decision making. Topics such as gender, 
+community participation, and social accountability will be examined by the Bank team and PIU 
+once the project is effective.  
+73. 
+The overall social impacts of the project are expected to be largely positive. The repair of 
+communities’ core infrastructure and assets will benefit a wide range of stakeholders, such as the 
+users of roads, markets, and public buildings. An intensive consultative process with community-
+based stakeholders, to identify and decide on the subprojects to be financed for a specific 
+community, is expected to strengthen cohesion and cooperation among the community members, 
+create a stronger sense of shared ownership, and ensure joint responsibility for the repair and 
+maintenance of assets. Finally, the implementation of FGS-funded projects through federal and 
+local agencies will increase citizen-government trust and perceptions of FGS’ reach, 
+competence, and accountability.  
+74. 
+All financed activities will take place on publicly-owned land, which will be free of 
+private use and encroachments. Most activities will be implemented on existing footprints of 
+infrastructure and buildings. There will be no acquisition of privately-owned land, or land used 
+by private parties for their individual livelihoods. The project will be implemented in urban 
+locations, and so there is a chance of physical cultural resources being encountered. Thus the 
+planned safeguards instruments, Environmental and Social Management Plans (ESMPs), will 
+contain provisions for chance finds, in case artefacts or other physical cultural resources are 
+discovered during civil works execution. Overall the project will mostly finance urban 
+infrastructure that was built during the past few decades and as such will not constitute cultural 
+19 
+ 
+heritage. None of the project-affected stakeholders can be considered indigenous peoples in the 
+terms of the policy. 
+75. 
+None of the social safeguards policies (OP 4.10, OP 4.11, OP 4.12) are triggered by the 
+Project. 
+F. Environment (including Safeguards) 
+76. 
+The specific project locations of future activities are currently unknown but will broadly 
+be located in urban surroundings, often close to the centers of urban agglomerations, usually in 
+the provincial capitals. The baseline conditions are expected to be characterized by an urban 
+environment, which has for considerable time been altered and impacted by human presence and 
+activity. The current environmental baselines, especially relating to environmental services, 
+waste management, pollution control, topsoil and vegetation management, drainage, erosion and 
+sedimentation, biodiversity, and human health and safety (including workplace and traffic safety) 
+are expected to be very low. 
+77. 
+Currently no national regulations, standards, or guidelines for E&S assessment and 
+management instruments exist in Somalia; thus, the project will need to rely on Bank policies 
+and standards, as well as international good practices for E&S assessment and management on 
+an operational level.  
+78. 
+Capacity for safeguards management is very low; capacity building will be built into the 
+project implementation period, in the form of a series of workshops in four or five urban centers 
+in Somalia. In addition, to avoid overly complex safeguards requirements, the positive list of 
+eligible project activities has been kept as simple and narrow as possible, with clearly defined 
+E&S issues that can be addressed with standard safeguards instruments (for example, checklist 
+type, preconfigured ESMP templates that only need to be completed with simple information). 
+Capacity building will then focus on basic principles and practical guidance regarding E&S 
+management and good housekeeping. Also, due to the lack of counterpart capacity, E&S 
+screening, the assignment and preparation of E&S instruments, and their implementation during 
+works execution will be part of the design/supervision engineers’ terms of reference (ToR).  
+79. 
+Due to (a) the lack of client capacity and (b) the need for urgent assistance, the Project 
+has been prepared under paragraph 12 of OP 10.00 for ‘projects in situations of urgent need for 
+assistance or capacity constraints’. The preparation of safeguards instruments has been deferred 
+to the implementation period; in lieu an Environmental and Social Action Plan (ESAP) has been 
+developed during the project preparation period (see Annex 7). Once the project becomes 
+effective, the Bank will assist the Borrower to prepare the appropriate E&S instruments. For 
+most subprojects, the expected impacts are minor and the safeguards requirements modest, given 
+that most structures and installations will have existed before and the project will only finance 
+their repair, reconstruction, or reinstatement. The expected typologies (for example, 
+repair/reconstruction of buildings, roads, and municipal infrastructure) mostly require simple, 
+checklist-type ESMPs that will become part of the works contracts, set the E&S standards and 
+compliance mechanisms, and serve as a contractual basis for supervision and enforcement of 
+good E&S practice during the works. 
+20 
+ 
+80. 
+Given the expected minor E&S impacts, the project triggers OP 4.01 (environmental and 
+social assessment) and has been classified as safeguards category B (limited impacts). 
+G. Other Safeguards Policies Triggered 
+81. 
+No safeguards policies other than those described have been triggered. No E&S issues 
+other than the ones described are expected to be encountered. 
+H. World Bank Grievance Redress 
+82. 
+Communities and individuals who believe that they are adversely affected by a Bank-
+supported project may submit complaints to existing project-level grievance redress mechanisms 
+or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are 
+promptly reviewed to address project-related concerns. Project-affected communities and 
+individuals may submit their complaint to the Bank’s independent Inspection Panel which 
+determines whether harm occurred, or could occur, as a result of the Bank’s noncompliance with 
+its policies and procedures. Complaints may be submitted at any time after concerns have been 
+brought directly to the Bank's attention, and Bank management has been given an opportunity to 
+respond. For information on how to submit complaints to the Bank’s corporate GRS, visit 
+http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s 
+Inspection Panel, visit www.inspectionpanel.org. 
+21 
+ 
+Country: Somalia 
+Project Name: Special Financing Facility for Local Development Project (P156257) 
+ 
+Project Development Objectives 
+PDO Statement 
+To support the construction and reconstruction of infrastructure and the development of public service delivery capacity in targeted areas of Somalia and support 
+the Federal Government and Regional Administrations capacity to respond to an eligible crisis or emergency. 
+These results are at 
+Project Level 
+Project Development Objective Indicators 
+ 
+ 
+Cumulative Target Values 
+Indicator Name 
+Baseline 
+2016 
+2017 
+End Target 
+Direct project 
+beneficiaries 
+(Number) - (Core) 
+0.00 
+250000.00 
+1000000.00 
+1000000.00 
+Female 
+beneficiaries 
+(Percentage - 
+Sub-Type: 
+Supplemental) - 
+(Core) 
+0.00 
+51.00 
+51.00 
+51.00 
+Financed sub-
+projects that are 
+functioning/ 
+delivering 
+services to 
+0.00 
+2.00 
+3.00 
+3.00 
+22 
+ 
+communities three 
+months after 
+completion (#) 
+(Number) 
+Perceptions of 
+Regional 
+Administrations 
+or federal 
+government 
+performance on 
+sub-project 
+activity (%) 
+(Percentage) 
+0.00 
+0.00 
+60.00 
+60.00 
+Sub-projects for 
+which 
+community/ or 
+local authority 
+engagement in 
+post-project 
+sustainability and/ 
+or O&M plan is 
+established (#) 
+(Number) 
+0.00 
+2.00 
+5.00 
+5.00 
+Beneficiaries 
+under the 
+activated crisis 
+response 
+component (#) 
+(Number) 
+0.00 
+ 
+ 
+ 
+Intermediate Results Indicators 
+ 
+ 
+Cumulative Target Values 
+Indicator Name 
+Baseline 
+2016 
+2017 
+End Target 
+Local Project 
+Oversight 
+Committees 
+0.00 
+2.00 
+5.00 
+5.00 
+23 
+ 
+established (#) 
+(Number) 
+Grievances 
+registered related 
+to project are 
+addressed (%) 
+(Percentage) 
+0.00 
+100.00 
+100.00 
+100.00 
+Interim Regional 
+Administrations 
+accompanying 
+project design and 
+implementation 
+(consultation, 
+identification, 
+procurement and 
+implementation 
+processes) (#) 
+(Number) 
+0.00 
+2.00 
+5.00 
+5.00 
+Roads 
+rehabilitated, 
+Non-rural 
+(Kilometers) - 
+(Core) 
+0.00 
+14.00 
+14.00 
+30 
+Sub-projects 
+completed as 
+planned and 
+within budget (#) 
+(Number) 
+0.00 
+2.00 
+5.00 
+5.00 
+Government 
+officials 
+participating in 
+capacity building 
+measures under 
+the project (#) 
+(Number) 
+0.00 
+20 
+40 
+100 
+Work days 
+created for short 
+0.00 
+50 
+100 
+150 
+24 
+ 
+term employment 
+in the sub-projects 
+(of which female) 
+(#) 
+(Number) 
+Specific POM for 
+the contingency 
+component 
+(Component 3) 
+has been adopted 
+(Yes/No) 
+N 
+ 
+ 
+ 
+ 
+Indicator Description 
+Project Development Objective Indicators 
+Indicator Name 
+Description (indicator definition etc.) 
+Frequency 
+Data Source / Methodology 
+Responsibility for Data 
+Collection 
+Direct project beneficiaries 
+Direct beneficiaries are people or groups who 
+directly derive benefits from an intervention 
+(i.e., children who benefit from an 
+immunization program; families                          
+that have a new piped water connection). 
+Please note that this indicator requires                
+supplemental information. Supplemental 
+Value: Female beneficiaries (percentage)           
+. Based on the assessment and definition of 
+direct project beneficiaries, specify                     
+what proportion of the direct project 
+beneficiaries are female. This indicator               
+is calculated as a percentage. 
+Bi-annual 
+Sub-Project Progress Reports 
+PIU (MEO) 
+Female beneficiaries 
+Based on the assessment and definition of 
+direct project beneficiaries, specify what 
+percentage of the beneficiaries are female. 
+Once per sub-
+project 
+Progress Report 
+PIU 
+Financed sub-projects that are Measures share of sub-projects effectively 
+Bi-annually 
+Sub-project Progress Reports 
+PIU (MEO) 
+25 
+ 
+functioning/ delivering 
+services to communities three 
+months after completion (#) 
+delivering services in the respective project 
+location. Sub-projects under Component 3 are 
+not considered to calculate this indicator. The 
+limited project duration only allows to assess 
+project progress three month after completion. 
+Perceptions of Regional 
+Administrations or federal 
+government performance on 
+sub-project activity (%) 
+The survey will also capture detailed 
+dimensions like: - beneficiary satisfaction with 
+sub-project activity - beneficiary satisfaction 
+with IRA performance, intentions - beneficiary 
+satisfaction with planning/ consultation 
+process Etc. 
+Once per 
+completed 
+sub-project 
+Perception Surveys 
+PIU (MEO) 
+Sub-projects for which 
+community/ or local authority 
+engagement in post-project 
+sustainability and/ or O&M 
+plan is established (#) 
+Measures the existence of specific 
+arrangements created under the project to 
+ensure ownership by project beneficiaries. 
+Along the practice under the SFF-Norway 
+project, the signing of the “Sustainability 
+Agreement”, as specified in the POM, will 
+serve as the measure for this indicator. 
+bi-annual 
+Sub-project progress reports 
+PIU (MEO) 
+Beneficiaries under the 
+activated crisis response 
+component (#) 
+Only used if and when Component 3 is 
+triggered. Targets to be determined when and 
+if Component 3 is triggered. 
+ad hoc 
+Sub-project progress reports 
+PIU 
+Intermediate Results Indicators 
+Indicator Name 
+Description (indicator definition etc.) 
+Frequency 
+Data Source / Methodology 
+Responsibility for Data 
+Collection 
+Local Project Oversight 
+Committees established (#) 
+For each sub-project an oversight committee 
+will be established. 
+with every 
+sub-project 
+Quarterly Reports 
+PIU 
+Grievances registered related 
+to project are addressed (%) 
+For each sub-project % 
+annual 
+Annual Report 
+PIU 
+Interim Regional 
+Administrations 
+accompanying project design 
+and implementation  (#) 
+The indicator will measure the participation of 
+IRA Project Officers throughout the sub-
+project design and implementation as specified 
+in the POM. 
+annual 
+Quarterly and Annual Reports PIU 
+Roads rehabilitated, Non-rural Kilometers of all non-rural roads reopened to 
+motorized traffic, rehabilitated, or upgraded 
+annual 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+26 
+ 
+under the project.  Non-rural roads are roads 
+functionally classified                                          
+in various countries as Trunk or Primary, 
+Secondary or Link roads, or sometime                
+s Tertiary roads. Typically, non-rural roads 
+connect urban centers/towns/settlements             
+of more than 5,000 inhabitants to each other or 
+to higher classes of road,                                     
+market towns and urban centers.  Urban roads 
+are included in non-rural roads. 
+Sub-projects completed as 
+planned and within budget (#) 
+Once the exact sub-projects have been 
+identified, specific reference will be made in 
+the ISR to report project outcomes. 
+annual 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+Government officials 
+participating in capacity 
+building measures under the 
+project (#) 
+Officials from all levels of government are 
+eligible for capacity building mechanisms 
+under the project as agreed. 
+annual 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+Work days created for short 
+term employment in the sub-
+projects (of which female) (#) 
+Once the exact sub-projects have been 
+identified, specific targets will be made 
+explicit. 
+annual 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+Work days created for short 
+term employment in the sub-
+projects for women (%) 
+Based on sub-project implementation records. annual 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+Specific POM for the 
+contingency component 
+(Component 3) has been 
+adopted 
+No contingency manuals exist as yet for the 
+FGS.  
+ad hoc 
+Annual Report; Sub-project 
+progress reports 
+PIU 
+27 
+ 
+ 
+SOMALIA: Special Financing Facility for Local Development Project (P156257) 
+ 
+A. Project Description 
+ 
+1.      The SFF-LD builds on the successful SFF-Norway project. It is designed to support a 
+simple process for the planning, financing, implementation and oversight of small-scale public 
+works in support of the FGS’s state and peace building objectives. Evidence suggests that the 
+efficient and fair provision of goods and services plays a key role in building public confidence 
+in a government during its initial phase of establishment and consolidation. To that end, the 
+objective of the SFF-LD is to support the construction and reconstruction of infrastructure and 
+the development of public service delivery capacity in targeted areas of Somalia and support the 
+Federal Government and Interim Regional Administrations capacity to respond to an eligible 
+emergency. 
+ 
+2. 
+The project is conceived as a SoP. While drawing extensively from the experience of the 
+SFF-Norway, the first project of the series to be funded by the MPF is envisaged as a pilot. As 
+experience is consolidated during the implementation of the pilot, lessons will be internalized 
+and, conditions permitting, the SoP approach will allow for the scaling up of the pilot phase to 
+additional regions and potentially allow for incremental implementation changes in subsequent 
+phases as conditions warrant and allow (for example, the potential to move from centralized 
+implementation to a decentralized block-grant system in line with the establishment of the new 
+IRAs, or Federal Member States, once the constitution has been finalized).  
+3. 
+While the SoP is anticipated to have a notional overall financing envelope of US$25 
+million from the MPF and will be implemented over a period of five to seven years, this first 
+pilot phase will comprise total MPF funding of US$6 million, in two separate grants of US$4 
+million and US$2 million (due to MPF cash flow and timing of donor contributions), comprising 
+three components, implemented over a period of two years.  
+B. Project Components 
+ 
+4.     Three components are proposed: 
+ 
+Component 1 Small-scale Infrastructure (US$3.90 million) 
+5. 
+This component will finance small-scale local development activities in 13 of the pre-
+1991 administrative regions of Somalia (out of a total of 18). The grant amounts to each region 
+will continue the previous approach of distribution, adopted by the SFF-Norway, following an 
+‘equal shares’ basis of US$700,000–750,000 per region. The grants will cover design and 
+supervision costs and the costs of implementation of the works or activities. Following a process 
+of consultation with the regions, project’s will be identified and agreed and will be based on a 
+positive list of potential subprojects. 
+ 
+28 
+ 
+Component 2: Program Operations and Capacity Building (US$2.10 million)  
+6. 
+This component will finance costs associated with overall project implementation and 
+additional capacity-building activities that will support the strengthening of the PIU (proposed 
+new name of the TIU) and the emerging IRAs. It will have two subcomponents:   
+(a) PIU Operating Costs (US$1.34 million). This subcomponent will cover the costs of 
+PIU staff for a period of 2 years and costs of day-to-day operations, including the 
+salaries and allowance costs of the PIU members, consultancies required for technical 
+assistance, project officers at the subnational level, and associated costs with the 
+running of the PIU including, among others, office running costs, program-related 
+travel expenses, related meetings costs, and project assessment and monitoring costs. 
+An annual work plan will be agreed between the PIU and the Bank to establish the 
+parameters of the costs and activities to be financed under this subcomponent. 
+(b) Capacity Building (US$0.76 million). Technical assistance and capacity building will 
+include workshops, training, advisory services and learning-by-doing and will focus 
+on practical aspects of capital investment project management. Targeted audiences 
+will be FGS ministries as well as IRAs. Areas of capacity building will include M&E, 
+procurement, communications and community outreach, and E&S safeguards. 
+Capacity building will be provided at both central and decentralized levels. It will 
+include a combination of just-in-time support in addition to structured workshops built 
+around the project components and requirements for effective implementation.   
+Component 3: Contingency Emergency Response (US$0) 
+7.     This component will allow for project funds to be used to address emergency works or 
+activities resulting from potential external shocks, such as natural disasters. Somalia is routinely 
+impacted by drought, flooding, and other shocks. If such conditions rise to a critical level (as 
+determined by the FGS) during the implementation of the project, funds can potentially be 
+allocated for emergency works or activities in response. Subprojects or activities supported under 
+this component will be approved by the SC. This component will be similar to contingent 
+components routinely included in IDA-funded projects. 
+ 
+C. Geographic Coverage 
+8. 
+The SFF-LD will cover 13 regions of Somalia (out of a total of 18), using the boundaries 
+of the administrative regions as they existed before 1991. The project will be rolled out to 
+regions using a phased approach which was first established under the original SFF-Norway 
+arrangements. Under the SFF-Norway, subprojects were carried out in the Benadir, Hiraan, and 
+Galgaduud regions. Under the pilot phase of the SFF-LD, it is anticipated that subprojects will be 
+rolled out in the first instance to Benadir, Bay, Middle Shabelle, and Middle Juba regions and 
+subsequently to the Lower Shebelle, Nugal, and Bakool regions, with future tranches of the SoP 
+rolling out to Mudug, Gedo, and Bari regions, before returning to regions covered in earlier 
+phases. The timing and roll out will be flexible to respond to security and political conditions in 
+Somalia. 
+29 
+ 
+ 
+Table 2.1. Original Plan for Phasing of SFF-LD Projects by Region (showing the continuation from the first 
+allocations per region under SFF-Norway) 
+ 
+Regions Covered under 
+SFF-Norway 
+ 
+ 
+Proposed First Set of 
+Regions under SFF-LD 
+Pilot Phase 
+ 
+Proposed Second Set of Regions 
+under SFF-LD Pilot Phase 
+ 
+Proposed for Subsequent 
+Funding Round 
+Region 
+Budget in 
+US$ 
+Region 
+Budget in 
+US$ 
+Region 
+Budget in 
+US$ 
+Region 
+Budget in 
+US$ 
+Benadir 
+700,000 
+Bay 
+700,000 
+Lower Shebelle 
+700,000 
+Mudug 
+700,000 
+Hiraan 
+750,000 
+Middle 
+Shabelle 
+700,000 
+Nugal 
+700,000 
+Gedo 
+700,000 
+Galgaduud 
+750,000 
+Lower Jubba 
+700,000 
+Bakool 
+700,000 
+Bari 
+700,000 
+– 
+– 
+Benadir 
+300,000 
+– 
+– 
+Middle Jubba 
+700,000 
+TOTAL 
+2,200,000 
+ 
+2,400,000 
+ 
+2,100,000 
+ 
+2,800,000 
+ 
+D. Eligible Subprojects 
+9. 
+A positive list of eligible subprojects and activities to be financed under Component 1 
+have been agreed, based on projects that were financed under the SFF-Norway, the demand 
+demonstrated from the regions, and similar projects financed in conflict and fragile state 
+environments. The positive list includes the following public works projects: 
+(a) Buildings: Construction or repair of administrative and community buildings 
+(b) Sanitation:  Provision or repair of public sanitation facilities in primary health care or 
+education facilities where water supply is already available 
+(c) Roads:  Rehabilitation of local roads (using labor-intensive methods only), 
+construction or rehabilitation of foot paths, culverts and bridges, including street 
+lights 
+(d) Health:  Construction, repair, or extension of primary health care centers only in cases 
+where a health care worker is already present 
+(e) Education:  Construction, repair, or extension of existing primary schools where a 
+teacher is already present and purchase of furniture or equipment for existing primary 
+schools 
+(f) Markets:  Construction or repair of public markets 
+(g) Livestock:  Construction or rehabilitation of livestock dips 
+(h) Energy:  Small-scale, off-grid renewable energy projects (for example, street lights, 
+energy for public buildings, and markets) 
+ 
+10. 
+SFF-LD subprojects will not include buildings related to security functions of the states 
+(for example, prisons, courts, and police stations). The positive list of subprojects will be 
+reviewed on a regular basis (every six months) with the possibility of revision based on 
+expressed demand from regions and any changes will be agreed and endorsed by the SC. 
+Subprojects will be expected to generate short-term employment and to that end will favor labor-
+intensive approaches to construction. O&M plans are expected to be developed for all 
+subprojects and agreed by the regions as part of the handover of the assets. 
+30 
+ 
+11. 
+The list of eligible activities and public works projects will be reviewed by the Bank and 
+the PIU and agreed upon on an annual basis. In no case, however, would works or activities be 
+considered that will trigger significant negative environmental or social impacts.  To date the 
+following SFF-Norway sub-project were completed or were on-going at the time of appraisal 
+Table 2.2. SFF-Norway Subprojects 
+No. 
+Region 
+Project Description 
+Cost (US$) 
+Timeline 
+1 
+Hiraan 
+Rehabilitation of Regional 
+Administration Block 
+287,116 
+Completed 
+2 
+Hiraan 
+Rehabilitation of District 
+Administration Blocks 
+76,804 
+Completed 
+3 
+Hiraan 
+Construction of Market 
+148,994 
+Completed 
+4 
+Hiraan 
+Construction of Market 
+148,994 
+Completed 
+5 
+Galgaduud 
+Rehabilitation of Regional 
+Administration Blocks I 
+368,399 
+Completed 
+6 
+Galgaduud 
+Rehabilitation of Regional 
+Administration Blocks II 
+180,817 
+December 2014–September 2015 
+7 
+Galgaduud 
+Construction of Livestock 
+Market 
+148,817 
+Completed 
+8 
+Benadir 
+Talex Road 
+154,998 
+80 percent completed 
+9 
+Benadir 
+Afarta Jardino Road 
+240,541 
+80 percent completed 
+10 
+Benadir 
+Villa Somalia Road 
+304,461 
+80 percent completed 
+Total Cost 
+ 
+2,059,941 
+ 
+ 
+12. 
+Consultations have been undertaken in the regions of Bay, Middle Shabelle, and Lower 
+Juba with the expectation that subprojects in those regions would have been financed by the 
+original funding from Norway. However, with the decision to shift financing through the MPF 
+under Bank supervision, those projects originally identified will be financed under the SFF-LD 
+pilot and will constitute the first set of subprojects to be financed under the project. The 
+subprojects include: 
+(a) Lower Juba (Kismayo): A correctional facility, courts, and city sanitation. These were 
+not approved under the SFF-Norway and cannot be financed under the SFF-LD under 
+the agreed negative list. Funding could potentially come from a different source; new 
+project activities will be identified accordingly. 
+(b) Bay (Baidoa): The upgrading of the city’s main road (6 km) and provision of 
+firefighting equipment. The road was approved and the priority will be reconfirmed 
+for the SFF-LD funding. 
+(c) Middle Shabelle: The rehabilitation of the Kongo Village-Jowhar Town road (5.5 km) 
+and street lights for Jowhar Town. These will be reconfirmed for the SFF-LD 
+funding. 
+ 
+E. Principles of Engagement 
+13. 
+The design of the proposed project has been developed to take into account the 
+challenging environment of the country and its rapidly changing circumstances. In so doing, 
+principles of engagement, rather than a prescriptive blueprint, have been adopted. The 
+preparation and implementation has also benefitted from the experience of the SFF-Norway and 
+the proposed operation is a continuation of those efforts. The team has worked closely with the 
+31 
+ 
+TIU (now rebranded as the PIU) within the MoF to identify important lessons and guidance 
+which will be incorporated into the project design. The principles are summarized below: 
+14. 
+National coverage: The intent of the project is to focus initially on identified project 
+sites with the perspective to develop the instrument to be applicable throughout the territory. By 
+investing in areas that have not had significant government or donor attention, the project will 
+mitigate perceived biases of resource allocation and integrate peripheral areas technically and 
+administratively.  
+15. 
+Tangential approach to development impact: The SFF-LD is an investment project of 
+small-scale infrastructure to strengthen legitimacy of emerging government institutions. 
+However, legitimacy can hardly be imposed from the outside. Instead, the project will focus on 
+tangible outputs—administrative buildings or other local public infrastructures—to lead to the 
+project outcome—legitimacy—using the SFF-LD as a methodology to link the former to the 
+latter. The SFF-LD extends beyond infrastructure building; it promotes intergovernmental 
+relations, use of country systems, and enhanced integration of center-periphery institutions. 
+16. 
+Operational flexibility: The project design will allow for rapid adaptation, because of 
+(a) largely unknown local capacities and opportunities; (b) a volatile environment and significant 
+regional differences; and (c) lack of data for most parts of the territory. Project implementation 
+will thus be modular, iterative, and incremental, learning from successes and failures as the 
+project deploys to new sites. From the onset, it is important to note that the project is risky and 
+will likely require restructuring as conditions warrant 
+17. 
+Simple implementation process: The project design will be simple, technically and 
+institutionally. The risk of failures and delays in delivery will increase with operational 
+sophistication in Somalia at this point. Building on experiences gained throughout the phase of 
+the SFF-Norway and other stabilization programs employing similar instruments of public 
+investment can significantly inform and strengthen operations toward establishing legitimacy for 
+emerging authorities. 
+18. 
+Do no harm: Given the contested areas the project will operate in, the project team will 
+ensure that the project does not inadvertently exacerbate tensions. To this end, the project will 
+engage inclusively with local power-brokers, existing institutions, including informal ones, and 
+communities. It will also promote a non-threatening return of state presence and services, hence 
+a focus on infrastructure investment by formal public authorities in the emerging IRAs.  
+F. Project Access and Location 
+19.        The SFF-LD is being implemented in a country with active armed conflict. As Map 2.1 
+indicates, in the shaded and color-block areas, the African Union peacekeeping mission and FGS 
+security forces and allies are increasingly in control of main urban areas and highways. 
+Subprojects are being implemented in and around pre-1991 administrative regional capital towns 
+that so far have been the most secure liberated areas. The SFF-LD will not be active in rural 
+areas. Given the country’s volatility, this context will need to be constantly monitored and 
+project adjustments made accordingly. 
+ 
+32 
+ 
+Map 2.1. Conflict across Somalia  
+ 
+ 
+33 
+ 
+SOMALIA: Special Financing Facility for Local Development (P156257) 
+ 
+Project Institutional and Implementation Arrangements 
+1. 
+ The project will be implemented on behalf of the FGS by the MoF using proceeds from 
+the MPF through a Grant Agreement with the Bank. The MoF will have overall responsibility 
+for project implementation, in consultation and coordination with IRAs. A PIU will be 
+established within the MoF and will report directly to the Director General. The PIU, which will 
+have overall project management responsibility will be supported by the independent MA which 
+has been contracted by the Bank to provide monitoring support of all projects in the MPF 
+portfolio. A schema for project implementation is outlined below.  
+  
+ 
+ 
+ 
+ 
+ 
+2. 
+PIU. The project will be implemented by a PIU (formerly the TIU) which will be housed 
+in the MoF. The PIU will be led by a PC who will report to the Director General of the MoF. In 
+addition, the PIU will include a DPC and will also include an MEO, PO, engineer, CO, FO, and 
+administrative officer at the centralized level. At the decentralized level projects officers will be 
+included in each region. Details for each officer are given in the following paragraphs. 
+3. 
+Project coordinator. The PC will have overall responsibility for the management of the 
+PIU and the PIU team. The PC will also be the primary interlocutor for the project with the 
+Minister of Finance and the Bank. The PC will also ensure the project is implemented in 
+compliance will all fiduciary and safeguards requirements, reviewing and approving all reporting 
+Somalia Development and Reconstruction 
+Framework  PSG4 Working Group 
+Steering Committee 
+(Chair - Ministry of Finance) 
+PIU 
+(Ministry of Finance) 
+World Bank/Monitoring 
+Agent 
+Bidding Committee 
+Tender Committee 
+Service Providers 
+Subproject Oversight 
+Committees 
+Figure 3.1. Project Implementation Schema 
+34 
+ 
+on the project within the ministry and with the Bank. The PC shall also ensure active 
+engagement with other ministries and regional and administrative districts in the implementation 
+of the project to ensure its smooth implementation. 
+4. 
+Deputy project coordinator. The DPC will have direct oversight of operations, including 
+the implementation of the subprojects. In addition, the DPC shall have direct oversight of the 
+regional level project officers, engineers, and the financial and administrative officers (AOs). 
+The DPC will also be responsible for direct oversight of contract management and ensuring the 
+effective execution of all contracts, in coordination with the engineer(s). The DPC will also be 
+responsible for ensuring that proper consultative processes are undertaken at the regional level in 
+the formulation of subprojects. 
+5. 
+Engineer. The PIU will include up to two engineers, depending on the workflow, who 
+will provide technical support to the DPC and project officers. The engineer will be responsible 
+for overseeing the preparation of the consultant teams preparing the subprojects, oversee 
+preparation of bidding documents, and be involved in the assessment of bids and consultant 
+processes for work related to subprojects. The engineer will also be responsible for assessing the 
+quality and progress of subprojects and will coordinate with the MA as well as the MEO and the 
+PO. 
+6. 
+Procurement officer. The PO will be responsible for providing proper guidance to the 
+PIU on the procurement process and shall be responsible for preparing, implementing, and 
+monitoring the project procurement plans. The PO will report to the PC but will maintain a 
+reporting relationship to the Director of Procurement in the MoF. 
+7. 
+Financial Management Officer (FMO). The project will externally recruit a financial 
+management specialist (FMS) to be based at the PIU. The MoF shall identify and second a 
+government accountant to the PIU. The FMS will be charged with the responsibility of setting up 
+the FM function at the PIU, training and building the capacity of the accountant, and 
+coordinating the FM function between the PIU and the External Assistance Fiduciary Section 
+(EAFS). The FMS and the accountant are expected to work in close coordination with the head 
+of the PIU. 
+8. 
+Monitoring and Evaluation Officer. The MEO will be responsible for overall M&E of 
+the project. This will include monitoring the physical and financial progress of the project. In 
+addition, the MEO shall be responsible for managing the project’s overall M&E framework to 
+ensure that the project is on track to meeting its development objectives, its expected outputs and 
+outcomes, and the intended beneficiaries. The MEO will work in close consultation and 
+coordination with the engineer, the FO, project officers, and the Bank’s independent MA. 
+9. 
+Communications officer (CO). The CO will be responsible for raising awareness of the 
+program and the program activities. The CO will work closely with the communications team in 
+the offices of the president and the prime minister to ensure that communications of the program 
+are consistent with overall government communications. The CO will also oversee the 
+management and production of the SFF website and other media related to the project. 
+35 
+ 
+10. 
+Administrative officer. The AO will be responsible for supporting the PIU in all 
+administrative tasks. This will include, among others, arranging logistics for project-related 
+activities such as site visits, missions, and meetings with international partners. The AO will 
+maintain project files, records, and so on and will serve as a point of contact for all 
+administrative functions. 
+Figure 3.2. PIU structure 
+Selection of Regions 
+11. 
+It is the aim of the SFF-LD to finance small-scale infrastructure works in all regions, but it 
+is accepted that subproject implementation in some areas of the country carry security and 
+political risks that cannot be fully mitigated. The PIU will carry out structured risk assessments 
+before engagement in any particular region, and the risk assessments will become part and parcel 
+of the individual subproject proposals for review by the SC. The POM lays out the criteria, 
+conditions, and methodology for risk assessment of regions. The risk to be evaluated include 
+general security, political and governance, clan dynamics, accessibility, and the existence of 
+partners such as local or non-local contracts that can undertake the subprojects. 
+Subproject Cycle 
+12. 
+A community consultation process is undertaken in the identification of subprojects and is 
+intended to strengthen FGS credibility with local and regional constituencies. This approach is 
+also to promote and demonstrate the principles of transparency, participation, and community 
+engagement and empowerment. Regional consultations are facilitated and managed by the PIU 
+with the involvement of the MoI, together with the IRAs. 
+ 
+Project Coordinator 
+Deputy Project 
+Coordinator 
+Procurement 
+Officer 
+Engineer(s) 
+Communicati
+ons Officer 
+M&E Officer 
+Financial 
+Officer 
+Regional 
+Project 
+Officers 
+Administration 
+Officer  
+36 
+ 
+ The PIU consults with the MoI regarding the political and security situation of the 
+region and whether there is the presence of an FGS-recognized IRA that is able to 
+collaborate with the FGS on small-scale development projects. 
+ The PIU communicates with the IRA through email and phone to explain the 
+objectives of the project, types of eligible subprojects, and the process of selecting 
+priority subprojects and the criteria for the composition of the participants for the 
+consultative sessions. 
+ The PIU and the IRAs work together to organize a one-day consultative workshop 
+that includes, among other things, local NGOs, women’s groups, youth groups, 
+business leaders, and elders. The PIU, along with representatives from the regional 
+government play the role of facilitator in the consultative process to produce a list of 
+needs and build consensus on how to best prioritize potential projects, based on 
+available budgets. 
+ Once the subprojects have been identified, the PIU, supported by the IRA 
+representatives, organize a Project Oversight Committee. The Oversight Committee 
+consists of representatives from the local community groups which participated in the 
+original consultative process. The Oversight Committee is chaired by the local 
+administration and is tasked (pro bono) with providing local oversight of the 
+subprojects from the communities’ perspective. 
+ Subproject detailed designs and bidding documents are prepared by consultants using 
+a competitive selection process. The bidding of the works is then done through a 
+competitive process that is led by the PIU but includes representation from the IRAs, 
+the Local Project Officer, and the Ministry of Public Works on the bid evaluation 
+committee. Works are contracted by the PIU/MoF and when completed, the assets are 
+transferred to the IRAs.  
+Steering Committee 
+13. 
+An SC will be established to approve the SFF-LD plans, review the SFF-LD performance, 
+and agree on adjustments to its management and future operations based on lessons learned and 
+changes that will occur to the operating environment over time. The SC will meet on a quarterly 
+basis. It will approve annual work plans, procurement plans, and the SFF-LD operating budget as 
+well as review SFF-LD performance reviews, quarterly financial reports, implementation 
+progress reports, monitoring reports, and reports on disputes and grievances. The SC will also 
+review and approve adjustments to the SFF-LD’s management and future operations based on 
+lessons learned from implementation, improvements in FGS capacity, changes in the FGS fiscal 
+position, and evolution of the operating environment. The SC will be chaired by the Minister of 
+Finance and include lead donor representation, with other donor representatives also able to 
+participate. The MA may also participate in the SC to provide technical information. The ToR 
+for the SC will be included in the POM. 
+ 
+37 
+ 
+Financial Management, Disbursements and Procurement 
+ 
+Detailed Financial Management and Disbursements 
+Country Issues 
+14. 
+The 2006–2007 Joint Needs Assessment (JNA) of the PFM sector (undertaken by 
+Government, UN and the World Bank) revealed that the ‘systems that manage public resources 
+are weak’. The April 2013 PFM self-assessment that focused mainly on FGS PFM activities 
+revealed serious capacity weaknesses similar to those identified by the JNA. However, in support 
+of the Paris Declaration on Aid Effectiveness (2005), the Principles for Good International 
+Engagement in Fragile States and Situations (2007), the Accra Agenda for Action (2008), and 
+the Busan Partnership for Effective Development Co-operation (July 2012) there is a deliberate 
+effort, as part of the New Deal ‘FOCUS’ and ‘TRUST’ principles, to use country systems. The 
+underlying principle is ‘country-ownership’—anchored in the ‘strengthened PFM approach’—a 
+common framework that has been widely agreed between the Bank and development partners 
+and is in line with the Bank’s overall approach to strengthening its PFM work. 
+Project Financial Management System 
+15. 
+The EAFS, a unit within the Office of the Accountant General, Federal MoF, was 
+established and has been operational for the last two years. With an increase in the number of 
+externally financed projects, the EAFS is being reorganized to be more effective and responsive 
+to the FM needs of the projects. The EAFS is charged with the responsibility of overseeing the 
+FM function for all the donor-funded projects implemented within FGS systems. In particular, 
+the unit ensures the harmonization of their external assistance FM function and donor co-
+ordination to reduce duplication, fragmentation, and proliferation of donor-specific FM units. 
+16. 
+The project will recruit a dedicated FMS to be based at the PIU. The EAFS unit will form 
+part of the project’s FM team, with responsibilities for day-to-day FM of project funds. The 
+project’s FM function will be carried out in line with the provisions of the EAFS Manual, project 
+implementation manual, PAD, Grant Agreement, and Bank FM and Procurement Guidelines. 
+The organizational structure of the EAFS takes into consideration the key areas of authority, 
+responsibility, and appropriate lines of reporting. The basic functions of the EAFS will be 
+planning, budgeting, and maintenance of internal control systems, as well as accounting, 
+reporting, and liaising with external auditors on recipient-executed external assistance. The 
+recommended organizational chart is depicted in Figure 3.3 of this Annex. The EAFS unit will 
+be supported by a team of subject-matter consultants who will provide targeted technical 
+assistance and on-the-job capacity-building support. The SFF-LD financial and technical 
+activities will be monitored by a team of independent MAs who will review and clear interim 
+payment certificates (IPCs) before release of payments.  
+38 
+ 
+Figure 3.3. FGS and FM Control Structure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Budgeting  
+17. 
+The FGS FY2015 annual revised supplementary budget has been prepared, endorsed by 
+the councils of ministers, and approved by parliament. The project’s projected annual 
+disbursements will be integrated into the FGS annual appropriated budget. The EAFS unit in 
+consultation with the PIU will prepare and submit to the Bank annual work plans, budget 
+estimates and detailed cash flow forecasts for necessary review and approval. The work plans, 
+cash flow projections, and budget estimates will include the figures for the year delineated into 
+the FGS and the participating states. The work plans and cash projections will reflect detailed 
+specifications for project activities to be undertaken, schedules (including procurement plans), 
+and projected expenditures under project activities. All annual work plans and cash flow 
+forecasts will be sent to the task team leader at least two months before the beginning of the 
+fiscal year for review and approval. The project’s estimated annual disbursements for each of the 
+components will be integrated and aligned into the FGS and state budget calendars ‘on-budget’ 
+and will form part of the appropriated budget by FGS and the states. Budget utilization reports 
+shall be prepared from the FM systems as part of the internal governments’ periodic reports, as 
+will quarterly reports submitted to the Bank.  
+Accountant General 
+Transactions 
+approval 
+Approval by Director 
+General MoF 
+Head of EAFS  
+Transactions 
+authorization 
+Countersigned by the 
+project coordinator 
+Head of Accounting Section  
+Head of Procurement Section  
+Project Accountant(s) 
+Procurement Specialist 
+Finance Officers 
+Administrative 
+Assistant 
+Transaction  
+Processing  
+Procurement Officers 
+Supervisory 
+controls  
+Verification 
+controls 
+Technical Assistance 
+Internal Audit  
+Independent Monitoring 
+Project Implementation Unit  
+(FMS to provide liaison lead on the project FM activities) 
+39 
+ 
+Accounting  
+18. 
+The FGS has developed a Somali Financial Management Information System (SFMIS). 
+The SFMIS is supported by an agreed Standard Chart of Accounts, which is comprehensively 
+compliant with the IMF Government Financial Statistics and Classification of Functions of 
+Government of the Organization for Economic Co-operation and Development. The use of the 
+SFMIS has been strengthened through the FY2015 Appropriation Act that requires all revenue 
+and payment transactions be processed through the SFMIS and reconciled with bank accounts 
+ledger balances from the Central Bank. The project’s financial transactions will be captured, 
+recorded, analyzed, summarized, and reported in line with the provisions of the International 
+Public Sector Accounting Standards (IPSAS) cash basis of accounting. These will be supported 
+by appropriate records and documentation to track commitments and to safeguard assets. To 
+facilitate preparation of the relevant reports and annual financial statements (AFSs), the project 
+budgets and expenditures will be recorded, classified, and reported through the SFMIS according 
+to the approved Standard Chart of Accounts. 
+19. 
+The project will be required to provide periodic and annual reports covering total project 
+expenditures; total expenditure on each of the project’s components/activities, an analysis of that 
+total expenditure into various categories of goods, works, training, consultants; and other 
+procurement and disbursement categories. The specific project’s FM arrangements will further 
+be spelled out in the POM. Eligibility of expenditures will be based on the actual amount 
+incurred and supported by appropriate documentation. Accounting records will be maintained in 
+U.S. dollars. The EAFS unit in consultation with the PIU, and in particular the FMS, will ensure 
+that:  
+ all important project business and financial processes are adhered to; 
+ adequate internal controls and procedures are in place; 
+ accounting records and requisite supporting documents are maintained.  
+ unaudited interim financial reports (IFRs) are prepared and submitted to the Bank on 
+a timely basis; 
+ financial statements are prepared on a timely basis and in accordance with IPSAS 
+cash basis; and 
+ external audit is completed on time and audit findings and recommendations/issues 
+raised in the management letter are resolved judiciously. 
+Internal Control and Internal Auditing  
+20. 
+The POM will be designed and developed and periodically reviewed and updated to 
+incorporate relevant emerging internal control procedures. The POM will outline key aspects of 
+the project operations and technical and FM arrangements, including independent verification 
+and monitoring of works. The project will institute controls and procedures to ensure works, 
+goods, and services are verified and certified before release of payments. The EAFS, in 
+40 
+ 
+consultation, with the FMS will ensure that invoices and payment requests are consistent with 
+signed contracts before processing and release of payments. They will also monitor and report on 
+the utilization of project funds, including the fiduciary standards and the reliability of the FM 
+systems. A project Fixed Assets Register will be prepared and regularly updated and physical 
+verification of assets routinely carried out. The Fixed Assets Register will reflect details of 
+suppliers, description and location of goods, original costs, disposal of assets, assets reference 
+(identification) numbers, serial or registration numbers, dates of purchase, assets additions, 
+condition of assets, and assets’ useful life and residual value. Contracts Registers will also be 
+maintained with respect to all contracts with consultants, contractors, and suppliers. The EAFS in 
+consultation with the FMS will prepare Contract Status Reports quarterly as part of the IFRs. 
+Control procedures over fixed assets and contracts management will be the responsibility of the 
+PIU.  
+21. 
+An internal audit function once established will be mainstreamed into project activities. 
+The project will liaise with the internal audit unit to ensure that project internal audit reviews are 
+included in the annual work plans. The project internal audit reports shall be prepared and shared 
+with the PIU and made available to the Bank team during supervision. It is, however, important 
+for the internal audi

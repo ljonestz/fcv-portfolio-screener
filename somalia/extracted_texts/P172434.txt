@@ -1,0 +1,2463 @@
+ 
+ 
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+Report No: PAD3788  
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED GRANT 
+ 
+IN THE AMOUNT OF SDR 27.9 MILLION 
+(US$40.0 MILLION EQUIVALENT) 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+SOMALIA EDUCATION FOR HUMAN CAPITAL DEVELOPMENT PROJECT 
+ 
+May 24, 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Education Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+  
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective April 30, 2021) 
+ 
+Currency Unit =  US$ 
+SDR 0.69638368 = US$1 
+US$1.43599 = SDR 1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Amit Dar 
+Practice Manager: Muna Salih Meky 
+Task Team Leader: Huma Ali Waheed  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ABE 
+Alternate Basic Education 
+BCR 
+Benefit-Cost Ratio 
+CBA 
+Cost Benefit Analysis 
+CEC 
+Community Education Committee 
+COVAX 
+COVID-19 Vaccines Global Access 
+COVID-19 
+Coronavirus Disease 2019 
+CPF 
+Country Partnership Framework 
+DG 
+Director General 
+DP 
+Development Partner 
+E&S 
+Environment and Social 
+EAFS 
+External Assistance Fiduciary Section 
+EGRA 
+Early Grade Reading Assessment 
+EGMA 
+Early Grade Math Assessment 
+EMIS 
+Education Management Information Systems 
+ESCP 
+Environment and Social Commitment Plan 
+ESF 
+Environmental and Social Framework 
+ESS 
+Environmental and Social Standards 
+ESMF 
+Environment and Social Management Framework 
+ESSP 
+Education Sector Strategic Plan 
+EU 
+European Union 
+FCDO 
+United Kingdom’s Foreign, Commonwealth and Development Office 
+FCV 
+Fragility, Conflict and Violence 
+FGM 
+Female Genital Mutilation 
+FGS 
+Federal Government of Somalia 
+FIU 
+Federal Member State Implementation Unit 
+FM 
+Financial Management 
+FMS 
+Federal Member State 
+GBV 
+Gender Based Violence 
+GDP 
+Gross Domestic Product 
+GEC 
+Girls' Education Challenge 
+GEMS 
+Geo-Enabled Initiative for Monitoring and Supervision 
+GER 
+Gross Enrollment Rate 
+GIIP 
+Good International Industry Practice 
+GPE 
+Global Partnership for Education 
+GRM 
+Grievance Redress Mechanism 
+ICT 
+Information and Communications Technology 
+IDP 
+Internally Displaced Persons 
+IFR 
+Interim Financial Reports 
+INGO 
+International Nongovernment Organization 
+IPF 
+Investment Project Financing 
+IQS 
+Integrated Quranic School 
+IRR 
+Internal Rate of Return 
+LMP 
+Labor Management Procedures 
+M&E 
+Monitoring and Evaluations 
+ 
+ 
+ 
+MoECHE 
+Ministry of Education, Culture and Higher Education 
+MoU 
+Memorandum of Understanding 
+NDP 
+National Development Plan 
+NGO 
+Non-Governmental Organization 
+NPF 
+New Procurement Framework 
+NSIP 
+Nonstate Schools Incentive Program 
+OHSE 
+Occupational, Health, Safety and Environmental 
+PFM 
+Public Financial Management 
+PIU 
+Project Implementation Unit 
+PMC 
+Program Management Committee 
+PMU 
+Project Management Unit 
+PP 
+Procurement Plan 
+PPA 
+Public Procurement, Concessions and Disposal Act 
+PPSD 
+Project Procurement Strategy for Development 
+POM 
+Project Operations Manual 
+PSC 
+Project Steering Committee 
+RCRF 
+Recurrent Cost and Reform Financing  
+RPF 
+Resettlement Policy Framework 
+SEAH 
+Sexual Exploitation and Abuse and Harassment 
+SEP 
+Stakeholder Engagement Plan 
+SGBV 
+Sexual and Gender-Based Violence 
+SHDS 
+Somalia Health and Demographic Survey 
+SIG 
+School Improvement Grant 
+SMP 
+Security Management Plan 
+SNHCP 
+Shock Responsive Safety Nets for Human Capital Project 
+SNPE 
+Somaliland National Policy of Education 
+SNU 
+Somali National University 
+SOMGEP 
+Somali Girl’s Education Promotion Project 
+SoE 
+Statement of Expenditures 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SWEDD 
+Sahel Women’s Empowerment and Demographic Dividends 
+TA 
+Technical Assistance 
+TPDP 
+Teacher Professional Development Program 
+TPT 
+Teacher Proficiency Testing 
+ToR 
+Terms of Reference 
+TPT 
+Teacher Proficiency Test 
+UCS 
+Use of Country Systems 
+UN 
+United Nations 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization 
+UNICEF 
+United Nations International Children's Emergency Fund 
+USAID 
+United States Agency for International Development 
+WASH 
+Water, Sanitation and Hygiene 
+WBG 
+World Bank Group 
+WFP 
+World Food Program 
+ 
+ 
+ 
+     
+Page 1 of 104 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 2 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 9 
+A. 
+Country Context ............................................................................................................................ 9 
+B. 
+Sector Context ............................................................................................................................. 10 
+C. 
+Relevance to Higher Level Objectives ......................................................................................... 21 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 21 
+A. 
+Project Development Objective .................................................................................................. 21 
+B. 
+Project Components ................................................................................................................... 22 
+C. 
+Project Beneficiaries ................................................................................................................... 30 
+D. 
+Results Chain ............................................................................................................................... 31 
+B. 
+Lessons Learned and Reflected in the Project Design ................................................................ 33 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 34 
+A. 
+Institutional and Implementation Arrangements ....................................................................... 34 
+B. 
+Results Monitoring and Evaluation Arrangements ..................................................................... 35 
+C. 
+Sustainability ............................................................................................................................... 36 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 37 
+A. 
+Technical, Economic and Financial Analysis................................................................................ 37 
+B. 
+Fiduciary ...................................................................................................................................... 40 
+C. 
+Legal Operational Policies ........................................................................................................... 43 
+D. 
+Environmental and Social ........................................................................................................... 43 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 45 
+VI. KEY RISKS ..................................................................................................................... 46 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 49 
+ANNEX 1: Implementation Arrangements and Support Plan............................................... 58 
+ANNEX 2: Nonstate Education Providers in Somalia ............................................................ 75 
+ANNEX 3: Description of Component 2 - Expansion of Access to Quality Schooling for 
+Disadvantaged Children ......................................................................................................... 77 
+ANNEX 4: Environment and Social Safeguards Instruments ................................................ 84 
+ANNEX 5: Climate and Disaster Screening and Climate Co-Benefits ................................... 88 
+ANNEX 6: World Bank Group COVID-19 Country Program Response .................................. 92 
+ANNEX 7: Addressing GBV through project interventions ................................................. 102 
+ 
+ 
+ 
+ 
+     
+Page 2 of 104 
+ 
+     
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia Education for Human Capital Development Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P172434 
+Investment Project 
+Financing 
+High 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[✓] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+16-Jun-2021 
+30-Jun-2026 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+Increase access to primary education in underserved areas, with a focus on girls, and improve quality of instruction. 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+System building  
+   5.00 
+ 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 3 of 104  
+     
+ 
+Expansion of access to quality schooling for the disadvantaged  
+  22.00 
+ 
+Enhanced instruction quality  
+  10.00 
+ 
+Project management  
+   3.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Ministry of Finance  
+Implementing Agency: 
+ Ministry of Education, Culture and Higher Education  
+ FMS Ministries of Education  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+43.00 
+Total Financing 
+43.00 
+of which IBRD/IDA  
+40.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+40.00 
+          IDA Grant 
+40.00 
+Non-World Bank Group Financing 
+     Counterpart Funding 
+3.00 
+          Borrower/Recipient 
+3.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+  40.00 
+   0.00 
+  40.00 
+National PBA 
+   0.00 
+  40.00 
+   0.00 
+  40.00 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 4 of 104  
+     
+ 
+Total 
+   0.00 
+  40.00 
+   0.00 
+  40.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+Annual 
+ 
+ 
+ 
+ 
+   1.92 
+   6.73 
+   9.48 
+   9.45 
+   7.41 
+   5.02 
+Cumulative 
+ 
+ 
+ 
+ 
+   1.92 
+   8.65 
+  18.12 
+  27.58 
+  34.98 
+  40.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Education 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ Substantial 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ Substantial 
+7. Environment and Social 
+⚫ High 
+8. Stakeholders 
+⚫ Moderate 
+9. Other 
+ 
+10. Overall 
+⚫ Substantial 
+ 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 5 of 104  
+     
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 6 of 104  
+     
+ 
+Schedule 2, Section I.A.1(a) of the Financing Agreement: the Recipient shall establish within 12 months of 
+effectiveness and maintain throughout Project implementation a Project Steering Committee (“PSC”) to provide 
+overall strategic guidance and coordination for the Project. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.A.1(c) of the Financing Agreement: the Recipient shall establish by no later than three (3) 
+months after the Effective Date, and thereafter maintain throughout the period of Project implementation, a 
+Project Management Committee to serve as a platform for collaboration, management, troubleshooting and 
+technical support for implementation of the Project including approving Annual Work Plans and Budgets and 
+conducting quarterly progress review of Project implementation. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.B.2 of the Financing Agreement: For the purpose of the implementing Part 3 of the Project, 
+the Recipient shall enter into agreement with the Somali National University, in the form and substance satisfactory 
+to the Association, as further detailed in the Project Operations Manual. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.A.1(b) of the Financing Agreement: the Recipient shall establish and thereafter maintain 
+within the Ministry of Education, Culture and Higher Education throughout the period of Project implementation, a 
+Project Management Unit under terms ofreference acceptable to the Association and including a procurement 
+specialist, a financial management specialist, an environmental specialist, a social specialist, a GBV specialist, 
+monitoring and evaluation specialist and communication specialist. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.A.1(d) of the Financing Agreement: the Recipient shall maintain, throughout the period of 
+implementation of the Project, the EAFS Unit, established within MoF’s Office of Accountant General, with 
+competent, experienced and qualified staff, in sufficient numbers and under terms of reference acceptable to the 
+Association. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.A.2 of the Financing Agreement: Prior to implementing any activities under Part 2 and 3 of the 
+Project in, or for the benefit of, any Federal Member State, the Recipient shall cause that Federal Member States 
+to:  
+(a) enter into a subsidiary agreement in accordance with Sub-section I.B.1 of this Schedule 2; and (b) establish  
+within the respective FMS-MoE, and thereafter maintain throughout the period Project implementation, a state 
+implementation unit. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I.E of the Financing Agreement: The Recipient shall select and engage, by no later than six (6) 
+months after the Effective Date, and thereafter retain throughout the period of implementation of the Project, the 
+services of a duly qualified and experienced monitoring consultant satisfactory to the Association, under terms of 
+reference acceptable to the Association, in order to monitor the achievement of the Project’s objectives. 
+ 
+ 
+ 
+ Sections and Description 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 7 of 104  
+     
+ 
+Schedule 2, Section I.D of the Financing Agreement: The Recipient, through its Project  Management Unit and with 
+the assistance of the FMS Implementation Units, shall: (a) prepare and furnish to the Association on an annual 
+basis, by no later than November 1st ofeach year, commencing on November 1, 2021, the annual work plan and 
+budget containing all activities proposed to be included in the Project during the following Fiscal Year, and a 
+proposed financing plan (setting forth the proposed amounts and sources of financing including the portion of 
+Counterpart Funds to be provided) for expenditures required for such activities. The Annual Work Plan and Budget 
+for the first year of Project implementation shall be prepared by the Recipient by not later than three (3) months 
+after the Effective Date. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has established the Project Management Unit 
+pursuant to the provision of Section I.A.1(b) of Schedule 2 to this 
+Agreement, in a manner and substance satisfactory to the 
+Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has adopted the Project Operations Manual pursuant 
+to the provision of Section I.C.1 of Schedule 2 the Financing 
+Agreement, in manner and substance satisfactory to the 
+Association. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+IBRD/IDA 
+Under Category (2) until: (i) arrangements for flow of funds out of 
+the Grant proceeds allocated for activities in Somaliland are in 
+place,  in substance and form satisfactory to the Association; (ii) the 
+Somaliland Manual has been adopted by Somaliland; and (iii) 
+institutional arrangements, satisfactory to the Association and 
+detailed in the Somaliland Manual, as shall be required to carrying 
+out the Project in Somaliland are in place. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+IBRD/IDA 
+Under Category 1(b) until the Recipient has: (i) prepared, adopted  
+and publicly disclosed the Labor Management Procedures, the 
+Security Management Framework, the Security Management Plan, 
+and the  GBV Action Plan in a manner and substance satisfactory to 
+the Association; (ii) established an accessible Project grievance 
+redress mechanism, in a manner and substance satisfactory to the 
+Association; and (iii) undertaken capacity assessment for the 
+implementation of the E&S requirements in a manner and 
+substance satisfactory to the Association. 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 8 of 104  
+     
+ 
+    
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 9 of 104  
+     
+ 
+  
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+ 
+1. 
+Somalia has been making steady progress toward stabilization and institutional progress after 
+over two decades of protracted conflict. The adoption of the Provisional Constitution in 2011, and the 
+establishment of the Federal Government after peaceful presidential elections in 2012 and in 2017, has 
+helped set the country on a path to recovery. The Provisional Constitution established the basis for a 
+federal political system. The federal system includes five Federal Member States (FMS) – Galmudug, 
+Hirshabelle, Jubbaland, Puntland and South West and the federally administered Banadir Administration.1 
+Although not internationally recognized, Somaliland declared independence in 1991 and does not 
+participate in the federal system. Recently, institutional reforms and the establishment of transparent 
+administrative structures have helped develop core public sector functionalities. Following steady 
+progress, Somalia has reengaged with the international community through commencing the debt relief 
+process and reaching the Heavily Indebted Poor Countries Initiative Decision Point in March 2020.  
+ 
+2. 
+Somalia’s economy has grown at a moderate pace, averaging 2.5 percent between 2013–17, 
+but remains vulnerable to shocks. Growth is mainly consumption driven, enabled by large remittances 
+and aid inflows (US$1.4 billion and US$1.75 billion, respectively in 2017). Despite this progress, Somalia 
+remains one of the poorest and least developed countries in Africa with a Gross Domestic Product (GDP) 
+of approximately US$315 per capita in 2018, and high vulnerability to frequent shocks. The effects of a 
+triple crisis of floods, locust infestation and Coronavirus Disease 2019 (COVID-19), are estimated to have 
+had a substantial impact on the economy in 2020, with growth downgraded from 3.2 percent before the 
+onset of the health pandemic to negative 0.4 percent,2 mainly due to a fall in remittances and decline in 
+livestock export. At the household level, education can reduce impact of shocks. Households headed by 
+an illiterate person are 12 to 24 percent more likely to report experiencing drought and loss of crops and 
+livestock than households headed by someone with some education.3 
+ 
+3. 
+Nearly 70 percent of the population of Somalia lives below the poverty line (US$1.90 a day in 
+purchasing power parity terms, 2017). Another 10 percent lives close to the poverty line, vulnerable to 
+shocks. Almost nine out of ten Somali households are deprived of at least one fundamental dimension: 
+money, electricity, education, or water and sanitation. Access to services is particularly limited for those 
+living in rural areas, including nomads and internally displaced settlements, where poverty is deepest and 
+markets, health facilities and schools are scarce.  
+ 
+4. 
+Years of conflict, instability, and violence have led to extremely low investments in human 
+capital formation and left several generations of Somalis unable to achieve their potential. Lack of 
+access to schooling and consequent low education level of the population pose significant constraints to 
+Somalia’s human capital development. Somalia does not have a Human Capital Index (HCI)4 due to 
+ 
+1 Banadir is not yet recognized as a state and is under the jurisdiction of FGS until its status changes. 
+2 World Bank estimates 
+3 World Bank 2019. Somalia Poverty and Vulnerability Assessment.  
+4 Human Capital Index is part of the Human Capital Project of the World Bank and ranks countries according to the human 
+development outcomes of their children and youth. It measures the amount of human capital that a child born today can 
+expect to attain by age 18, given the risks of poor health and poor education that prevail in the country where they live. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 10 of 104  
+     
+ 
+unavailability of data on education outcomes, specifically learning achievement. However, comparison 
+with other countries in the region shows extremely low participation in education, implying very low levels 
+of human capital development. Figure 1 compares Somalia’s performance on enrollment at the primary 
+level with other countries with low HCI values.  
+ 
+Figure 1. HCI and gross enrollment rates 
+ 
+Source: Based on data from HCI, World Bank and Facing Forward: Schooling for Learning in Africa, World Bank, 2018 
+ 
+5. 
+Investing in Somalia’s human capital will be essential for the country to move out of a cycle of 
+violence, instability and vulnerability. An estimated 55 percent of population is under the age of 15 and 
+with a fertility rate of 6.9 children, this age cohort continues to expand rapidly.5 With adequate 
+investments in building the skills and productivity of its young population, Somalia could accelerate its 
+efforts towards building prosperity and reducing instability in the country. Education could also play a 
+critical role in reducing fertility, specifically with a focus on girls’ education. The Somalia Health and 
+Demographic Survey (SHDS) 2020 finds that, for women with no education, the total fertility rate is twice 
+as high, at 7.2, compared to women with higher education, at 3.7. 
+ 
+6. 
+Expanding education will not only be critical for state-building, but also addressing the drivers 
+of conflict and fragility in Somalia. Provision of basic services, such as water and sanitation, health and 
+primary education, is recognized as a priority for conflict-affected situations for peacebuilding.6  Each year 
+of education is estimated to reduce the risk of conflict by around 20 percent.7 Moreover, expanding access 
+to education is also a means of socialization and identity development through the transmission of 
+knowledge, skills, values and attitudes across generations which can contribute to breaking the cycle of 
+violence and fragility.  
+ 
+B. Sector Context 
+ 
+7. 
+Limited progress in improving education outcomes is one of the main constraints to human 
+capital development in Somalia. The education system is still evolving and continues to be highly 
+ 
+5 Somalia Health and Demographic Survey 2019. 
+6 United Nation (UN) General Assembly, Report of the Secretary-General on peacebuilding in the immediate aftermath of 
+conflict, 11 June 2009, A/63/881–S/2009/304, available at: https://www.refworld.org/docid/4a4c6c3b2.html 
+7 Inter-agency Network for Education in Emergencies (INEE) 
+38
+32
+42
+38
+37
+29
+32
+30
+32
+0
+20
+40
+60
+80
+100
+Sudan
+Mali
+Senegal
+Burkina
+Faso
+Guinea
+Central
+African
+Republic
+Liberia
+Chad
+Niger
+Somalia
+Percentage
+Out of school children
+Gross Enrollment Rate
+Human Capital Index
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 11 of 104  
+     
+ 
+fragmented, leading to weak sector outcomes. Access to education has remained low over the last two 
+decades with girls, those in rural areas and poor households disproportionately excluded from schooling 
+opportunities. Lastly, what limited education is provided is of low quality due to poor quality of teaching.  
+ 
+Education system organization 
+ 
+8. 
+The current Somali education system emerged in 2012 with the establishment of the Federal 
+Government of Somalia (FGS). The Provisional Constitution of the Federal Republic of Somalia established 
+free primary and secondary education as the basic right of all Somali citizens. Though not fully codified in 
+law, the Ministry of Education, Culture and Higher Education (MoECHE) at the federal government level 
+is responsible for the overall guidance and administration of education in Somalia. The MoECHE has been 
+collaborating with national and international stakeholders to develop Education Sector Strategic Plans 
+(ESSP), the current of which runs from 2018-2020 with a new one currently under development.8 A 
+multiyear effort is also underway to develop a new national competency-based curriculum, which 
+integrates issues of conflict-sensitivity and peace building. Administrative structures of the MoECHE have 
+been established only in the last few years, starting from scratch. As a result, capacity of the Ministry is 
+generally low with high reliance on external advisors funded by development partners (DPs) for core 
+functions.  
+ 
+9. 
+The governance structure of the education system in Somalia is evolving. The Federal 
+Government of Somalia and Banadir, Galmudug, HirShabelle, Jubaland and Southwest have recently 
+agreed in a Memorandum of Understanding (MoU) to work cooperatively in matters related to the 
+education sector and agreed upon the roles and responsibilities of each level of government.9 Under the 
+agreement, the MoECHE is mandated to develop regulatory frameworks, e.g., Education Acts and policies 
+and coordination while the Federal Member States are responsible for service delivery and 
+implementation of education programs and policies. The FMS have established their own state-level 
+Ministries of Education, laws and policies. They participate in intergovernmental forums organized to 
+discuss key education sector issues, but participation varies and there is room to strengthen this 
+coordination.  
+ 
+10. 
+Federal Member States are building institutional structures to enable operationalization of their 
+roles in education service delivery. With support from the Recurrent Cost and Reform Financing (RCRF) 
+project supported by the World Bank, Ministries of Education at the FMS level have begun establishing 
+mechanisms for teacher payroll management and establishing systems for teacher recruitment and 
+management. Puntland also contributes to payments to teachers from its own resources (up to 20 
+percent) as a condition of RCRF financing. Importantly, the foundation for an inter-governmental financing 
+framework to enable FGS to FMS budgetary transfers has been established under RCRF. However, overall 
+capacity remains weak and FMS needs to put further effort to raise and use their own resources for 
+education delivery at their level with support, both financial and technical, from the Federal Government.  
+ 
+ 
+8 Somaliland and Puntland have been developing their own ESSPs. 
+9 National Education Conference Declaration, United Nations Educational, Scientific and Cultural Organization (UNESCO) media, 
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ED/pdf/NEC-declaration.pdf  
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 12 of 104  
+     
+ 
+Box 1: Somaliland education structure 
+Somaliland declared independence from Somalia in May 1991 and has since undergone a relatively 
+successful process of post-conflict peace building and reconstruction with three successful elections 
+since 2002. The relative peace and stability in Somaliland has given the government an opportunity to 
+invest in basic service delivery, including education. It has developed the Somaliland National Policy of 
+Education (SNPE, 2015-2030), which articulates commitment to provide quality, affordable and 
+competitive education to all citizens towards the achievements of the Sustainable Development Goals. 
+It articulates education as a tool for national economic development, the transformation of lives at the 
+individual, community, and national levels, and for promoting peace between communities and 
+national stability. 
+The SNPE focuses on the reconstruction and development of education in Somaliland. Priorities of the 
+SNPE include (i) expanded access and equity for all Somaliland children at all levels of education, 
+regardless of their socio-economic background and physical status; (ii) quality, relevance of education, 
+and learning outcomes; (iii)  an efficient and effective education system; and (iv) a strong and functional 
+management system of education from the central to devolved levels, including disaster management 
+and emergency response to minimize negative impact on students. As a part of the SNPE, the 
+government declared Free Primary Education in 2011 whose implementation is ongoing across 
+Somaliland but has not been fully achieved.  
+Education is managed by the Ministry of Education and Science at the central level. In 2014, the 
+Government of Somaliland approved the Somaliland Decentralization Policy 2013-2020, which 
+provided the political, administrative, and financial plans to decentralize service delivery to districts 
+with sufficient capacity prioritizing social sectors, including education. Decentralization of education 
+services is based on a phased approach defined by capacity assessments of the local governments at 
+each classification category. 
+ 
+11. 
+Experience from Somaliland and Puntland indicates that, with sufficient policy and capacity-
+building support, it is possible to transfer decision making, finance and management responsibilities to 
+districts for the delivery of education services. There are 93 districts across Somalia (including in 
+Somaliland). Districts are responsible for overseeing delivery of basic education, but their capacity is 
+severely limited. In Banadir and the four FMS, few districts have functional governance structures. 
+However, in Somaliland and Puntland where district capacity has been built over the years, several 
+districts were able to finance a share of education services from local revenues. These nascent structures 
+will need to be strengthened significantly across all the districts to enable implementation of the national 
+policy and for sustained delivery of services to the country’s citizens. 
+ 
+12. 
+At the school level, Community Education Committees (CECs) have been playing a prominent 
+role in addressing concerns related to teacher accountability and student absenteeism. Most schools in 
+Somalia have a CEC. CECs mostly comprise of parents, members of the local community, and can include 
+local elders, teachers, education authorities, or other community members with management experience. 
+Members are often selected from parents of current students based on their social standing in the 
+community and their abilities. By providing a forum for parents and community stakeholders to voice their 
+concerns to the school management, CECs help hold school management accountable. CEC members 
+sometimes oversee quality of provision and are involved in teacher recruitment and management of 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 13 of 104  
+     
+ 
+payroll. Teachers and headmasters often use CECs to communicate with parents, for example to address 
+the issue of students dropping out of school.  
+ 
+13. 
+In the last three decades, nonstate actors have become a prominent provider of schooling in 
+many parts of Somalia. In the absence of a strong public system during the period of instability, these 
+nonstate actors, which include local communities, private providers, numerous international donors 
+including Somali diaspora, nongovernmental organizations (NGOs) and umbrella associations10 assumed 
+key roles in reconstructing schools, education service delivery, and regulation. Given the importance of 
+religious education in the country, many children attend informal Quranic schools, sometimes in addition 
+to attending a formal primary or secondary school. These institutes teach students to read, write, and 
+recite the Quran. In 2006, the United Nations International Children's Emergency Fund (UNICEF) 
+introduced Integrated Quranic schools (IQS) that employ qualified teachers who teach both the secular 
+and religious curricula and are considered part of the formal education system.11 This multitude of 
+education actors has led to greater fragmentation of the system, which uses a variety of curriculum, 
+education cycles,12 languages of instruction, and learning standards across the country. About 55 percent 
+of students are estimated to be enrolled in nonstate schools across Somalia. Details on nonstate education 
+providers are provided in Annex 2. 
+ 
+14. 
+MoECHE needs to significantly strengthen stewardship of the sector to put it on a sustainable 
+path to development and ensure efficiency and efficacy of expenditure. The Federal Government’s role 
+in education management has been limited due to its weak capacity. However, for sustainable and 
+coherent development of the sector, MoECHE will need to play a key role. First and foremost, this will 
+include brokering an agreement on a national framework for setting education policy that provides for a 
+federal role in establishing system-wide standards and norms. A key role of MoECHE would be to ensure 
+alignment and coherence across various legal and policy instruments. Local government laws, 
+decentralization policies, and education sector guidelines such as the ESSP need to reflect a common 
+understanding of the division of functions and responsibilities across administrative levels to strengthen 
+the enabling environment for decentralized education services. Given the large role of the nonstate 
+sector, there is need to strengthen oversight of nonstate schools and networks. Data management 
+systems need to be bolstered, including adoption of uniform data protocols and establishment of clear 
+flow of data between schools, state authorities, and federal authorities for planning, open information 
+exchange, and follow-up, as well as reporting on donor financing and activity in the sector.    
+ 
+Access to education  
+ 
+15. 
+Somalia has one of the lowest education enrollment rates in the world. The primary gross 
+enrollment rate (GER) is estimated to be 20 percent, on average, with approximately 3 million primary-
+ 
+10 Umbrella associations refer to specific networks of non-state schools in Somalia. Many of these umbrellas were originally 
+founded by former teachers to associate schools in the absence of central authority in the 1990s and have grown to incorporate 
+hundreds of schools across the country. Over 1000 schools are either directly managed by an umbrella or more loosely 
+associated with an umbrella network.   
+11 The first IQS was initiated in a pilot project together with the government in Somaliland in 2006. The concept was expanded 
+within the Strategic Partnership for the Recovery and Development of Education in Somalia that UNICEF, UNESCO, and UK 
+formed (UNICEF, Evaluation Report. The Integrated Quranic Schools Pilot Project, 2011). 
+12 Private institutions follow a 9+3 cycle with 9 years of primary and 3 years of secondary and public schools an 8+4 cycle. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 14 of 104  
+     
+ 
+aged children (5-14 years) out of school.13 Somalia’s GER is significantly below sub-Saharan Africa, low 
+income countries’ and fragile-and-conflict-affected countries’ averages of 99 percent, 102 percent and 94 
+percent, respectively.  
+ 
+16. 
+Large parts of the country remain underserved. Of the 93 districts in the country, one-third have 
+GERs less than 10 percent, indicating acutely low access to education. Table 1 summarizes the number of 
+schools and students in Somalia by FMS and for Somaliland. Education is mostly provided by a variety of 
+nonstate actors who are primarily located in urban and peri-urban areas. Overall, 55 percent of students 
+in Somalia who are enrolled in school are in nonstate, mostly fee-charging schools, although this varies by 
+region. In Banadir, Galmudug, HirShabelle, Jubbaland and Southwest, over 90 percent of enrollment is in 
+nonstate schools. In Puntland and Somaliland, however, most students are enrolled in public schools. 
+These areas have been able to expand coverage of education services through public provision with 
+significantly higher levels of enrollment. 
+ 
+Table 1: Number of schools and students in Somalia by level 
+FMS  
+Number of Schools 
+Number of students 
+Primary 
+Secondary 
+Total 
+Primary  
+Secondary  
+Total 
+Banadir 
+394 
+310 
+704 
+115,217 
+60,435 
+175,652 
+Galmudug 
+135 
+37 
+172 
+27,464 
+6,405 
+33,869 
+HirShabelle 
+103 
+34 
+137 
+27,684 
+6,713 
+34,397 
+Jubbaland 
+205 
+27 
+232 
+58,825 
+5,378 
+64,203 
+South West  
+105 
+42 
+147 
+31,396 
+7,125 
+38,521 
+Puntland 
+653 
+96 
+749 
+143,546 
+25,116 
+168,662 
+Somaliland 
+1083 
+100 
+1183 
+234,128 
+51,011 
+285,139 
+SOMALIA 
+2,678 
+646 
+3,324 
+638,260 
+162,183 
+800,443 
+Source: Somalia Ministry of Education, Culture and Higher Education data 
+ 
+17. 
+There are significantly fewer educational opportunities for rural children. It is estimated that 55 
+percent of the population resides in rural areas, however, only 35 percent of those in school are in rural 
+areas. This points to significant inequities in the distribution of educational resources (e.g., schools, 
+teachers, learning materials) between rural and urban areas. As an example, in the central southern 
+states, 86 percent of all primary school teachers are in urban areas, although only half the population 
+resides in these areas.14 To reduce inequities in education provision, a workable model for education 
+delivery for the hard-to-reach rural areas will be needed. 
+ 
+18. 
+Girls are at a distinct disadvantage. Seventy-two percent of 15-49-year-old women living in rural 
+areas and 59 percent of women from urban areas have never attended formal schooling. The gender gap 
+in school enrollment is wide with girls estimated to account for 43 percent of those enrolled in school in 
+Somalia. In Somaliland too, girls are underrepresented with a gender parity index of 0.83. Large distances 
+to school, which leads to increased risks of gender-based violence, create barriers to girls accessing 
+education services. Importantly, over 90 percent of primary school teachers in Somalia (85 percent in 
+Somaliland) are male. Evidence shows that female teachers lead to significant increases in enrollment and 
+ 
+13 Based on United Nations Population Fund population data and 2019 EMIS data from MoECHE.  
+14 ESA, p. 125.  
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 15 of 104  
+     
+ 
+retention of female learners in schools. Social norms around early marriage, expectations that girls 
+support households and rearing of younger siblings and greater ‘social value’ in boys accessing education 
+over girls also contribute to the lower enrollment rates of girls. The COVID-19 pandemic is expected to 
+disproportionately impact girls, including by increasing the burden and constraints due to social 
+expectations such as taking on household responsibilities and care-related tasks. 
+ 
+Figure 2: Women’s literacy and education attainment across population groups 
+ 
+Source: Somalia Poverty and Vulnerability Study (World Bank 2019) 
+ 
+19. 
+Surveys show that the main reasons for low enrollment of girls and rural communities are the 
+unavailability of, and long distances to, school. Various sources of data show large average distances 
+from school in Somalia which is the single largest constraint to participation in schooling at the primary 
+level, especially for girls. Evidence from Fragile, Conflict and Violence (FCV) contexts including Afghanistan, 
+Benin, and Zimbabwe shows that placing primary schools in close proximity to communities increases 
+participation in education, specifically for girls.15 In Afghanistan, placing a school in a village dramatically 
+improved academic participation and performance among all children, particularly for girls, whose 
+enrollments increased by 52 percentage points, compared to an increase of 35 percentage points for boys, 
+virtually eliminating the gender gap in enrollment.16 In Somalia, the availability of water, gender-
+segregated water, sanitation and hygiene (WASH) facilities, and the availability of sanitary materials for 
+girls have also been shown to minimize the risk of girls dropping out of school.17  
+ 
+20. 
+Inability of parents to pay school fees constrains access to schooling where schools do exist. 
+Since provision of education depends heavily on fee-paying schools, poor students are at a distinct 
+disadvantage. The limited availability of public schools in large parts of the country handicaps those who 
+cannot afford fees. Often nonstate schools are not even an option since operators do not find it viable to 
+run schools in poor and disadvantaged areas. Over three-quarters of the Somali population live in poverty, 
+which has resulted in highly unequal access rates for the disadvantaged who are neither served by state 
+nor nonstate schools.18 However, households in the bottom forty percent that receive international 
+diaspora remittances have substantially higher school enrollment than non-recipients, which indicates 
+ 
+15 Deon Filmer, The Structure of Social Disparities in Education (2000). 
+16 Burde and Linden, Bringing Education to Afghan Girls: A Randomized Controlled Trial of Village-Based Schools (2013) 
+17 Somalia Education Cluster 2020 Response Strategy Note. 
+18 World Bank, Somalia Poverty and Vulnerability Assessment: Findings from Wave 2 of the High Frequency Survey, July 2019. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 16 of 104  
+     
+ 
+that if households had the option of attending school, they would.  
+ 
+Box 2: Empowering girls through SWEDD 
+ 
+One of the most critical constraints to developing Somalia’s human capital centres on girls’ empowerment. 
+Girls’ empowerment means equipping girls with the skills, information and opportunities to succeed in school, 
+work and life. In Somalia, women and girls confront multiple dimensions of disempowerment and 
+discrimination: i) human endowments (e.g. health and education); ii) access to economic opportunities and 
+productive assets; and iii) voice and agency.1  
+ 
+Taking a comprehensive approach to removing the layers of disadvantage faced by girls and young women, 
+the World Bank program in Somalia is centered around supporting the Government’s holistic approach to 
+delivering the building blocks that will be needed to empower girls in line with the Sahel Women’s 
+Empowerment and Demographic Dividends (SWEDD) model. One critical aspect of this program is ensuring 
+girls obtain the foundational education required to develop higher-order cognitive and technical skills needed 
+to increase productivity and ensure inclusion with a strong focus on (i) bringing schools closer to home; (ii) 
+making schools safe and welcoming places for girls; (iii) ensuring that costs are not a barrier; and (iv) building 
+a mindset of inclusion in the school and community. 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 17 of 104  
+     
+ 
+21. 
+On the demand side, food insecurity continues to be a significant challenge in Somalia with 5.2 
+million people predicted to remain food insecure in 2020.19 The World Food Program (WFP) works with 
+partners in Somalia  to provide food assistance to vulnerable households in several districts across the 
+country.20 The World Bank is also supporting vulnerable households with cash transfers in selected 
+districts under the Shock Responsive Safety Nets for Human Capital Project (SNHCP) (P171346) in Somalia 
+and 65 percent of the villages served by SNHCP do not currently have a school. The Project will create 
+linkages with demand side interventions supported by Safety Net operations to promote enrollment of 
+children in schooling. First, where possible, the Project will target areas where these interventions exist 
+to enable linkages. Second, SNHCP beneficiary households will be targeted to enroll children in nonstate 
+schools free of cost.  
+ 
+Quality 
+ 
+22. 
+There is no systematic information available on learning outcomes in Somalia. Few assessments 
+of student learning at the primary level have been undertaken in Somalia; carried out by international 
+NGOs often with limited government involvement and administered using very small samples or only 
+in schools pre-selected as part of program evaluation exercises. Moreover, because each of these 
+assessments was independently designed by a different third-party contractor and under a 
+separately funded 
+initiative, 
+the 
+findings 
+were neither 
+representative 
+nor 
+comparable 
+across assessments, jurisdictions, and time periods.21 Until Somalia can generate systematic information 
+on student learning, parents, teachers, policymakers, and DPs will continue to see education only in terms 
+of inputs and enrollments and the country will be less able to improve  learning outcomes. Lessons 
+learned from the efforts of other countries committed to assessment system development suggest that 
+countries like Somalia can build assessment capacity and institutions relatively quickly on the basis of real-
+world, practical experiences carried out under their own responsibility.22 
+ 
+23. 
+The limited information that is available points to low levels of learning. The most recent status 
+of learning achievement can be estimated, to a limited degree, from Early Grade Math and Reading 
+Assessments (EGMA and EGRA) conducted in 2018. Figure 3 summarizes the results of student 
+achievement in Somali, English and Math. A total of 380 students from grades 5, 6, and 723 sat the 
+assessment in 22 schools across five Federal Member States (Banadir, Galmudug, HirShabelle, Southwest, 
+and Jubbaland). The assessments identified extremely low learning levels in Somali literacy, English 
+literacy, and, to a lesser extent, mathematics.24 Learning levels in Somaliland are similarly low. An EGRA 
+conducted by Save the Children in 2016 in Somaliland showed very low reading fluency levels (see table 
+2). The results emphasize the need to ensure that learning is occurring in the early grades. By the time 
+students reach the end of primary and early secondary school, they are well below the level of 
+competency expected of children at these levels. This means students are not equipped with the 
+foundation of skills required to engage with the content presented at higher levels.  
+ 
+ 
+19 United Nations Office for the Coordination of Humanitarian Affairs, Humanitarian response plan for Somalia (2020).  
+20 WFP Somalia Country Brief, January 2020.  
+21 Due of these limitations, learning data from Somalia cannot be used to place the country in the Human Capital Index. 
+22 Final Russia Education Aid for Development Trust Fund Report: 2008-2015 (World Bank, 2016). 
+23 EGRA and EGMA are intended to assess Grade 4 competencies 
+24 All results taken from Wafula and Mulongo, “Are children in South and Central Somalia accessing education, and are they 
+learning? Baseline information”, Social Sciences and Humanities Open, 2020.  
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 18 of 104  
+     
+ 
+Figure 3: Results of 2018 EGRA and EGMA in Somalia 
+ 
+Source: Social Sciences and Humanities Open, “Are children in South and Central Somalia accessing education, and 
+are they learning? Baseline information”, 2020. 
+ 
+Table 2: Somaliland EGRA (2016) findings 
+Reading level 
+% of students at level 
+Zero readers (0 words per minute) 
+8 
+Low readers (1-45 words per minute) 
+45 
+Emergent readers (45-60 words per minute) 
+41 
+Fluent readers (>60 words per minute) 
+6 
+Source: Save the Children, Somaliland EGRA Report, 2016 
+ 
+24. 
+The gaps in learning are reflective of a teaching force ill-qualified to prepare learners to become 
+productive members of society. Only 37.9 percent of primary teachers across all Somalia are qualified 
+with the lowest number qualified in Banadir, Galmudug, HirShabelle, Jubaland and Southwest (20.8 
+percent). The situation is relatively better in Somaliland with a higher proportion of certified teachers at 
+55 percent. A Teacher Proficiency Testing (TPT) exercise in 2019, designed to measure teachers’ 
+understanding of both pedagogical approaches and content knowledge in Mathematics, Somali Language, 
+Islamic Studies, and English Language, provides useful information on teacher quality. The TPT was 
+administered in the Banadir region. The results, presented in Figure 4, indicate that teacher capacity is 
+low, with teachers lacking both pedagogical skills and content knowledge.  
+ 
+Figure 4: Results of Teacher Proficiency Test (pass rate) 
+ 
+Source: Banadir Teacher Proficiency Test Report, 2019 
+ 
+25. 
+While these results reflect the poor levels of teacher capacity, of particular concern is the low 
+pedagogical knowledge. More than 80 percent of teachers do not understand basic pedagogical 
+approaches and are therefore not able to provide active and engaging learning environments for their 
+0%
+50%
+100%
+Overall
+Female
+Male
+Overall
+Female
+Male
+Overall
+Female
+Male
+EGRA (Somali)
+EGRA (English
+EGMA
+Grade 5
+Grade 6
+Grade 7
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Pedagogy
+Mathematics
+Somali Language
+Islamic Studies
+English Language
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 19 of 104  
+     
+ 
+students. This is compounded by low content knowledge. Notably, teachers in Banadir are amongst the 
+most qualified in Somalia, suggesting that teacher capacity in other FMS may be a bigger concern. Of the 
+teachers from public schools participating in the TPT, approximately 61 percent had at least a bachelor’s 
+degree or higher. By contrast, only 21.1 percent of teachers across the country have obtained a teaching 
+qualification. It is reasonable to expect teacher proficiency to be even poorer in other areas of Somalia. 
+ 
+26. 
+Developing in-service teacher capacity is a priority for Somalia, however, the logistics are 
+complex. Approximately 30,000 teachers require training and development across the country. Face-to-
+face training is impractical due to the large numbers to be trained, risks associated with movement, and 
+the need for teachers to be in schools teaching. While these challenges are substantial, Somalia is 
+equipped with assets that can be leveraged to improve education outcomes. This includes information 
+and communications technology (ICT) infrastructure that has been substantially improved over the last 
+ten years. In 2000, Somalia had only 200 internet users. By 2017 this had grown to 1.2 million users, or 
+more than 10 percent of the population. Mobile penetration is also high, with approximately 90 percent 
+of Somalis above the age of 16 years old possessing a phone, 30.8 percent of which are smartphones. This 
+provides a unique opportunity to deliver education solutions that incorporate digital approaches.  
+ 
+Box 3: COVID-19 impact on the Somalia education sector and response 
+The first cases of COVID-19 in Somalia were reported in March 2020. As of May 18, 2021, 14,632 
+laboratory-confirmed cases of COVID-19, including 767 associated deaths, have been reported in 
+Somalia. To avoid rapid spread of the virus, the Government of Somalia announced the closure of 
+schools due to the COVID-19 outbreak on March 18, 2020 (March 19 in Somaliland). The closure 
+impacted over 5,000 functional schools in Somalia and Somaliland, both public and nonstate. Schools 
+in Somalia were reopened in mid-August following these initial closures. Schools were closed again on 
+March 8, 2021 following a third wave of COVID-19 cases in the country.  
+ 
+School closures are expected to have a deep impact on already weak education outcomes of the 
+country. Although national estimates of the dropout due to COVID-19 closures are not available, 
+UNICEF estimates that since schools reopened, five percent of children have not re-enrolled in UNICEF 
+supported schools. Children are also likely to lose substantial amounts of learning time while schools 
+are closed, and many may be unable to re-enter when schools reopen due to household financial 
+hardships that will grow during the crisis. In the months during school closures, there was a reported 
+16.3 percent increase in child labor and 14.7 percent increase of children forced to do hard work,25 
+reflective of the many impacts of school closures on Somali children.  
+In response to the COVID-19 pandemic, the MoECHE has developed the Somalia Education Sector 
+COVID-19 Response Plan to address the short- and long-term impacts of the pandemic on the 
+education sector and to plan for safe reopening of schools.26 Somaliland has prepared its own plan. 
+The objectives of the Plans are to (i) support teachers, learners and school communities to prevent the 
+transmission and spread of COVID-19; (ii) ensure continuity of learning through the implementation of 
+key activities aimed at maintaining quality learning and wellbeing of teachers, learners and school 
+communities during the COVID-19 emergency, such as radio programs; and (iii) facilitate the safe return 
+ 
+25 UNICEF COVID-19 Situation Report No. 10, 2020 
+26 Somalia Education Sector COVID-19 Response Plan (as of June 24, 2020) 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 20 of 104  
+     
+ 
+to quality learning for teachers, learners and school communities after the COVID-19 emergency. A 
+contextualized version of the global document Safe Back to School: A Practitioner’s Guide has been 
+created for Somalia in consultation with MoECHE staff at national and state level as well as education 
+sector partners and the Education Cluster. The Guidelines are to be followed by all schools and learning 
+institutions including public, community, private, and Alternate Basic Education (ABE) schools. School 
+management is encouraged to engage their school communities and local government for support to 
+implement the School Re-opening Guidelines. Global Partnership for Education (GPE) is financing large 
+parts of the COVID-19 plan. It is providing US$5.4 million for FGS, US$2.3 million for Somaliland and 
+US$1.3 million for Puntland to implement their COVID-19 response plans. 
+The pandemic has accelerated the use of technology in education delivery providing rich lessons for 
+how technology can be used to increase access to education and improve quality. For instance, the 
+Ministry of Education in Puntland has been working on the development of alternative learning content 
+for all grades. It is expected that this material will complement the learning processes as schools re-
+open. In Somaliland, online learning platforms such as Tabsera Online Platform, a virtual classroom 
+launched by one of the local telecommunication companies called Telesom and RaadAcademy, a web-
+based platform that gathers pre-recorded online video lessons have been launched. 
+The Project will take several measures to build resilience of the Somalia education system against 
+impact of COVID-19 and other future events. First, it proposes to use digital technology for critical 
+activities such as teacher professional development to enable continuity in situations of school closures 
+and restrictions on gatherings. Second, it enables the government to implement its response plan by 
+providing adequate WASH facilities and classrooms to avoid overcrowding of classrooms and thus 
+transmission. Third, the Project will support interventions that support the teaching-learning process 
+both in and out of school through provision of teaching-learning material from grants provided to 
+schools. Lastly, it will coordinate closely with DPs for expansion of government efforts to provide 
+alternate learning resources such as radio programs in Project supported areas. 
+ 
+27. 
+As Somalia progresses toward rebuilding after decades of conflict and instability, weak 
+education outcomes will need to be addressed to develop the full potential of its human capital. Within 
+the multitude of challenges the country faces, prioritization is needed to educate the large numbers of 
+out of school children with a focus on ensuring that girls participate in schooling across the country. First, 
+attention will need to be paid to defining a strategic  policy framework for rebuilding the education system 
+in which both the public and nonstate sector address the challenges of access, equity and quality in a 
+strategic and sustainable manner to make progress on education outcomes. Second, to make quick gains, 
+feasible solutions for rapidly expanding access to schooling opportunities need to leverage strengths 
+within the system such as an active nonstate sector and strong community involvement. These solutions 
+will need to ensure that constraints to girls accessing schooling are addressed and incentives are built into 
+the approaches to attract and retain girls in school. Third, attention to quality of education will be critical 
+to build human capital through improving the quality of Somalia’s teachers.   
+ 
+28. 
+A plan is in place to address the impact of COVID-19 on an already weak system. In response to 
+the COVID-19 pandemic and as detailed in Box 3, above, the MoECHE has developed the Somalia 
+Education Sector COVID-19 Response Plan to address the short- and long-term impacts of the pandemic 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 21 of 104  
+     
+ 
+on the education sector and to plan for a safe reopening of schools.27 The Project will complement these 
+efforts with an aim to build the resilience of the system to ensure continuity of learning in the event of 
+future situations that disrupt regular provision of education services.  
+ 
+C. Relevance to Higher Level Objectives 
+ 
+29. 
+The proposed Project is aligned with the World Bank Group’s strategic priorities, particularly its 
+mission to end extreme poverty and boost shared prosperity. The Project focuses on the most 
+disadvantaged parts of the country and aims to provide them opportunities for human capital 
+development through quality education. World Bank Group Country Partnership Framework (CPF) for 
+Somalia (FY19-22; Report no. 124734-SO),28 recognizes that, with 75 percent of the population under the 
+age of 30, low educational attainment constrains future economic growth and poverty reduction and puts 
+youth at risk. Consequently, the CPF includes building institutions for basic service delivery as one of its 
+two focus areas. The Project responds directly to this challenge by creating schooling opportunities in 
+Somalia at the primary education level to reduce learning poverty in the country. It will aim to ensure that 
+this schooling leads to learning and that girls participate equally in schooling. The objective of the Project 
+is fully aligned with the core objectives of the ESSP (2018-20) and the recently approved Somalia National 
+Development Plan (NDP-9) (2020-2024). Both the NDP-9 and the ESSP, identify equitable access to quality 
+education, effective and accountable public service delivery and oversight institutions and establishment 
+of partnerships to reach the most vulnerable groups and communities as key priority areas. The objectives 
+of the Project are also aligned with Somalia Education Sector COVID-19 Response Plan’s Objective 2: 
+Access to Education and Wellbeing that aims to provide access to distance learning, particularly to girls, 
+vulnerable and marginalized children, as school closures, combined with a lack of alternative education 
+learning options, have significantly impacted students’ opportunities to learn. As part of the Project’s 
+objective to support enhanced instruction quality, provision of digital devices and delivery of digital 
+content will ensure that teachers can continue to teach and build their capacity, and that children can 
+continue to learn even during times of pandemics and other shocks in the future. The objectives of the 
+Project are well aligned with the National Reopening Plan.  
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+ 
+PDO Statement 
+ 
+Increase access to primary education in underserved areas, with a focus on girls, and improve quality of 
+instruction. 
+ 
+PDO Level Indicators 
+(a) Gross Enrollment Rate (GER) at primary level in target districts, by gender (percent). 
+(b) Number of students enrolled in project-supported primary schools, by gender (number). 
+(c) Number of teachers certified after successfully completing teacher professional 
+ 
+27 Somalia Education Sector COVID-19 Response Plan (as of June 24, 2020) 
+28 See Annex 6 for changes to Somalia program as a result of COVID-19 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 22 of 104  
+     
+ 
+development program, by gender (number). 
+(d) Establishment of a national system for measuring student learning outcomes (yes/no). 
+ 
+B. Project Components 
+ 
+30. 
+The Project will have national coverage.29 To maximize impact of the Project in improving overall 
+access to schooling, the focus will be on a selected number of districts distributed across Somalia 
+(provisionally, 14 out of a total of 93 districts30) that have the lowest participation in education (as 
+measured by gross enrollment rates). The districts selected have few, if any, government schools and face 
+the highest levels of fragility and poverty. Through the Project, the government will be able to establish 
+its presence through basic service delivery in these districts which is expected to establish trust with its 
+citizens through inclusive and constructive integration of individuals and communities, socially, politically 
+and economically, which can contribute to conflict prevention and long-term peacebuilding.  
+ 
+31. 
+Project interventions will focus on: (1) building core FMS and FGS systems to sustainably deliver, 
+measure, and improve education outcomes; (2) increasing the supply of schools with a focus on promoting 
+gender and geographic equity and quality; (3) fostering effective teaching and assessment practices 
+through training, coaching, and technology-based solutions; and (4) ensuring inputs are learning-focused, 
+especially in terms of making the schooling environment and learning materials more learner friendly and 
+aligned with teaching needs. 
+ 
+Component 1: System building (US$5 million equivalent)  
+ 
+32. 
+This component will provide support to the government for developing and operationalizing 
+fundamental elements of a functional education system. Establishing minimum functionality of the 
+government to manage and monitor the education system will be critical for coherence and sustainability 
+of sector investments. This component will support this goal through: (i) strengthening the capacity of the 
+federal government to establish common standards and policies in relation to teachers, school 
+management and regulation of the nonstate sector through intergovernmental collaboration; (ii) 
+establishing a national student assessment system to systematically measure learning achievement and 
+use its findings to improve education quality and increase learning for all over time; and (iii) strengthening 
+capacity of the federal and state ministries of education for regular and reliable monitoring of the sector 
+and evaluation of key initiatives to generate data and evidence for future investments.  
+ 
+Subcomponent 1.1: Strengthening government’s stewardship role (US$1 million equivalent) 
+ 
+33. 
+This subcomponent will finance technical assistance and intergovernmental dialog to develop 
+regulatory and policy frameworks on (i) teacher standards and management; (ii) community role in 
+service delivery; and (iii) regulation of nonstate providers. The subcomponent will support activities 
+related to consensus-building among the various stakeholders in the sector at the federal and subnational 
+level to promote standardization and coherence of sector policy and practice across the different 
+government levels and providers. The subcomponent will also invest in strengthening MoECHE’s capacity 
+ 
+29 Funds will be set aside for Somaliland under component 2 of the Project – see component description for more details.  
+30 This includes two districts in Somaliland. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 23 of 104  
+     
+ 
+for sector stewardship including, inter alia: coordinating external finance; integrating external financing 
+into on-budget systems; managing multiple DPs and NGOs; aligning implementation models, operating 
+procedures, and quality control standards across the FMS; and closing coverage gaps.  
+    
+Subcomponent 1.2: Establishing a national student learning assessment system (US$3 million 
+equivalent) 
+ 
+34. 
+This sub-component will support the establishment of a national learning assessment system 
+that is aligned with the new curriculum and capable of generating data on student learning in a 
+systematic, reliable, and credible manner. The Project will: (i) build the institutional framework for the 
+system; (ii) foster the capacity of assessment system staff to analyze and utilize assessment findings to 
+inform teacher training and curriculum implementation, and the delivery of better instruction to raise 
+learning outcomes for all; and (iii) field-test a trial assessment toolkit to promote learning by doing and 
+help make the system operational. To establish the system, the sub-component will support three 
+interrelated clusters of activities to be completed by the close of the Project.   
+ 
+35. 
+Institutional framework for the system. MoECHE will establish the assessment system’s 
+institutional home within its examinations department and ensure that the department has the mandate, 
+authority, and buy-in from the FMSs to design, administer, analyze, and disseminate findings from a 
+national learning assessment. It will also develop an assessment system strategy that sets out its vision 
+and aims, policies, organizational structure, financing needs, and staffing requirements - including the 
+roles and responsibilities of key personnel. Also in this cluster, government will articulate the assessment 
+framework to define key elements of the system including the subjects and grade levels that will be 
+assessed and how frequently, the scope of the curriculum domains and the knowledge and skills that will 
+be measured in each subject, descriptions of core learning levels and proficiency levels to be achieved in 
+each domain, subject, and grade, and the format and administration of the assessment. Key outputs of 
+this cluster will be the institutional structure and mandate, the assessment strategy, and the assessment 
+framework.  
+ 
+36. 
+Building capacity for implementation. The second cluster will focus on ensuring that the 
+assessment system team possesses the qualified human resources needed to implement the strategy. 
+Through recruitment, consultant selection, and staff training, the Project will support the formation of a 
+core professional cadre with the competencies needed to implement the strategy. To build this cadre, the 
+Project will identify professional development programs and training activities in leadership, management 
+and administration, survey design, item and test development and analysis, sampling methodology, 
+applied education data analysis, and communications, among other skills to be identified during the 
+strategy elaboration.  Key outputs of this cluster will be the terms of reference and organogram for the 
+professional cadre, a qualifications matrix, training needs appraisal, training plan, and terms of reference 
+for professional development programs, mostly virtually-run, outside of Somalia.  
+ 
+37. 
+Field-testing of national student learning assessments. In the third cluster, the Project will 
+support the assessment unit to develop and conduct field-tests of the assessment toolkit to serve as a 
+practical exercise for operationalizing the system, refining the assessment matrix, and strengthening the 
+unit’s skillset. These exercises will strengthen the capability of the assessment unit through learning by 
+doing and will draw on previous experience administering EGRA and EGMA in Mogadishu, Hargeisa and 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 24 of 104  
+     
+ 
+Garowe. The assessment unit will review and identify lessons learned from the field-tests, including 
+through workshops with FMS and other stakeholders and technical experts. The key outputs from this 
+cluster will be the trial assessment toolkit, findings from administering the assessments, national 
+assessment reports, lessons-learned reports, and updates of the assessment strategy, assessment 
+framework, and training plan based on the lessons learned.    
+ 
+Subcomponent 1.3: Strengthening system-level monitoring and evaluation (US$1 million equivalent) 
+ 
+38. 
+This subcomponent will support the federal and state ministries to strengthen monitoring of 
+the sector and evaluating key initiatives to generate evidence on priority areas of the ESSP. MoECHE 
+has recently piloted a new Education Management Information Systems (EMIS) platform that will digitally 
+register learners. This subcomponent will complement and provide support in the operationalization of 
+the EMIS and data collection at the school level. It will encourage evidence-based decision making by using 
+data to drive intergovernmental discussion on sector issues and identify initiatives that show promise. 
+This subcomponent will also finance detailed iterative evaluation of project interventions (see component 
+3), to ensure investments produce results as expected during implementation and identifying measures 
+to further improve system efficiency. It will also support an evaluation of the Nonstate Schools Incentive 
+Program (NSIP) (see component 2). Finally, this subcomponent will finance an evaluation of recruitment 
+practices to promote hiring of female teachers in the workforce. 
+ 
+Component 2: Expansion of access to quality schooling for the disadvantaged (US$22 million) 
+ 
+39. 
+The component will provide out-of-school children from disadvantaged backgrounds with 
+access to good quality schooling opportunities at no cost to their families. An estimated 100,000 
+additional children will be enrolled in primary school in 14 targeted districts (including in Somaliland), at 
+least 50 percent girls. Districts have been selected from across the country with priority for those that 
+have the lowest enrollment rates. Other factors for consideration in district selection are accessibility from 
+a security perspective, presence of demand-side interventions, and equal distribution across FMS. 
+Beneficiary communities in the targeted districts will be selected based on the findings of a needs survey 
+to identify communities that meet objective criteria, specifically those with the highest need in terms of 
+out-of-school children (see details of the district and school site selection process and criteria in Annex 3).  
+ 
+40. 
+Funding will be available to Somaliland for implementation of activities under Component 2 in 
+the two targeted Somaliland districts. Approximately US$3 million of the total allocation for this 
+component will be available to Somaliland to implement activities described below to increase access of 
+disadvantaged children to education opportunities in the targeted districts in Somaliland. In case these 
+funds are not accessed by the time of the Project's midterm review, they will be canceled. 
+ 
+41. 
+The Project will follow two complementary approaches for rapidly expanding access to primary 
+education in the targeted districts. (1) In selected localities within the targeted districts where nonstate 
+providers are active, operators of these nonstate schools will be incentivized to expand their schools' 
+capacity to enroll additional children free of cost. (2) In localities within these districts in which there are 
+no education providers, new schools will be established in partnership with communities. These 
+approaches are described in greater detail below. This dual approach will allow for rapid evaluation of 
+effectiveness of each strategy and flexibility to channel funding to the approach that proves to be more 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 25 of 104  
+     
+ 
+cost effective and operationally viable. This is deemed especially important in Somalia’s context where 
+there are large variations between the different areas of the country and inadequate evidence on 
+workable solutions. Multiple strategies may be needed to fill the access gap in this context to ensure 
+equitable access to services. While nonstate providers are present in some parts, there are many localities 
+across the country where nonstate providers may not be a viable option. The following common principles 
+will apply to both approaches. 
+ 
+• 
+Focus on girls. Both approaches will prioritize enrollment of girls through promotion of recruitment 
+of female teachers, ensuring provision of adequate WASH facilities and safe learning environments, 
+reducing distance to schools for girls by enabling them to enroll in the school closest to them or placing 
+schools close to currently unserved communities, providing additional incentives to nonstate 
+providers for enrolling girls and ensuring part of the grants provided to schools are used for facilitating 
+girls’ retention such as provision of sanitary napkins. Awareness raising for communities will be 
+undertaken to encourage more girls to enroll in schools and complete schooling. 
+ 
+• 
+Coordinating with existing demand-side initiatives. The Project will create linkages with ongoing 
+demand-side interventions in the country such as the cash transfers provided under the Baxnaano 
+program supported by SNHCP and WFP nutrition interventions to ensure a holistic approach to human 
+capital development. Project target districts have been selected with the availability of these 
+programs as a key consideration. Linking up with these ongoing complementary interventions will 
+ensure that children have the required support to attend school and learn.  
+ 
+• 
+Engaging communities. This component will leverage the high level of community involvement in 
+education provision present across Somalia today. Experience of other DPs in Somalia, especially the 
+Girls’ Education Challenge supported by United Kingdom’s Foreign, Commonwealth and Development 
+Office (FCDO), shows that engaging community heads can be an effective way of encouraging girls to 
+participate in schooling. Globally and especially in FCV contexts, involvement of communities has 
+been demonstrated as an effective mechanism for introducing accountability and improving quality 
+of service delivery. Entrenching a strong role for communities in monitoring of education delivery will 
+also be a key pillar for building a strong system in the country. 
+ 
+• 
+Focus on quality. For both interventions, there will be focus on ensuring provision of quality 
+education. For new schools, a basic package of support to ensure quality of provision which includes, 
+adequate numbers of trained teachers, school grants to meet recurrent expenditures and safe and 
+conducive learning environments, which include adequate WASH facilities, will be provided. For 
+nonstate schools to become partners in the incentive program (described below) and be eligible for 
+support under the Project, they will be required to meet specified minimum quality standards.  
+ 
+(1) Regulating and incentivizing nonstate schools 
+ 
+42. 
+The Project will support establishment and management of a Nonstate Schools Incentive 
+Program (NSIP) that will incentivize eligible nonstate schools in the targeted districts to enroll additional 
+out-of-school girls and boys free of fees.31 Partner schools will be selected following a transparent process 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 26 of 104  
+     
+ 
+that will assess potential schools against objective criteria. For a school to be eligible to join NSIP, it will 
+need to demonstrate substantial compliance with a basic standards checklist. These basic standards 
+include aspects related to school registration, administration and governance including involvement of 
+CECs, school learning environment including student-classroom ratios to avoid overcrowding, availability 
+of adequate numbers of functioning WASH facilities, fiduciary arrangements, school safety, child 
+protection, proportion of female teachers and conditions for teaching, learning and monitoring. 
+Participating schools will receive a per child subsidy for enrolling each additional out-of-school child 
+enrolled in primary school. A key requirement of the program will be enrollment of at least 50 percent 
+female students. The subsidy amount for a girl will be set at a higher rate to incentivize enrollment of girls. 
+A further eligibility requirement for schools is zero fees for targeted beneficiaries. Student beneficiaries 
+will be selected by the FMS from the most disadvantaged households such as beneficiaries of SNHCP. By 
+the final year of project implementation, it is expected that 500 private schools will be participating in 
+NSIP, meeting the basic standards and other eligibility conditions, and providing education to an 
+additional 40,000 disadvantaged primary school students, with girls comprising at least 50 percent of 
+these new enrollments. 
+ 
+43. 
+Technical Assistance (TA) to the FMS will be a key part of implementation of NSIP. To support 
+the implementation of NSIP, technical assistance will be included in this subcomponent to help design and 
+manage NSIP and provide capacity enhancement support to strengthen contract management and 
+nonstate school supervision services. In addition, the MoECHE will hire an independent program evaluator 
+to conduct formative and summative evaluations of the Program. These services are estimated to cost 
+US$0.5 million.   
+ 
+(2) New schools to expand access to quality schooling for disadvantaged communities  
+ 
+44. 
+The Project will finance the establishment of new schools with basic packages to ensure quality 
+provision of education in localities that are currently unserved. This package will include learning-
+conducive facilities, teachers, school grants to meet recurrent expenditures, and support for 
+strengthening school level management through CECs. The new schools are expected to enroll an 
+additional 60,000 out-of-school children.32 
+ 
+• 
+School location planning. Beneficiary communities will be selected based on the findings of the needs 
+survey. Communities that have large numbers of primary-aged girls and boys that do not have a school 
+(public or nonstate) within a 30-minute walk will be prioritized. The survey will assess land tenure, 
+environmental and security factors and community support for new schools and will determine the 
+size of the school to be built (number of classrooms). Safe school sites within communities will be 
+identified through participatory risk assessments which will include community-based organizations 
+and locational analysis based on hazard risk mapping. 
+ 
+• 
+Community mobilization. Communities will be mobilized and supported to play a role in the 
+placement, construction and management of the new schools. Their role will include: (i) selecting a 
+Community Education Committee (CEC) for the school that will be responsible for day-to-day 
+supervision of the school, including of decision-making on school management related issues and 
+ 
+32 This is an estimate and may change based on findings of a survey that will assess need for new schools. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 27 of 104  
+     
+ 
+monitoring teacher attendance in line with government’s policy on CECs; (ii) enrolling students 
+including meeting minimum targets for girls enrollment and following up on steps to reduce drop-
+outs; (iii) identifying potential teachers from their communities, with preference for female teachers; 
+(iv) locating and arranging sites for schools and maintenance of school facilities; and (v) submitting 
+periodic reports, including via a mobile app when possible, to District Education Officers on student, 
+teacher, and school matters. 
+ 
+• 
+School construction. New schools with a proportional allocation of gender-separated washrooms and 
+water delivery points for each school will be constructed. Water recycling and harvesting will be used 
+to the extent possible to meet school needs. Construction specifications for the new classrooms and 
+schools33 will conform to the government’s school prototypes, align with agreed standards (safe, 
+inclusive, resilient, and climate-smart), and incorporate a modular approach as appropriate to suit 
+local needs so as to ensure optimal coverage and minimal distances for children to travel. The 
+MoECHE, with the support of its construction supervision contractor, will establish guidelines for 
+phasing in the construction and opening of the schools over five years. All new schools will be provided 
+with furniture for students, teachers, and administrators, as well as a core set of equipment for 
+teaching and learning. 
+ 
+• 
+Teacher recruitment. An estimated 750 qualified teachers will be hired to provide instruction at the 
+new schools. As these schools are expected to operate at full capacity across two shifts, teachers will 
+be contracted to teach in both shifts and will be compensated with a 50 percent salary bonus on top 
+of their base salary to teach the second shift. The education authorities of the FMS will hire teachers 
+following a transparent, merit-based selection process and manage the teachers for these new 
+schools in their respective jurisdictions. Each FMS will be responsible for articulating and 
+implementing procedures for merit-based teacher recruitment, contracting, remuneration, and 
+supervision in accordance with the forthcoming National Teacher Policy Document, and leveraging 
+the payroll systems developed and implemented under the RCRF Project. Special provisions will be 
+established to ensure the recruitment of female teachers, especially those from within the local 
+community. Experience with prioritized recruitment of women teachers in project-supported schools 
+will be used to inform the development of the national teacher policy framework. CECs will participate 
+in teacher recruitment and attendance monitoring in accordance with the MoECHE’s Community 
+Engagement Policy. 
+ 
+• 
+Teacher salaries.  The Project and the FMS governments will co-finance, in equal shares, the salaries 
+of these newly hired teachers during project implementation. Simple technology, including SMS 
+surveys, will be used to collect information from teachers and full payment of their salaries on a 
+monthly basis. SMS surveys of communities will promote accountability of the teachers. Component 
+3 will support training and ongoing coaching and support for these new teachers using blended 
+approaches.  
+ 
+• 
+School grants. The Project will finance school grants to enable the newly constructed schools to meet 
+recurrent expenditures to ensure conducive learning environments of schools and to ensure that 
+these schools will not impose fees on disadvantaged children that could inhibit their enrollment and 
+ 
+33 Approximately 188 new primary schools, providing altogether 750 classrooms. 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 28 of 104  
+     
+ 
+attendance, particularly those from minority and under-represented groups and those living with 
+disabilities. One key objective of the grants will be to promote girls’ enrollment and retention through 
+measures that would enable greater female participation in education such as through provision of 
+sanitary napkins. The school grants will help schools finance recurrent expenditures related to 
+teaching and learning materials, school maintenance, connectivity costs and other goods and services 
+identified at the school level, including by the community, needed to support teaching and learning. 
+The FMS will have the responsibility to support and facilitate the payment of school grants to the 
+schools. FMS support will include: (i) establishment and training of CECs; (ii) guidance for schools to 
+develop learning enhancement plans; and (iii) disbursement of the grants. Moreover, the FMS would 
+be responsible for fiduciary oversight of the school grants. In addition, the FGS will also have a role in 
+supervising the school grants including periodic inspection activities to verify the accuracy of the 
+reported enrollments and adherence with the School Grants Guidelines.  
+ 
+45. 
+The proposed activities will be carried out with the aim of bolstering long-term resilience to 
+risks posed by natural events and disasters, climate change, and health shocks. Natural disasters, 
+including those made more frequent by climate change, present widespread and increasing risks to school 
+infrastructure and the school community. COVID-19 has highlighted the need to ensure access and 
+provision of WASH facilities within schools.34 To reduce the risk of adverse impact of climate change on 
+school infrastructure, the Project will provide technical assistance to integrate climate change adaptation 
+and risk reduction approaches into the engineering and architectural planning for construction and the 
+related engineering and architectural specifications. In addition, training and awareness programs will be 
+provided to government construction oversite officers to reduce climate-associated risks before and 
+during construction and over the lifetime of the infrastructure. The Project will include mechanisms to 
+allow the government to efficiently respond to disasters or crises, which will also contribute to building 
+resilience to climate change.  
+ 
+Component 3: Enhanced instruction quality (US$10 million) 
+ 
+46. 
+Improving the capacity of Somalia’s teachers is central to enhancing learning outcomes of its 
+students. However, implementing an effective, large-scale, teacher professional development program 
+(TPDP) and creating the building blocks for a sustainable professional development system in Somalia is 
+complex. Traditional training programs that rely on face-to-face instruction are impractical due to the 
+large numbers to be trained and the need to pull teachers out of the classroom for extended periods of 
+time in a context where there is already very limited teaching and learning taking place. The risks 
+associated with movement which have been compounded by restrictions imposed due to the COVID-19 
+pandemic, such as curfews and school closures pose additional challenges. Cognizant of these 
+complexities in Somalia, this component will lay the foundations for a robust teacher professional 
+development ecosystem by supporting the development of a high-quality, sustainable, blended TPDP that 
+leverages the high level of mobile connectivity in the country for continuous professional development of 
+teachers.   
+ 
+34 Nearly 40 million children worldwide have their education interrupted by natural disasters and disease outbreaks (a number 
+that reached 1.6 billion because of the COVID-19 pandemic). Investing in infrastructure resilience efficiently is an imperative in 
+a budget-constrained environment. See the following reports for more information: 2018. Safe Schools: The Hidden Crisis. A 
+Framework for Action to Deliver Safe, Non-violent, Inclusive, and Effective Learning Environments. Allenby, Brad, Mikhail V. 
+Chester, and Thaddeus Miller. 2020. What COVID-19 Has Taught Us About Our Infrastructure. ASCE News, April 14, 2020.  
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 29 of 104  
+     
+ 
+47. 
+The component will develop a 2-year TPDP that will be delivered using a blended learning 
+approach and will support 6,000 teachers to complete the program. Activities will include the design, 
+development, testing, refinement and large-scale implementation of the TPDP. This will include the 
+creation of a web-based digital platform (with offline functionality to enable trainees to continue working 
+on the program when not connected to the internet), which will be used to support remote teacher 
+professional development. The component will be led by Somali National University (SNU) with support 
+from MoECHE and technical assistance financed by the Project. The component will support initial 
+development of the TPDP, including: defining learning outcomes and associated course 
+structures/learning pathways for different kinds of teachers; developing and testing a TPDP blended 
+learning design and teaching and learning methods; creating individual course frameworks and identifying 
+the content to be covered in each course; developing and refining course content and materials; creating 
+a contextually suitable trainee support system; designing an assessment strategy for the program as a 
+whole as well as for individual courses; and identifying and deploying an online platform to deliver the 
+digital component of the program. The Learning Management System will be intended both for use in this 
+program and for further development of pre-service and in-service teacher training courses and programs. 
+Once the program has been developed and approved, the component will support the roll out of the TPDP 
+to 6,000 teachers over the course of three years in three cohorts of 2,000 teachers each. Implementation 
+of the TPDP will also be led by SNU in coordination with FMS level Teacher Training Institutes, with support 
+from MoECHE and technical assistance financed by the Project. This phase will include identifying teachers 
+to participate in the TPDP, providing materials and content (incorporating judicious use of scripted lessons 
+where appropriate to support teachers in the classroom), deploying support systems, undertaking in-
+classroom observations, and conducting formative and summative assessments.  
+ 
+48. 
+Acknowledging that the use of blended learning in Somalia is still in its infancy, the component 
+will adopt a developmental testing process designed to rapidly gain feedback on the design of the TPDP 
+and use this to inform implementation refinements. This is designed to mitigate the current lack of 
+understanding regarding the combinations of teaching strategies and technological tools that might work 
+effectively in the Somali context. Testing processes will be designed to support decisions about which 
+combinations of technology, content packaging, student support, and assessment approaches will work 
+best in Somalia. This approach will impact the component in two ways. First, it means that the design and 
+implementation of the program will be subject to regular, ongoing monitoring that will lead to continued 
+refinement over program implementation to ensure it meets the needs of Somali teachers. Second, the 
+specific educational, content, technological, and support approaches for the program will not be pre-
+determined but rather defined through a series of cycles of program development in which options are 
+tested for efficacy before they are rolled out at scale. This will be confirmed throughout the TPDP design 
+process, drawing on international best practices and lessons in equivalent contexts and underpinned by 
+field testing and research undertaken with teachers in Somalia. Virtual approaches have the advantage of 
+overcoming the challenges of remoteness and insecurity as well as observing social distancing protocols 
+necessitated by COVID-19 and overcoming some of the barriers for teachers and pupils living with 
+disabilities, particularly when supported with assisted devices where necessary. 
+ 
+49. 
+The program design and focus will build on insights generated from a GPE-funded project aiming 
+to provide rapid upskilling to 2,000 early grade teachers in response to the COVID-19 pandemic. This 
+GPE-funded project, which will be delivered by SNU in collaboration with Care International through a 
+tablet-based approach, is expected to commence delivery in 2021 and will yield insights that can inform 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 30 of 104  
+     
+ 
+the design of the longer-term approach and systems being developed under the proposed Project.  
+ 
+50. 
+Beyond its impact on education quality, the TPDP has been designed to ensure alignment with 
+both social and environmental considerations in Somalia. Considerations are linked to both program 
+design/administration and program content. In relation to program design and administration, equity in 
+access to the TPDP for various historically marginalized groups will be prioritized for females, teachers 
+with disabilities and teachers from marginalized communities. With respect to program design and 
+administration, MoECHE will ensure that climate/green standards are integrated into procurement, an 
+important step given the focus on technology in this program. In relation to content, the TPDP will help 
+to foster positive social and environmental change. The content of the TPDP will be designed to raise 
+awareness about issues including gender equity, fostering positive environmental behaviors, climate 
+change, and other subjects prioritized by the MoECHE and SNU. 
+ 
+51. 
+Technical assistance will be a key part of TPDP development and implementation. A key 
+objective of the TA will be to build capacity of SNU and MoECHE staff in relevant areas to ensure sustained, 
+high-quality implementation of the program. Specifically, the TA will support: (i) curriculum design and 
+review; (ii) assessment of available existing materials and gap analysis to determine materials 
+development requirements; (iii) design of content treatment strategy for all media types and content 
+development plan; (iv) initial preparation of materials; (v) design of student support approach and 
+systems; (vi) functional specification development for online technology platforms; (vii) iterative 
+evaluation of TPDP; and (viii) assessment of institutional, personnel and system capacity needs of SNU 
+and MoECHE to implement the TPDP and development and implementation of a capacity building plan. 
+ 
+Component 4: Project management (US$3 million equivalent) 
+ 
+52. 
+Current capacity at all administrative levels, FGS, FMS levels, regional and district levels is weak. 
+The proposed Project will likely be the largest investment managed directly by MoECHE and investments 
+are required for staffing key positions to deliver the Project successfully. At the same time, given the 
+federal structure under which the Project will be implemented, adequate support at the FMS and district 
+level will also be needed to ensure project financing is used in a credible manner and managed efficiently. 
+The Project will thus finance key project staff at the FGS level including a project director for overall 
+management, project coordinator to work closely with the various implementing entities, monitoring and 
+evaluation (M&E), fiduciary and environmental and social risks management staff. Funds will also be 
+provided for refurbishment, office equipment and furniture to adequately resource project staff to 
+manage implementation. Project staff will also be hired at the FMS level to manage activities at that level 
+and regularly supervise project activities. More details are provided in Annex 1 as part of implementing 
+arrangements.  
+ 
+C. Project Beneficiaries 
+ 
+53. 
+The Project is expected to benefit students, teachers and communities across Somalia from 
+improved system performance, increased opportunities for schooling, a greater focus on learning 
+outcomes and improved quality of instruction. During the implementation period, direct benefits will 
+accrue to approximately 100,000 primary school-aged students in the 14 targeted districts, at least 50 
+percent of whom will be girls. These students are expected to benefit from schools in closer proximity to 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 31 of 104  
+     
+ 
+their homes that provide quality education. The Project targets the areas with the lowest access rates to 
+maximize benefits from investments. Component 2 will directly benefit these students through 
+establishment of new schools, provision of teachers and school grants for teaching learning materials, and 
+support for poor households to send their children to nonstate schools free of charge. In addition, a total 
+of 6,000 teachers are expected to directly benefit from professional development through the TPDP 
+blended training program. Ministry of Education officials at the Federal and FMS level are expected to 
+benefit from capacity building efforts of the Project.  
+ 
+D. Results Chain 
+ 
+54. 
+The Project provides an essential package of support for increased access to quality education 
+in underserved areas of the country while ensuring that this happens within a coherent framework for 
+education development to support institutional strengthening and ensure sustainability. With among 
+the lowest rates of enrollment in the world, Somalia faces significant challenges in creating equal and 
+quality schooling opportunities for its children. The Project aims to provide new schools in selected 
+localities where children do not currently have access to schooling while ensuring that the education 
+provided is of good quality that leads to learning. Where schools do exist, the Project aims to provide 
+mechanisms for those excluded due to their inability to pay school fees to access these schools through 
+partnerships. It puts equal focus on ensuring that the quality of education provided is high by focusing on 
+making teachers more effective. The Project recognizes that sustainability of outcomes can only be 
+achieved when underpinned by a functioning system that collects and makes decisions based on reliable 
+data and formulates strong policies that can help it achieve its outcomes of interest. This package of 
+support is expected to directly lead to new functional schools that have conducive learning environments, 
+improved capacity of teachers, and a stronger system, and indirectly show pathways for further cost-
+effective expansion of quality schooling and increased levels of learning. The results chain for the Project 
+is depicted in Figure 4.   
+ 
+A. Rationale for World Bank Involvement and the Role of Partners 
+ 
+55. 
+The value added from the World Bank’s support derives from several aspects. (1) The World 
+Bank is providing support to Somalia within the framework of overall human capital development of the 
+country. Complementary projects that focus on improving human development are either under 
+implementation (SNHCP) or under preparation (Improving Healthcare Services in Somalia Project, 
+P172031). Together these investments have the potential to provide coordinated support for human 
+capital formation in Somalia. (2) The World Bank’s support in improving governance and public financial 
+management of the sector also places the World Bank in a unique position to further fortify the education 
+sector. The World Bank has been providing support to Somalia through the RCRF project to introduce 
+reforms to help FGS and FMS education ministries strengthen their core systems for the delivery and 
+management of education services. This includes financing of teacher salaries and other recurrent 
+expenses, establishing payroll systems, proficiency testing of teachers and a school supervision and 
+accountability mechanism, along with support for better budget planning and execution. Importantly, the 
+foundation for an inter-governmental financing framework to enable FGS to FMS budgetary transfers has 
+been established under RCRF, which has prepared the groundwork for the education project to build on 
+and institutionalize the systems as a next step of Somalia’s journey to re-establishing its systems. (3) 
+Extensive analytical work on system building of the education sector in Somalia, including a research study 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 32 of 104  
+     
+ 
+on the nonstate sector and assessment of monitoring and evaluation systems and a policy lessons paper 
+on the division of roles and responsibilities in federal education systems elsewhere in the world have 
+provided a solid knowledge base to provide needed technical assistance and guidance for the design and 
+implementation of the Project. (4) Global knowledge and technical expertise in the relevant thematic 
+areas of education, including learning assessments, teacher training and management, education 
+technology and innovation and public private partnerships enable the World Bank to provide significant 
+contributions to Somalia as it rebuilds its education system. 
+ 
+Figure 4: Results Chain 
+ 
+ 
+School grants 
+Partnership program 
+with nonstate schools 
+Improved 
+learning 
+environment of 
+schools with 
+adequate 
+facilities for girls 
+Improved 
+classroom 
+instruction 
+quality 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 33 of 104  
+     
+ 
+Role of partners 
+ 
+56. 
+DPs play a significant role in the Somalia education landscape. Nearly all funding for education 
+in Somalia today is provided by a variety of external partners, including multilaterals, bilateral partners, 
+international nongovernment organizations (INGOs), philanthropies, and Somali diaspora. Bilateral 
+partners including United States Agency for International Development (USAID), Canada and FCDO and 
+multilateral agencies such as the Education Cannot Wait, European Union (EU), GPE, the World Bank, and 
+the UN constituent agencies, specifically UNICEF, provide financial support, capacity-building, and 
+strategic direction. INGOs, the two most active of which are CARE International and Save the Children, 
+often serve as implementing partners for grants to the education sector (especially for GPE grants) with 
+direct execution of activities. Partner support also takes other forms such as training of MoECHE staff, 
+support for important meetings such as the Annual Joint Reviews as well as providing technical support 
+to key ministry functions through the financing of Technical Advisors. Although the federal government 
+has set up mechanisms and processes to establish dialogue with partners and coordinate DP programs, it 
+has not yet managed to ensure that these funding flows reinforce efforts to strengthen Somalia’s evolving 
+federal education system structure or align efficiently with Somalia’s education system objectives of 
+increasing access, equity, and quality of schooling across the country. The Project proposes to build 
+MoECHE’s capacity to play a stronger role in coordinating and aligning DP support to its education goals 
+through Component 1 of the Project.  
+ 
+57. 
+The proposed Project is aligned with and incorporates lessons learnt from various DPs 
+interventions in Somalia. First, it derives key lessons from UNICEF’s Go-to-School flagship program that 
+highlights the needs of lagging groups with a focus on girls and domestic financing of education through 
+greater allocations of the national budgets to the education sector.35 The Safe School designs developed 
+by UNICEF will be used for expansion of school infrastructure under Component 2. On measurement of 
+student learning, the Project builds on lessons learned from the pilot of the EGRA implemented in 
+Mogadishu between 2013-15 by Concern Worldwide. The schools included in the assessment 
+demonstrated significant improvement in the reading levels of both boys and girls in targeted schools. 
+The Project also draws on lessons from FCDO’s Somalia Girls Education Challenge (GEC) project to 
+promote girls’ inclusion in schooling and complements GPE efforts in the sector including establishment 
+of schools in partnership with communities and with a focus on teacher capacity development.  
+ 
+B. Lessons Learned and Reflected in the Project Design 
+ 
+58. 
+The World Bank’s FCV strategy (2020-2025) provides several lessons which have informed 
+project design. An important lesson incorporated is on the importance of strengthening the legitimacy 
+and capacity of core institutions. The Project puts emphasis on building the capacity of government 
+institutions to engage with subnational levels and a range of stakeholders to improve consultation and 
+trust between the different tiers of government. It also incorporates lessons around involvement of local 
+stakeholders in implementation by supporting member state and district authorities to collaborate with 
+communities, for example with CECs, to empower them and give them a voice in managing services 
+provided by the government. 
+ 
+ 
+35 UNICEF education strategy (2018-2020) 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 34 of 104  
+     
+ 
+59. 
+Project design recognizes that the private sector lies at the center of sustainable development 
+models in FCV settings. This is emphasized by the FCV strategy as well as experience from FCV contexts 
+around the world. Programs that establish public private partnerships to cost effectively and rapidly 
+expand access to education have been successful in countries such as Pakistan. The Project tests a similar 
+approach to partnering with nonstate education providers in Somalia by leveraging the potential of the 
+private sector to contribute to improvements in education outcomes by making it pro-poor. 
+ 
+60. 
+Improving the quality of teachers can have large impacts on learning. Recent evidence has 
+quantified the impact of a good teacher on learning with the effect of a good teacher estimated to 
+represent anywhere between one and three full additional years of learning for children (World Bank, 
+2018). Based on this strong evidence base, the Project focuses on improving the quality of teachers in 
+Somalia to ensure learning takes place in its schools.  
+ 
+61. 
+Implementation experience of RCRF, especially on components that supported the education 
+sector, have been incorporated in project design. One key lesson was on emphasizing greater 
+collaboration between the federal government and member states. Creating a platform for continuous 
+consultation and joint decision-making has been important for implementation, lack of which has stalled 
+implementation in the past. Project implementation arrangements have been established to provide 
+formal platforms for the FGS and FMS to discuss project progress and challenges and reach decisions 
+collaboratively. 
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements 
+ 
+62. 
+The Project will be implemented by the FGS Ministry of Education, Culture and Higher Education 
+and the FMS and Somaliland Ministries of Education. The federal MoECHE will be responsible for 
+coordination of all project activities and overall reporting on project progress and performance. Overall 
+project leadership will be provided by the Project Steering Committee (PSC). The PSC will be headed by 
+the FGS Minister of Education, Culture and Higher Education and include the FMS Ministers of Education, 
+one representative from the ESC coordination body and one community representative. The PSC will 
+provide strategic direction and guidance on high-level risk management and decision-making on project 
+objectives. This inclusive body will be crucial for promoting dialogue, consensus-building and joint 
+decision-making on key aspects of the education system. A Program Management Committee (PMC) 
+headed by the Director General (DG), Federal MoECHE and including DGs from all the participating FMS 
+will provide technical leadership for project implementation. The PMC will also include heads of relevant 
+MoECHE departments and the Project Management Unit (PMU) Director. Key responsibilities of the PMC 
+include (a) establishing a platform for collaboration, management, troubleshooting and technical support 
+for implementation of the Project.  
+ 
+63. 
+Day-to-day implementation of the Project will be undertaken by a dedicated PMU at the FGS 
+level and lean Project Implementation Units (PIUs) at the FMS level and Somaliland. The PMU will be 
+headed by a Project Director and include experts to manage key functions including financial 
+management, procurement, environment and social (E&S) risk management, Gender Based Violence 
+(GBV) expert and M&E. In addition to responsibility for implementation of Components 1, 3 and 4, the 
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 35 of 104  
+     
+ 
+PMU will also be responsible for coordinating project activities with the implementing partners and the 
+FMS. It will arrange quarterly reviews of project implementation, consolidate reports from the FMS on 
+Component 2 activities and report overall project progress and performance. The FMS and Somaliland 
+PIUs will be responsible for implementation and monitoring of Component 2 activities for their respective 
+jurisdictions as agreed in the MoU on functional assignments between FGS and FMS. They will comprise 
+of coordinators, procurement, social development and monitoring staff. Functions related to financial 
+management (FM) at the FMS level and Somaliland will be implemented jointly under the common 
+approach using arrangements established under RCRF and other World Bank-supported projects.   
+ 
+B. Results Monitoring and Evaluation Arrangements 
+ 
+64. 
+M&E arrangements. The overall project monitoring responsibility will lie with the PMU in 
+coordination with the FMS PIUs. Somaliland will report separately. An M&E officer will be hired as a core 
+part of the PMU team to manage monitoring, reporting and evaluation planned under the Project. The 
+M&E officer will work closely with the FMS implementation teams to support monitoring and reporting 
+of project outputs and outcomes. The results framework of the Project (Section VII) provides details of 
+the indicators for which data will be collected and reported and the overall responsibility for data 
+collection for the various indicators.  
+ 
+65. 
+The PMU in coordination with FMS implementation teams will have overall project monitoring 
+responsibilities. Specific activities include (a) regular supervision of project implementation sites; (b) 
+preparing biannual implementation progress reports by compiling implementation reports from various 
+implementing units, which would include the progress toward PDOs through reporting of key 
+performance indicators; (c) carrying out assessment and evaluation studies; and (e) conducting citizens’ 
+engagement surveys for ensuring beneficiaries’ and communities’ feedback in improving project 
+performance. TA support will be available to the PMU for carrying out the listed M&E activities through 
+subcomponent 1.3 of the Project.  
+ 
+66. 
+Simple and low-cost ICT tools will be used for M&E and remote supervision of the Project given 
+the highly fragile and conflict-affected operating environment which may lead to constraints on access 
+to project sites on the ground due to security-related and/or logistical reasons. The Project will focus on 
+building capacity of the government to use these tools for their day-to-day monitoring and supervision of 
+the Project. The Geo-Enabled Initiative for Monitoring and Supervision (GEMS) will be utilized to build 
+capacity of government counterparts to use open source tools for in-field collection of structured digital 
+data that automatically feeds into a centralized M&E system. The integrated data collected can include 
+photos, audio, videos; time and date stamps; and GPS coordinates that allow for automated geo-mapping 
+of the information. This can also provide a platform for remote supervision and real-time risk monitoring 
+of project activities.  
+ 
+67. 
+In Somalia, non-smart phone use is more prevalent, so data collection mechanisms will ensure 
+they are well-suited for non-smart phones. SMS has been used in Somalia by UNICEF in the m-WASH 
+project that makes use of basic mobile devices to deliver health information.36  For the Project, call agent-
+ 
+36 https://www.unicef.org/esaro/UNICEF-FN-Somalia-Mobile-low-res.pdf  
+https://oxfamilibrary.openrepository.com/bitstream/handle/10546/552890/er-using-mobile-phone-polio-prevention-somalia-
+200515-en.pdf?sequence=1&isAllowed=y  
+ 
+The World Bank 
+ 
+Somalia Education for Human Capital Development Project (P172434) 
+ 
+ 
+ 
+ 
+Page 36 of 104  
+     
+ 
+based, WhatsApp business solutions, and SMS surveys, wherever appropriate, will be used when engaging 
+with and SMS surveys will be used when collecting data from school principals, teachers, parents and 
+CECs. Project monitoring officers will use tablet devices for data collection when in the field, e.g. when 
+visiting new schools being built or meeting with existing schools and communities. These devices should 
+allow for data storage with upload to the integrated monitoring system (see below) taking place when 
+connectivity is available.  
+ 
+68. 
+Technology will also be used to assist with data verification processes. Some data verification 
+will be done by project monitoring officers when they are in the field (see above). Spending reported by 
+participants will be verified through an independent audit of MoECHE accounts. Indicators that are 
+reported by schools will be verified by cross referencing with EMIS data. Effective verification thus 
+depends on the quality of EMIS data available which will be strengthened with support from component 
+1 of the Project. SNU student record keeping via the institutional management information system will be 
+triangulated with participant data to verify numbers of teachers trained.  
+ 
+69. 
+The Project will invest in an integrated system for the management and analysis of data 
+collected through various channels for effective monitoring. The integrated monitoring system will be 
+designed to capture the data needed to report across all the indicators outlined in the Results Framework. 
+This system will incorporate capacities for data importing, either manually or directly via online survey 
+and/or SMS survey platforms, EMIS data and SNU data. Data collected on mobile devices by project 
+monitoring officers or from the communities will also be uploaded to the system. The recently passed 
+data protection policy of FGS will guide management of beneficiary data and data protection. The Project 
+will build government capacity related to hardware, software, regulatory framework, data management 
+protocols, data protection guidelines, and organizational capacity to ensure protection of beneficiary 
+data. Putting in place an integrated monitoring system will provide a strong basis for ongoing learning 
+based on emerging findings and will also streamline processes of independent data verification by third 
+parties such as external evaluators.  
+ 
+C. Sustainability 
+ 
+70. 
+Attention to sustainability is a cornerstone of project design. First, the Project objectives and 
+activities are fully aligned with Somalia’s education sector strategy and directly support key pillars of the 
+ESSP 2018-2020. Second, the Project puts emphasis on building systems and institutions in all aspects of 
+project implementation. The Project will not only support development and/or finalization of government 
+policies but will also support implementation of these through project financing. As an example, 
+government policy frameworks around teacher management, community education committees, and 
+regulation of the nonstate sector will formally guide project implementation at the FMS, region, district 
+and school levels. Use of government policies is expected to promote their use beyond project 
+interventions as well and contribute to building a coherent system to deliver education.  Third, there is 
+emphasis on building consensus with the various stakeholders on all policy development to promote use 
+of unified policies and standards across the country. Financing has been allocated to help the federal 
+government build this stewardship role which is expected to reduce the current fragmentation across the 
+system and improve coordination among the different st

@@ -1,0 +1,818 @@
+[
+  {
+    "project_id": "P163857",
+    "project_name": "Somalia Urban Resilience Project",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2018,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Somalia is emerging from a legacy of two and half decades of cycles of violent conflict and fragility... cities in Somalia are increasingly coming to serve as a safe haven or the last resort for those fleeing violent conflicts or natural disasters... It is feared that large influxes of people may shift clan dynamics which can potentially destabilize already fragile social structures.",
+        "rationale": "The document provides a solid conflict-informed country analysis citing Al-Shabaab's role, displacement (1.1 million IDPs noted), clan dynamics, urban fragility, and drought-conflict nexus. References SCD (Report No. 123807-SO) and DINA. Subnational variation is addressed through city-specific analysis (Mogadishu, Garowe, Kismayo, Baidoa). However, the analysis lacks a dedicated formal conflict analysis tool (e.g., RRA) and does not explicitly map conflict drivers vs. resilience factors in a systematic way. Score reduced from 8 due to absence of named conflict-specific diagnostics beyond SCD."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "An area-based approach benefitting all people in a designated target area is more desirable... targeting specific groups can lead to increased social tensions and disrupt social cohesion. This is particularly the case in Somalia, where there is perception among host communities that IDPs and returnees, often from minority clans, are the only people receiving assistance.",
+        "rationale": "The PAD explicitly identifies inter-communal tensions (IDPs vs. host communities, clan dynamics) as harm pathways and adopts area-based targeting as a mitigation strategy. GRM, political economy analysis flagged as future work, and security-sensitive procurement (roads subject to change due to 'security and political economy considerations') are acknowledged. Third-party monitoring contracted for inaccessible areas. GBV risks for IDPs explicitly noted. The analysis is practical and operationally connected, though limited by the absence of a formal do-no-harm framework document."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Political dynamics do not easily allow for a true participatory process and clan dynamics generally dictate how decisions are made in Somalia. It is often difficult for vulnerable groups that come from minority clans and lower socio-economic status to have their voices heard.",
+        "rationale": "The PAD acknowledges clan power dynamics, the difficulty of genuine participation, and government legitimacy concerns. Donor coordination is noted (TIS+, UN-JPLG, UN-Habitat). However, there is no structured political economy analysis; stakeholder mapping is informal. Government commitment is assumed rather than assessed. Elite capture risk acknowledged but mitigation is light (inclusive committee composition). Score kept at 5 as analysis exists but lacks depth and structured assessment."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The achievement of the above objective would support the Government's efforts to demonstrate visible and tangible improvements in the lives of its citizens, critical for strengthening the legitimacy of the Government and sustaining social and political stability in the country.",
+        "rationale": "The PDO ('strengthen public service delivery capacity at the sub-national level and support the reconstruction of key urban infrastructure') is explicitly connected to state legitimacy and stability through the ToC. The five-dimensional urban resilience framework (spatial, physical, economic, social, institutional) is FCV-informed. SOP instrument choice is justified in fragility terms (allows flexibility, gradualism). The project explicitly targets IDPs and host communities jointly to prevent social tension. ToC is coherent if not exhaustively spelled out."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "The project will ensure that both IDPs and host communities, particularly the poor and the marginalized, equally benefit from the short-term employment opportunities... Investments should be as inclusive as possible, i.e. incorporate needs of the IDPs, returnees, refugees and host communities.",
+        "rationale": "Design is appropriately simple given budget constraints and capacity limitations. Area-based targeting of conflict-affected cities with explicit IDP inclusion criteria. Labor-intensive construction provides short-term employment for vulnerable groups including IDPs. Selection criteria explicitly include benefit to both urban poor and IDP communities. CERC included. However, no explicit PSIA conducted and gender analysis is minimal (Gender Tag: 'No' on analysis and actions). These gaps prevent a higher score."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "A Contingency Emergency Response Component (CERC) is included... This will allow for rapid reallocation of project funds in the event of a natural or man-made crisis... Given the persistent insecurity in Mogadishu, the World Bank's movement outside the Mogadishu International Airport to supervise the civil works continues to be limited. As such, the World Bank will contract an independent monitoring agent.",
+        "rationale": "CERC is included. Third-party monitoring explicitly adopted due to security constraints. SOP programmatic structure provides flexibility. Road selection explicitly subject to change due to 'security and political economy considerations.' PIU capacity built from predecessor SUIPP project. GRM established. The document acknowledges security constraints on Bank supervision and provides mitigation. Client capacity assessed through institutional assessments. Score at 7 rather than 8 due to limited detail on security protocols and no explicit contingency staffing plan."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "The M&E system will target the documentation of case studies capturing the impact of the project on communities, taking into account the gender dimension, impacts on vulnerable or marginalized groups, inter-communal dynamics between the IDPs and the host communities, and how they may ultimately contribute to stronger urban resilience.",
+        "rationale": "The results framework includes qualitative assessments of IDP-host community dynamics and inter-communal impacts. Geo-enabled monitoring is included. However, indicators are primarily output-focused (km of roads, number of beneficiaries) with limited FCV-sensitive outcome indicators. No explicit conflict-sensitivity tracking indicators. Third-party monitoring arrangements are noted. Disaggregation by vulnerability status (IDP vs. host community) is referenced qualitatively but not systematically built into the results framework."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "The datasheet explicitly states 'Bank/IFC Collaboration: No.' There is no mention of IFC engagement, MIGA involvement, or blended finance approaches. Some reference to private sector role in service delivery (private sector for capital investments), but no structured WBG joint approach or private sector mobilization strategy."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.33,
+        "rationale": "Average of D1(7) + D2(7) + D3(5) = 19/3 = 6.33. No red flag deductions. Strong conflict analysis and do-no-harm awareness, but stakeholder/political economy analysis is shallow and unsystematic."
+      },
+      "responsiveness": {
+        "rating": "Partially Addressed",
+        "numeric_score": 5.6,
+        "rationale": "Average of D4(7) + D5(7) + D6(7) + D7(5) + D8(2) = 28/5 = 5.6. Good ToC, targeting, and operational flexibility; results framework is output-heavy with limited FCV-sensitive outcome tracking; no WBG integration."
+      }
+    },
+    "gap_matrix_cell": "Responsive but underanalysed",
+    "key_finding": "SURP I is a well-conceived urban resilience operation with clear FCV-informed ToC (state legitimacy, IDP-host community cohesion) and strong operational adaptations (CERC, TPM, area-based targeting). The context analysis references key drivers of fragility and clan dynamics. The main weaknesses are: absence of structured political economy/stakeholder analysis, minimal gender integration (Gender Tag 'No' on analysis), a results framework that is primarily output-focused, and zero WBG private sector engagement."
+  },
+  {
+    "project_id": "P170922",
+    "project_name": "Somalia Urban Resilience Project II",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2019,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "While the formation of the new Federal Member States (FMS) is a positive step towards reshaping the political economy, the federation process has been complex and challenging... There has been a deepening rift between the federal government and the FMS with the States declaring a suspension of formal ties with the center in September 2018 over concerns with resource and power allocations.",
+        "rationale": "SURP II provides a notably stronger and more current conflict analysis than SURP I: explicitly details FGS-FMS political tensions (suspension of formal ties in 2018), clan-induced social fragility, urban displacement (2.6 million IDPs, 80% in urban areas), and city-specific fragility analysis (Mogadishu, Kismayo, Baidoa). Cites SCD, UNOCHA, UNHCR, and CPF. Subnational variation is clearly articulated. Political economy of federalism analyzed in some depth. References to Rapid Urban Assessment. Score at 8 due to lack of a named RRA or standalone conflict analysis."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "It is feared that large influxes of people may shift clan dynamics which can potentially destabilize the already fragile social structures. Incidence of gender-based violence (GBV), among other protection concerns, is a prevalent issue in Somalia and a significant challenge confronting displaced populations in particular.",
+        "rationale": "Harm pathways are identified: clan destabilization from influxes, GBV risks for IDPs in settlements, social tensions between host communities and displaced. Mitigation includes area-based targeting, participatory decision-making, GRM, CERC, TPM, and ESF instruments under the new World Bank Environmental and Social Framework. GBV/SEA action plan referenced in legal covenants (Code of Conduct for workers). SURP II applies ESF rather than OP safeguards, reflecting improved harm framework. Score at 7 as formal do-no-harm assessment document not cited."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "The growing population in these particular cities places considerable stress on municipal service delivery capacity and increases social tensions between host communities and the displaced. Citizen engagement will be at the core of the project with communities engaged at all stages of project implementation.",
+        "rationale": "SURP II improves on SURP I by detailing FGS-FMS political tensions, noting electoral interference concerns, and explicitly incorporating community action groups (Midnimo project) and TIS+ for participatory decision-making. Stakeholder Engagement Framework (SEF) and Stakeholder Engagement Plan (SEP) are legal covenants. Donor coordination (UN-JPLG, USAID TIS+, UN-Habitat, Denmark) mapped more explicitly. However, no formal political economy analysis document cited and elite capture risks receive only general treatment."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Investment in cities are also more visible to citizens and can help strengthen government legitimacy... Addressing urban fragility requires a comprehensive resilience-based approach. Given cities play a central role in Somalia's development and security, there is an acute need to strengthen their resilience.",
+        "rationale": "PDO ('strengthen public service delivery capacity of local governments and increase access to urban infrastructure and services') is FCV-informed. Five-dimensional urban resilience framework explicitly links institutional, physical, economic, social, and spatial resilience to fragility drivers. The ToC clearly connects infrastructure delivery to state legitimacy, social cohesion (IDPs/host communities), and stability. Gender mainstreaming is integrated (Annex 2). Instrument choice (IPF with CERC and IDA for first time) justified in FCV terms."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Short-term income generation opportunities will be generated through the project for the vulnerable such as women, urban poor, IDPs and returnees. Institutional resilience will be supported through the strengthening of municipal governance, particularly by delivering infrastructure and services through sub-national government systems.",
+        "rationale": "Design explicitly targets conflict-affected cities (Mogadishu, Kismayo, Baidoa) with highest IDP concentration. Includes women, urban poor, IDPs, and returnees as explicit beneficiary categories. Labor-intensive works for employment generation. Area-based approach to avoid inter-group tensions. Gender-tagged 'Yes' on all three dimensions. CERC included. Targeting criteria documented. However, design complexity increases with four cities and multiple FMS, and no explicit PSIA for distributional impacts of urban interventions."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "CERC Manual satisfactory to the Bank... set up and maintain the institutional structures and arrangements set forth in the CERC Manual for implementation... The FGS to ensure that no funds shall be transferred/advanced out of the grants/financing to any participating FMS, or paid on behalf of such participating FMS out of the grants/financing, prior to such FMS having entered into a Subsidiary Agreement.",
+        "rationale": "CERC is fully operationalized with CERC Manual covenant. PCU established at federal level plus PIUs in four cities. TPM arrangements for civil works. ESF applied. Legal covenants require gender specialist, E&S specialist, and M&E specialist in PCU. Security provisions acknowledged. Subsidiary agreements required before FMS fund transfers, providing fiduciary protection in fragile context. Score at 7 rather than 8 given no explicit security protocol document and limited detail on alternative delivery mechanisms for high-insecurity areas."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "Gender Tag - Does the project plan to undertake any of the following? a. Analysis to identify Project-relevant gaps between males and females... Yes; b. Specific action(s) to address the gender gaps identified... Yes; c. Include Indicators in results framework to monitor outcomes from actions identified... Yes.",
+        "rationale": "Gender is systematically integrated into the results framework (all three gender-tag questions answered 'Yes'). The framework includes disaggregated indicators. Annex 2 (Gender Mainstreaming) provides detailed gender action plan. However, FCV-specific outcome indicators (e.g., social cohesion metrics, IDP-host community relationship tracking) are not explicitly named in the available text. TPM for monitoring progress referenced. Score improved from SURP I due to gender integration but limited visibility of conflict-sensitive outcome metrics."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "The datasheet explicitly states 'Bank/IFC Collaboration: No.' No IFC or MIGA engagement mentioned. Reference to SCALED-UP (P168115) and SCORE for livelihoods collaboration represents cross-project coordination but not One WBG integration with IFC/MIGA instruments."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 7.0,
+        "rationale": "Average of D1(8) + D2(7) + D3(6) = 21/3 = 7.0. No red flag deductions. SURP II shows clear improvement on SURP I in FCV sensitivity, particularly in political economy analysis of federalism tensions and fuller conflict context."
+      },
+      "responsiveness": {
+        "rating": "Partially Addressed",
+        "numeric_score": 5.8,
+        "rationale": "Average of D4(7) + D5(7) + D6(7) + D7(6) + D8(2) = 29/5 = 5.8. Strong ToC, targeting, and operational flexibility; results framework improved with gender integration but conflict-sensitive outcome tracking remains limited; no WBG private sector integration."
+      }
+    },
+    "gap_matrix_cell": "Implementation gap",
+    "key_finding": "SURP II represents a meaningful step forward from SURP I with stronger political economy context (FGS-FMS tensions explicitly analyzed), full gender mainstreaming, ESF application, and more robust operational arrangements. Sensitivity just crosses the 7.0 threshold. The main remaining gaps are: absence of dedicated conflict analysis instrument, no WBG private sector integration, and FCV-specific outcome indicators not clearly named in the results framework. The implementation gap is modest, driven primarily by the weak One WBG dimension."
+  },
+  {
+    "project_id": "P171346",
+    "project_name": "Shock Responsive Safety Net for Human Capital Project",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2019,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Somalia faces a 'dual development trap' that perpetuates instability and exclusion and exposes the country to the risk of backtracking. Breaking out of this trap requires strengthening of the citizens' trust in institutions and creation of inclusive opportunities for the poorest and most vulnerable... In the absence of trusted institutions and inclusive socioeconomic opportunities, Somalia faces a 'dual development trap' that perpetuates instability and exclusion.",
+        "rationale": "Exceptional FCV context analysis. Explicitly invokes the 'dual development trap' concept from the CPF. Cites SCD, UNOCHA, UNHCR, multiple rounds of the Somali High Frequency Survey, IPC food security phases, GBV survey data (36% IPV rate among women), and detailed multidimensional vulnerability data. Displacement analysis is comprehensive: 14% of population as IDPs, intersectional vulnerability (IDPs from minority clans most excluded from remittances and informal safety nets), and drought-conflict-displacement nexus fully elaborated. References Al-Shabaab, federalism tensions, climate vulnerability ranking. Clan-based exclusion from informal safety nets explicitly analyzed. Near-perfect FCV diagnostics for this instrument type."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "GBV Action Plan (a disbursement condition)... IDPs face increased risks of GBV and sexual exploitation due to limited security... Social Management Plan (including, inter alia, a gender-based violence (GBV) Action Plan) and Labour Management Procedures, all in form and substance satisfactory to the Association, are disbursement conditions.",
+        "rationale": "GBV Action Plan is a hard disbursement condition. Conflict-sensitive targeting design explicitly addresses exclusion of minority clans from informal safety nets. Cash transfer design addresses risk of tensions between beneficiaries and non-beneficiaries. Mobile money delivery chosen partly to reduce risks of physical cash handling in insecure environments. Third-party monitoring (TPM) for areas inaccessible to WB staff named. Detailed GBV analysis in Annex 6. The main gap preventing a 9 is the absence of a comprehensive stakeholder-level conflict risk mapping document (though risks are analyzed embedded in the text)."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Remittances represent an important component of income for the bottom 40 percent of households, but they are concentrated within particular clans, lineages, and extended families... Marginalized and minority rural groups are also likely to be excluded from such benefits because they lack access to resources.",
+        "rationale": "Strong analysis of clan-based exclusion dynamics and power over informal safety nets. Donor coordination landscape mapped (DFID, EU, WFP, UNICEF). Government commitment assessed through MoLSA capacity review and SP policy development process. The Donors Working Group (DWG), Cash Working Group, and Technical Working Group on Social Protection are documented. However, formal political economy analysis is not cited as a standalone document, and FMS-level political dynamics in program delivery are not deeply analyzed."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Social protection (SP) interventions can play a key role in supporting poor and vulnerable households to prevent and mitigate the negative and long-lasting impact that shocks have on human capital formation and individual well-being... Somalia needs to put investments in human capital at the center of its peace-building and development agenda for transition from humanitarian to development approaches.",
+        "rationale": "The PDO (cash transfers to targeted poor/vulnerable households + building shock-responsive safety net system) is directly and explicitly FCV-responsive. The ToC is multi-layered: immediate income protection → human capital preservation → trust in government → reduced vulnerability to instability. The 'humanitarian-to-development transition' framing is explicit and operationally meaningful. Shock-responsiveness is embedded in the project name and design. Gender-tagged 'Yes' on all three dimensions. Pre-arrears clearance grant mechanism is justified in FCV/transition terms. Exceptional alignment with FCV Strategy principles."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Cash-based targeting methodology targets the chronic poor, mostly protracted IDPs with little to no livelihood opportunities, as well as the disabled and families with malnourished children... Annex 3: Detailed Targeting Methodology for Component 1 (62 pages detailed targeting description).",
+        "rationale": "Targeting methodology is extensively documented (dedicated Annex 3). Design directly targets protracted IDPs and households with malnourished children — the most conflict-and-disaster-affected populations. Cash transfer modality chosen for FCV-appropriate reasons (mobile money leverages Somalia's 88% SIM card penetration, reduces security risks of cash). Shock-responsive design allows scale-up in crisis situations. Gender explicitly integrated (women as primary transfer recipients). Nutrition-linked transfers address human capital in FCV context. Data from IPC phases used for needs assessment. This is among the strongest targeting designs in the portfolio."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Third-Party Monitoring (TPM) listed in the acronyms as an explicit arrangement... The project is designed to enable scaling up of the safety net cash transfer amount in times of shock... GBV Action Plan is a disbursement condition, Social Management Plan required.",
+        "rationale": "TPM explicitly named. Mobile money delivery reduces physical access requirements. Shock-responsive scale-up mechanism built into design. Social Management Plan (including GBV Action Plan) is a disbursement condition. MoLSA capacity assessed and institutional capacity building included as Component 2. Data Protection Focal Person (DPFP) designated. FMS engagement plans drafted. Score at 8 rather than 9 due to absence of CERC and limited detail on security protocols for field staff in insecure areas."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Gender Tag: Yes (all three dimensions). TPM listed as monitoring instrument. MESH phone-based monitoring by DFID cited as data source. Results framework includes nutrition outcomes disaggregated.",
+        "rationale": "Results framework is more outcome-oriented than typical infrastructure projects. Nutrition outcomes, coverage of vulnerable households, and shock-responsiveness are tracked. Gender disaggregation is required. Phone-based monitoring (MESH/DFID) cited as adaptive tool appropriate for inaccessible areas. However, FCV-specific outcome indicators (e.g., trust in institutions, social cohesion) are not named, and the available text does not show a fully adaptive management mechanism with explicit learning loops."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "Datasheet states 'Bank/IFC Collaboration: No.' No IFC or MIGA engagement. Cross-project coordination with SCALED-UP (P168115) for digital ID/social registry linkages is noted, representing intra-WBG coordination but not IFC/MIGA private sector engagement."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Strong",
+        "numeric_score": 8.0,
+        "rationale": "Average of D1(9) + D2(8) + D3(7) = 24/3 = 8.0. No red flag deductions. This is the strongest FCV sensitivity score in the batch, driven by exceptionally rich conflict diagnostics and clan-exclusion analysis."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 7.0,
+        "rationale": "Average of D4(9) + D5(9) + D6(8) + D7(7) + D8(2) = 35/5 = 7.0. Exceptional ToC and targeting; strong operational flexibility; adequate results framework; dragged down significantly by absence of WBG private sector integration."
+      }
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "The Safety Net project is the standout performer in Batch 2. It demonstrates sophisticated multi-dimensional FCV integration: the 'dual development trap' framing, clan-based exclusion analysis, shock-responsive design explicitly calibrated to Somalia's crisis cycles, and hard disbursement conditions for GBV safeguards. The ToC is among the most explicitly FCV-responsive in the portfolio. The single major weakness is the complete absence of IFC/MIGA/private sector engagement — without which the responsiveness score is anchored at 7.0. If WBG integration existed, this would approach a 9.0 composite."
+  },
+  {
+    "project_id": "P167826",
+    "project_name": "Somalia - Water for Agro-pastoral Productivity and Resilience",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2019,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The SCD identified the country's 'fragility trap' as two interconnected cycles: a short-term cycle of fiscal governance political turbulence and a longer-term cycle of natural disaster displacement vulnerability... Widespread environmental degradation, fueled by, among other factors, the breakdown of traditional pastoral and clan-based land management systems, demographic pressures, and the unsustainable exploitation of groundwater, rangelands, and forests, threatens traditional livelihoods systems.",
+        "rationale": "Exceptional FCV diagnostics. Explicitly invokes SCD's 'fragility trap' framework with the dual-cycle analysis. Box 1 ('Addressing Conflict Risks and the Needs of Nomadic Pastoralists') provides a dedicated conflict analysis for resource-based conflicts between farmers, herders, and pastoralists — exactly the right diagnostic for this sector. Identifies specific conflict drivers: contested land use, grazing rights, insecure water access, private enclosures on communal rangelands, weakening of traditional governance. Climate-conflict nexus analyzed. References to WALP lessons on 'socioeconomic drivers of resource-based conflict.' CPF activity filters explicitly include 'addressing conflict drivers.' Subnational variation noted (Puntland, Somaliland vs. southern FMS). This is the strongest sector-specific FCV diagnostic in the batch."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Box 1: The project will also look to strengthen participation of pastoralists in consultative and decision-making processes and to support customary approaches and traditional governance systems for managing competition over natural resources and conflict resolution... The current project design emphasizes a learn-by-doing approach to generate new understanding about... the specific needs of pastoral communities, and their relationships with other livelihood groups.",
+        "rationale": "This is the most sophisticated do-no-harm analysis in the batch. Box 1 explicitly addresses: (a) localized farmer-herder conflicts over water and land; (b) risk of boreholes creating 'sacrifice zones' through rangeland degradation; (c) risks of private enclosures marginalizing nomadic pastoralists; (d) need to strengthen customary governance for conflict resolution. CERC included. Environmental safeguards triggered (OP 4.12 Involuntary Resettlement, OP 4.37 Safety of Dams, OP 7.50 International Waterways). Water access as conflict driver explicitly recognized and mitigation (equitable access provisions, customary governance support) embedded in design. This is a model of conflict-sensitive sectoral design."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Political and socioeconomic marginalization of pastoralist communities and policies that either neglect or undermine traditional governance and arbitration mechanisms have, over time, weakened resource management and conflict resolution capacities among rural communities... The World Bank therefore takes the lead in capacity building of government institutions, mainly focused on the public finance and civil service functions but also extending to regulation in key economic sectors.",
+        "rationale": "Strong analysis of pastoralist marginalization and traditional governance erosion. Donor landscape well-mapped (WB comparative advantage in institutions vs. UN/NGOs in community-based resilience). Government commitment assessed through NDP and CPF alignment. FMS engagement through subsidiary agreements. Diaspora investment role analyzed. However, no formal stakeholder mapping document cited and clan-level power dynamics at community level are not systematically mapped."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "By promoting more sustainable use of natural resources, the project will also help improve the availability of water for longer periods, thereby reducing water-related displacement and attenuating the drivers of resources-based conflicts... adaptation measures to address these increasing risks are at the core of this project and are embedded in the technical design.",
+        "rationale": "PDO ('develop water and agricultural services among agro-pastoralist communities in dryland areas') is directly FCV-responsive — addressing water access as a conflict driver. The ToC explicitly connects water security → reduced displacement → attenuated resource-based conflict. Climate adaptation explicitly embedded in technical design. Learn-by-doing approach justified in fragile context (WALP precedent). Programmatic approach with potential scale-up is appropriate for FCV contexts requiring iterative learning. CPF filter of 'addressing conflict drivers' is operationalized. This is a strong FCV-informed ToC."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "The new project will also finance community planning, mobilization activities, and the delivery of livelihood support services... VDC (Village Development Committee) in the abbreviations list signals community-driven decision-making... Gender tagged 'Yes' on all three dimensions.",
+        "rationale": "Design targets conflict-affected dryland communities — the most marginalized and conflict-exposed in Somalia. Small-scale dam technologies chosen for simplicity and community manageability. Community-driven planning through Village Development Committees. Land tenure and water access rights explicitly included in scope. Multiple water technologies to match diverse community contexts. Gender-tagged 'Yes' (all three). Environmental safeguards are comprehensive for a project with potential ecology/conflict interlinkages. Score at 8 rather than 9 due to limited detail visible in the available text on how specifically inter-community conflicts over new water points will be governed."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "CERC (Contingency Emergency Response Component) included and in the abbreviations list as standard. CERIP (Contingent Emergency Response Implementation Plan) also listed. RRF (Recovery and Resilience Framework) alignment documented.",
+        "rationale": "CERC with full activation conditions documented in legal covenants. Pilot/learn-by-doing approach provides inherent flexibility. Subsidiary agreements with each FMS/Somaliland provide federated implementation flexibility. National Project Coordination Unit with project coordinator and M&E specialist. Effectiveness condition requires project coordinator and M&E specialist in place. Community-driven delivery model reduces reliance on state capacity. RRF alignment ensures disaster-response linkage. Score at 8 given comprehensive CERC provisions; limited detail on security provisions for field staff."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Gender Tag: Yes (all three dimensions). Recovery and Resilience Framework (RRF) alignment. WALP experience generated 'a wealth of new understanding about social dynamics among marginalized livelihood groups... and the socioeconomic drivers of resource-based conflict, which will help inform and guide downstream interventions.'",
+        "rationale": "The project incorporates adaptive learning from WALP into its design — a genuine adaptive management mechanism. Gender-disaggregated indicators included. Conflict-sensitivity in monitoring is implicit through community dynamics tracking. RRF alignment for disaster resilience tracking. However, explicit conflict-sensitive outcome indicators (e.g., resource conflict incidents, inter-community trust metrics) are not named in the available text. Score at 7 as adaptive learning is well-documented but formal conflict-sensitive M&E indicators not explicit."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "Datasheet confirms no Bank/IFC collaboration. Private sector role in agriculture (diaspora investments in livestock, private veterinary networks) is analyzed in context but not connected to IFC instruments. No MIGA political risk coverage mentioned."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Strong",
+        "numeric_score": 8.33,
+        "rationale": "Average of D1(9) + D2(9) + D3(7) = 25/3 = 8.33. No red flag deductions. The highest FCV sensitivity score in the batch, driven by an exceptional sector-specific conflict analysis addressing resource-based conflicts between pastoral communities, and a model do-no-harm assessment in Box 1."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.8,
+        "rationale": "Average of D4(9) + D5(8) + D6(8) + D7(7) + D8(2) = 34/5 = 6.8. Strong ToC and design; very good operational flexibility with CERC; results framework adequately adaptive; dragged below 7.0 by absence of IFC/MIGA engagement."
+      }
+    },
+    "gap_matrix_cell": "Implementation gap",
+    "key_finding": "Biyoole (WAPR) is the most FCV-sensitive project in the batch for its sector. The explicit resource-conflict analysis in Box 1, the linkage between water access and conflict attenuation in the ToC, and the conflict-sensitive design of community governance for water points set a high standard. The 'fragility trap' diagnostics from the SCD are properly operationalized. The implementation gap arises from no WBG private sector integration (no IFC) despite the project explicitly noting a vibrant private agricultural sector and diaspora investment role — a missed opportunity for IFC engagement in livestock/agribusiness value chains."
+  },
+  {
+    "project_id": "P168115",
+    "project_name": "Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project (SCALED-UP)",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2019,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "Somalia remains a fragile country despite the substantial progress made in recent years... These service access barriers may, in turn, exacerbate political tensions and result in the development of parallel underground 'shadow markets'... Somalia's security situation hampers development initiatives and freedom of movement in the country.",
+        "rationale": "The document provides a competent macroeconomic fragility context with references to conflict, unemployment, remittances, and financial exclusion. Specific connections are drawn between financial exclusion and political tensions. However, the conflict analysis is less granular than other batch documents: Al-Shabaab, clan dynamics, and displacement are noted in passing but not systematically analyzed as drivers of project relevance. The SCD is referenced. No RRA or conflict-specific diagnostic cited. Subnational variation is not discussed. Score at 6 as context is clear but not deeply FCV-analytical."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "All development initiatives and staff movements within Somalia are continuously analyzed for security threats. If security restrictions are put in place for certain locations, then project activities and staff movements are limited, potentially excluding those locations from development initiatives... fears of money laundering and terrorist financing.",
+        "rationale": "Security threats to staff and operational constraints are acknowledged. AML/CFT risk is a central analytical frame. However, the document does not systematically identify harm pathways from the project itself (e.g., risk that digital ID systems could be misused by state or non-state actors to target communities; risk that financial formalization could disrupt informal clan-based safety nets). These are significant risks in a conflict context. GBV is listed in abbreviations but substantive analysis is in Annex 5 (Gender Analysis). Safeguards triggered are minimal (only OP 4.01). Score at 5 as conflict risks are noted but harm analysis is incomplete."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "The development of the manufacturing sector is limited by the harsh business environment and the high electricity and transport costs. This, combined with barriers that restrict access to services—compounded by fears of money laundering and terrorist financing, as well as poor banking relationships between domestic and international banks—creates unpredictability of remittance channels.",
+        "rationale": "Political economy of the financial sector is well-analyzed (consolidation of large conglomerates, MTB sector dynamics, AML/CFT pressures). Government commitment is demonstrated through MoU with NADRA and Financial Institutions Law reform. Bank/IFC collaboration is noted as 'Yes — Complementary or Interdependent project requiring active coordination.' WBG joint engagement through IFC Technical Agreement for MSME large loans window is a covenant. However, civil society and non-financial stakeholders receive minimal attention. Clan-based financial networks are not analyzed."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 6,
+        "key_quote": "These basic financial and government services contribute to breaking the cycles of violence and setting Somalia on the path toward economic development... The project initiates the development of sustainable mechanisms for delivery of targeted accessible government services, enabling efficient and market-based financial intermediation, and inclusive growth.",
+        "rationale": "The PDO ('increase access to basic digital financial and government services targeting entrepreneurship and employment, particularly for women') has a plausible FCV connection (financial inclusion → reduced vulnerability → reduced conflict risk), but this connection is stated rather than analytically developed. The ToC is primarily economic (financial intermediation, MSME growth) with FCV elements grafted on. The explicit 'breaking cycles of violence' language indicates FCV awareness, but the mechanism is not elaborated. Score at 6 as FCV is acknowledged in the ToC but not the organizing principle."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Women are overrepresented as clients within the microfinance industry... poor access to tailored finance to women contributes to limiting female entrepreneurship... The project is initially designed as a four-year program.",
+        "rationale": "Gender analysis is detailed (Annex 5) and women's financial inclusion is a central design feature. However, targeting of conflict-affected populations beyond women is not explicit — IDPs, displaced pastoralists, and minority clan communities who face the greatest financial exclusion are not specifically targeted. MSME Financing Facility targets productive sectors broadly, not vulnerability-segmented. No PSIA conducted for potential distributional impacts of financial formalization (which could disadvantage informal clan-based networks). Design is not explicitly selective for FCV-affected areas."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "All existing and newly designed World Bank Group operations must be flexible to adapt to the changing security context affecting the whole economy in Somalia. Alternately, initiatives may be redirected when possible to other appropriate locations, delayed, or altogether cancelled.",
+        "rationale": "Security flexibility is acknowledged as a general principle. No CERC included (CERC box not checked in Datasheet). No TPM arrangement mentioned. PSC and PIU established. Digital delivery reduces physical access constraints. IFC Technical Agreement required for MSME large loans window. However, the absence of CERC in a fragile context is notable, and no dedicated security protocol, alternative delivery mechanism, or TPM is documented. Score at 5 as flexibility is general rather than operationalized."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Gender Tag: Yes (all three dimensions). MEF (Monitoring and Evaluation Framework) listed in abbreviations. Annual progress reports required.",
+        "rationale": "Gender is integrated in the results framework. Annual reporting requirements are standard. However, FCV-specific outcome indicators (e.g., coverage of displaced/IDP populations, security-related service disruptions, financial access in conflict-affected areas) are not identified in the available text. No TPM or phone-based monitoring for insecure areas mentioned. The framework appears primarily economic performance-focused."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Bank/IFC Collaboration: Joint Level — Yes, Complementary or Interdependent project requiring active coordination. IFC Technical Agreement required before large MSME loans disbursed (disbursement condition).",
+        "rationale": "This is the only project in the batch with meaningful WBG integration. IFC collaboration is designated as 'Joint Level' and is operationalized through a disbursement condition requiring an IFC Technical Agreement for the MSME large loans window. The MSME Financing Facility is designed to work alongside IFC-supported financial institutions. This represents a genuine One WBG approach to private sector financial development in an FCV context. Score at 7 rather than 8-9 as the IFC engagement is primarily through a financial intermediary mechanism rather than a comprehensive FCV strategy, and MIGA is not mentioned."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": true,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Partially Addressed",
+        "numeric_score": 5.17,
+        "rationale": "Average of D1(6) + D2(5) + D3(6) = 17/3 = 5.67. Minus 0.5 for RF4 (elite capture risk: financial sector consolidation into a few large conglomerates is identified analytically but mitigation specifically for capture of MSME Financing Facility by incumbent financial sector players is not addressed). Final score: 5.17."
+      },
+      "responsiveness": {
+        "rating": "Partially Addressed",
+        "numeric_score": 5.6,
+        "rationale": "Average of D4(6) + D5(5) + D6(5) + D7(5) + D8(7) = 28/5 = 5.6. No red flag deductions on responsiveness. Boosted by genuine WBG integration; pulled down by generic FCV adaptation in most dimensions."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "SCALED-UP is the weakest FCV performer in the batch despite operating in the same Tier 1 context. The project's financial/digital sector focus makes deep FCV integration more challenging, but the gaps are substantive: harm pathways from digital ID systems and financial formalization in conflict contexts are not analyzed; targeted IDPs and displaced communities are absent from design; no CERC; no TPM; financial sector elite capture risk is identified but not mitigated. The one bright spot is genuine IFC collaboration — the only such instance in the batch. RF4 is triggered by unmitigated financial sector elite capture risk."
+  },
+  {
+    "project_id": "P171160",
+    "project_name": "Somali Integrated Statistics and Economic Planning Capacity Building",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2020,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Years of civil war and ongoing conflict in parts of the country have considerably eroded the Somali statistical system, infrastructure, and capacity leading to gaps in statistical information that is vital for national development... Natural disasters, conflict and displacement affect large fractions of the population, leaving internally displaced persons to face unique challenges beyond poverty.",
+        "rationale": "The document acknowledges conflict as a driver of statistical system collapse and notes that surveys excluded insecure areas. Conflict and displacement are mentioned as context. The COVID-19 crisis is integrated. However, this is a statistical capacity project and the FCV analysis is instrumentally focused: conflict matters because it damaged the NSS, not because of ongoing conflict dynamics that affect operations. Subnational variation (FMS statistical capacity differences) is noted institutionally but not through a conflict lens. No SCD-cited 'fragility trap' analysis, no conflict drivers mapping, no displacement analysis beyond noting IDPs require coverage in surveys."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Insecurity in part of the country also continue to hinder data collection requiring less conspicuous methods of data collection.",
+        "rationale": "Security risks to data collection are acknowledged (use of phone-based surveys in insecure areas). However, there is no analysis of how statistical activities could generate harm — e.g., risk that household surveys collecting sensitive data in conflict areas could endanger respondents or enumerators; risk that government data systems could be used to target populations; risk of inaccurate poverty data being used to allocate resources in ways that exacerbate inter-clan tensions. Environmental and social risk classification is 'Moderate' with minimal safeguards triggered. No GBV analysis. ESF applied but minimal."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "FGS to establish within one (1) months of effectiveness and maintain a joint government and development partners forum, chaired by the Director General of DNS and vested with functions and competencies, acceptable to the Association, to ensure consultation, coordination and fluid dialogue.",
+        "rationale": "Institutional stakeholder mapping (DNS, MDAs, FMS statistical units) is provided. Joint government-donor forum is a covenant. Government commitment demonstrated through new Statistics Act (assented to by President in February 2020). However, there is no analysis of political economy risks to the statistical system (e.g., risks of politically manipulated statistics, government resistance to independent data, inter-FMS tensions over national statistics coverage of sensitive populations like Somaliland). Civil society and independent analysts are not analyzed as stakeholders."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "A sustainable and reliable statistical system is also needed to support the understanding of the current coronavirus disease (COVID-19) crisis and inform its post-crisis recovery and growth... Building resilience is essential.",
+        "rationale": "The PDO ('strengthen the national statistical system in the collection, processing and dissemination of poverty and selected macro-economic data') has a weak FCV connection: better data supports better policy which may reduce vulnerability. But this is a distant, indirect ToC. The FCV link is not explicitly stated in the PDO. Shock-responsiveness is mentioned (COVID-19, drought) as a justification for rapid data capacity. The instrument (IPF for statistical capacity) is not FCV-specific and not justified in FCV terms beyond general fragile-state rationale."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 4,
+        "key_quote": "The second wave of the SHFS (2017) improved on representativeness, expanding geographic and population coverage to include additional areas, IDP settlements and nomads, but weaknesses remained... the SLHS conducted in 2013 did not cover Internally Displaced Persons (IDPs) and nomads.",
+        "rationale": "The project explicitly aims to address survey coverage gaps for IDPs and nomads — a design response to FCV-related data exclusion. This is the most FCV-relevant design element. However, the project is a capacity building project (not a service delivery or protection project) and its design is primarily technical/institutional. No targeting of conflict-affected populations as direct beneficiaries. No distributional analysis. Design is appropriate for the instrument type but inherently limited in FCV-responsiveness given the nature of the operation."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "RTDM (Real-time Data Monitoring) listed in abbreviations. Insecurity in part of the country also continue to hinder data collection requiring less conspicuous methods of data collection — phone-based CAPI surveys mentioned.",
+        "rationale": "Real-time data monitoring is a tool for adaptive management. Phone-based surveys (CAPI) as alternative data collection method in insecure areas is FCV-responsive. MoUs with FMS prior to activities in FMS territory. No CERC (not checked). No TPM for general project activities (though verification mechanisms for statistical outputs exist). Institutional arrangements across FGS and FMS are documented. Score at 5 as some FCV-specific operational adaptations exist (phone surveys) but lack systematic security provisions."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Partially Addressed",
+        "numeric_score": 5,
+        "key_quote": "Real-time Data Monitoring (RTDM) capability... Disbursement Linked Indicator (DLI) approach used... Gender data gap explicitly addressed: 'there is need to support the statistical system to produce... more gender statistics.'",
+        "rationale": "DLI approach provides results-based management incentives. Real-time monitoring capability is a genuine FCV-adaptive feature (enables rapid response to shocks). Gender data gap explicitly addressed in project design. The project's core output IS data for adaptive management of other programs. However, the results framework itself is primarily output-oriented (surveys completed, statistics produced) rather than FCV-sensitive outcome-oriented."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "No IFC or MIGA engagement. Private sector role in statistics (business registers, tax data) is mentioned technically but there is no IFC engagement strategy. The private sector is a stakeholder in the statistical system but is not a partner in implementation."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Not Addressed",
+        "numeric_score": 3.67,
+        "rationale": "Average of D1(5) + D2(2) + D3(4) = 11/3 = 3.67. No red flag deductions. The statistical capacity project has the weakest FCV sensitivity in the batch, driven primarily by the near-absence of do-no-harm analysis and shallow stakeholder political economy assessment."
+      },
+      "responsiveness": {
+        "rating": "Not Addressed",
+        "numeric_score": 4.0,
+        "rationale": "Average of D4(4) + D5(4) + D6(5) + D7(5) + D8(2) = 20/5 = 4.0. The inherent nature of the statistical capacity building operation limits FCV responsiveness, but the ToC and targeting could have been more explicitly FCV-framed."
+      }
+    },
+    "gap_matrix_cell": "Low FCV integration",
+    "key_finding": "The statistics project represents the weakest FCV integration in the batch, though this partly reflects the inherent nature of the instrument. The most significant gaps are: near-complete absence of do-no-harm analysis (sensitive data collection in conflict zones carries real risks that go unaddressed), superficial political economy assessment, and a ToC that does not make an explicit FCV case. Redeeming features include: IDP/nomad survey coverage as an explicit design goal, real-time data monitoring for shock responsiveness, and phone-based surveys for insecure areas. This project would benefit from a conflict-sensitive statistics framework and analysis of how data systems could be used to harm or exclude vulnerable populations."
+  },
+  {
+    "project_id": "P173731",
+    "project_name": "Somalia Recurrent Cost & Reform Financing Project - Phase 3",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2020,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The newly emerged institutions are still weak, contested and captured by groups of elites, such that patterns of fragility may be reinforced. For almost three quarters of the Somali population (73 percent or 11.3 million citizens, UN estimates 2018), i.e. Somalis under the age of thirty, state collapse is the only political order they have ever known... Citizens must see a rapid peace or regime change dividend, with a government performing its core functions and being accountable to its citizens, in order to avoid getting trapped in a low-trust non-cooperative social equilibrium or even a possible revival of conflict.",
+        "rationale": "Exceptional FCV diagnostics. RCRF III provides the most sophisticated political economy analysis in the batch. Explicitly analyzes: (a) elite capture of nascent institutions; (b) low state legitimacy and social contract fragility; (c) security sector crowding out social services; (d) asymmetric FMS capacity (Puntland as outlier); (e) COVID-19-conflict-drought-locust compound shocks; (f) HIPC Decision Point as a stability catalyst. References SCD, PER, World Bank 2020 Reengagement Report, and multiple Somalia Economic Updates. Security sector spending dominating budgets as a fragility indicator is explicitly analyzed. Box 1 on 'Comprehensive Approach to Risk Management' further elaborates. This is the most politically sophisticated FCV analysis in the batch."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Box 1: Comprehensive Approach to Risk Management... key risks include: Political and Governance (High), Fiduciary (High), Other (High)... The COVID-19 pandemic is expected to adversely affect revenue collection... elite capture risk: 'newly emerged institutions are still weak, contested and captured by groups of elites.'",
+        "rationale": "The document acknowledges elite capture as a systemic FCV risk. Mitigation includes: performance-based conditions (PBCs) rather than purely input-based financing; independent OAuG verification of PBC achievement; monitoring agents; semi-annual verification reports; GBV/SEA Action Plan in ESMF as an effectiveness condition. GRM required. Worker Code of Conduct required. The sliding scale approach on FGS wage bill financing mitigates dependency risk. However, the project does not explicitly map specific harm pathways (e.g., risk that wage bill support could indirectly finance security sector abuse) or provide a formal do-no-harm assessment. Score at 7 rather than 8 for this gap."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Relations between the FGS and FMS are evolving. The Provisional Constitution leaves some essential elements of federalism undefined... Transfers from FGS to FMS increased from 0.2 percent of GDP in 2013 to approximately 0.7 percent of GDP in 2019... An improved citizen-state dialogue through citizen engagement activities will also be key to increasing citizens' trust in the newly formed institutions.",
+        "rationale": "RCRF III has the strongest political economy analysis in the batch. Detailed analysis of: FGS-FMS revenue sharing tensions; inter-governmental fiscal forum as political stabilization instrument; security sector vs. social sector spending tradeoffs; elite capture of nascent institutions; citizen trust deficit as a fragility driver; COVID-19 impacts on political economy. Component 4 (Citizen Engagement and Feedback) is specifically designed to address the social contract. Inter-governmental Fiscal Forum engagement is analyzed as a peace-building mechanism. This represents state-of-the-art FCV political economy integration for a governance project."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The operation will contribute to the further establishment of a nascent system of inter-governmental fiscal relations within the federation... it will increase state legitimacy and credibility through support of service delivery by FGS and FMS authorities and associated inter-governmental fiscal transfers... helping to ensure that on-budget resources for education and health flow to schools and communities for frontline service delivery.",
+        "rationale": "PDO ('support FGS and Eligible FMS to strengthen resource management systems, inter-governmental fiscal framework, and service delivery in health and education') is explicitly framed as a state-building and social contract instrument. The ToC is fully FCV-informed: recurrent cost financing → stable public service delivery → government legitimacy → reduced fragility. The four higher-level objectives all connect to FCV outcomes (fiscal stability, HIPC incentives, federalism, state legitimacy). PBCs replace DLIs to strengthen reform incentives in a fragile context. This is an exemplary FCV ToC for a governance operation."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "Investing in human capital will be essential if Somalia is to return to prosperity. The crucial 40 percent of Somalis who are now aged six to 18 need to acquire the knowledge, health, and skills... Security-related personnel are particularly high in FMS such as Galmudug, Jubbaland, as well as the FGS... targeting newly-formed FMS with limited capacity as Eligible FMS.",
+        "rationale": "Design is appropriately selective: targets FMS most in need of fiscal support. PBC approach selects well-governed FMS with verified reform performance. Female health workers as a specific target group is FCV-sensitive (women's health access in conflict context). School grants approach shifts from general teacher payroll to performance-based school transfers, creating accountability. Component 4 (Citizen Engagement) specifically targets the social contract. However, explicit targeting of conflict-affected populations or IDP communities is absent (this is a fiscal/governance project). No PSIA for distributional impacts of fiscal reforms."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "RCRF III PBCs (Performance Based Conditions) replace DLIs, introducing more adaptive management... independent OAuG verification with external verification consultant... health technical partner for FMS health component... ESMF (including GBV/SEA Action Plan) and LMP as effectiveness conditions.",
+        "rationale": "PBC approach with independent OAuG verification provides adaptive management. Health technical partner engaged for capacity support in nascent FMS. ESMF with GBV/SEA Action Plan is an effectiveness condition. Annual work plans required. No CERC (not checked in modalities). Monitoring agents for verification. GRM required. The project manages the challenging FGS-FMS political relationship through subsidiary agreements and service delivery transfer agreements. Score at 7 as there is no CERC mechanism and security-related operational provisions are not detailed."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Substantially Addressed",
+        "numeric_score": 7,
+        "key_quote": "PDO indicators: share of civil servants' salaries financed by Government (percentage); eligible civil servants salaries paid on time (percentage); students enrolled in schools that receive performance-based school grants (disaggregated by gender); female health workers selected according to guidelines, trained and actually providing services.",
+        "rationale": "Results framework includes gender disaggregation (school enrollment) and gender-specific indicators (female health workers). PBC verification mechanism creates a results-based adaptive management cycle. RCRF support to TAR Monitoring Framework and HIPC Completion Point Triggers aligns with country-level reform milestones. Semi-annual OAuG verification. However, indicators are primarily fiscal/institutional (salary payments, FMS signing agreements) rather than FCV outcome-oriented (trust levels, service delivery for IDPs, conflict incidents). Score at 7 as framework is functional and gender-sensitive but lacks explicit conflict-sensitive outcome tracking."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "No IFC or MIGA engagement. Reference to HIPC Decision Point enabling IFC private capital investment is noted as a higher-level goal, but this is not operationalized within the project. AfDB and EU coordination noted at macro level."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": true,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Strong",
+        "numeric_score": 7.67,
+        "rationale": "Average of D1(9) + D2(7) + D3(9) = 25/3 = 8.33. Minus 0.5 for RF4 (elite capture explicitly acknowledged — 'institutions are still weak, contested and captured by groups of elites' — but mitigation through PBCs and OAuG verification, while meaningful, does not fully address the structural elite capture dynamics in FMS governance). Final score: 7.83. Rounded to 7.83."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 6.4,
+        "rationale": "Average of D4(9) + D5(7) + D6(7) + D7(7) + D8(2) = 32/5 = 6.4. No red flag deductions on responsiveness. Exceptional ToC and political economy integration; undermined by absence of CERC, no WBG private sector integration, and FCV-outcome-light results framework."
+      }
+    },
+    "gap_matrix_cell": "Implementation gap",
+    "key_finding": "RCRF III demonstrates the most sophisticated political economy and state-building FCV analysis in the batch — the explicit elite capture analysis, inter-governmental fiscal forum as peacebuilding, and citizen trust as fragility metric set a benchmark. The ToC connecting fiscal transfers to state legitimacy to conflict prevention is among the best in the portfolio. The implementation gap is significant: the fiscal governance nature of the project limits its FCV responsiveness (no CERC, no community-level conflict targeting, no TPM), and zero WBG private sector integration despite the HIPC Decision Point opening the door to IFC. RF4 triggered by elite capture acknowledged without full mitigation."
+  },
+  {
+    "project_id": "P173315",
+    "project_name": "Somalia Crisis Recovery Project",
+    "doc_type": "Project Appraisal Document",
+    "instrument_category": "IPF",
+    "approval_year": 2020,
+    "dimensions": [
+      {
+        "id": 1,
+        "name": "FCV Context and Diagnostics",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "Somalia is in the grip of a climate - and now public health - emergency, compounded by prolonged armed conflict and economic and institutional weaknesses that exacerbate the country's vulnerability. The interlinkages between climate and environmental change, cyclical drought, poverty, fragility, severe food insecurity, and protracted conflict are arguably more pronounced in Somalia than most countries. People are increasingly caught between deadly extremes... those already on the run from violence may be uprooted again by droughts and floods.",
+        "rationale": "Exceptional compound FCV diagnostics. SCRP provides the most integrated climate-conflict-displacement analysis in the batch. Explicitly acknowledges: (a) 60+ armed actors including Al-Shabaab; (b) climate-conflict nexus as uniquely severe in Somalia; (c) 2.6 million IDPs; (d) compound shocks (drought + floods + locusts + COVID-19); (e) grievance theory — 'the absence of livelihood options and the increase in poverty contribute to grievances and fragility'; (f) debt accumulation as vulnerability for climate shock victims; (g) clan protection as differential vulnerability factor. References SIPRI Climate-related Security Risks & Peacebuilding in Somalia (October 2019). Cites FINA, RRF, NDP-9. SCRP cites the WBG FCV Strategy (IDA 19) directly."
+      },
+      {
+        "id": 2,
+        "name": "Do No Harm and Conflict Risk",
+        "composite": "Sensitivity",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The ability of the Project to operate safely in some areas will hinge on the inclusiveness of its approach. Lack of coordination around disaster management, economic resilience and inclusion undermine a cohesive approach and risk long-term confusion... communities and IDPs dislocated from the socio-economic protection of the clan structures are significantly more susceptible to such behaviors.",
+        "rationale": "SCRP has the most explicit do-no-harm analysis in the batch. Operational safety explicitly linked to inclusive approach. Compound risk analysis (climate-conflict-COVID-locusts). GBV risk analysis: 'Somalia is a high-risk country for gender-based violence (GBV)... large distances to communal services and livelihoods aggravate this risk.' ESMF, GBV Action Plan, SMP, LMP all required as disbursement conditions. CERC with full documentation including CERC Manual. Independent Verification Agent (IVA) required. Environmental and Social Risk Classification: High. All major ESS standards triggered (land acquisition, community health and safety, biodiversity, cultural heritage). Harm pathways from locust response (pesticide use) addressed through specific disbursement conditions. This is the strongest harm management framework in the batch."
+      },
+      {
+        "id": 3,
+        "name": "Stakeholder and Political Economy",
+        "composite": "Sensitivity",
+        "rating": "Substantially Addressed",
+        "numeric_score": 8,
+        "key_quote": "Building state legitimacy and citizen trust requires more work... the Project will support a local governance agenda that empowers nascent FMS and local authorities to visibly support local communities in disaster response and preparedness through a 'citizens-upwards' approach built on the principles of meaningful consultation, transparency, and fairness.",
+        "rationale": "SCRP provides a strong 'citizens-upwards' political economy framing — explicitly rejecting top-down approaches. FGS-FMS coordination complexity analyzed (disaster management fragmentation, competing mandates). Al-Shabaab complexity noted (60+ armed actors). Donor coordination (FAM, FINA, RRF) mapped. UNOPS engaged as implementation partner for first 2 years — a pragmatic acknowledgment of government capacity constraints. COVID-19 political economy (revenue losses, FMS dependency) analyzed. Score at 8 rather than 9 as no formal political economy assessment document is cited and clan-level power dynamics at community level receive only general treatment."
+      },
+      {
+        "id": 4,
+        "name": "Objectives and Theory of Change",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The SCRP aligns with the World Bank Group's (WBG) new Fragility Conflict & Violence (FCV) strategy. The FCV Special Theme of IDA 19 aims to further strengthen IDA's effectiveness in Fragile and Conflict-affected Situations, supporting countries to escape the fragility trap... The Project uses a flexible approach to enable it to respond to rapidly changing circumstances and is adapted to address the root causes of fragility.",
+        "rationale": "PDO ('support recovery of livelihoods and infrastructure in flood and drought affected areas and strengthen capacity for disaster preparedness nationwide') is explicitly FCV-responsive. The ToC is the most complete in the batch: immediate recovery → medium-term resilience → long-term disaster risk management → reduced fragility drivers (grievance attenuation). Explicit alignment with WBG FCV Strategy and IDA 19 FCV Special Theme. Famine Action Mechanism (FAM) partnership. CRW (Crisis Response Window) funding. Project explicitly targets root causes of fragility (not just symptoms). Whole-of-government approach to state-citizen trust."
+      },
+      {
+        "id": 5,
+        "name": "Design and Targeting",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "The flooding affected more than a half million people across 17 districts in ten regions in the three states of Jubaland, Hirshabelle, and Southwest with 370,000 people displaced from their homes... The population of 15 million... with approximately 154 IDP sites affected by flooding... women face heightened risks... female IDPs among the most affected.",
+        "rationale": "Targeting is directly calibrated to the most crisis-affected populations: flood-displaced communities, IDP sites affected by flooding, agriculture-dependent households vulnerable to locusts, and COVID-19-affected healthcare system users. Detailed FINA provides evidence base for needs quantification. Gender analysis integrated (Annex 1). Components explicitly designed for different phases of the disaster-recovery continuum (immediate, medium-term, longer-term). The three-component structure (immediate services, medium-term flood recovery, longer-term DRM) is ideal for a crisis recovery project in FCV context. CERC is fully included. Design is simple enough for FCV context while comprehensive."
+      },
+      {
+        "id": 6,
+        "name": "Implementation and Operational Flexibility",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "UNOPS engaged as first-year implementation partner for Component 1... IVA (Independent Verification Agent) required within 3 months of effectiveness... CERC with full CERC Operations Manual requirement... State Project Teams in each FMS for local management... GBV Action Plan, ESMF, SMP, LMP all disbursement conditions.",
+        "rationale": "SCRP has the most robust operational flexibility framework in the batch. CERC is fully operationalized (20.5M USD allocated) with detailed disbursement conditions. UNOPS engaged as alternative delivery mechanism for first 2 years of Component 1 — explicit acknowledgment of government capacity constraints. IVA for qualitative and quantitative impact assessment. State Project Teams at FMS level for local implementation. Environmental and social risk: High, with full ESMF and GBV Action Plan. COVID-19 Consultant(s) required for Component 3 activities. Multiple safeguard instrument disbursement conditions provide safeguards-as-flexibility. FGS-FMS MoUs required before fund transfers. This is the gold standard for FCV operational design in the batch."
+      },
+      {
+        "id": 7,
+        "name": "Results Framework and Adaptive Management",
+        "composite": "Responsiveness",
+        "rating": "Strong",
+        "numeric_score": 9,
+        "key_quote": "IVA to carry out qualitative and quantitative assessments on Project impacts and implementation progress... FINA as evidence base... RRF alignment for monitoring... Annex 4: Results Monitoring and Evaluation Framework... Annex 6: Risk Log.",
+        "rationale": "SCRP has the most comprehensive M&E framework in the batch. Independent Verification Agent provides qualitative and quantitative assessment — going beyond typical output monitoring. Risk Log (Annex 6) provides explicit adaptive management basis. RRF alignment ensures linkage to government-led recovery monitoring. Gender analysis integrated (Annex 1). FINA provides pre-project baseline. Multiple components with different timeframes allow adaptive reallocation. CERC allocation mechanism enables adaptive response. The Risk Log as a standalone annex demonstrates sophisticated adaptive management intent. Score at 9 as the framework appears comprehensive; full indicator list not visible in available text prevents confirming all are FCV-sensitive."
+      },
+      {
+        "id": 8,
+        "name": "One WBG Integration IFC MIGA",
+        "composite": "Responsiveness",
+        "rating": "Not Addressed",
+        "numeric_score": 2,
+        "key_quote": "Bank/IFC Collaboration: No",
+        "rationale": "No IFC or MIGA engagement. Despite explicit recognition that private sector rebuilding (agriculture, livestock, infrastructure) is part of the recovery agenda, there is no IFC engagement strategy. The private sector role is implicitly assumed through market recovery without structured WBG coordination."
+      }
+    ],
+    "red_flags": {
+      "RF1": false,
+      "RF2": false,
+      "RF3": false,
+      "RF4": false,
+      "RF5": false
+    },
+    "composites": {
+      "sensitivity": {
+        "rating": "Strong",
+        "numeric_score": 8.67,
+        "rationale": "Average of D1(9) + D2(9) + D3(8) = 26/3 = 8.67. No red flag deductions. SCRP is the highest-scoring project on FCV sensitivity in the batch, with near-perfect scores on context analysis and do-no-harm. The only gap is the absence of a standalone political economy assessment document."
+      },
+      "responsiveness": {
+        "rating": "Substantially Addressed",
+        "numeric_score": 7.6,
+        "rationale": "Average of D4(9) + D5(9) + D6(9) + D7(9) + D8(2) = 38/5 = 7.6. No red flag deductions. SCRP achieves the highest responsiveness score in the batch. Four dimensions score 9 — this is the only project with this concentration of top scores. The WBG integration dimension drags the average to 7.6 from what would otherwise be a score of 9.0."
+      }
+    },
+    "gap_matrix_cell": "High FCV integration",
+    "key_finding": "The Somalia Crisis Recovery Project is the top FCV performer in Batch 2. Its compound-crisis framing (climate + conflict + COVID + locusts), explicit alignment with the WBG FCV Strategy and IDA 19 FCV Special Theme, UNOPS as alternative delivery mechanism, full CERC operationalization, IVA for adaptive M&E, and 'citizens-upwards' political economy framing represent best practice for FCV-affected operations. The only significant gap is the complete absence of IFC/MIGA private sector engagement — which is particularly notable given that rebuilding agricultural and livestock livelihoods could benefit from IFC value-chain financing. Without this gap, SCRP would score above 8.0 on responsiveness."
+  }
+]

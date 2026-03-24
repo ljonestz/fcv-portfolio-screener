@@ -1,0 +1,628 @@
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+REPORT NO.: RES38158
+RESTRUCTURING PAPER
+ON A
+PROPOSED PROJECT RESTRUCTURING
+OF
+ICT SECTOR SUPPORT IN SOMALIA PHASE II
+APPROVED ON JUNE 8, 2015 
+TO THE
+FEDERAL REPUBLIC OF SOMALIA
+DIGITAL DEVELOPMENT GLOBAL PRACTICE
+AFRICA REGION
+Regional Vice President:
+Hafez M. H. Ghanem 
+Country Director:
+Bella Bird
+Regional Director:
+Riccardo Puliti
+Practice Manager/Manager:
+Michel Rogy 
+Task Team Leaders:
+Timothy Kelly, Axel Rifon Perez 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+ABBREVIATIONS AND ACRONYMS
+ICT
+Information and Communication Technologies
+IP
+Implementation Progress
+IPF
+Investment Project Financing
+ISP
+Internet Service Provider
+ISR
+Implementation Status Report
+MoF
+Ministry of Finance
+MPF
+Multi-Partner Fund
+MPTT
+Ministry of Posts, Telecommunications and Technology
+NCA
+National Communications Authority
+PDO
+Program Development Objective
+PPIAF
+Public Private Infrastructure Advisory Facility
+SCALED-UP
+Somalia Capacity Advancement Livelihoods and Entrepreneurship through Digital Uplift 
+Program (P1168115)
+SIM
+Subscriber Identification Module
+SPF
+State and Peace-building Fund
+TF
+Trust Fund
+USD
+United States Dollars
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+  
+BASIC DATA
+Product Information 
+Project ID
+Financing Instrument
+P152358
+Investment Project Financing
+Original EA Category
+Current EA Category
+Not Required (C)
+Not Required (C)
+Approval Date
+Current Closing Date
+08-Jun-2015
+30-Sep-2019
+Organizations
+Borrower
+Responsible Agency
+Ministry of Finance
+Ministry of Posts, Telecoms and Technology,Ministry of 
+Posts, Telecommunications and Technology, Federal 
+Government of Somalia
+Project Development Objective (PDO)
+Original PDO
+The overarching Project Development Objective (PDO) for this series of projects is &ldquo;to support the ICT Sector in 
+Somalia by contributing to establishing an enabling environment and by encouraging efficiency and equity in access to 
+connectivity&rdquo;. 
+Summary Status of Financing 
+Ln/Cr/Tf
+Approval 
+Signing Effectiveness 
+Closing
+Net
+Commitment Disbursed Undisbursed
+TF-A7699
+13-Jun-2018
+13-Jun-2018
+13-Jun-2018
+30-Sep-2019
+2.50
+2.50
+0
+TF-A0175
+15-Jun-2015
+15-Jun-2015
+15-Jun-2015
+30-Sep-2019
+7.00
+6.96
+.04
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+Policy Waiver(s)
+Does this restructuring trigger the need for any policy waiver(s)?
+No
+  
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+1.
+The World Bank is providing technical assistance to the Ministry of Posts, Telecommunications and Technology 
+(MPTT) and the Ministry of Finance (MoF) of the Federal Government of Somalia. The ICT Sector Support Project 
+in Somalia Phase 2 is utilizing US$14 million in funding from the Somalia Multi-Partner Fund (MPF), plus a further 
+US$1.2 million leveraged from the EU AfricaConnect2 Fund, and US$2 million in additional financing from the 
+State and Peace-building Fund (SPF). The Project Development Objective is “to support the ICT Sector in Somalia 
+by contributing to establishing an enabling environment and by encouraging efficiency and equity in access to 
+connectivity”.
+2.
+Grant agreements for the Second Phase of the ICT Sector Support Project were signed in June 2015 and have been 
+extended until 30 September 2019. Grant agreement amendments, increasing the availability of funds, were 
+signed in September 2015, October 2016, January 2018 and September 2018. As a result, all of the US$ 16 million 
+appraised, plus additional financing of US$2 million, is now available. In the latest Implementation Status Report 
+(ISR), dated 13 May 2019, both project development objective (PDO) and implementation progress (IP) were rated 
+“Satisfactory”. Virtually all of the project indicators have been met or exceeded, one exception being the award 
+of formal telecom licenses. Nevertheless, through the letters issued to operators at the start of 2019, the major 
+operators can now be considered as operating under jurisdiction of the regulatory agency, the National 
+Communications Authority (NCA). The disbursement of funds to date is summarized in the Table below. For the 
+Recipient-executed portion of the fund, disbursement is currently running at over 99 per cent, while for the Bank-
+executed portion it is at 68.0 per cent.  Additional support from PPIAF has also been made available to assist in 
+the establishment of the regulatory authority.
+Table: Disbursement and implementation progress, Phase 2, 15 June 2015 – 30 September 2019 (excluding 
+AfricaConnect funding) 
+Grant (date signed)
+Budget 
+allocated 
+(US$m)
+Disbursement at 2 
+September 2019 
+(%)
+Funds committed 
+/remaining at 2 
+September 2019 (%)
+Comments
+Component 1: Enabling 
+Environment 
+US$4.5m
+2,572,605 (57.2%)
+1’927,395 (42.8%)
+Main focus of remaining 
+funds on support for 
+Regulatory Authority
+Component 1: 
+Additional financing for 
+drought response
+US$2m
+1,845,327 (92.3%)
+154,673 (7.6%)
+Second phase of research 
+largely completed with 
+recent consultation meeting 
+held in Mogadishu. 
+Distribution of drought 
+payments underway.
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+Component 2: 
+Enhanced connectivity 
+and
+Component 3: Program 
+Management
+US$9.5m
+9,549,884 (99.6%)
+40,166 (0.5%)
+Funds fully disbursed and or 
+committed. Requirement to 
+produce draft ICR report and 
+final audit using remaining 
+resources.
+Overall
+US$16m
+13,967,816 
+(87.3%)
+2,122,234 (12.7%)
+Proposal no cost extension to 
+life of project to 30 June 
+2020.
+3.
+By a letter sent from the Government on 11 July, with a follow up on 25 July, the Government of Somalia has 
+formally requested an extension to the closing date of the project and additional funding. The request was sent 
+by MPTT, and was followed up in discussions during a mission to Mogadishu, from 17-18 July 2019. The main 
+reasons put forward by the Government for this project restructuring are:
+i.
+The MPTT lacks other sources of support (the SCALED-UP program (P168115) is mainly supporting the 
+NCA);
+ii.
+The extension was requested at the April 2019 stakeholder consultation meeting, convened by the 
+Ministry among the federal government, the federal member states and the private sector. This indicates 
+a strong level of "ownership" of the activities and reforms undertaken by the project;
+iii.
+The extension of the project is needed to maintain the dialogue with the counterpart and support the 
+preparation of the possible next phase of World Bank engagement around the Horn of Africa Digital 
+Foundations regional program,
+iv.
+The Ministry requested that there are a number of high priority areas to study in order to move the digital 
+agenda forward and to serve as building blocks for the development of a Digital Economy in Somalia. 
+4.
+As the sole donor involved with supporting the MPTT, the World Bank and the project are well placed to support 
+the Client to conduct these activities which include:
+i.
+A risk assessment and mitigation study, related to the vulnerability of the digital ecosystem (especially 
+mobile money);
+ii.
+A digital readiness diagnostic study;
+iii.
+Policy work on cybersecurity, data protection etc.
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+5.
+The extension request was discussed further during the 17-18 July mission, in particular the three additional areas 
+of focus. It was agreed that the Government would participate actively in the upcoming regional meetings on the 
+Horn of Africa initiative, including in Addis Ababa at the start of September (originally planned for 9-10 September) 
+and at the World Bank Annual Meetings in the week of 14 October 2019. The latter would also provide an 
+opportunity for fundraising in the wider donor community. In its formal response, dated 1 August 2019, the World 
+Bank acknowledged the request but noted that, unfortunately, all available funding from the Somalia Multi-
+Partner Fund is fully committed. Nevertheless, the World Bank proposed a no-cost extension to the closing date 
+of the project to 30 June 2020. This would allow all undisbursed funds, notably under the Trust Funds that are 
+World Bank-executed on behalf of the Recipient, to be fully utilized. The World Bank team also encouraged the 
+Ministry and the NCA to make full use of the funding available under the SCALED-UP program, which is now 
+effective. 
+II. DESCRIPTION OF PROPOSED CHANGES
+6.
+The restructuring involves a proposed extension of the Recipient Executed Trust Funds TF0A0175 and TF0A7699 
+for nine months. The cumulative extension would amount to 27 months, thus requiring approval by the Regional 
+Vice President. The project will be five years at the time of the revised closing date. 
+7.
+In addition, approval is also sought to extend the two Trust Funds that are Bank Executed on behalf of the 
+Recipient (TF0A0466 and TF0A7479) from 30 September 2019 to 30 June 2020. The level of disbursement, as of 
+2 September 2019, is highlighted in the Table above.
+8.
+A transfer of US$193,900 is proposed between categories of expenditure from Category 1 to Category 2 for the 
+Puntland Support (TF0A0175 and TF0A7699).
+9.
+A reallocation of funds between components, to reflect the revised budget. Some US$0.46 million would be 
+transferred from Component 2, reducing the total from US$7.8 million to US$7.34 million, The US$0.46 million 
+would be transferred into Component 3, increasing the total from US$1.7 million to US$2.16 million.
+10. Most of the project indicators are revised to the new closing date of the program (June 30, 2020). The only 
+exceptions are those indicators which have already been achieved (e.g. creation of the NCA) or where the activity 
+is ended (such as the Communications Rooms). One indicator, on SIM card registration, is proposed for deletion. 
+This is because the emphasis under the new SCALED-UP program has now shifted to Digital ID, and because no 
+household survey is likely to be available in time for validation.
+11. The proposed closing date extension meets the requirements of the World Bank Investment Project Financing 
+(IPF) Directive regarding extension of closing dates, specifically: (i) the project objectives remains achievable; (ii) 
+the performance of the Borrower remains satisfactory; (iii) the World Bank and the Borrower agree on actions 
+that will be undertaken by the Borrower to complete project critical activities (a revised budget is attached); and 
+(iv) it is confirmed there are no outstanding audits and/or interim financial reports.
+  
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+III. SUMMARY OF CHANGES
+Changed
+Not Changed
+Results Framework
+✔
+  
+Components and Cost
+✔
+  
+Loan Closing Date(s)
+✔
+  
+Reallocation between Disbursement Categories
+✔
+  
+Disbursement Estimates
+✔
+  
+Implementing Agency
+  
+✔
+DDO Status
+  
+✔
+Project's Development Objectives
+  
+✔
+Cancellations Proposed
+  
+✔
+Disbursements Arrangements
+  
+✔
+Overall Risk Rating
+  
+✔
+Safeguard Policies Triggered
+  
+✔
+EA category
+  
+✔
+Legal Covenants
+  
+✔
+Institutional Arrangements
+  
+✔
+Financial Management
+  
+✔
+Procurement
+  
+✔
+Implementation Schedule
+  
+✔
+Other Change(s)
+  
+✔
+Economic and Financial Analysis
+  
+✔
+Technical Analysis
+  
+✔
+Social Analysis
+  
+✔
+Environmental Analysis
+  
+✔
+IV. DETAILED CHANGE(S)
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+OPS_DETAILEDCHANGES_COMPONENTS_TABLE
+COMPONENTS
+Current 
+Component Name
+Current
+ Cost 
+(US$M)
+Action
+Proposed 
+Component Name
+Proposed 
+Cost (US$M)
+1. Enabling environment
+4.50
+No Change
+1. Enabling environment
+4.50
+2. Efficiency and equity in access 
+to connectivity
+7.80
+Revised
+2. Efficiency and equity in 
+access to connectivity
+7.34
+3. Support the Project 
+Implementation Unit
+1.70
+Revised
+3. Support the Project 
+Implementation Unit
+2.16
+TOTAL
+  14.00
+  14.00
+OPS_DETAILEDCHANGES_LOANCLOSING_TABLE
+LOAN CLOSING DATE(S)
+Ln/Cr/Tf
+Status
+Original 
+Closing
+ 
+Revised 
+Closing(s) 
+Proposed 
+Closing 
+Proposed Deadline 
+for Withdrawal 
+Applications
+TF-A0175
+Effective
+31-Mar-2018
+30-Sep-2019
+30-Jun-2020
+30-Oct-2020
+TF-A7699
+Effective
+30-Sep-2019
+30-Jun-2020
+30-Oct-2020
+OPS_DETAILEDCHANGES_REALLOCATION _TABLE
+REALLOCATION BETWEEN DISBURSEMENT CATEGORIES
+Current Allocation
+Actuals + Committed
+Proposed Allocation
+Financing %
+(Type Total)
+Current
+Proposed
+TF-A0175-001    |    Currency: USD
+iLap Category Sequence No: 1
+Current Expenditure Category: Gd,Wk,NonCS,CS,Tg,OC Pts 1A and 2A
+6,500,000.00
+6,332,086.37
+6,332,087.00
+100.00
+100.00
+iLap Category Sequence No: 2
+Current Expenditure Category: Gd,Wk,NonCS,CS,Tg,OC Pts 1B and 2B
+500,000.00
+473,979.83
+667,913.00
+100.00
+100.00
+Total
+7,000,000.00
+6,806,066.20
+7,000,000.00
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+TF-A7699-001    |    Currency: USD
+iLap Category Sequence No: 1
+Current Expenditure Category: Gd,Wk,NonCS,CS,Tg,OC Pts 1A and 2A
+2,500,000.00
+822,035.75
+2,473,934.00
+100.00
+100.00
+iLap Category Sequence No: 2
+Current Expenditure Category: Goods, works, non-consulting - 100% services, 
+consultants' services, Training and Operating Costs under Parts l.B & 2.B
+ 0.00
+ 0.00
+26,066.00
+100
+Total
+2,500,000.00
+822,035.75
+2,500,000.00
+OPS_DETAILEDCHANGES_DISBURSEMENT_TABLE
+DISBURSEMENT ESTIMATES
+Change in Disbursement Estimates
+Yes
+Year
+Current
+Proposed
+2015
+1,000,000.00
+1,000,000.00
+2016
+4,000,000.00
+3,000,000.00
+2017
+6,500,000.00
+4,500,000.00
+2018
+4,000,000.00
+3,000,000.00
+2019
+ 0.00
+1,500,000.00
+2020
+ 0.00
+500,000.00
+2021
+ 0.00
+ 0.00
+.
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+.
+Results framework
+COUNTRY: Somalia
+ICT Sector Support in Somalia Phase II
+Project Development Objectives(s)
+The overarching Project Development Objective (PDO) for this series of projects is &ldquo;to support the ICT Sector in Somalia by contributing to 
+establishing an enabling environment and by encouraging efficiency and equity in access to connectivity&rdquo;. 
+Project Development Objective Indicators by Objectives/ Outcomes
+RESULT_FRAME_TBL_PDO
+Indicator Name
+DLI
+Baseline
+Intermediate Targets
+End Target
+1
+2
+3
+to support the ICT Sector in Somalia by contributing to establishing an enabling environment 
+Establishing an ICT licensing and 
+taxation framework (Yes/No) 
+No
+Yes
+Yes
+Yes
+Yes
+Increased contribution of ICT 
+Sector to public treasury 
+(Amount(USD)) 
+3,200,000.00
+8,000,000.00
+10,000,000.00
+11,000,000.00
+12,000,000.00
+Action: This indicator has been 
+Revised 
+to support the ICT Sector in Somalia by encouraging efficiency and equity in access to connectivity 
+International internet bandwidth 
+per inhabitant (Number) 
+85.00
+340.00
+510.00
+680.00
+850.00
+Action: This indicator has been 
+Revised 
+PDO Table SPACE
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+Intermediate Results Indicators by Components
+RESULT_FRAME_TBL_IO
+Indicator Name
+DLI
+Baseline
+Intermediate Targets
+End Target
+1
+2
+3
+1. Enabling environment 
+Establishment of independent 
+federal ICT regulatory agency 
+(Yes/No) 
+No
+Yes
+Yes
+Yes
+Yes
+Mobile licenses issued (Number) 
+0.00
+1.00
+3.00
+3.00
+4.00
+Action: This indicator has been 
+Revised 
+Number of ISPs authorized 
+(Number) 
+0.00
+3.00
+5.00
+8.00
+10.00
+Action: This indicator has been 
+Revised 
+2. Efficiency and equity in access to connectivity 
+International Internet Bandwidth 
+(Text) 
+2 Gbit/s
+4.00
+6.00
+8.00
+10 Gbit/s
+Action: This indicator has been 
+Revised 
+Number of communications rooms 
+established by project (Number) 
+0.00
+3.00
+6.00
+10.00
+15.00
+Universities provided with 
+improved bandwidth (Number) 
+0.00
+3.00
+6.00
+10.00
+15.00
+Action: This indicator has been 
+Revised 
+SIM card registration (Number) 
+0.00
+0.00
+0.00
+500,000.00
+100,000.00
+Action: This indicator has been 
+Marked for Deletion 
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)
+RESULT_FRAME_TBL_IO
+Indicator Name
+DLI
+Baseline
+Intermediate Targets
+End Target
+1
+2
+3
+3. Support the Project Implementation Unit 
+Number of people trained via the 
+project (Number) 
+10.00
+20.00
+40.00
+60.00
+80.00
+Action: This indicator has been 
+Revised 
+IO Table SPACE
+ 
+The World Bank
+ICT Sector Support in Somalia Phase II (P152358)

@@ -24,7 +24,7 @@ build/
 Thumbs.db
 desktop.ini
 
-# Raw data and intermediates (archive locally, not committed)
+# Raw data and intermediates (excluded by default)
 raw_all_*.json
 project_documents.json
 project_documents_v2.json
@@ -32,9 +32,25 @@ batch_*_targets.json
 screening_results_batch_*.json
 extraction_results.json
 extracted_texts/
+extracted_texts_isr/
+extracted_texts_filtered/
+
+# Somalia source files — explicitly tracked (migrated from Claude_Outputs 2026-03-19)
+!somalia/raw_all_somalia_projects.json
+!somalia/project_documents.json
+!somalia/project_documents_v2.json
+!somalia/batch_*_targets.json
+!somalia/screening_results_batch_*.json
+!somalia/extraction_results.json
+!somalia/20260314_somalia_screening_results.json
+!somalia/extracted_texts/
+!somalia/extracted_texts/**
 
 # Large data files (>1MB JSON, >1MB CSV/XLSX)
 # Exceptions: normalized results and filtered portfolio are committed (both <1MB)
+
+# Stability test run outputs (raw per-run JSONs — committed: summary CSV + heatmaps only)
+stability_test/results/
 
 # Temp
 *.tmp

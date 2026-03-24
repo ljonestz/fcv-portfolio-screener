@@ -1,0 +1,2386 @@
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD4863  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+PROPOSED GRANT 
+IN THE AMOUNT OF SDR 18.6 MILLION 
+(US$25.0 MILLION EQUIVALENT) 
+ 
+AND A 
+PROPOSED GRANT 
+IN THE AMOUNT OF US$2.0 MILLION 
+FROM EARLY LEARNING PARTNERSHIP MULTI DONOR TRUST FUND 
+ 
+AND A 
+PROPOSED GRANT 
+IN THE AMOUNT OF US$25.0 MILLION 
+FROM SOMALIA MULTI PARTNER FUND  
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA  
+ 
+FOR A 
+ 
+SOMALIA EMPOWERING WOMEN THROUGH EDUCATION AND SKILLS "RAJO KAABA" 
+PROJECT 
+ 
+June 3, 2022 
+Education Global Practice 
+Eastern and Southern Africa Region 
+ 
+  
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective April 30, 2022) 
+ 
+Currency Unit =   United States Dollar (US$) 
+SDR 0.74 = US$1 
+US$1.35 = SDR 1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AGES 
+Adolescent Girls’ Education in Somalia 
+CPF 
+Country Partnership Framework 
+EAFS 
+External Assistance Fiduciary Section 
+EHCD 
+Education for Human Capital Development 
+EMIS 
+Education Management and Information System 
+ESA 
+Education Sector Analysis 
+ESC 
+Education Sector Coordination Committee 
+ESCP 
+Environmental and Social Commitment Plan 
+ESF 
+Environmental and Social Framework 
+ESSP 
+Education Sector Strategic Plan 
+FCDO 
+Foreign, Commonwealth, and Development Office 
+FCV 
+Fragility, Conflict, and Violence 
+FGM 
+Female Genital Mutilation 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMS 
+Federal Member States 
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GEMS 
+Geo-Enabled Initiative for Monitoring and Supervision 
+GER 
+Gross Enrollment Rate 
+GPE 
+Global Partnership for Education 
+GRS 
+Grievance Redress Service 
+HEI 
+Higher Education Institution 
+IDP 
+Internally Displaced Person 
+IFR 
+Interim Financial Report 
+M&E 
+Monitoring and Evaluation 
+MoECHE 
+Ministry of Education, Culture, and Higher Education 
+MOU 
+Memorandum of Understanding 
+MPF 
+Multi-Partner Fund 
+NAPA 
+National Adaptation Program of Action 
+NEET 
+Not in Education, Employment, or Training 
+NFE 
+Non-Formal Education 
+NGO 
+Non-governmental Organization 
+NPV 
+Net Present Value 
+PAD 
+Project Appraisal Document 
+PDO 
+Project Development Objective 
+PFM 
+Public Financial Management 
+PIP 
+Program Implementing Partner 
+PIU 
+Project Implementation Unit 
+PMU 
+Project Management Unit 
+POM 
+Project Operations Manual 
+PP 
+Procurement Plan 
+ 
+ 
+ 
+PPSD 
+Project Procurement Strategy for Development 
+SDF 
+Skills Development Fund 
+SOE 
+Statement of Expenditure 
+SEA/SH 
+Sexual Exploitation and Abuse/Sexual Harassment 
+SEP 
+Stakeholder Engagement Plan 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TVET 
+Technical and Vocational Education and Training  
+UCS 
+Use of Country Systems 
+UK 
+United Kingdom 
+WBG 
+World Bank Group 
+WDC 
+Women’s Development Center 
+WG-SS 
+Washington Group Short Set 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Regional Director: Amit Dar 
+Practice Manager: Muna Salih Meky 
+Task Team Leaders: Shawn Michael Powers, Amanda Epstein Devercelli 
+ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 7 
+A. Country Context................................................................................................................................ 7 
+B. Sectoral and Institutional Context .................................................................................................... 8 
+C. Relevance to Higher Level Objectives ............................................................................................. 14 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 15 
+A. Project Development Objective ..................................................................................................... 15 
+B. Project Components ....................................................................................................................... 15 
+C. Project Beneficiaries ....................................................................................................................... 21 
+D. Results Chain .................................................................................................................................. 22 
+E. Rationale for Bank Involvement and Role of Partners ................................................................... 23 
+F. Lessons Learned and Reflected in the Project Design .................................................................... 24 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 25 
+A. Institutional and Implementation Arrangements .......................................................................... 25 
+B. Results Monitoring and Evaluation Arrangements......................................................................... 25 
+C. Sustainability ................................................................................................................................... 26 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 27 
+A. Technical and Economic Analysis ................................................................................................... 27 
+B. Fiduciary .......................................................................................................................................... 28 
+C. Legal Operational Policies ............................................................................................................... 30 
+D. Environmental and Social ............................................................................................................... 31 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 33 
+VI. KEY RISKS ..................................................................................................................... 33 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 37 
+ANNEX 1: Implementation Arrangements and Support Plan .......................................... 48 
+ANNEX 2: Climate Co-Benefits Description .................................................................... 59 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+   
+Page 1 of 65 
+ 
+     
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P176898 
+Investment Project 
+Financing 
+High 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+27-Jun-2022 
+30-Jun-2027 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+To improve literacy and numeracy skills of women in selected areas and to prepare women for leadership roles. 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 65 
+ 
+Skills for Life and Labor Market Success  
+  25.00 
+ 
+Higher Skills Development for Women’s Leadership  
+  20.00 
+ 
+Technical Assistance and Project Management  
+   7.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of Somalia  
+Implementing Agency: 
+ Ministry of Education, Culture and Higher Education, Federal Republic of 
+Somalia  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+52.00 
+Total Financing 
+52.00 
+of which IBRD/IDA  
+25.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+25.00 
+          IDA Grant 
+25.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+27.00 
+          Early Learning Partnership 
+2.00 
+          Somalia Multi-Partner Fund 
+25.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+  25.00 
+   0.00 
+  25.00 
+National PBA 
+   0.00 
+  25.00 
+   0.00 
+  25.00 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 65 
+ 
+Total 
+   0.00 
+  25.00 
+   0.00 
+  25.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2028 
+Annual 
+ 
+ 
+ 
+   0.00 
+   1.85 
+   1.97 
+   2.79 
+   3.70 
+   5.42 
+   5.84 
+Cumulative 
+ 
+ 
+ 
+   0.00 
+   1.85 
+   3.82 
+   6.61 
+  10.31 
+  15.73 
+  21.57 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Education 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ High 
+8. Stakeholders 
+⚫ Substantial 
+9. Other 
+ 
+10. Overall 
+⚫ Substantial 
+ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 65 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 65 
+ 
+Section I.A.1 of Schedule 2 to the Financing Agreement: 
+Recipient to enter into a Subsidiary Agreement with Somaliland 
+ 
+ 
+ 
+ Sections and Description 
+Section I.B.2 of Schedule 2 to the Financing Agreement: 
+Recipient to maintain throughout the Project (i) a Project Steering Committee, (ii) a Project Management Unit, and 
+(iii)  an External Assistance Fiduciary Section unit 
+ 
+ 
+ 
+ Sections and Description 
+Section I.C.1 of Schedule 2 to the Financing Agreement: 
+Recipient to prepare a Project Operations Manual (POM), and implement the Project in accordance with the POM 
+and the comprehensive operation and accounting procedures manual (COAP) 
+ 
+ 
+ 
+ Sections and Description 
+Section I.D of Schedule 2 to the Financing Agreement: 
+Recipient to prepare and furnish to the Association no later than October 31st of each year an annual work plan 
+and budget in accordance with the POM 
+ 
+ 
+ 
+ Sections and Description 
+Section I.E.7 of Schedule 2 to the Financing Agreement: 
+Recipient to recruit, no later than three months from the Effective Date a certified security management firm. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article 4.01 (a) The SMPF Grant Agreement and the ELP Grant 
+Agreement have been executed and delivered and all conditions 
+precedent to their  effectiveness or to the right of the Recipient to 
+make withdrawals under them (other than the effectiveness of this 
+Agreement) have been fulfilled. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article 4.01 (b) The POM has been adopted, in form and substance 
+satisfactory to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article 4.01 (c) The Recipient has prepared, adopted and disclosed 
+the Stakeholder Engagement Plan (SEP), Environmental and Social 
+Management Framework (ESMF), the Labor Management 
+Procedures (LMP), and the Security Management Framework 
+(SMF), in a manner and substance acceptable to the Association. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, IBRD/IDA 
+Under Category (3) until the following measures, outlined in the 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 65 
+ 
+ESCP, have been completed in form and substance satisfactory to 
+the Association: (i) an ESMP for the construction phase has been 
+adopted and publicly disclosed by the Recipient and cleared by the 
+Association, (ii) the SEAH Prevention and Response Action Plan has 
+been adopted and publicly disclosed by the Recipient and cleared 
+by the Association; (iii) an area-specific Security Management Plan 
+has been adopted by the Recipient and cleared by the Association; 
+(iv) Resettlement Action Plan (RAPs) and land agreements 
+consistent with the requirements of the RAPs been adopted and 
+publicly disclosed by the Recipient and cleared by the Association; 
+and (v) a functioning, trusted and accessible Project GRM is in place, 
+in line with the SEP. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, IBRD/IDA 
+Under Category (5) until Somaliland has: (i) executed the 
+Somaliland Subsidiary Agreement setting forth implementation 
+arrangements for Somaliland’s Respective Activities under the 
+Project (including the flow of funds out of the Grant proceeds), and 
+all Somaliland’s internal requirements for the agreement to be 
+binding upon Somaliland in accordance with its terms have been 
+duly obtained/secured; (ii) prepared and formally adopted a Project 
+operation manual for its activities under the Project; (iii) established 
+the institutional arrangements set forth in the forgoing manual, as 
+shall be required to carrying out said Activities, in a manner and 
+substance satisfactory to the Association, and (iv) completed the 
+following measures, outlined in the ESCP, in form and substance 
+satisfactory to the Association: (A) an ESMP for the construction 
+phase has been adopted and publicly disclosed by the Recipient and 
+cleared by the Association, (B) the SEAH Prevention and Response 
+Action Plan has been adopted and publicly disclosed by the 
+Recipient and cleared by the Association; (C) an area-specific 
+Security Management Plan has been adopted and cleared by the 
+Association; (D) Resettlement Action Plan (RAPs) and land 
+agreements consistent with the requirements of the RAPs been 
+adopted and publicly disclosed by the Recipient and cleared by the 
+Association; and (E) a functioning, trusted and accessible Project 
+GRM is in place, in line with the SEP. 
+ 
+ 
+    
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 65 
+ 
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+ 
+1. 
+Somalia is transitioning from a period of prolonged conflict and in recent years has made 
+important strides in building core economic institutions, improving security, and strengthening its still-
+fragile political consensus. In 2012, Somalia adopted a new constitution and elected a new federal 
+parliament and president, and in 2017, the country completed its first national electoral process since the 
+transition.  The government has appointed new leaders to key posts and finalized regulations to 
+strengthen capacity to monitor financial transactions, including potential terrorism financing. New 
+payment system platforms were deployed in 2020, and the Central Bank of Somalia is preparing to 
+introduce a new national currency to pave the way for financial inclusion of the poor and strengthen the 
+supervision over the financial sector.  In May 2022, Somalia successfully concluded a previously delayed 
+election process.  Political leaders had committed to a 30 percent quota for women in parliament. In the 
+2022 elections, 20 percent of parliamentary seats were secured by women, and the Federal Government 
+of Somalia (FGS) parliament elected the first-ever female deputy speaker of the Lower House. 
+2. 
+Despite its recent progress, Somalia is confronted with substantial challenges resulting from 
+years of instability and underinvestment in human capital, including widespread poverty, low economic 
+growth, low fiscal capacity, and fragility. Somalia is one of only four countries on the World Bank’s list of 
+fragile and conflict-affected situations rated as a ‘high-intensity’ conflict.  Somalia is one of the poorest 
+countries in the world with a per capita gross domestic product (GDP) of US$480. An estimated 69 percent 
+of the population live in poverty (below US$1.90 per day according to the most recent 2017 estimate), 
+with the poverty rate unlikely to decrease, as the population growth rate has recently been on par with 
+the economic growth rate (both 2.9 percent per annum from 2014-2021). The economy benefits 
+substantially from foreign remittances, which are estimated to constitute 31.2 percent of GDP (2020).  
+Fiscal capacity continues to be low, with a government expenditure-to-GDP ratio of 12.4 percent (2020) 
+and a tax-to-GDP ratio of 2.5 percent (2020). These factors all constrain the government’s ability to deliver 
+services and respond to these challenges, which were further constrained by political uncertainty related 
+to when the federal elections would be concluded, but with elections now completed successfully, hopes 
+are high.  Within this evolving context, concern remains that militia-based opposition, known as Al-
+Shabaab, may continue to challenge efforts to establish a stable government.   
+3. 
+The combination of high fertility and improved survival rates mean that education, skills, and 
+employment needs will remain high for decades to come. Adolescents and youth ages 10–24 years 
+represent 34 percent of the population in Somalia, slightly higher than the Sub-Saharan African average 
+(32 percent) and much higher than the global average (24 percent). Moreover, the size of the population 
+in this age group is projected to grow from about 5.5 million (2020) to between 12.6 million and 14.8 
+million in 2050.1 These demographic changes will require expansion of fiscal space for education (and 
+other social services) and improvements in the quality and relevance of education efforts to keep up with 
+demand and provide the skills required for economic transformation.  
+ 
+1 Range is due to use of low- or high-fertility scenario. Source: World Bank 2021. Somalia Economic Update. Edition No. 6, June 
+2021. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 65 
+ 
+4. 
+The challenges facing adolescent girls and women in Somalia are substantial and limit their 
+ability to live healthy and productive lives, fulfill their potential, and contribute to the country’s growth. 
+More than one quarter (27 percent) of girls and women aged 20–24 years give birth before their 18th 
+birthday, which contributes to high overall fertility and increased likelihood of low-birthweight babies and 
+stunting in early childhood. Less than one quarter (24 percent) of all women receive four or more 
+antenatal care visits, and the maternal mortality ratio is high, at 829 per 100,000 live births, as is the 
+under-five mortality rate of 115 per 100,000 live births. Across the country, an estimated 56 percent of 
+women ages 15 years or older cannot read, compared to 41 percent of men, and more than half of all 
+females ages 15 to 29 years (57 percent) are neither at work nor in school/training, compared to 39 
+percent for males.2 Gender-based violence (GBV) is widespread: according to one survey, 36 percent of 
+adult women experienced intimate partner violence and 62 percent reported undergoing female genital 
+mutilation (FGM)/cutting in their lifetime.3 The cumulative effects of underinvestment, lack of 
+opportunity, and violence traps women in a vicious cycle of under-empowerment that affects their 
+capacity to participate in society, engage in productive employment, and support their families. 
+5. 
+With the right investments in its people—particularly in educating girls and women—Somalia 
+has the opportunity to capture a demographic dividend. Despite current low levels of literacy and access 
+to education, investment in Somalia’s youthful population could yield a high return, especially if girls and 
+women who have been left behind by the formal education system could benefit from new opportunities. 
+Timely and effective investments in human capital for girls and women can also help reduce the 
+intergenerational transmission of poverty. International evidence from a range of contexts confirms that 
+increasing girls’ and women’s access to education and earning potential will reduce fertility levels and 
+improve women’s and children’s outcomes through multiple channels, including increased autonomy and 
+bargaining power in family formation, greater earning power and improved status, and increased child 
+survival and investments in children’s health and education. Boosting women’s economic empowerment 
+is essential to achieve economic growth, shared prosperity, and social stability in Somalia and to meet the 
+current government objectives set out in the Somalia National Development Plan (2020–2024).  
+B. Sectoral and Institutional Context 
+6. 
+Somalia is rebuilding its education system. Though previously high functioning, Somalia’s 
+education system was decimated during the civil war as infrastructure was destroyed and teachers and 
+students abandoned the educational process. Somalia’s current education system emerged in 2012 with 
+the establishment of the FGS and the provisional constitution guaranteeing free primary and secondary 
+education as a basic right in 2012. While the fragile context of Somalia presents numerous challenges for 
+education service delivery, the rebuilding of the education system offers opportunities to mitigate some 
+of the effects of violence and fragility. Though not fully codified in law, the Federal Government’s Ministry 
+of Education, Culture, and Higher Education (MoECHE) is responsible for the overall guidance and 
+administration of education, while Somalia’s FMS are responsible for policy implementation and service 
+delivery. 
+ 
+2 World Bank Group. 2019. Somali Poverty and Vulnerability Assessment: Findings from Wave 2 of the Somali High Frequency 
+Survey. Washington, DC: World Bank. 
+3 Wirtz AL, Perrin NA, Desgroppes A, et al. 2018. Lifetime prevalence, correlates and health consequences of gender-based 
+violence victimisation and perpetration among men and women in Somalia. BMJ Global Health 2018;3:e000773. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 65 
+ 
+7. 
+There is an emerging agreement regarding the roles and responsibilities of the FGS and member 
+state governments. The federal system includes five federal member states (FMS)—Galmudug, 
+Hirshabelle, Jubbaland, Puntland and South West—and the federally administered Banadir 
+Administration. Although not internationally recognized, Somaliland declared independence in 1991 and 
+does not participate in the federal system. Since 1991, Somaliland has undergone a relatively successful 
+process of post-conflict peacebuilding and reconstruction with three successful elections since 2002. The 
+relative peace and stability in Somaliland have given the government an opportunity to invest in basic 
+service delivery, including education.  
+8. 
+Somalia’s federal and state governments have made strides in education policy and program 
+development. Notable achievements include enactment of a new Basic Education Act that regulates the 
+provision of basic and adult education in the country; engagement with development partners since 2012 
+on a series of Education Sector Strategic Plans (ESSPs), with a new ESSP currently under development 
+(2022-2026); and the adoption of the country’s new harmonized competency-based curriculum. The 
+MoECHE has brought together technical and vocational education and training (TVET) and non-formal 
+education (NFE) in a consolidated department, delineated the roles and responsibilities of the MoECHE 
+and the Ministry of Labor in the skills development space through a memorandum of understanding 
+(MOU), and finalized a unified national education policy framework through a signed MOU with the FMS. 
+The recently approved US$40 million IDA-financed Education for Human Capital Development (EHCD) 
+Project (P172434) is also a significant achievement given that it will be Somalia’s first major government-
+executed education project. 
+9. 
+Despite this progress, access to education remains low. The primary gross enrollment rate (GER) 
+is estimated to be 20 percent, with approximately 3 million primary-aged children (ages 5–14 years) out 
+of school, and the secondary GER is estimated at 14 percent. An estimated 44 percent of youth (ages 15–
+24 years) in Somalia are not in education, employment, or training (NEET), according to the 2019 Somalia 
+Labor Force Survey.4 The NEET rate is particularly high for young women: 50 percent of all females ages 
+15–24 years were neither at work nor in school/training, compared to 39 percent for males.  
+Girls’ and Women’s Education in Somalia 
+10. 
+Women’s basic skills, such as literacy and numeracy, are low both in absolute terms and relative 
+to men in Somalia. Nationwide, an estimated 56 percent of women ages 15 years or older cannot read 
+compared to 41 percent of men (Figure 1a). In recent years, Somalia has made progress in getting more 
+girls in school: the share of women and girls from ages 10 to 19 years without any formal education is half 
+that of women over age 35 (Figure 1b). This gradual improvement in access to basic education is a 
+substantial achievement against a backdrop of crisis. Despite this progress, more than 40 percent of girls 
+remain excluded even in the youngest cohort. While women’s education attainment and literacy are lower 
+than men’s across the board, there are also unequal outcomes across different groups of women: 
+approximately 72 percent of women ages 25 years or older, who live in rural areas, have never attended 
+formal schooling, compared to 59 percent in urban areas. For women who are nomads or in internally 
+ 
+4 Somalia National Bureau of Statistics. 2019. Somalia Labor Force Survey Report. https://www.nbs.gov.so/the-labour-force-
+survey-report-2019/ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 65 
+ 
+displaced person (IDP) settlements, this percentage reaches 83 percent. Though the national literacy rate 
+for women is 44 percent, for rural women it is 35 percent, and among nomadic women it is 10 percent.  
+Figure 1. Key Education Indicators Disaggregated by Gender in Somalia 
+(a) Literacy Rates by Gender and Geography, Somalia 
+(b) Population without Access to Formal Education 
+by Gender, Somalia 
+Source: Somalia Poverty and Vulnerability Study (World Bank 2019). 
+11. 
+Girls and women face many challenges in accessing education. These include poverty, distance 
+from home to school, preferential treatment of males, and other social norms that include pressure to 
+marry at a young age and household chores and care responsibilities for younger siblings.5 The scarcity of 
+female role models in leadership positions and at higher levels of education, coupled with beliefs that only 
+men should continue to advanced levels of education, likely affect women’s persistence in the education 
+system.6 The number of girls and women who never benefitted from basic education in the first place will 
+remain high without concerted efforts to provide second chance or NFE opportunities.7 Gender-specific 
+barriers intersect with other sources of exclusion, including geographic location, socioeconomic class, and 
+disability status. While the provisional constitution of Somalia and FGS policies guarantee access to 
+education for persons with disabilities, the Somalia Education Sector Analysis (ESA) 2022 notes that 
+school-age children with disabilities, and especially girls with disabilities, are disproportionately excluded 
+from education. Underlying challenges cited by the ESA include a lack of data on the prevalence of 
+disability, unfavorable community attitudes, and no teacher training on supporting learners with 
+disabilities.8 
+ 
+5 Federal Government of Somalia. 2022. Somalia Education Sector Analysis. Dakar: IIEP-UNESCO. 
+6 Jama, A. and G.S. Barre. 2019. Understanding the Barriers to Girls´ and Women´s Access to Higher Education in Puntland, 
+Somalia. London: Overseas Development Institute. 
+7 Second chance education targets individuals who never attended school, left school before completing the level (e.g., primary 
+or secondary) in which they were enrolled, or left before obtaining the level needed for a desired occupation or further study. 
+The objective of second chance education is to provide either missing skills which are required for the labor market, 
+entrepreneurship or daily life, or to afford beneficiaries an opportunity to rejoin a formal education path by attaining the 
+equivalent of the level of education they did not complete. 
+8 
+Federal 
+Government 
+of 
+Somalia. 
+2022. 
+Somalia 
+Education 
+Sector 
+Analysis. 
+Dakar: 
+IIEP-UNESCO. 
+ 
+0
+20
+40
+60
+80
+100
+Mogadishu
+Other
+urban
+Rural
+IDPs in
+settlements
+Nomads
+% of population aged 15 or more
+Women
+Men
+Overall average
+20
+40
+60
+80
+100
+10 - 14 Years
+15 - 19 Years
+20 - 24 Years
+25 - 29 Years
+30 - 34 Years
+35 - 39 Years
+40 - 44 Years
+45 - 49 Years
+50 - 54 Years
+55+
+% of population 
+Age group 
+Women
+Men
+Overall average
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 65 
+ 
+12. 
+Several barriers, in addition to low educational attainment, affect women’s economic 
+engagement.9 Overall, women’s labor force participation is low at 20 percent, compared to 58 percent 
+for men. The labor market is segregated by gender, with women mostly in lower-income activities. 
+Women account for 60 percent of owners of micro businesses, which are characterized as informal, 
+irregular, and of low value. According to the 2019 Somalia Poverty and Vulnerability Study 2019, ’family 
+and household care’ is the most cited reason for inactivity, nearing 60 percent for most subgroups of 
+women. These data indicate that any efforts to boost women’s economic empowerment will have to 
+address household and childcare responsibilities, which constrain women’s ability to work outside the 
+home or participate in education or other opportunities. Other barriers include (a) limited opportunities 
+for acquiring vocational and business skills; (b) societal norms and dynamics that limit women’s 
+meaningful participation in private enterprises and contribute to a hostile work environment; (c) women’s 
+lack of control over critical resources including land, financial resources, and other inputs; (d) insufficient 
+market research on viable opportunities; and (e) a lack of access to formal networks to provide business 
+guidance. While the World Bank and partners are working together with the Federal Government of 
+Somalia to facilitate women’s entry into the labor market and self-employment, there is a need to scale 
+up successful approaches to help more women overcome these barriers. 
+13. 
+Somali women stakeholders and activists were consulted during project identification regarding 
+issues of labor market engagement.10 When asked to what degree basic skills affect women’s well-being 
+and success, the participants agreed that it is a key priority for women to have basic reading, writing, and 
+arithmetic skills. They stressed the close correlation between a command of these basic skills and the 
+capacity to reach financial independence, which they identified as the main driver of self-confidence. 
+These discussions echoed the findings in the Poverty and Vulnerability Survey from 2019, with participants 
+suggesting that women’s limited financial independence, the absence of childcare for working women, 
+and excessive responsibilities for women in the household are key constraints. Participants noted that 
+these challenges are even more severe for women with disabilities, who have even less access than men 
+with disabilities to available opportunities. These women also highlighted the substantial security and 
+safety concerns that women face in the labor market, emphasizing widespread experiences of personal 
+harassment, abuse, and toxic workplace cultures. These activists strongly expressed that women need to 
+be educated on their legal rights and for many more opportunities to be created for women leaders. 
+Participants also suggested that public campaigns, including through social media, should be expanded to 
+promote women’s participation in further education and the workforce.  
+14. 
+Promising interventions to boost women’s skills and ability to engage in productive 
+employment exist in Somalia. These include second chance education for girls and women who did not 
+complete formal schooling, training for job-relevant skills, and investments in higher education to build 
+leadership capacity and create aspirational pathways for young women. To maximize the potential of 
+ 
+http://www.iiep.unesco.org/en/publication/education-sector-analysis-federal-government-somalia-assessing-opportunities-
+rebuilding 
+9World 
+Bank 
+2019. 
+Somalia 
+Poverty 
+and 
+Vulnerability 
+Study 
+2019. 
+Washington, 
+DC: 
+World 
+Bank. 
+https://elibrary.worldbank.org/doi/abs/10.1596/32323. 
+10 Consultations included representatives from a diverse group of stakeholders, including the Disability Aid Foundation; MCA-
+Network/MVTC Network of marginalized and vulnerable groups; Save the Children; Somalia Non-state Actors (SONSA); Somalia 
+Vulnerable Actors; Gaari Dumar; Hano Academy; Kaafiya; Hiigso; iRise Hub; and microfinance initiatives such as Kim’s, Awood, 
+and Fursad Abuur.  
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 65 
+ 
+these interventions, more work is required to both increase access and improve coherence and quality 
+across existing interventions.  
+Second Chance Education and Skills Training  
+15. 
+The current second chance initiatives targeting adolescent girls and young women demonstrate 
+operational value but are limited in ambition and are donor driven. The existing programs in Somalia 
+have been supported by major funders, including the United Kingdom (UK), the United States (US), and 
+the European Union (EU), and with the support of international and local implementation partners. These 
+programs provide primary- and secondary-level second chance education targeted to girls or more 
+broadly to children from pastoralist communities, minority groups, and others who have been left behind. 
+The UK-financed Adolescent Girls’ Education in Somalia (AGES) Project provides NFE with key life skills in 
+three FMS. The AGES Project demonstrates the capacity for second chance programs to be inclusive of 
+persons with disabilities, even in low-resource settings: the program identifies participants with 
+disabilities using the Washington Group Short Set (WG-SS) of questions and makes accommodations for 
+them to participate on equal terms with other beneficiaries. Despite the value of these programs 
+individually, they are designed and implemented by external partners outside an integrated framework 
+and are not contributing to a sustainable second chance system. 
+16. 
+A successful second chance education system will require investment to build the system over 
+time and address current deficits. Challenges facing second chance programs and policy reform efforts 
+include low access, inadequate financing, insufficient data, and low capacity of staff at federal and state 
+levels. Most services are provided by nongovernmental institutions, with little coordination and oversight 
+and a lack of basic information on service provision and outcomes. The MoECHE has been taking on an 
+increasingly important role over the last several years and a dedicated department and unit that will 
+oversee all activity relating to the provision of NFE, as well as adult education, is now in place at the federal 
+and state levels. Puntland and Somaliland have developed their own NFE policies and curriculum 
+implementation guidelines.  
+17. 
+In addition to literacy and numeracy, job-relevant skills are critical for women’s successful 
+engagement in the labor market and self-employment. Somalia’s skills sector is currently small and donor 
+driven. There is no reliable and consistently updated source of key data, including on the outcomes of 
+program graduates; gender gaps in enrollment, completion, and subject choice; and the skills needs of 
+the formal and informal economy. Available data suggest that at least 129 skills training centers have been 
+established around the country, though a lack of government financing leaves institutions largely 
+dependent on donor funding. Public TVET institutions’ operations are limited and often interrupted when 
+funding is unavailable, as salaries are typically funded on an ad hoc basis through donor project financing. 
+As a result, as few as 13,500 people may be enrolled in public skills training programs nationwide.11 More 
+than 650,000 14–17-year-olds are out of school and more than 150,000 youth have completed either 
+primary education or NFE but are not in further education or training, suggesting a substantial unmet 
+need for skilling opportunities. In practice, most Somalis learn market-relevant skills informally, for 
+example, in family-run farming or fishing businesses or through other close contacts. There is a high 
+degree of gender segregation into traditionally male and female fields, as well as strong cultural 
+ 
+11 Federal Government of Somalia, Administrative data, MoECHE. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 65 
+ 
+associations between traditional clans and specific professions, reducing the social space for people to 
+pursue opportunities in non-stereotypical sectors.  
+ 
+Higher Education 
+18. 
+After the collapse of the central government in 1991, the entire higher education sub-sector 
+was destroyed. Destruction of the sector went far beyond the deterioration of physical infrastructure. It 
+is estimated that more than 80 percent of the educated elite left the country from 1991 to 2008.12 This 
+extended period of insecurity and instability has robbed a generation of the chance to attend formal 
+education and to build a pipeline to higher education. In the absence of the central government, local 
+communities, Islamic NGOs, and the Somali diaspora have spearheaded efforts to develop the higher 
+education sector, even amid conflict. Currently, there are 118 higher education institutions (HEIs) of 
+different sizes and capacities functioning across the country, although only 41 are officially recognized by 
+the National Commission of Higher Education as of 2021. This exponential growth has happened largely 
+without government oversight and quality control.13  
+19. 
+Women’s access to higher education and leadership opportunities is low, albeit slowly 
+improving. Figure 2 illustrates trends like those observed in basic education, with women’s attainment 
+slowly improving from older to younger cohorts, with a persistent gender gap that may be starting to be 
+reduced. The barriers that prevent girls from accessing education at lower levels – including social norms, 
+early marriage and pregnancy, lack of childcare, GBV, and economic constraints – both reduce the pipeline 
+of young women prepared for higher education and prevent otherwise prepared women from enrolling. 
+Retention of women in higher education remains a significant challenge. Though data are scare, available 
+information indicates that women account for approximately 40 percent of the enrollment of first year 
+students in higher education, but most of the women who enroll do not complete their studies. Among 
+women ages 25–44 years old, about 7 percent have attended higher education, compared to 16 percent 
+of men. Better data will be needed to understand the challenges that women face in making the transition 
+from secondary to higher education and in persisting through completion of a diploma or degree. Some 
+gains have been achieved in women’s participation in political and public decision-making and leadership. 
+ 
+12 Lindley, A. 2008. Transnational Connections and Education in the Somali Context. Journal of Eastern African Studies, 2(3): 401-
+414. 
+13 The Heritage Institute for Policy Studies. 2013. The State of Higher Education in Somalia: Privatization, Rapid Growth, and the 
+Need for Regulation. Mogadishu, Somalia.  
+ 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 65 
+ 
+20. 
+Somali women have advocated 
+for greater political representation and 
+inclusion, and in some areas their 
+participation has been protected and 
+promoted by the introduction of 
+initiatives, such as the 30 percent 
+women’s quota in Parliament. Of the 
+women who have successfully secured 
+political positions, few have the formal 
+education or technical experience to 
+effectively carry out the mandate and 
+duties of their leadership positions, 
+indicating the need for more advanced 
+training for women leaders. 
+ 
+C. Relevance to Higher Level Objectives 
+ 
+21. 
+Under the 2018–2022 CPF, the World Bank is intensifying its efforts to advance gender equity 
+and address factors of exclusion and marginalization. The Somalia CPF highlights the importance of 
+addressing gender disparities and dynamics underpinning exclusion in Somalia, recognizing that it is a key 
+pathway to ensuring sustained growth and shared prosperity and that the interaction between increasing 
+gender equality for endowments (health and education), economic opportunity, and voice and agency is 
+crucial to achieving sustained growth and building resilience. In particular, the project supports Focus Area 
+1.3 by helping improve delivery systems for more inclusive social services in NFE and higher education. 
+The project complements other World Bank financed projects with gender-focused interventions in 
+Somalia, including the Somalia EHCD Project, Shock Responsive Safety Net for Human Capital Project, and 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift Project 
+(P168115) (SCALED-UP) and Additional Financing. 
+22. 
+The project is aligned with the World Bank’s broader women’s empowerment agenda in Sub-
+Saharan Africa and draws on the analytical and operational expertise being developed under the 
+Somalia Gender Equity Platform. The platform was designed to help the World Bank engage in dialogue 
+with the Somali government and civil society partners to strengthen knowledge and evidence and develop 
+interventions to address, and potentially overcome, challenges related to women’s exclusion, limits on 
+adolescent girls’ and women’s empowerment and economic engagement, barriers to women's 
+entrepreneurship, and GBV. The project is highly relevant to the World Bank’s ‘4Es’ approach 
+(empowering women, employing women, enhancing access to reproductive health services, and 
+educating girls).14 It is also consistent with the principles of the Sahel Women's Empowerment and 
+Demographic Dividends (SWEDD) Project (P150080) and will follow a holistic approach to remove 
+different barriers to girls’ and women’s access to education. The project supports multiple pillars of the 
+World Bank Group Gender Strategy (FY16-23), including improving human endowments through 
+ 
+14 World Bank. 2019. Africa Human Capital Plan. Washington, DC: World Bank. 
+https://www.worldbank.org/en/publication/worldbank-africa-human-capital-plan 
+Figure 2. Percentage of Somali Population by Age Group Who 
+Attended Higher Education  
+    Source: Somali Health and Demographic Survey (2020). 
+0
+4
+8
+12
+16
+20
+15-19 Years
+20-24 Years
+25-29 Years
+30-34 Years
+35-39 Years
+40-44 Years
+45-49 Years
+50-54 Years
+55-59 Years
+60-64 Years
+65+
+% of population
+Age group
+Male
+Female
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 65 
+ 
+education for girls and women and enhancing women’s voice and agency by developing female 
+leadership.15 Addressing gender disparities is also critical for the consolidation of peace and security in 
+conditions of ongoing conflict and instability, which are protracted and pronounced in the Somalia 
+context.  
+23. 
+The project complements other World Bank operations in contributing to getting Somalia’s 
+demographic transition started. This project is well aligned with the World Bank’s Human Development 
+portfolio, which addresses the various determinants of high fertility and women’s empowerment. 
+Complementary projects include the Somalia EHCD Project, which aims to improve girls’ access to basic 
+education and learning outcomes; the Shock Responsive Safety Net for Human Capital Project, ‘Baxnaano’ 
+(P171346), which provides cash transfers to targeted poor and vulnerable households in selected districts, 
+while building a national safety net system; and the Improving Healthcare Services in Somalia Project, 
+‘Damal Caafimaad’(P172031), which addresses reproductive and maternal and child health and aims to 
+ensure access to basic health services with a strong focus on family planning.  
+II. PROJECT DESCRIPTION 
+A. Project Development Objective 
+PDO Statement 
+24. 
+The PDO is to improve literacy and numeracy skills of women in selected areas and to prepare 
+women for leadership roles. 
+PDO Level Indicators 
+• 
+Beneficiaries advancing at least one level in Somali reading assessment (Number, 
+disaggregated by gender and beneficiaries with disabilities) 
+• 
+Beneficiaries advancing at least one level numeracy assessment (Number, disaggregated by 
+gender and beneficiaries with disabilities) 
+• 
+Female graduates of women’s college and women’s development center (WDC) programs 
+in leadership roles (Number, cumulative, disaggregated by disability status) 
+B. Project Components 
+25. 
+Empowerment of women in Somalia is at the center of building a more just, economically 
+strong, politically stable, and peaceful country. The project will support the government’s efforts to 
+enhance the conditions for women’s empowerment by providing the fundamental skills, qualifications, 
+competencies, and mindset needed for women to improve their labor force participation, enhance their 
+informal and formal sector job success and self-employment, and expand their leadership roles across all 
+sectors of the society. A growing cadre of women who have this preparation for success would enable 
+Somalia to walk the path of sustained economic growth and social development; reduce the 
+ 
+15 World Bank Group. 2015. World Bank Group Gender Strategy (FY16-23): Gender Equality, Poverty Reduction and Inclusive 
+Growth. World Bank, Washington, DC.  
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 65 
+ 
+intergenerational transmission of poverty through reduced fertility and greater parental investment per 
+child; and change social norms around women’s autonomy and accepted harmful practices such as FGM, 
+GBV, and child marriage. 
+26. 
+The project design recognizes the self-reinforcing dynamics of women’s success across various 
+levels of education and will reinforce Somalia’s efforts to build a coherent education system at the 
+federal and subnational levels. Acquisition of numeracy and literacy skills both enhance women’s basic 
+ability to engage in the world and facilitate access to skilled occupations and entrepreneurship. The 
+presence of women leaders has been shown to increase aspirations of parents for their daughters and 
+girls’ aspirations for themselves. To build female leadership requires a pipeline of girls and women 
+progressing through primary to secondary education and beyond. The project’s comprehensive approach 
+to second chance education, skills training, and higher education recognizes the potential for a virtuous 
+cycle of women’s success up and down the educational system. The project will draw upon 
+implementation lessons from projects in contexts affected by fragility, conflict, and violence (FCV), 
+including the importance of simplicity and flexibility in implementation modalities using both government 
+and non-state actors for delivery.  
+Component 1: Skills for Life and Labor Market Success (US$1 million equivalent IDA grant, US$2 million 
+Early Learning Partnership Multi Donor Trust Fund grant, US$22 million Somalia Multi Partner Fund 
+grant) 
+27. 
+The objective of the first component is to support adolescent girls and women16 to acquire basic 
+literacy and numeracy skills, cross-cutting socioemotional and life skills, and basic vocational skills to 
+improve their livelihoods. Given the low levels of literacy and numeracy in the target population, the 
+component will focus on improving these foundational skills and basic livelihood skills, which are 
+prerequisites to higher-level employment or self-employment skills in specific sectors. This component 
+addresses key demand- and supply-side constraints in service delivery, using a competitive and demand-
+driven process to finance different service providers and delivery methods, as appropriate, to the diverse 
+regions of the country. The component will be led by the federal MoECHE’s Department of TVET and NFE, 
+in collaboration with their equivalents at the FMS level and in Somaliland and the Ministry of Labor.  
+28. 
+The component will primarily support hiring of Program Implementing Partners (PIPs) to deliver 
+skills training. The PIPs will provide nonresidential integrated education and skills training in literacy, 
+numeracy, and socioemotional skills (lasting no more than 12 months in duration). Where possible, the 
+training will also include training in market-relevant vocational skills.17 Eligible entities may be local and 
+international NGOs, public and private TVET centers, and private companies, depending on the type of 
+training provided. As appropriate, programs may be delivered using existing school infrastructure during 
+afternoons and weekends (that is, outside regular school hours); community learning centers; and/or 
+alternative service delivery models, including mobile education and other interactive instruction 
+approaches, such as radio. This approach will build on existing service delivery capacity in-country, 
+particularly in the first year of project implementation, which is expected to focus on bringing existing 
+ 
+16 Up to 10 percent of beneficiaries in each target district may be disadvantaged boys and men (for example, members of 
+marginalized groups such as IDPs or men with disabilities). 
+17 A survey of the FMS indicated the following sectors to be priorities: agriculture, livestock, fisheries, childcare, tailoring, beauty, 
+and commercial food preparation. Solar technology and other efficient energy sectors are also likely to be prioritized. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 65 
+ 
+models to scale. Standardized quality criteria for approval will ensure that all programs are informed by 
+best practices18 and help ensure more cohesion across skills training programs across regions.  
+29. 
+The main instrument for implementing the scheme will be results-oriented performance 
+agreements with the PIPs to (a) provide support to eligible women and men to enroll and undertake 
+training; (b) provide additional support to eligible beneficiaries to reduce barriers to attendance, including 
+through stipends paid in tranches throughout the progression of the training to incentivize completion;19 
+(c) impart high-quality training in foundational skills (numeracy, literacy and life skills, including personal 
+initiative, problem solving, and communication) as well as sessions on sexual and reproductive health, 
+climate change response, basic digital skills, and vocational skills, where possible, to support productive 
+employment; and (d) provide follow-up support for beneficiaries to track their employment status and 
+assist in finding sustainable employment opportunities for those students who opt to enter the labor 
+market. To ensure inclusion of beneficiaries with disabilities, the PIPs will conduct community outreach 
+to engage potential beneficiaries with disabilities, apply the WG-SS disability identification questionnaire 
+as part of the intake process, and make appropriate accommodations to ensure universal access using a 
+toolkit as part of the performance agreements.  
+30. 
+The performance agreements will include a set of performance parameters that will be the 
+primary basis for financial disbursements by the FGS MoECHE to the PIPs. The performance agreements 
+will aim to provide incentives for meeting agreed upon targets in each of the areas identified above. The 
+FGS MoECHE will be responsible for managing the call of proposals, while a technical selection committee, 
+including FGS and FMS representatives, stakeholders from civil society, and representatives of the private 
+sector, will review the proposals and select the PIPs. The selection criteria and application process will be 
+further specified in the Project Operations Manual (POM). The FMS will support monitoring and 
+implementation of the scheme. An implementing partner will be hired by the FGS MoECHE under the 
+supervision of the Project Management Unit (PMU) to operate the logistics of implementing the scheme 
+and support the FMS in monitoring implementation. A third-party monitoring agent will be hired to verify 
+results before payments to the PIPs.  
+31. 
+The coverage regions for Component 1 have been identified based on the following criteria: (a) 
+two target districts and one alternate district per FMS and Somaliland, (b) demand from regional and 
+district officials, (c) accessibility for government supervision, (d) capacity to implement the programs, (e) 
+availability of complementary demand-side interventions such as cash transfer programs, and (f) avoiding 
+duplication with similar programs, such as the FCDO-financed AGES Project.  
+Component 2: Higher Skills Development for Women’s Leadership (US$18 million equivalent IDA grant, 
+US$2 million Somalia Multi Partner Fund grant) 
+32. 
+Through this component, the government of Somalia will expand opportunities for women 
+through the establishment of WDCs and take the first steps in creating a consortium of autonomous 
+ 
+18 For example, inclusion of worksite-based training or practicum in the case of skills training and targeting instruction to 
+participants’ learning levels and using frequent assessments to improve targeting in the case of literacy and numeracy instruction. 
+19 Given high levels of poverty and household and economic demands on beneficiaries, additional support and incentives for 
+attendance can include (a) provision of stipends to reduce out-of-pocket costs (for example, transport), (b) childcare services, (c) 
+engagement with community and religious leaders, and (d) completion bonuses for girls and women who complete courses and 
+pass a test of competency. As part of the completion bonus, participants may receive an energy-efficient green cookstove. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 65 
+ 
+women’s colleges to support a systemwide expansion of women’s higher-level skills and leadership 
+development. The component is designed to help Somali girls and women develop the knowledge, 
+qualifications, and abilities to serve effectively in high-skilled employment and in leadership roles in 
+politics, government, and the world of business. The component will initially use existing institutions to 
+implement short courses and other programming to support women’s leadership through WDCs, as well 
+as support a feasibility study and implementation plan for a new consortium of women’s colleges. Based 
+on the feasibility study and the implementation plan, the component will also support the establishment 
+and initial stages of implementation of the new consortium. 
+33. 
+Digital skills and competencies, as well as piloting of remote delivery options, will feature 
+strongly in the curriculum and operations across the consortium of women’s colleges and WDCs. While 
+campus-based learning is particularly important for providing an environment conducive and committed 
+to the safe and deliberate education of women, digital skills and remote operational elements will also be 
+core functions of the women’s colleges. When possible, digital skills and competencies will be built into 
+the curriculum in all fields of study. Having learned important lessons from other countries’ capacity to 
+continue delivering higher education programs during the COVID-19 pandemic, the women’s colleges will 
+be developed with remote delivery considerations built into the planning (including curriculum and 
+infrastructure) from the early stages to support resilience in delivery in case of future disruptions. 
+Subcomponent 2.1: Establishing Women’s Development Centers (US$7.5 million) 
+34. 
+The objective of this subcomponent is to establish WDCs to support women’s leadership and 
+higher education through a range of accessible programming. These WDCs will serve as administrative 
+hosts, offering fee-free physical and virtual safe spaces to support women’s leadership and empowerment 
+and offering diverse programming, including mentorship and peer support, technical and professional 
+women-centered short courses, special events and opportunities for networking, and foundational 
+courses for advancing-higher skills development. Beneficiaries will include women with some level of 
+post-secondary education and girls and women needing additional preparation to be ready for higher 
+education. Each WDC would develop bridge and remediation interventions, including outreach campaigns 
+and programs and courses, which provide up-skilling of girls and women to prepare them for successful 
+transitions to higher-level studies. The WDCs will also offer mentorship programs and events and serve as 
+vibrant, supportive, and safe spaces for girls and women on campuses.  
+35. 
+The subcomponent will support the establishment of a competitive grants program to fund 10–
+15 WDCs at universities or other government authorized HEIs across the country. The allocation will 
+take place through competitive calls for proposals administered by the PMU, with engagement of the 
+MoECHE. An Evaluation Committee of recognized international and national experts on women’s 
+education, including the Higher Education Commission of Somalia, representatives from civil society and 
+the FGS and FMS, and Somaliland will evaluate the submitted proposals based on pre-agreed criteria 
+(which will be defined in the POM). Criteria are likely to include (a) the quality of the proposals overall; (b) 
+the capacity of the institutions to have the strongest impact on girls/women in their academic community; 
+and (c) the sustainability planning embedded in the proposals. The grant for each WDC is expected to be 
+up to US$500,000 for use over a period of up to four years, which would cover, among other costs, salaries 
+for the subproject leaders and relevant teaching and support service staff; materials and equipment; and 
+any minor renovations/infrastructure improvements to house the WDC. These WDCs would fill a critical 
+gap in the existing academic environment for targeted support for women—to improve access and, even 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 65 
+ 
+more, progression and successful completion of their studies. By investing in these pilot WDCs, the 
+proposed project would nurture the development of tried and tested models for supporting women 
+across a variety of institutional types to serve as options for reforms across all HEIs.  
+36. 
+Technical assistance would be provided (through the PMU) to build capacity in the MoECHE to 
+administer the new WDC grant programs. This would include engaging international and national experts 
+to assist the MoECHE and PMU to: 
+• 
+Develop the tender dossier for the WDC grant program (manual on financing programs, call for 
+proposals, guide for applicants, manual for selection procedure, and the M&E process); and, 
+• 
+Undertake a study about the experience of women in Somali universities, to include specific 
+questions related to bridging from secondary to higher education, progression barriers in higher 
+education, and strengthening the links between the higher education experience of women and 
+their labor market outcomes. 
+ 
+Subcomponent 2.2: Developing a Consortium of Autonomous Women’s Colleges (US$12.5 million) 
+37. 
+The objective of this subcomponent is to support the government to develop a consortium of 
+autonomous women’s colleges, chartered to provide a unique learning environment for women in 
+Somalia to develop the high-level skills needed to participate fully in the Somalia labor market and serve 
+as future leaders in politics, public service, business, education, and civil society. These colleges will 
+serve two key strategic goals identified as being of national importance by the FGS: (a) increasing the 
+number of women with the high-level skills needed to serve at the highest levels of leadership in Somalia, 
+including in the Parliament, where there is a national target already set to reach and maintain 30 percent 
+female representation by the next parliamentary election cycle; and (b) expanding opportunities for 
+women to hone the academic learning and research skills needed to proceed through increasingly 
+advanced levels of post-secondary education, including through Master’s and Doctoral level studies, 
+particularly in Science, Technology, Engineering, and Math (STEM) fields. Each established women’s 
+college would be independent of any umbrella university and initial implementation would support the 
+development of at least two initial campuses in locations that will be identified through the development 
+of an inception report.  
+38. 
+The subcomponent will support the MoECHE and Somaliland and FMS to develop the model for 
+the women’s college consortium and individual plans within the FMS and Somaliland. The main activities 
+of this subcomponent will include: (a) drafting of an inception report, outlining the benefits of a variety of 
+options for the consortium model, to inform the design and implementation plan for the consortium of 
+women’s colleges; (b) development of design plans for the consortium model, including charter design 
+plans for at least two initial pilot institutions (including options for infrastructure and facilities 
+rehabilitation, curriculum tailored to specific local conditions and broader national strategic needs, 
+staffing, budgeting, scholarship plans, and enrollment plans); (c) legal establishment of each institution 
+and a national Women’s College Board, which would be responsible for governance oversight for the 
+entire consortium; (d) implementation of the charter plans to create the legal conditions that establish 
+the women’s colleges and the Women’s College Board for sustainable operations; and (e) opening of some 
+institutions to begin enrolling students. The inception report will include a template that each FMS could 
+use to develop a strategic plan for developing future women’s colleges, including identifying existing 
+infrastructure to be converted into the campus for the women’s college, establishing the relevant 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 65 
+ 
+academic curriculum to serve their local/regional needs, and defining a roadmap for implementation that 
+would be achievable during and beyond the project implementation timeline. 
+Component 3: Technical Assistance and Project Management (US$6 million equivalent IDA grant, 
+US$1 million Somalia Multi Partner Fund grant)  
+39. 
+Component 3 will finance systems strengthening efforts, technical assistance, and project 
+management, including (a) development of data systems for the NFE, TVET, and higher education sectors; 
+(b) building of capacity to manage NFE more effectively, including through the development of a Skills 
+Development Fund (SDF); (c) development of contextually appropriate ways to leverage technology to 
+deliver skills and leadership training and monitor and evaluate the system and impact of individual 
+interventions; (d) project management; and (e) FGS, FMS, and Somaliland government capacity building. 
+40. 
+The component will support the development of a robust system for collection and utilization 
+of data on NFE, TVET, and higher education, with an emphasis on tracking gender gaps and informing 
+the subsequent development of strategic policies and plans. These activities will promote development 
+of NFE, TVET, and higher education systems that are more data-driven, more coherent, and better 
+integrated with the rest of the education system.  
+41. 
+The component will also support M&E and use of remote technology to support systems 
+strengthening. The component will support tracer studies to collect data on labor market outcomes and 
+other outcomes of beneficiaries in both Components 1 and 2 and an impact evaluation of the basic second 
+chance program under Component 1. The component will also support the Government of Somalia to 
+experiment with technological solutions to improve M&E in a fragile context, leveraging Somalia’s 
+relatively high rate of mobile coverage to seek beneficiary feedback and monitor service delivery and 
+impact. These systems will help build resilience in the face of potential future disruptions to face-to-face 
+learning and build capacity to reach girls and women in remote or unstable areas.  
+42. 
+Finally, the component will support project implementation and capacity building by 
+strengthening the management capacity of the FGS MoECHE staff and the state-, regional-, and district-
+level education administrators in targeted districts. Because the current capacity at all administrative 
+levels is weak, continuing support will be needed to ensure that project financing is used in a credible 
+manner and managed efficiently. This component will therefore further strengthen management 
+capacity, and the project coordinator will work closely with the various implementing entities and M&E, 
+fiduciary, and environmental and social risks management staff, including to support the establishment 
+of the consortium of women’s colleges. The component will also finance technical assistance to explore 
+the creation of an SDF to bring cohesion and improve the quality and efficiency of NFE at the FGS and FMS 
+levels. This project is aligned with the Somalia EHCD Project and as such, staff and resources will be 
+integrated in the existing EHCD PMU, though with separate staff recruited for several key positions. 
+Project staff will also be hired at the FMS level to manage activities at that level and regularly supervise 
+project activities. The component will provide salary support to key staff, as well as resources for training 
+activities and operating costs for project management, monitoring, and training programs; office 
+equipment; and furniture. It will also finance the implementation of the GBV prevention and response 
+action plan developed for the project, including contracting of a qualified service provider to support safe 
+and confidential survivor services. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 65 
+ 
+C. Project Beneficiaries 
+43. 
+The project is expected to benefit and empower women and girls through enhanced literacy 
+and numeracy skills, skills for income generation, skills for leadership, and systems strengthening. 
+During implementation, the project is expected to benefit at least 28,500 young women and up to 3,000 
+disadvantaged young men aged 15-35 from primarily marginalized and vulnerable populations, including 
+IDPs, in a set of target districts across Somalia, including Somaliland (Table 1)20. Under Component 1, the 
+project is expected to benefit at least 27,000 young women and up to 3,000 disadvantaged young men. 
+Component 1 will directly benefit these beneficiaries through non-formal second chance programs 
+focused on functional literacy and numeracy, livelihoods, and sector-specific skills and labor market 
+qualifications. Under Component 2, at least 1,500 women will directly benefit from WDCs through short 
+courses and mentorship and leadership development opportunities, and the consortium of women’s 
+colleges will be established to offer certificate and degree programs. Across components, it is expected 
+that at least 10 percent of beneficiaries will be persons with disabilities.  In addition to direct beneficiaries, 
+the project is expected to bring substantial benefits for family members of beneficiaries through increased 
+family income, increased knowledge to support child development, the multi-generational returns to 
+investments in female education (improved child health, nutrition, and education), as well as improved 
+air quality from the use of fuel efficient cookstoves and climate-related knowledge that will benefit 
+families of beneficiaries. Based on Somalia’s average household size, an estimated 189,000 family 
+members of beneficiaries will benefit indirectly. 
+Table 1: Geographical Coverage of Component 1 
+ 
+20 The coverage regions for Component 1 have been identified based on the following criteria: (i) two target districts and one 
+alternate district per FMS and Somaliland, (ii) demand from regional and district officials, (iii) accessibility for government 
+supervision, (iv) capacity to implement the programs, (v) availability of complementary demand-side interventions such as cash 
+transfer programs, and (vi) avoiding duplication with similar programs, such as the FCDO-financed AGES program. 
+Regions within Federal Member States and 
+Somaliland  
+Proposed Districts  
+Alternative 
+District 
+Banaadir 
+Banadir Region 
+Administration  
+1 
+Wadajir 
+Yaqshid 
+2 
+Hawl-wadag 
+Jubaland 
+Lower Jubba and Gedo 
+1 
+Kismayo 
+Dolow 
+2 
+Luq 
+Puntland 
+Bari and Nugal 
+1 
+Baran 
+Buuhoodle 
+2 
+Eiyl 
+Southwest 
+Bay and Lower Shahbelle 
+1 
+Baidoa  
+Waajid 
+2 
+Afgoye  
+Galmudug 
+Galgaduud and Mudug 
+1 
+Adado 
+Galkacyo 
+2 
+Abudwak 
+Hirshabelle 
+Hiran and Middle Shabelle 
+1 
+Jalalaqsi 
+Mahaday 
+2 
+Warsheekh 
+Somaliland 
+Maroodi-Jeex and 
+Togdheer 
+1 
+Hargaisa 
+Erigavo (Saanag 
+Region) 
+2 
+Burao 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 65 
+ 
+D. Results Chain 
+44. 
+Figure 3 shows the Theory of Change for the project. In the long term, the proposed project aims 
+to contribute to improve literacy and numeracy skills, social-emotional and life skills, livelihood skills, and 
+skills for leadership for adolescent girls and women. It is expected that over time there will be 
+improvements in basic proficiency rates in literacy and numeracy in targeted populations and female 
+women’s college students will complete their training and acquire relevant leadership skills. To achieve 
+these goals, the project will focus on strengthening and expanding the supply of non-formal second 
+chance programs with a focus on functional literacy and numeracy and cross-cutting skills. The project will 
+also finance essential demand-side interventions including the provision of stipends to reduce costs for 
+the most vulnerable students, provision of childcare facilities to enhance the attendance of female 
+students, and awareness campaigns and active engagement with community and religious leaders. At the 
+same time, the project will help develop Somalia’s system for delivery of second chance education, skills 
+training, and higher education by establishing a skills fund, investing in innovative approaches to skills 
+delivery, and supporting data collection infrastructure and capacity building, among other activities. A 
+critical assumption in the results chain is that interventions at the school and community levels will be 
+effective in influencing social norms and promoting girls’ and women’s attendance, retention, and 
+completion to increase their educational and professional aspirations. 
+Figure 3. Theory of Change 
+ 
+O cial  se
+ C      ES
+   P  S
+   C  ES
+                                      
+ 
+                                          
+                                    
+                                                
+                                          
+                                        
+                          
+                       
+                                    
+                                       
+                                  
+                    
+                                
+                                
+          
+                                    
+                               
+                                          
+          
+                                           
+                                     
+                                
+                                       
+                                         
+         
+                                          
+                                
+                           
+                                         
+                                     
+                                          
+                         
+                               
+                            
+                  
+                                         
+                            
+                                       
+                                         
+                             
+                                   
+                                   
+                                       
+                                        
+                           
+                  
+             
+          
+                 
+             
+            
+                
+        
+             
+                 
+             
+          
+                
+         
+                
+          
+                
+                 
+                
+            
+        
+         
+             
+         
+          
+         
+               
+          
+             
+           
+     
+     
+              
+        
+            
+         
+        
+               
+           
+             
+          
+          
+          
+                
+        
+        
+              
+              
+              
+             
+                 
+              
+              
+         
+      
+Short
+ erm
+Long 
+ erm
+ edium 
+ erm
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 65 
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+45. 
+The value added from the World Bank’s support derives from several aspects. These include the 
+following:  
+(a) The project will be co-financed by IDA and the SMPF and is a part of the overall support to 
+the human capital development architecture for Somalia. 
+(b) The project’s emphasis on reaching adolescent girls and women will complement several 
+ongoing World Bank financed projects that focus on supporting girls’ education and 
+women’s empowerment, as detailed in Section I D.  
+(c) 
+Under recurrent cost and reform financing (RCRF), capacity injection, and public financial 
+management (PFM) projects, the World Bank’s support in strengthening and enhancing the 
+use of government systems is well-placed to support the government’s efforts in 
+institutional capacity development of key agencies at both the federal and FMS levels. 
+(d) The World Bank has global and regional experience in designing and implementing similar 
+comprehensive projects aimed at women’s empowerment and addressing the complex 
+needs and challenges faced by girls and women.  
+46. 
+The project design considers the existing activities of development partners to ensure 
+complementarity and value add of the “Rajo Kaaba” Project. The project builds on other ongoing 
+interventions, including those supported by the UK (for example, Somalia Girls’ Education Promotion 
+Program [SOMGEP] and AGES Project), the US (for example, Bar Ama Baro), and the various Global 
+Partnership for Education (GPE) sources of funding that directly target or provide benefits to girls and 
+young women in Somalia. This project adds value to these existing efforts in the following aspects: (a) the 
+project has a broader geographic focus than the existing interventions, with at least two districts in each 
+FMS and Somaliland, while at the same timing working centrally with the FGS; and (b) the competitive 
+and open design of Components 1 and 2 will allow diverse stakeholders to participate in the NFE and 
+higher education system through a more open and transparent approach. Perhaps most importantly, the 
+project will improve cohesion and coordination in the NFE, skills, and higher education ecosystems in 
+Somalia, eventually through the creation of the SDF and through the work on information systems in 
+Component 3. Both Components 1 and 2 will take a coordinated approach to reviewing proposals, 
+institutional arrangements, and implementation across the FMS and Somaliland, providing an approach 
+through which the government can improve coordination between different service providers and 
+development partners. Once established, the SDF will be able to accept finance from multiple funders, 
+which could help encourage a more coordinated approach across these sub-sectors and different funding 
+streams. Through work on harmonizing curriculum and programming across institutions to be awarded 
+funding in Components 1 and 2, sharing of best practices, and the creation of the network of women’s 
+colleges and Women’s College Board, the project will support the government to improve coordination 
+of service delivery and quality across the targeted sub-sectors. During project implementation, 
+coordination and dialogue with partners will help avoid duplication and ensure continued 
+complementarity. World Bank meets routinely with education development partners in the Local 
+Education Group led by the MoECHE with coordination support from the GPE.  
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 65 
+ 
+F. Lessons Learned and Reflected in the Project Design 
+ 
+47. 
+Successful training programs are responsive to labor market demand for skills, include 
+interventions to support participation by vulnerable populations of women, and emphasize non-
+cognitive skills. The project design encourages strong engagement between employers and training 
+institutions and will engage employers, civil society, training institutions, and policy makers in discussions 
+to develop skills qualifications. Successful, rigorously evaluated programs such as the Empowerment of 
+Adolescent Girls and Young Women (EPAG) in Liberia have supported beneficiaries’ enrollment and 
+attendance through financial assistance (contingent on attendance), part-time course design, on-site 
+childcare, and broader engagement with families and communities. Evidence also shows that training on 
+psychological skills such as personal initiative, future orientation, persistence, and ‘entrepreneurial 
+mindset’ can be much more effective that traditional business training in improving women's livelihoods. 
+48. 
+To address significant equity challenges in Somalia, higher education interventions must 
+address multiple factors that prevent girls and women from fully unlocking their potential. Current 
+initiatives aimed at addressing these challenges in the region underline the importance of engaging the 
+broader community, and in higher education, point to the success of three types of interventions: 
+scholarships, mentoring, and role models. An ongoing initiative in Ethiopia, for example, is promoting 
+gender equality at all levels of education and has set ambitious targets for female participation. In higher 
+education, mentoring and networking activities are increasingly used as strategic interventions to expand 
+women’s participation and progression into successful careers.  
+49. 
+There are opportunities to leverage technology even in fragile contexts, and mobile learning 
+solutions can be effective at promoting literacy and numeracy. The activities in Component 3, including 
+tracer studies and Education Management Information System (EMIS) development, reflect the 
+importance of regular collection of process and outcomes data and beneficiary feedback to continually 
+strengthen programs. A review of World Bank EMIS investments found that EMIS can strengthen 
+education systems even in fragile contexts such as Afghanistan, where mobile technology was critical in 
+producing real-time data for decision-makers21. In Niger, a poor and fragile context, rigorous evaluations 
+showed that providing adult NFE learners the opportunity to practice their literacy and numeracy skills 
+using a mobile phone improved their learning outcomes, and mobile monitoring of adult education sites 
+increased learning. The use of mobile technology can also increase the resilience of service delivery to 
+shocks such as pandemics, climate-related events, and conflict, as demonstrated by the World Bank’s 
+experience in FCV contexts and during COVID-19-related school closures. These solutions are well 
+matched to the context of Somalia as mobile penetration is high, with approximately 90 percent of Somalis 
+above 16 years of age having a phone.22 
+ 
+ 
+ 
+ 
+21 Abdul-Hamid, Husein, Namrata Saraogi, and Sarah Mintz. 2017. Lessons Learned from World Bank Education Management 
+Information System Operations: Portfolio Review, 1998–2014. World Bank Studies. Washington, DC: World Bank.  
+22 Government of Somalia.  Somalia National Development Plan (2020 to 2024).   
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 65 
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+A. Institutional and Implementation Arrangements 
+50. 
+The proposed project will be implemented by the MoECHE and the FMS and Somaliland 
+Ministries of Education. The MoECHE will be responsible for oversight and coordination of all project 
+activities and reporting on project progress and performance. The FMS will be responsible for service 
+delivery in their respective jurisdictions. Regional, district education and community education 
+committees will also play an important role in the delivery of project activities. 
+51. 
+The project will benefit from the existing implementation arrangements used for the ongoing 
+Somalia EHCD Project and will share the PMU of the Somalia EHCD Project. A new Project Steering 
+Committee will be established for “Raajo Kaaba” (chaired by the MoECHE) and a Project Management 
+Committee with responsibilities for technical leadership (Annex 1). The project will initially take advantage 
+of spare implementation capacity at the existing Somalia EHCD Project PMU. As implementation in both 
+projects accelerates, the PMU staffing will expand under the direction of an overall project manager. Key 
+recruits are expected to support Component 1 (a technical officer and grants/procurement officer) and 
+Component 2 (a technical officer and grants/procurement officer). Additional staffing will be considered 
+as needed, and a staffing plan will be created during the first year.  
+52. 
+The PMU will be responsible for overall project management, coordination, implementation, 
+monitoring, and day-to-day responsibility of the project. Key responsibilities of the PMU will include (a) 
+ensuring that project activities are implemented as agreed and in compliance with the World Bank 
+technical and fiduciary guidelines; (b) leading technical, operational, and fiduciary functions, especially 
+contracting 
+and 
+contract 
+management; 
+and 
+(c) 
+coordinating 
+and 
+overseeing 
+project 
+implementation/management in the respective FMS, including M&E of project activities, capacity 
+building, and ensuring compliance with the Environmental and Social Framework (ESF) requirements. The 
+PMU will also prepare the annual work plan and budget and conduct quarterly progress reviews. In 
+addition, the PMU will coordinate project activities with the education implementing partners and 
+education sector coordination committees (ESCs) at the FGS and FMS levels. 
+53. 
+To ensure smooth implementation of project activities, a POM will be prepared by the PMU for 
+the World Bank’s review and approval within three months of project effectiveness. This will clarify 
+project activities, including fiduciary/disbursement and environmental and social implementation 
+arrangements, roles and responsibilities of the parties involved, and coordination mechanisms. A third-
+party independent verification agency will be contracted by the MoECHE to conduct M&E of the program.  
+B. Results Monitoring and Evaluation Arrangements 
+54. 
+Overall responsibility for project M&E will lie with the PMU in coordination with the FMS and 
+Somaliland PMUs, and the Higher Education Commission and National Women’s College Board, for 
+oversight of the consortium of women's colleges. An M&E officer will be a core part of the PMU team to 
+coordinate across these entities and manage all project monitoring, reporting, and evaluation activities. 
+Specific responsibilities include compiling results data across project components, supervising project 
+implementation sites, conducting process and/or impact evaluations of project activities, implementing 
+citizens' engagement surveys to gather beneficiary and community feedback, and reporting on the 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 65 
+ 
+engagement surveys to key decision-makers to improve project performance. Component 3 of the project 
+will finance technical assistance for the PMU on M&E, including an independent verification agent to 
+validate results reported by service providers and ensure the integrity of the skills fund payment 
+requirements. A separate reporting structure will be established for Somaliland. 
+55. 
+Beneficiary feedback will be used to improve the delivery of services financed by the project. 
+All project beneficiaries will be surveyed on their level of satisfaction with the skills they have acquired, 
+as appropriate, to the program they participated in (functional literacy and numeracy, livelihood skills and 
+life skills, and leadership skills); what additional constraints, if any, are preventing them from making use 
+of their new skills; and their suggestions for improving the programs. Beneficiaries who did not complete 
+the programs will also be surveyed on the reasons for non-completion. The PMU will prepare a report 
+annually on the results of these surveys and develop action plans to improve on any areas of weakness 
+identified from beneficiary responses, with particular attention to beneficiaries with disabilities and other 
+types of disadvantages. Follow-up actions may include discontinuing low-performing programs and 
+changing the terms of reference for service providers to better meet beneficiary needs. Beneficiaries will 
+be provided with a short and accessible summary of the actions taken in response to these surveys 
+through the same platform through which they completed the survey (for example, SMS).  
+56. 
+As new EMIS subsystems are developed through the project, they will gradually take on the 
+functions of management and analysis of project data. EMIS modules for NFE, skills, and higher education 
+will be developed as outputs of the project, and as they come online, the tracking of key indicators will 
+transition to the new systems. In the interim, the project will build on the system developed through the 
+Somalia EHCD Project for collection and management of data. Beneficiary information collected through 
+online and/or SMS surveys will be handled in accordance with the FGS data protection policies. 
+57. 
+The project will use mobile technology to collect data in remote, conflict-affected, and fragile 
+operating environments. The project will build government capacity in the use of mobile tools for day-to-
+day project supervision in coordination with the Somalia EHCD Project. Data collection instruments will 
+be designed for use on both tablets/smartphones and non-smartphones. The project is expected to 
+benefit from the World Bank's Geo-Enabled Initiative for Monitoring and Supervision (GEMS) initiative, 
+which will help develop open-source tools to collect and collate digital data including photos, audio and 
+video recordings, time and date stamps, and Global Positioning System (GPS) coordinates.  
+C. Sustainability 
+ 
+58. 
+The project’s system-building activities provide clear pathways to the sustainability of project 
+investments. Component 1 will engage a diverse range of service providers as the PIPs and create a 
+sustainable mechanism to engage the non-state sector to deliver NFE. Component 2 will lay the 
+groundwork for a system of women’s colleges and WDCs, which will become the leading edge of higher 
+education reform in the country. This network of institutions will outlive the project and can attract 
+additional financing from government, foundations, development partners, and—gradually over time —
+earned income through tuition and fees. Component 3 will equip the government with a set of tools to 
+continue moving toward a more evidence-driven and beneficiary-responsive skills and higher education 
+system. The establishment of the SDF creates a platform for public and private actors to collaborate in 
+skills provision; communicate regularly in policy dialogue and strategic planning; and hold one another 
+accountable in terms of contracting, financing, and quality assurance. The SDF provides a mechanism—
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 65 
+ 
+which will outlive the project—to pool resources from development partners, the private sector, and 
+government and strategically invest those resources in a variety of programs that are responsive to 
+varying supply- and demand-side considerations in Somalia’s decentralized and fragile context.  
+59. 
+The sustainability of the project is underscored by high-level government commitment to the 
+joint policy goals of increased female participation in the labor force and increased women’s 
+participation in business and political leadership. A key element of this coherence is the tight connection 
+between the project’s support for women’s leadership capacity and the government’s high-level goal of 
+the 30 percent quota for women in parliament. This connection will lead to greater sustainability of 
+project activities in the government’s vision, policy, and medium-term budget support. The project’s 
+investments will be sustained in part due to well-established economic externalities associated with 
+women’s educational and labor market returns, including income generation; children’s health and 
+nutrition benefits; and enhanced political stability. 
+IV. PROJECT APPRAISAL SUMMARY 
+ 
+A. Technical and Economic Analysis 
+60. 
+The proposed project aims to enhance learning for approximately 31,500 students across 
+second chance, TVET, and higher education, with a focus on girls and young women. The main goal is to 
+improve literacy, numeracy, and income-generating skills in targeted populations of women and prepare 
+selected women for leadership roles. According to the 2018 High Frequency Survey for Somalia, about 
+half of the population is literate. As presented earlier, among women ages 15–49 years, in rural and urban 
+areas, 72 percent and 59 percent, respectively, have never attended school. Figure 4 presents the 
+population distribution in Somalia by education levels for those 15 years or older. 
+Figure 4. Somali Population Distribution by Education Level 
+ 
+ Source: Somalia 2018 High Frequency Survey. 
+61. 
+A cost-benefit analysis was conducted to measure the financial feasibility of the project. 
+Benefits were calculated from the private returns to beneficiaries of second chance, TVET, and higher 
+education interventions financed by the project. In the absence of data for Somalia, the average returns 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Female
+Male
+Total
+No education
+Incomplete Primary
+Complete Primary/Incomplete Secondary
+Complete Secondary
+University
+Other
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 65 
+ 
+to education in Sub-Saharan Africa were used.23 Costs comprised project costs for all components and 
+opportunity costs related to students’ forgone earnings as they acquire higher levels of education and 
+skills training. The 2019 GPD per capita was US$320—before the start of the COVID-19 pandemic—and 
+was used as the baseline for foregone earnings and to calculate wage premiums. The life expectancy in 
+Somalia is around 58 years and the analysis considered those who benefited from project’s interventions 
+working for 25 years after completing programs. Finally, the analysis also considered a labor force 
+participation rate of 47 percent and a discount rate of 5 percent. 
+62. 
+The economic analysis confirms the feasibility of the project, with the net present value (NPV) 
+estimated to be US$10.2 million and an internal rate of return of 17 percent. The NPV of benefits of the 
+project was estimated at US$61.4 million. This is higher than the NPV of the total costs estimated at 
+US$51.2 million. These are conservative estimates based on the expected number of beneficiaries over 
+the project life. Furthermore, externalities – including the expected increase in government’s tax income 
+due to individual’s higher earnings and consumption, the positive impact that education of girls and young 
+women can have on fertility rates and children’s health outcomes, and the impact that better educated 
+individuals can have on innovation and entrepreneurship – were not included in the calculations.  
+B. Fiduciary 
+(i) Financial Management 
+63. 
+In undertaking the financial management (FM) assessment for this project, attention was paid 
+to government PFM systems in the education sector. In particular, the assessment covered the sector’s 
+planning and budgeting approaches; funding flow and banking arrangements; accounting; and internal 
+control frameworks, including payroll controls and the supporting systems, reporting, and external audit 
+and oversight arrangements. The assessment accounted for the extent to which the existing systems are 
+mainstreamed into the country’s PFM systems. The FM systems and arrangements will include budgeting; 
+accounting; internal controls; funds flow; financial reporting and internal and external auditing 
+arrangements; FM staffing; risks management; and related policies, procedures, and practices. The 
+objective of the assessment was to ascertain whether the FM systems will facilitate the preparation of 
+regular, timely, and reliable financial statements; support the provision of a complete, true, and fair record 
+of all transactions and balances; safeguard assets; and enable internal and external auditing 
+arrangements, in line with the World Bank FM policies and internationally accepted standards. 
+64. 
+In view of the specific context and operating environment in Somalia, the overall fiduciary risk 
+for the project is assessed as High. The high-risk rating is largely attributable to the following: 
+(a) 
+The weak institutional and systems capacities at the federal, states, regional, and district 
+levels. The necessary policies, procedures, and legal framework to support the sector are 
+under formation with support from international development partners. 
+(b) 
+Deficient human resource capital to restore basic education at all levels of government. 
+(c) 
+A comparatively weak education system. 
+ 
+23 “Comparable Estimates of Returns to Schooling around the World.” 2014. Policy Research Working Paper WPS 7020, World 
+Bank, Washington, DC. 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 65 
+ 
+(d) 
+Sustainability challenges as the education sector is largely managed and funded outside of 
+country systems with support from international development partners (mainly bilateral 
+programs implemented by international NGOs).  
+(e) 
+Inadequate resources to finance the sector in line with the priorities of the government(s) 
+(that is, increased access for girls and women to schools, establishment of delivery and 
+accountability systems, and rehabilitation of destroyed education facilities). 
+(f) 
+Lack of a unified/harmonized policy to govern salaries, grading, and payments systems within 
+the sector across the country (salary levels are largely dictated by availability and sources of 
+funding). 
+(g) 
+A rudimentary and fragmented EMIS to facilitate effective and efficient management of 
+information within the sector. 
+ 
+65. 
+Given the consideration for Use of Country Systems (UCS), the project will adopt the UCS in 
+various aspects of the project’s F , including budgeting and accounting, and reporting, banking, and 
+oversight arrangements with the Office of the Auditor General. This will be supported by technical 
+assistance with clear requirements for knowledge transfer incorporated in the terms of reference. Like 
+other World Bank-supported operations in Somalia, the External Assistance Fiduciary Section (EAFS), 
+established within the Offices of the Accountant General at Somaliland, FGS, and FMS, will be charged 
+with the project’s overall FM responsibility for all projects financed by IDA and trust fund resources at 
+Somaliland, FGS, and FMS, whose performances thus far has been satisfactory. With overall guidance from 
+the Accountant General(s) and the EAFS units, the respective MoECHE’s Department of TVET and NFE, in 
+close collaboration with their equivalents at the FMS level and in Somaliland and the Ministry of Labor, 
+will continue to provide day-to-day FM oversight of the project. The effectiveness of the EAFS units, 
+alongside other key functional units, will be continuously monitored, while key areas of capacity 
+strengthening will be identified and supported through the project. The existing organizational and 
+functional structure of the EAFS units will be further strengthened to provide effective FM support to the 
+project. 
+66. 
+All project FM transactions will be recognized, captured, recorded, analyzed, summarized, and 
+reported through the government Financial Management Information System(s). The EAFS units, with 
+support of the respective Accountant General(s), will ensure that (a) all important business and financial 
+processes are adhered to, (b) adequate internal controls and procedures are in place and adequately 
+enforced, (c) unaudited interim financial reports (IFRs) are prepared on time, (d) all Statements of 
+Expenditures (SOEs) are submitted to the World Bank on a timely basis, (e) the project financial 
+statements are prepared on time and in accordance with International Public Sector Accounting Standards 
+cash basis, and (d) the external audit is completed on time and audit findings and 
+recommendations/issues raised in the management letter are implemented expeditiously. 
+(ii) Procurement 
+67. 
+Procurement under the proposed project will be carried out in accordance with the following 
+World Bank procedures: (a) the World Bank Procurement Regulations for IPF Borrowers, dated July 2016 
+and updated in November 2020; (b) Guidelines on Preventing and Combating Fraud and Corruption in 
+Projects Financed by IBRD Loans and IDA Credits and Grants, dated October 15, 2006, and revised in 
+January 2011 and July 1, 2016; (c) the World Bank’s Anti-Corruption Guidelines dated July 1, 2016; and (d) 
+other provisions stipulated in the Financing Agreements.  
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 65 
+ 
+68. 
+Procurement implementation arrangements: The project will be implemented by the federal 
+MoECHE and FMS (including Benadir, Galmudug, HirShabelle, Jubbaland, Puntland, and South West) and 
+Somaliland Ministries of Education. The federal MoECHE will be responsible for policy development, 
+standard setting, and monitoring, and the states are mandated to implement education programs and 
+policies. FMS will be responsible for the service delivery in their respective jurisdictions through their own 
+Ministries of Education. The PMU, shared with the Somalia EHCD Project, will be responsible for the day-
+to-day operations of the project including procurement with oversight from a Project Steering Committee 
+and Project Management Committee. The PMU will be headed by a project manager. The PMU will include 
+key project staff and specialists to manage key functions, such as FM and procurement, at the FMS level. 
+Additionally, the PMU will be responsible for coordinating project activities between the implementing 
+partners, local ESCs, and local civil society organizations and FMS.  
+69. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). The World 
+Bank’s New Procurement Regulations will apply to the project. In this regard, the Federal Republic of 
+Somalia has prepared a PPSD to formulate the best procurement approach/solution based on which the 
+PP for the first 18 months of project implementation has been developed. The PP sets out the selection 
+methods to be followed by the recipient during project implementation for procurement of goods, works, 
+and consulting services. The PP also includes the cost estimates, time schedules, the World Bank’s review 
+requirements, brief description of the activities/contracts, and so on. The PP will be updated in agreement 
+with the World Bank annually, or as required, to reflect the project’s actual implementation needs and 
+improvements in institutional capacity. Each update shall require the WBG’s approval.  
+70. 
+Procurement management risk is assessed as High. The procurement environment in Somalia 
+remains challenging. The main procurement associated risks are (a) limited number of competent and 
+dedicated procurement staff; (b) weak capacity of bidders and limited service providers; (c) high price of 
+bids/proposals due to security conditions in some parts of the country; (d) fraud and corruption; (e) 
+collusion among bidders due to limited competition; (f) inadequate experience in procurement planning, 
+monitoring, and contract management; (g) delays in procurement implementation should the COVID-19 
+crisis remain prolonged due to disruptions in supply chains resulting in price volatility and unavailability 
+of items; and (h) weak legal and financial institutions (bank and insurance agencies are not well 
+established). Proposed mitigation measures include (a) ensuring that the PMU always has a dedicated 
+procurement specialist with relevant and adequate qualification and experience acceptable to the World 
+Bank as well as ensuring that the POM includes a well described procurement management process; (b) 
+ensuring that all procurement activities regardless of value, nature, categories, or packages will be treated 
+as prior review and reviewed by the World Bank; (c) training the PMU/stakeholders staff by the World 
+Bank on the new Procurement Regulations; and (d) involving a probity adviser where appropriate.  
+71. 
+Systematic Tracking of Exchanges in Procurement (STEP). The World Bank’s STEP tool will be 
+used to prepare, clear, and update PPs and conduct all procurement transactions for all implementing 
+agencies of the project. Procurement staff of the implementing agencies will be trained on using STEP. 
+C. Legal Operational Policies 
+. 
+. 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 65 
+ 
+Projects in Disputed Areas OP 7.60 
+No 
+. 
+ 
+D. Environmental and Social 
+ 
+72. 
+The environmental risk rating is Substantial. This is due to the environmental risks that may arise 
+from proposed construction activities under Component 2 in the project. Rehabilitation and limited 
+construction of the respective women’s colleges is likely to result in the occurrence of environmental 
+impacts, including noise pollution, soil erosion, waste and wastewater management, loss of vegetation, 
+e-waste, and possible occupational health and fire safety risks. Congregating large numbers of persons 
+during the COVID-19 pandemic is likely to result in exposure to the virus. The project is likely to be 
+implemented by under-resourced and inexperienced construction companies whose capacities for 
+environmental and social implementation are not known, who may lack knowledge of regulations for 
+Environmental and Social Impact Assessments (ESIAs) and Occupation Health and Safety requirements, 
+and who may have little knowledge of good international industry practice. There are substantial security 
+risks for the project, too, including wider contextual security circumstances and possible exposure of 
+project workers and students enrolled under the project to attacks. Security risks are, therefore, a key 
+area of concern for interventions in Somalia. In particular, the Somali Women University is likely to require 
+special security considerations, given possible challenges with the safety of women students. The capacity 
+for environmental governance at the Ministry of Education is weak.  These risks will be mitigated by way 
+of key ESF instruments, including mitigation measures enumerated in the Environmental and Social 
+Management Framework (ESMF), Labor Management Procedures (LMP), and Security Management 
+Framework (SMF) for the project. The MoECHE disclosed on May 10, 2022 the ESMF, which includes a 
+GBV Action Plan, Waste Management Plan (WMP), and LMP, the Draft Stakeholder Engagement Plan 
+(SEP), incorporating the Grievance Redress Mechanism (GRM), and the  Environmental and Social 
+Commitment Plan (ESCP) .  Consultations with key stakeholders were held on October 11, 2021, and 
+February 7, 2022. 
+73. 
+Social risk rating for the project is High. Overall, it is expected that the project will contribute 
+considerably to strengthening women’s empowerment, not just among the immediate beneficiaries but 
+also indirectly to society at large. Based on international research, this is consequently also expected to 
+lead to positive social outcomes on peace processes, institution building, respect for vulnerable groups, 
+and so on. However, during the transition toward stronger gender equity, social risks may increase, both 
+toward project beneficiaries and project implementors. Social norms around early marriage, expectations 
+that girls support households and rearing of younger siblings, and greater social value placed on boys 
+accessing education over girls play a role in lower enrollment and completion rates of girls, in addition to 
+a predominantly male teaching force and long distances to schools, will need to be addressed as part of 
+implementation. Thus, the project has to address an imbalanced power structure, which may trigger 
+intentional and unintentional backlash, including varying forms of GBV, including by extreme-conservative 
+political groups, in an already challenging FCV situation with considerable security risks. This relates above 
+all to second chance education activities and the operation of the women’s colleges. The project must 
+also address risks of exclusion through an inclusion assessment and management instrument, which 
+equally will address the risk resulting from data collection activities. This extends to data collection. The 
+project also entails more standard ESF risks on eventual small-scale land acquisition and involuntary 
+resettlement, inward migration, labor influx and possible use of child labor, elite capture of project 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 65 
+ 
+benefits, human trafficking, exclusion, and access to beneficiaries for effective consultations and 
+grievance redress. Respective risk management instruments are being developed accordingly. 
+74. 
+The risk of sexual exploitation and abuse/sexual harassment (SEA/SH), and other forms of GBV 
+is High. Gender-restrictive norms and lack of decision-making power are often cited as barriers for women 
+and girls accessing education opportunities and increasing exposure to harm. The risk of violence or 
+assault may also increase while travelling long distances to reach schools. Other factors, such as unequal 
+gender and power relations, can exacerbate the risks of GBV in schools especially where unethical school 
+administrators/teachers or facilitators take advantage of their positions and sexually exploit students as 
+well as the potential of sexual harassment for female teachers. During the process of creating each of the 
+women’s colleges, disruption of power dynamics might surface in a community and within households 
+due to the arrival of the workforce in the area. It can be during construction, as women in the community 
+come into contact with mobile workmen in various ways, including direct employment on the project 
+during construction or operation or indirectly through associated services such as catering. Although 
+construction activities are likely to be minor to moderate in size, measures, during construction and 
+operation, will include the following:  
+(a) Conducting the PMU sensitization and capacity building to improve understanding, 
+management, and monitoring of SEA/SH risks throughout the life of the project 
+(b) Reinforcing codes of conduct that address GBV/SEA/SH in schools to cultivate an environment 
+free from GBV and SEA/SH 
+(c) Ensuring regular community consultations to raise awareness of the risk of SEA/GBV and 
+measures for reporting and response 
+(d) Ensuring that grievance redress measures include mechanisms for safe and confidential 
+reporting of cases of SEA/SH 
+(e) Mapping out GBV service providers and identifying a dedicated referral process for school-
+related violations and relevant organizations for referrals, developing procedures and 
+processes for referrals, and developing an accountability framework for handling allegations 
+(f) 
+Conducting regular safety mapping with the students, teachers, community, and parents to 
+identify areas within and outside the schools where they feel unsafe and develop remedial 
+actions where necessary. 
+ 
+75. 
+SEA/SH risk mitigation requirements will be established in an SEA/SH Action Plan and will also 
+be addressed, where relevant, in social risk management instruments. The SEA/SH Action Plan will be 
+prepared during the first six months of the project. SEA/SH risks will also be addressed, where relevant, 
+in social risk management instruments.  Citizen engagement will be facilitated through active outreach 
+and communication campaigns within beneficiary communities and engagement of key stakeholders in 
+the GRM process.  The project results framework includes an indicator to measure beneficiary satisfaction 
+with outcomes of training programs.  States may engage the support of CSOs working in the project areas 
+to support the GRM activities or NGOs/an independent call center to receive and help process complaints 
+on an as-needed basis. 
+76. 
+Grievance redress mechanism (GRM). A robust system to address grievances will be set up at the 
+project level, providing stakeholders with multiple pathways to file grievances and ensuring that training 
+is given to all project staff and relevant government officials. Stakeholders will have multiple ways of 
+channeling complaints on any aspect of the project. This will be through radio, mobile phones, community 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 33 of 65 
+ 
+meetings, email, and websites. There will also be opportunities for in-person reports at the community 
+level through community leaders and institutions. Complaints may be raised by staff, partners, 
+consultants, contractors, members of the community where the program is operating, or members of the 
+general public regarding any aspect of program implementation. To help ensure that the process does not 
+marginalize women and other vulnerable groups, representation for these groups will be required in the 
+grievance committee tasked to resolve grievances/complaints at the community level. Any SEA/SH cases 
+will be referred the GBV reporting protocols and referral system, defined in the SEA/SH Prevention and 
+Response Action Plan. Dedicated training on how to respond to and manage complaints related to SEA/SH 
+will be required for all GRM operators and relevant project staff. The MoECHE will have the responsibility 
+of overseeing the resolution of all issues related to the project activities in accordance with the FGS laws 
+and World Bank Environmental and Social Standards. The entry point for all grievances will be with the 
+social safeguards’ specialists at the FGS and FMS levels, who will receive grievances by phone, text, or 
+email to publicized toll-free mobile phone lines and email addresses at both the FMS and FGS levels. The 
+social safeguards specialists will acknowledge, log, forward, and follow up the grievance resolutions and 
+inform the complainant of the outcome. The complainant has the right to remain anonymous. The FGS 
+social specialist will carry out training of all the PMU staff and Ministry of Education staff involved with 
+the project and contractors, on receiving complaints and referral and complaints handling and reporting 
+and will oversee awareness raising on the GRM at the national level. 
+V. GRIEVANCE REDRESS SERVICES 
+77. 
+Communities and individuals who believe that they are adversely affected by a World Bank-
+supported project may submit complaints to existing project-level grievance redress mechanisms or the 
+World Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly 
+reviewed in order to address project-related concerns. Project affected communities and individuals may 
+submit their complaint to the World Bank’s independent Inspection Panel which determines whether 
+harm occurred, or could occur, as a result of World Bank non-compliance with its policies and procedures. 
+Complaints may be submitted at any time after concerns have been brought directly to the World Bank's 
+attention, and Bank Management has been given an opportunity to respond.  For information on how to 
+submit 
+complaints 
+to 
+the 
+World 
+Bank’s 
+corporate 
+GRS, 
+please 
+visit 
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. 
+For information on how to submit complaints to the World Bank Inspection Panel, please visit 
+www.inspectionpanel.org.    
+VI. 
+KEY RISKS 
+78. 
+The overall risk of the project is considered substantial. This is the result of a combination of 
+factors that include country fragility, public sector governance, fiscal capacity, and political uncertainty. 
+Security risks and extremist-instigated violence often make parts of the country inaccessible for project 
+implementation and supervision, putting project execution and PDO achievements at risk. The principal 
+mitigation measures for these risks include preselecting geographic delivery zones toward localities less 
+prone to political violence and continuous monitoring and a design that enables rapid adaptation of 
+implementation in cases of known security risks. The project will also use technology, such as mobile 
+phone-based programs, for delivery of at-home learning materials, which could provide continuity to the 
+interventions in case of a deterioration in the security situation, drawing on the World Bank’s recent 
+ 
+The World Bank 
+ 
+Somalia Empowering Women through Education and Skills Project - "Rajo Kaaba" (P176898) 
+ 
+ 
+ 
+ 
+ 
+Page 34 of 65 
+ 
+experiences of distance learning during the COVID-19 pandemic. While the project will incorporate risk 
+mitigation measures, residual inherent risks will remain substantial. Fiduciary risks (High) and 
+environmental and social risks (Substantial and High, respectively) and mitigation measures are detailed 
+in their respective sections (IV B and IV D), and other risks are elaborated below.  
+79. 
+Political and governance risks are high. Governance risks are related to the social and political 
+ownership of the project and its PDOs. Given th

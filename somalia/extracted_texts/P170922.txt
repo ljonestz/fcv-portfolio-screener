@@ -1,0 +1,2801 @@
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD3408  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+PROPOSED GRANT 
+ 
+IN THE AMOUNT OF SDR36.7 MILLION 
+(US$50 MILLION EQUIVALENT) 
+ 
+AND A PROPOSED GRANT 
+ 
+IN THE AMOUNT OF US$62 MILLION 
+ 
+FROM THE SOMALIA MULTI-PARTNER FUND 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA   
+ 
+FOR A 
+ 
+SOMALIA URBAN RESILIENCE PROJECT II 
+ 
+November 14, 2019 
+ 
+ 
+ 
+Urban, Resilience and Land Global Practice 
+Africa Region 
+ 
+ 
+ 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+Exchange Rate Effective September 30, 2019 
+ 
+Currency Unit =   SDR 
+0.7335 = US$1 
+US$ 1.3633 = SDR 1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: C. Felipe Jamarillo 
+Senior Global Practice Director: Ede Jorge Ijjasz-Vasquez 
+Practice Manager: Meskerem Brhane 
+Task Team Leader(s): Zishan Faiza Karim, Makiko Watanabe 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+AFS 
+Annual Financial Statements 
+BRA 
+Benadir Regional Administration 
+CoC 
+Code of Conduct 
+CPF 
+Country Partnership Framework 
+DA 
+Designated Account 
+EAFS 
+External Assistance Fiduciary Section 
+EHSG 
+Environment Health and Safety Guidelines 
+ESCP 
+Environment and Social Commitment Plan 
+ESF 
+Environment and Social Framework 
+ESIA 
+Environment and Social Impact Assessment 
+ESMF 
+Environmental and Social Management Framework 
+ESMP 
+Environment and Social Management Plan 
+ESS 
+Environment and Social Standard 
+FCV 
+Fragility, Conflict, Violence 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMIS 
+FMS 
+GBV 
+GDP 
+GRM 
+Financial Management Information System 
+Federal Member States 
+Gender-Based Violence 
+Gross Domestic Product 
+Grievance Redress Mechanism 
+GRS 
+Grievance Redress Service 
+IDPs 
+Internally Displaced Persons 
+IFR 
+Interim Unaudited Financial Report 
+INT 
+Integrity Vice Presidency 
+IRR 
+Internal Rate of Return 
+IPSAS 
+International Public Sector Accounting Standards 
+ISA 
+International Standards on Auditing 
+ISP 
+Implementation Support Plan 
+IT 
+Information Technology 
+JPLG 
+UN Joint Program for Local Governance 
+LMP 
+M&E 
+Labor Management Procedures 
+Monitoring and Evaluation 
+MoPW 
+Ministry of Public Works 
+MPF 
+Multi-Partner Fund 
+NPV 
+Net Present Value 
+OHS 
+O&M 
+Occupational Health and Safety 
+Operations and Maintenance 
+OP 
+Operations Policy 
+ 
+ 
+ 
+ 
+ 
+PA 
+Project Account 
+PAD 
+Project Appraisal Document 
+PCU 
+Project Coordination Unit 
+PAP 
+PDO 
+Project Affected Persons 
+Project Development Objective 
+PFM 
+Public Financial Management 
+PIU 
+Project Implementation Unit 
+PIM 
+Project Implementation Manual 
+PP 
+Procurement Plan 
+PPA 
+PPP 
+Public Procurement Concessions and Disposals Act 
+Public Private Partnership 
+PPSD 
+Project Procurement Strategy for Development 
+RAP 
+Resettlement Action Plan 
+RFB 
+RPF 
+SCF 
+Request for Bids 
+Resettlement Policy Framework 
+Standard Conversion Factor 
+SCoA 
+Standard Chart of Accounts 
+SEF 
+Stakeholder Engagement Framework 
+SEA 
+SEP 
+SFF-LD 
+Sexual Exploitation and Abuse 
+Stakeholder Engagement Plan 
+Special Financing for Local Development 
+SH 
+SoE 
+Sexual Harassment 
+Statement of Expenditures 
+SORT 
+Systematic Operations Risk Rating Tool 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SUIPP 
+Somali Urban Investment Planning Project 
+SURP 
+Somali Urban Resilience Project 
+TA 
+Technical Assistance 
+TIS + 
+UCS 
+UN 
+WBG 
+Transition Initiatives for Stabilization 
+Use of Country Systems 
+United Nations  
+World Bank Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 9 
+A. Country Context................................................................................................................................ 9 
+B. Sectoral and Institutional Context .................................................................................................. 10 
+C. Relevance to Higher Level Objectives ............................................................................................. 14 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 15 
+A. Project Development Objective ..................................................................................................... 15 
+B. Project Components ....................................................................................................................... 15 
+C. Project Cost and Financing ............................................................................................................. 22 
+D. Project Beneficiaries ....................................................................................................................... 23 
+E. Results Chain ................................................................................................................................... 23 
+F. Rationale for World Bank Involvement and Role of Partners ......................................................... 24 
+G. Lessons Learned and Reflected in the Project Design .................................................................... 24 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 25 
+A. Institutional and Implementation Arrangements .......................................................................... 25 
+B. Results Monitoring and Evaluation ................................................................................................. 26 
+C. Sustainability ................................................................................................................................... 27 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 27 
+A. 
+Economic and Financial Analysis ................................................................................................. 27 
+B. 
+Technical Analysis ....................................................................................................................... 29 
+C. Fiduciary .......................................................................................................................................... 30 
+D. Legal Operational Policies .............................................................................................................. 31 
+E. Environmental and Social ............................................................................................................... 32 
+F. 
+GRIEVANCE REDRESS SERVICES ..................................................................................... 33 
+G. KEY RISKS ..................................................................................................................... 34 
+H. RESULTS FRAMEWORK AND MONITORING ................................................................... 38 
+ANNEX 1: Implementation Arrangements and Support Plan .......................................... 47 
+ANNEX 2: Gender Mainstreaming ................................................................................. 68 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+     
+Page 1 of 72 
+ 
+ 
+      
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somalia Urban Resilience Project II 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P170922 
+Investment Project 
+Financing 
+High 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[✓] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Disbursement-linked Indicators (DLIs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+09-Dec-2019 
+31-Dec-2024 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+To strengthen public service delivery capacity of local governments and increase access to urban infrastructure and 
+services in selected areas. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 2 of 72  
+     
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Urban Infrastructure and Services  
+  89.00 
+ 
+Institutional Strengthening and Analytics  
+   5.00 
+ 
+Project Management and Capacity Building  
+  18.00 
+ 
+Contingent Emergency Response  
+   0.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of Somalia  
+Implementing Agency: 
+ Benadir Regional Administration  
+ Kismayo Municipality/Jubbaland  
+ Baidoa Municipality/South West State  
+ Garowe Municipality/ Puntland  
+ Ministry of Public Works  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+112.00 
+Total Financing 
+112.00 
+of which IBRD/IDA  
+50.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+50.00 
+          IDA Grant 
+50.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+62.00 
+          Somalia Multi-Partner Fund 
+62.00 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 3 of 72  
+     
+ 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+  50.00 
+   0.00 
+   0.00 
+  50.00 
+National PBA 
+  50.00 
+   0.00 
+   0.00 
+  50.00 
+Total 
+  50.00 
+   0.00 
+   0.00 
+  50.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+2025 
+Annual 
+ 
+ 
+ 
+ 
+   1.10 
+   5.30 
+   7.95 
+  11.28 
+  13.61 
+  10.77 
+Cumulative 
+ 
+ 
+ 
+ 
+   1.10 
+   6.40 
+  14.35 
+  25.62 
+  39.23 
+  50.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Urban, Resilience and Land 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+Gender Tag 
+Does the project plan to undertake any of the following? 
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of 
+country gaps identified through SCD and CPF 
+Yes 
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or 
+men's empowerment 
+Yes 
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b) 
+Yes 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 4 of 72  
+     
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Moderate 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ High 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ High 
+8. Stakeholders 
+⚫ High 
+9. Other 
+⚫ High 
+10. Overall 
+⚫ High 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 5 of 72  
+     
+ 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+Sections I.A.2 of the Schedules 2 to the Legal Agreements: 
+FGS to establish within 30 days of effectiveness, and maintain throughout the implementation of the Project, a 
+federal inter-ministerial Steering Committee responsible for providing strategic guidance for Project 
+implementation.  
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.A.3 (a) and (b) of the Schedules 2 to the Legal Agreements: 
+FGS to establish by no later than 180 days from effectiveness, and maintain throughout the implementation of the 
+Project, a Project Coordination Unit within the Federal Ministry of Public Works with the composition, mandate and 
+resources satisfactory to the Association; the PCU is to be responsible for implementing Parts A.1.A.2, B and C of 
+the Project. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 6 of 72  
+     
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.A.3 (c) of the Schedules 2 to the Legal Agreements: 
+FGS to recruit to the PCU, within 180 days of effectiveness, the following staff: a program coordinator, an 
+environmental and social safeguard specialist, a gender specialist, a procurement specialist, a finance specialist and 
+a monitoring and evaluation specialist.  
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.A.4 (a) i and ii; I.A.4 (b) i and ii; I.A.4 (c) i and ii; I.A.4 (d) i and ii of the Schedules 2 to the Legal 
+Agreements: 
+The FGS to cause the participating FMS/BRA to maintain throughout implementation of the Project, Project 
+Implementation Units (PIUs) with staffing and resources acceptable to the Bank, including a project coordinator, 
+and financial management, procurement, environmental and social and monitoring and evaluation specialists, and 
+an engineering under TORs acceptable to the Bank.  
+ 
+ 
+ 
+ 
+ Sections and Description 
+Section I.A.4 (a) iii; IA4 (b) iii, IA4 (c) iii, IA4 (d) iii of Schedules 2 of the Legal Agreement: 
+The Project Implementation Units will by no later than 180 days from effectiveness, recruit an engineering 
+supervision consultant in accordance with the provisions of the Procurement Regulations. 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.B of the Schedules 2 to the Legal Agreements: 
+The FGS and FMS to develop and adopt within 90 days of effectiveness, a Project Implementation Manual (PIM) in 
+form and substance satisfactory to the Bank, and thereafter implement the Project in accordance with the PIM and 
+the EAFS Manual. 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.C of the Schedules 2 to the Legal Agreements: 
+The FGS to prepare by November 30 of each year and furnish to the Bank a consolidated annual program of 
+activities for the following fiscal year together with the proposed budget and, after exchange of views with the 
+Bank, carry out, and cause the FMS to carry out the Project activities in accordance with such program as agreed 
+with the Bank.  
+ 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Section I.D of the Schedules 2 to the Legal Agreements: 
+For purposes of carrying out Parts A(3) and C of the Project, the FGS shall make the proceeds of the grant/financing 
+available to the participating FMS/BRA pursuant to subsidiary agreements entered under term and conditions 
+approved by the Bank.  
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 7 of 72  
+     
+ 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Paras. 1 and 2 of Sections I.E of the Schedules 2 to the Legal Agreements:  
+FGS to ensure, and cause the participating FMS/BRA to ensure, that the Project is carried out in accordance with 
+the Bank’s ESS, and the ESCP agreed with the Bank, providing sufficient funds to cover their implementation costs. 
+ 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Paras 3 of Sections I.E of the Schedules 2 ot the Legal Agreements: 
+FGS to: (a) prepare and compile, and cause the participating FMS/BRA to prepare, information reports on the status 
+of compliance with the ESCP; and (b) inform the bank of nay incident or accident related to or having an impact on 
+the Project (including incidents of GBV or cases of project-related child labor). 
+ 
+ 
+ 
+ 
+ 
+ Sections and Description 
+Paras. 4 of Sections I.E of the Schedules 2 to the Legal Agreements: 
+FGS to maintain and publicize and cause the participating FMS/BRA to maintain and publicize the grievance 
+mechanism for the Project in forma and substance satisfactory to the Bank.  
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections I.F of the Schedules 2 to the Legal Agreements: 
+To ensure proper implementation of the contingency emergency response component (CERC), FGS to: (a) prepare 
+and adopt a CERC Manual satisfactory to the Bank; (b) set up and maintain the institutional structures and 
+arrangements set forth in the CERC Manual for implementation; (c) have declared an eligible crisis or emergency, 
+and agreed with the Bank the activities to be implemented, prior to their implementation; and (d) prepare and 
+disclosed all safeguard documents in accordance with the CERC Manual.  
+ 
+ 
+ 
+ 
+ Sections and Description 
+Sections III.C of the Schedules 2 to the Legal Agreement: 
+The FGS to ensure that no funds shall be transferred/advanced out of the grants/financing to any participating FMS, 
+or paid on behalf of such participating FMS out of the grants/financing, prior to such FMS having entered into a 
+Subsidiary Agreement. Any such amounts to be deemed ineligible for financing.  
+ 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Description 
+Effectiveness 
+The respective Subsidiary Agreements with at least two Participating Federal Member States 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 8 of 72  
+     
+ 
+(FMS) have been executed and delivered and are legally binding up on the Recipient and 
+such Participating FMS in accordance with the respective terms of each such Subsidiary 
+Agreement. 
+ 
+Type 
+Description 
+Effectiveness 
+The Somalia Multi Partner Fund Grant Agreement has been executed and delivered and all 
+conditions precedent to its effectiveness or to the right of the Recipient to make withdrawals 
+under it (other than the effectiveness of the Financing Agreement) have been fulfilled. 
+ 
+Type 
+Description 
+Disbursement 
+Prior to disbursing any funds for the CERC, the FGS to: (i) determine that an eligible crisis has 
+occurred and prepared an emergency response action plan outlining the activities to be 
+included under this component; (ii) prepared and disclosed the respective instruments; (iii) 
+appointed an entity responsible for implementation with adequate staff and resources; and 
+(iv) adopted the respective CERC Manual. 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 9 of 72  
+     
+ 
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+ 
+1. 
+Somalia is emerging from a legacy of two and half decades of cycles of violent conflict and 
+fragility. Since 1991, the country has been fragmented by armed conflict, ad hoc regime change and 
+state capture. The August 2012 peaceful transfer of power from a transitional to a full federal government 
+in Mogadishu and the peaceful handover of power in 2017 to President Mohamed Abdullahi Mohamed 
+Farmaajo generated domestic political momentum and triggered international recognition and support 
+for the new federal government. Over the last four years, Somalia has taken encouraging steps towards a 
+political settlement and the rehabilitation of government institutions. The creation of four new Federal 
+Member States in southern Somalia and the reduced control by Al Shabaab in major tax bases such as 
+Mogadishu and Kismayo, form the basis for a devolved/federal political settlement.1  
+ 
+2. 
+While the formation of the new Federal Member States (FMS) is a positive step towards 
+reshaping the political economy, the federation process has been complex and challenging. The four 
+new FMS in southern Somalia include Jubbaland, South West, Galmudug and Hirshabelle with Puntland 
+in the north having been formed earlier in 1998.  Uncertainties however remain over the assignment of 
+functions to different levels of government, pending a final constitutional settlement. There has been a 
+deepening rift between the federal government and the FMS with the States declaring a suspension of 
+formal ties with the center in September 2018 over concerns with resource and power allocations within 
+Somalia’s federal structure. These tensions were exacerbated in the lead up to the elections in South West 
+State in December 2018 with allegations of the federal government’s interference and with the elections 
+in Jubbaland in August 2019. Relations between the federal government and the States will likely remain 
+fluid for years to come, even as inter-government cooperation arrangements emerge.2  
+ 
+3. 
+Decades of conflict, compounded by recurring natural disasters have displaced a significant part 
+of society and damaged much of the country’s infrastructure, resulting in high rates of poverty and food 
+insecurity. Of the 12.3 million Somali population,3 an estimated 4.5 million are living on the margins of 
+food insecurity.4 It is estimated that some one million Somalis currently reside in neighboring countries as 
+refugees,5 and another 2.6 million are internally displaced.6 Poverty is estimated at approximately 49 
+percent at the national level while the overall urban poverty rate stands at 45 percent; the poverty rate 
+in Mogadishu is higher than the national average at 57 percent. Poverty is heavily concentrated in 
+settlements of Internally Displaced Persons (IDPs) at 70 percent.7 The poor are also likely to experience 
+non-monetary poverty with even worse access to basic services such as education, health, water and 
+sanitation than the overall population.8  
+                                            
+1Al Shabaab does however retain control and continues to destabilize parts of southern Somalia, including in some urban areas.  
+2 World Bank Group Country Partnership Framework for Somalia. August 2018. Report No. 12473-SO 
+3 UNFPA (2014) http://somalia.unfpa.org/sites/default/files/pub-pdf/Population-Estimation-Survey-of-Somalia-PESS-2013-
+2014.pdf 
+4 FEWSNET – Somalia Food Assistance Fact Sheet. June 2019. UNOCHA Humanitarian Bulletin May 2019. 
+5 UNHCR (2019). Situation of the Horn of Africa Somalia. May 31, 2019. 
+6 UNOCHA (2019). “Humanitarian Bulletin May 2019.” May 2019. 
+7 World Bank Group (2017). Systematic Country Diagnostic (SCD). Report No. 123807-SO 
+8 World Bank (2017). SCD. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 10 of 72  
+     
+ 
+4. 
+Somalia’s economy has proven remarkably resilient. Despite the perpetual civil conflict, the 
+economy has grown at a moderate pace, averaging 2.2 percent real GDP growth from 2013-17. The 
+economy rebounded in 2018 from the 2016/17 drought and sporadic terror attacks. Real GDP growth is 
+estimated at 2.8 percent in 2018, up from 1.3 percent in 2017, mainly supported by recovering agricultural 
+production, sustained consolidation of peace and security, gradual increase in private investment, and 
+donor inflows. Sectors such as telecommunications, money transfer businesses, livestock exports, and 
+localized electricity services remain key drivers of growth. With an estimated GDP per capita of US$342 in 
+2018, Somalia remains one of the poorest countries in the world. 
+ 
+5. 
+The country’s fiscal situation has improved significantly, but resources for infrastructure and 
+service delivery are limited. Domestic revenue collection increased, with total revenue growing by 19 
+percent to US$293.8 million in 2018 compared to US$246.5 million in 2017. Domestic revenue recorded 
+the highest growth of 29 percent while donor grants grew by six percent. This was driven by continued 
+government efforts to broaden the tax base, enhance compliance, and improve collection capacity. Yet, 
+the current FGS revenue levels, at about 3.8 percent of GDP, are inadequate to deliver meaningful services 
+to citizens. Despite the remarkable improvement in domestic revenue mobilization, expenditure priorities 
+remain unchanged. Almost all expenditure is recurrent and sector spending is skewed towards security 
+and administrative services both accounting for 80 percent of the total spending hence crowding out 
+social and economic sectors. The government still relies heavily on external assistance for socio-economic 
+infrastructure and services.  
+ 
+6. 
+Somalia is highly vulnerable to current and future impacts of climate change given the high 
+dependence of its population on livestock and agriculture. Approximately 70 percent of the population 
+is engaged in agro-pastoralism, pastoralism and subsistence agriculture as livelihood options.9 Climate 
+change vulnerability is compounded by the fact that the country is coastal, low lying, and impacted by 
+conflict. Somalia generally experiences regular periods of droughts followed by flash floods and the 
+intensity and frequency of these events have increased since 2007. The drought in 2016-2017 left 
+approximately 6.7 million Somalis – more than half the population – in need of humanitarian assistance 
+and displaced more than 926,000 people. The drought in 2019 has resulted in 3.4 million people with 
+acute food insecurity and an additional 53,000 people have been displaced. Climate change impacts have 
+resulted in increased numbers of the rural population migrating to urban centers, thereby greatly 
+impacting the urban sector. It is therefore critical to support climate change adaptation measures in 
+Somalia through more climate resilient infrastructure in cities.  
+ 
+B. Sectoral and Institutional Context 
+ 
+7. 
+Somalia’s urban population is growing rapidly as a result of changes in the pastoral and agro-
+pastoral economy as well as significant forced migration into urban areas.  Rapid urbanization is driven 
+by traditional economic rural-urban migration as well as decades of internal conflicts, insecurity, political 
+turmoil and governance failures. This is compounded by cyclical environmental adversities such as 
+drought and famine. In 2018, 858,000 people were internally displaced due to conflicts, floods and 
+drought bringing the total number of displaced to an estimated 2.6 million people. Eighty percent of the 
+total internally displaced live in urban areas (approximately 2.2 million) placing intensified pressure on 
+                                            
+9 UNDP, 2018.  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 11 of 72  
+     
+ 
+already limited urban infrastructure and services.10 The country has also witnessed a steady flow of 
+returnees and refugees from neighboring countries with over 88,000 people voluntarily returning from 
+twelve countries since 2014.11 The urban population is estimated at around 5.2 million (42 percent) with 
+a growth rate of around 4 percent per annum.12 By 2040, the majority of Somali people will be living in 
+urban areas. 
+ 
+8. 
+Urbanization is one of the most significant drivers of development and if managed well, can 
+provide a pathway out of poverty and act as an engine of growth. High urban densities can reduce 
+transaction costs, make public spending on infrastructure and services more economically viable, and act 
+as an economic hub that attracts investments and talent. Investment in cities are also more visible to 
+citizens and can help strengthen government legitimacy. If not managed well, however, urbanization can 
+have perverse impacts such as congestion, reduced accessibility, inefficient or hazardous land use, 
+increased social conflict and reduced economic efficiency among others.  
+ 
+9. 
+The stresses of urbanization on the already inadequate basic infrastructure and services are 
+particularly severe in Mogadishu, Kismayo and Baidoa.  Decades of conflict and fragility has prevented 
+any significant investment in infrastructure and services. Somali cities13 are characterized by poor access 
+to clean water, proper sanitation and solid waste management leading to negative impacts on health and 
+welfare of citizens as well as the economy.  Of the 21,830 km of roads in the country, it is estimated that 
+only 2,860 km are paved (13 percent). There is minimal engineered storm water drainage infrastructure 
+in urban areas in the absence of which natural streams and rivers act as the main drainage “sinks” with 
+neighborhoods draining into these.14 Mogadishu is particularly impacted with a fast-growing population 
+with over 500,000 informally settled or displaced people. The population of Baidoa in South West State is 
+estimated to have tripled as those living in rural areas fled the 2017 drought - from 2016 to 2018, Baidoa 
+received an estimated 349,000 displaced people.  Kismayo, in Jubbaland State, is under pressure from 
+returning Somali refugees from the Dadaab camp in Kenya. An estimated 82,840 people returned from 
+Kenya between 2015-2018, 64 percent of whom returning to Lower Juba region or Jubbaland. The growing 
+population in these particular cities places considerable stress on municipal service delivery capacity and 
+increases social tensions between host communities and the displaced.15 
+ 
+10. 
+The Government has limited capacity and resources to address basic service delivery and 
+infrastructure challenges. District or municipal governments have the primary responsibility for providing 
+basic services in Somalia, but capacity and fiscal constraints limit their ability to undertake basic municipal 
+functions. Outside of a few larger cities, these constraints deepen rapidly. Sub-national governments are 
+only receiving a small recurrent budget through an inter-governmental fiscal transfer, and staffing is 
+generally skeletal with limited capacity. Municipal/district governments’ own source revenue collection is 
+also minimal and unstructured. There is a high dependence on external assistance or the private sector 
+for capital investments and delivery of services therefore tends to be ad hoc. 
+ 
+                                            
+10 UNOCHA (2019). “Humanitarian Bulletin May 2019.” May 2019. 
+11 UNHCR, 2019. Refugee returnees to Somalia at 31 March 2019.  
+12 UNFA (2014), https://somalia.unfpa.org/sites/default/files/pub-pdf/Population-Estimation-Survey-of-Somalia-PESS-2013-
+2014.pdf 
+13 This includes Mogadishu, Garowe and Hargeisa where a Rapid Urban Assessment was carried out.  
+14 World Bank (2014). Rapid Assessment of Three Somali Cities.  
+15 World Bank (2017). Systematic Country Diagnostic (SCD). 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 12 of 72  
+     
+ 
+11. 
+As urban areas fail to keep pace with the rapid urbanization, Somalia’s cities are becoming more 
+fragile, threatening the country’s stability. The rapid pace of urbanization has created multiple challenges 
+for Somali cities. Cities have not been able to cope with the increased demands for land, housing, basic 
+services, and jobs. As a result, cities are sprawling in an uncontrolled manner, slums are on the increase, 
+and environmental degradation is accelerating. It is feared that large influxes of people may shift clan 
+dynamics which can potentially destabilize the already fragile social structures.  Incidence of gender-based 
+violence (GBV), among other protection concerns, is a prevalent issue in Somalia and a significant 
+challenge confronting displaced populations in particular.16 IDPs face increased risks of GBV and sexual 
+exploitation due to limited security in the IDP settlements, poor living conditions and limited clan 
+protection. These are all contributing to increased fragility of Somali cities. Mogadishu, Merca and 
+Kismayo have indeed been named the world’s three most fragile cities in the world.17 Urban fragility, 
+particularly in the capital of Mogadishu, can have a profound impact on Somalia’s nascent stability. 
+ 
+12. 
+Addressing urban fragility requires a comprehensive resilience-based approach. Given cities play 
+a central role in Somalia’s development and security, there is an acute need to strengthen their resilience. 
+Urban resilience, under this project, is defined as “the municipal governments’ ability to prepare for, 
+respond to, and adapt to shocks and stresses while continuing to provide critical services following an 
+adverse event.” External shocks and stresses in the Somali context will include both natural disasters 
+(including climate change impacts such as land degradation) and fragility.  
+ 
+13. 
+Urban resilience is understood as a holistic concept that comprises five composite dimensions 
+- spatial, physical, economic, social, and institutional. Spatial resilience ensures flexibility in spatial plans, 
+policies and land use management systems. Integration of IDP settlements into the urban fabric is an 
+important aspect of spatial resilience in the Somali context. Physical resilience relates to ensuring urban 
+infrastructure and service delivery meets the increased demands resulting from large influxes of people 
+and that the infrastructure itself is climate resilient. Economic resilience is the city’s ability to manage and 
+adapt to disruptions to the economic system, such as negative impacts on assets, production factors, and 
+employment. Social resilience relates to strengthening social networks to cope and adapt to external 
+stresses. Finally, institutional resilience relates to local government’s improved capacity to plan and 
+manage the other dimensions of urban resilience.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+16 Several studies estimate that roughly three-quarters of survivors are IDPs. 
+17 “These are the World’s Most Fragile Cities”. Urban Gateway. http://new.unhabitat.org/news/these-are-worlds-most-fragile-
+cities. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 13 of 72  
+     
+ 
+Figure 1. Urban Resilience Framework 
+ 
+ 
+14. 
+Building on the ongoing Somalia Urban Resilience Project (SURP), phase II aims to enhance the 
+resilience of select cities with a particular focus on supporting physical resilience by financing investments 
+in priority urban infrastructure. The project will also strengthen social resilience by fostering social 
+cohesion and supporting infrastructure that benefits both host communities and the displaced, ensuring 
+investments are prioritized through a participatory decision-making process.  Short-term income 
+generation opportunities will be generated through the project for the vulnerable such as women, urban 
+poor, IDPs and returnees. Institutional resilience will be supported through the strengthening of municipal 
+governance, particularly by delivering infrastructure and services through sub-national government 
+systems and helping to better define the respective roles and responsibilities over urban infrastructure 
+and service delivery among the different levels of government.  Economic resilience will be supported by 
+creating short-term income generation opportunities particularly for the urban poor and IDPs through 
+labor-intensive works and exploring longer-term job opportunities for these groups by collaborating with 
+the ongoing relevant livelihood, entrepreneurship and employment projects.18  
+ 
+15. 
+ Citizen engagement will be at the core of the project with communities engaged at all stages 
+of project implementation. Firstly, the project will aim to address inequality and exclusion by focusing on 
+infrastructure investments that help integrate the displaced population as well as the urban poor. 
+Communities will be engaged and their feedback incorporated during the selection process for prioritized 
+infrastructure, during implementation through their involvement in the selection of beneficiaries for short 
+term labor opportunities and the Grievance Redress Mechanism; and finally for project maintenance. 
+Further details are provided in the Project Description below.  
+ 
+16. 
+SURP II will seek to explore options for engaging women more proactively in project planning 
+and implementation and particularly in the construction of infrastructure. Gender disparities in Somalia 
+                                            
+18 Possible projects to collaborate with include the World Bank-financed Somali Core Economic Institutions and Opportunities 
+(SCORE) (P152241) and SCALED-UP (P168115). 
+Spatial Dimension
+Social Dimension
+Insitutional 
+Dimension
+Physical Dimension 
+Economic Dimension 
+Urban 
+Resilience 
+Urban planning 
+Land use planning 
+Hazard mapping 
+Land inventory etc.  
+Infra development 
+Service delivery 
+Land and housing 
+Job creation 
+Support for 
+informal economy 
+Biz regulations etc. 
+Capacity dev. 
+Accountability 
+Inter-gov 
+relations 
+Social cohesion 
+Participatory gov. 
+Support to the 
+vulnerable etc. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 14 of 72  
+     
+ 
+are pronounced across most socio-economic and human development indicators. Although women are 
+dynamic economic actors in Somali society, they are generally poorer than men and economic 
+opportunities—for both women and men—remain limited.  Key project related gaps between males and 
+females related to the project that have been identified include (i) the meaningful participation of women 
+in community meetings related to subproject prioritization or implementation and (ii) involvement of 
+women in the construction sector as both skilled and unskilled labor. According to the 2019 World Bank 
+Somali Poverty and Vulnerability Assessment, only 37 percent of women participate in the labor market, 
+compared to 58 percent of men.  The 2019 National Employment Policy attributes the low levels of female 
+participation in the labor market to “the patriarchal nature of society and customs which restrict the 
+participation of women in a number of areas.” SURP II will therefore take explicit actions to ensure the 
+engagement of women in project activities and measure progress on these actions through the project’s 
+results framework. More details are provided in Annex 2 – Gender Mainstreaming.  
+ 
+17. 
+The ongoing Somali Urban Investment Planning Project (SUIPP), SURP and the proposed SURP 
+II build on other ongoing projects supported by development partners. UN-Habitat’s work on urban 
+planning and strategic spatial planning in Mogadishu and Baidoa, along with the Denmark-financed 
+Kismayo urban development master plan provide useful city level information on existing land use, 
+housing, IDPs, infrastructure and service delivery; urban plan that points to the future direction of city 
+growth; and infrastructure/service requirements. SURP II will ensure that urban infrastructure 
+investments are aligned with these urban plans. UN agencies’ Joint Program on Local Governance (JPLG) 
+is helping to develop Local Government Laws at the FMS level, establishing democratically elected District 
+Councils,19 improving municipalities’ own source revenue generation, property registration, Public 
+Financial Management (PFM) and other administrative capacity support to municipal governments. SURP 
+II will build on JPLG’s capacity building support and use their training modules where appropriate. USAID 
+financed Transition Initiatives for Stabilization (TIS+) supports quick impact stabilization activities at the 
+district and community levels.  In Mogadishu, the project utilized community institutions set up under 
+TIS+ for consultations on priority roads. Finally, in Kismayo and Baidoa, the project will utilize the 
+Community Action Groups established under the Joint UN agencies’ Midnimo project for participatory 
+decision-making.  
+ 
+C. Relevance to Higher Level Objectives 
+ 
+18. 
+The project contributes to the World Bank’s twin goals of eliminating extreme poverty and 
+boosting shared prosperity through provision of much-needed economic infrastructure and basic services 
+for some of the world’s poorest and most vulnerable people in one of the most fragile countries. The 
+project also contributes to the World Bank Group’s Country Partnership Framework (CPF) (FY2019-22)20 
+Focus Area 1 which aims to strengthen institutions to deliver services while addressing the cross-cutting 
+consideration of building resilience to fragility and shocks. This project specifically aims to deliver on 
+Strategic Objective 1.4 which aims to build the capacity of Somali municipalities for urban resilience.  
+ 
+19. 
+The project will also contribute to the Somalia National Development Plan (2017-2019) 
+particularly for the Infrastructure Pillar that aims to “lay out the foundations of resilient infrastructure 
+                                            
+19 District Councils in turn elect the District Commissioner, who will serve as the de facto Mayor. 
+20 Discussed by the Board of Executive Directors on August 29, 2018. Report No. 12473-SO 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 15 of 72  
+     
+ 
+systems that will contribute to the country’s stability and will provide necessary services for all”, as well 
+as the Resilience Pillar that aims to “create opportunities for IDPs and refugee returnees to participate in 
+public affairs and most importantly in decision-making pertaining to their own future, such as local and 
+urban development processes” and to “systematically enhance the absorption capacity of basic services 
+for IDPs and returning refugees”.21 
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+PDO Statement 
+ 
+To strengthen public service delivery capacity of local governments and increase access to urban infrastructure 
+and services in selected areas. 
+ 
+B. Project Components 
+20. 
+Building on SURP, the second phase has been designed as an urban resilience project that aims to 
+deliver prioritized infrastructure in cities, use country PFM systems at the sub-national level and 
+strengthen municipal government capacity.  SURP II will scale up investments within cities where the SURP 
+is currently operational - Mogadishu, Garowe, Kismayo and Baidoa and lay the groundwork for expansion 
+to cities in the States of Galmudug and Hirshabelle. The following four components are proposed for a 
+duration of five years: (i) Urban Infrastructure and Services; (ii) Institutional Strengthening and Analytics; 
+(iii) Project Management and Capacity Building; and (iv) Contingent Emergency Response. 
+Component 1: Urban Infrastructure and Services (US$89 million, of which IDA US$37 million and 
+Somalia MPF US$52 million)  
+21. 
+This component will support the preparation and implementation of all infrastructure 
+investments in the project.  
+ 
+Sub-Component 1.1: Preparatory Activities for Urban Infrastructure and Services in Existing Cities (US$5 
+million, of which IDA US$3 million and Somalia MPF US$2 million) 
+ 
+22. 
+This subcomponent will finance consulting services for preparatory works required for civil works 
+to be financed under SURP II in cities currently being supported under SURP/SUIPP.22  Eligible preparatory 
+works include: (i) technical studies, engineering designs and bidding documents for priority investments; 
+(ii) environment and social due diligence work; and (iii) any other necessary analytical work.  
+ 
+23. 
+During this preparatory phase, communities will be engaged in the prioritization of infrastructure 
+investments to be financed by the project following a participatory decision- making process.  Community 
+Engagement Officers (one male and one female) in the PIUs will facilitate this engagement and ensure 
+                                            
+21 Federal Government of Somalia (2017). “National Development Plan 2017 – 2019”.  
+22 This will include the preparation of any additional feasibility studies, engineering designs, safeguard instruments, institutional 
+assessments as well as other analytical work that may be required for Mogadishu, Garowe, Kismayo and Baidoa. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 16 of 72  
+     
+ 
+that the voices of the vulnerable groups such as women, youth and IDPs are reflected.  
+ 
+Sub-Component 1.2: Preparatory Activities for Urban Infrastructure and Services in New Cities (US$3 
+million IDA) 
+ 
+24. 
+This subcomponent will finance consulting services for preparatory works required for civil works 
+to be financed under SURP II in new cities23 that meet the project’s participation criteria.  Eligible 
+preparatory works include: (i) technical studies, engineering designs and bidding documents for priority 
+investments; (ii) environment and social due diligence work; (iii) institutional assessments of 
+implementing agencies and (iii) any other necessary analytical work. This subcomponent will also finance 
+the establishment and training of Project Implementation Units (PIUs). These studies will be contracted 
+out following a competitive procurement process either by the Project Coordination Unit (PCU) at the 
+federal level or the respective municipalities/district governments depending on the capacity of the 
+municipalities as determined by the institutional assessment.  
+ 
+Sub-Component 1.3. Investment in Urban Infrastructure and Services (US$81 million; of which IDA 
+US$31 million and Somalia MPF US$50 million) 
+ 
+25. 
+This sub-component will finance civil works, goods and construction supervision consultancies 
+associated with the implementation of infrastructure investments in cities where the necessary 
+implementation readiness criteria related are met, these criteria are outlined below.  
+ 
+26. 
+Infrastructure selection criteria. Eligible urban infrastructure investments need to meet the 
+following criteria which interface the top-down citywide technical assessment with a bottom-up 
+participatory decision-making process: 
+ 
+• 
+Critical investments that fill the existing urban infrastructure gaps as identified by local 
+governments and citizens and verified in feasibility assessments.   
+• 
+Strategic investments that contribute to urban resilience. Investments aligned with a broader 
+urban development plan and that directly contribute to making cities more resilient.  
+• 
+Inclusiveness. Investments that benefit vulnerable groups including women, youth, the poor, 
+and the displaced and selected in a participatory manner.  
+• 
+Maximizing development impact.  Substantive investments should be prioritized over small 
+scale/piece meal investments.  
+• 
+Coordination/complementarity with ongoing projects.  Investments should avoid overlap with 
+ongoing development interventions but complement them.  
+• 
+Labor intensiveness. Investments should provide short term income generation opportunities 
+for vulnerable groups.  
+• 
+Sustainability. Investments should build in operations and maintenance measures to ensure 
+sustainability.  
+                                            
+23 These new cities would be from Galmudug and Hirshabelle States.  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 17 of 72  
+     
+ 
+• 
+Climate Resilience. Investments should be climate resilient, in that they are planned, 
+designed, built and operated in a way that anticipates, prepares for and adapts to changing 
+climate conditions.  
+• 
+Government visibility. Investments should be visible to citizens and highlight the 
+government’s role in implementation to strengthen their legitimacy. 
+ 
+27. 
+Funding allocation for infrastructure across participating cities will be determined through two 
+sets of criteria – participation and implementation readiness criteria.  
+• 
+Participation Criteria. Cities would need to meet a set of participation criteria before they can be 
+included in the SURP. 
+o The city should be socio-economically important (e.g. Federal Member State capital, large 
+influx of IDPs, economic hub, etc.) 
+o The inclusion of the city in the SURP is formally endorsed by the Project Steering 
+Committee and documented in the meeting minutes. 
+ 
+• 
+Implementation Readiness Criteria. Cities would need to meet the following implementation 
+readiness criteria before being eligible for an infrastructure grant.  
+o A PIU has been set up and is functional with necessary staffing.  
+o The necessary technical studies for the priority investments have been prepared to a 
+standard acceptable to the World Bank.  
+o Any necessary safeguard documents24 have been prepared to a standard acceptable to 
+the World Bank; consulted on with communities and local government officials and 
+publicly disclosed.  
+o There are no outstanding ineligible expenditures, any other fiduciary issues and/or 
+safeguard issues with prior investments implemented by the respective city.  
+ 
+28. 
+Once the above implementation readiness criteria have been met, cities would be allocated 
+funding for infrastructure investments in two installments.  
+ 
+1st Installment: An initial installment totaling US$55 million would be divided among eligible cities based 
+on the following procedures. 
+ 
+• 
+All cities meeting the implementation readiness criteria would receive an equal allocation or 
+base grant of 50 percent of the total funds available for the initial installment.25 
+• 
+An allocation formula taking into account needs and vulnerability of the city would be applied to 
+top up the above base grant. 
+ 
+ 
+ 
+ 
+                                            
+24 These include Environment Safeguard Management Frameworks and/or Plans, Resettlement Action Frameworks/and or 
+Plans, Stakeholder Engagement Plan, Labour Management Procedures  
+25 Total funding being allocated for the initial installment is US$55 million and the balance of US$26 million set aside for the 
+second installment.  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 18 of 72  
+     
+ 
+Table 1. Budget Allocation Across Cities (US$) (50% Equal Allocation) 
+City 
+Meeting  
+Readiness 
+Criteria  
+  
+Population 
+  
+  
+Equal 
+Allocation  
+(50%) 
+  
+Discretionary Allocation  
+(50%) 
+Total 
+Weighted 
+Allocation 
+Vulnerability 
+weight 
+Vulnerability 
+Weighted 
+population 
+Vulnerability 
+Weighted 
+population 
+share 
+Sub-total 
+Mogadishu  
+1,529,000 
+6,875,000 
+1.17 
+     1,788,766  
+67% 
+18,432,705 
+25,307,704 
+Kismayo 
+198,000 
+6,875,000 
+1.03 
+         204,418  
+8% 
+2,106,469 
+8,981,469 
+Baidoa  
+423,000 
+6,875,000 
+1.50 
+         634,500  
+24% 
+6,538,334 
+13,413,334 
+Garowe  
+82,000 
+6,875,000 
+0.50 
+           41,000  
+2% 
+422,493 
+7,297,493 
+Total  
+  
+27,500,000 
+  
+     2,668,685  
+  
+27,500,000 
+55,000,000 
+ 
+2nd Installment: A second installment would be provided to cities that are able to fully utilize their first 
+installment successfully.  
+ 
+29. 
+The balance of US$26 million will be provided to cities that are able to successfully commit their 
+initial allocation fully and disburse at least 50 percent of their allocation. This US$26 million will be divided 
+among all cities meeting these criteria. Newly participating cities will also be eligible for the second 
+tranche subject to meeting the implementation readiness criteria. Allocations for the second installment 
+will be determined in the second year of project implementation in consultation with the Steering 
+Committee and PIUs.  
+ 
+30. 
+The exact infrastructure investments in individual subprojects will be determined during project 
+implementation. However, based on consultations with relevant stakeholders and technical 
+assessments26, priority investments are likely to include: (i) upgrading/rehabilitation of existing urban 
+roads and community roads; (ii) drainage; (iii) pedestrian walkways; (iv) streetlighting; and (v) bridges.  
+Investments in roads are justifiable in that provision of basic services such as water and electricity are fully 
+privatized in Somalia whereas private sector is unlikely to invest in roads, which are public goods.27 While 
+the final list of infrastructure investments are not known across the four cities, there are some 
+investments in Mogadishu and Garowe which can possibly be considered “quick win” subprojects as they 
+have feasibility studies and preliminary designs already prepared and can be implemented as the first 
+batch of subprojects under SURP II.28 City-specific eligible infrastructure investments include the 
+following.29  
+ 
+31. 
+Benadir Regional Administration (BRA)/Mogadishu: The construction of 11km of community 
+roads in 10 districts of Mogadishu,30 and one urban road (Jaal Siyaad) about 3.7km has been prioritized as 
+                                            
+26 Technical assessments include: urban assessments and feasibility studies undertaken in Kismayo, Baidoa, Garowe and 
+Mogadishu, as well as the Road Inter-connectivity and Drainage Masterplan in Mogadishu.  
+27 Future phases of the project can however support improvements in basic service delivery if this is a priority of the 
+Government.  
+28 These potential ‘quick win’ candidate investments amount to approximately US$10 million.  
+29 See section C for more details on the implementation readiness criteria 
+30 19 community roads, a total of 7.5km in 7 districts of Mogadishu are being financed under the ongoing SURP. The community 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 19 of 72  
+     
+ 
+possible “quick win” candidate subprojects.  Feasibility studies and preliminary designs for these roads 
+have been completed under SUIPP and the community roads were selected through engagement with 
+communities. To ensure proper road network and interconnectivity of the disjointed community roads 
+within the city, BRA has also prioritized construction of additional 15.2km of interconnectivity roads. The 
+preparation of feasibility studies, designs and bidding documents for these additional roads would need 
+to be carried out under SURP II. Due to the perennial flooding problem in Mogadishu, BRA is also keen to 
+implement the first phase of the Drainage Masterplan prepared through Bank support in December 2018 
+which would include the rehabilitation and construction of 6.5km of drainage.  
+ 
+32. 
+Garowe: The construction of four urban roads31 have been prioritized as “quick win” candidate 
+subprojects and feasibility studies and preliminary designs have been completed for the roads under 
+SUIPP. These roads will serve areas where IDPs are living, the main Garowe hospital, and other social 
+facilities. A multi-criteria analysis (MCA) was used in prioritizing and ranking these roads using indicators 
+such as road condition, traffic volume, access to socio-economic facilities, environmental and social 
+impacts, and government/community priorities.  A hospital bridge has also been prioritized but this still 
+requires engineering designs. This subproject will therefore be included in the second batch infrastructure 
+investments.  
+ 
+33. 
+Kismayo: Under SUIPP AF, feasibility studies and detailed designs for priority roads in Kismayo are 
+being prepared. Sixteen road sections totaling 32km have been prioritized based on MCA. The analysis 
+examined various indicators which included: road condition, traffic volume, number of beneficiaries, 
+access to socio-economic facilities, benefits to IDPs, environmental and social impacts, and 
+government/community priorities. Furthermore, roads that were identified as priority roads in the urban 
+plan and those that link with other development partners’ investments were prioritized.  About 10 – 15km 
+of prioritized roads depending on available funding can potentially be funded under SURP II. There are no 
+“quick win” projects in Kismayo.  
+ 
+34. 
+Baidoa: SUIPP AF is preparing feasibility studies and detailed designs for priority roads in Baidoa. 
+Eight road sections of about 22km have been prioritized based on MCA as explained above. Given that 
+Baidoa’s population has almost tripled with the recent influx of IDPs, roads that contribute to the new IDP 
+resettlement area and existing IDP settlements were given high priority. Furthermore, considerations 
+have been given to ensure that SURP II financed roads are well aligned with the city’s urban development 
+plan and that they leverage other development partner funded roads to ensure inter-connectivity.  About 
+10 – 15km depending on available funding can potentially be funded under SURP II. There are no “quick 
+win” projects in Baidoa.  
+ 
+35. 
+Community members would be engaged, through community engagement officers, during 
+implementation of the civil works to: (i) identify beneficiaries for wage labor opportunities based on an 
+agreed set of selection criteria and ensure women, IDPs and other vulnerable groups are given priority; 
+and (ii) monitor the adherence to these criteria throughout construction. In addition, community 
+operations and maintenance (O&M) committees will be established and trained in order to support 
+municipalities with O&M of the project financed roads. In order to ensure women’s views are 
+                                            
+roads will be constructed with interlocking concrete block pavers, similar to the ongoing works, while asphaltic concrete 
+pavement is proposed for the urban road.   
+31 Gambol, Wadajir, Tawfig, and 30 KA Road 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 20 of 72  
+     
+ 
+incorporated into subproject prioritization process and the operations and maintenance aspects, separate 
+meetings will be held with women’s groups. A female Community Engagement Officer will be hired to 
+facilitate this process and guidelines will be developed to facilitate women’s recruitment and retention. 
+These guidelines will further include provisions to protect against potential risks, including risk of sexual 
+harassment, exploitation or abuse in the hiring process. In addition, contract packages across all four cities 
+will be divided to ensure they are small enough to give opportunities to local firms to bid who would be 
+more likely to employ local labor.  
+ 
+36. 
+Female skilled labor will be engaged in the project by exploring partnerships with other 
+development partner initiatives that are providing vocational training to women such as UNHABITAT and 
+United Nations Office for Project Services (UNOPS) support to the Ministry of Public Works. An increase 
+in the numbers of women engaged in unskilled labor will be facilitated through the provision of adequate, 
+separate and safe toilet facilities, safe transport for women to the construction site; female only 
+construction groups will be formed if feasible. Additional provisions to ensure women’s access, safety and 
+security will be developed in advance of the recruitment process. Given the urban focus, there is a greater 
+chance of attracting women as both skilled and unskilled labor in the project. The outcome of these 
+initiatives (successes and failures) will be documented by the PCU in a lessons learned note which can 
+feed back into the project to improve the mainstreaming of gender in implementation.  
+ 
+37. 
+The proposed project will have substantial climate change adaptation and mitigation co-benefits. 
+All urban infrastructure will be designed and constructed considering the changing climate conditions, 
+thus ensuring connectivity and enabling communities to recover more rapidly to disruptions caused by 
+climatic conditions. In the dry seasons (which account for a cumulative period of nine months every year, 
+on average), the paved surface will reduce the risk of dust vortexes and its consequences on the 
+population. Since the project locations are susceptible to high temperature fluctuations and occasional 
+flooding due to torrential rainfall, which is expected to increase in frequency and intensity due to climate 
+change, improved drainage infrastructure will provide climate change adaptation benefits during the two 
+annual rainy seasons. Pedestrian walkways will provide climate change mitigation co-benefits, as this will 
+support urban transport modal change and pedestrian mobility, resulting in reduction of emissions from 
+vehicular traffic. Finally, the project will also include energy-efficient street lighting, which has significant 
+climate mitigation co-benefits. 
+ 
+38. 
+This sub-component will also finance construction supervision consultancies to be procured by 
+the respective municipal governments. The supervision consulting firm(s) will assist the municipal 
+governments to effectively supervise investment subprojects and to transfer skills to technical staff. 
+Support will also be provided to assist the municipal governments in the implementation and monitoring 
+of safeguards. 
+ 
+Component 2: Institutional Strengthening and Analytics (US$5 million, of which IDA US$3 million and 
+Somalia MPF US$2 million)  
+ 
+39. 
+This component will support various thematic TA and related analytics which include but are not 
+limited to the following:  
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 21 of 72  
+     
+ 
+• 
+TA on Informal Settlements – Municipal governments will be supported in identifying pathways to 
+formalize informal settlements in situ to the extent possible through a range of interim tenure 
+arrangements for different types of informal settlements. Due to lack of secure tenure, many of the 
+IDPs in Mogadishu32 face secondary displacement in the form of forced eviction.33 In the absence of 
+clear laws to regulate land transactions or policies to protect informal settlers, the number of illegal 
+evictions is likely to continue to rise. To date, the government has applied a one-size-fits-all approach 
+aiming to resettle all IDPs to city peripheries, which is expensive and should be treated as a last resort. 
+By distinguishing different types of informal settlements (based on location and types of inhabitants) 
+and identifying tailored solutions, this TA will help optimize the interim tenure options. This TA will be 
+undertaken in Mogadishu, as the city has the government’s strong political will. The proposed TA will 
+build on the World Bank’s ongoing Somalia Urbanization Review as well as a joint UN study on 
+sustainable IDP durable solutions. Close coordination will be required with various partners engaged 
+in land and housing issues such as the UN Regional Coordinator’s Office, International Office for 
+Migration, UN-Habitat, and Norwegian Refugee Council among others.  
+ 
+• 
+TA on Urban Infrastructure O&M –The technical and financial aspects of O&M for municipal road 
+assets will be supported, starting with Mogadishu as a pilot. Specifically, the TA will help: (i) examine 
+the status quo of major urban roads in Mogadishu and construct a road network inventory and 
+condition database; (ii) examine BRA’s current budget and expenditures on road O&M and estimate 
+the financing gap; (iii) review and update the Mogadishu road maintenance plan prepared by BRA 
+with innovative financing and technical measures utilizing various financing sources such as the 
+private sector, diaspora, communities, and the government; and (iv) ensure that the consideration of 
+climate change impacts in the O&M of infrastructure, such as changing maintenance schedules and 
+including adaptive management to account for uncertainty in the future. This TA builds on the first 
+phase of the TA that is currently being implemented in Mogadishu under SURP. Should the pilot prove 
+successful, the TA will be scaled up to other target cities.  
+ 
+• 
+TA on Urban Governance and Services –Taking solid waste management as an entry point, this TA 
+will help strengthen the local government’s ability to hold private service providers accountable in 
+urban service delivery. Specifically, this TA will finance: (i) diagnostic work to analyze the current solid 
+waste management system in Mogadishu and identify key challenges and means to tackle them; and 
+(ii) pilot activities to improve waste disposal and collection in project supported areas. Unlike other 
+service delivery sectors, solid waste management is managed by the municipal government by 
+contracting private operators for waste collection and is therefore a good entry point.34 The benefits 
+of helping the local government improve solid waste management are manifold: (i) better solid waste 
+management helps maintain SURP II roads and side drainage; (ii) strengthening the local 
+government’s capacity to monitor and hold private service providers accountable can strengthen 
+urban governance and service provision; (iii) improving a highly visible problem can help enhance local 
+                                            
+32 Mogadishu is home to an estimated 600,000 IDPs most of whom live in informal settlements while Baidoa hosts an estimated 
+323,000 IDPs32 and based on the available cities’ population estimate, IDPs account for 39 percent and 76 percent of 
+Mogadishu and Baidoa’s population respectively. 
+33 Between January and July 2018 alone, over 204,000 IDPs were forcibly evicted across the country, more than half of which 
+were in Mogadishu. 
+34 Other urban services such as water supply and electricity are currently provided by the private sector who have no contractual 
+obligations to the municipal government. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 22 of 72  
+     
+ 
+government legitimacy; and (iv) can reduce health and environmental risks. In addition, to further the 
+overall discussion of inter-governmental functional assignments pertaining to urban governance and 
+services, the establishment of a “Mayors’ Forum” will be supported. This TA will be undertaken in 
+close collaboration with the UN Joint Program for Local Governance (UN JPLG) given the program’s 
+continued support to sub-national governance system strengthening.  
+ 
+Component 3: Project Management and Capacity Building (US$18 million, of which IDA US$10 million 
+and Somalia MPF US$8 million)35  
+ 
+40. 
+This component will finance the overall project management costs (including monitoring and 
+evaluation) as well as the capacity building of the PCU, PIUs and relevant municipal staff. Specifically, this 
+component will finance: costs related to staffing of a PCU located in the Ministry of Public Works (MoPW) 
+as well as the PIUs at the municipal level in Mogadishu, Garowe, Kismayo and Baidoa; financial audits; 
+grievance redress and feedback mechanism (GRM), social and environmental safeguard implementation, 
+M&E including a geo-enabled monitoring system (GEMS) and impact evaluation. Third-party monitoring 
+for the supervision of civil works and verification of project implementation progress will be undertaken 
+by the World Bank through Somalia MPF funding.  
+ 
+41. 
+Capacity building in engineering, FM, procurement, environment/social safeguards, planning and 
+budgeting, M&E, citizen engagement and any other capacities necessary will be provided to the PCU, PIU 
+and municipal staff. The contents of the capacity building will build on the institutional assessments of the 
+municipalities and will be provided through either a TA firm or Individual Consultants as deemed 
+appropriate. The TA will use on-the-job mentoring and classroom training.  
+ 
+Component 4: Contingent Emergency Response (US$ 0m)  
+ 
+42. 
+This contingent emergency response component (CERC) would be included under the project in 
+accordance with the World Bank Policy on Investment Project Financing dated September 30, 2018, 
+Paragraph 12 and 13 for situations of urgent need of assistance. This will allow for rapid reallocation of 
+uncommitted project funds in the event of a natural or man-made crisis in the future, during the 
+implementation of the project, to address eligible emergency needs under the conditions established in 
+its operations manual. This component will have no funding allocation initially and will draw resources 
+from the other expenditure categories at the time of activation.36  
+ 
+C. Project Cost and Financing 
+ 
+43. 
+The proposed project has an overall financing envelope of US$112 million from the Somalia MPF 
+(US$62 million) and IDA (US$50 million). The project will be implemented over a period of five years. The 
+                                            
+35 The costs allocated for this component are significant given the high costs of operating in Somalia – costs related to monitoring 
+and evaluation, safeguards implementation and monitoring as well as community engagement for example are expected to be 
+high. These costs were estimated based on the costs of the ongoing SURP.   
+36 If an Immediate Response Mechanism (IRM) is established, this component will serve as an IRM CERC to allow the reallocation 
+of uncommitted funds from the project portfolio to the IRM Designated Account (DA) to address emergency response and 
+recovery costs, if approved by the World Bank.  
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 23 of 72  
+     
+ 
+proposed costs across project components are outlined in the cost table below.  
+ 
+44. 
+The SURP II provides for retroactive financing of US$1,200,000 equivalent to cover expenses 
+related to the preparation of detailed designs, bidding documents and site-specific safeguard documents 
+for “quick win” subprojects in Mogadishu and Garowe from July 1, 2019 until project effectiveness. 
+ 
+Table 2. Project Cost Table  
+Project Components 
+Project cost 
+Project Financing 
+(US$ millions) 
+% Financing 
+1. Urban Infrastructure 
+Services 
+2. Institutional Strengthening 
+and Analytics 
+3. Project Management and 
+Capacity Building 
+4. CERC 
+89.00* 
+5.00 
+18.00 
+0.00 
+89.00 
+5.00 
+18.00 
+0.00 
+100% 
+100% 
+100% 
+100% 
+Total Costs 
+ 
+ 
+ 
+Total Project Costs 
+112.00 
+ 
+ 
+Total Financing Required 
+112.00 
+ 
+100% 
+*The US$89 million includes US$8 million for technical studies for urban infrastructure.  
+ 
+D. Project Beneficiaries 
+ 
+45. 
+The immediate project beneficiaries will be the residents of BRA, Garowe, Kismayo and Baidoa as 
+well as residents in the States of Galmudug and Hirshabelle.  This includes those affected by forced 
+displacement (i.e. IDPs, returnees, and host communities) where the infrastructure investments are being 
+implemented. In addition, approximately 530 people in BRA, Garowe, Kismayo and Baidoa will benefit 
+from short-term income generation opportunities resulting from the civil works. Finally, the BRA, Garowe, 
+Kismayo and Baidoa Municipality staff will benefit from capacity building initiatives in this project. Once 
+cities have been selected in Galmudug and Hirshabelle, those municipalities will also benefit from capacity 
+building initiatives.  
+ 
+E. Results Chain  
+ 
+46. 
+The theory of change underlying the proposed project interventions is that supporting municipal 
+government capacity and delivering community prioritized urban infrastructure would support the 
+Government’s efforts to demonstrate visible and tangible improvements in the lives of its citizens in the 
+longer term. This is critical for strengthening the legitimacy of the government and sustaining social and 
+political stability in the country. In the context of Somalia however, the theory of change outlined below 
+would be non-linear and iterative in nature.  
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 24 of 72  
+     
+ 
+ 
+ 
+ 
+F. Rationale for World Bank Involvement and Role of Partners 
+ 
+47. 
+In a context where the bulk of Somalia’s Official Development Assistance Budget (ODA) is 
+provided outside government systems, the World Bank has a significant role to play in strengthening 
+government institutions and helping to bring the ODA on budget.  Somalia is highly aid dependent with 
+ODA growing in the last decade from around US$400 million in 2006 to US$1.75 billion in 2017.  This is 
+driven largely by the humanitarian response to the drought. Through this project, the World Bank would 
+be strengthening local government institutions and their ability to serve as a platform for the delivery of 
+infrastructure and services to their citizens in the longer term. This project is expected to catalyze 
+additional donor funding to be channeled on-treasury to FMS and municipalities/districts to the delivery 
+of urban infrastructure and services. 
+ 
+G. Lessons Learned and Reflected in the Project Design 
+ 
+48. 
+Use of government systems helps strengthen local governments. Putting local government in 
+the driver’s seat is particularly important in urban areas where municipal governments have the primary 
+responsibility for infrastructure and service delivery. This project is the first attempt to use government 
+PFM systems at the sub-national level in Somalia with the aim of helping to build their capacities and fulfill 
+their mandate. While such an approach poses significant risks, successful implementation of this model 
+can help municipalities leverage more assistance from other development partners in the future to meet 
+the vast and growing development needs in cities.  
+ 
+49. 
+Mitigation of the potential negative spillover effects of urban infrastructure upgrading such as 
+induced forced eviction of the IDPs is critically important. Forced eviction of IDPs, who have fled from 
+drought and violence and settled on idle private or public lands in Somali cities is rampant especially in 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 25 of 72  
+     
+ 
+urban centers such as Mogadishu where land is scarce and land values are high. Between January and July 
+2018, over 204,000 people were evicted without any prior notice or due process. Any urban investments 
+will result in increased land values, which can trigger displacement and further impoverish the already 
+vulnerable IDPs. To help mitigate such potential risks, it is important to build in collaboration with relevant 
+partners and measures to provide more security of tenure for the vulnerable IDPs. A specific TA has 
+therefore been included in SURP II.  
+ 
+50. 
+Measures for sustainable O&M for project supported assets need to be built into the project 
+design from the outset. Both national and sub-national governments in Fragile, Conflict and Violence 
+(FCV) affected countries such as Somalia rarely have funds to properly maintain assets. It is therefore 
+essential to identify innovative ways to ensure sustainability of the assets such as mobilizing resources 
+from the community and the private sector and ensure that the government has a system to monitor and 
+budget for the O&M needs. SURP II will finance a specific TA to support municipalities in ensuring proper 
+O&M of urban infrastructure assets.  
+ 
+51. 
+Ensuring inclusivity of all levels of government and relevant institutions requires that additional 
+time be budgeted in the project timetable. As Somalia’s political institutions are still in their infancy, there 
+can be ambiguity in the division of labor across different levels of government as well as across different 
+agencies. Ensuring that all levels of government and relevant agencies are involved in the project planning 
+and oversight in a constructive manner can therefore be a time-consuming process. The project 
+implementation timetable and workplan should therefore allocate sufficient time for key activities such 
+as recruitment of PIU staff, bid evaluation, and implementation of safeguard measures.  
+ 
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+52. 
+The proposed SURP II will be implemented on behalf of the Federal Government of Somalia (FGS) 
+by the BRA, Garowe Municipality, Kismayo Municipality and Baidoa Municipality. New cities in Galmudug 
+and Hirshabelle States will also be implementing entities in the project.  The Grant Agreement/Legal 
+Agreement will be signed between the World Bank and the Ministry of Finance at the federal level, 
+whereas each state will sign a subsidiary agreement with the Federal Government. The Federal 
+Government will have oversight of the project.  
+ 
+53. 
+Federal-level roles and responsibilities.  A federal inter-ministerial Steering Committee chaired 
+by the Office of the Prime Minister and the Aid Coordination Unit will be set up and would meet on a 
+quarterly basis or more frequently as needed. Other key line ministries such as the Ministry of Planning, 
+Investment and Economic Development (MoPIED), MoPW, and the Ministry of Finance will also be 
+represented. This Steering Committee will also include one representative from each Federal Member 
+State participating in the project.37 The Steering Committee will be responsible for providing strategic 
+guidance to the project, approving the inclusion of additional cities into the project and deciding on the 
+                                            
+37 The Mayor of Mogadishu would represent the Benadir Regional Administration and the Ministries of Public Works would 
+represent the other FMS.  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 26 of 72  
+     
+ 
+funding allocations across cities. Detailed terms of reference will be developed for the steering committee 
+to outline the composition, roles and responsibilities and procedures for decision making.  
+ 
+54. 
+A PCU will be set up at the federal level in the MoPW staffed with a Program Coordinator, FM 
+Specialist, Procurement Specialist, Environment/Social Safeguards Specialist, Gender Specialist, M&E 
+Specialist and other technical staff as needed.  The PCU will be responsible for providing coordination and 
+technical support to the municipalities as needed. The PCU will not manage the project funds related to 
+implementation of the civil works. The Program Coordinator will act as the Secretariat to the Steering 
+Committee. Other roles of the Program Coordinator are described in Annex 1: Implementation 
+Arrangements and Support Plan.  
+ 
+55. 
+State- level roles and responsibilities. State level inter-ministerial committees would be set up to 
+provide a platform for coordination, information dissemination and consultation at the State level. These 
+committees would include the Ministries of Public Works, Planning, Finance and Interior as well as the 
+Mayors of the cities benefiting from the project.  These committees have already been established in 
+Jubbaland and South West State but will need to be established in Puntland, Galmudug and Hirshabelle. 
+Given there will already be a federal level steering committee, an additional committee for BRA will not 
+be required. Subsidiary Agreements will be prepared and negotiated for each State to clearly outline the 
+roles and responsibilities of the State vis a vis the federal level.  
+ 
+56. 
+Municipal- level roles and responsibilities. The BRA, Garowe, Kismayo and Baidoa Municipalities 
+will have overall responsibility for project implementation. PIUs have already been established within the 
+BRA, Garowe, Kismayo and Baidoa Municipalities who report to the respective Mayors. They are staffed 
+with a Project Focal Point/Coordinators, Procurement Specialists, FM Specialists, Project Engineers, 
+Environment and Social Safeguard Specialists and M&E Specialists. Community Engagement Officers 
+(male and female) will be recruited. PIUs will: coordinate overall project implementation; ensure timely 
+payments to contractors, implement the relevant safeguard instruments, ensure continuous community 
+outreach and consultation, maintain project accounts and produce financial reports, undertake M&E 
+activities, develop and implement the GRM and report results to various stakeholders. Once Galmudug 
+and Hirshabelle enter the program, PIUs will be established in these cities. PIUs’ capacity will be 
+continuously strengthened by the World Bank technical staff.  
+ 
+57. 
+The PIUs will be supported by an engineering supervision consultant(s) who will be responsible 
+for monitoring the civil works contractors as well as monitoring adherence to the safeguard instruments. 
+A third-party monitoring agent will be contracted by the World Bank to provide quality assurance - carry 
+out spot checks on both the engineering quality of the civil works and adherence to the safeguard 
+instruments.  
+ 
+B. Results Monitoring and Evaluation  
+ 
+58. 
+A project monitoring system has been established by the PIUs to assess progress on indicators in 
+the projects results framework.  Data on activities and outputs will be included in regular monthly and 
+quarterly reports prepared by the PIUs based on inputs from the supervision agent and the Project 
+Engineer. The M&E Specialist at the PCU will be responsible for collating the data from the municipalities 
+and providing quality assurance.  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 27 of 72  
+     
+ 
+ 
+59. 
+An impact evaluation will be carried out across all four cities to measure the socio-economic 
+impacts of the project on different population groups with a particular focus on benefits for the vulnerable 
+people. The evaluation will include both quantitative and qualitative surveys. This will be complemented 
+by a continuous iterative beneficiary monitoring and regular social audit to allow the project to adjust the 
+implementation approach on a real-time basis.  
+ 
+C. Sustainability 
+ 
+60. 
+The SURP II is building on the ongoing SURP and is supporting the longer-term relationship 
+between enhanced municipal institutional capacity, municipal planning and improved service delivery. 
+The project will also be supporting the development of improved O&M plans across all four cities where 
+road and drainage infrastructure is being financed. These plans will factor in the available municipal 
+budget as well as financing needs for maintenance of existing infrastructure assets. In addition, the type 
+of surfacing selected for urban roads supported under this project would be surfacing that can be easily 
+maintained by the communities themselves with minimal support from the respective municipalities. 
+Maintenance committees composed of community members would be set up for all project supported 
+roads and these committees would be responsible for informing the municipalities of maintenance needs 
+and mobilizing community members for maintenance work as needed. These committees would be 
+trained under the project by the respective municipality and engineering supervision consultant.  
+ 
+IV. PROJECT APPRAISAL SUMMARY 
+ 
+A. Economic and Financial Analysis  
+ 
+61. 
+The following assumptions were made for the economic analysis:  
+ 
+• 
+Valuation of costs and benefits: based on market and shadow prices, with a Standard Conversion 
+Factor (SCF) of 0.85 applied to capital, and operations and maintenance, to account for market 
+price imperfections;  
+• 
+The capital cost of the project is assumed to be incurred in the first two years of the project, and 
+the operations and maintenance cost are assumed to be equivalent to 4 percent of the capital 
+cost of the project adjusted by the SCF; 
+• 
+Appraisal period: a 15-year appraisal period is selected; and 
+• 
+Discount rate: a 12 percent discount rate is applied. 
+ 
+62. 
+The economic analysis conducted as part of the project preparation process suggests that the 
+proposed interventions under sub-component 1.2 are economically feasible, with the net present value 
+(NPV) of the project being positive and the economic internal rate of return of the project being largely in 
+excess of the discount rate of 12 percent that is assumed. The stream of benefits derived from this project 
+consists of the: (i) value of greater access to public services; (ii) value of time saved commuting; and (iii) 
+value of greater economic integration of relatively isolated areas.  
+ 
+63. 
+The benefits of the project are estimated based on the daily traffic growth over the life of the 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 28 of 72  
+     
+ 
+project applied on the daily traffic estimates for 2020. Table 3 presents the daily traffic volume for all four 
+cities in 2020. 
+ 
+Table 3. Daily Traffic Estimates for Road Interventions  
+  
+Daily Traffic Volume  
+Cars and Utilities 
+Trucks 
+Buses 
+Mogadishu  
+6,842 
+2,795 
+5,624 
+Garowe  
+10,526 
+4,530 
+3,193 
+Baidoa 
+10,526 
+3,193 
+4,530 
+ 
+Source: Somalia Urban Resilience Project Phase II, Engineering Feasibility Studies for Mogadishu, Garowe 
+and Baidoa. 
+ 
+64. 
+For the city of Mogadishu, the results of the economic analysis suggest an NPV of US$50 million 
+and an IRR of 49 percent. For the city of Garowe, the NPV is estimated at US$67 million and the IRR is 
+estimated at 218 percent.  For the city of Baidoa, the NPV is estimated at US$61 million and the IRR is 
+estimated at 106 percent. (Table 4). 
+ 
+65. 
+The sensitivity analysis performed indicates that the economic rate of return for interventions 
+would remain significant in the event of potential downside adjustments to the economic assumptions 
+relied on for the economic analysis (Table 4).  
+ 
+Table 4. Sensitivity Analysis of Cost-benefit Analysis of Road Interventions 
+Alternative Scenarios 
+NPV 
+IRR 
+Mogadishu 
+Without sensitivity analysis 
+$50,403,498  
+49% 
+Costs increase by 10 percent 
+$47,874,082  
+44% 
+Benefits reduce by 10 percent 
+$42,833,733  
+43% 
+Benefits lag by two years 
+$36,290,869  
+30% 
+Garowe 
+Without sensitivity analysis 
+$67,264,217  
+218% 
+Costs increase by 10 percent 
+$66,534,858 
+195% 
+Benefits reduce by 10 percent 
+$59,808,437 
+193% 
+Benefits lag by two years 
+$55,177,198 
+132% 
+Baidoa  
+Without sensitivity analysis 
+$61,151,649 
+106% 
+Costs increase by 10 percent 
+$59,811,033  
+95% 
+Benefits reduce by 10 percent 
+$53,695,868  
+94% 
+Benefits lag by two years 
+$51,663,862  
+88% 
+Source: Based on World Bank staff calculations. 
+ 
+66. 
+The proposed project bears significant direct and indirect benefits. The direct benefits of this 
+Project include the reduced cost of transportation for individuals and for businesses. This bears a number 
+of indirect benefits which include greater access to public sectors and to markets, which can foster growth 
+in human capital and economic growth which justify the rationale for public sector engagement.  
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 29 of 72  
+     
+ 
+B. Technical Analysis  
+ 
+67. 
+The ongoing SUIPP/SUIPP Additional Financing has supported technical studies for investments 
+in Mogadishu, Hargeisa, and Garowe and is currently also supporting studies for Kismayo and Baidoa. In 
+Mogadishu, studies are available for 17km of primary roads and 19km of secondary roads and associated 
+drainage across 17 districts. In Garowe, studies are available for 2 bridges and 19 secondary roads. In 
+Kismayo and Baidoa, feasibility studies are being undertaken for a total of 50km of secondary roads and 
+associated drainage for both cities.  In Kismayo 16 roads of about 31 Kms have been prioritized and ranked 
+based on multi-criteria analysis during the study; while, in Baidoa 8 roads of about 21km have been 
+prioritized and ranked. As such, the project would be able to commence approximately US$16 million of 
+civil works soon after project effectiveness and an additional US$20 million in the first year.  
+ 
+68. 
+Investments in road upgrading and rehabilitation will be implemented using technology and 
+methods that are well known in Somalia (such as asphalt, concrete interlocking blocks, and cobblestone) 
+and no technical difficulties are foreseen in this area as long as qualified firms are engaged for the civil 
+works. All investments will be designed to correspond to local conditions and will make use of labor-
+intensive methods to the extent possible. To insure adequate compliance to technical design, the works 
+will be overseen by dedicated supervision consultants engaged by the municipalities, the PIU technical 
+team, and the end users or beneficiary community committees who have been involved in the road 
+selection and design process. 
+ 
+69. 
+The Feasibility Studies and Preliminary Engineering Designs undertaken under SUIPP determined 
+that the secondary and urban road investments in the four cities were technically feasible. While the 
+Bank’s mobility to the proposed roads was limited, these studies were undertaken by an outsourced firm 
+that was able to travel to the specific project sites.  
+ 
+70. 
+The SUIPP studies identified precast interlocking concrete paving blocks surfacing for secondary 
+roads in Mogadishu given the potential for generating short term income opportunities and the ability of 
+communities to maintain the roads themselves with little technical support. Asphaltic concrete (asphalt) 
+road surfacing was selected for urban roads in Mogadishu owing to the high traffic volumes on those 
+roads. In Garowe, Otta seal which is an asphalt surface treatment constructed by placing a graded 
+aggregate on top of a thick application of bituminous binding agent will be used.38 In Kismayo and Baidoa, 
+asphalt concrete roads with a mix of two base-course options has been recommended in the feasibility 
+studies. One option is cement/lime treated gravel base that has higher use of construction equipment, 
+and the other option is hand-packed stone base that is more labour intensive and will therefore promote 
+engagement of local community in the construction work.  
+ 
+71. 
+In Mogadishu and Garowe, the local construction industry has previously been involved in 
+construction of asphalt-based roads and therefore has the capacity to implement these proposed 
+investments. Such capacity is not present in Kismayo and Baidoa and firms in the two cities will either 
+form joint venture with experienced international firms or those from Mogadishu. Most material for the 
+construction of roads are readily available in Somalia while asphalt will be imported. 
+ 
+                                            
+38 This is a technology that will generate short term employment and is cheaper than asphalt since the material and 
+construction specification are not as strict as for asphalt. 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 30 of 72  
+     
+ 
+72. 
+During construction, contractors will be required to establish their own laboratory for quality 
+control tests in accordance with the works specifications. Alternatively, they will identify a suitable third-
+party laboratory to carry out required construction materials and works quality tests.  
+ 
+73. 
+For all four cities, a 20 percent infrastructure contingency will be provided for any changes in 
+physical quantities during construction.  
+ 
+C. Fiduciary 
+ 
+Financial Management  
+ 
+74. 
+The financial management residual risk is assessed as Substantial. Financial management capacity 
+challenges include: weak PFM legal framework including rudimentary inter-governmental fiscal relations 
+between the FGS and FMS as well as municipalities; inadequate financial management competencies and 
+internal controls; and rudimentary banking arrangements among others. Various mitigation measures are 
+designed specifically for the project. The SURP II will adopt the Use of Country Systems (UCS) in various 
+aspects of the project including for accounting and reporting, banking, oversight arrangements with the 
+Office of the Auditor General and staffing. This will be supported by TA with clear requirement for 
+knowledge transfer incorporated in the Term of Reference. The project would also focus on developing 
+FM capacity as part of the project activities. The project will be supported by the existing PIU 
+arrangements for the on-going SUIPP and the External Assistance Fiduciary Section (EAFS) Units that have 
+benefited from various fiduciary trainings. Overall the FM arrangements are acceptable for the 
+implementation of this operation. 
+ 
+  Procurement  
+ 
+75. 
+Procurement will be carried out in accordance with the requirements in the Procurement 
+Regulations for Borrowers under Investment Project Financing (IPF): Goods, Works, Non-Consulting 
+Services and Consulting Services dated July 1, 2016 (revised November 2017 and August 2018); Guidelines 
+on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits 
+and Grants (revised as of July 1, 2016); and provisions stipulated in the Financing Agreement. Given 
+Somalia’s FCV country status, procurement will be processed under the special procurement 
+arrangements referred to under paragraph 12 of Section III of the World Bank Policy on Investment Project 
+Financing dated September 30, 2018. 
+ 
+76. 
+The project design will provide a window to enable the Borrower to carry out advance 
+contracting and retroactive financing in accordance with Section V (paragraphs 5.1 and 5.2) of the World 
+Bank Procurement Regulations for IPF Borrowers. The retroactive financing will be allowed up to 20 
+percent of the Credit covering the expenditures incurred by the project from July 1, 2019. 
+77. 
+Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). The World 
+Bank’s New Procurement Framework (NPF) will apply to this project. According to the requirement of the 
+Procurement Regulations, the recipient prepared a PPSD, which describes how procurement activities will 
+support project operations for the achievement of the PDOs and deliver value for money.  Based on the 
+PPSD, the PP for the first 18 months has been prepared. The PP sets out the selection methods to be in 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 31 of 72  
+     
+ 
+followed by the Recipient during the project implementation in the procurement of goods, works and 
+consulting services. The PP also include the cost estimates, time schedules, the World Bank’s review 
+requirements, brief description of the activities/contracts etc. The PP will be updated at least 12 months, 
+or as required to reflect the actual project implementation needs, but each update shall require WBG 
+approval. All PPs will be publicly disclosed in accordance with World Bank Group (WBG) disclosure policy. 
+The procurement management risk for this project is assessed to be Substantial. Annex I provides 
+additional information on procurement management.  
+78. 
+Procurement implementation arrangement: The SURP II will be implemented in a decentralized 
+manner through municipalities. PIUs have been staffed with Procurement Specialists among other staff 
+through the ongoing SURP/SUIPP in Mogadishu, Garowe, Kismayo and Baidoa. The SURP II will be 
+implemented by the same PIUs.   
+79. 
+Systematic Tracking of Exchanges in Procurement (STEP): The WBG’s STEP system will be used 
+to prepare, clear and update PPs and conduct all procurement transactions for the project. The system 
+allows the systematic planning and tracking of procurement activities throughout the project cycle, 
+including online collaboration with Clients and recording service level standards through workflow. The 
+PIUs of Mogadishu, Garowe, Baidoa and Kismayo have already been trained on using STEP.  
+D. Legal Operational Policies 
+. 
+. 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+.
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 32 of 72  
+     
+ 
+E. Environmental and Social  
+ 
+80. 
+Potential environmental and social benefits. SURP II will have environmental benefits, including 
+(i) improved ambient air quality due to reduced traffic congestion as a result of improved traffic circulation 
+and dust suppression by the surfacing of heavily-trafficked roads; (ii) reduced vehicle wear and accident 
+hazards; (iii) improved pedestrian traffic safety; and (iv) reduced road flooding and reduced roadside 
+erosion. The social benefits of SURP II include: (i) improved community accessibility to schools, health care 
+centers, and other livelihood activities; (ii) improved security and safety through improved walkways and 
+night-time street lighting; (iii) employment opportunities for the community through construction and 
+maintenance of the municipal infrastructure; and (iv) positive economic impacts on livelihood and 
+businesses through cost savings on commuting, enhanced accessibility to municipal service points and 
+longer trading hours.  
+ 
+81. 
+Potential environmental and social risks and impacts and mitigations. Because of the nature 
+and relatively moderate scale of the civil works in urban environment, the environmental adverse impacts 
+from such physical works will be minor, temporary, and confined to the area immediately surrounding 
+the construction. However, the overall Environmental and Social Risks Classification (ESRC) of SURP II is 
+High since some key social risks of the project are high, including risks related to the security, GBV and 
+the displacement of IDPs. The client’s capacity to manage environmental and social risks in complex 
+political, legal and security circumstances is also limited. Additionally, the GBV risk rating for the project 
+is High.  Anticipated environmental risks and impacts may include dust generation, noise pollution, soil 
+erosion, surface water sedimentation, traffic interruptions, temporarily impeded pedestrian access, 
+pollution from construction wastes, as well as waste from worker campsites (where established). These 
+short-term impacts will be prevented or mitigated with standard operating procedures and good 
+construction management practices. Anticipated social risks and impacts include: (i) land acquisition and 
+physical and economic displacement; (ii) potential risks associated with labor and working conditions such 
+as OHS risks, child labor, labor influx, and risks of sexual exploitation and abuse (SEA), sexual harassment 
+(SH) and other forms of gender-based violence (GBV); (iii) potential exclusion of disadvantaged and 
+vulnerable groups from project benefits; and (iv) potential risks of increased social tension in the 
+community; and (v) security risks associated with terrorist attacks for stakeholders including project 
+workers and the community. These risks will be mitigated through preparation and implementation of 
+environmental and social instruments; adoption of mitigation measures proposed in WB Good Practice 
+Notes on labor influx and GBV (such as tapping of local workforce, use of code of conduct, collaboration 
+with local communities and GBV-related service providers); inclusion of disadvantaged and vulnerable 
+groups in project activities/benefits including provision of project-related job opportunities; effective 
+stakeholder engagement including an inclusive and transparent consultation process and functional GRM; 
+and measures to minimize security risks (such as protection of project workers by security authorities).  
+ 
+82. 
+Environmental and social instruments for infrastructure investment. The World Bank ESF will be 
+applicable to SURP II. While the details of individual subprojects will be determined during the project 
+implementation, SURP II takes the framework approach during the project preparation. The 
+Environmental and Social Management Framework (ESMF) and the Resettlement Policy Framework (RPF) 
+prepared under SURP/SUIPP with WB safeguards policies (OPs/BPs) have been updated and the 
+Stakeholder Engagement Framework (SEF) and the Labor Management Procedures (LMP) have been 
+newly prepared in compliance with the ESF. The public consultations on these frameworks were 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 33 of 72  
+     
+ 
+conducted from April to August 2019 in all municipalities, involving a broad range of stakeholders, 
+including potential project-affected communities and vulnerable/disadvantaged groups. The final ESMF 
+was disclosed on September 30, 2019, the RPF disclosed on October 2, 2019, and the LMP and SEP 
+disclosed on October 3, 2019. Consistent with these frameworks, subproject-specific environmental and 
+social instruments will be prepared, reviewed and disclosed before the start of civil works of each 
+subproject. Relevant provisions of subproject-specific instruments will be incorporated into procurement 
+documents. Key environmental and social commitments of the client have been included in the ESCP.    
+ 
+83. 
+Safeguards approach to TA component. While the proposed technical assistance under 
+Component 2 (Displacement; O&M of Urban Infrastructure; and Urban Governance and Services) will not 
+fund any infrastructure investment, the application of the results of such TA activities, such as policy 
+advice, analytics and training events for government authorities, may have adverse environmental and 
+social implications. To address such concerns, the ESCP includes a commitment of the borrower to ensure 
+that all TA and capacity buidling activities conducted under the Project shall only be undertaken pursuant 
+to terms of reference reviewed and approved by the Bank. Such terms of reference shall ensure that the 
+TA takes into account, and calls for application of relevant provisions of ESSs and the borrower’s own laws 
+relating to the environmental and social aspects. 
+ 
+. 
+. 
+The screening of environmental and social risks and impacts was conducted by the task team's environmental and 
+social specialists through site visits, consultations with key stakeholders and the implementation of the ongoing SURP I 
+project. 
+. 
+ 
+F. GRIEVANCE REDRESS SERVICES 
+ 
+84. 
+Communities and individuals who believe that they are adversely affected by a World Bank (WB) 
+supported project may submit complaints to existing project-level grievance redress mechanisms or the 
+WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed 
+in order to address project-related concerns. Project affected communities and individuals may submit 
+their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, 
+or could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be 
+submitted at any time after concerns have been brought directly to the World Bank's attention, and 
+Bank Management has been given an opportunity to respond.  For information on how to submit 
+complaints to the World Bank’s corporate Grievance Redress Service (GRS), please visit 
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. 
+For information on how to submit complaints to the World Bank Inspection Panel, please visit 
+www.inspectionpanel.org. 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 34 of 72  
+     
+ 
+G. KEY RISKS 
+ 
+85. 
+The overall risk rating for SURP II is High. Through this project, investments will be channeled 
+through municipal governments at a significant scale for the first time which poses serious risks and 
+possible implementation delays. Risks are posed by the challenging operational environment, continued 
+insecurity, and inadequate institutional capacity. The Bank will continue to provide intensive supervision 
+and oversight to the PIUs at the municipal level and efforts will be made to significantly strengthen federal 
+level implementation oversight and supervision capacity through the PCU. The Project Implementation 
+Manual (PIM) will outline clear reporting and accountability mechanism and includes guidance to the PIUs 
+on how to address the impact of insecurity on the proposed civil works in the project.  
+ 
+86. 
+Insecurity risk is High. There are areas across all cities that remain in conflict which affects access 
+to locations and insecurity for staff, making monitoring difficult.  Moreover, the security situation may 
+prevent or delay the civil works and achievement of project objectives. The project will need to develop 
+clear guidelines for addressing insecurity and possibly suspending the civil works which will be outlined in 
+the PIM.  The Bank’s supervision and oversight of civil works will be supported through a third-party 
+monitoring agent. It is important to note however that the risks related to Al Shabaab activity in urban 
+areas cannot be fully mitigated. 
+ 
+87. 
+Political and governance risks are High. Al Shabaab still retains control of territory, particularly in 
+rural areas but is also present in the cities of Mogadishu, Kismayo and Baidoa.  In Mogadishu, the group 
+collects rents from major businesses which can potentially affect project implementation.  Moreover, the 
+political process, including the relationship between the FMS and the central FGS remains fragile. This risk 
+can enter the project level with political competition over scarce financial resources. Mitigating measures 
+will include regular communication on project activities, allocations and processes with all levels of 
+government including through the project steering committee. All procurements and awarded contracts 
+will be publicly disclosed.  
+ 
+88. 
+Technical design of project risk is Substantial. Civil works are not likely to be complex. The risk 
+however is rated as substantial given these would be contracted and supervised through municipalities. 
+In Kismayo and Baidoa, these municipalities would be implementing infrastructure investments for the 
+first time. PIUs will be staffed with a Project Engineer to support the technical aspects of works. The 
+project will also be supported by an engineer on the Bank task team and a contracted engineering 
+supervision agent(s) with extensive experience in civil works supervision in Somalia.  
+ 
+89. 
+The institutional capacity for implementation and sustainability risks are High. Capacity and 
+authority in Somalia are relatively weak given the history of conflict and mistrust with public institutions.  
+All PIUs would need to ensure the recruitment of qualified consultants and conform to the guidelines of 
+the Civil Service Commission. These staff will continue to receive regular training and support both 
+through the project management and institutional strengthening component in the project. Intensive 
+support will be provided at key stages of implementation such as during evaluation of bids for contractors.  
+ 
+90. 
+Fiduciary risks are High.  The financial management and procurement environment in Somalia 
+are challenging and fraud and corruption risks in the project are high given the significant amount of civil 
+works being implemented. Although anticorruption and public-sector regulations are in place, problems 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 35 of 72  
+     
+ 
+persist, contributing to low levels of trust in government institutions. Mitigation measures for governance 
+issues have been built into the project design with a strict fiduciary control mechanism and application of 
+Bank fiduciary rules as well as a focus on social accountability.  The project will ensure that the PIUs always 
+have dedicated procurement and financial management specialists in place and that the PIM includes a 
+well described fiduciary management process. A Monitoring Agent further supports the MPF projects on 
+managing fiduciary challenges. Moreover, the Bank’s Integrity Vice Presidency (INT) Prevention Services 
+Unit carried out a portfolio wide review for Somalia in coordination with the country management and 
+task teams to identify fraud and corruption mitigation measures that can be applied.  
+ 
+91. 
+Environment and Social risks are High.  Due to the nature and relatively moderate scale of the 
+civil works in urban environment, the adverse environmental impacts from such physical works will be 
+minor, temporary, and confined to the area immediately surrounding the construction. However, the 
+overall environmental and social risks are high given the overall insecurity in Somalia, the high levels of 
+GBV risk and the displacement of IDPs. The client’s capacity to manage environmental and social risks in 
+complex political, legal and security circumstances is also limited. Project activities may also cause physical 
+and economic displacement of several households and structures, including those of established roadside 
+vendors, encroaching on the roadways. The civil work will entail risks related to labor and working 
+conditions, such as occupational and community health and safety risks and child labor. The project might 
+also exacerbate risks related to persistent social tensions and incidence of violence (for example, dispute 
+over physical/economic displacement or dissatisfaction of districts that have not been chosen for 
+subproject locations). Mitigation measures will include the implementation of resettlement action plans 
+and labor management procedures, inclusive and transparent stakeholder engagement, and effective 
+grievance redress mechanisms, and measures to minimize security risks (such as protection of project 
+workers by security authorities). To strengthen the capacity of the Somali governments, including 
+municipal governments, to manage environmental and social risks and impacts with the ESF, additional 
+support from the Bank task team and the supervision consultant will be deployed. 
+ 
+92. 
+GBV risks are High. Incidence of GBV in Somalia is a significant contextual and project-related 
+challenge. Assessment of project-related risks of SEA, sexual harassment and other forms of GBV has been 
+conducted during project preparation as per the WB Good Practice Note on Addressing GBV. This 
+assessment indicates that the GBV risks of the project are high. Given such risks and the context of 
+pervasive insecurity. The project will adopt a robust and comprehensive approach to address potential 
+GBV risks. Relevant mitigation measures to address these risks (e.g., integrating Codes of Conduct with 
+SEA/GBV-related protections; community consultations and sensitization activities to raise awareness of 
+potential risks; hiring of GBV experts for the project implementation and monitoring (such as in the PIU, 
+engineering and supervision consultant and third-party monitoring agent); mapping activities to identify 
+potential service providers in project affected areas; development of a GBV Action Plan; and 
+establishment of GRM with procedures and channels to enable safe, confidential and ethical reporting of 
+GBV incidents) to be articulated in relevant environmental and social instruments. Given security risks and 
+potential risks of sexual harassment in recruitment and retention of skilled and unskilled female workers, 
+additional measures to address workplace sexual harassment and to assure safety of female workers hired 
+under the project will be also identified. GBV sensitization activities, in line with global guidelines on 
+ethical engagement, should be integrated into the Stakeholder Engagement Plan. Mechanisms to enable 
+monitoring of GBV risk management through Third-Party Monitoring will be established. The project will 
+establish partnerships and enable financing with identified GBV service providers. The project includes 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 36 of 72  
+     
+ 
+provision of capacity building and training of relevant stakeholders, including contractors and project 
+workers, in additional to capacity building for government partners. GBV risks will be monitored 
+throughout project implementation through regular re-assessment, particularly as new project locations 
+are determined, and through regular monitoring activities. 
+ 
+93. 
+Stakeholder risk is High. The current context in Somalia, characterized by the lack of trust 
+between key groups in society, and the accompanying high levels of contestation and violence, presents 
+a high risk stakeholder environment for this project.  Opposition from stakeholders (civil society, private 
+sector organizations, other donors and other members of the general public), or districts that have not 
+been chosen for investments under SURP II are possible.  This can potentially have a negative impact on 
+the achievement of the PDO.  The respective municipalities and Project Coordinators will play a key role 
+in managing communications with stakeholders. Moreover, the project’s GRM would help manage 
+grievances from communities and the private sector.  
+ 
+94. 
+Table 5 below outlines key risk mitigation measures likely to be included in this project.  
+ 
+Table 5. Proposed Risk Mitigation Measures 
+ 
+Fiduciary 
+Use of direct payments  
+The direct payment method will be used for all larger 
+transactions such as payments to engineering 
+supervision consultants, consultants carrying out 
+technical studies and contractors as applicable.  
+Project Bank Accounts 
+The project would have Designated Accounts 
+managed by the Office of the Accountant General in 
+the federal Ministry of Finance with project accounts 
+managed by the State Ministries of Finance. All 
+transactions for municipalities would be processed 
+through their respective State EAFS. 
+Ceiling of the Designated Account  
+The DA ceilings would be retained at a maximum of 2 
+quarters of forecasted expenditures to reduce the 
+amount of funding that the project has access to at 
+any given time. 
+Quarterly review of project budget  
+The PIUs will be required to submit budgets including 
+all operating expenses to the Bank for review and 
+approval on a quarterly basis.  
+Procurement reviews 
+All procurement activities regardless of value, nature, 
+categories or packages are treated as prior reviews 
+and reviewed by the TTL and procurement staff. 
+Hands on procurement support  
+The World Bank will engage a short-term procurement 
+consultant to provide hands on support to the 
+Government in procurement – particularly during the 
+bid evaluation process for civil works. The possibility 
+of outsourcing all procurement to a Procurement 
+Agent at the federal level will be explored.  
+Monitoring/ 
+Verification 
+Third-party monitoring 
+A third-party monitoring agent will be engaged to 
+verify the completion of sub-projects, the quality of 
+construction and the adherence to safeguard policies. 
+The potential of using the Third-Party Monitor for 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 37 of 72  
+     
+ 
+monitoring of GBV related risks and incidences is being 
+explored. 
+Geo-enabled monitoring 
+Geo-tagging of sub-projects to better monitor and 
+verify implementation progress will be introduced; 
+this is essential for the more inaccessible areas. 
+Engineering Supervision Consultant 
+A qualified engineering supervision consultant(s) will 
+be recruited to supervise the day to day construction 
+of the civil works. The Consultant will also be 
+responsible for ensuring adherence to the Banks 
+environment and social safeguard policies as well as 
+the participatory and inclusive selection of unskilled 
+labor.  
+Enhanced 
+conflict 
+sensitivity  
+Strengthened Grievance Redress 
+and Feedback Mechanism 
+Special attention will be provided to the GRM which 
+will ensure project related tensions/conflict are 
+addressed early on. The GRM will provide multiple 
+channels for uptake of grievances, keeping in mind the 
+context of Somalia with low literacy rates and limited 
+mobility of women. Specific provisions to enable safe, 
+confidential and ethical reporting of SEA/SH or GBV 
+incidence will be identified and integrated into GRM 
+design. 
+ 
+ . 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 38 of 72  
+     
+ 
+H. RESULTS FRAMEWORK AND MONITORING 
+ 
+ 
+      
+Results Framework 
+COUNTRY: Somalia  
+Somalia Urban Resilience Project II 
+ 
+Project Development Objectives(s) 
+To strengthen public service delivery capacity of local governments and increase access to urban infrastructure and services in selected areas. 
+ 
+Project Development Objective Indicators 
+ 
+RESULT_FRAME_TBL_PDO 
+ 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+ 
+1 
+ 
+To support the construction of key urban infrastructure in targeted cities  
+People with access to all season roads within a 
+500 meter range (% female, %IDPs, %host 
+communities) (Number)  
+3,500.00 
+5,000.00 
+30,000.00 
+Financed subprojects functioning and delivering 
+services one year after completion. (Percentage)  
+0.00 
+90.00 
+90.00 
+Municipalities with clean financial project audits 
+that continue to remain eligible for the project 
+(Number)  
+0.00 
+4.00 
+4.00 
+ 
+PDO Table SPACE 
+ 
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 39 of 72  
+     
+ 
+Intermediate Results Indicators by Components 
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+1 
+Urban Infrastructure and Services  
+Urban roads rehabilitated or upgraded 
+(Kilometers)  
+0.00 
+15.00 
+45.00 
+Pedestrian walkways constructed (Kilometers)  
+0.00 
+5.00 
+10.00 
+Person days of employment created (days, % 
+female, % IDPs, % host) (Number)  
+0.00 
+40,000.00 
+100,000.00 
+Subprojects with post-construction Operations & 
+Maintenance plans (Number)  
+0.00 
+10.00 
+20.00 
+Number of women engaged in unskilled labor 
+activities in the project (Number)  
+0.00 
+15.00 
+50.00 
+Beneficiaries satisfied that infrastructure met their 
+needs (number, % female, %IDPs) (Percentage)  
+0.00 
+60.00 
+70.00 
+Institutional Strengthening and Analytics  
+Inter-governmental forum discussions held 
+between federal/state/municipal levels (Number)  
+0.00 
+2.00 
+4.00 
+Municipalities with improved O&M plans 
+(Number)  
+0.00 
+2.00 
+4.00 
+Project Management and Capacity Building  
+Project and municipal staff formally trained on 
+core municipal functions (Number)  
+0.00 
+35.00 
+80.00 
+Participants in consultation activities during 
+project implementation (Number)  
+0.00 
+150.00 
+400.00 
+Greivances registered related to delivery of 
+project benefits that are addressed (Percentage)  
+0.00 
+60.00 
+85.00 
+Women engaged in consultation activities during 
+project implementation (Number)  
+0.00 
+30.00 
+100.00 
+Contingent Emergency Response  
+ 
+The World Bank 
+ 
+Somalia Urban Resilience Project Phase II (P170922) 
+ 
+ 
+ 
+ 
+Page 40 of 72  
+     
+ 
+RESULT_FRAME_TBL_IO 
+ 
+ 
+ 
+ 
+Indicator Name 
+DLI 
+Baseline 
+Intermediate Targets 
+End Target 
+ 
+ 
+1 
+Specific Operation Manual developed for crisis 
+response (Yes/No)  
+No 
+Yes 
+Beneficiaries covered under the activated crisis 
+response (Number)  
+0.00 
+0.00 
+ 
+IO Table SPACE 
+ 
+UL Table SPACE 
+ 
+Monitoring & Evaluation Plan: PDO Indicators 
+Indicator Name 
+Definition/Description 
+Frequency 
+Datasource 
+Methodology for Data 
+Collection 
+Responsibility for Data 
+Collection 
+People with access to all season roads 
+within a 500 meter range (% female, 
+%IDPs, %host communities) 
+All-season road is defined as 
+a road that is p

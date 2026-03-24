@@ -1,0 +1,26 @@
+{"event": "pad_filter_fallback", "pid": "P148586", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P158505", "doc_type": "PAD", "headers_found": 4, "reason": "Fewer than 5 headers detected; returning full text."}
+P148586.txt                                         status=fallback      headers=  0  reduction=  0.0%
+P158505.txt                                         status=fallback      headers=  4  reduction=  0.0%
+P158696.txt                                         status=filtered      headers= 22  reduction=  8.6%
+P158952.txt                                         status=filtered      headers= 22  reduction=  8.5%
+P162901.txt                                         status=filtered      headers= 30  reduction= 27.8%
+P162904.txt                                         status=filtered      headers= 30  reduction= 35.8%
+P164164.txt                                         status=filtered      headers= 27  reduction= 28.9%
+P166059.txt                                         status=filtered      headers= 19  reduction= 15.8%
+P166220.txt                                         status=filtered      headers= 22  reduction= 19.8%
+P171777.txt                                         status=filtered      headers= 11  reduction= 13.7%
+P172979.txt                                         status=filtered      headers= 30  reduction= 27.8%
+P174300.txt                                         status=filtered      headers= 18  reduction= 15.0%
+P174461.txt                                         status=filtered      headers= 19  reduction= 18.4%
+P174566.txt                                         status=filtered      headers= 22  reduction= 19.8%
+P175483.txt                                         status=filtered      headers=  7  reduction= 15.1%
+P176772.txt                                         status=filtered      headers= 25  reduction= 21.4%
+P178033.txt                                         status=filtered      headers= 13  reduction= 15.3%
+P178836.txt                                         status=filtered      headers= 23  reduction= 27.6%
+P178988.txt                                         status=filtered      headers= 20  reduction= 15.8%
+P178992.txt                                         status=filtered      headers= 25  reduction= 35.5%
+P181415.txt                                         status=filtered      headers= 18  reduction= 15.0%
+P181612.txt                                         status=filtered      headers= 11  reduction= 13.7%
+
+Summary: 22 files | 20 filtered (avg 20.0% reduction) | 2 fallback | 0 passthrough

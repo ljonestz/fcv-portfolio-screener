@@ -79,6 +79,9 @@ def normalize_dims(dims):
                     'rating':       d.get('rating', score_to_rating(score)),
                     'key_quote':    d.get('key_quote', d.get('evidence', '')),
                     'rationale':    d.get('rationale', ''),
+                    # NEW — null when no ISR adjustment was made (NOT copied from numeric_score)
+                    'pad_score':         d.get('pad_score', None),
+                    'adjustment_reason': d.get('adjustment_reason', None),
                 })
         return sorted(result, key=lambda x: x['id'])
     return []
@@ -149,6 +152,10 @@ def normalize(r):
         'gap_matrix_cell':      computed_gap,
         'key_finding':          r.get('key_finding', ''),
         'dimensions':           normalize_dims(r.get('dimensions', [])),
+        # NEW — backward-compatible ISR fields (default to absent/null if not present)
+        'isr_count':            r.get('isr_count', 0),
+        'score_adjusted':       r.get('score_adjusted', False),
+        'trajectory':           r.get('trajectory', None),
     }
 
 

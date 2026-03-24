@@ -1,0 +1,2492 @@
+ 
+                                                   
+ 
+ 
+ 
+  
+FOR OFFICIAL USE ONLY 
+Report No: PAD4224  
+ 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON A 
+ 
+ 
+PROPOSED GRANT 
+ 
+IN THE AMOUNT OF SDR 106.5 MILLION 
+(US$150 MILLION EQUIVALENT) 
+ 
+TO THE 
+ 
+ 
+FEDERAL REPUBLIC OF SOMALIA  
+ 
+FOR THE 
+SOMALI ELECTRICITY SECTOR RECOVERY PROJECT 
+ 
+ 
+November 15, 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Energy and Extractives Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+This document may be updated following Board consideration and the updated document will be made 
+publicly available in accordance with the Bank’s policy on Access to Information. 
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS  
+ 
+(Exchange Rate Effective {September 30, 2021}) 
+ 
+Currency Unit =   US$ 
+US$1 = SDR 0.71 
+SDR 1 = US$1.41 
+ 
+FISCAL YEAR 
+July 1 - June 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith E. Hansen 
+Acting Regional Director: Ashish Khanna 
+Practice Manager: Erik Magnus Fenstrom 
+Task Team Leader(s): Patrick Thaddayos Balla, Paul Baringanire, Chiara Odetta 
+Rogate 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+BAU 
+Business as Usual 
+BESS 
+Battery Energy Storage Systems 
+BOQ 
+Bill of Quantities 
+BSSF 
+Business Services Support Firm 
+CCS 
+Corporate Communication Strategy 
+CERC 
+Contingent Emergency Response Component   
+CMU 
+Country Management Unit 
+CPF 
+Country Partnership Framework 
+CRI 
+Corporate Result Indicator 
+DA 
+Designated Account 
+DSI 
+Design Supply Installation 
+E&S 
+Environmental and Social 
+EAFS 
+External Assistance Fiduciary Section 
+EAPP 
+Eastern Africa Power Pool 
+ENEE 
+Ente Nazionale Energia Elettricaia (Somalia National Electric Corporation) 
+EPC 
+Engineering Procurement and Construction 
+ERR 
+Economic Rate of Return 
+ESF 
+Environmental and Social Framework 
+ESI 
+Electricity Supply Industry 
+ESIA 
+Environmental and Social Impact Assessment 
+ESMF 
+Environmental and Social Management Framework 
+ESMP 
+Environmental and Social Management Plan 
+ESRS 
+Environmental and Social Review Summary 
+ESCP 
+Environmental and Social Commitment Plan 
+ESP 
+Energy Services Provider 
+ESRES 
+Energy Security and Resource Efficiency in Somaliland 
+ESRC 
+Environmental and Social Risk Classification 
+ESSA 
+Environment and Social Standards Advisor 
+ESWG 
+Energy Sector Working Group 
+FCDO 
+Foreign, Commonwealth & Development Office 
+FCV 
+Fragility, Conflict and Violence 
+FGS 
+Federal Government of Somalia 
+FM 
+Financial Management 
+FMIS 
+Financial Management Information System 
+FMS 
+Federal Member States 
+FNTC 
+Federalization Negotiation Technical Committee 
+GCC 
+Gulf Cooperation Council 
+GDP 
+Gross Domestic Product 
+GEEL 
+Growth, Employment, Enterprise and Livelihood 
+GER 
+Gross Enrollment Rate 
+GHG 
+Greenhouse Gas 
+GNI 
+Gross National Income 
+GoSL 
+GRC 
+Government of Somaliland 
+Grievance Redress Committee 
+GRS 
+Grievance Redress Service 
+ 
+ 
+ 
+ 
+ 
+HIPC 
+Highly Indebted Poor Country 
+HOAI 
+Horn of Africa Initiative 
+HOA RISES 
+Horn of Africa Regional Integration for Sustainable Energy Supply 
+HSDG 
+High Speed Diesel Generator 
+IA 
+Implementing Agency 
+IBRD 
+International Bank for Reconstruction and Development 
+IDA 
+International Development Association 
+IDP 
+Internally Displaced Persons 
+IFC 
+International Finance Corporation 
+IFI 
+International Financial Institutions 
+IFR 
+Interim Financial Reports 
+IPF 
+Investment Project Financing 
+IPSAS 
+International Public-Sector Accounting Standards 
+ISA 
+International Standards on Auditing 
+JMR 
+Joint Meter Reading 
+KfW 
+Kreditanstalt fur Wiederaufbau (German Development Bank) 
+LMP 
+Labor Management Procedures 
+LPG 
+Liquefied Petroleum Gas 
+LV 
+Low Voltage 
+M&E 
+Monitoring and Evaluation 
+MIS 
+Management Information System 
+MoEM 
+Ministry of Energy and Mines 
+MoEWR 
+Ministry of Energy and Water Resources 
+MoF 
+Ministry of Finance 
+MPA 
+Multi-Phase Programmatic Approach 
+MV 
+Medium Voltage 
+NAPA 
+National Adaptation Program of Action 
+NDC 
+Nationally Determined Contribution 
+NDP 
+National Development Plan 
+NGO 
+Nongovernmental Organization 
+NPF 
+New Procurement Framework 
+O&M 
+Operation and Maintenance 
+OE 
+Owner’s Engineer 
+PAEM 
+Pan-Arab Electricity Market 
+PDO 
+Project Development Objective 
+PFM 
+Public Financial Management 
+PforR 
+Program for Results 
+POM 
+Project Operations Manual 
+PIU 
+Project Implementation Unit 
+PP 
+Procurement Plan 
+PrDO 
+Program Development Objective 
+PPSD 
+Project Procurement Strategy for Development 
+PSC 
+Project Steering Committee 
+PSMP 
+Power Sector Master Plan 
+PV 
+Photovoltaic 
+RPF 
+Resettlement Policy Framework 
+SAPP 
+Southern Africa Power Pool 
+ 
+ 
+ 
+ 
+ 
+SCoA 
+Standard Chart of Accounts 
+SDG 
+Sustainable Development Goal 
+SEAH 
+Sexual Exploitation Abuse and Harassment 
+SEAP 
+SEP 
+Somali Electricity Access Project 
+Stakeholder Engagement Plan 
+SESIA 
+Sectoral Environmental and Social Impact Assessment 
+SESRP 
+Somali Electricity Sector Recovery Project 
+SFMIS 
+Somalia Financial Management Information System 
+SHS 
+Solar Home Systems 
+SIDA 
+Swedish International Development Agency 
+SL 
+Somaliland 
+SLFMIS 
+Somaliland Financial Management Information Systems 
+SMF 
+Security Management Framework 
+SMP 
+Security Management Plan 
+SOE 
+Statements of Expenditures 
+SOP 
+Series of Projects 
+STEM 
+Science, Technology, Engineering and Mathematics 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TA 
+Technical Assistance 
+ToR 
+Terms of Reference 
+UCS 
+Use of Country Systems 
+UNDP 
+United Nations Development Program 
+USAID 
+United States Agency for International Development 
+WDR 
+World Development Report 
+WtP 
+Willingness to Pay 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+DATASHEET ............................................................................................................................. 1 
+I. 
+STRATEGIC CONT EXT ....................................................................................................... 7 
+A. Country Context ............................................................................................................................. 7 
+B. Sectoral and Institutional Context .................................................................................................. 8 
+C. Relevance to Higher Level Objectives ........................................................................................... 14 
+II. 
+PROJECT DESCRIPTION ................................................................................................... 15 
+A. Project Development Objective .................................................................................................... 15 
+B. Project Components ..................................................................................................................... 16 
+C. Project Beneficiaries ..................................................................................................................... 21 
+D. Results Chain ................................................................................................................................ 22 
+E. Rationale for Bank Involvement and Role of Partners .................................................................. 23 
+F. Lessons Learned and Progress and Reflected in the Project Design.............................................. 23 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................. 25 
+A. Institutional and Implementation Arrangements ......................................................................... 25 
+B. Results Monitoring and Evaluation Arrangements ....................................................................... 25 
+C. Sustainability ................................................................................................................................ 26 
+IV. PROJECT APPRAISAL SUMMARY..................................................................................... 27 
+A. Technical, Economic and Financial Analysis (if applicable) ........................................................... 27 
+B. Fiduciary ....................................................................................................................................... 28 
+C. Legal Operational Policies ............................................................................................................. 30 
+D. Environmental and Social ............................................................................................................. 30 
+V. GRIEVANCE REDRESS SERVICES ...................................................................................... 34 
+VI. KEY RISKS ....................................................................................................................... 34 
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................... 38 
+ANNEX 1: Description of Series of Projects (SOP) ....................................................................... 50 
+ANNEX 2: Implementation Arrangements and Support Plan ....................................................... 54 
+ANNEX 3: Economic and Financial Analysis ................................................................................ 71 
+ANNEX 4:  Gender Action Plan ................................................................................................... 83 
+ANNEX 5: Donor Activities......................................................................................................... 88 
+ANNEX 6: Least Cost Geospatial Electrification Plan to Achieve Universal Access in Somalia ....... 89 
+ANNEX 7: Climate Vulnerability Context .................................................................................... 91 
+ANNEX 8: IFC Support to Somali Energy Sector .......................................................................... 95 
+ 
+ 
+Page 1 of 95 
+ 
+ 
+ 
+. 
+      
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Somali Electricity Sector Recovery Project 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P173088 
+Investment Project 
+Financing 
+High 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component  (CERC) 
+[✓] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[✓] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+08-Dec-2021 
+31-Dec-2026 
+Bank/IFC Collaboration    
+Joint Level 
+Yes 
+Complementary or Interdependent project requiring active coordination 
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to increase access to lower cost and cleaner electricity supply in project areas 
+and to reestablish the electricity supply industry. 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 95 
+     
+ 
+ 
+Component 1 –Subtransmission and distribution network reconstruction, 
+reinforcement and operations efficiency in the major load centers of Mogadishu and 
+Hargeisa  
+  75.00 
+ 
+Component 2 –Hybridization and battery storage systems for minigrids  
+  20.00 
+ 
+Component 3 – Stand-alone solar off-grid access to public institutions (health and 
+education)  
+  40.00 
+ 
+Component 4 -Institutional development and capacity building  
+  15.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Republic of Somalia  
+Implementing Agency: 
+ Ministry of Energy and Minerals, Somaliland  
+ Federal Ministry of Energy and Water Resources (MoEWR)  
+ Ministry of Finance, Somaliland  
+ Ministry of Finance, Federal Republic of Somalia  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+150.00 
+Total Financing 
+150.00 
+of which IBRD/IDA  
+150.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+150.00 
+          IDA Grant 
+150.00 
+ 
+  
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+ 150.00 
+   0.00 
+ 150.00 
+National PBA 
+   0.00 
+ 150.00 
+   0.00 
+ 150.00 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 95 
+     
+ 
+ 
+Total 
+   0.00 
+ 150.00 
+   0.00 
+ 150.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+Annual 
+ 
+ 
+ 
+   0.00 
+   2.00 
+  12.50 
+  34.60 
+  61.90 
+  39.00 
+   0.00 
+Cumulative 
+ 
+ 
+ 
+   0.00 
+   2.00 
+  14.50 
+  49.10 
+ 111.00 
+ 150.00 
+ 150.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Energy & Extractives 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Moderate 
+4. Technical Design of Project or Program 
+⚫ Moderate 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ Substantial 
+6. Fiduciary 
+⚫ Substantial 
+7. Environment and Social 
+⚫ High 
+8. Stakeholders 
+⚫ Moderate 
+9. Other 
+⚫ High 
+10. Overall 
+⚫ Substantial 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 95 
+     
+ 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 95 
+     
+ 
+ 
+ Sections and Description 
+Section I.B.1(b) of Schedule 2 to the Financing Agreement:   
+FGS to maintain a PIU headed by a Project Manager/Coordinator assisted by multi-disciplinary and competent staff 
+satisfactory to the Association 
+ 
+ 
+ 
+ Sections and Description 
+Section I.B.1(d) of Schedule 2 to the Financing Agreement: 
+FGS to select and hire, by not later than three (3) months after the Effective Date, the services of a consulting firm 
+acceptable to the Association in order to perform the functions of the owner’s engineer 
+ 
+ 
+ 
+ Sections and Description 
+Section I.B.1(e) of Schedule 2 to the Financing Agreement: 
+FGS to maintain throughout at least the initial period of one (1) year of implementation of its Respective Activities 
+under the Project, the services of an environmental and social development consulting firm (the “E&S Consultant”) 
+acceptable to the Association, to carry out the environmental and social monitoring and supervision of the Project 
+ 
+ 
+ 
+ Sections and Description 
+Section I.C.1 of Schedule 2 to the Financing Agreement: 
+FGS to prepare and adopt a Project Operations Manual (POM) in a manner and substance satisfactory to the 
+Association and ensure that the Project is implemented in accordance therewith. 
+ 
+ 
+ 
+ Sections and Description 
+Section I.D.1 of Schedule 2 to the Financing Agreement: 
+Prior to commencing any civils works for sub-project benefiting one or more ESPs the FGSto agree in writing with 
+the respective ESPs the terms and conditions for the update of the ESP(s)’ license and/or concession agreement(s) 
+ 
+ 
+ 
+ Sections and Description 
+Section I.E.of Schedule 2 to the Financing Agreement: 
+The FGS shall select and hire, by no later than one (1) year after the Effective Date, the services of a consulting firm 
+acceptable to the Association, to provide business support services to Beneficiary ESPs 
+ 
+ 
+ 
+ Sections and Description 
+Section I.F.1 of Schedule 2 to the Financing Agreement: 
+FGS to prepare and furnish to the Association by no later than October 31st of each yearan annual work plan and 
+budget in accordance with the POM 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has established and operationalized the PSC and the 
+ESWG, in a manner and substance satisfactory to the Association 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 95 
+     
+ 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has prepared and formally adopted the Project 
+Operation Manual for its Respective Activities under the Project in a 
+manner and substance satisfactory to the Association, pursuant to 
+Section I.C.1 of Schedule 2 to this Agreement 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has selected and hired (and/or seconded from its 
+own staff), to strengthen the capacity of the Project 
+Implementation Unit, a security advisor with experience and 
+qualification and under terms of reference satisfactory to the 
+Association 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has operationalized the grievance redress mechanism 
+referred to in paragraph 6 of Section I.G in Schedule 2 of the 
+Financing Agreement, in a manner and substance satisfactory to the 
+Association 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+IBRD/IDA 
+The Recipient has prepared and adopted/approved a detailed 
+capacity building plan covering the applicable ESSs pursuant to the 
+provision of the ESCP, and in in a manner and substance satisfactory 
+to the Association 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+IBRD/IDA 
+No withdrawal shall be made:  
+(a) for payments made prior to the Signature Date; (b) under 
+Category (2) until and unless Somaliland has: (a) executed the 
+Somaliland Subsidiary Agreement setting forth implementation 
+arrangements for Somaliland’s Respective Activities under the 
+Project (including the flow of funds out of the Grant proceeds), and 
+all Somaliland’s internal requirements for the agreement to be 
+binding upon Somaliland in accordance with its terms have been 
+duly obtained/secured; (b) prepared and formally adopted a Project 
+operation manual for its Respective Activities under the Project; 
+and (c) established the institutional arrangements set forth in the 
+forgoing manual, as shall be required to carrying out its Respective 
+Activities under the Project, in a manner and substance satisfactory 
+to the Association 
+ 
+ 
+  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 95 
+     
+ 
+ 
+  
+  
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+ 
+1. 
+Recovering from conflict, Somalia has been on a trajectory toward political stabilization and reconstruction. 
+In 2012, a provisional constitution was adopted, establishing a new Federal Government and seat of government in the 
+city of Mogadishu. The 2012 Provisional Constitution established a federal political structure, including a parliament, 
+the Federal Government of Somalia (FGS), and the Federal Member States (FMS)1. Although not internationally 
+recognized, Somaliland has declared independence from Federal Government of Somalia (FGS) and does not 
+participate in the federal system. Following this political transition, the international community agreed to the Somali 
+Compact with the FGS, based on the New Deal, a guiding set of principles for peacebuilding and state building. The 
+second elections were peacefully held in FGS in 2017 to establish the current administration. The sustained political, 
+economic, and institutional reforms have enabled rebuilding core state capabilities. The FGS is currently going through 
+election process for the upper and lower house before embarking on presidential elections.  
+ 
+2. 
+Somalia is facing severe development challenges. The country has a population of about 15 million, of which 
+roughly 60 percent are nomadic and semi-nomadic pastoralists, and 60 percent live in rural areas. About 70 percent of 
+the population live below the poverty line (US$1.90 a day in 2011 purchasing power parity terms), although this figure 
+is expected to have increased following a triple crisis of COVID-19, floods and locust’s invasion. Approximately four out 
+of ten Somali households are headed by a female and gender inequalities are severe.2  Almost nine out of ten Somali 
+households are deprived in at least one dimension of poverty—monetary, electricity, education, or water and 
+sanitation3. The country’s Gross Domestic Product (GDP) is about US$5 billion and GDP per capita is about US$3334. 
+ 
+3. 
+The COVID-19 pandemic has interrupted Somalia’s economic recovery. The combined impacts of the COVID-
+19 pandemic together with devastating flooding and a new infestation of desert locust led to an economic contraction 
+of an estimated 0.4 percent in 2020, compared with an initial growth forecast of 3.2 percent5.  GDP growth is projected 
+to rebound to 2.3 percent in 2021, based on encouraging performance in the first six months of the year. Bank deposits 
+and credit to the private sector are on an upward trend. Export volumes have increased by nearly 30 percent, while 
+total imports have grown by 12 percent6. Economic growth is projected to reach 3.0 percent in 2022 and 3.4 percent 
+in 2023, returning to pre-pandemic levels over the medium term. This outlook depends on a continued national 
+commitment to economic reform to reach the heavily indebted poor countries (HIPC) initiative completion point.   
+ 
+ 
+1 The federal system includes five Federal Member States (FMS) – Galmudug, Hirshabelle, Jubbaland, Puntland and South West and the 
+federally administered Banadir Administration.  
+2 World Bank (2019) Somalia Poverty and Vulnerability Assessment, Washington DC.   
+3 World Bank (2019) Somalia Poverty and Vulnerability Assessment, Washington DC 
+4 Somalia Economic Update, World Bank, June 2021 (Edition No. 6). 
+5 Ibid.   
+6 Ibid. 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 95 
+     
+ 
+ 
+4. 
+The triple crisis of COVID-19, floods and the desert locust infestation have adversely affected firms and 
+households. High frequency phone surveys have been deployed to gauge the impact of the crisis in Somalia7. 
+Information available at the start of 2021 suggests that 85 percent of households reported reductions in sources of 
+income, which has contributed to a rise in food insecurity. However, increases in the inflows of remittances throughout 
+2021 suggests that private household consumption may be improving. At the firm level, there have been closures and 
+job losses. An estimated two-thirds of firms suspended operations between February 2020 to January 2021. Firms have 
+adjusted to the crisis by making changes to production, and ways of delivering goods and services. However, most firms 
+expect to return to their normal levels of sales and workforce. This positive outlook is reinforced by an expected roll-
+out of vaccinations to protect the population against COVID-19, where an estimated 90 percent of Somalis expressed 
+interest in receiving testing and vaccines if provided without cost. 
+ 
+5. 
+Electricity access rates are low, and the cost of power is among the highest in the world. The electricity access 
+rate is estimated at 35 percent nationally8, meaning that around 9 million Somalis lack access to electricity services. A 
+disparity remains between access rates in urban areas (approximately 60 percent), rural areas (15 percent) and 
+nomadic households (1 percent) in addition to high tariffs and connection fees which are barriers to access expansion. 
+It is also a pre-requisite input for the provision of adequate health and education services, which is often not sufficient 
+in urban areas and completely absent in rural ones, impeding resilience to the pandemic, future shocks, and the overall 
+human development of the country. The World Bank’s flagship report on Regulatory Indicators for Sustainable Energy 
+(RISE, 2020) found that Somalia ranks in the upper 5 percent globally for power cost, and in the upper 15 percent 
+globally for power expenditure as a share of gross national income (GNI) per household.  
+ 
+6. 
+The livelihoods of roughly half of Somalia’s population are reliant on pastoralism or agro-pastoralist. Since 
+2019 the country has experienced devastating floods and drought, as well as locusts, which have left about 5.2 million 
+people in need of assistance and at risk of food insecurity. In addition, while Somalia has very low greenhouse gas 
+emissions, it is ranked 181 out of 188 countries in terms of its vulnerability to climate change impact9. Somalia’s 
+extremely weak health system further exacerbates the country’s vulnerability against natural disasters.  
+ 
+7. 
+In March 2020, Somalia qualified for debt relief through the Heavily Indebted Poor Countries (HIPC) Initiative, 
+a major milestone that allows resource flows from international financial institutions (IFIs). Reducing the debt-to-
+GDP ratio from 111 percent in 2018 to 84 percent in 2020 reopens access to regular concessional resources from the 
+International Development Association (IDA) and other IFIs, together with investment of private capital from the 
+International Finance Corporation (IFC). Sustaining a positive trajectory will require predictable financing and improved 
+institutions (among other factors) as numerous challenges prevail, such as weak government capacity, asymmetric 
+federal structures, security concerns, human capital deficits, and low levels of state legitimacy. 
+ 
+B. Sectoral and Institutional Context 
+ 
+The energy sector is beset with intertwined challenges emerging from years of conflict, ad-hoc service provision, and 
+lack of overarching regulations. 
+ 
+ 
+7 World Bank (2021) Coronavirus and the private sector in Somalia: Results from Wave 2 of COVID-19 focused Enterprise Survey, 
+Washington DC.  
+8 Tracking SDG 7 (2021), The Energy Progress Report, Washington DC. 
+9 Notre Dame Global Adaptation Initiative Country Index https://gain.nd.edu/our-work/country-index/rankings/ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 95 
+     
+ 
+ 
+8. 
+The conflict destroyed public electricity infrastructure in Somalia. Pre-conflict, the Somalia National Electric 
+Corporation (ENEE) was the single public utility in operation, supplying Mogadishu and the main regional centers of 
+Hargeisa, Berbera, Burao, Baidoa, and Kismayo through distributed diesel generators and localized distribution grids 
+with a combined total installed capacity of about 70 MW and annual energy production of about 250 GWh (1987). 
+However, public electricity infrastructure was destroyed during the conflict, and the associated public institutional 
+frameworks are almost completely defunct at present. ENEE currently operates only 14 MW installed capacity in 
+Boosaaso and Qardho in the northeastern part of the country.  Private sector has stepped in to provide access to 
+electricity, although this is limited to mainly urban areas. The energy sector in Somalia has many features common to 
+countries in or emerging from conflict, whereby several private service providers stepped in by creating small electricity 
+companies called energy service providers (ESPs). The most common supply of electricity in such contexts is a 
+decentralized, private supply of electricity using relatively low-capacity medium voltage (MV) and low voltage (LV) 
+networks with embedded small-scale high-speed diesel generators (HSDGs), initially serving their own loads and 
+gradually expanding to serve neighborhoods. 
+ 
+9. 
+The electricity system in Somalia comprises isolated diesel-based minigrids operated by ESPs on the basis of 
+licenses issued by ministries of energy10. The system of delivering electrical energy to users comprises a network of 
+isolated distribution grids with embedded generation. These island networks are the property of ESPs, each of which 
+owns and operates its independent generation-distribution-customer revenue chain. The ESPs supply more than 90 
+percent of the electricity in the country, and it is estimated that there are at least 55 operators in the large cities and 
+towns. Some nongovernmental organizations (NGOs) also contribute to Somalia’s power supply but at a smaller scale. 
+The total estimated installed capacity in the major load centers is about 138 MW (2020) (Table 1)11, which is inadequate 
+to serve current and future demand, estimated to increase to between 1,000 MW to 4,600 MW by 203712. This has led 
+to a highly fragmented private electricity sector throughout the country, resulting in an inefficient and expensive supply 
+given the lack of economies of scale. Thus, with the ongoing initiatives to enact the sector laws, substantial efforts are 
+needed to operationalize an enabling institutional and regulatory framework with adequate staffing and capacity.  
+ 
+Table 1. Installed Generation Capacity in the Major Cities 
+ 
+10 The licensing is still ad-hoc at FGS level pending enactment of electricity bill, while in Somaliland there is an interim integrated 
+generation-distribution licences with a three year validity period. However, this role has been transferred from MoEM to Somaliland 
+Electricity Regulatory Commission.  
+11 Electricity Service Providers (ESPs). 
+12 Power Sector Master Plan (2019). 
+City/Load Center 
+Estimated Installed 
+Capacity (MW) 
+Tariff 
+(US$/kWh) 
+Lead ESP* 
+Mogadishu, Benadir 
+47 
+0.25 to 0.55 
+BECO (Benadir Electric Company) owns about 85 
+percent of the total capacity 
+Hargeisa, Somaliland 
+60 
+0.75 
+SomPower owns about 95 percent. There exist 4 
+ESPs, out of which 3 have agreed to merge further.  
+Berbera, Somaliland 
+7 
+0.5 
+BEC (Berbera Electricity Company (BEC) operates 
+the entire network that was formerly state owned 
+Garoowe, Puntland 
+10 
+0.79 
+NESCOM (National Energy Corporation of Somalia 
+the main ESP 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 95 
+     
+ 
+ 
+* There is increasing interest in establishing mergers and joint ventures among ESPs.  
+ 
+10. 
+Somali government institutions are in the formative stage with nascent institutional and legal frameworks. In 
+the FGS, the Ministry of Energy and Water Resources (MoEWR) has the mandate to oversee operations in the electricity 
+sector. In Somaliland, the Ministry of Energy and Minerals (MoEM) has the mandate over the energy sector. At the 
+federal member state level, there are also ministries responsible for electricity, although most of these are yet to be 
+fully functional. Key sector decisions are made by the MoEWR in the FGS and MoEM in Somaliland. Due to the absence 
+of regulations and codes of practice, there is no mechanism to vet and enforce electricity services’ quality or health 
+and safety standards, thus exposing both ESP employees and the consumers to safety risks. This is further compounded 
+by the lack of capacity to develop, enforce, and monitor the sector by the government institutions. The FGS has taken 
+some initial steps to create a favorable enabling environment of policies and regulations that include (a) preparing and 
+adopting a sector development plan—the Somali Power Sector Master Plan (PSMP), that aims to have in place the 
+fundamental building blocks for establishing a modern energy sector in Somalia and (b) enacting the requisite 
+legislation (the Electricity Act). The FGS Electricity Bill and Energy Policy were approved by the Council of Ministers in 
+December 2020. The Electricity Bill is expected to be ratified by parliament and enacted by the end of 2021. In 
+Somaliland, government efforts have led to the emergence of a nascent policy, legal, and regulatory framework 
+through the Somaliland Energy Policy adopted in 2010 and Somaliland Electrical Act (2013), which is awaiting 
+parliamentary approval. 
+ 
+11. 
+Somalia reports one of the highest costs of power in the world. Considering the major load centers alone, there 
+are at least 227 HSDG systems currently operating, with a median capacity of 315 kW. Of these, 113 are in Somaliland, 
+28 in Puntland, and 86 located in other federal member states13. These generators are estimated to consume over 
+121,000 liters of diesel fuel/day. With increasing demand for electricity, it is projected that diesel consumption could 
+increase to 694,000 liters/day in the medium term if additional capacity is to be met by HSDGs alone. This trend is 
+changing as ESPs are increasingly integrating renewable energy (solar and wind) in their generation mix. However, 
+these are of small-scale capacity due to inadequate financing and limited technical capacity to design and synchronize 
+the systems. Based on field data collected in 2017, the cost per kWh in Somalia, excluding Somaliland, ranges from 
+US$0.25–US$1.30 per kWh, with a weighted average of about US$0.61 per kWh. In Somaliland, the cost per kWh ranges 
+from US$0.30 to US$0.90 per kWh, with a weighted average of about US$0.68 per kWh (according to the 2018 PSMP). 
+The World Bank’s Regulatory Indicators for Sustainable Energy (in 2020) reported that Somalia ranks in the upper 5 
+percent globally for power cost and in the upper 15 percent globally for power expenditure as a share of gross national 
+income (GNI) per household14.   
+ 
+12. 
+System losses are high, varying from 25 to 40 percent. Electricity distribution networks’ losses mainly stem 
+from the use of LV (415/240 V) as the main distribution voltage, with the lines extending over long distances and aging 
+equipment. These losses could be much higher if losses in generation are considered. Technical losses are further 
+exacerbated by the ESPs’ duplication of generation, distribution, and retail infrastructure. In addition, the metering 
+systems are deficient, and they cannot provide reliable data regarding electricity consumption. In some instances, ESPs 
+ 
+13 South West, Hirshabelle, Galmudug, Jubbaland and Mogadishu.  
+14 https://www.worldbank.org/en/topic/energy/publication/rise---regulatory-indicators-for-sustainable-energy 
+Boosaaso, Puntland 
+14 
+0.8 
+ENEE (Ente Nazionale Energia Elettrica) owns 
+about 85 percent of the total capacity 
+Total 
+138 
+ 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 95 
+     
+ 
+ 
+charge a fixed fee based on estimation of the consumer load, such as the number of lightbulbs or other appliances in 
+use, due to lack of consumer meters. This provides no incentive for end-users to reduce equipment use or buy more 
+energy-efficient products, contributing to overall energy inefficiency and driving up electricity costs. The Somaliland 
+National Development Plan (NDP) II (2017–2021)15 has set a target to reduce technical losses for each ESP by 7.5 
+percent by the end of 2021, through investment in new infrastructure. Investments in the sub transmission network in 
+the major load centers are also required to strengthen the current distribution networks. 
+ 
+13. 
+Installed generation capacity is inefficiently used. Nearly 100 percent of generation is derived from HSDGs. Due 
+to the lack of sector regulations and limited capacity of ESPs to invest in the equipment required to synchronize existing 
+HSDG units, coupled with a shortage of operations and maintenance (O&M) staff, most of the existing installed 
+generation capacity is not being used efficiently. As a result, “wet stacking” (diesel fuel waste, increased pollution, 
+performance degradation, and shorter HSDG lifespans) is widespread. By addressing the synchronization of generation 
+units and, ideally, supplementing the thermal units with a renewable energy source, the gains could contribute to lower 
+cost of generation by about 30 percent.16 
+ 
+The Somali electricity sector presents opportunities for effective service delivery, harnessing renewable energy and 
+building institutions.  
+ 
+14. 
+There is significant untapped renewable energy resource potential as identified by numerous assessments, 
+including the recent “PSMP (2019) and Renewable Energy Mapping Analysis (2020)”, supported by the World Bank17. 
+The country has significant potential for using renewable energy for electricity generation, particularly solar and wind 
+energy. However, in-depth evaluation of these resources needs to be conducted before large-scale projects can be 
+initiated to harness these renewable resources for power generation. This is particularly true for wind power 
+generation, which is site specific. Further, shortages of technical staff, the small scale of the distribution networks, and 
+lack of off-transmission infrastructure and associated regulations further limit the immediate large-scale development 
+of renewables for power generation.  
+ 
+15. 
+The isolated minigrids of ESPs form the basis for an interconnected distribution network to become a national 
+grid with the potential for wheeling and cross-network power sales. There is increasing demand for electricity, and 
+the required generation capacity for the country is forecast to increase from 1,000 MW to 4,600 MW by 2037 in 
+business-as-usual and transformational scenarios, respectively (per the PSMP 2018). To meet the demand, US$3 billion 
+would need to be invested throughout the supply chain in the next two decades. However, the absence of an 
+interconnected distribution network and a transmission grid in the country, if not addressed in the short-to-medium 
+term, will hamper investments and uptake of large-scale generation and new customer connections.  
+ 
+16. 
+Somalia, as part of the Horn of Africa Initiative (HoAI)18, can leverage the opportunities offered by regional 
+ 
+15 https://mopnd.govsomaliland.org/article/ndpii-1. 
+16 Results from the Energy Security and Resource Efficiency in Somaliland Project indicate that ESPs that have hybridized the HSDGs with 
+solar photovoltaic systems coupled with battery energy storage systems have been able to reduce the consumer tariffs by about 34 
+percent. 
+17 World Bank Group, 2020. Global Wind Atlas. https://globalwindatlas.info/; and World Bank Group and DTU Wind Energy, 2020. 
+Global Solar Atlas. https://globalsolaratlas.info/ 
+18 The Horn of Africa Initiative was launched in 2019 in response to the collective vision of member countries to deepen regional 
+integration and promote regional cooperation.  The member countries of the Horn of Africa Initiative (Djibouti, Ethiopia, Eritrea, Kenya, 
+Somalia, Sudan) and Pillar I (out of four) of the Initiative focuses on regional infrastructure connectivity for energy, transport, and digital.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 95 
+     
+ 
+ 
+integration to leapfrog the establishment of the transmission backbone infrastructure and have access to diverse 
+and low-cost electricity supply from regional neighbors. The FGS is an active member of the HoAI and has requested 
+support under the Initiative to develop the transmission backbone in the country and regional interconnectivity (mainly 
+with Ethiopia) in the 2019 communiqué signed by all HoAI members.19 The country has also reiterated its commitment 
+to the Initiative during the October 2021 World Bank Annual Meetings. Somalia has expressed interest in joining the 
+Eastern Africa Power Pool, and discussions are ongoing. 
+ 
+17. 
+Achieving least-cost universal electrification is estimated to require complementary supply solutions of grid, 
+minigrid, and stand-alone solutions, as demonstrated by the outcomes of the geospatial least-cost analysis20.  The 
+current ESP minigrids (mainly in urban areas) could provide a basis for the extension of the grid to the rural areas. 
+However, a combination of high capital costs, timing required to develop and extend a national interconnected grid, 
+and rural consumers’ limited ability to pay for electricity services undermines the business case for such an approach 
+in the short-to-medium term. Stand-alone off-grid solar solutions and greenfield minigrid developments thus offer 
+much greater potential for accelerated access expansion. There is already demonstrated demand and need for off-grid 
+solar products, and a variety of companies have demonstrated strong capacity to reach off-grid consumers. There is 
+also experience in the country with the development of hybrid minigrids. 
+ 
+18. 
+The proposed project is underpinned by a five-year World Bank engagement starting with technical assistance 
+and a trust-funded pilot lending operation. The project is informed by critical technical assessments and capacity-
+building activities implemented under the ongoing US$7.2 million Somali Electricity Access Project (SEAP P165497). The 
+SEAP recipient-executed financing by the World Bank is administered by the Somalia Multi-Partner Fund, approved on 
+December 21, 2018 with a current closing date of June 30, 2022. The project is under implementation by the FGS and 
+Somaliland to reduce market barriers for the private sector to provide modern energy access through solar home 
+systems.  
+ 
+19. 
+The proposed project is part of the SOP, and a steppingstone to a long-term vision to build institutions and 
+regulations simultaneously, with a phased infrastructure investment program for access expansion, clean energy 
+transition, and regional interconnectivity. The series of projects (SOP) will enable establishment of building blocks of 
+a national integrated electricity supply industry, including the sector’s physical and institutional infrastructure and 
+sector operations with adequate capacity and clear roles and mandates for private and public actors. The proposed 
+SOP harnesses the strengths of the existing private sector, builds its capacity, and creates a private-public interface for 
+energy service delivery. The core proposition of this project is that by investing in sector capacity enhancement and 
+network infrastructure, the FGS can leverage the private sector to reestablish the electricity supply industry (ESI). 
+Further, the institutional and regulatory enhancement will support the reestablishment of transparency, trust, 
+effectiveness, and legitimacy in the government institutions to provide an enabling operating framework for the private 
+sector. 
+ 
+20. 
+The project deploys new battery and off-grid technologies creating a pathway toward clean energy, 
+achievement of the nationally determined contributions (NDCs) per the Paris Agreement, and long-term green 
+growth. The project takes advantage of the latest advances in solar photovoltaics (PV), Battery Energy Storage Systems 
+ 
+19 Communiqué signed following side event during the World Bank Annual Meetings.  
+20 The FGS commissioned the “Preparation of an Indicative Least-Cost Geospatial Electrification Plan to Achieve Universal Access in 
+Somalia,” study implemented by the KTH Royal Institute of Technology, Stockholm, 2020. The analysis will also be updated to further 
+investigate the grid extension options with their interconnection and establishment of a transmission backbone. 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 95 
+     
+ 
+ 
+(BESS), and other technologies and will deploy cutting-edge electricity generation and storage technology that will help 
+the local population access cleaner and more affordable electricity. It builds on the experience already acquired by the 
+country for both minigrid development and solar PV deployment to scale them up across phases and builds on the 
+international experience acquired so far. The project interventions will support the national commitments reflected in 
+the draft 2020 NDCs, setting the target of 30 percent greenhouse gas (GHG) reduction against a business-as-usual 
+scenario by 2030.  The activities will increase the installed renewable energy installed capacity in the country and thus 
+support the “green” transition away from diesel-based generation. The project is part of the new World Bank resilience 
+rating pilot and resilience measures to protect and prevent disruptions in physical infrastructure due to climate shocks 
+will be incorporated in feasibility studies and detailed designs to be undertaken during project implementation. Lastly, 
+the complementarity between the SOP and the proposed Horn of Africa Regional Integration for Sustainable Energy 
+Supply project will also ensure that Somalia can take advantage of the benefits of regional integration for accessing 
+additional renewable power through imports.  
+ 
+21. 
+The project will support expansion of energy access, promote service reliability, and create conditions for 
+universal electrification. The project will interconnect and rehabilitate the existing power supply infrastructure to 
+optimize existing generation and distribution assets. It will also expand the infrastructure to develop a national grid 
+connecting the main load centers. By improving sector operations efficiency, the project and the SOP will support the 
+provision of more reliable and affordable electricity services and thus set the stage for an accelerated access expansion 
+in future phases of the program. In addition, the program will also support the country in establishing adequate and 
+holistic long-term sector planning for the achievement of universal access, based on least-cost principles, with clear 
+targets and timetables, priority connectivity to social facilities and for productive uses, and a programmatic approach 
+to syndicate financing. Improved sector planning and operations will ensure the sustainability of long-term efforts and 
+build confidence in private investors, Development Partners, and establish a consultative sector-wide approach.  
+ 
+22. 
+The project will prioritize electricity services to health care facilities and schools as a COVID-19 economic 
+recovery response. Over the past year, the COVID-19 pandemic has caused an unprecedented global economic and 
+social crisis, significantly affecting all aspects of life. The project will contribute to about 25 percent of the overall 
+investment needs to provide access to the rural priority facilities identified by the counterparts, complementing the 
+outreach of the Somalia Education for Human Capital Development Project (P172434) and the Improving Healthcare 
+Services in Somalia (P172031) projects. The interventions will increase the readiness of health facilities for COVID-19 
+response and increase resilience of the beneficiary population. 
+ 
+23. 
+The project will closely collaborate with the International Finance Corporation (IFC) and the Multilateral 
+Investment Guarantee Agency (MIGA). IFC will support targeted upstream interventions to augment the private sector 
+role and participation toward long term sustainability of the electricity sector.   To this end, IFC will build on the various 
+engagements in the electricity sector in Somalia over the past few years21 to focus on the following areas: 
+• 
+Continue assistance in formulation of enabling laws and regulations, following international best practices, 
+including the Electricity Energy Bill (that has been drafted with IFC assistance) and provide requisite capacity 
+building to enable an effective regulatory function.  
+• 
+Provide capacity-building support to the ESPs through focused trainings to implement international 
+standards of technical, commercial, Environmental Social and Governance Impact, financial management 
+and reporting aspects of the business.  
+• 
+Given that there is a significant public sector led investment under the proposed engagement, IFC will 
+ 
+21 Please refer to Annex 9.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 95 
+     
+ 
+ 
+leverage on its experience and knowledge to help structure and design practical and effective interface 
+mechanisms between public sector and ESPs based on a fair and balanced risk and return allocation criteria.  
+ 
+24. 
+MIGA has actively engaged with potential investors interested in Somalia across all sectors since Somalia 
+became a member of MIGA in March 2020. In the energy sector, MIGA has received early-stage enquiries on several 
+wind and solar PV projects across Somalia to address regional access and rural electrification. MIGA has now been 
+mandated to support the developers of a small solar plant that will supply power to commercial and industrial 
+customers, including UN agencies. As the off takers of this project are private, MIGA will not offer its Breach of Contract 
+cover, but MIGA’s other risk covers, namely Expropriation, Transfer Restriction and Convertibility, and War and Civil 
+Disturbance will be available. 
+ 
+C. Relevance to Higher Level Objectives 
+ 
+25. 
+The project contributes to the World Bank Group (WBG) twin goals of eliminating extreme poverty and 
+boosting shared prosperity as well as the UN Sustainable Development Goal (SDG) 7. Activities under the project aim 
+at expanding access to electricity, which is a fundamental input for socio-economic development, and will establish an 
+enabling environment for long-term, sustainable, growth. As such, the project will also contribute to the achievement 
+of the broader SDG agenda.  The project is aligned with World Bank Group Climate Change Action Plan 2021-2025 that 
+aims to advance the climate change aspects of the WBG’s Green, Resilient, and Inclusive Development approach, which 
+pursues poverty eradication and shared prosperity with a sustainability lens. In the Action Plan, the World Bank 
+supports countries and private sector clients to maximize the impact of climate finance, aiming for measurable 
+improvements in adaptation and resilience and measurable reductions in GHG emissions. 
+ 
+26. 
+The project aims to support the FGS’ National Development Plan (NDP) 9 (2020–24)22 that has a strong focus 
+on tackling poverty and building resilience. The NDP9 strategic interventions focus on four pillars: (a) Inclusive and 
+Accountable Politics; (b) Improved Security and the Rule of Law; (c) Inclusive Economic Growth (including increased 
+employment); and (d) Improved Social Development. The NPD9 outlines five strategies for the energy sector for the 
+next five years: (a) developing renewable and non-renewable energy sources to increase supply, (b) establishing a 
+national regulatory authority for energy market governance, (c) strengthening the administrative and technical capacity 
+of the federal and states ministries of energy, and (d) providing access to energy to all populations, including vulnerable 
+groups - particularly women, the youth and displaced persons. Somaliland priorities are: (a) access to electricity raised 
+to at least 85 percent for 25 percent of Somaliland urban and rural households, respectively; (b) 10 percent of national 
+energy generation to be provided by renewable energy sources; (c) a 30 percent reduction in the average tariff; (d) 
+increased investment in renewable energy technology, infrastructure, and research; (e) a reduction of system losses 
+for energy service providers; and (f) additional generation of 30 MW.  
+ 
+27. 
+ The project is aligned with the Somalia’s Nationally Determined Contribution (NDC)23, and the National 
+Adaptation Program of Action (NAPA)24. Somalia’s NDC target under the mitigation component is to reduce GHG 
+ 
+22 https://mop.gov.so/wp-content/uploads/2019/12/NDP-9-2020-2024.pdf. 
+23 “Somalia’s Nationally Determined Contribution to the UNFCCC.” 2015. 
+https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Somalia%20First/Somalia%27s%20INDCs.pdf.; Draft NDC Update, 
+December 2020. 
+24 Somalia’s National Adaptation Program of Action on Climate Change (NAPA).” 2013. 
+https://unfccc.int/resource/docs/napa/som01.pdf. 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 95 
+     
+ 
+ 
+emissions by 30 percent below a business as usual (BaU) scenario by 2030. The destruction of the natural resource base 
+(forest and range resources that provide the raw material production of charcoal in Somalia) is identified in Somalia’s 
+NDC as one of the greatest challenges and a key driver of recurrent humanitarian crises in the country due to severe 
+droughts and impacts on pastoralist activities. The program will help Somalia’s move to greener trajectory through 
+utilization of renewable energy, contributing to the reduction of GHG emissions and helping achieve NDC and NAPA 
+objectives. 
+ 
+28. 
+The project supports the World Bank Group Strategy for Fragility, Conflict, and Violence (FCV) 2020–25. The 
+strategy centers on the World Bank’s role as a development actor committed to sustained and long-term engagement 
+to sector-wide regulatory and policy reform, and more focus on client capacity building and proactive implementation 
+support. The project will support the four pillars identified under the strategy: (a) preventing violent conflict and 
+interpersonal violence by addressing the drivers of fragility, such as economic and social exclusion, gender inequality, 
+and climate change risks; (b) supporting the transition out of fragility by promoting a renewed social contract and 
+strengthening the legitimacy and capacity of core sector institutions; (c) fostering a healthy local private sector as well 
+as public and private sector solutions to help create jobs, deliver services, foster social cohesion, and promote inclusive 
+economic development; and (d) mitigating the spillovers of FCV countries by adopting a regional approach to 
+infrastructure development and service delivery. 
+ 
+29. 
+The project is aligned with the Country Partnership Framework (CPF) for the Federal Republic of Somalia for 
+the Period FY2019–2225 endorsed by the World Bank Board of Directors on September 25th, 2018; and the country’s 
+COVID-19 recovery program. In line with the CPF, the project will support energy access, inclusive social growth, and 
+rural resilience and productivity, which are catalysts for unlocking Somalia’s growth potential. The project also 
+contributes to a resilient recovery in line with the World Bank–Somalia COVID-19 response program by (a) electrifying 
+health facilities, which is a necessary building block toward a pandemic ready health system; (b) catalyzing green 
+business growth by increasing renewable energy generation; and (c) supporting job creation in the energy sector, 
+especially for female science, technology, engineering and mathematics (STEM) profiles).  
+ 
+30. 
+The project supports the implementation of the World Bank Group Gender Strategy26. The gender 
+interventions are aligned with the World Bank Gender Strategy Pillars, (a) Improvement of Human Endowments 
+through delivery of electricity to health care facilities and schools, (b) Removing Constraints for More and Better Jobs 
+and (c) Removing Barriers to Women’s Ownership and Control of Assets. The project design includes targeted 
+interventions to improve access to electricity services, improve female participation in the sector workforce, and 
+mainstream gender equality across sector institutions.  
+ 
+II. 
+PROJECT DESCRIPTION 
+A. Project Development Objective 
+ 
+PDO Statement 
+ 
+31. 
+The Project Development Objective is to increase access to lower cost and cleaner electricity supply in the 
+project areas and to reestablish the electricity supply industry. 
+ 
+25 Report No. 124734-SO. 
+26 https://openknowledge.worldbank.org/handle/10986/23425?show=full. 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 95 
+     
+ 
+ 
+PDO Level Indicators 
+ 
+32. 
+Progress toward achieving the PDO will be measured by the following project outcome indicators: 
+(a) Increase in electricity supply (MWh) 
+(b) Generation capacity of energy constructed or rehabilitated (CRI, MW) 
+(c) Annual greenhouse gases emissions avoided (tCO2)  
+(d) Decrease in tariffs under the project (percentage) 
+(e) Establishment of the Electricity Supply Industry institutions with clear roles and responsibilities (Yes/No) 
+ 
+      SERIES OF PROJECTS 
+ 
+33. 
+The Somali Electricity Sector Recovery Project (SESRP) has been conceptualized as the first of a series of three 
+projects: (a) electricity sector recovery, (b) electricity sector development, and (c) electrification scale-up. The SOP 
+Development Objective is to increase access to lower cost and cleaner electricity supply in the Program Areas. The 
+vision has four themes: (a) infrastructure development, (b) renewable energy generation, (c) electricity supply to public 
+institutions, and (d) sector capacity enhancement. These themes aim to achieve the following outcomes: (i) Increased 
+access to lower cost of electricity supply from diverse energy resources especially from renewable energy resources 
+for climate change mitigation; and increased access to electricity services; (ii) Improved access to functional health and 
+education services; and (iii) Sector institutional, legal, and regulatory enabling environment for sustained sector 
+operations, including enhancing both the public and private capacity to manage and operate the sector.  
+ 
+34. 
+The SOP will establish a win-win-win relationship among public institutions, private service providers, and 
+customers. Provision of basic services like electricity could play a key role in shoring up the legitimacy of the 
+government as it seeks to reestablish its authority over the country, and thus the need for effective development 
+planning for areas that have seen themselves as marginalized or recently leaving conflict. The project will reestablish 
+the mandate of public institutions in the power sector and the provision of public financing to ensure equitable and 
+more reliable and affordable access to electricity services for the Somali population. The expanded role of the ESPs will 
+help buttress and encourage an increased involvement of the private sector in the long run in both distribution and 
+generations subsectors, while maintaining Somalia’s decentralized service structure. In addition, improving electricity 
+access and affordability will help the country address poverty through increasing household incomes, as access to 
+affordable electricity can create opportunities for the creation of new businesses. Increased and improved electricity 
+services provide an opportunity for the FGS to help the population see benefits of the reestablishment of state 
+authority with improved service and economic dividends. Detailed description of the SOP is in Annex 1.  
+ 
+B. Project Components 
+ 
+35. 
+The SESRP will consist of the following four main components: 
+ 
+Component 1. Sub-transmission and distribution network reconstruction, reinforcement, and operations efficiency 
+in the major load centers of Mogadishu and Hargeisa (US$75 million equivalent) 
+ 
+36. 
+This component will improve network reliability and operational efficiency by interconnecting the current ESPs’ 
+distribution networks and existing generation to optimize overall distribution network operations. These activities will 
+support the ESPs to (a) decrease the cost of operations (increased generation efficiency, reduction in distribution 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 95 
+     
+ 
+ 
+network losses, and distribution network duplications) and (b) improve electricity supply and reliability. 
+ 
+37. 
+Sub-component 1a: Generator Synchronization and Automation. Currently, most of the ESPs have not 
+implemented synchronization and automation as part of their generation processes. Therefore, separate generator 
+units are connected to exclusive feeder lines. As a result, many generators operate below their expected optimal 
+performance criteria. Further, the absence of automation and synchronization prevents the ESPs from utilizing parallel 
+generation to ensure optimal generator performance and dynamic reactivity to electricity load variations. This kind of 
+operation results in significant amounts of “wet stacking” (diesel fuel waste, extra pollution, and performance 
+degradation). These all combine to reduce the potential maximum generation power output, reduce lifespans of the 
+generator engines, and elevate maintenance costs and unscheduled generation downtime. Investments under this sub-
+component will support equipment supply and installation that will enable synchronization and automation of the 
+numerous generators presently in operation. The investment in each of the targeted major load centers (Mogadishu 
+and Hargeisa) will provide reduced cost of generation accruing from augmentation in generation capacity and reduced 
+wet stacking resulting in lower fuel consumption and maintenance costs, reduced pollution levels and GHG emissions. 
+ 
+38. 
+Sub-component 1b: Sub transmission and Distribution network interconnection in the major load center of 
+Mogadishu and Hargeisa. Most of the ESPs with a presence in the targeted project areas operate independently with 
+significant infrastructure and operations duplication.27 In addition, lack of network interconnection limits the 
+opportunity to share existing generation facilities and the prospect of investing in larger capacity and more efficient 
+generation systems. The subcomponent activities will support investments in the sub-transmission, and distribution 
+network infrastructure required to enable generation synchronization and interconnection between the different ESP 
+networks in addition to increased network capacity and reduced network losses.  The intention to focus on 
+establishment of an interconnected sub-transmission and distribution network is deliberate, considering the need to 
+consolidate the currently existing investments in infrastructure and concretize the “bottom-up” infrastructure building 
+blocks required to meet increasing electricity demand. The increased interconnectivity also provides a better demand 
+base for future regional interconnections to the Eastern Africa Power Pool (EAPP). 
+ 
+Component 2. Hybridization and battery storage systems for minigrids (US$20 million equivalent) 
+ 
+39. 
+This component will support activities aimed at the hybridization and optimization of existing mini grids. It will 
+support installation of Battery Energy Storage Systems (BESS) and Solar Photovoltaic (SPV) systems at existing diesel-
+based generation stations in selected load centers. Possible load centers to be considered under this component have 
+not been agreed upon, but may include other cities, such as Baidoa, Garowe, Berbera, Bosaso, Abudwak, Afgoye, 
+Kismayo, Borama, Burao, and other cities as may be determined by the government. This component aims at increasing 
+the efficiency of the existing hybrid mini grids (diesel and solar) by optimizing the generation capacity and, where 
+possible, reducing the diesel consumption by augmenting the installed capacity with BESS and additional SPV 
+generation. There are several ESPs that have commenced converting their generation systems into hybrid electricity 
+generation, mostly via SPV. These systems are synchronized to operate as part of SPV-HSDG hybrid generation, with 
+the solar component providing daytime generation. Such hybrid opportunities offer significant improvements in fuel 
+efficiency, fuel consumption, extended generator lifespans, reduced GHG emissions, and reduced combustion 
+pollution, along with less reliance on fuel imports. In addition, hybridization has enabled some ESPs to reduce the 
+electricity tariffs by about 40 percent.  
+ 
+27 There are three major ESPs in Mogadishu (Blue Sky, Mogadishu Power, and BECO). In Hargeisa there are four ESPs, of which three led 
+by SomPower are in talks to merge their operations. 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 95 
+     
+ 
+ 
+40. 
+Selection criteria. The beneficiary ESPs will be selected taking into account the following criteria: (a) regional 
+balance with regard to the project scope coverage, to include some of the large load centers in the FMS; (b) maximum 
+impact (reduced GHG emissions) based on the existing load demand; (c) optimized investment costs, for example, ESPs 
+with existing hybrid SPV already installed but without battery storage would be ranked higher due to the lower cost; 
+(d) availability of land at the existing ESP generation sites for additional infrastructure; and (e) ESPs’ willingness to enter 
+into agreement with government on the operations and maintenance of the assets; and commitment to achieving 
+minimum performance standards28. 
+ 
+Component 3. Stand-alone solar off-grid access to public institutions (Health and Education) (US$40 million 
+equivalent) 
+ 
+41. 
+This component complements and expands ongoing activities under the Somali Electricity Access Project (SEAP) 
+(P165497). While SEAP already provides support for nation-wide solar home system (SHS) connectivity scale-up, 
+including for the nomadic population,29 this component will expand activities to target health and education facilities, 
+which were not part of the SEAP project scope. 
+ 
+42. 
+The component will finance the delivery, installation, and operation and maintenance (O&M) for Lighting 
+Global–certified SPV systems over the lifetime of the project for selected education and health facilities. Besides playing 
+a key role in enablement of community co-benefits, facilities that have access to electricity may be better positioned 
+to attract and retain skilled workers, especially in rural areas. Further, this component will equip public service 
+institutions to better respond to emergencies, such as COVID-19. The activities under this component support the 
+resilience of the Somali population from the conflict’s impact on livelihoods through improved access to functional 
+basic services, such as health and education facilities.  
+ 
+43. 
+Selection of the facilities will be underpinned by the Least-Cost geospatial analysis and the list of priority facilities 
+identified by the FGS (in consultation with the FMS) and Somaliland.  The overall financing needs for providing access 
+to the 4,141 health and education facilities identified by the government is about US$160 million. The project will 
+provide electricity access to 585 facilities prioritized by the government following the identification of selection criteria 
+agreed with the ministries of energy, health, and education30. Selection criteria include (a) rural and remote areas with 
+no connectivity, (b) priority connectivity to maternal health centers and secondary schools, (c) presence of both health 
+and education facilities, and (d) presence of internally displaced persons (IDPs) and high levels of poverty and 
+vulnerability. The project activities will also be complemented by similar interventions under the Somalia Education for 
+Human Capital Development (P172434) and the Improving Healthcare Services in Somalia (P172031) projects.  
+ 
+44. 
+The component will contribute to about 25 percent of the overall investment needs to provide access to all the 
+priority facilities identified. An analysis of prioritized sites suggests that 205 health facilities and 380 educational 
+facilities can be electrified with the proposed US$40 million budget under component 3. The preliminary budget 
+ 
+28 These include but not limited to: (i) hours of service; (ii) expansion of service access (i.e. increase connections and area of coverage, 
+as well connection of targeted educational and health facilities); (iii) reduction of technical losses; (iv) improved receivables collection; 
+(v) reduction of service tariffs; (vi) corporate financial management ratios; and (vii) minimum social and environmental standards for 
+service provision and assets management and operation (including operational health and safety standards). 
+29 SEAP provides, under component 1—electrification of households and businesses through stand-alone solar home systems (US$3 
+million)—results-based grant financing to provide off-grid connectivity. 
+30 Prioritization was also informed by the mapping of health facilities conducted under the Improving Healthcare Services in Somalia 
+(Damal Caafimaad, P172031) project. 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 95 
+     
+ 
+ 
+breakdown is provided in Table 2. The preliminary budget was split in favor of health facilities (US$30 million out of 
+the US$40 million for component 3) to emphasize the importance of the health sector in responding to ongoing shocks 
+(providing adequate power to the facilities to improve their readiness to respond to the spread of the COVID-19 
+pandemic) and to increased resilience in the future. 
+ 
+Table 2. Preliminary estimates of facilities to be connected under the project  
+Type 
+Number 
+Unit 
+Capacity 
+(kW) 
+Unit 
+Consumption 
+(kWh per 
+year) 
+Unit Cost 
+(US$, 
+thousands) 
+Total 
+Installation 
+Cost (US$, 
+million) 
+Total O&M 
+Costa US$, 
+million) 
+Battery 
+replacement 
+costb (US$, 
+million) 
+Health facilities 
+Hospital 
+10 
+148 
+518,592 
+885,040 
+8.8 
+0.9 
+2.3 
+Health Center/Unitc 
+170 
+10 
+35,040 
+59,800 
+10.2 
+1.0 
+2.7 
+Maternal Health Clinic 
+25 
+20 
+70,080 
+119,600 
+10.2 
+1.0 
+2.7 
+Subtotal 
+205 
+ 
+22.0 
+2.2 
+5.8 
+Educational facilities 
+Primary d 
+100 
+2 
+1,444 
+14,053 
+1.4 
+0.1 
+0.1 
+Secondary 
+250 
+4 
+2,458 
+23,920 
+6.0 
+0.6 
+0.5 
+NFE 
+15 
+2 
+102 
+11,960 
+0.2 
+0.0 
+0.0 
+Tertiary e 
+15 
+9 
+460 
+5,517 
+0.8 
+0.1 
+0.1 
+Subtotal 
+380 
+ 
+8.4 
+0.8 
+0.7 
+ 
+Totals 
+585 
+ 
+30.4 
+3.0 
+6.6 
+ 
+Total (US$, million) 
+40.0 
+Source: World Bank estimates. 
+Notes:  
+a O&M contract duration is five years. 
+b Assuming the battery pack is replaced during the O&M contract. Assumed battery cost is US$165 per kWh. The size of the battery is 
+estimated on the assumption that the battery needs to be able to store the daily expected consumption at a 40 percent load factor. 
+c Health centers/units include referral health centers, IDP health centers, primary health units, and IDP primary health units. 
+d Primary schools include sites identified as H/Dhexe (Primary and Middle School). 
+e Tertiary education facilities include Universities and TVET (Technical and Vocational Education and Training). 
+ 
+Component 4 – Institutional Development and Capacity Building (US$15 million equivalent).  
+ 
+45. 
+Component 4 consist of five activities tailored to the re-establishment of the sector’s soft infrastructure for the 
+adequate day-to-day management and establishment of an enabling institutional and regulatory environment for 
+sector operations. Together, these activities will lead to the rebuilding of the electricity supply industry in the country 
+and establish the fundamentals for sector development and private sector participation sustainable in the long run. 
+They include the establishment of the institutions with clear roles and responsibilities31, and the development and 
+implementation of policies, sector strategies and secondary regulations for the sector. The component will also support 
+the implementation of the recommendations provided under the ongoing Electricity Supply Industry (ESI) Institutional 
+Design option analysis for sector development and project implementation arrangements: 
+ 
+a) Sub-component 4.1 – Policy and regulatory development. The technical assistance is aimed at strengthening 
+ 
+31 i.e the FGS National Electricity Authority to be stablished after the electricity bill is enacted; and Somaliland Energy Regulatory 
+Commission.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 95 
+     
+ 
+ 
+sector governance and regulation to foster autonomy, accountability, and transparency. Specific activities will 
+include sector policy, regulation, planning, management, and operations. This sub-component would also 
+provide technical assistance for renewable energy development; and how ESPs would be regulated in the 
+future.  
+ 
+b) Sub-component 4.2 - Sector Planning and Feasibility Studies for Renewable Energy Projects. Following the 
+adoption of the PSMP, there is a need to undertake detailed feasibility studies, such as site-specific wind 
+resource measurements and geothermal prospecting, as well as renewable minigrids pre-feasibility studies 
+building on the results of the geospatial Least Cost assessment prepared under the SEAP project. The technical 
+assistance will also support MoEWR and MoEM to undertake integrated planning, including preparation of a 
+Least-Cost Development Plan covering generation, transmission, and distribution as well as an Electricity 
+Access Strategy and Investment Prospectus.  
+ 
+c) Sub-component 4.3: ESP and MOEWR/MOEM Business Support Services. The technical assistance will support 
+ESPs to enhance their capacity in utility business management operations. It will also assist them in setting up 
+business processes to enable their compliance with license obligations and support growth of businesses and 
+revenues for long-term additional sector investments. The assistance aims to enhance and increase the role of 
+the ESPs, and the private sector in general, in sector ownership, management, and operations -  initially through 
+support and guidance of the day-to-day sector undertakings with a business support services firm (BSSF) 
+approach. The BSSF would also potentially promote renewable energy development and/or resilient energy 
+infrastructure through capacity building of the ESPs by integrating potential activities such as operations and 
+management of solar PV and hybrid facilities and climate and disaster screening and management for energy 
+assets.  
+ 
+d) Sub-component 4.4: Project Implementation Support including for environment and social safeguards. This sub-
+component will finance execution, design, and supervision consultants to assist the MoEWR and MoEM Project 
+Implementation Units (PIUs) and associated agencies in project implementation, sector management, and 
+coordination. This sub-component will also support key functions of the PIU project management teams 
+(project management, procurement, financial management [FM], safeguards, and monitoring and evaluation) 
+required for project implementation. The sub-component will also include technical assistance to enhance 
+sector fiduciary arrangements as well as setting up an E&S risk management system, enhancing the E&S 
+capacity through staffing and training on the Environmental and Social Framework (ESF) requirements based 
+on a robust capacity building plan. The Sectoral Environment and Social Assessment shall inform the sector-
+wide development framework and E&S risk management capacity and performance for the sector. Specifically, 
+the sub-component will finance the owner’s engineer (OE) consultancy services to support the PIUs regarding 
+project design, procurement, and contracts’ management, including fiduciary and E&S aspects. A dedicated 
+E&S firm will support the PIUs in the areas of health, safety, labor management, land, resettlement, community 
+engagement and security. In addition, the sub-component will support other technical assessment and 
+capacity-building activities for the successful implementation of the project. This will include, for instance, 
+trainings for the Ministries of Health and Education for the management and operations of the SPV systems 
+beyond the lifetime of the project.  
+ 
+e) Sub-component 4.5: Implementation of a Gender Action Plan. This sub-component will support a series of 
+interventions envisioned to close the identified gender gaps. A preliminary gender assessment was conducted 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 95 
+     
+ 
+ 
+at project preparation to identify specific gender gaps in the energy sector, particularly barriers that limit career 
+progression for women. The following activities will be conducted: (a) development and endorsement of a 
+detailed Diagnostic Gender Gap Assessment, (b) Pilot incubator for women’s employment, (c) development of 
+detailed gender actions plan, including capacity building on gender issues in the sector.  
+ 
+Project Cost and Financing 
+ 
+46. 
+The total project cost is estimated at US$150 million equivalent. The estimated project breakdown by 
+components is provided in table 3. 
+Table 3. Project Costs and Financing  
+Components  
+IDA Financing 
+(US$ million) 
+Component 
+1: 
+Subtransmission 
+and 
+distribution 
+network 
+reconstruction, 
+reinforcement, and operations efficiency in the major load centers of Mogadishu and 
+Hargeisa 
+75 
+Component 2: Hybridization and battery storage systems for minigrids 
+20 
+Component 3: Stand-alone solar off-grid access to public institutions (health and 
+education) 
+40 
+Component 4: Institutional Development and Capacity Building 
+15 
+Total  
+150 
+ 
+47. 
+Approximately US$50 million of the total allocation will be available to Somaliland to implement activities. To 
+access these funds, FGS and Somaliland will need to reach agreement for arrangements for funds flow from the 
+Recipient to Somaliland. Disbursements will be made under this Category (2) of the Financing Agreement.  In case these 
+funds are not accessed by the time of the Project's midterm review, they will be canceled. 
+ 
+C. Project Beneficiaries 
+ 
+48. 
+Households. The project will support improved electricity service delivery in the major load centers of 
+Mogadishu and Hargeisa and in potentially seven more main load centers for renewable energy generation 
+optimization through hybridization of mini grids (component 2). The project will also provide benefits from improved 
+health and education services. Overall, the project will benefit about 1.1 million households, equivalent to almost 7 
+million people, of which 3.5 million will be females, including those benefiting from improved health and education 
+services.32  
+ 
+49. 
+Health centers and schools. The project will provide electricity access to approximately 585 social institutions, 
+205 health facilities (including hospitals, health centers/units, and maternal health clinics) and 380 schools (including 
+primary, secondary, tertiary, and non-formal education facilities). Overall, the project is expected to provide improved 
+health services for 330,000 households (about 2 million people), and improved education services for 83,000 
+households (about 500,000 people). 
+ 
+32 This assumes 6.2 people per household, an electricity access rate of about 70 percent in urban areas, and a 50 percent female 
+population.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 95 
+     
+ 
+ 
+ 
+50. 
+Sector institutions. In addition to the direct beneficiary households, the sector institutions, including the public 
+(MoEWR/MoEM) and the private sector (ESPs), are expected to benefit from the reestablishment of the ESI. Associated 
+improvements in the efficiency, transparency, and accountability of the sector operations will not only shore up the 
+sector’s performance but also enhance the image and credibility of the institutions and thus build support for sustained 
+operations. The project will also benefit the Ministries of Health and Education and their service delivery. 
+ 
+51. 
+Increased profitability of productive enterprises and job creation. Improved reliability of electricity supply will 
+contribute to increased productivity and income of productive enterprises and thus create opportunities to increase 
+jobs for the general populace. 
+ 
+52. 
+Improved performance of the ESPs. The project will improve the efficiency in the utilization of the existing and 
+expanded assets of the beneficiary ESPs under components 1 and 2. In addition, the whole private sector in the country 
+will benefit from the support provided under component 4 for improved commercial and operational performance.  
+ 
+D. Results Chain 
+ 
+53. 
+The theory of change underpinning the project is captured in figure 1Error! Reference source not found.. 
+ 
+Figure 1. Theory of Change and Results Framework 
+ 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 95 
+     
+ 
+ 
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+ 
+54. 
+The project’s design builds on the World Bank’s experience of supporting local institutions in FCV countries, 
+with the goal of preserving local knowledge to improve service delivery and build back better. The project’s focus to 
+establish critical sector institutions is driven by the findings of previous Independent Evaluation Group reports and the 
+World Development Report 2011: Conflict, Security, and Development, and it leverages previous World Bank experience 
+in FCV situations (e.g., in Republic of Yemen, Iraq, West Bank, and Gaza). In addition, the SOP vision builds on the 
+successful long-term engagement implemented by the World Bank in countries such as Bangladesh, Kenya, Rwanda, 
+and Vietnam to build and strengthen sector institutions, develop a national power infrastructure, and support the 
+electrification agenda. 
+ 
+55. 
+Provision of basic services like electricity is paramount to socio-economic development of the country. Thus, 
+there is a need to ensure effective development planning for areas that have seen themselves as marginalized for years 
+or that are just emerging from conflict. Electricity supports services that are critical for development. In addition, 
+improving electricity access and affordability will help the country address poverty by increasing household incomes: 
+increasing access to affordable electricity can create opportunities to create new businesses and associated jobs. 
+Increased and improved electricity services provide an opportunity to the FGS to enhance its visibility, so that the 
+Somali populace can quickly perceive benefits to the reestablishment of state authority as it experiences improved 
+service and economic dividends. The expanded role of the ESPs will help buttress and encourage an increased 
+involvement of the private sector in the long run in both distribution and generations subsectors. 
+ 
+56. 
+Role of partners.  The project and the SOP will establish a technically sound institutional policy, regulatory, 
+planning and infrastructure development experience to rally donor’s support for sector development. Several 
+development partners are active in the energy access space in Somalia and have been important partners of the FGS, 
+government of Somaliland (GoSL), and the World Bank. These include the US Agency for International Development 
+(USAID), Swedish International Development Agency (SIDA), and the UK Foreign, Commonwealth & Development 
+Office (FCDO)33. Additionally, as project activities will also support the HOAI, it is expected that support from its key 
+development partners (European Union and African Development Bank) could also be rallied. The project will leverage 
+the existing development partners coordination mechanisms and procedures and comply with the 2015 Paris 
+Declaration on Aid Effectiveness. 
+ 
+F. Lessons Learned and Progress and Reflected in the Project Design 
+ 
+57. 
+Leverage the ongoing World Bank Group Energy Sector program in Somalia. The project is underpinned by 
+several years of analytic building blocks and client capacity building. It will complement and leverage the WBG’s past 
+and ongoing programs in Somalia by scaling up activities to reestablish the Somali ESI to improve service delivery to 
+enhance job creation and public services delivery. Since the Somalia re-engagement in 2013, the World Bank 
+established a Multi-Partner Fund, which helped stabilize key institutions and pilot important initiatives now ready for 
+scaling up under the CPF covering FY2019–22. An objective of the ongoing SEAP (P165497) is to expand access to 
+electricity in targeted urban, peri-urban, and rural communities by supporting activities to reduce market barriers to 
+the private sector to provide electricity through solar home systems. SEAP is also financing analytical work to enable 
+ 
+33 Annex 5 summarizes specific energy sector interventions by development partners in Somalia  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 95 
+     
+ 
+ 
+electrification through solar-powered/hybrid minigrids and supporting activities to strengthen the capacity of the 
+MoEWR and MoEM for overall energy sector management and integrated electricity sector planning.  
+ 
+58. 
+Deploy WBG instruments and inter WBG team collaboration to maximize finance for development. The 
+project design aims to establish an enabling environment to both sustain and enhance the ongoing private sector 
+investments (ESPs) and create opportunities for their scale-up. IFC is also increasing its engagement in the sector, as it 
+presents significant growth potential where the ESPs are targeting to increase their generation, and renewable, 
+capacity to meet currently unmet and growing demand. IFC expects its energy sector program in Somalia to evolve 
+with a combination of structured financing support and technical assistance to ESPs, helping them meet their growth 
+objectives and achieve long-term sustainability with acquisition of industry best practice technical knowledge, skills, 
+and capacity and adoption of international Educational Software for Guiding Instruction (ESGI) standards. The project 
+design has benefited from IFC upstream support (such as the electricity bills that were prepared with the support of 
+IFC), and the design includes aspects that will be complemented by IFC, especially the ESPs’ business development 
+support, enhancing the regulatory environment for increased private sector investments, and priority project 
+structuring (such as the adaption of the standardized templates for IFC’s Scaling Solar Program). Activities implemented 
+by IFC are discussed further in annex 8.  
+ 
+59. 
+The design of the project, especially component 2, draws lessons learnt from a recent project - the Energy 
+Security and Resource Efficiency in Somaliland (ESRES) that was implemented in Somaliland with financing from 
+FCDO. The project piloted initiatives to (a) integrate renewable energy to existing HSDGs creating SPV/BESS/HSDG 
+hybrid mini grids leading to reduced cost of generation and (b) support participating ESPs to reduce network technical 
+and commercial losses. The project has demonstrated the feasibility of solar power in reducing the cost of generation 
+and ESPs’ willingness to provide capital investments into SPV-based generation capacity. The project provided financing 
+for nine hybrid mini grids with installed SPV capacity of 5.7 MWp and four BESS systems with a total capacity of 2.6 
+MWh. This led to reduced diesel consumption of about 3.4 million liters per year and reduced GHG emissions equivalent 
+to about 8,822 tons of CO2 annually, with an expected lifetime saving of 175,000 tons. Eight of nine ESPs reduced the 
+tariff by about 34 percent. ESPs also installed capacity of SPV/BESS equivalent capacity of 21.2 MWp in four years. Key 
+lessons from the project include the following: (a) ESPs require significant technical assistance to enhance their 
+operations and uptake emerging technologies; (b) there is a need to support increased uptake of electricity services, 
+especially for productive use; (c) there is a need for a conducive institutional, legal, and regulatory framework for 
+sustained operations; and (d) most of the ESPs have a limited ability to raise capital to expand their operations, 
+especially in terms of large-scale, renewable energy–based generation. 
+ 
+60. 
+Lessons learned from the implementation of the SEAP project have been incorporated into project design. 
+The SEAP project has been the first project implemented by the counterparts, and highlighted the need for 
+strengthening the safeguards, procurement, and financial management capacity of the PIUs. Critical gaps have been 
+identified and included in the design of Component 4. In addition, the project provides technical assistance for 
+improved sector planning, which is also been complemented by improved assessments and capacity building under 
+Component 4. Finally, Component 3 was informed by the lessons learned from providing access to households and 
+Small and Medium Enterprises with SHS systems.  
+ 
+61. 
+Lessons from past and global experience on service provision to public institutions were incorporated in the 
+project design to ensure sustainability. The lack of public financing for access provision to health and education 
+facilities has emerged as a key constraint for scaling up access to electricity services (both grid and off-grid) and for the 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 95 
+     
+ 
+ 
+adequate O&M of the connections provided. As a result, when stand-alone off-grid PV systems are provided with donor 
+and public financing, they often end up as stranded assets; lack of earmarked financing for O&M and the lack of skilled 
+technicians to operate and maintain the systems are key constraints. This is further compounded by a lack of in-house 
+capacity in the respective ministries of health or education to integrate energy planning for functional facilities. These 
+ministries have traditionally perceived the role of electricity services provision as an obligation of the energy ministry 
+and related institutions—the health and education ministries lack budget resources to maintain the associated energy 
+assets and payment for consumption. Though the project will adopt the current practice of access free of charge 
+(through public financing), the project will provide training and capacity-building activities to the beneficiary institution 
+staff. This will enable the establishment of a workforce capable of managing the systems after the lifetime of the project 
+and leading facilities’ planning, operations, and maintenance. The beneficiary ministries will also be required to allocate 
+adequate financing to the O&M after the duration of the project to ensure the sustainability of operations. Based on 
+the entrepreneurial experiences witnessed in other contexts of fragility, to support the revenue stream required to 
+allocate an adequate public budget for the operations of the systems after the lifetime of the project, a pilot will be 
+conducted in selected facilities for the provision of auxiliary services. 
+ 
+III. 
+IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+62. 
+The project will rely on the existing institutional and implementation arrangements established under the 
+ongoing SEAP. The project will be implemented by the two PIUs established at the MoEWR and the MoEM, in close 
+coordination with the FMSs, the beneficiary ministries, and ESPs. Given the nascent capacity within the implementing 
+agencies and PIUs, the Owners Engineer firm will be recruited to support the PIUs in project design, procurement, and 
+contract management, including fiduciary, environment, and social risk management aspects, and project monitoring 
+and evaluation.  A BSSF with experience in utility operations will be hired by each PIU to support selected ESPs. The 
+BSSF will assess capacity of ESP to manage the E&S aspects in their operations and strengthen the ESPs’ technical and 
+institutional capacity in key functions of Electricity Utility Business including but not limited to Corporate Planning, 
+commercial and network management and operations. 
+ 
+63. 
+To strengthen project oversight, an independent monitoring and verification firm will be hired to provide 
+independent audits (covering technical, fiduciary and safeguards among others) including assessment of E&S 
+performance of contractors and ESPs against the subproject specific mitigation plans. In addition, a Project Steering 
+Committee (PSC) will be constituted at the line ministries with high level representation of the Ministry of Finance to 
+provide overall oversight of project implementation and policy guidance. The Energy Sector Working Group (ESWG) 
+will be constituted at the MoEWR and MoEM level to provide guidance on project implementation; provide a forum 
+for sector dialogue, ownership, and accountability among government, the development partners, and other sector 
+stakeholders. Detailed implementation arrangements are described in annex 2.  
+ 
+B. Results Monitoring and Evaluation Arrangements 
+ 
+64. 
+The project monitoring and evaluation (M&E) system incorporates the PDO and intermediate indicators that 
+will be used to track both project implementation progress and attainment of the intended objectives at completion. 
+The M&E also includes several sex-disaggregated results indicators to monitor and assess both progress in 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 95 
+     
+ 
+ 
+implementing gender-related activities, including narrowing of identified gender disparities, and project benefits for 
+women and men. Monitoring of results will be a key responsibility of the PIUs. The PIUs will be responsible for 
+collecting, verifying, and collating information, integrating the M&E reports, and submitting to the World Bank both 
+quarterly and annual progress reports. The PIUs shall establish a database for each component of the project to 
+periodically monitor the evolution of implementation, outputs, and results, with systems for regular data gathering 
+and processing of information required to monitor the main performance indicators and intermediary indicators as 
+defined in the results framework. The PIUs shall collect and compile data to provide a basis for a compressive mid-term 
+review. The Project Management Teams will also undertake an end-of-term review and write a final Implementation 
+and Completion Results Report. 
+ 
+C. Sustainability 
+ 
+65. 
+The proposed series of projects (SOP) is a steppingstone to long term vision to build institutions and regulations, 
+as well as phased infrastructure investment program for access expansion, clean energy transition, and regional 
+interconnectivity.  The SOP will enable establishment of building blocks of a national integrated electricity supply 
+industry, including the sector’s physical and institutional infrastructure and sector operations with adequate capacity 
+and clear roles and mandates for private and public actors, thereby creating conditions to enhance sustainability of the 
+sector and activities.  
+66. 
+The ongoing government-led initiatives to enact the sector laws and the willingness to have an enabling 
+institutional and regulatory framework, in addition to the sector policies already adopted, support the project’s long-
+term impact and sector sustainability. They address (a) increasing the reliability, efficiency, and accountability of 
+electricity service delivery; (b) promoting private sector participation; and (c) improving the sector management and 
+performance. 
+ 
+67. 
+The multi-pronged approach of the project encompassing both investments to improve the quality of 
+electricity services and sector re-establishment for improved operations and sustainability of systems, processes, 
+and incentives that will allow electricity services to be provided. By focusing on improving quality, this project will 
+contribute to socioeconomic development, firm competitiveness, and job creation over the long term. Efficient sector 
+operations hinge on the development of management systems to inform decision-making and put in place the tools 
+and processes required to operate effectively. The project-supported sector capacity enhancement and technical 
+assistance will help improve (a) quality of electricity services, (b) sector-wide planning, and (c) enhanced role of the 
+private sector (the ESPs). 
+ 
+68. 
+A key component of the project is the BSSF support to ESPs. It is envisaged that the BSSF will support selected 
+ESPs in defining and implementing the business improvement plans, including performance indicators, which will 
+facilitate the operators’ ability to comply with regulatory and license obligations and enable them to build the capacity 
+needed to grow their business. Over the long term, increased private sector participation will provide not only 
+sustainability through efficiency of operations but also the ability to crowd in private sector-led investments. 
+ 
+69. 
+The sustainability of off-grid investments beyond the life of the project is at the core of project design. First, 
+the off-grid supply solutions are identified based on a comprehensive geospatial plan with a robust approximation of 
+consumption points and total demand. This plan will be updated over time allowing a regular assessment of economic 
+viability. Second, a contractor will be engaged by the government to design, supply, install and operate the systems, 
+especially for the public facilities. O&M services for will be contracted out to ensure attention to replacement and 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 95 
+     
+ 
+ 
+repairs of these assets. The MoEWR/MoEM will handover operations of the systems to the ministries of health and 
+education beyond the project period and will ensure capacity is built for these ministries to take care of the system. 
+Technical assistance will be provided to the ministries of health and education under the project to improve their 
+budget discipline for the facilities’ operational costs and to identify measures to increase their revenue stream, based 
+on best practices and in collaboration with the World Bank Health and Education projects.  
+ 
+IV. PROJECT APPRAISAL SUMMARY 
+A. Technical, Economic and Financial Analysis (if applicable) 
+70. 
+Technical. The activities under the project will not pose any significant technical concerns. All the technologies 
+applied in the project, particularly the generator synchronization, the 132 kV sub-transmission and MV distribution 
+network reinforcement, solar PV Installations and BESS have been widely used in other countries with similar 
+conditions. Specially, the integration of solar PV/BESS into the existing HSDGs system has recently been undertaken by 
+several ESPs in Somaliland under the ESRES-FCDO supported project and thus there is country experience with similar 
+technology.  
+ 
+71. 
+Economic and Financial. The economic returns are assessed in a standard cost-benefit analysis. Benefits of 
+components 1 and 2 are based on the economic value of displaced diesel fuel. Under component 3, the social benefits 
+of electrification of health and educational facilities cannot easily be monetized in the absence of reliable health data, 
+as a proxy for willingness-to-pay (WTP) the avoided cost of diesel generation that would provide the equivalent 
+electricity output was applied.  Component 4 is excluded since the economic benefits of technical (TA) outcomes are 
+difficult to monetize.  The economic analysis shows high returns, a consequence of the unusually high cost of diesel 
+generation, especially in inland areas. The five-year average of diesel price in Mogadishu is $0.81 per liter, and $0.68 
+per liter as of January 2021, compounded by losses in a dilapidated distribution network of up to 40 percent. Diesel 
+prices in inland regions have averaged from $0.61 per liter to $1.10 (in the Juba region).  The economic returns are 
+shown in table 4. The lowest returns are for component 3, but the social benefits of improved health and educational 
+outcomes will exceed the WTP proxy used in the analysis. The present operation of the ESPs is so inefficient, losses are 
+so high, and diesel fuel so expensive that even with the application of a 2.5x multiplier over international price levels 
+the proposed interventions have much higher returns than in most other countries in Africa. Details of the economic 
+and financial analysis are presented in annex 3.  
+Table 4: Economic Analysis 
+Component 
+ERR 
+NPV 
+US$ million 
+1A: Generator Synchronization and Automation 
+47% 
+52 
+1B: Subtransmission and Distribution network interconnection in the major 
+load centers  
+43% 
+370 
+2: PV Hybridization and battery storage systems for minigrids 
+43% 
+63 
+3: Stand-alone solar off-grid access to public institutions 
+19% 
+42 
+Project as a whole 
+39% 
+549 
+Including GHG, low SVC 
+42% 
+608 
+Including GHG, high SVC 
+52% 
+697 
+Note: NPV discount rate of 4 percent, 15-year economic project lifetime. ERR = economic rate of return; NPV = net present value; GHG= 
+greenhouse gas; SVC = shadow value of carbon.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 95 
+     
+ 
+ 
+ 
+72. 
+The GHG accounting is integrated into the economic analysis, based on lifetimes of 15 years (corresponding to 
+typical 15-year PV warranties). Since diesel consumption (and hence GHGs) is a strong function of loading, the savings 
+are based directly on reductions in diesel fuel rather than the usual IFI and Intergovernmental Panel for Climate Change 
+(IPCC) default values for emission factors. Lifetime GHG emission reductions are estimated at 2.4 million tons of CO2. 
+The low and high valuations stipulated in the World Bank’s guidance document increases the economic returns as 
+shown in annex 3. 
+73. 
+Financial analysis. Components 1 and 2 involve ESPs whose financial statements were not available, and thus 
+the impact of the project on the financial condition of the ESPs could not be assessed.  However, the approach used to 
+undertake the financial analysis was to capture the expected incremental cash flows with the assumption that the ESPs 
+will purchase the PV generated power. Such a financial assessment is not appropriate for the health center and school 
+SHSs (component 3), which generate no offsetting revenue from users. Real financial returns are somewhat lower than 
+the ERRs (attributable mainly to an 18 percent import duty on CAPEX), but highly profitable to the ESPs. Details are 
+available in annex 3.    
+74. 
+Impact of climate change on economic returns and assessment of mitigation and adaptation costs. 
+Notwithstanding the high level of uncertainty in the input assumptions, the resilience of the project interventions to 
+severe climate change is high. The worst-case climate change scenario does not threaten the economic viability of the 
+proposed project investments. Details of impact of climate change and adaptation costs are discussed in annex 3.  
+B. Fiduciary 
+Financial Management 
+ 
+75. 
+The financial management (FM) assessment and the design of the FM arrangements for this project took into 
+consideration the government public financial management (PFM) systems in the energy sector. In particular, the 
+assessment covered the sector’s planning and budgeting approaches, funding flow and banking arrangements, and 
+accounting and internal control frameworks, including payroll controls and the supporting systems—reporting as well 
+as external audit and oversight arrangements. The assessment took into account the extent to which the existing 
+systems are mainstreamed into the country’s PFM systems. The FM systems and arrangements will include budgeting, 
+accounting, internal controls, funds flow, financial reporting and internal and external auditing arrangements, FM 
+staffing, risk management, and related policies, procedures, and practices. The objective of the assessment was to 
+ascertain that the FM systems will facilitate the preparation of regular, timely, and reliable financial statements and 
+will support the provision of a complete, true, and fair record of all transactions and balances, safeguard assets, and 
+internal and external auditing arrangements, in line with the World Bank financial management policies and 
+internationally accepted standards. Detailed mitigation measures are provided in Annex 2. 
+76. 
+In view of the specific context and operating environment in Somalia, the residual fiduciary risk for the project 
+is assessed as Substantial. The Substantial-risk rating is largely attributable to weak institutional and systems capacities 
+at the federal, state, regional, and district levels. The policies, procedures, and legal framework needed to support the 
+sector are under formulation with support from international development partners. In addition, there are (a) deficient 
+human resource capital at national and regional levels; (b) sustainability challenges, as the energy sector is largely 
+managed and funded via out-of-country systems; and (c) inadequate resources to finance the sector in line with the 
+priorities of the government(s). 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 95 
+     
+ 
+ 
+77. 
+The project will adopt the use of country systems (UCS) in various aspects of the project’s FM, including 
+budgeting, accounting and reporting, banking, and oversight arrangements with the Office of the Auditor General. 
+This will be supported by technical assistance with clear requirements for knowledge transfer incorporated in the Terms 
+of Reference (ToRs). Similar to other World Bank–supported operations, the External Assistance Fiduciary Section 
+(EAFS) units, established within the Offices of the Accountant General at FGS and Somaliland will be charged with the 
+overall project FM for all projects financed by IDA resources whose performances thus far has been satisfactory. With 
+overall guidance from the Accountant General(s) and the EAFS units, the respective PIUs will continue to provide day-
+to-day FM oversight of the project. The effectiveness of the EAFS units, alongside other key functional units, will be 
+continuously monitored, while key areas of capacity strengthening will be identified and supported through the project. 
+The existing organizational and functional structure of the EAFS units are expected to be maintained and further 
+strengthened to provide effective FM support to the project. 
+78. 
+All project FM transactions will be recognized, captured, recorded, analyzed, summarized, and reported 
+through the governments’ financial management information system (MIS). The EAFS units with support of the 
+respective accountant generals will ensure that (a) all important business and financial processes are adhered to, (b) 
+adequate internal controls and procedures are in place and adequately enforced, (c) unaudited Interim Financial 
+Reports (IFRs) are prepared on a timely basis, (d) all Statements of Expenditures (SOEs) are submitted to the World 
+Bank on a timely basis, (e) project financial statements are prepared on a timely basis and in accordance with 
+international public-sector accounting standards cash-basis, and (f) external audit is completed on time and audit 
+findings and recommendations/issues raised in the management letter are implemented expeditiously. 
+Procurement 
+ 
+79. 
+Procurement will be carried out in accordance with the World Bank’s Procurement Regulations for IPF 
+Borrowers dated November 2020 (Procurement Regulations); the Guidelines on Preventing and Combating Fraud and 
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, revised July 1, 2016; and the provisions 
+stipulated in the Financing Agreement. Procurement under the project will be carried out according to the 
+arrangements described in annex 2. 
+80. 
+Procurement implementation arrangement. For implementation of the ongoing SEAP, two functional PIUs 
+were established at MoEWR and MoEM. The same PIUs will be utilized for implementation of SESRP. The 
+implementation timelines of SEAP (stipulated to be closed on June 30, 2022) and SESRP are overlapping. The expertise 
+gained and institutional memory will be beneficial for implementation of SESRP. The PIUs are staffed with a dedicated 
+procurement specialist. In both the PIUs, an adequate number of officials dealing with procurement either directly or 
+indirectly have undergone procurement training with focus on the World Bank's procurement regulations. Considering 
+the increased spending envelope for SESRP and the procurement profile, the staff needs timely advice and support in 
+articulating high-value and complex procurement transactions envisaged through SESRP. The World Bank continues to 
+review the capacity requirements and staff turnover and provides need-based refresher trainings periodically, including 
+training to manage the Systematic Tracking of Exchanges in Procurement (STEP) portal.  
+81. 
+Project procurement strategy for development (PPSD) and the Procurement Plan (PP). The borrower has 
+prepared the PPSD and Procurement Plan for the first 18 months with a focus on key procurement activities to select 
+the optimum fit-for-purpose method and market approach.  
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 95 
+     
+ 
+ 
+82. 
+Systematic tracking of exchanges in procurement. The World Bank’s STEP system will be used to prepare, clear, 
+and update PPs and conduct all procurement transactions for the project. Staff of the PIU have been trained in using 
+STEP. 
+C. Legal Operational Policies 
+. 
+. 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+. 
+D. Environmental and Social 
+ 
+83. 
+The project’s Environmental and Social Risk Management follows a phased approach starting with basic 
+assessments and then builds incrementally through a sectoral wide assessment commencing in the early phases of 
+project implementation. The key E&S risks at the project level that will need to be taken into consideration as detailed 
+assessment are carried out during the implementation are security risks, occupation health and safety, labor welfare 
+and working conditions, labor influx, waste management, land acquisition and resettlement, legacy issues around 
+existing sites of generation and distribution network. Given the low capacity at the FGS, FMS, ESPs, local contractors, 
+consultants and other implementing partners, substantial focus will be on building capacity by following a learning by 
+doing approach. Simultaneously, support will be provided under the project to set-up an E&S management system, 
+policies, guidelines etc. to serve in the medium and long term through a capacity building plan.  
+ 
+84. 
+The project has prepared an Environmental and Social Management Framework (ESMF), Stakeholder 
+Engagement Plan (SEP), Draft Security Management Framework, Environmental and Social Commitment Plan, Draft 
+Labour management procedures (LMP), standalone Draft GBV Mitigation Action Plan and draft Resettlement Policy 
+Framework (RPF) and disclosed in country on September 12, 202134.  The ESMF includes ToR for Sectoral Environmental 
+and Social Impact Assessment (SESIA), ToR for Capacity Building Plan with activities, timetable, budget and ToR for 
+conducting assessment to confirm the presence of IP/Sub-Saharan Historically Underserved Traditional Local 
+Communities as per ESS7 to (a) determine the applicability of the standard; (b) prepare an IPPF if required.  
+ 
+85. 
+Stakeholder consultation were held on April 28, 2021 (Somaliland) and on May 22, 24 to 26, 2021 for FGS 
+(Somalia). Additional Stakeholder engagements were held from June 15 to 30, 2021. All these have been documented. 
+Once the sub project design is finalized and the sites are identified the PIU will disclose the executive summaries of 
+ESMF, RPF, LMP as well as ESMP, RAPs etc, in the respective FMS and district offices in culturally appropriate manner. 
+Site-specific environmental and social standards instruments such as ESIAs, ESMPs, and/or Resettlement Action Plans 
+will be prepared as required. All ESF instruments shall be reviewed and cleared by the World Bank and publicly disclosed 
+for feedback as per ESS10. 
+ 
+86. 
+The ESMF covers the environmental and social baseline of the project; a review of relevant national policy; a 
+thorough performance evaluation of regulatory frameworks and institutional arrangements; environmental and social 
+ 
+34 The ESCP, SEP and AESRS have been disclosed on Bank website on September 30, 2021. Other documents are in the approval 
+process for disclosure on World Bank website 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 95 
+     
+ 
+ 
+risks and impacts and mitigation measures; project coordination and implementation arrangements; capacity building 
+and training; the environmental and social screening process; a generic Environmental and Social Management Plan 
+(ESMP) for distinctive activities of the project, such as sub-transmission and distribution network reconstruction and 
+reinforcement in the major load centers, hybridization and optimization (including battery storage) of existing and 
+greenfield mini grids developments, retrofitting of existing and new public infrastructure facilities with electricity 
+services and support, and TA activities; ToR for the preparation of site-specific Environmental and Social Impact 
+Assessment (ESIA) and ESMP; chance-finds procedures for cultural heritage; and relevant guidelines (such as solar 
+batteries and panels management, a disposal and recycling plan, and environment, health and safety (EHS) general and 
+transmission/distribution guidelines); and ESMF implementation budget. 
+ 
+87. 
+To further assess capacity at sectoral level a Sectoral Environmental and Social Impact Assessment (SESIA) will 
+be undertaken in the early phases of the project implementation. The SESIA will examine environmental and social risks, 
+impacts, and issues associated with the energy sector in Somalia. It will evaluate and compare the impacts against those 
+of alternative options, assess legal and institutional aspects relevant to the risks and impacts, and recommend broad 
+measures to strengthen environmental and social management. The SESIA will pay particular attention to potential 
+cumulative risks and impacts of multiple activities. The findings of SESIA will link to the larger capacity building plan 
+under SOP 2, 3 and regional project like horn of Africa gateway development project. 
+ 
+88. 
+The presence of communities that meet the identification criteria for IP/SSAHUTLCs is yet to be confirmed. 
+Consistent with ESS7, the government shall further analyze the application of ESS 7 based on Consultations with experts 
+and potentially affected groups and will prepare an IPPF if needed. IPPF will include the screening checklist to confirm 
+the presence of this groups and circumstances requiring Free Prior and informed Consent. 
+ 
+89. 
+An Environmental specialist and Social Specialist in the PIUs for E&S risk management have been hired under the 
+project. An E&S Firm has been hired to provide support in preparation of ESMF, Resettlement Policy Framework, SEP, 
+Labor Management Procedures, and GBV Action Plan and provide guidance in early phase of project implementation in 
+the areas of health, safety, labor management, land, resettlement, community. The Owners Engineer will be responsible 
+for preparing site-specific E&S instruments along with the subproject specific design and subsequent supervision. The 
+Business Support services Firm (BSSF), with experience in utility operations, will be hired to support the ESPs in 
+strengthening their technical and institutional capacity in the key functions of electricity utility business. The experts 
+provided by the BSSF will work as advisors paired to the ESP counterparts for a period of two to three years. The BSSF 
+will support and guide the day-to-day sector undertakings over a medium term to reestablish the Somali electricity 
+sector covering both policy, oversight, operations and management. The BSSF support will include coaching and hands-
+on training of the sector staff covering EHS issues such as: sector governance, development of appropriate regulations 
+and EHS standards in safety, environmental, and social performance obligations for ESPs. The BSSF will support ESPs in 
+enabling E&S capacity, including the preparation of EHS manuals with a focus on the ESPs’ operations and maintenance 
+obligations for the facilities financed by the project. An independent monitoring and verification firm will provide 
+independent audits (covering technical, fiduciary and safeguards among others) including assessment of E&S 
+performance of contractors and ESPs against the subproject specific mitigation plans.  
+ 
+90. 
+There are allegations of forced labor risks associated with the polysilicon suppliers. The Borrower will require 
+bidders to provide two declarations: a Forced Labor Performance Declaration (which covers past performance), and a 
+Forced Labor Declaration (which covers future commitments to prevent, monitor and report on any forced labor, 
+ 
+The World Bank 
+ 
+Somali Electricity Sector Recovery Project (P173088) 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 95 
+     
+ 
+ 
+cascading the requirements to their own sub-contractors and suppliers).  In addition, the Borrower will include enhanced 
+language on forced labor in the procurement contracts. 
+ 
+Gender 
+91. 
+The project preparatory activities, in alignment with the Gender Strategy of the World Bank, and as agreed 
+with the counterparts, included specific gender activities. A preliminary gender assessment was conducted to assess 
+the main gender gaps in the country and an action plan of activities was developed for the project.   
+92. 
+The project’s focus in fostering gender equality will be closely monitored during project implementation. The 
+project results framework includes two intermediate indicators linked to gender: (a) the percentage of women 
+employed in the energy sector and (b) Completion of the Diagnostic Gender Assessment. The project will collect sex-
+disaggregated data where applicable. Additional details regarding the gender analysis, actions, monitoring and 
+evaluation, and the project gender action plan are provided in annex 4. 
+ 
+Citizen Engagement 
+ 
+93. 
+Stakeholder consultations have been undertaken as part of the project preparation and will continue during 
+project implementation. Combined with a broader communication awareness, these consultations will provide an 
+opportunity to interact with the wider public through focus group discussions to understand the experiences people 
+and businesses have with electricity services and their expectations about their improvements. The stakeholder 
+consultations include women-only sessions, scheduled to ensure that women understand the scope of the project and 
+how it will impact their access and usage of the electrical services

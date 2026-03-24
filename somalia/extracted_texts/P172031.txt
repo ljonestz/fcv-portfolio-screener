@@ -1,0 +1,2314 @@
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PAD3930  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ON  
+A PROPOSED GRANT 
+ 
+IN THE AMOUNT OF SDR 52.3 MILLION 
+(US$75.0 MILLION EQUIVALENT)  
+ 
+AND  
+ 
+A PROPOSED GRANT FROM THE GLOBAL FINANCING FACILITY FOR WOMEN, CHILDREN AND 
+ADOLESCENTS 
+IN THE AMOUNT OF US$25.0 MILLION 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA  
+ 
+FOR AN 
+ 
+IMPROVING HEALTHCARE SERVICES IN SOMALIA (“DAMAL CAAFIMAAD”) PROJECT 
+ 
+June 8, 2021 
+ 
+ 
+ 
+ 
+Health, Nutrition & Population Global Practice 
+Eastern and Southern Africa Region 
+ 
+ 
+ 
+ 
+ 
+   
+This document has a restricted distribution and may be used by recipients only in the performance of 
+their official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+ 
+CURRENCY EQUIVALENTS 
+ 
+Exchange Rate (Effective April 30, 2021) 
+ 
+Currency Unit = US Dollar (US$)  
+US$1 = SDR 0.69638368 
+SDR 1 =  US$1.43599 
+ 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Hafez M. H. Ghanem 
+Country Director: Keith Hansen  
+Regional Director: Amit Dar 
+Practice Manager: Francisca Ayodeji Akala  
+Task Team Leaders: Naoko Ohno, Bernard O. Olayo 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AfDB 
+African Development Bank 
+ARI 
+Acute Respiratory Infection 
+ANC 
+Antenatal Care 
+ASA 
+Advisory Services and Analytics 
+BEmONC 
+Basic Emergency Maternal, Obstetric, and Newborn Care 
+BRA 
+Benadir Region  
+CBA 
+Cost Benefit Analysis 
+CCUs 
+Critical Care Units 
+CEmONC 
+Comprehensive Emergency Maternal, Obstetric, and Newborn Care 
+CERC 
+Contingent Emergency Response Component  
+COVAX 
+COVID-19 Vaccines Global Access 
+COVID-19 
+Coronavirus Disease 2019 
+CSDO 
+Coordinating Service Delivery Organization  
+CPF 
+Country Partnership Framework 
+DALY 
+Disability-Adjusted Life Years 
+DHIS2 
+Demographic and Health Information System  
+DA 
+Designated Account 
+DPT3 
+Diphtheria, Pertussis, and Tetanus vaccine  
+DFID 
+The UK Department for International Development 
+DLI 
+Disbursement Linked Indicator 
+EPHS 
+Essential Package of Health Services 
+EAFS 
+External Assistance Fiduciary Section  
+EOY 
+End of Year 
+FCDO 
+The UK Foreign, Commonwealth and Development Office  
+FGS 
+Federal Government of Somalia  
+FMS 
+Federal Member States of Somalia 
+FMoF 
+Federal Ministry of Finance 
+FMoH 
+Federal Ministry of Health 
+FGM 
+Female Genital Mutilation 
+FHW 
+Female Health Workers 
+FMIS 
+Financial Management Information System  
+FM  
+Financial Management 
+FCV 
+Fragility, Conflict, and Violence 
+Gavi 
+Gavi, the Vaccine Alliance 
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GEMS 
+Geo-Enabling initiative for Monitoring and Supervision 
+GFF 
+Global Financing Facility 
+GRS 
+Grievance Redress Service  
+GSS 
+Galmudug State 
+ 
+ 
+ 
+HMIS 
+Health Management and Information System 
+HSS 
+Hirshabelle State 
+HSSP 
+Health Sector Strategic Plan  
+HIPC 
+Heavily Indebted Poor Countries 
+HCI 
+Human Capital Index 
+IDPs 
+Internally Displaced Persons 
+IFC 
+International Finance Corporation 
+IC 
+Investment Case 
+IMF 
+International Monetary Fund 
+IPF 
+Investment Project Financing 
+IRI 
+Intermediate Results Indicator 
+JHNP 
+Joint Health and Nutrition Programme  
+JSS 
+Jubbaland State 
+MPF 
+Multi Partner Fund 
+MTR 
+Midterm Review 
+MWMP 
+Medical Waste Management Plan  
+MoH  
+Ministry of Health 
+NDP9 
+Somalia’s Ninth National Development Plan 
+NGO 
+Non-Governmental Organization 
+NPF 
+New Procurement Framework 
+OPM 
+Office of the Prime Minister  
+OOP 
+Out-of-Pocket Payments  
+OHSG 
+Occupational Health and Safety Guidelines 
+PCIU 
+Project Coordination and Implementation Unit 
+PEF 
+Pandemic Emergency Financing Facility 
+PFM 
+Public Financial Management 
+PP 
+Procurement Plan 
+PMT 
+Program Management Team 
+PA 
+Project Account 
+PDO 
+Project Development Objective 
+POM 
+Project Operations Manual 
+PMU 
+Project Management Unit 
+PPSD 
+Project Procurement Strategy for Development  
+RCRF 
+Recurrent Cost and Reform Financing Project 
+RHO 
+Regional Health Office 
+RMET 
+Resource Mapping and Expenditure Tracking 
+RMNCAH 
+Reproductive, Maternal, Newborn, Child, and Adolescent Health  
+SCRP 
+Somalia Crisis Recovery Project 
+SHDS 
+Somalia Health and Demographic Survey 
+SWS 
+South-West State  
+SoE 
+Statement of Expenditure 
+STEP 
+Systematic Tracking of Exchanges in Procurement  
+ToR 
+Terms of Reference 
+ 
+ 
+ 
+TPM 
+Third Party Monitoring 
+UN 
+United Nations 
+UNICEF 
+United Nations Children’s Emergency Fund 
+USAID 
+United States Agency for International Development 
+WA 
+Withdrawal Application 
+WDI 
+World Development Indicators 
+WHO AFRO 
+World Health Organization’s Regional Office for Africa 
+WHO EMRO 
+World Health Organization’s  Regional Office for the Eastern Mediterranean  
+  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+DATASHEET ........................................................................................................................... 1 
+I. 
+STRATEGIC CONTEXT ...................................................................................................... 8 
+A. Country Context................................................................................................................................ 8 
+B. Sectoral and Institutional Context .................................................................................................... 9 
+C. Relevance to Higher Level Objectives ............................................................................................. 15 
+II. 
+PROJECT DESCRIPTION .................................................................................................. 15 
+A. Project Development Objective ..................................................................................................... 15 
+B. Project Components ....................................................................................................................... 16 
+C. Project Beneficiaries ....................................................................................................................... 24 
+D. Results Chain .................................................................................................................................. 24 
+E. Rationale for Bank Involvement and Role of Partners ................................................................... 26 
+F. Lessons Learned and Reflected in the Project Design .................................................................... 26 
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 29 
+A. Institutional and Implementation Arrangements .......................................................................... 29 
+B. Results Monitoring and Evaluation Arrangements......................................................................... 32 
+C. Sustainability ................................................................................................................................... 34 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 35 
+A. Technical, Economic and Financial Analysis (if applicable) ............................................................ 35 
+B. Fiduciary .......................................................................................................................................... 36 
+C. Legal Operational Policies ............................................................................................................... 38 
+D. Environmental and Social ............................................................................................................... 39 
+V. GRIEVANCE REDRESS SERVICES ..................................................................................... 42 
+VI. KEY RISKS ..................................................................................................................... 43 
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 46 
+VIII. ANNEXES ...................................................................................................................... 53 
+Annex 1: 2020 Somalia Health and Demographic Survey (SHDS) ...................................................... 53 
+Annex 2: World Bank Group (WBG) COVID-19 Country Program Response Note – Somalia ............ 57 
+Annex 3: FGS and FMS MoH Capacity in Somalia: A Summary of RCRF-Financed Capacity 
+Assessments ...................................................................................................................................... 65 
+Annex 4: Project Component Description .......................................................................................... 68 
+Annex 5:  Digital Data Collection Methods ......................................................................................... 74 
+Annex 6: Selection Process of the Project Target Regions ................................................................. 76 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+     
+ 
+ 
+Annex 7: Contract Management for the Delivery of the Essential Package of Health Services ......... 79 
+Annex 8: Third-Party Monitoring Arrangements ................................................................................ 86 
+Annex 9: Implementation Arrangements and Support Plan .............................................................. 88 
+Annex 10: Economic Analysis ........................................................................................................... 104 
+Annex 11: World Bank Task Team Composition ............................................................................... 109 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+     
+Page 1 of 109 
+ 
+ 
+      
+DATASHEET 
+ 
+BASIC INFORMATION 
+ BASIC INFO TABLE 
+Country(ies) 
+Project Name 
+Somalia 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) 
+Project ID 
+Financing Instrument 
+Environmental and Social Risk Classification 
+P172031 
+Investment Project 
+Financing 
+Substantial 
+ 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[✓] Contingent Emergency Response Component  (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[  ] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[  ] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict  
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternate Procurement Arrangements (APA) 
+[  ] Hands-on Enhanced Implementation Support (HEIS) 
+ 
+Expected Approval Date 
+Expected Closing Date 
+29-Jun-2021 
+30-May-2025 
+Bank/IFC Collaboration    
+No 
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective (PDO) is to improve the coverage of essential health and nutrition services in 
+Project areas and strengthen stewardship capacity of Ministries of Health. 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 2 of 109  
+     
+ 
+ 
+Components 
+ 
+Component Name  
+Cost (US$, millions) 
+ 
+Component 1: Expanding the coverage of high-impact health and nutrition services in 
+select geographic areas  
+  75.50 
+ 
+Component 2: Strengthening Government’s stewardship to enhance service delivery  
+  11.50 
+ 
+Component 3: Project management, knowledge management and learning  
+   6.00 
+ 
+Component 4: Contingent Emergency Response Component (CERC)  
+   0.00 
+ 
+Project Activities in Somaliland (Details TBD)  
+   7.00 
+ 
+ 
+Organizations 
+ 
+Borrower:  
+ Federal Ministry of Finance  
+Implementing Agency: 
+ Federal Ministry of Health  
+ 
+PROJECT FINANCING DATA (US$, Millions) 
+ 
+SUMMARY-NewFin1 
+Total Project Cost 
+100.00 
+Total Financing 
+100.00 
+of which IBRD/IDA  
+75.00 
+Financing Gap 
+0.00 
+ 
+ 
+DETAILS-NewFinEnh1 
+World Bank Group Financing 
+     International Development Association (IDA) 
+75.00 
+          IDA Grant 
+75.00 
+Non-World Bank Group Financing 
+     Trust Funds 
+25.00 
+          Global Financing Facility 
+25.00 
+ 
+  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 3 of 109  
+     
+ 
+IDA Resources (in US$, Millions) 
+ 
+Credit Amount 
+Grant Amount 
+Guarantee Amount 
+Total Amount 
+Somalia 
+   0.00 
+  75.00 
+   0.00 
+  75.00 
+National PBA 
+   0.00 
+  75.00 
+   0.00 
+  75.00 
+Total 
+   0.00 
+  75.00 
+   0.00 
+  75.00 
+ 
+ 
+ 
+Expected Disbursements (in US$, Millions) 
+ 
+WB Fiscal Year   
+ 
+ 
+ 
+ 
+ 
+2021 
+2022 
+2023 
+2024 
+2025 
+Annual 
+ 
+ 
+ 
+ 
+ 
+   3.00 
+  15.00 
+  25.00 
+  20.00 
+  12.00 
+Cumulative 
+ 
+ 
+ 
+ 
+ 
+   3.00 
+  18.00 
+  43.00 
+  63.00 
+  75.00 
+  
+ 
+INSTITUTIONAL DATA 
+ 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Health, Nutrition & Population 
+ 
+ 
+Climate Change and Disaster Screening 
+This operation has been screened for short and long-term climate change and disaster risks 
+ 
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT) 
+ 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫ High 
+2. Macroeconomic 
+⚫ Substantial 
+3. Sector Strategies and Policies 
+⚫ Substantial 
+4. Technical Design of Project or Program 
+⚫ Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫ High 
+6. Fiduciary 
+⚫ High 
+7. Environment and Social 
+⚫ Substantial 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 4 of 109  
+     
+ 
+8. Stakeholders 
+⚫ Substantial 
+9. Other 
+ 
+10. Overall 
+⚫ Substantial 
+ 
+COMPLIANCE 
+ 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+  
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+Assessment and Management of Environmental and Social Risks and Impacts 
+Relevant 
+Stakeholder Engagement and Information Disclosure 
+Relevant 
+Labor and Working Conditions 
+Relevant 
+Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+Community Health and Safety 
+Relevant 
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Relevant 
+Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Relevant 
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional 
+Local Communities 
+Not Currently Relevant 
+Cultural Heritage 
+Relevant 
+Financial Intermediaries 
+Not Currently Relevant 
+  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 5 of 109  
+     
+ 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+Legal Covenants 
+  
+ Sections and Description 
+Schedule 2, Section I, A (1a): Establish by no later than three (3) months after the Effective Date, and thereafter 
+maintain throughout the period of Project implementation, a high-level Project steering committee (“Project 
+Steering Committee”). 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, A (1b): Establish and thereafter maintain within the Federal Ministry of Health throughout the 
+period of Project implementation, a Project coordination implementation unit (variously the “Project Coordination 
+and Implementation Unit or “PCIU”). 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, A (1c): Establish by no later than six (6) months after the Effective Date, and thereafter 
+maintain throughout the period of Project implementation, a Project Leadership Committee. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, E: The Recipient shall select and engage, by no later than four (4) months after the Effective 
+Date, and thereafter retain throughout the period of implementation of the Project, the services of a duly qualified 
+and experienced monitoring consultant satisfactory to the Association, under terms of reference acceptable to the 
+Association, in order to: (a) develop and enhance the capacity the Federal Ministry of Health in monitoring; (b) 
+monitor the delivery of high-impact health and nutrition services;  and (ii) Project implementation. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, C (1a): No later than two months after the Effective Date prepare a Project operations 
+manual, in form and substance satisfactory to the Association, containing detailed arrangements and procedures 
+for implementation of the Project. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section II, D (a): Prepare and furnish to the Association on an annual basis, by no later than November 
+1st of each year, commencing on November 1, 2021, the annual work plan and budget containing all activities 
+proposed to be included in the Project during the following Fiscal Year, and a proposed financing plan… the Annual 
+Work Plan and Budget for the first year of Project implementation shall be prepared by the Recipient by not later 
+than three (3) months after the Effective Date. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section II, 1: The Recipient shall furnish to the Association each Project Report not later than forty-five 
+(45) days after the end of each calendar quarter, covering the calendar quarter. 
+ 
+ 
+ 
+ Sections and Description 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 6 of 109  
+     
+ 
+Schedule 2, Section I, A (1d): Maintain, throughout the period of implementation of the Project, the EAFS Unit, 
+established within MoF’s Office of Accountant General, with competent, experienced and qualified staff, in 
+sufficient numbers and under terms of reference acceptable to the Association. 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, A (2b): Establish  within the respective FMS-MoH, and thereafter maintain throughout the 
+period Project implementation, a state Project team (“Project Management Team”). 
+ 
+ 
+ 
+ Sections and Description 
+Schedule 2, Section I, B (1a): For purposes of carrying out the Project, and prior to the provision any funds and/or 
+the financing of any activities implemented under the Project in/for any Federal Member State, the Recipient shall 
+have entered into an agreement with such Federal Member State (the “Subsidiary Agreement”), under terms and 
+conditions acceptable to the Association, setting forth the obligations and responsibilities of the parties thereto (i.e. 
+the Recipient and the Federal Member State) in the implementation of the Project, in consistency with this 
+Agreement, the ESCP and the Project Operations Manual. 
+ 
+ 
+ 
+ 
+Conditions 
+  
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds, IBRD/IDA 
+Article IV, Section 4.01 (a): The Recipient has established the Project 
+Coordination and Implementation Unit (PCIU) pursuant to the 
+provision of Section I.A.1(b) of Schedule 2 to this Agreement. 
+ 
+Type 
+Financing source 
+Description 
+Effectiveness 
+Trust Funds 
+Article IV, Section 4.01 (b): The GFF Grant Agreement has been duly 
+executed and delivered, and all conditions precedent for its 
+effectiveness, or to the right of the Recipient to make withdrawals 
+under the GFF Grant Agreement, other than the effectiveness of 
+this Agreement, have been fulfilled. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, IBRD/IDA 
+Schedule 2, Section III, B (1b): No withdrawal shall be made under 
+Category 1 until the Recipient has updated the ESF  capacity 
+enhancement action plan in a manner and substance satisfactory to 
+the Association. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+Trust Funds, IBRD/IDA 
+Schedule 2, Section III, B (1c): No withdrawal shall be made under 
+Category (4) until: (i) arrangements for flow of funds out of the 
+Grant proceeds allocated for activities in Somaliland are in place,  in 
+substance and form satisfactory to the Association; (ii) the 
+Somaliland Manual has been adopted by Somaliland; and (iii) 
+institutional arrangements, satisfactory to the Association and 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 7 of 109  
+     
+ 
+detailed in the Somaliland Manual. 
+ 
+Type 
+Financing source 
+Description 
+Disbursement 
+IBRD/IDA 
+Schedule 2, Section III, B (1c): No withdrawal shall be made under 
+Category (5) until: (i) the Recipient’s relevant authority has declared 
+a disaster, emergency or catastrophic event; (ii) the Association and 
+the Recipient have agreed in writing to address such disaster, 
+emergency or catastrophic event under Part 4 of the Project and in 
+accordance with the provisions of this Agreement; and (iii) 
+Recipient has adopted an Emergency Response Operations Manual 
+in accordance with the provisions of Section I.C.3 of Schedule 2 to 
+this Agreement. 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 8 of 109  
+     
+ 
+I. STRATEGIC CONTEXT 
+ 
+A. Country Context 
+ 
+1. 
+Somalia has experienced prolonged conflict and is among the poorest countries in the world with a nominal 
+gross domestic product (GDP) per capita of US$327.1  An estimated 69 percent of the Somali population live in poverty 
+(below US$1.90 per day, 2018 estimate) with many more living just above the poverty line.2 This is further compounded 
+by a high population growth rate of 2.83 percent (2015-2020)3, with an annual economic growth rate of approximately 
+2.8 percent (2016-2020).  Due to the coronavirus disease of 2019 (COVID-19) pandemic and associated disruptions of 
+economic activity, the economy is expected to contract by 1.5 percent in 2020. The growth outlook for  2021 is projected 
+at 2.5 percent4, compared to a pre-COVID 19 forecast of 3.2 percent. The economy is highly dependent on foreign 
+remittances, which are estimated to make up 31.2 percent of the country’s GDP (2020), with less access to remittances 
+among rural and poor populations.  Fiscal capacity remains low, with a government expenditure to GDP ratio of 12.4 
+percent (2020), underlined by nascent tax mobilization systems with a tax-to-GDP ratio of 2.5 percent (2020), which 
+further constrains service delivery.5 
+2. 
+Somalia is transitioning towards increased stability through institutional and political reforms, which began 
+with the adoption of a provisional constitution and a Federal Government in 2012.  The federal system established under 
+the 2012 provisional constitution carved out four new Federal Member States (FMS), resulting in a total of six under the 
+Federal Government of Somalia (FGS).6  In the transition to greater political stability, the Government has improved 
+financial transparency and institutional structures through the adoption of reforms and improved governance.  However, 
+an active armed insurgency, unresolved constitutional issues, weak service delivery capacity, fiscal capacity constraints, 
+and continual humanitarian crises remain. Somaliland has a politically complex relationship with the FGS, which is 
+unresolved and impacting constructive relations towards economic  development.   
+3. 
+In March 2020, Somalia qualified for the Heavily Indebted Poor Countries (HIPC) Initiative Decision Point. 
+Somalia has been working to maintain macroeconomic stability, implement a poverty reduction strategy, and put in place 
+reforms focused on fiscal stability, improving governance and debt management, strengthening social conditions, and 
+supporting inclusive growth. These successful reforms have laid the foundation for inclusive economic growth and for 
+addressing the needs of the country’s most vulnerable people.  After 30 years outside the international financial system, 
+Somalia has achieved the HIPC milestone, reopening access to regular concessional financing from the International 
+Development Association (IDA) and other International Financing Institutions, along with investments of private capital, 
+including those from the International Finance Corporation (IFC).    
+4. 
+Somalia’s recurrent natural disasters and conflict hamper development efforts. The country faced the impact of 
+crippling droughts from 2016 to 2017 and again in 2019, together with protracted and ongoing armed conflicts, resulting 
+in the internal displacement of more than 2.6 million people and widespread food insecurity and hunger. Cyclical floods 
+and droughts are increasingly common features and their co-existence poses a continuous state of crisis. With most 
+Somalis dependent on agriculture (primarily livestock) and forestry, continued climate and conflict challenges destabilize 
+daily life. The interlinkages between climate and environmental change, cyclical drought, poverty, fragility, severe food 
+ 
+1 World Economic Outlook, 2021. 
+2 Somalia Economic Update, 2020. 
+3 UN Population Division, World Population Prospects 2019 Revision. 
+4 World Economic Outlook, 2021. 
+5World Bank, (2020). Somalia Economic Update, June 2020: Impact of COVID-19-Policies to Manage the Crisis and Strengthen Economic Recovery 
+6 New FMS are: Galmudug, Hirshabelle, Jubbaland, and South-West State (SWS).  Existing areas that became States include: Puntland and 
+Somaliland (the latter considers itself independent from Somalia, but is not recognized as such). 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 9 of 109  
+     
+ 
+insecurity, and protracted conflict are arguably more pronounced in Somalia than in most countries. In late 2019 and 2020, 
+the country faced severe floods and desert locust invasion.  In addition, Somalia has not been spared by the ongoing 
+COVID-19 crisis, and the first case was confirmed on March 16, 2020. The spread of COVID-19 across Somalia in 2020 
+further constrained the already fragile health system by diverting limited resources available towards COVID-19 and 
+through the economic disruptions it caused.  
+5. 
+The Somali population is growing rapidly with an annual population growth rate of almost 3 percent, resulting 
+in the doubling of the population approximately every 24 years. While there is no recent census data, Somalia’s total 
+population is estimated to be 15.4 million7, with a high fertility rate of 6.9 births per woman in 2019.8  Substantial 
+population growth has resulted in a young population, with 66 percent of the population under 19 years of age and 78 
+percent under the age of 30.9  Youth unemployment is high and educational attainment limited, with only 16 percent of 
+the population completing primary school and 7 percent completing secondary school.10 As of 2019, 46 percent of the 
+population lived in urban areas with rural and nomadic populations constituting the remaining 54 percent.11 
+6. 
+Gender disparities in Somalia are among the worst in the world, characterized by limited access to formal 
+education, high rates of gender-based violence (GBV), as well as a nearly universal prevalence of female genital mutilation 
+(FGM) at 99.2 percent prevalence among women.  By 14 years of age, almost all girls have experienced FGM, with little 
+variation across age and education groups. Women also face barriers to formal economic participation. Seventy five 
+percent of women have received no education.12 A 2016 GBV survey commissioned by the World Bank and the United 
+Nations (UN) partners found that 17 percent of women have experienced some form of non-partner physical or sexual 
+violence, while intimate partner violence is a common lifetime experience, affecting 36  percent of women interviewed.  
+The impacts and costs of GBV on human potential, as well as health and well-being, are severe and present a significant 
+barrier to development. 
+ 
+B. Sectoral and Institutional Context 
+ 
+7. 
+Despite some progress, Somalia’s human capital is likely among the world’s lowest.  The Human Capital Index 
+(HCI)13, developed by the World Bank, has yet to be calculated for Somalia due to a lack of data on educational outcomes. 
+However, Somalia’s human capital  level likely lags behind neighboring countries as underperforming human development 
+capital indicators underline the need to invest in the quality and coverage of services for human development. 
+Improvements in human capital  are demonstrated to accelerate sustainable growth and prosperity in countries.  
+8. 
+Somalia’s lagging health outcomes reflect the country’s insecurity, vulnerability, and deep-rooted poverty, 
+limiting opportunities for people to access basic social services, including education and health. As seen in Table 1, 
+Somalia’s health indicators remain among the worst in the world, with an average life expectancy of 56 years. Other 
+indicators lag behind those in the World Health Organization’s Regional Office for Africa (WHO AFRO) as well as most 
+indicators in select, comparable Fragility, Conflict, and Violence (FCV) impacted countries in World Health Organization’s  
+ 
+7 United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 
+8 Somalia Health and Demographic Survey (SHDS), 2020 
+9 SHDS, 2020 
+10 Somalia CPF, 2018 
+11 World Development Indicators, 2019 
+12 SHDS, 2020 
+13 The HCI measures how much human capital a child born today can expect to attain by age 18, given the risks of poor health and poor education 
+prevailing in the country where they live. 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 10 of 109  
+     
+ 
+Regional Office for the Eastern Mediterranean (WHO EMRO), of which Somalia is a part.14  While most health outcomes 
+in Somalia improved from 2006 to 2019, some indicators such as fertility and stunting have worsened since 2016. 
+ 
+Table 1: Somalia's Key Health Indicators  
+Indicator 
+200615 
+201616 
+201917 
+WHO AFRO Regional 
+Average (2016)18 
+Maternal Mortality Ratio (per 100,000 live births) 
+1040 
+865 
+692 
+536 (2017) 
+Neonatal Mortality Rate (per 1,000 live births) 
+45.1 
+39 
+N/A 
+26 
+Infant Mortality Rate (per 1,000 live births) 
+103.3 
+80.4 
+N/A 
+51 
+Under-five Mortality Rate (per 1,000 live births) 
+170.5 
+128.4 
+N/A 
+80.5 
+Total Fertility Rate (no. of  births per woman)  
+7.2 
+6.3 
+6.9 
+N/A 
+Adolescent Fertility Rate (births per 1,000 women;15-
+19 years) 
+127.17 
+102.14  
+140 
+102.1 (2015-2020) 
+Stunting (age-for-height among children under five 
+years of age) 
+N/A 
+25.3% 
+(2009) 
+28% 
+29% 
+ 
+9. 
+Reliable health data, particularly geographically disaggregated data, are limited.  The 2020 Somalia Health and 
+Demographic Survey (SHDS) is the first household survey since 2011, the first nationwide household survey and the most 
+reliable source of health data.   However, disaggregated SHDS data are currently only available for Puntland and 
+Somaliland, as shown in Table 2 below. 
+Table 2: Somalia Average and Available Disaggregated Health Outcome Data19 (Source: 2020 SHDS) 
+Indicator 
+Somalia 
+Average 
+Puntland 
+Somaliland 
+Total fertility rate (no. of births per woman) 
+6.9 
+6.8 
+5.7 
+Maternal Mortality Ratio (per 100,000 live births) 
+692 
+662 
+396 
+Adolescent Fertility Rate (births per 1,000 women in 15-19 years) 
+140 
+95 
+86 
+Stunting (age-for-height among children under five years of age) 
+27.8% 
+25.6% 
+20.7% 
+ 
+HEALTH SERVICE DELIVERY AND UTILIZATION 
+10. 
+Health service delivery data indicates a weak health system. Service delivery indicators are low nationwide (See 
+Annex 1).  Due to a combination of health service supply and demand challenges, only 32 percent of births are attended 
+by skilled personnel and 21 percent of births occur in health facilities nationwide.20  Thirty-one percent of women receive 
+ 
+14 Although Somalia belongs to the WHO EMRO region, geographically and culturally, it is part of sub-Saharan Africa. As a result, AFRO region data 
+are more applicable and are used here. 
+15 The World Bank: http://data.worldbank.org   
+16 The World Bank: http://data.worldbank.org   
+17 The 2020 SHDS included no child mortality data including neonatal, infant, and under five mortality.  This is a major gap in the results and 
+discussions are currently under way with partners and UNFPA (which conducted the survey) on whether raw data exist to rectify this and other 
+data gaps in the survey, including the absence of geographically disaggregated data. 
+18 Although Somalia belongs to the WHO EMRO region, geographically and culturally, it is part of sub-Saharan Africa. As a result, AFRO region data 
+are more applicable and are used here. 
+19 SHDS 2020 
+20 SHDS, 2020; Skilled personnel: nurse, midwife, auxiliary midwife, clinical officer, or doctor. 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 11 of 109  
+     
+ 
+at least one antenatal care (ANC) visit  and  only 11 percent of children are fully immunized nationwide.  There are similar 
+gaps in treatment of childhood illnesses, for example  only 17 percent of children with an acute respiratory infection (ARI) 
+in the two weeks before the SHDS survey received antibiotics.  Somalia average and available disaggregated data are 
+presented in Table 3. 
+Table 3: Somalia Average and Available Disaggregated Health Service Delivery Data (Source: 2020 SHDS) 
+Indicator 
+Somalia 
+Average 
+Puntland 
+Somaliland 
+Births attended by skilled personnel 
+32% 
+33% 
+40% 
+Births at health facilities 
+21% 
+19% 
+33% 
+Pregnant women receiving at least one ANC visit 
+31% 
+26% 
+47% 
+Children fully immunized 
+11% 
+9% 
+13% 
+Treatment of acute respiratory infection 
+17% 
+21% 
+16% 
+ 
+11. 
+The 2009 Essential Package of Health Services (EPHS)21, which is currently being implemented, does not reach 
+the entire population.  EPHS implementation started in 2013 through the Joint Health and Nutrition Programme (JHNP) 
+and the Health Consortium for Somali People.22  While the full package was not delivered under the JHNP due to limitations 
+in available financing and implementation capacity, the JHNP coordinated health service delivery between partners.  
+However, following the closure of the JHNP after the end of  the UK Foreign, Commonwealth and Development Office’s 
+(FCDO; previously Department for International Development (DFID)) financing in 2016, the previously coordinated EPHS 
+implementation became fragmented, with partial geographic coverage and varying package components supported by 
+different funding partners. According to 2017 WHO figures, approximately 47 out of 89 districts (5.7 million people) were 
+covered by part of the EPHS, representing approximately 41 percent of the population. In 2020, the Government updated 
+the EPHS, developing a comprehensive package of health services supported by the development partners including the 
+World Bank under the leadership of the Government.  
+12. 
+The private sector is an important health service provider.  At least 60 percent of health services and 70 percent 
+of the country’s medicines are estimated to be delivered by the private sector, primarily in urban areas. However, due to 
+Somalia’s nascent health sector regulatory capacity, there are no quality standards nor functional regulatory bodies for 
+health services or pharmaceutical products. As a result, the private sector is largely unregulated, and providers can operate 
+without sufficient  oversight which may lead to services and products of unknown quality. This limits the full potential of 
+the private sector as formal private sector investment requires functional regulations to be effective.  
+13. 
+There are gaps in essential supplies such as health workers, essential medicines, and medical equipment, 
+particularly in public facilities.  Somalia’s public health worker density is 0.43 per 1,000 people and private health worker 
+density is 0.49 per 1,000 people. The combined health worker density figure (0.92) is significantly below the WHO’s cut-
+off for “critical” human resource shortages, which is 2.28 health workers per 1000 people. The availability of qualified 
+ 
+21 The 2009 EPHS is comprised of core and additional programs.  The EPHS 2009 six core programs were: Maternal, reproductive and neonatal 
+health; Child health; Communicable disease surveillance and control, including WASH promotion; First aid and care of critically ill and injured; 
+Treatment of common illness; and HIV, STIs and TB. The four additional programs are: Management of chronic disease and other diseases, care of 
+the elderly and palliative care; Mental health and mental disability; Dental health; and Eye health. Compared to the 2003 BPHS prepared in 
+Afghanistan, the Somalia EPHS was much broader and subsequently required more resources to implement. 
+22 JHNP was financed by DFID (currently FCDO), United States Agency for International Development (USAID), Finland, Australia, Switzerland, and 
+Sweden; and managed by United Nations Children’s Emergency Fund (UNICEF), with engagement from WHO and United Nations Population Fund 
+(UNFPA). 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 12 of 109  
+     
+ 
+medical staff is predictably concentrated in urban areas, with rural areas facing more pronounced recruitment and 
+retention challenges.  There is a large number of unqualified individuals believed to be providing health services, 
+particularly in private facilities due to lack of regulation and weak government enforcement.  Supply chain management 
+for health is challenged by the volatile security environment, poor infrastructure, human resource shortages and low 
+capacity, limited access to supervision and monitoring, and a lack of functional, integrated sector-wide information 
+management systems.    
+14. 
+Health service utilization is low, particularly in the public sector, where utilization is estimated at 0.23 
+outpatient visits per person per year and 0.81 hospital discharges per one hundred people per year (SARA, 2016). Clan 
+structures are believed to have major impacts on service utilization, dictating which facilities people visit. Traditional 
+medicine, seeking health services from family members and outside of formal medicine are believed to be common. 
+Reports on health service data indicate that patients prefer private facilities over public facilities based on perceived higher 
+quality, pharmaceutical availability, and easier access. Pharmacies are by far the most accessible health care delivery 
+points in Somalia.  
+15. 
+Socio-cultural factors play a significant role in the health seeking behaviors and status of women in Somalia.  
+Responsibility for decisions related to health-seeking behavior, such as when to get treatment at a clinic, resides primarily 
+with men and contributes to delays in seeking care. According to the 2020 SHDS, 42 percent of women report needing 
+permission to access services as a barrier to healthcare during pregnancy.  Furthermore, early marriage is prevalent and a 
+significant factor contributing to early first pregnancies, high fertility rates and the high maternal mortality ratio. Thirty six 
+percent of women between 20 and 24 years old were married before 18 years of age, and average age at first marriage is 
+20 for women and 23 for men.23  
+16. 
+The global COVID-19 pandemic is a pressing problem in Somalia, exacerbated by a weak primary health system, 
+nascent surveillance and laboratory capacity, and limited hospital services.  As of May 25, 2021, Somalia had 14,632 
+confirmed coronavirus cases and 767 deaths, with anecdotal reports of additional, unconfirmed cases and quickly rising 
+deaths.24 In early February 2021, the country faced a surge in new cases with suspected new COVID-19 variants. This is 
+expected to further constrain Somalia’s already fragile health system. With support from partners, Somalia successfully 
+applied to the COVID-19 Vaccines Global Access (COVAX) Facility on December 7, 2020.  In the application, the Government 
+selected Astra Zeneca/Oxford University as the vaccine of choice. The COVAX Facility will provide free vaccines for 20 
+percent of the population (approximately six million doses for Somalia- each patient is expected to receive two doses). 
+The first 300,000 doses  arrived in March 2021, and the vaccination rollout is ongoing. The Government and partners, 
+including the World Bank, are mobilizing resources to further support the rollout of vaccines. The Government has also 
+taken important steps to improve Somalia’s COVID-19 response, including establishing testing capacity at the National 
+Public Health and Reference Laboratory in Mogadishu, developing rapid response teams, and increasing the country’s 
+intensive care unit bed capacity from 15 at the onset of the outbreak to 47 today.25  However, existing health system 
+capacity limitations constrain the COVID-19 response and with the current surge, the Government has identified the 
+following as major constraints to mounting an effective response: (i) limited oxygen production and distribution capacity; 
+(ii) limited operational capacity of the Ministries of Health (both at FGS and FMS level);  and (iii) constrained prevention 
+capacity i.e. ineffective surveillance programs and other prevention measures.  A description of the World Bank’s support 
+to the Government’s COVID-19 response are outlined in Annex 2. 
+ 
+ 
+ 
+23 SHDS 2020 
+24 Somalia FMoH / WHO, February 26, 2021  
+25 Somalia FMoH and WHO joint Covid-19 Situation Reports #s 3-6 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 13 of 109  
+     
+ 
+HEALTH FINANCING 
+17. 
+Service delivery challenges are underpinned by very limited financing for health in Somalia. The per capita 
+expenditure on health is approximately US$6 per person per year (2019), far below Sub-Saharan Africa’s average of US$81 
+(2019).26  Government expenditure on health as a percentage of per capita health expenditure is 17 percent (2019). Donor 
+financing is an important source of health expenditure, comprising 50 percent of per capita expenditure (2019) and much 
+of this is off-treasury.27  The high proportion of off-treasury donor resources has limited the Government’s involvement 
+in many aspects of health sector programming, constraining the ability to increase efficiency in spending and Government 
+leadership in the sector. 
+18. 
+Out-of-pocket payments (OOP) as a percentage of per capita health expenditure in Somalia are high at 46 
+percent.  Average annual household OOP on health is estimated at US$2 per capita out of a total of US$6 (2019), and 
+varies substantially between the richest quintile and the poorest quintile, indicating that households are accessing 
+healthcare services based on the ability to pay instead of their healthcare needs, resulting in health inequities.28 The 2020 
+SHDS survey found that 48 percent of households used their income to pay for health expenditures and another 25 percent 
+used resources from relatives or friends. Remittances are likely an important source of OOP for health, but there is little 
+data on the extent of their contribution. There are almost no formal risk-protection mechanisms in the country: health 
+insurance is limited to private plans for international companies and non-governmental organizations (NGOs) and 
+estimated to be 1 percent of total health expenditures.   
+HEALTH SECTOR STEWARDSHIP 
+19. 
+Somalia’s Federal MoH (FMoH) is nascent and at the early stages of building capacity to manage health services, 
+including contract management. The FMoH was established in 2012 along with the formation of the federal government, 
+and stewardship, leadership, and managerial functions are still developing. The Government‘s role in health service 
+delivery is limited, with most services delivered by NGOs financed by partners.  As a result, key functions including 
+planning, budgeting, finance and governance are not fully developed.  The FMoH is highly reliant on external support for 
+its operations. Approximately 25 percent of the FMoH’s over 500 employees are civil servants; the remainder are donor 
+financed and are primarily contracted on a short-term basis. While the FMoH has leadership structures and some policies 
+and procedures in place, its decision-making process and management systems are not fully defined, and capacity to 
+manage programs independently of partners is limited.29  
+20. 
+Against this backdrop, Somalia’s FMoH is facing significant governance challenges.  In 2019, Transparency 
+International’s Corruption Perceptions Index ranked Somalia at the bottom of all 180 countries.  Weak financial control 
+systems was highlighted by an Auditor General’s Office report, indicating governance challenges within the FMoH. The 
+current Government has demonstrated a commitment to fight corruption, as evidenced by the passage of anti-corruption 
+legislation in September 2019, and continues to work toward establishing transparent and credible government systems.  
+21. 
+FMS MoH capacity is similarly weak. The four emerging FMS which make up Somalia’s former South Central Zone 
+are Hirshabelle (HSS), Galmudug (GSS), South-West (SWS), and Jubbaland State (JSS), which have even more nascent 
+ministerial structures and limited capacity, with few resources on-treasury (around US$100,000 a year), low budget 
+execution rates, and few to no civil servants. Policies and procedures for health service delivery are in development. These 
+ 
+26Micah et a., (2020) Health sector spending and spending on HIV/AIDS, tuberculosis, and malaria, and development assistance for health:  progress 
+towards Sustainable Development Goal 3. The Lancet, 396(10252), 693-724. 
+27 Micah, A. E., Su, Y., Bachmeier, S. D., Chapin, A., Cogswell, I. E., Crosby, S. W., Moitra, M. (2020). Health sector spending and spending on 
+HIV/AIDS, tuberculosis, and malaria, and development assistance for health: progress towards Sustainable Development Goal 3. The Lancet. 
+28Micah, A. E., Su, Y., Bachmeier, S. D., Chapin, A., Cogswell, I. E., Crosby, S. W., Moitra, M. (2020). Health sector spending and spending on 
+HIV/AIDS, tuberculosis, and malaria, and development assistance for health: progress towards Sustainable Development Goal 3. The Lancet. 
+29 RCRF Health Capacity Assessments of FMS MoHs and the FMoH, 2019, See Annex 3 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 14 of 109  
+     
+ 
+FMSs are also highly dependent on partners to provide stewardship for service delivery. Puntland’s MoH is more 
+experienced in managing some health programs than the four emerging FMS, but remains highly dependent on partner 
+support; approximately 26 percent of Puntland’s almost 3,000 Ministry of Health staff are civil servants, while the 
+remainder are program-based and externally financed.  While Puntland has some health policies and procedures in place, 
+implementation capacity is mixed. For instance, Puntland lacks contract management experience, but has some 
+experience in monitoring service delivery, financial management, and record keeping procedures, which form the basis 
+for effective contract management (see Annex 3 for further details on capacity of Somalia’s MoHs). 
+22. 
+In 2019, Somalia became a Global Financing Facility (GFF) country, an important step towards reducing health 
+sector fragmentation, improving partner alignment, and strengthening the Government’s stewardship role, which will 
+be further supported by the Project (see Box 1). Somalia is currently developing an Investment Case (IC) to improve health 
+outcomes by enhancing health service coverage and quality, developing Government stewardship capacity, and mapping 
+resources available in the health sector. The Government is also in the process of developing a Country Platform for 
+sectoral coordination, development and implementation of the IC, which will include participation by all states as well as 
+different parts of the Government, civil society, the private sector, development partners, and NGOs. The Country 
+Platform has been initiated and a sub-taskforce meets regularly to develop Somalia’s IC. The Project design is aligned with 
+Somalia’s IC and will support a portion of the IC, as detailed in the component descriptions below.  
+Box 1: The Global Financing Facility in Somalia 
+Somalia became a GFF country in 2019.  The GFF is a broad partnership, housed at The World Bank Group, that supports countries 
+towards a trajectory to achieve the Sustainable Development Goals (SDGs) by strengthening dialogue among key stakeholders 
+under the leadership of governments. The GFF facilitates identification of a clear set of priority results that all partners commit their 
+resources to achieving, amplifying results from existing resources and increasing the total volume of financing from domestic 
+government resources, financing from IDA and IBRD, aligned external financing and private sector resources.  The GFF process 
+strengthens systems to track progress, learn, and course-correct. This approach is guided by two key principles: country ownership 
+and equity. The GFF is driven at the country level by a ‘country platform’: a forum or committee that brings together, under 
+government leadership, a broad set of partners involved in improving the health outcomes of women, children, and adolescents, 
+including different parts of the government, civil society, the private sector, and development partners. A multi-donor trust fund—
+the GFF trust fund—has been established at the World Bank Group to be a catalyst for this process. 
+Somalia has developed a Country Platform to lead the process of developing and implementing the investment case, which will 
+outline priorities to accelerate progress towards the SDGs.  The Country Platform is inclusive of sub-national ministries of health, 
+partners, and other health sector stakeholders.  Key financiers involved in Somalia’s Country platform are FCDO, Gavi, the Global 
+Fund, and The World Bank.  A US$25 million grant from the GFF will finance the Damal Caafimaad project.   
+The GFF in Somalia will add value by investing in health service delivery, strengthening partner coordination, supporting resource 
+mapping and expenditure tracking, and improving Government stewardship capacity, with a focus on health information system 
+as well as supply chain management and private sector engagement.  Specifically, the GFF will add value in Somalia by: 
+1) Improving health of women and children through supporting prioritization and co-financing delivery of a prioritized 
+package of services  
+2) Increasing efficiency through resource mapping and improved partner coordination  
+3) Strengthening routine MOH systems with a focus on health information systems, HMIS, and supply chain management 
+4) Mobilizing the private sector for improved health service quality and access for women and children 
+The Damal Caafimaad Project is fully aligned with Somalia’s Investment Case and will contribute to the added value of the GFF 
+in Somalia by financing delivery of the first phase of the Government’s 2020 EPHS, supporting HMIS capacity development, 
+institutionalizing resource mapping, developing the capacity of the Government to engage with the private sector, improving health 
+service quality, and developing Government stewardship capacity.  
+ 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 15 of 109  
+     
+ 
+C. Relevance to Higher Level Objectives 
+ 
+23. 
+The Project contributes to the World Bank’s twin goals to end extreme poverty and boost shared prosperity. A 
+lack of access to essential health services negatively impacts investment in human capital, undermining economic growth. 
+The Project is consistent with the World Bank Group Country Partnership Framework for Somalia (FY19-22), discussed by 
+the Board of Executive Directors on September 25, 2018 (Report No. 124734-SO), focusing on building institutions with 
+core results, including improvements in the quality and equity of basic services as well as improved fiscal space and equity 
+in use of public resources. The Project will contribute to Focus Area 1: Strengthening Institutions to Deliver Services, 
+primarily the specific objectives of “Strengthening public finance accountability and institutional development” (Objective 
+1.1) and “Improve delivery systems for more inclusive social services” (Objective 1.3).  
+24. 
+The Project is fully aligned with the World Bank Group Strategy for Fragility, Conflict, and Violence (FCV) 2020-
+2025 (February 2020), recognizing that inclusive and effective social sector service delivery is central to improving state 
+legitimacy and trust in institutions. As outlined in the Strategy, the framework for engagement in FCVs underlines 
+improving human and social capital for FCV-impacted people (103); equitably scaling up private sector engagement for 
+impact (48; 56-59); strengthening core institutions (53); and working across the humanitarian development nexus (73). In 
+addition, the Project is aligned with six of the key modalities through which the FCV strategy will be operationalized: (i) 
+systemization of partnerships between actors in FCVs; (ii) incorporating security considerations; (iii) enhancing monitoring 
+and evaluation frameworks; (iv) engaging with civil society, including for service delivery; (v) enhancing operational 
+flexibilities;  and (vi) systematizing use of digital solutions. Further, the World Bank has considerable experience supporting 
+health service delivery in FCV environments in Sub-Saharan Africa and globally, including in Afghanistan, South Sudan, the 
+Democratic Republic of Congo, and Central African Republic; all of which are highly relevant to health service delivery in 
+Somalia. 
+25. 
+The Project is consistent with Government policy documents. The Somalia’s Ninth National Development Plan 
+(NDP9) prioritizes improving health access and outcomes, particularly for women and children under Pillar 4, “Social 
+Development”.  The NDP 9 emphasizes collaboration and cooperation with non-state actors for health service delivery 
+while strengthening public capacity strategies, which are both strategies utilized by the Project.  The Project is also aligned 
+with the Essential Package of Health Services (EPHS) 2020, and with the Somalia’s Reproductive, Maternal, Newborn, 
+Child, and Adolescent Health (RMNCAH) Strategy 2019-2023, which prioritizes improving the quality and equity of 
+RMNCAH services and delivering an integrated package of health and nutrition services. The RMNCAH strategy further 
+prioritizes delivery of core essential health services including antenatal care, basic and comprehensive emergency 
+maternal, obstetric, and newborn care, GBV prevention and response services, delivery care, post-natal care, birth spacing, 
+and integrated management of childhood and neonatal illnesses.   
+ 
+II. PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+26. 
+PDO Statement. The Project Development Objective (PDO) is to improve the coverage of essential health and 
+nutrition services in Project areas and strengthen stewardship capacity of Ministries of Health.  
+27. 
+To support the Government to achieve the PDO, the Project will support rapid expansion of an essential 
+package of health and nutrition services and intensive Government capacity development.  The Project will focus on 
+high-impact services that will improve health outcomes and can be scaled up across the population in Project target 
+regions within available resources and service delivery capacity.  The Project also aims to develop the Federal and State 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 16 of 109  
+     
+ 
+Ministries’ of Health capacity to act as stewards of the health sector, effectively governing the sector and building core 
+functions that will enable the Government to lead and manage the sector.30 
+28. 
+PDO Level Indicators. The progress towards the above PDO will be assessed by the following set of PDO-level 
+indicators as well as intermediate results indicators (IRIs) in the Project’s Results Framework. To monitor progress in areas 
+with World Bank supported service delivery, individual progress for each target region and population-weighted averages 
+for all target regions will be used:  
+• 
+Percentage of births attended by skilled health personnel in a health facility (Component 1)  
+• 
+Percentage of children between 6-59 months old receiving Vitamin A supplementation (Component 1) 
+• 
+Percentage of children under one year of age receiving Pentavalent 3 (Component 1)  
+• 
+Percentage of women of childbearing age using modern contraceptives (Component 1) 
+• 
+Percentage of contracted service providers paid on time (within 45 days of receipt of reports and invoices) 
+(Component 2) 
+• 
+Percentage of government health facilities that submit timely and complete HMIS reports by the 10th of the 
+following month (Component 2) 
+ 
+B. Project Components 
+29. 
+The proposed Project will be financed through an IDA Grant of US$75 million equivalent and supported by US$ 
+25 million Grant from the GFF. The Project has four components: (1) Expanding the coverage of high-impact health and 
+nutrition services in select geographic areas; (2) Strengthening Government’s stewardship to enhance service delivery; 
+(3) Project management, knowledge management, and learning; and (4) a Contingent Emergency Response Component 
+(CERC).  
+ 
+Component 1: Expanding the coverage of high-impact health and nutrition services in select geographic areas (total 
+US$75.5 million: IDA US$57.0 million equivalent and GFF US$18.5 million)   
+30. 
+This Component will finance delivery of high-impact and integrated health and nutrition services to enhance 
+service coverage and quality, focusing on primary healthcare services. Learning from local and global experience and 
+based on an analysis of cost-effective interventions and burden of disease, the Project will support implementation of a 
+sequenced set of high-impact health and nutrition services within the Government’s 2020 EPHS.  Key services include: (i) 
+child health services (routine immunization, micronutrient supplementation, promotion of infant and child feeding and 
+nutrition referral); (ii) maternal and neonatal health services, including testing and interventions during ANC visits, basic 
+and comprehensive emergency obstetric and newborn care (BEmONC and CEmONC), and family planning (Box 2); (iii) GBV 
+services (awareness raising, case identification, counselling, and management); (iv) disease surveillance (strengthening 
+and maintaining integrated disease surveillance and response as well as preparedness and response to disease outbreaks); 
+(v) communicable and select non-communicable disease prevention, treatment, and detection; (vi) first aid; and (vii) 
+mental health (including basic psycho social support and follow up). These health services will be accompanied by health 
+education and behavior change communications, as well as referral mechanisms to the appropriate level of service 
+delivery. As described in Box 3, contracted NGOs will have autonomy and flexibility to identify health service delivery 
+methods and innovations to achieve results and will be held accountable for these results (see Annex 5).  However, core 
+service delivery methods will be employed through the Project, including an emphasis on primary healthcare, ensuring 
+ 
+30 Stewardship here is aligned to the WHO definition, which is inclusive of Governance.  WHO definition of health sector stewardship: 
+https://www.who.int/healthsystems/stewardship/en/#:~:text=Stewardship%20is%20a%20political%20process%20that%20involves%20balancing%
+20competing%20influences%20and%20demands.&text=Beyond%20the%20formal%20health%20system,not%20undermine%20%2D%20peoples'%
+20health.  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 17 of 109  
+     
+ 
+the presence of female staff at every facility, improving the availability of pharmaceuticals, strengthening the quality of 
+care, and developing strong management systems.  Robust community level health services and engagement will be a 
+critical part of the Damal Caafimaad Project.  Contracted service providers/ NGOs will (i) conduct health service outreach 
+activities; (ii) support the community level service package, including Female Health Workers (FHWs) in Project regions; 
+and (iii) identify innovative methods of engaging communities. 
+Box 2: Responding to Women’s Health and Family Planning / Birth Spacing Needs 
+Improving women’s health, improving the availability of birth spacing services, and addressing gender disparities are woven within 
+Damal Caafimaad’s Component 1.  Maternal and reproductive health services, which are among the most high-impact, cost-
+effective services, are the foundation of the health service package to be delivered through the Damal Caafimaad Project.  To 
+support women’s use of health facilities, Government service delivery guidelines for contracted NGOs plan to include a provision 
+to ensure female staff are present at all facilities.  The contracted NGOs will also be encouraged to use contextually appropriate 
+and innovative means to encourage women to use health services and increase availability of services to women across 
+demographic groups.  Further, the service package includes support for people who have experienced GBV. 
+Increasing the availability of family planning / birth spacing services to support Somalia towards better health for Somali women 
+are an integral part of Component 1.  A variety of modern contraceptive methods will be provided in the package to respond 
+women’s unmet needs. The contracted NGOs will be capacitated to ensure increased contraceptive supplies and availability at 
+facilities.  Building community awareness of birth spacing/ family planning use and creating conditions which facilitate women’s 
+use of modern family planning methods will be part of the responsibilities of contracted NGOs.   
+Modern contraceptive prevalence is currently 1 percent among Somali women of reproductive age, underpinned by low 
+contraceptive availability and only 3 percent of met contraceptive need. 37 percent of currently married women have an unmet 
+need for modern contraception, indicating that there is knowledge and high demand for modern contraceptives.  At the same time, 
+only 17.6 percent of ever married women between 15 and 49 years of age had seen birth spacing messages in the media or mobile 
+phones in the months preceding the SHDS survey, underlining the limited availability of information on birth spacing.  Given notable 
+unmet needs and low availability of birth spacing commodities, demand is expected to increase as family planning commodities 
+become available and accessible.  
+Steps will also be taken to increase contraceptive availability in the private sector.  The World Bank, with financing from the GFF, is 
+finalizing private sector family planning market research to help identify how to support the private sector to increase contraceptive 
+availability.  Preliminary results indicate that many private providers are aware of modern contraceptives and sell these in their 
+facilities.  Based on these results, there is room for improvements in the regulatory environment and community awareness to 
+increase contraceptive sales in private facilities.   These activities are planned to be incorporated in the private sector development 
+sub-components of Component 2. 
+ 
+31. 
+The services described above reflect implementation of the first phase of the Government’s EPHS.  Against the 
+backdrop of limited availability of financing and low service delivery capacity, the Government sequenced implementation 
+of the 2020 EPHS by identifying high-impact, cost effective interventions to initially be delivered through the Damal 
+Caafimaad Project. This approach supports the Government’s efforts to expand health service coverage in an equitable 
+manner while improving partner harmonization towards the longer-term goal of implementing the comprehensive 
+package. The first phase of the EPHS includes a subset of interventions under the EPHS and is projected to be fully aligned 
+with the approach of Somalia’s Investment Case (IC), which is being developed by the Government with support from  
+GFF. Somalia’s IC coordination mechanism will support the Government to align partners around the 2020 EPHS, beginning 
+with the first phase.  Based on improvements in health service coverage, implementation capacity, and the availability of 
+additional resources, progression to subsequent phases through addition of interventions and Project areas will be 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 18 of 109  
+     
+ 
+considered, while applying lessons learned from the first phase to refine implementation.31  Several costings of the 
+package have been estimated.  Parameters vary and exact costs will be determined through implementation; but 
+anticipated per capita costs will range between US $7.41 per capita and US $19 per capita.  A more exact range will be 
+determined based on additional information that will come through the service delivery contract  process. 
+32. 
+As part of Project preparation, the Government, FCDO, and the World Bank collaboratively developed objective 
+criteria to select Project target areas. Five selection criteria were agreed upon: (i) Limited presence of health partners 
+based on partner coverage data; (ii) areas that are more accessible based on Polio vaccination accessibility data (which 
+encompasses less conflict); (iii) locations with higher poverty levels based on data from the Somali High Frequency Survey; 
+(iv) locations with less service delivery capacity based on data from the Somali High Frequency Survey; and (v) populations 
+with more internally displaced persons (IDPs), nomads, and a rural/ urban mix.   An index considering these factors, 
+including weighting, was developed (see Annex 6).  Using the index, the following four regions were prioritized for 
+Component 1: Nugaal in Puntland State, Bakool and Bay in South-West State (SWS), and Hiraan in Hirshabelle State.  The 
+Government also requested World Bank support to regions such as Middle Shabelle in Hirshabelle State and  Lower 
+Shabelle in SWS, which have a higher documented incidence of insecurity. Given the World Bank’s current limited capacity 
+to provide implementation support and oversight in security-constrained regions, coverage of less secure areas presents 
+challenges. Upon the FGS’s strong request, Middle Shebelle in Hirshabelle has been added to the list of regions to be 
+covered by the Project, for a total of five regions supported under the Project. During appraisal, the World Bank/GFF team 
+clarified that the implementation plan for each region, especially in Middle Shabelle, will be guided by a security risk 
+assessment to be conducted by the Government, in consideration of the frequently changing local security situation.   
+Based on Project performance, development of capacity, and availability of additional funds, additional regions may be 
+considered during the Project’s mid-term review.  
+33. 
+Considering limited service delivery capacity in the public sector, the Government has agreed that the main 
+health service delivery modality will be Government contracting of health services in public facilities, to be 
+implemented by NGOs. Currently, there are many service providers including NGOs delivering health services in Somalia, 
+primarily off the Government’s budget.  Government contracting of NGOs will allow the Government to coordinate and 
+manage NGO service delivery.  Over time, as Government capacity increases, Government contracting of service providers 
+can expand to include additional geographic areas and financing from other development partners. The contracting 
+modality in the Project will include delivery of a package of high-impact health and nutrition services through both facility-
+level and community health service delivery to reach the targeted population.  The NGO will be on a lump-sum contract 
+with payments based on deliverables.  Contracting will include a small performance-based component through a bonus, 
+paid on top of the base payment.  The contracting modality is detailed in Box 3. 
+34. 
+Primary level facilities and secondary level hospitals will be covered by service delivery contracts to implement 
+a package of high-impact health and nutrition services within the targeted regions. The following activities are included 
+in the service delivery contracting modality: pharmaceutical procurement, procurement of essential equipment, health 
+worker salaries, non-salary operating costs, basic facility rehabilitation, environmental and social risk management, 
+supportive supervision of facilities by NGOs, quality improvement activities and developing management capacity of the 
+regional health office (RHO), including support for HMIS and supportive supervision by RHOs.  Minimum staffing, 
+equipment, quality, and service delivery package requirements will be outlined in the contract, and NGOs will have the 
+flexibility to augment minimum requirements as needed to improve service delivery towards enhancing their 
+performance. Pharmaceutical procurement will be done by NGOs and required to procure from a pre-qualified source. 
+ 
+31 The agreement on the contents and costing of the phased approach to EPHS implementation will be reached through the IC process with the 
+Government. 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 19 of 109  
+     
+ 
+Box 3: Government Contracting of Health Service Delivery to Non-state Actors to Improve Health Outcomes 
+ 
+Government contracting of non-state actors to deliver health services is a means to successfully improve health outcomes by 
+rapidly expanding service delivery in situations where the Government has limited capacity and there is ongoing insecurity. 
+Afghanistan (see Box 5) and Cambodia had notable success expanding health service coverage through a contracting out model. 
+For example, in Cambodia, health service visits of sick, low-income individuals in areas where health services were contracted out 
+increased from five percent at baseline to 33 percent in two and a half years, in comparison to the control where the Government 
+directly delivered health services and visits increased from six percent to nine percent in the same period.   Learning from health 
+service delivery lessons in Somalia as well as in FCV countries, such as Afghanistan and South Sudan, where a Government 
+contracting model was used (see Box 5 and Table 7.3 in Annex 7), the Project’s primary service delivery modality will be 
+Government contracting of NGOs for the delivery of health services.  Key features of this contracting arrangement, which aim to 
+improve health service outcomes and set the model apart from current health service delivery are: 
+ 
+1.) Robust data systems for health service delivery improvements:  use of reliable data is essential to improve health 
+outcomes and establish accountability.  The Project will develop robust data systems through TPM and Government 
+HMIS capacity development. Data use for decision making will allow the Government to work with implementers to 
+improve health outcomes.  Currently, there is very little health service data in the country, making it difficult to make 
+improvements based on data.  Routine performance management, including ongoing review of both DHIS2 and TPM 
+data and work with contracted NGOs to improve performance, will be a critical Government contract management 
+function.  
+2.) Accountability for health service outcomes:  Increased availability of data will allow the Government to hold NGOs 
+accountable for health service outcomes.  This focus on health outcomes instead of inputs is a critical factor in the 
+success of Government health service delivery contracting, which has helped to accelerate results in fragile contexts such 
+as Afghanistan and Cambodia.  The Damal Caafimaad Project will also lay the foundation for results-based contracting.  
+While data and payment systems are not yet sufficiently routinized to use results-based contracting as a primary 
+payment method, NGO providers will have the opportunity to earn a bonus for health service improvements based on 
+the health facility assessment, which is a step towards a results based contracting system to further strengthen 
+accountability. 
+3.) Autonomy for results and innovation: Health service providers will be given autonomy to identify measures and 
+innovations to improve health service outcomes in their coverage areas, beyond minimum standards established in their 
+contracts.  Providers will be held accountable for outcomes and not specific methods, which may not work to improve 
+health outcomes within their coverage areas.   
+4.) Government contracting of NGOs to improve sustainability, coordination, and oversight for results: Fragmentation of 
+service delivery has created gaps and overlaps in health service delivery, compromising health outcomes.  Further, the 
+lack of Government engagement in health service delivery has limited oversight of service delivery and accountability for 
+outcomes, impacting health services.  Through the Damal Caafimaad Project, the Government will contract NGOs to 
+deliver health services.  Currently, NGOs are contracted by partners outside of Government systems.  Government 
+contracting aims to create a system through which service providers are accountable to the Government, ensure there is 
+alignment between partners, and the Government develops long-term capacity to contract for health service delivery.   
+5.) Service delivery by contracted NGOs to maximize resources and outcomes: To maximize resources allocated to service 
+delivery and improve management systems, contracted NGOs will be expected to directly provide at least 80 percent of 
+services within their coverage areas. Contracted NGOs are planned to be national governmental or non-governmental 
+organizations or international NGOs, of which there is a core group in Somalia with a demonstrated track record of 
+service delivery in the country context and strong local knowledge. The ability of these NGOs to effectively deliver 
+services is anticipated to be strengthened by the service delivery model. Sub-contracting will be limited to no more than 
+20 percent of contracts, based on lessons from Afghanistan and South Sudan which found, respectively, that sub-
+contracting reduced resources to service delivery and diluted field-level management. Contractors will have the 
+opportunity to enter joint proposals with other firms. Sub-contracting (up to 20 percent) under service delivery contracts 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 20 of 109  
+     
+ 
+will focus on delivery to populations that are challenging to access and developing capacity of local NGOs, with the 
+specific aim of developing local capacity towards sustainable health outcomes. 
+6.) Coverage of full regions for improved service coverage: the Damal Caafimaad Project will cover entire regions to 
+support expansion of services to Somalia’s full population. Currently, partners support districts, of which there are 
+approximately 90 in the country, with partners covering some districts within one region and not others, compromising 
+service coverage and health outcomes.  With 18 pre-war regions in Somalia, these represent a more concrete unit to 
+ensure full service coverage without gaps and to develop functioning sustainable oversight through regional 
+administration. 
+7.) Sustainability: Damal Caafimaad will develop sustainable Government health service contracting, regulatory, and 
+oversight mechanisms.  The current model of health service delivery in Somalia, in which services are delivered by NGOs 
+with little Government engagement, does little to develop sustainable health structures in the country.  Damal 
+Caafimaad will develop contracting, oversight, and regulatory mechanisms which the Government can use to execute its 
+essential stewardship.  The Project aims to build structures that can be used after the Project period, by other 
+development partners, and to oversee the health sector.   
+ 
+35. 
+Depending on requests from the Government and implementation capacity, the Project may also support the 
+Government to directly deliver health services using a contracting-in modality. For instance, Puntland, which has more 
+developed government systems, currently delivers services using civil servants in a limited number of facilities. If this 
+modality is used, it will also support delivery of high impact health services and will include health commodities (including 
+pharmaceuticals), health worker salaries, non-salary operating costs, basic facility rehabilitation, and supportive 
+supervision of facilities.  The Government contracting modality would also use a performance based bonus to encourage 
+health service quality improvements. 
+36. 
+In urban areas, the Project may support Government contracting of private sector networks as a pilot. This 
+modality aims to facilitate effective Government engagement with private sector service providers to enhance delivery of 
+high quality, high-impact health and nutrition services. Under this modality, the Project will support the development of 
+private sector network and Government capacity to oversee and supervise private sector health service providers.  
+Support will be provided for Government and private sector network operational costs, quality improvement activities, 
+commodity procurement, and development of private sector capacity for data collection. Contracting will be between the 
+Government and established private sector networks. During Project preparation, a few nascent private sector networks 
+were identified in Mogadishu, Puntland, and Somaliland. Technical assistance to strengthen such private sector networks 
+has been initiated with GFF support. Government contracting of private sector networks will be initiated later in Project 
+implementation, anticipated in year three if feasible, following development of basic private sector engagement structures 
+as outlined in Component 2.  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 21 of 109  
+     
+ 
+37. 
+Health service quality improvements will be an 
+integral part of the package (Box 4).  While rapid expansion of 
+basic health service coverage is the key objective of Component 
+1, the Project will concurrently make focused and structured 
+efforts to improve health service quality. Ongoing Advisory 
+Services and Analytics (ASA) currently supports: (i) compiling 
+existing guidelines for EPHS delivery, adapting guidelines to the 
+Somali context, and identifying gaps in EPHS guidelines; (ii) 
+developing harmonized, contextually appropriate supervisory 
+checklists at the primary and district hospital level for the 
+Government to use to monitor EPHS quality; (iii) identifying and 
+developing appropriate quality mentorship, coaching, or on-the 
+job training processes and activities that can be implemented 
+through the Project.  In addition, TPM financed by the Project 
+will assess health service quality on an annual basis to 
+contribute to the health service quality improvement approach.  
+Along with structured quality improvement activities, 
+contracted NGOs and Government facilities will be expected to have internal quality improvement activities, including 
+checklists, in-service training, and other activities.  Quality improvement will be closely aligned with waste management 
+practices, community engagement, and supportive supervision. Finally, the Project’s Component 2 will support the 
+Government in establishing a regulatory system aiming to set a standard for health professionals and health services to 
+ensure quality health services for Somalis.  
+38. 
+As part of Component 1, the Project will support TPM to assess Project implementation progress and outcomes 
+(US$5.0 million). Considering the current fragmentation of EPHS implementation and monitoring, the Government 
+requested that the Project support TPM to monitor EPHS implementation nationwide regardless of program/ donor 
+support, along with monitoring Damal Caafimaad Project implementation.  The TPM will collect data on health service 
+delivery outputs, outcomes, quality, and beneficiary feedback through: (i) an annual household survey, including health 
+service delivery coverage, key outcome indicators, and community perceptions of health service delivery, and (ii) an 
+annual balanced scorecard to assess health facility performance implemented through an annual health facility 
+assessment and electronic data collection. Capacity development for the FMoH will be an integral component of TPM.  
+Capacity development through TPM will focus on survey design, data analysis, and data use (See B. Results Monitoring 
+and Evaluation Arrangements on page 33 and Annex 8 for further information on TPM). 
+Component 2: Strengthening Government’s stewardship to enhance service delivery (total US$11.5 million: IDA US$6.5 
+million equivalent and GFF US$5.0 million) 
+39. 
+This component aims to support development of the government’s stewardship capacities at both the Federal 
+and FMS levels to enhance quality service delivery, a priority area in Somalia’s Investment Case.  Given historically off-
+treasury donor support and the emphasis on immediate service delivery, there is a wide range of core capacities and 
+functions to be strengthened in  Federal and FMS MoHs. To develop institutional capacity, the World Bank financed 
+Recurrent Cost and Reform Financing (RCRF) Project II and III (P167224 and P173731) currently supports key positions 
+within the FMoH and FMS MoHs, based on needs identified through MoH capacity assessments and capacity development 
+plans. Over time, these positions are expected to be gradually integrated into the MoHs’ core functions. The following 
+four priority stewardship capacity development areas supported under the Project have been agreed on between the 
+Government and the World Bank. The PCIU at the FMoH will undertake the contracting process, including monitoring and 
+management of Component 2 activities.  Specific activities within each area will be tailored to the needs of each respective 
+Box 4: Ensuring Health Service Quality Improvement 
+within Project Design 
+ 
+Health Service Quality Improvement is ingrained 
+throughout the project: 
+• 
+Component 1 will support implementation of health 
+service delivery standards, use of quality checklists, 
+and mentorship, coaching, and on-the-job training 
+to improve health service quality. 
+• 
+Third Party Monitoring (TPM) will support health 
+facility assessments which will include assessments 
+of process and structural quality within health 
+facilities to understand gaps and strengths in health 
+service quality. 
+• 
+Component 2 will finance development of 
+regulatory bodies for health workers and health 
+service delivery to oversee health service quality.   
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 22 of 109  
+     
+ 
+FMS MoH, based on the Ministry’s capacity assessment and availability of other resources to support the Government. 
+Initiation of Component 2 activities will be phased and milestones will be set to be met before each Component 2 activity 
+begins, to ensure there is sufficient capacity to initiate all activities and that ongoing activities are not compromised by 
+those being initiated (See Table 6 for further details).  
+40. 
+Sub-component 2.1: Health Management Information Systems (HMIS) and Data Use for Decision Making 
+(US$2.5 million). While Somalia’s District Health Management and Information System (DHIS2) is fully rolled out, there 
+are currently gaps in the quality, availability, and use of routine health data in Somalia.  Based on these challenges, HMIS 
+strengthening has been identified as a priority for Somalia’s Investment Case.  The aim of this sub-component is to improve 
+data timeliness, quality, and use of DHIS2 to contribute to the long-term goal of ensuring a high-functioning health 
+information system producing regular, quality, reliable data that are used for routine decision making.   
+41. 
+Sub-component 2.2: Public Financial Management (PFM), Contract Management, and Health Financing (US$5.0 
+million). The Project will build the Government’s capacity in contract management, public financial management, and 
+health financing within the Somali health sector to strengthen efficient resource use and accountability, as well as to 
+mitigate fiduciary risks. Strong PFM is critical to effectively manage contracts in a transparent manner, as well as to 
+improve confidence in the FMoH and MoHs to attract additional on-treasury resources to the health sector.  PFM and 
+contract management support will build off interim support financed by the World Bank during Project preparation to 
+address immediate PFM needs in the FMoH and develop initial contracting systems to accelerate Project implementation. 
+In addition, the PFM support  will be aligned with the Government-wide PFM reform supported by the ongoing World 
+Bank-financed PFM Capacity Strengthening Project II (P151492). Contract management capacity in MoH will be key for 
+successful implementation of contracting health services to non-governmental agencies. Contract management support 
+will use a phased approach as discussed in more detail in Annex 7. This sub-component will also support the establishment 
+of a health financing unit, with at least two full-time officials assigned to it. This unit will take the lead on health financing 
+activities, such as coordinating donors and mapping/tracking domestic and external spending on health. The World 
+Bank/GFF will work with this unit to strengthen capacity and institutionalization of resource mapping and expenditure 
+tracking (RMET) within the Health Financing unit of the FMoH to improve health sector efficiency of health policy and 
+planning.  
+42. 
+Sub-component 2.3: Private Sector Development and Regulatory Reforms (US$3.0 million). The private sector 
+currently delivers most health services in Somalia. However, optimal private sector performance is hindered by a series of 
+factors underlined by nascent regulatory structures. This sub-component aims to improve quality of health services 
+delivered by the private sector through increased government capacity to engage with and to contract the private sector.  
+The proposed activities will be complemented by the ongoing TA supported by GFF resources for capacity building of 
+private sector networks. Upon successful implementation of the proposed activities, the Government may implement 
+small-scale contracting of private sector networks as a pilot during Project implementation (see the description of 
+Component 3). The sub-component will also set up basic regulatory systems with a focus on the health workforce as well 
+as health products and devices to improve quality of care.  Key activities in this area include support for addressing policy 
+and regulatory gaps, including defining regulatory roles between the FGS and FMS, and strengthening 
+regulatory/accreditation bodies, including the National Health Professionals Council and the National Medicines 
+Regulatory Authority.32  The regulatory reform activities under this sub-component will be initiated only after 
+the successful completion of the regulatory assessment, which is supported by the World Bank funds and will be 
+ 
+32 The Parliament has passed the National Health Professionals Council (NHPC) Act in July 2020, and the setting up/operationalization of the agency 
+is the next step. Regarding the National Medicines Regulatory Authority, after the approval of the Somali National Medicines Policy (May 2014), 
+there has been no major progress towards the establishment of a National Medicines Regulatory Authority. A draft Medicines Drug Regulatory Act 
+(2018) was endorsed by  the Cabinet and is now passing through the Parliament for readings and approval. 
+ 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 23 of 109  
+     
+ 
+conducted prior to Project effectiveness.  The assessment will include a literature review and gap analysis, 
+and development of an implementation roadmap. Based on the outputs of the regulatory assessment, the FMoH and 
+World Bank will plan and agree on regulatory activities and the timing of each activity’s initiation. 
+43. 
+Sub-component 2.4: Organizational Development (US$1.0 million). Capacity assessments conducted through 
+RCRF identified gaps in core organizational structures and processes needed to execute basic functions in a timely and 
+effective manner to ensure the FGS and FMS Ministries of Health thrive as high-capacity, resilient organizations. 
+Organizational development will include two areas of support: development of systems and process for decision making, 
+such as internal information sharing, internal communication, external communication, information storage/ record 
+keeping; and enhancing capacity for planning, learning and review, such as development and implementation of systems 
+and processes for regular review and learning.   
+Component 3: Project management, knowledge management and learning (IDA US$6.0 million equivalent)  
+44. 
+This component will support day-to-day Project management, including coordination, administration, 
+communication, management, procurement, monitoring and dissemination of Project activities at both FGS and FMS 
+levels.  To this end, the component will finance the following activities: (i) supervising, coordinating, and providing 
+oversight for Project implementation; (ii) implementation of environmental and social risks management activities;  and 
+(iii) learning and knowledge-sharing across and within FGS, Somaliland and FMS. The component will also support the cost 
+of specialists necessary for Project management.  
+Component 4:  Contingent Emergency Response Component (US$0)   
+45. 
+There is a high probability that during the life of the Project, the country will experience an epidemic or outbreak 
+of public health importance, or other disaster, which causes a major adverse economic and/or social impact (e.g. Ebola), 
+which will result in a request to the World Bank to support mitigation, response, and recovery in the country affected by 
+such an emergency. This CERC is included under the Project in accordance with World Bank’s Investment Project Financing 
+Policy, paragraphs 12, for situations of urgent need of assistance. This will allow for rapid reallocation of Project proceeds 
+in the event of a natural or man-made disaster or health outbreak or crisis that has caused or is likely to imminently cause 
+a major adverse economic and/or social impact. To trigger this Component, the Government needs to declare an 
+emergency or provide a statement of fact justifying the request for the activation of the use of emergency funding. To 
+allocate funds to this Component, the Government may request the World Bank to re-allocate Project funds to support 
+emergency response and early recovery. Disbursements would be made against an approved list of critical goods, services 
+and works required to support the immediate response and recovery needs. A CERC Operations Manual will be prepared 
+as an annex to the Project’s Operation Manual outlining triggers for its activation and detailing fiduciary, safeguards and 
+any other necessary implementation arrangements.  
+46. 
+The Project will also retain US$7.0 million of total financing (IDA US$5.5 million equivalent and GFF US$1.5 
+million) to contribute to the achievement of the Project’s PDO in Somaliland. The disbursement of the funds for 
+Somaliland will be contingent on (i) agreement by the FMoH with Somaliland on the detailed Project activities in line with 
+the objectives and the components of the Project; (ii) agreement on the flow of funding between FGS and Somaliland 
+respective Ministries of Finance; and (iii) completion of relevant fiduciary requirements, including disclosure of necessary 
+ESF documents for Somaliland. Once these conditions are met, the project will be restructured, and the project activities 
+for Somaliland will be subsumed across the project components. If these are not attained by the time of the Project's Mid-
+Term Review (MTR), IDA reserves the right to cancel this amount from the total Project cost of US$100 million.   
+ 
+ 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 24 of 109  
+     
+ 
+Table 4: Estimated Project Cost by Component 
+ 
+C. Project Beneficiaries 
+ 
+47. 
+The Project’s beneficiaries will be: (i) mothers, children, women of reproductive age and persons living in Project 
+target areas, including hard-to-reach populations like IDPs and nomads, who will be covered by the delivery of a sub-set 
+of high-impact health and nutrition services in these areas – this is anticipated to total 1.84 million beneficiaries across 
+the five target regions; and (ii) Ministries of Health officials in both FGS and FMS, who will receive capacity building and 
+technical assistance.  
+ 
+D. Results Chain 
+ 
+48. 
+The Damal Caafimaad Project is the first Project of this size and scale/coverage in which the Government will have 
+a central role in procuring and monitoring the activities of service delivery organizations. To increase the utilization and 
+quality of essential health services, the Project will support the delivery of  a package of high-impact health and nutrition 
+services to beneficiaries, which includes procurement of health commodities (including medicines), procurement of 
+medical devises and essential equipment, developing capacity of the regional health management teams to manage health 
+service delivery, including support for HMIS, and supportive supervision. Delivery of prioritized, essential health services, 
+including GBV services targeted for women (awareness raising, case identification, counselling, and management), will 
+result in improved quality and availability of health services, followed by uptake of quality health services, especially by 
+women and vulnerable populations including IDPs and nomads. In the long term, improved coverage of quality health 
+services will lead to improved health outcomes among Project beneficiaries. The Project is expected to be gender-tagged, 
+and has incorporated intermediate indicators focused on tracking the gender gap in Project monitoring and evaluation, 
+including tracking the number of GBV services delivered to facilitate course correction, closely monitoring the percentage 
+Component 
+Sub-component 
+IDA amount 
+(US$ 
+equivalent) 
+GFF amount 
+(US$) 
+Sub-total 
+amount 
+(US$) 
+Component 1:   Expanding the 
+coverage of high-impact health and 
+nutrition services in select geographic 
+areas 
+ 
+57.0 
+18.5 
+75.5 
+Component 2:  Strengthening 
+Government’s stewardship to 
+enhance service delivery 
+2.1 HMIS and Data Use for Decision 
+Making 
+1.5 
+1.0 
+2.5 
+2.2 PFM, Contract Management and 
+Health Financing 
+3.0 
+2.0 
+5.0 
+2.3 Private Sector Development & 
+Regulatory Reforms 
+1.0 
+2.0 
+3.0 
+2.4 Organizational Development 
+1.0 
+0 
+1.0 
+Component 2 Total 
+ 
+6.5 
+5.0 
+11.5 
+Component 3:  Project management, 
+knowledge management and learning 
+ 
+6.0 
+0 
+6.0 
+Component 4:  CERC    
+ 
+0.0 
+0.0 
+0.0 
+Project Activities in Somaliland 
+(Details TBD)  
+ 
+5.5 
+1.5 
+7.0 
+TOTAL 
+ 
+75.0 
+25.0 
+100 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 25 of 109  
+     
+ 
+of OPD visits attended by women to track service utilization by women, and inclusion of a citizen engagement indicator 
+for accountability. The results chain for the Project PDO indicators is presented in Table 5.  
+ 
+Table 5: Results Chain for the Damal Caafimaad Project  
+Component 
+Activities 
+Outputs 
+PDOs/outcomes 
+Long-term 
+Component 1: 
+Expanding the 
+coverage of 
+high-impact 
+health and 
+nutrition 
+services in 
+select 
+geographic 
+areas 
+Support the 
+delivery of 
+high-impact 
+health and 
+nutrition 
+services in 
+selected 
+regions  
+Increased coverage of quality 
+health services in targeted regions  
+ 
+ 
+• % of births attended 
+by skilled health 
+personnel in a health 
+facility 
+• % of children between 
+6-59 months old 
+receiving Vitamin A 
+supplementation 
+• % of women of 
+childbearing age using 
+modern contraceptives  
+• % of children under one 
+year of age receiving 
+Penta 3   
+Improved health 
+outcomes of targeted 
+populations 
+Component 2: 
+Strengthening 
+Government’s 
+stewardship to 
+enhance 
+service 
+delivery 
+ 
+2.1 HMIS and 
+Data Use for 
+Decision 
+Making 
+• Strengthened HMIS System 
+• Improved data use for decision 
+making 
+ 
+• % of health facilities 
+that submit timely and 
+complete HMIS reports 
+• % of contracted service 
+providers paid on time 
+• Strengthened 
+Government 
+stewardship and 
+management capacity 
+• A high-functioning, 
+well-integrated HMIS 
+with reliable, timely, 
+high quality data used 
+for routine decision 
+making 
+• FGS has fully functional 
+PFM systems and are 
+able to independently 
+manage contracts 
+• Improved quality and 
+availability of an 
+essential package of 
+health services at 
+private sector facilities 
+and functional 
+regulatory systems 
+ 
+ 
+2.2 Public 
+Financial 
+Management, 
+Contract 
+Management, 
+and health 
+financing  
+• Timely review of contracting 
+reports 
+• Regular contract monitoring 
+• Functional contract procurement 
+and PFM practices 
+• Regular RMET 
+2.3 Private 
+Sector 
+Development 
+& Regulatory 
+Reforms 
+• Routine PPD sessions and reports  
+• Identified PPP reforms (2-3) 
+• Private sector network training 
+reports 
+• Policy and regulatory reform gap 
+analysis / reform plan 
+• Draft regulations and guidelines 
+for health products, health 
+workforce, and health facilities  
+• Regulatory bodies established 
+2.4 
+Organizational 
+Development 
+• Implementation of core internal 
+systems for communication, 
+information sharing, and record 
+keeping 
+• Implementation of short, 
+medium, and long-term planning 
+and learning processes 
+ 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 26 of 109  
+     
+ 
+E. Rationale for Bank Involvement and Role of Partners 
+ 
+49. 
+The World Bank’s engagement in Somalia’s health sector is well-timed to support the Government, in 
+collaboration with other partners, to address core challenges in the Somalia health system: reducing health sector 
+fragmentation, developing institutional capacity, and strengthening PFM. In light of increased donor fragmentation in 
+the Somali health sector, exacerbated by the collapse of the JHNP, there is substantial momentum among partners to 
+support the Government to reestablish effective health sector coordination.  The GFF’s experience and focus on 
+Government-led coordination and alignment of resources around government priorities, along with the World Bank’s 
+experience supporting Governments to coordinate partners, position the World Bank and GFF to support the Government 
+in these areas.  The Government is leading partner coordination for EPHS implementation, with support from the GFF.  
+Initially, it is anticipated that Damal Caafimaad’s Project coverage areas will complement areas where FCDO supports EPHS 
+implementation, in close coordination with Gavi and the Global Fund who support aspects of the EPHS.  In addition, given 
+the MoH’s nascent state, the Government has requested a strong focus on institutional capacity development.  The World 
+Bank’s global experience in supporting health systems strengthening and enhancing the use of Government systems is 
+well-placed to support the Government’s efforts in institutional capacity development, particularly in comparison with 
+development partners that primarily support vertical programs and provide resources off-Government systems.  Finally, 
+in light of the FMoH’s governance challenges, the Government has requested The World Bank’s assistance in 
+strengthening PFM within the FMoH.  The World Bank supports Government-wide PFM in Somalia through the Second 
+Public Financial Management Capacity Strengthening Project (P151492), and has substantial experience supporting PFM 
+in the health sector within other countries, demonstrating a clear comparative advantage for World Bank PFM support.  
+ 
+F. Lessons Learned and Reflected in the Project Design 
+ 
+50. 
+The Project incorporates lessons learned from other health projects supported by the World Bank in FCV 
+contexts and lessons from World Bank-financed projects in Somalia.  Lessons from other health projects, including 
+Afghanistan and South Sudan, demonstrate the potential for a results-based contracting modality, in which the 
+Government contracts NGOs, to rapidly scale up health service delivery and improve health outcomes. The Afghan model 
+provided the blueprint for the country’s current service delivery modality, which is recognized as innovative and 
+successfully achieving results despite decades of conflict (See Box 5). The South Sudan model, which was based on 
+Afghanistan’s model, had initial successes, but suffered from implementation and fiduciary challenges, eventually leading 
+the World Bank to support the Government through a model in which health service delivery funds flow directly from the 
+World Bank to UN agencies, who manage service delivery.   
+ 
+51. 
+There are important lessons on contracting non-state actors for service delivery from both the South Sudan and 
+Afghan model, as well as the application of the Afghan model in other contexts.  Key lessons learned from the Afghan 
+and South Sudan models include the need to establish a defined contract management function in a Project Management 
+Unit (PMU) with qualified contract management specialists; initial performance based contract elements must be simple 
+and either possible to verify in the absence of regular supervisory field visits and/ or ensure regular independent audits of 
+the project, contractors, and sub-contractors.  In addition, lessons learned also point to the need to consider the level of 
+capacity in the country when determining the level of flexibility and autonomy in a performance-based contract.  In 
+Afghanistan, considerable autonomy was given to NGOs to deliver services, which helped NGOs adapt to the context and 
+needs to deliver results.  However, the same level of autonomy in South Sudan resulted in service delivery and fiduciary 
+shortcomings.  Clearly defining contract elements and fiduciary requirements, including minimum staffing, supply, 
+equipment, supervision, and training requirements, will be important.  A detailed comparison of the contracting 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 27 of 109  
+     
+ 
+approaches in Afghanistan and South Sudan, along with lessons for Somalia is in Annex 7. 
+Box 5: Lessons Learned from the Afghanistan Health Sector Experience 
+Prior to 2002, coverage of primary health care services in Afghanistan was low and inconsistent. Health services were 
+provided by NGOs, each with their own mandates and funded through different external sources, leaving activities 
+uncoordinated, unfocused and without government involvement. The situation was exacerbated by a lack of clear 
+objectives, unclear geographic coverage areas among organizations, staff shortages in rural areas, and an absence of 
+explicit national priorities.  A 2003 multiple indicator cluster survey (MICS) found coverage of key health services such as 
+skilled birth attendance, antenatal care, and child immunization was only 15 percent.  
+Since 2001, Afghanistan has made notable progress in improving maternal, newborn, and child survival despite still 
+experiencing insecurity and unstable governance. Coverage of maternal and child health service indicators improved 
+significantly from 2001-2015.  For example, the immunization rate for DPT3/Penta and measles increased to 70 percent  
+by 2015, due to Ministry of Public Health (MOPH) key policies. Among the most important policy change include defining 
+a package of priority health services (i.e. basic package of health services), contracting NGOs to deliver the basic package 
+of services, and prioritizing monitoring and evaluation of health sector performance. The three key lessons from the 
+Afghanistan experience are listed below: 
+1. Establishing a Basic Package of Health Services (BPHS) was key: The BPHS successfully unified the sector in delivering 
+a set of high impact interventions through an over-arching strategy for the sector with clearly defined priorities. The 
+MOPH leveraged its stewardship and the BPHS to strategically direct the health sector. 
+2. Contracting of NGOs for service delivery, while allowing flexibility and autonomy: Contracting of NGOs while 
+allowing for autonomy and flexibility was critical, as it allowed the government to rapidly scale up service delivery, 
+while still allowing NGOs the agility to respond to communities’ needs and providing services in rapidly changing 
+insecure areas. By setting key priorities, allocating geographical responsibility, providing financing, and carefully 
+monitoring performance, the MOPH has been able to provide direction to what was previously an uncoordinated and 
+chaotic effort, while ensuring alignment to the BPHS’ strategic priorities.  
+3. Independent, frequent, and robust monitoring and evaluation: The health sector benefited enormously from 
+frequent, robust, and independent data collected for performance monitoring and evaluation. Using different sources 
+of data ensured the accountability of service providers and allowed the MOPH to identify problems, act quickly to 
+resolve them, and track whether progress had been achieved. 
+52. 
+The Project incorporates lessons from partner implementation of the Somalia EPHS.  A core challenge of EPHS 
+implementation has been the lack of coordination between partners.  To address this, the World Bank, with GFF support 
+for coordination, is working closely with partners along with the Government to harmonize EPHS planning and 
+implementation.  A second challenge is fragmentation and limited data on EPHS implementation, making it difficult to 
+understand levels of service coverage and improve health service delivery.  Damal Caafimaad’s focus on development of 
+the country’s DHIS2 system, through sub-component 2.1 and coupled with TPM, will support annual household and health 
+facility surveys with the aim to increase the availability and use of data for decision making.  Finally, the Project’s TPM 
+arrangements, particularly nationwide facility and household surveys at the beginning and end of project, along with 
+regular coordination meetings to share and discuss results, aim to increase accountability for health service delivery under 
+the Government’s leadership.  
+ 
+53. 
+The Project has also incorporated lessons from the health program experience in the RCRF II/III project, as well 
+as other World Bank projects in Somalia. Key Project design features based on ongoing World Bank projects in Somalia 
+include: close attention to capacity development as part of the design; using flexible modalities tailored to different 
+geographic areas of the country; using a participatory process and transparent criteria to select geographic locations for 
+the Project; ensuring strong TPM as a component of the Project; and commencing implementation through a phased 
+manner with a few geographic areas, with the potential to expand at a later date.  Specific lessons from the RCRF II Project 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 28 of 109  
+     
+ 
+are detailed in Box 6.  The Project also drew on lessons from the “Water for Agro-pastoral Productivity and Resilience 
+Project” (“Biyoole” Project; P167826), by paying close attention to mechanisms through which national program coverage 
+can be achieved within Somalia’s context with consideration that Somaliland does not operate within Somalia’s Federal 
+system.  Attending to the complex relations between the Federal Government and Somaliland, strong efforts were taken 
+into consideration in Damal Caafimaad’s preparation to ensure coverage across the country. 
+ 
+54. 
+Damal Caafimaad Project, together with Education and Social Protection Projects, present opportunities for 
+synergies to improve human capital outcomes. For instance, the social safety net program to be built under the ongoing 
+Shock Responsive Safety Net for Human Capital Project (P171346) could be linked to health/nutrition results supporting 
+vulnerable population. Further, data generated through the Project may be used to identify underserved populations with 
+greater needs of health services. In addition, the Somalia Education for Human Capital Development Project (P172434), 
+which is under preparation for FY21 Board approval, will target selected districts, some of which are located within the 
+Damal Caafimaad’s target regions (Bakool and Hiraan). Project-level collaboration and knowledge exchange will be actively 
+sought throughout Project implementation. Lastly, considering Somalia’s high vulnerability to climate change, the Project 
+has been collaborating with the Green Climate Fund (GCF) to increase climate friendly cooling and cold chain to mitigate 
+climate impacts and expand cold chain capacity (See more details in Section D: Environmental and Social section on climate 
+change). 
+Box 6: Lessons learned from implementation of the health components of RCRF II and III 
+ 
+The Recurrent Cost and Reform Financing Project (RCRF; P154875), which began in 2015, included a health component within the 
+2018 Additional Financing (RCRF II; P167224) for the project.  This US$15.1 million component covered three main areas: (i) 
+development of a Female Health Worker (FHW) cadre in Somalia; (ii) development of contract management, monitoring, and 
+coordination capacity within Somalia’s FGS and FMS Ministries of Health; and (iii) intergovernmental coordination.  RCRF II 
+implementation is currently underway: the first round of FHWs are trained and being paid, a Health Technical Partner is being 
+recruited to support the FHW program and provide capacity development support, and staff positions to augment capacity within 
+the MoHs have been recruited.  Under the capacity development component of the project, RCRF II provides important support 
+to develop contract management capacity in the health sector, which will be critical to successful contracting of NGOs through 
+Damal Caafimaad Project.  
+The RCRF III (P173731), anticipated to operate for a three-year period, became effective in Dec 2020.  The Project will continue to 
+support the FHW program, focusing on expanding and deepening FHW program coverage, improving FHW program monitoring 
+and evaluation, developing MoH contract management capacity, and supporting donor coordination for improved financial 
+management.  RCRF III will continue to complement strengthening of Government contract management functions, in alignment 
+with the Damal Caafimaad Project.   
+Key lessons from RCRF which are relevant to and incorporated in Damal Caafimaad Project are as follows:  
+• 
+Engagement of all FMS in Project design and discussions from the beginning of the Project is critical for buy-in and 
+continued Project engagement, to adequately reflect diverse needs among FMS and enhance the nascent federal system 
+• 
+Consensus building within Government institutions, including between the FGS and the FMS, is an important part of 
+Project operations in Somalia. 
+• 
+Technical and operational decisions can take multiple discussions between Government bodies, the MoH, and partners; 
+the thinking and consequently the decision making process can take time.  
+• 
+Government decision making, including the procurement process, requires extensive consultation in the Somali context 
+and requires building in multiple rounds of consultation over sufficient time to minimize delays. 
+• 
+Capacity support and technical assistance are critical for ensuring timely completion of administrative and technical tasks. 
+• 
+High-capacity staff work within the system in Somalia.  Supporting high-capacity staff with resources and technical 
+assistance can help facilitate Project implementation. 
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 29 of 109  
+     
+ 
+ 
+III. IMPLEMENTATION ARRANGEMENTS 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+55. 
+The Damal Caafimaad Project arrangements aim to strengthen the institutional, operational, and technical 
+capacity of Somalia’s MoHs. Due to governance issues in April 2020 as previously described, the FMoH requested 
+immediate support from the World Bank to strengthen fiduciary capacity.  Subsequently, a roadmap to support PFM 
+capacity building in the short, medium and long-term was developed. The World Bank  mobilized various resources to 
+respond to the FMoH’s immediate needs: short-term activities including the hiring of fiduciary consultants and TA has 
+been supported during Project preparation using funds from the ongoing RCRF-II project, the Multi Partner Fund (MPF), 
+and the Pandemic Emergency Financing Facility (PEF).  The PEF COVID-19 country payout supported the FMoH to address 
+internal fiduciary challenges which occurred following the FMoH’s receipt of COVID-19 funds at the pandemic’s onset.  
+The Project’s implementation arrangements, described below, incorporate the vision and longer-term activities required 
+to develop credible PFM systems in Somalia’s MoHs in a consistent and phased approach, while ensuring the MoH’s 
+capacity is enhanced to fulfil its role in fiduciary and technical leadership as the Project’s implementing agency.  
+ 
+56. 
+Project Coordination and Implementation Unit (PCIU) at FGS-MoH. Under the Project, a Project Coordination 
+and Implementation Unit (PCIU) will be established as the responsible implementing entity in the FMoH. To ensure 
+sufficient support to the Government to implement the project, given the nascent state of FMoH structures, the 
+establishment of the PCIU is a condition of Project effectiveness. In the long term, the PCIU aims to serve as a single 
+coordination and management unit for development partner financing and activities in the FMoH, to support the 
+Government’s objective of increasing on-treasury resources and coordination. The PCIU will be responsible for overall 
+Project coordination, implementation, and day-to-day management and monitoring of the project. This includes: (i) 
+ensuring Project activities are implemented as agreed and in compliance with the World Bank technical and fiduciary 
+guidelines; (ii) leading technical, operational, and fiduciary functions, especially contracting and contract management; 
+and (iii) coordinating and overseeing Project implementation/ management in the respective FMS, including monitoring 
+and evaluation of Project activities, capacity building, and ensuring compliance to social and environmental safeguard 
+requirements. The PCIU will also prepare the annual work plan and budget for the Project, by no later than November 1 
+of each year, commencing on November 1, 2021. 
+ 
+57. 
+Project Management Team at FMS-MoH. Each FMS will enter into a subsidiary agreement with the FGS to ensure 
+Project implementation and monitoring at the designated FMS-MoH level, and secure the FGS-FMS collaboration under 
+the Project.  Each FMS will form a PMT at the FMS-MoH. The PMT will be primarily responsible for Project management 
+at FMS-level, including managing and tracking implementation progress, identifying opportunities for implementation 
+improvements and solving day-to-day issues that may delay implementation.  Key responsibilities of the PMT include 
+contract management of EPHS service providers, reviewing Project activity design, technically supporting implementation 
+agencies, Project M&E, and coordinating efforts within their respective governments, across other World Bank-financed 
+projects in the health sector, as well as between the FGS and the FMS.  
+ 
+58. 
+To help navigate Project implementation, the Project Operations Manual (POM) will be prepared by the PCIU 
+for submission to the World Bank for No Objection within two months of Project effectiveness. The POM will describe the 
+Project components and activities; implementation modalities for each Project component; fiduciary/disbursement and 
+environmental and social safeguard responsibilities and arrangements; and coordination mechanisms at different levels.  
+ 
+The World Bank 
+ 
+Improving Healthcare Services in Somalia Project (“Damal Caafimaad”) (P172031) 
+ 
+ 
+ 
+ 
+Page 30 of 109  
+     
+ 
+The POM will also include the monitoring of the Project progress according to the Project’s Results Framework.  
+59. 
+Project Governance Structures will be formed to review the project’s progress towards the PDO, discuss 
+implementation challenges, and provide solutions/directions to move implementation forward. At the FMS level, a 
+Project Monitoring Meeting will be held quarterly by the PMT one month prior to the Project Steering Committee Meeting, 
+and monitor Project progress within the respective FMS. The Project Monitoring Meetings will be chaired by the Project 
+Manager of the PMT, to be established at every FMS-MoH with technical staff, the Component 1 contractor 
+representatives, and Regional Health Officials from Component 1 implementing regions.  The Project Monitoring Meeting 
+will monitor the progress of Component 1 and 2 interventions within the respective FMS of Project target areas, as well 
+as discuss and report on day-to-day challenges to inform the Project Steering Committee meetings at the FMoH level. The 
+Project Steering Committee will also meet on a quarterly basis throughout the Project period, and be chaired by the 
+Director General, FMoH and attended by the Director General of each FMS-MoH as well as the Director General, Federal 
+Ministry of Finance (or a person delegated by the Director General), with the first meeting to be held within three months 
+of Project effectiveness. The annual work plan will also be discussed and agreed at the Project Steering Committee for 
+onward discussion and agreement with the World Bank, as well as serve as a platform for knowledge sharing of best 
+practices across FMSs. A Project Leadership Committee will also be organized bi-annually between FGS and FMS, chaired 
+by the Federal Minister of Health, with participation by the FMS

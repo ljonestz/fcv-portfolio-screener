@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FCV Screener — Stability Test Results | P148850</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --red:      #E3120B;
+    --dark:     #1a1a1a;
+    --mid:      #555555;
+    --muted:    #888888;
+    --rule:     #d8d8d8;
+    --bg:       #ffffff;
+    --tint:     #f8f7f5;
+    --stable:   #1a6e2e;
+    --marginal: #a05c00;
+    --stable-bg:   #eaf3ec;
+    --marginal-bg: #fdf3e3;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--bg);
+    color: var(--dark);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .page { max-width: 820px; margin: 0 auto; padding: 0 32px 72px; }
+
+  /* ── Document header ── */
+  .doc-header {
+    border-top: 5px solid var(--red);
+    padding: 28px 0 20px;
+    margin-bottom: 32px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .doc-header .doc-type {
+    font-size: 11px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--red);
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .doc-header h1 {
+    font-family: Georgia, serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--dark);
+    margin-bottom: 14px;
+  }
+  .doc-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .doc-meta span { margin-right: 28px; }
+  .doc-meta strong { color: var(--dark); }
+
+  /* ── Summary verdict strip ── */
+  .verdict-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 1px solid var(--rule);
+    margin-bottom: 40px;
+  }
+  .verdict-cell {
+    padding: 16px 14px;
+    border-right: 1px solid var(--rule);
+    text-align: center;
+  }
+  .verdict-cell:last-child { border-right: none; }
+  .verdict-cell .v-val {
+    font-family: Georgia, serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: var(--red);
+    line-height: 1;
+    display: block;
+    margin-bottom: 5px;
+  }
+  .verdict-cell .v-label {
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: .07em;
+    color: var(--muted);
+    line-height: 1.4;
+  }
+  .verdict-cell.pass .v-val { color: var(--stable); }
+
+  /* ── Section ── */
+  .section { margin-bottom: 44px; }
+  .section-title {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-bottom: 4px;
+  }
+  .section h2 {
+    font-family: Georgia, serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 4px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 8px;
+  }
+  /* Chart-title deck (Economist style: bold finding as title) */
+  .chart-head {
+    margin: 20px 0 0;
+  }
+  .chart-head .finding {
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 2px;
+  }
+  .chart-head .subtitle {
+    font-size: 11.5px;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  canvas { display: block; width: 100% !important; }
+  .chart-note {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 8px;
+    padding-top: 6px;
+    border-top: 1px solid var(--rule);
+  }
+
+  /* ── Findings list ── */
+  .findings {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .findings li {
+    padding: 10px 0 10px 20px;
+    border-bottom: 1px solid var(--rule);
+    font-size: 13.5px;
+    line-height: 1.55;
+    position: relative;
+  }
+  .findings li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 18px;
+    width: 8px;
+    height: 2px;
+    background: var(--red);
+  }
+  .findings li strong { color: var(--dark); }
+  .findings li .tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .tag-stable   { background: var(--stable-bg);   color: var(--stable); }
+  .tag-marginal { background: var(--marginal-bg);  color: var(--marginal); }
+  .tag-pass     { background: var(--stable-bg);    color: var(--stable); }
+  .tag-note     { background: #f0f0f0;              color: var(--mid); }
+
+  /* ── Dim table ── */
+  .dim-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12.5px;
+    margin-top: 16px;
+  }
+  .dim-table th {
+    background: var(--dark);
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    padding: 7px 10px;
+    text-align: left;
+    font-weight: 700;
+  }
+  .dim-table td {
+    padding: 7px 10px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: middle;
+  }
+  .dim-table tr:nth-child(even) td { background: var(--tint); }
+  .range-bar-wrap {
+    position: relative;
+    width: 100px;
+    height: 6px;
+    background: #e4e4e4;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .range-bar-fill {
+    position: absolute;
+    height: 6px;
+    top: 0;
+  }
+
+  /* ── RF grid ── */
+  .rf-wrap { margin-top: 16px; overflow-x: auto; }
+  .rf-grid {
+    display: grid;
+    grid-template-columns: 185px repeat(10, 28px);
+    gap: 2px;
+    min-width: 480px;
+    align-items: center;
+  }
+  .rf-col-head {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--muted);
+    text-align: center;
+    padding: 2px 0 4px;
+  }
+  .rf-row-label {
+    font-size: 11.5px;
+    color: var(--mid);
+    padding: 4px 0;
+    white-space: nowrap;
+  }
+  .rf-row-label .flag-id {
+    font-weight: 700;
+    color: var(--dark);
+    margin-right: 4px;
+  }
+  .rf-cell {
+    width: 28px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 700;
+  }
+  .rf-clear     { background: #e8f4e8; color: var(--stable); }
+  .rf-triggered { background: #fce8e8; color: #b00; }
+  .rf-leg { display: flex; gap: 16px; margin-top: 10px; font-size: 11px; color: var(--muted); }
+  .rf-leg span::before { content: ''; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+  .rf-leg .l-clear::before     { background: #e8f4e8; }
+  .rf-leg .l-triggered::before { background: #fce8e8; }
+
+  /* ── Narrative text ── */
+  .narr {
+    font-size: 13.5px;
+    color: var(--mid);
+    line-height: 1.65;
+    margin: 10px 0 16px;
+  }
+  .narr + canvas, .narr + .rf-wrap { margin-top: 4px; }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--rule);
+    padding-top: 16px;
+    margin-top: 48px;
+    font-size: 11px;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ── Header ── -->
+  <header class="doc-header">
+    <div class="doc-type">Technical Note &nbsp;·&nbsp; FCV Screener Methodology Validation</div>
+    <h1>Stability Test — Test 1 Results</h1>
+    <div class="doc-meta">
+      <span><strong>Project:</strong> P148850 — Ethiopia Expressway Development Support Project (2015 IPF)</span>
+      <span><strong>Runs:</strong> 10 independent screenings</span>
+      <span><strong>Date:</strong> 19 March 2026</span>
+    </div>
+  </header>
+
+  <!-- ── Verdict strip ── -->
+  <div class="verdict-strip">
+    <div class="verdict-cell pass">
+      <span class="v-val">0.25</span>
+      <span class="v-label">Max composite SD<br>(threshold ≤ 0.5)</span>
+    </div>
+    <div class="verdict-cell pass">
+      <span class="v-val">0</span>
+      <span class="v-label">Categorical rating<br>changes</span>
+    </div>
+    <div class="verdict-cell pass">
+      <span class="v-val">0</span>
+      <span class="v-label">Gap matrix<br>classification flips</span>
+    </div>
+    <div class="verdict-cell pass">
+      <span class="v-val">10%</span>
+      <span class="v-label">Max RF flip rate<br>(threshold ≤ 10%)</span>
+    </div>
+  </div>
+
+  <!-- ── Test design ── -->
+  <div class="section" style="margin-bottom:32px">
+    <div class="section-title">Test design</div>
+    <h2>What was tested and how</h2>
+    <p class="narr">
+      The FCV Screener scores World Bank project appraisal documents across eight analytical dimensions, grouped into two composites: <strong>Sensitivity</strong> (does the project understand the FCV context?) and <strong>Responsiveness</strong> (does the design adapt to it?). Each composite runs from 1–10, with scores below 4 rated <em>Not Addressed</em>, 4–6.9 as <em>Partially Addressed</em>, and 7+ as <em>Substantially Addressed</em>. In addition, five binary red flags capture specific design failures that can occur regardless of the dimension scores.
+    </p>
+    <p class="narr">
+      Because the screener uses a large language model — which is probabilistic by nature — the same document can in principle produce different scores on different runs. This stability test assesses whether that variance is small enough to trust the results. The document for P148850 (a 2015 Ethiopia infrastructure PAD with no FCV content) was passed to ten completely independent screening agents, each unaware of the others' results. Stability thresholds are: composite standard deviation (SD) ≤ 0.5 for a stable verdict, 0.5–1.0 marginal, and &gt;1.0 unstable. The four key metrics above summarise the outcome.
+    </p>
+  </div>
+
+  <!-- ── 1. Composite scores ── -->
+  <div class="section">
+    <div class="section-title">1 · Composite scores</div>
+    <h2>Both composites are stable across all 10 runs</h2>
+    <p class="narr">
+      The chart below plots the Sensitivity and Responsiveness scores produced by each of the ten independent runs. If the screener were unreliable, we would expect the lines to jump around erratically. Instead, both composites stay close to their respective means throughout, with the widest spread being about half a point on the 1–10 scale. Crucially, every single run placed the project in the same rating category — <em>Not Addressed</em> — and the same gap matrix cell — <em>Low FCV integration</em>. From a practical standpoint, this means a single run is sufficient to classify a project like this correctly.
+    </p>
+    <div class="chart-head">
+      <div class="finding">Scores are tightly clustered; no run changes the categorical verdict</div>
+      <div class="subtitle">Sensitivity and Responsiveness composite scores, runs 1–10 · Dashed lines = mean · Scale capped at 5 for readability</div>
+    </div>
+    <canvas id="compositeChart" height="180"></canvas>
+    <div class="chart-note">
+      Sensitivity: mean 2.72, SD 0.18, range 2.50–3.00 &nbsp;·&nbsp;
+      Responsiveness: mean 2.88, SD 0.25, range 2.60–3.20 &nbsp;·&nbsp;
+      All 10 runs: <em>Not Addressed</em> on both composites &nbsp;·&nbsp;
+      Gap matrix: <em>Low FCV integration</em> in all 10 runs
+    </div>
+  </div>
+
+  <!-- ── 2. Dimension variance ── -->
+  <div class="section">
+    <div class="section-title">2 · Dimension-level variance</div>
+    <h2>Six of eight dimensions are fully stable; two are marginal</h2>
+    <p class="narr">
+      Behind the two composite scores sit eight individual dimensions, each scored 1–10. The chart shows the mean score for each dimension (the bar) and the spread around that mean across the ten runs (the error bars, representing ±1 SD). A dimension with no error bar — D5, Design and Targeting — returned exactly the same score in every single run: the evidence in this document is unambiguous and the model reads it the same way every time. Dimensions with wider error bars (D6 and D7, shown in amber) reflect genuine interpretive ambiguity: the PAD contains some content that an assessor could plausibly credit or discount as FCV-adapted design. The table below provides the full statistics.
+    </p>
+    <div class="chart-head">
+      <div class="finding">D5 shows zero variance; D6 and D7 are the noisiest dimensions</div>
+      <div class="subtitle">Mean score per dimension with ±1 SD error bars · Green = Stable (SD ≤ 0.5) · Amber = Marginal (SD 0.5–1.0)</div>
+    </div>
+    <canvas id="dimChart" height="220"></canvas>
+    <div class="chart-note">No dimension exceeded the 1.0 Unstable threshold.</div>
+
+    <table class="dim-table" style="margin-top:20px">
+      <thead>
+        <tr>
+          <th>Dimension</th>
+          <th>Composite</th>
+          <th style="text-align:right">Mean</th>
+          <th style="text-align:right">SD</th>
+          <th>Range (1–10)</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody id="dimTableBody"></tbody>
+    </table>
+  </div>
+
+  <!-- ── 3. Red flags ── -->
+  <div class="section">
+    <div class="section-title">3 · Red flag consistency</div>
+    <h2>Four of five flags are perfectly consistent; RF2 sits at the stability threshold</h2>
+    <p class="narr">
+      Red flags are binary pass/fail checks on top of the dimension scores. They capture specific design failures — such as an unrealistic results framework or unmitigated elite capture risk — that are important enough to flag regardless of a project's overall score. The grid below shows, for each of the five flags and each of the ten runs, whether the flag was triggered (red ✕) or clear (green ✓). Four flags show a perfectly uniform result across all runs. RF5 — which checks whether the macro framework has been stress-tested against conflict or instability scenarios — is triggered in every run without exception, reflecting a clear evidence gap in the document. RF2 (distributional analysis) shows one departure: it was triggered in run 7 only. This is a borderline case — the PAD addresses resettlement and business displacement through standard safeguards, and whether that constitutes a "missing" conflict-sensitive distributional analysis is genuinely ambiguous. A 10% flip rate is exactly at the stability threshold and does not require corrective action.
+    </p>
+    <div class="chart-head">
+      <div class="finding">RF5 triggered in every run; RF2 triggered in one run only</div>
+      <div class="subtitle">Binary flag outcome per run · RF = Red Flag</div>
+    </div>
+    <div class="rf-wrap">
+      <div class="rf-grid" id="rfGrid"></div>
+    </div>
+    <div class="rf-leg">
+      <span class="l-clear">Not triggered</span>
+      <span class="l-triggered">Triggered</span>
+    </div>
+    <div class="chart-note" style="margin-top:10px">
+      RF5 (unrealistic macro framework — 15% annual traffic growth, no FCV stress scenario): 0% flip rate. &nbsp;·&nbsp;
+      RF2 (missing distributional analysis): 10% flip rate — marginal evidence in the PAD; the document addresses resettlement through standard safeguards compliance rather than conflict-sensitivity analysis.
+    </div>
+  </div>
+
+  <!-- ── 4. Key findings ── -->
+  <div class="section">
+    <div class="section-title">4 · Key findings</div>
+    <h2>Summary and implications for methodology use</h2>
+    <p class="narr">
+      P148850 is a floor case — a project with essentially no FCV content, chosen specifically because it offers little ambiguity for the model to resolve differently across runs. The results confirm that the screener is highly consistent at this end of the scoring range. The more demanding test is a project that sits near the classification thresholds, where small score shifts could change a project's rating or move it between quadrants of the gap matrix. That test is planned next.
+    </p>
+    <ul class="findings">
+      <li>
+        <span class="tag tag-pass">Pass</span>
+        <strong>Composite stability confirmed.</strong> Both composites cleared the SD ≤ 0.5 threshold comfortably (max SD = 0.25). The methodology is reliable for portfolio-level classification at the floor of the scoring range.
+      </li>
+      <li>
+        <span class="tag tag-pass">Pass</span>
+        <strong>Zero categorical changes across all runs.</strong> No run produced a different rating (<em>Not Addressed / Partially Addressed / Substantially Addressed</em>) or a different gap matrix cell. A single screening run is sufficient to classify low-scoring projects.
+      </li>
+      <li>
+        <span class="tag tag-marginal">Note</span>
+        <strong>D6 and D7 warrant rubric tightening.</strong> Implementation Flexibility (SD 0.63) and Results Framework (SD 0.52) show marginally elevated variance. Both reflect genuine interpretive ambiguity in this document type — the boundary between standard project management and FCV-adapted design is not always explicit in 2015-era PADs. Calibration guidance for these two dimensions is recommended before formal cross-country comparisons.
+      </li>
+      <li>
+        <span class="tag tag-note">Note</span>
+        <strong>RF2 flip is analytically meaningful, not noise.</strong> The single RF2 trigger (run 7 only) reflects a real ambiguity: the PAD documents distributional impacts through safeguards instruments without applying a conflict-sensitivity framing. The 10% flip rate is at — not above — the stability threshold. No corrective action required; annotate in methodology documentation.
+      </li>
+      <li>
+        <span class="tag tag-note">Next</span>
+        <strong>Boundary-case test pending.</strong> P166220 (Djibouti Integrated Cash Transfer, S=5.83, R=5.50) is the critical next test. Both composites sit directly at the gap matrix classification thresholds; a composite SD of ≥ 0.5 could produce quadrant flips. Results will determine whether the methodology requires score-averaging across repeated runs near thresholds.
+      </li>
+    </ul>
+  </div>
+
+  <footer>
+    Test data: <code>stability_test/results/P148850/</code> (10 JSON files) &nbsp;·&nbsp;
+    Analysis script: <code>stability_test/analyze_stability.py</code> &nbsp;·&nbsp;
+    Branch: <code>analysis/stability-test</code> &nbsp;·&nbsp;
+    FCV Portfolio Screener &nbsp;·&nbsp; March 2026
+  </footer>
+
+</div>
+
+<script>
+const RED      = '#E3120B';
+const DARK     = '#1a1a1a';
+const MID      = '#555555';
+const MUTED    = '#888888';
+const RULE     = '#d8d8d8';
+const STABLE   = '#1a6e2e';
+const MARGINAL = '#a05c00';
+const STABLE_BG   = '#eaf3ec';
+const MARGINAL_BG = '#fdf3e3';
+
+const sensScores = [2.67, 2.50, 3.00, 2.83, 2.83, 2.83, 2.50, 2.50, 2.67, 2.83];
+const respScores = [2.60, 2.80, 3.20, 3.20, 3.10, 3.10, 2.80, 2.80, 2.60, 2.60];
+const sensMean   = 2.716, respMean = 2.880;
+
+const dims = [
+  { id:'D1', name:'FCV Context & Diagnostics',       comp:'Sensitivity',    mean:2.05, sd:0.158, min:2.0, max:2.5  },
+  { id:'D2', name:'Do No Harm & Conflict Risk',       comp:'Sensitivity',    mean:2.70, sd:0.483, min:2.0, max:3.0  },
+  { id:'D3', name:'Stakeholder & Political Economy',  comp:'Sensitivity',    mean:3.35, sd:0.474, min:3.0, max:4.0  },
+  { id:'D4', name:'Objectives & Theory of Change',    comp:'Responsiveness', mean:3.25, sd:0.425, min:3.0, max:4.0  },
+  { id:'D5', name:'Design & Targeting',               comp:'Responsiveness', mean:3.00, sd:0.000, min:3.0, max:3.0  },
+  { id:'D6', name:'Implementation & Op. Flexibility', comp:'Responsiveness', mean:2.80, sd:0.632, min:2.0, max:4.0  },
+  { id:'D7', name:'Results Framework & Adapt. Mgmt',  comp:'Responsiveness', mean:2.40, sd:0.516, min:2.0, max:3.0  },
+  { id:'D8', name:'One WBG Integration',              comp:'Responsiveness', mean:3.15, sd:0.337, min:3.0, max:4.0  },
+];
+
+const rfData = {
+  RF1: [0,0,0,0,0,0,0,0,0,0],
+  RF2: [0,0,0,0,0,0,1,0,0,0],
+  RF3: [0,0,0,0,0,0,0,0,0,0],
+  RF4: [0,0,0,0,0,0,0,0,0,0],
+  RF5: [1,1,1,1,1,1,1,1,1,1],
+};
+const rfDesc = {
+  RF1: 'RF1  Unmitigated conflict risk',
+  RF2: 'RF2  Missing distributional analysis',
+  RF3: 'RF3  OP 7.30 weakly handled',
+  RF4: 'RF4  Elite capture unmitigated',
+  RF5: 'RF5  Unrealistic macro framework',
+};
+
+/* ── Shared chart defaults ── */
+Chart.defaults.font.family = 'Arial, Helvetica, sans-serif';
+Chart.defaults.color       = MUTED;
+
+/* ── Fig 1: Composite line chart ── */
+(function () {
+  const labels = Array.from({length: 10}, (_, i) => 'Run ' + (i+1));
+  const meanLinePlugin = {
+    id: 'meanLines',
+    afterDraw(chart) {
+      const {ctx, chartArea: {left, right}, scales: {y}} = chart;
+      [[sensMean, RED], [respMean, DARK]].forEach(([m, col]) => {
+        ctx.save();
+        ctx.setLineDash([5, 4]);
+        ctx.strokeStyle = col;
+        ctx.lineWidth = 1.2;
+        ctx.globalAlpha = 0.5;
+        const yp = y.getPixelForValue(m);
+        ctx.beginPath(); ctx.moveTo(left, yp); ctx.lineTo(right, yp); ctx.stroke();
+        ctx.restore();
+      });
+    }
+  };
+  new Chart(document.getElementById('compositeChart'), {
+    type: 'line',
+    plugins: [meanLinePlugin],
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Sensitivity',
+          data: sensScores,
+          borderColor: RED,
+          backgroundColor: 'rgba(227,18,11,0.07)',
+          pointBackgroundColor: RED,
+          pointBorderColor: '#fff',
+          pointBorderWidth: 1.5,
+          pointRadius: 5,
+          tension: 0.15,
+          borderWidth: 2,
+          fill: false,
+        },
+        {
+          label: 'Responsiveness',
+          data: respScores,
+          borderColor: DARK,
+          backgroundColor: 'rgba(26,26,26,0.05)',
+          pointBackgroundColor: DARK,
+          pointBorderColor: '#fff',
+          pointBorderWidth: 1.5,
+          pointRadius: 5,
+          tension: 0.15,
+          borderWidth: 2,
+          fill: false,
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: {
+          position: 'top',
+          align: 'end',
+          labels: { boxWidth: 10, font: { size: 11 }, padding: 16, color: DARK }
+        },
+        tooltip: {
+          backgroundColor: DARK,
+          padding: 10,
+          titleFont: { size: 11 },
+          bodyFont:  { size: 12 },
+          callbacks: {
+            label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(2)}`
+          }
+        }
+      },
+      scales: {
+        y: {
+          min: 1.5, max: 4,
+          ticks: { stepSize: 0.5, font: { size: 11 } },
+          grid: { color: RULE },
+          title: { display: true, text: 'Score', font: { size: 11 }, color: MUTED }
+        },
+        x: {
+          ticks: { font: { size: 11 } },
+          grid: { display: false }
+        }
+      }
+    }
+  });
+})();
+
+/* ── Fig 2: Dimension horizontal bar ── */
+(function () {
+  const labels = dims.map(d => d.id);
+  const means  = dims.map(d => d.mean);
+  const sds    = dims.map(d => d.sd);
+
+  const errorBarPlugin = {
+    id: 'errorBars',
+    afterDatasetsDraw(chart) {
+      const {ctx, scales: {x, y}} = chart;
+      ctx.save();
+      ctx.lineWidth = 1.8;
+      means.forEach((mean, i) => {
+        const sd = sds[i];
+        if (sd === 0) return;
+        const meta = chart.getDatasetMeta(0).data[i];
+        const xC  = meta.x;
+        const yT  = x.getPixelForValue(mean + sd);
+        const yB  = x.getPixelForValue(mean - sd);
+        // For horizontal bar, x and y are swapped internally; use x scale
+        // Actually for horizontal bar chart, we need the bar's center
+        // meta.x is the right edge of the bar, meta.y is the vertical center
+        const yCenter = meta.y;
+        const xHigh   = x.getPixelForValue(mean + sd);
+        const xLow    = x.getPixelForValue(mean - sd);
+        const cap     = 4;
+        ctx.strokeStyle = dims[i].sd <= 0.5 ? STABLE : MARGINAL;
+        ctx.beginPath(); ctx.moveTo(xLow, yCenter); ctx.lineTo(xHigh, yCenter); ctx.stroke();
+        ctx.beginPath(); ctx.moveTo(xLow,  yCenter - cap); ctx.lineTo(xLow,  yCenter + cap); ctx.stroke();
+        ctx.beginPath(); ctx.moveTo(xHigh, yCenter - cap); ctx.lineTo(xHigh, yCenter + cap); ctx.stroke();
+      });
+      ctx.restore();
+    }
+  };
+
+  new Chart(document.getElementById('dimChart'), {
+    type: 'bar',
+    plugins: [errorBarPlugin],
+    data: {
+      labels,
+      datasets: [{
+        label: 'Mean score',
+        data: means,
+        backgroundColor: dims.map(d => d.sd <= 0.5 ? STABLE_BG : MARGINAL_BG),
+        borderColor:     dims.map(d => d.sd <= 0.5 ? STABLE    : MARGINAL),
+        borderWidth: 1.5,
+        borderRadius: 0,
+        barThickness: 22,
+        indexAxis: 'y',
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: DARK,
+          padding: 10,
+          titleFont: { size: 11 },
+          bodyFont:  { size: 12 },
+          callbacks: {
+            title: ctx => dims[ctx[0].dataIndex].id + ': ' + dims[ctx[0].dataIndex].name,
+            label: ctx => {
+              const i = ctx.dataIndex;
+              return ` Mean ${means[i].toFixed(2)} ± ${sds[i].toFixed(3)} SD  (range ${dims[i].min}–${dims[i].max})`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: {
+          min: 0, max: 5,
+          ticks: { stepSize: 1, font: { size: 11 } },
+          grid: { color: RULE },
+          title: { display: true, text: 'Score (1–10 scale)', font: { size: 11 }, color: MUTED }
+        },
+        y: {
+          ticks: { font: { size: 12, weight: 'bold' }, color: DARK },
+          grid: { display: false }
+        }
+      }
+    }
+  });
+})();
+
+/* ── Fig 3: RF grid ── */
+(function () {
+  const grid = document.getElementById('rfGrid');
+
+  // Header row
+  const blank = document.createElement('div');
+  grid.appendChild(blank);
+  for (let r = 1; r <= 10; r++) {
+    const h = document.createElement('div');
+    h.className = 'rf-col-head';
+    h.textContent = r;
+    grid.appendChild(h);
+  }
+
+  // Data rows
+  Object.keys(rfData).forEach(flag => {
+    const lbl = document.createElement('div');
+    lbl.className = 'rf-row-label';
+    lbl.innerHTML = `<span class="flag-id">${flag}</span>${rfDesc[flag].slice(4)}`;
+    grid.appendChild(lbl);
+
+    rfData[flag].forEach(val => {
+      const cell = document.createElement('div');
+      cell.className = 'rf-cell ' + (val ? 'rf-triggered' : 'rf-clear');
+      cell.textContent = val ? '✕' : '✓';
+      grid.appendChild(cell);
+    });
+  });
+})();
+
+/* ── Dimension table ── */
+(function () {
+  const tbody = document.getElementById('dimTableBody');
+  dims.forEach(d => {
+    const stable = d.sd <= 0.5;
+    const pct = Math.min(100, Math.round(d.sd / 1.0 * 100));
+    const col = stable ? STABLE : MARGINAL;
+    const badge = stable
+      ? `<span style="font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:${STABLE};background:${STABLE_BG};padding:2px 7px;border-radius:2px">Stable</span>`
+      : `<span style="font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:${MARGINAL};background:${MARGINAL_BG};padding:2px 7px;border-radius:2px">Marginal</span>`;
+    tbody.insertAdjacentHTML('beforeend', `
+      <tr>
+        <td><strong>${d.id}</strong> &mdash; ${d.name}</td>
+        <td style="color:${MUTED}">${d.comp}</td>
+        <td style="text-align:right;font-variant-numeric:tabular-nums">${d.mean.toFixed(2)}</td>
+        <td style="text-align:right;font-variant-numeric:tabular-nums">${d.sd.toFixed(3)}</td>
+        <td>
+          <div class="range-bar-wrap">
+            <div class="range-bar-fill" style="left:${Math.round(d.min/10*100)}%;width:${Math.round((d.max-d.min)/10*100)}%;background:${col}44"></div>
+            <div class="range-bar-fill" style="left:${Math.round((d.mean - d.sd/2)/10*100)}%;width:${Math.round(d.sd/10*100)}%;background:${col}"></div>
+          </div>
+        </td>
+        <td>${badge}</td>
+      </tr>`);
+  });
+})();
+</script>
+</body>
+</html>
