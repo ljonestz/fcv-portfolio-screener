@@ -1,7 +1,7 @@
 # Design Spec: Portfolio Screener Enhancement
 **Date:** 2026-03-24
 **Project:** FCV Portfolio Screener
-**Status:** Approved
+**Status:** Implementation in progress (Components 1–3 built and tested; pipeline integration pending)
 
 ---
 
@@ -99,15 +99,22 @@ r'^\s*Annex\s+(\d+):\s+(.+?)\s*$'               # re.MULTILINE | re.IGNORECASE
 
 ### Component 2 — ISR/ICR Collection
 
-**File:** Extend `data_collection.py` as a new Step 4.
+**File:** `utils/fetch_isrs.py` (standalone module, also runnable via CLI)
 
-**Purpose:** For each project in `screening_targets.json`, fetch any available ISRs and ICRs from the WB Documents API by project ID. Extract the key FCV-signal sections into compact summaries.
+**Purpose:** For each project in `screening_targets.json`, fetch any available ISRs and ICRs from the WB Documents API by project ID. Extract text via a fallback chain and apply head+tail capping.
 
-**API call:** `https://search.worldbank.org/api/v2/wds?format=json&projectid=<PID>&docty=ISR,ICR&fl=id,docdt,docty,url`
+**API call:** `https://search.worldbank.org/api/v2/wds?format=json&projectid=<PID>&docty_exact=Implementation+Status+and+Results+Report&fl=id,docdt,docty,url,pdfurl,txturl&rows=50`
 
-> **Note:** Confirm working parameter name before implementation. Existing data collection uses `project_id` (underscore) for some endpoints and `projectid` (no underscore) for others depending on WB API endpoint variant. Test the ISR fetch against a known project ID (e.g. P151492) and confirm non-empty results before integrating. Add confirmed parameter name to Open Questions resolution.
+> **Resolved:** `projectid` (no underscore) is the correct parameter for the `wds` endpoint. Confirmed against P151492 and Djibouti portfolio (22 projects).
 
-**ISR extraction method:** Use a **head+tail fixed-cap extraction** (consistent with existing PAD pipeline practice). Extract the first 10k characters + last 5k characters of each ISR PDF text, capped at 15k characters total. No separate LLM summarisation call — this avoids additional token cost and latency. ISRs are short enough (20–50 pages) that head+tail reliably captures the ratings tables (front) and key issues/findings (back).
+**Content retrieval — fallback chain:**
+1. **`txturl`** (primary) — pre-extracted plain text from WB servers. Best quality, typically ~15k chars per ISR. Direct text download, no PDF parsing needed.
+2. **`pdfurl`** (fallback) — direct PDF binary, extracted via PyMuPDF (`fitz`). Produces ~8–15k chars. Used when `txturl` returns an error or is absent.
+3. **Skip with warning** — when neither endpoint returns usable content (< 500 chars). Logged as `status: 'no_content'`.
+
+> **Note:** The `url` field returns an HTML landing page and must NOT be used for content extraction. This was the root cause of the original 1,530-char stub bug.
+
+**ISR extraction method:** Use a **head+tail fixed-cap extraction** (consistent with existing PAD pipeline practice). Extract the first 10k characters + last 5k characters of each ISR text, capped at 15k characters total. No separate LLM summarisation call — this avoids additional token cost and latency. ISRs are short enough (20–50 pages) that head+tail reliably captures the ratings tables (front) and key issues/findings (back).
 
 **Signal content captured by head+tail:**
 - Implementation Progress (IP) rating and Development Outcome (DO) rating
@@ -119,6 +126,8 @@ r'^\s*Annex\s+(\d+):\s+(.+?)\s*$'               # re.MULTILINE | re.IGNORECASE
 **Output:** One file per ISR/ICR saved to `extracted_texts_isr/<PID>_<doctype>_<YYYY-MM>.txt`, ordered chronologically.
 
 **If no ISRs exist** for a project: no files created; downstream screener receives PAD only (identical to current behaviour).
+
+**Djibouti validation (2026-03-24):** 81 ISRs saved across 15 projects (of 22 total). ~55% from txturl, ~45% from pdfurl. Average file size ~14k chars. ~30% of ISRs were genuinely inaccessible via either endpoint (older or restricted documents).
 
 ---
 
@@ -197,12 +206,23 @@ Net token cost is essentially unchanged. PAD section filtering savings fully off
 ```
 FCV-Portfolio-Screener/
 ├── utils/
-│   └── pad_section_filter.py          # NEW — Component 1
+│   ├── __init__.py                    # NEW — package marker
+│   ├── pad_section_filter.py          # NEW — Component 1
+│   ├── fetch_isrs.py                  # NEW — Component 2
+│   └── build_screening_prompt.py      # NEW — Component 3
+├── tests/
+│   ├── __init__.py                    # NEW — test package marker
+│   ├── fixtures/
+│   │   ├── sample_pad.txt             # NEW — synthetic PAD for tests
+│   │   └── sample_isr.txt             # NEW — synthetic ISR for tests
+│   ├── test_pad_section_filter.py     # NEW — 24 tests
+│   ├── test_fetch_isrs.py            # NEW — 18 tests
+│   └── test_build_screening_prompt.py # NEW — 8 tests
 ├── <country>/
-│   ├── extracted_texts/               # UNCHANGED — original PDFs
-│   ├── extracted_texts_filtered/      # NEW — filtered PAD texts
-│   ├── extracted_texts_isr/           # NEW — ISR/ICR summaries
-│   └── <date>_<country>_data_collection.py  # UPDATED — adds Step 4 (ISR fetch)
+│   ├── extracted_texts/               # UNCHANGED — original PAD PDFs
+│   ├── extracted_texts_filtered/      # NEW — filtered PAD texts (gitignored)
+│   ├── extracted_texts_isr/           # NEW — ISR/ICR text extracts (gitignored)
+│   └── normalize_results.py           # UPDATED — handles ISR adjustment fields
 └── docs/superpowers/specs/
     └── 2026-03-24-portfolio-screener-enhancement-design.md  # THIS FILE
 ```
@@ -211,15 +231,16 @@ FCV-Portfolio-Screener/
 
 ## Implementation Order
 
-1. Build and test `pad_section_filter.py` on a sample of 5–10 documents across all three countries; validate section detection accuracy (≥ 80% header match rate)
-2. Extend `data_collection.py` with ISR fetch step; confirm API parameter name against known project ID
-3. Update screener prompt with combined PAD + ISR instructions
-4. Update `normalize_results.py` to handle new schema fields (must happen before testing, not after)
-5. Run end-to-end test on Djibouti (smallest portfolio, 22 projects) before Ethiopia
+1. ~~Build and test `pad_section_filter.py`~~ — **Done.** Validated on 84 real documents (Ethiopia + Djibouti), 20–28% reduction, 50 tests passing.
+2. ~~Build `fetch_isrs.py` with ISR fetch~~ — **Done.** `projectid` confirmed. txturl→pdfurl→skip fallback chain implemented. 81 ISRs fetched for Djibouti.
+3. ~~Build `build_screening_prompt.py` with combined PAD + ISR instructions~~ — **Done.** Assembles PAD-only or PAD+ISR prompt with adjustment instructions.
+4. ~~Update `normalize_results.py` to handle new schema fields~~ — **Done.** Ethiopia and Djibouti both updated with backward-compatible defaults.
+5. **Next:** Integrate into portfolio screening pipeline — wire `pad_section_filter` and `fetch_isrs` into `data_collection.py`, update screener agent prompts to use `build_screening_prompt` output, run end-to-end test on Djibouti.
 
 ---
 
-## Open Questions
+## Open Questions (Resolved)
 
-- WB Documents API ISR availability: needs testing to confirm ISRs are consistently accessible by project ID (SSL certificate handling already in place via `ssl.CERT_NONE`).
-- ISR text quality: ISRs may have less structured formatting than PADs — the light extraction approach (keyword search rather than section parsing) may be more reliable than regex-based section detection.
+- ~~WB Documents API ISR availability~~: **Resolved.** `projectid` (no underscore) is correct. ISRs are accessible for ~70% of documents via `txturl` or `pdfurl` fields. ~30% of older/restricted ISRs return errors on both endpoints — these are skipped gracefully. SSL `CERT_NONE` handles corporate proxy.
+- ~~ISR text quality~~: **Resolved.** `txturl` returns high-quality pre-extracted text (~15k chars). `pdfurl` + PyMuPDF is a reliable fallback (~8–15k chars). Head+tail extraction (10k head + 5k tail) captures ratings, key issues, and risk sections effectively. No regex-based section parsing needed for ISRs.
+- ~~API `url` vs `pdfurl` vs `txturl`~~: **Resolved.** The `url` field returns an HTML landing page (not a PDF). Must use `txturl` (primary) or `pdfurl` (fallback) for actual document content. Both must be explicitly requested via `fl=` parameter.
