@@ -1,65 +1,73 @@
+{"event": "pad_filter_fallback", "pid": "P156433", "doc_type": "PAD", "headers_found": 13, "reason": "No Roman-numeral section headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P163226_results", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P163226_risks", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
 {"event": "pad_filter_fallback", "pid": "P163226_social", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
-P148447.txt                                         status=filtered      headers= 39  reduction= 99.2%
-P148850.txt                                         status=filtered      headers= 57  reduction= 99.1%
-P151432.txt                                         status=filtered      headers= 36  reduction= 98.1%
-P151712.txt                                         status=filtered      headers= 48  reduction= 99.0%
-P151847.txt                                         status=filtered      headers= 38  reduction= 97.0%
-P156433.txt                                         status=filtered      headers= 45  reduction= 89.8%
-P156590.txt                                         status=filtered      headers= 43  reduction= 99.0%
-P158770.txt                                         status=filtered      headers= 48  reduction= 93.4%
-P159382.txt                                         status=filtered      headers= 47  reduction= 71.9%
-P160279.txt                                         status=filtered      headers= 52  reduction= 99.0%
-P160395.txt                                         status=filtered      headers= 39  reduction= 99.4%
-P161060.txt                                         status=filtered      headers= 54  reduction= 99.5%
-P161373.txt                                         status=filtered      headers= 36  reduction= 98.1%
-P162607.txt                                         status=filtered      headers= 39  reduction= 92.7%
-P163050.txt                                         status=filtered      headers= 44  reduction= 95.0%
-P163226.txt                                         status=filtered      headers= 54  reduction= 99.1%
-P163226_end.txt                                     status=filtered      headers=  5  reduction=100.0%
-P163226_results.txt                                 status=filtered      headers= 11  reduction= 87.7%
-P163226_risks.txt                                   status=filtered      headers= 19  reduction= 78.0%
-P163226_section.txt                                 status=filtered      headers= 11  reduction=100.0%
-P163226_section2.txt                                status=filtered      headers=  5  reduction=100.0%
+{"event": "pad_filter_fallback", "pid": "P168566", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P169079", "doc_type": "PAD", "headers_found": 0, "reason": "Fewer than 5 headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P172284", "doc_type": "PAD", "headers_found": 4, "reason": "Fewer than 5 headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P181545", "doc_type": "PAD", "headers_found": 13, "reason": "No Roman-numeral section headers detected; returning full text."}
+{"event": "pad_filter_fallback", "pid": "P181591", "doc_type": "PAD", "headers_found": 1, "reason": "Fewer than 5 headers detected; returning full text."}
+P148447.txt                                         status=filtered      headers=  8  reduction= 29.0%
+P148850.txt                                         status=filtered      headers= 23  reduction= 48.3%
+P151432.txt                                         status=filtered      headers=  9  reduction=  9.9%
+P151712.txt                                         status=filtered      headers= 10  reduction= 25.2%
+P151847.txt                                         status=filtered      headers=  8  reduction= 38.9%
+P156433.txt                                         status=fallback      headers= 13  reduction=  0.0%
+P156590.txt                                         status=filtered      headers=  8  reduction= 26.6%
+P158770.txt                                         status=filtered      headers= 13  reduction= 30.9%
+P159382.txt                                         status=filtered      headers= 11  reduction= 37.9%
+P160279.txt                                         status=filtered      headers= 17  reduction= 22.6%
+P160395.txt                                         status=filtered      headers=  9  reduction= 22.6%
+P161060.txt                                         status=filtered      headers= 11  reduction= 24.1%
+P161373.txt                                         status=filtered      headers=  9  reduction=  9.9%
+P162607.txt                                         status=filtered      headers=  7  reduction= 23.2%
+P163050.txt                                         status=filtered      headers= 43  reduction= 22.2%
+P163226.txt                                         status=filtered      headers= 16  reduction= 26.5%
+P163226_end.txt                                     status=filtered      headers=  5  reduction= 94.9%
+P163226_results.txt                                 status=fallback      headers=  0  reduction=  0.0%
+P163226_risks.txt                                   status=fallback      headers=  0  reduction=  0.0%
+P163226_section.txt                                 status=filtered      headers= 11  reduction= 10.1%
+P163226_section2.txt                                status=filtered      headers=  5  reduction= 96.4%
 P163226_social.txt                                  status=fallback      headers=  0  reduction=  0.0%
-P163350.txt                                         status=filtered      headers= 48  reduction= 93.4%
-P163383.txt                                         status=filtered      headers= 56  reduction= 99.0%
-P163438.txt                                         status=filtered      headers= 48  reduction= 93.4%
-P163829.txt                                         status=filtered      headers= 37  reduction= 99.5%
-P164336.txt                                         status=filtered      headers= 39  reduction= 99.6%
-P167794.txt                                         status=filtered      headers= 36  reduction= 99.7%
-P168411.txt                                         status=filtered      headers= 34  reduction= 44.4%
-P168566.txt                                         status=filtered      headers=  6  reduction= 99.6%
-P169079.txt                                         status=filtered      headers=  6  reduction= 99.6%
-P169943.txt                                         status=filtered      headers= 36  reduction= 99.7%
-P170384.txt                                         status=filtered      headers= 28  reduction=100.0%
-P171034.txt                                         status=filtered      headers= 36  reduction= 87.8%
-P171742.txt                                         status=filtered      headers= 40  reduction= 99.6%
-P172284.txt                                         status=filtered      headers= 24  reduction= 82.9%
-P172479.txt                                         status=filtered      headers= 38  reduction= 99.5%
-P173750.txt                                         status=filtered      headers= 46  reduction= 99.8%
-P174874.txt                                         status=filtered      headers= 34  reduction= 85.1%
-P175045.txt                                         status=filtered      headers= 39  reduction= 99.2%
-P175167.txt                                         status=filtered      headers= 24  reduction=100.0%
-P175853.txt                                         status=filtered      headers= 46  reduction= 99.8%
-P176255.txt                                         status=filtered      headers= 43  reduction= 99.0%
-P176303.txt                                         status=filtered      headers= 32  reduction= 96.1%
-P176327.txt                                         status=filtered      headers= 33  reduction= 99.8%
-P176354.txt                                         status=filtered      headers= 36  reduction= 98.1%
-P176731.txt                                         status=filtered      headers= 40  reduction= 99.7%
-P176997.txt                                         status=filtered      headers= 38  reduction= 99.5%
-P177233.txt                                         status=filtered      headers= 33  reduction= 99.6%
-P177881.txt                                         status=filtered      headers= 34  reduction= 89.4%
-P177906.txt                                         status=filtered      headers= 46  reduction= 99.8%
-P178047.txt                                         status=filtered      headers= 31  reduction= 92.7%
-P178808.txt                                         status=filtered      headers= 31  reduction= 88.9%
-P178821.txt                                         status=filtered      headers= 46  reduction= 99.8%
-P178895.txt                                         status=filtered      headers= 39  reduction= 99.4%
-P179040.txt                                         status=filtered      headers= 33  reduction= 87.5%
-P179092.txt                                         status=filtered      headers= 38  reduction= 99.5%
-P180076.txt                                         status=filtered      headers= 39  reduction= 99.6%
-P181545.txt                                         status=filtered      headers= 45  reduction= 89.8%
-P181550.txt                                         status=filtered      headers= 36  reduction= 99.7%
-P181591.txt                                         status=filtered      headers=  6  reduction= 99.7%
-P181626.txt                                         status=filtered      headers= 38  reduction= 99.5%
+P163350.txt                                         status=filtered      headers= 13  reduction= 30.9%
+P163383.txt                                         status=filtered      headers= 22  reduction= 28.2%
+P163438.txt                                         status=filtered      headers= 13  reduction= 30.9%
+P163829.txt                                         status=filtered      headers=  7  reduction= 11.4%
+P164336.txt                                         status=filtered      headers=  8  reduction= 26.9%
+P167794.txt                                         status=filtered      headers= 11  reduction= 22.9%
+P168411.txt                                         status=filtered      headers=  6  reduction= 27.1%
+P168566.txt                                         status=fallback      headers=  0  reduction=  0.0%
+P169079.txt                                         status=fallback      headers=  0  reduction=  0.0%
+P169943.txt                                         status=filtered      headers=  7  reduction= 26.1%
+P170384.txt                                         status=filtered      headers=  9  reduction= 26.8%
+P171034.txt                                         status=filtered      headers=  8  reduction= 15.5%
+P171742.txt                                         status=filtered      headers=  6  reduction= 30.9%
+P172284.txt                                         status=fallback      headers=  4  reduction=  0.0%
+P172479.txt                                         status=filtered      headers=  6  reduction= 29.6%
+P173750.txt                                         status=filtered      headers= 20  reduction= 22.6%
+P174874.txt                                         status=filtered      headers=  7  reduction= 22.0%
+P175045.txt                                         status=filtered      headers=  8  reduction= 29.0%
+P175167.txt                                         status=filtered      headers=  7  reduction= 28.7%
+P175853.txt                                         status=filtered      headers= 20  reduction= 22.6%
+P176255.txt                                         status=filtered      headers=  8  reduction= 26.6%
+P176303.txt                                         status=filtered      headers= 12  reduction= 27.9%
+P176327.txt                                         status=filtered      headers=  7  reduction= 22.0%
+P176354.txt                                         status=filtered      headers=  9  reduction=  9.9%
+P176731.txt                                         status=filtered      headers= 13  reduction= 21.4%
+P176997.txt                                         status=filtered      headers=  6  reduction= 29.6%
+P177233.txt                                         status=filtered      headers=  7  reduction= 12.1%
+P177881.txt                                         status=filtered      headers= 10  reduction= 20.3%
+P177906.txt                                         status=filtered      headers= 20  reduction= 22.6%
+P178047.txt                                         status=filtered      headers=  7  reduction= 24.7%
+P178808.txt                                         status=filtered      headers=  7  reduction= 65.1%
+P178821.txt                                         status=filtered      headers= 20  reduction= 22.6%
+P178895.txt                                         status=filtered      headers=  9  reduction= 22.6%
+P179040.txt                                         status=filtered      headers=  7  reduction= 22.6%
+P179092.txt                                         status=filtered      headers=  6  reduction= 29.6%
+P180076.txt                                         status=filtered      headers=  8  reduction= 26.9%
+P181545.txt                                         status=fallback      headers= 13  reduction=  0.0%
+P181550.txt                                         status=filtered      headers=  7  reduction= 26.1%
+P181591.txt                                         status=fallback      headers=  1  reduction=  0.0%
+P181626.txt                                         status=filtered      headers=  6  reduction= 29.6%
 
-Summary: 62 files | 61 filtered (avg 95.3% reduction) | 1 fallback | 0 passthrough
+Summary: 62 files | 53 filtered (avg 28.2% reduction) | 9 fallback | 0 passthrough
