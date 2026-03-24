@@ -318,7 +318,7 @@ def filter_pad(
     stats = {
         'headers_found': headers_found,
         'original_chars': original_chars,
-        'filtered_chars': len(filtered_text),
+        'filtered_chars': filtered_chars,  # content only, not including the header prefix
         'reduction_pct': reduction_pct,
         'status': 'filtered',
     }
