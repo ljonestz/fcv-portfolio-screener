@@ -1,0 +1,476 @@
+THE WORLD BANK
+FOR OFFICIAL USE ONLY
+
+Report No: PAD1234
+
+PROJECT APPRAISAL DOCUMENT
+
+ON A
+
+PROPOSED CREDIT
+
+IN THE AMOUNT OF
+
+USD 50 MILLION
+
+TO THE
+
+REPUBLIC OF TESTLAND
+
+FOR THE
+
+FRAGILITY-SENSITIVE COMMUNITY DEVELOPMENT PROJECT
+
+June 15, 2025
+
+Social Protection and Jobs Global Practice
+Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective May 1, 2025)
+
+    Currency Unit    =    Testland Shilling (TLS)
+    TLS 1.00         =    USD 0.0087
+    USD 1.00         =    TLS 114.9
+
+FISCAL YEAR
+January 1 - December 31
+
+ABBREVIATIONS AND ACRONYMS
+
+AF          Additional Financing
+CERC        Contingency Emergency Response Component
+CPS         Country Partnership Strategy
+DA          Designated Account
+DDP         District Development Plan
+ESMF        Environmental and Social Management Framework
+ESCP        Environmental and Social Commitment Plan
+FCV         Fragility, Conflict and Violence
+FM          Financial Management
+FMS         Financial Management Specialist
+GBV         Gender-Based Violence
+GRM         Grievance Redress Mechanism
+IDA         International Development Association
+IPF         Investment Project Financing
+ISR         Implementation Status Report
+LMP         Labor Management Procedure
+M&E         Monitoring and Evaluation
+NPV         Net Present Value
+PAD         Project Appraisal Document
+PDO         Project Development Objective
+PIU         Project Implementation Unit
+PPSD        Project Procurement Strategy for Development
+RRA         Regional Risk Assessment
+SEP         Stakeholder Engagement Plan
+SORT        Systematic Operations Risk-Rating Tool
+ToC         Theory of Change
+TTL         Task Team Leader
+WBG         World Bank Group
+
+WORLD BANK STANDARD DISCLAIMERS
+
+Vice President:            Jane A. Smith, AFRVP
+Country Director:          Robert B. Jones, AFCTL
+Practice Manager:          Sarah C. Williams, GSP07
+Task Team Leader(s):       Michael D. Brown, GSP07
+                           Amina E. Hassan, GSURR
+
+================================================================================
+
+I. STRATEGIC CONTEXT
+
+A. Country Context
+
+1. Testland is a low-income country in Sub-Saharan Africa with a population of approximately 22 million.
+The country has experienced a protracted period of fragility following a civil conflict that ended in 2015.
+The Regional Risk Assessment for Testland (2024) identified rising inter-communal tensions in the northern
+and eastern provinces as a primary driver of fragility. The assessment specifically highlights that fragility
+in border districts has increased due to spillover effects from neighboring countries.
+
+2. According to the Regional Risk Assessment, the country scores in the bottom quartile on institutional
+legitimacy indicators, reflecting decades of governance deficits and state retrenchment from service
+delivery in rural areas. The fragility trap is self-reinforcing: weak state institutions fail to deliver
+services, reducing trust in government, which in turn weakens social cohesion.
+
+3. Macro-fiscal indicators have improved since the peace agreement, with GDP growth averaging 4.2 percent
+annually over the 2018-2024 period. However, distributional outcomes remain highly unequal, with poverty
+concentrated in FCV-affected districts.
+
+B. Sectoral and Institutional Context
+
+4. The social protection sector in Testland is fragmented, with multiple programmes operating in parallel
+under different ministries. The Ministry of Social Affairs (MoSA) has nominal coordination responsibility
+but lacks the political authority to integrate cross-ministerial programmes.
+
+5. The most recent fragility assessment (2023) found that existing social protection targeting mechanisms
+inadvertently excluded conflict-affected IDPs, reinforcing perceptions of state bias among displaced
+communities. This institutional context creates both risk and opportunity for the proposed operation.
+
+6. The World Bank has supported social protection in Testland since 2010 through a series of projects.
+Lessons learned from the portfolio include: (i) cash transfers are effective in FCV settings when linked
+to community-driven targeting; (ii) grievance mechanisms must be accessible to marginalized groups;
+(iii) FCV-sensitive M&E systems are critical for adaptive management.
+
+C. Higher Level Objectives
+
+7. The project directly supports the Country Partnership Framework (CPF) for Testland FY2023-2028, which
+identifies social resilience and inclusion as a core pillar. The CPF explicitly acknowledges the FCV
+context and calls for conflict-sensitive project design.
+
+8. The project also contributes to the WBG FCV Strategy 2020-2025 objective of helping countries
+transition out of fragility (Pillar 3), with secondary contributions to preventing conflict (Pillar 1)
+through social cohesion strengthening components.
+
+================================================================================
+
+II. PROJECT DEVELOPMENT OBJECTIVES
+
+A. PDO
+
+9. The Project Development Objective is to increase access to social services for conflict-affected
+communities in targeted districts, and to strengthen the capacity of local institutions to deliver
+services in a conflict-sensitive manner.
+
+10. Key results indicators include:
+    (a) Number of direct project beneficiaries receiving cash transfers (disaggregated by gender, IDP status)
+    (b) Percentage of beneficiaries reporting satisfaction with targeting fairness
+    (c) Number of functional GRM cases resolved within 30 days
+    (d) Percentage of project districts with updated conflict sensitivity assessments
+
+B. Project Beneficiaries
+
+11. The project will directly benefit approximately 250,000 households (estimated 1.25 million individuals)
+in the five most FCV-affected districts. Of these, at least 40 percent are internally displaced persons
+(IDPs) or returnee households.
+
+12. Indirect beneficiaries include district-level government staff who will receive capacity building, and
+community structures that will be strengthened through the participatory implementation approach.
+
+================================================================================
+
+III. PROJECT DESCRIPTION
+
+A. Project Components
+
+13. Component 1: Conflict-Sensitive Cash Transfers (USD 32 million). This component will finance cash
+transfers to eligible households in targeted FCV districts. Targeting will use a community-based process
+with built-in conflict sensitivity safeguards to avoid elite capture or exclusion of marginalized groups.
+
+14. Component 2: Local Institutional Capacity Building (USD 12 million). This component will finance
+training and technical assistance to district-level government institutions, with a focus on conflict-
+sensitive service delivery, GRM establishment, and FCV-informed planning.
+
+15. Component 3: Adaptive Management and FCV Monitoring (USD 4 million). This component will establish
+a real-time monitoring system including a Grievance Redress Mechanism, conflict sensitivity tracking, and
+regular FCV situation assessments to allow for project adaptation.
+
+16. Component 4: Contingency Emergency Response Component — CERC (USD 2 million). Provides a
+pre-positioned mechanism to rapidly reallocate project resources in response to conflict escalation
+or humanitarian crises during the project period.
+
+================================================================================
+
+IV. IMPLEMENTATION
+
+A. Institutional and Implementation Arrangements
+
+17. The project will be implemented by a dedicated Project Implementation Unit (PIU) housed within the
+Ministry of Social Affairs. The PIU will be staffed by a full-time FCV specialist, a social inclusion
+officer, and a dedicated GRM coordinator.
+
+18. Implementation will be carried out at the district level through District Social Development Committees
+(DSDCs), which include community representatives, local government officials, and civil society
+organizations. DSDCs are required to include at least 30 percent women and at least one representative
+from IDP communities.
+
+19. Financial management arrangements follow OP/BP 10.00 on Investment Project Financing. The designated
+account will be maintained at the Central Bank of Testland. Quarterly financial reports will be submitted
+to the World Bank within 45 days of the end of each quarter.
+
+B. Results Monitoring and Evaluation
+
+20. The results monitoring system will include quarterly progress reports, annual project assessments, and
+a dedicated FCV conflict tracking module. Baselines have been established for all PDO indicators through
+a household survey conducted in March 2025.
+
+21. A midterm review will be conducted 30 months after effectiveness. An independent impact evaluation
+is planned using a difference-in-differences design, comparing outcomes in project districts against
+matched comparison districts.
+
+================================================================================
+
+V. KEY RISKS
+
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+Risk Category                                      Rating
+---------------------------------------------------------
+Political and Governance                           High
+Macroeconomic                                      Moderate
+Sector Strategies and Policies                     Moderate
+Technical Design of Project or Program             Moderate
+Institutional Capacity for Implementation          Substantial
+Fiduciary                                          Moderate
+Environment and Social                             Substantial
+Stakeholders                                       High
+Other (Security / Conflict Escalation)             High
+OVERALL                                            High
+
+22. Political and Governance Risk (High): The fragile political environment in Testland, combined with
+upcoming elections, creates significant risk of political interference in project targeting. Mitigation
+includes community-based targeting with independent verification.
+
+23. Security/Conflict Escalation Risk (High): Active conflict in two of the five target districts could
+disrupt implementation and endanger project staff and beneficiaries. Mitigation includes a CERC component,
+real-time security monitoring, and a conflict-contingent implementation protocol.
+
+24. Institutional Capacity Risk (Substantial): District-level government capacity is limited. Mitigation
+includes the capacity building component and embedding of FCV specialists in the PIU.
+
+================================================================================
+
+VI. APPRAISAL SUMMARY
+
+A. Economic and Financial Analysis
+
+25. The economic analysis is based on a cost-benefit framework. The net present value (NPV) of the
+project is estimated at USD 78.4 million under the base scenario, with an economic rate of return of
+17.3 percent. Sensitivity analysis shows the project remains economically viable even under scenarios
+with 30 percent cost overruns or 20 percent shortfalls in benefit realization.
+
+26. The fiscal impact on the government of Testland is assessed as manageable over the project period.
+
+B. Technical
+
+27. The technical design of the cash transfer mechanism is based on best practice from comparable FCV
+contexts. The payment mechanism (mobile money) is appropriate given telecommunications infrastructure
+in target districts.
+
+C. Financial Management
+
+28. Financial management arrangements comply with OP/BP 10.02 on Financial Management. An FM assessment
+was conducted in April 2025 and found the PIU's FM capacity to be adequate with minor gaps. Agreed
+actions include: (i) recruitment of a qualified FM specialist before effectiveness; (ii) installation of
+accounting software; (iii) establishment of internal audit function within 6 months of effectiveness.
+
+29. Procurement Regulations for IPF Borrowers apply to all procurement under this project. A Project
+Procurement Strategy for Development (PPSD) has been prepared and approved.
+
+D. Procurement
+
+30. Procurement will be carried out in accordance with the Procurement Regulations for IPF Borrowers
+(July 2016, revised November 2020). The PPSD identifies the following major procurement packages:
+consultancy services for targeting, IT systems for M&E, and training delivery contracts.
+
+31. OP/BP 10.02 does not apply to procurement activities; all procurement follows the Procurement
+Regulations framework referenced above.
+
+E. Social (including Safeguards)
+
+32. A Social Assessment was conducted to identify potential adverse social impacts. Key findings include:
+(i) significant risk of elite capture in targeting without adequate community oversight; (ii) GBV risks
+linked to cash transfers in households with male-dominated financial control; (iii) social tension risks
+from perceptions of biased targeting.
+
+33. A Grievance Redress Mechanism (GRM) has been designed with multiple access channels including
+community liaisons, SMS reporting, and district-level complaint desks. The GRM is accessible to persons
+with disabilities and those with limited literacy. The GRM design incorporates lessons from similar
+FCV contexts where anonymous reporting improved uptake among conflict-affected populations.
+
+34. A Stakeholder Engagement Plan has been prepared (see Annex 7) and outlines how affected communities
+will be engaged throughout project implementation.
+
+F. Environment (including Safeguards)
+
+35. The project is classified as Environmental Risk Category B. No significant adverse environmental
+impacts are expected. An Environmental and Social Management Framework (ESMF) has been prepared,
+reviewed, and disclosed.
+
+36. Climate co-benefits are positive: strengthened community resilience reduces vulnerability to
+climate-induced displacement, which can be a conflict trigger in the Testland context.
+
+G. World Bank Grievance Redress
+
+37. Communities and individuals who believe that they are adversely affected by a World Bank supported
+project may submit complaints to existing project-level grievance redress mechanisms or the World Bank's
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order
+to address project-related concerns. Project affected communities and individuals may submit their
+complaint to the World Bank's independent Inspection Panel which determines whether harm occurred, or
+could occur, as a result of World Bank non-compliance with its policies and procedures.
+
+================================================================================
+
+Annex 1: Results Framework and Monitoring
+
+PDO Indicators
+
+Indicator 1: Number of direct project beneficiaries receiving cash transfers
+    Baseline: 0 | Year 1: 100,000 | Year 2: 200,000 | Year 3 (End): 250,000
+    Disaggregation: Gender (M/F), IDP status (IDP/Host/Returnee)
+
+Indicator 2: Percentage of beneficiaries reporting targeting fairness
+    Baseline: N/A | Year 1: — | Year 2: 65% | Year 3 (End): 75%
+
+Indicator 3: GRM cases resolved within 30 days
+    Baseline: 0 | Year 1: 50 | Year 2: 75 | Year 3 (End): 85
+
+Do-No-Harm Indicators
+
+The following Do-No-Harm indicators will be tracked quarterly to ensure the project does not exacerbate
+conflict dynamics:
+
+    - Incidents of targeting-related social tension (by district)
+    - Number of beneficiaries from previously excluded groups (IDPs, ethnic minorities)
+    - GRM case types disaggregated by conflict-related grievances
+    - Conflict sensitivity assessment scores (annual, per district)
+
+Intermediate Results Indicators
+
+Indicator 4: Number of district staff trained in conflict-sensitive service delivery
+    Baseline: 0 | Year 1: 120 | Year 2: 240 | Year 3 (End): 300
+
+Indicator 5: Number of functional DSDCs with IDP representation meeting quarterly
+    Baseline: 0 | Year 1: 5 | Year 2: 5 | Year 3 (End): 5
+
+================================================================================
+
+Annex 2: Detailed Project Description
+
+This annex provides additional technical detail on project component design.
+
+2.1 Component 1 Detail — Cash Transfer Mechanism
+
+The cash transfer amount (USD 25 per household per month) was determined based on a consumption gap
+analysis. The payment cycle is monthly; payments will be made via mobile money operators active in
+target districts.
+
+2.2 Component 2 Detail — Capacity Building Curriculum
+
+The capacity building curriculum covers: conflict analysis for non-specialists, GRM establishment and
+management, FCV-sensitive targeting procedures, and adaptive management tools.
+
+2.3 Component 3 Detail — Monitoring System Architecture
+
+The monitoring system uses ODK-based data collection tools, with real-time dashboards accessible to
+the PIU and the World Bank task team. Data security protocols are in place.
+
+================================================================================
+
+Annex 3: Implementation Arrangements
+
+Project Governance Structure
+
+The project will be governed by a Project Steering Committee (PSC) chaired by the Minister of Social
+Affairs and including representatives from the Ministry of Finance, Ministry of Interior, and civil
+society. The PSC will meet semi-annually.
+
+Staffing Plan
+
+The PIU will be staffed with the following key positions:
+    - Project Coordinator (1 FTE)
+    - FCV Specialist (1 FTE) — responsible for conflict sensitivity mainstreaming, quarterly FCV
+      situation assessments, and liaison with security monitoring systems
+    - Social Inclusion Officer (1 FTE)
+    - GRM Coordinator (1 FTE)
+    - Financial Management Specialist (1 FTE)
+    - Procurement Specialist (1 FTE)
+
+Role of the FCV Specialist
+
+The FCV Specialist will prepare quarterly conflict sensitivity reports, serve as the primary liaison
+with the Regional Risk Assessment update process, and advise the PIU on adaptive management decisions
+triggered by the CERC component.
+
+================================================================================
+
+Annex 4: Implementation Support Plan
+
+The World Bank task team will provide implementation support as follows:
+
+    - Two implementation support missions per year (on-site + remote as security permits)
+    - Continuous FM/procurement monitoring via interim unaudited financial reports
+    - Annual field visits by the TTL and FCV specialist
+
+Supervision budget is estimated at USD 250,000 per year for the 3-year project period.
+
+================================================================================
+
+Annex 5: Economic Analysis
+
+This annex provides the full details of the economic and financial analysis summarized in Section VI.A.
+
+5.1 NPV Calculations
+
+NPV calculations are based on a 12 percent social discount rate and a 10-year benefit horizon (including
+post-project sustainability of capacity investments). The base case NPV of USD 78.4 million is driven
+primarily by reduced household vulnerability (valued using consumption gains) and reduced conflict costs
+(valued using UNODC conflict cost estimates for comparable contexts).
+
+Sensitivity tests:
+    - Scenario A (+30% costs): NPV = USD 55.2 million (ERR = 12.1%)
+    - Scenario B (-20% benefits): NPV = USD 48.7 million (ERR = 10.8%)
+    - Scenario C (conflict escalation — 50% implementation disruption): NPV = USD 22.1 million (ERR = 7.3%)
+
+5.2 Distributional Analysis
+
+The distributional analysis confirms that 78 percent of benefits accrue to the bottom two income quintiles.
+IDP households receive disproportionately higher benefits per capita given their elevated vulnerability.
+
+================================================================================
+
+Annex 6: Financial Analysis
+
+6.1 Financial Sustainability
+
+Post-project financial sustainability depends on government budget allocations for the cash transfer
+programme. The Ministry of Finance has provided a fiscal commitment letter confirming plans to
+progressively absorb programme costs from Year 2 onward.
+
+6.2 Financial Controls Assessment
+
+Standard World Bank fiduciary procedures apply. OP/BP 10.02 compliance has been assessed. The PIU will
+maintain a separate designated account. External audits will be conducted annually.
+
+================================================================================
+
+Annex 7: Social (including Safeguards)
+
+Stakeholder Engagement Plan
+
+A comprehensive Stakeholder Engagement Plan (SEP) was prepared in March 2025 and publicly disclosed.
+The SEP identifies the following stakeholder groups and engagement approaches:
+
+    - Beneficiary communities: community information sessions, participatory targeting workshops
+    - IDPs and returnees: dedicated outreach through IDP community liaisons
+    - Local government: regular coordination meetings with DSDCs
+    - Civil society organizations: quarterly coordination forum
+    - Vulnerable groups (women, persons with disabilities, ethnic minorities): tailored engagement
+      modalities including women-only focus groups and accessible information formats
+
+The SEP also includes a time-bound consultation plan for project restructuring or component changes.
+
+Gender-Based Violence (GBV) Risk Mitigation
+
+The Social Assessment identified elevated GBV risks associated with cash transfers. Mitigation measures
+include: (i) joint enrollment of household heads and female co-signatories for payment; (ii) GBV
+referral pathways embedded in the GRM; (iii) GBV risk monitoring integrated into the conflict
+sensitivity tracking module.
+
+================================================================================
+
+BORROWER COMMENTS
+
+The Government of Testland reviewed the Project Appraisal Document and confirms its agreement with
+the project design, safeguards arrangements, and financial management requirements. The government
+notes that the cash transfer amount should be reviewed for adequacy at the midterm review given
+potential inflation impacts.
+
+Signed: Minister of Social Affairs, Testland
+Date: June 10, 2025
+
+================================================================================
+
+[END OF DOCUMENT]
