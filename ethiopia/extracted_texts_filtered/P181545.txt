@@ -1,0 +1,1616 @@
+Document of 
+The World Bank 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+Report No: PAD2108 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+ 
+PROPOSED CREDIT 
+ 
+ 
+IN THE AMOUNT OF (SDR 236.4) MILLION REGULAR CREDIT 
+(US$320 MILLION EQUIVALENT) 
+AND  
+IN THE AMOUNT OF US$125 MILLION SCALE UP FACILITY 
+ 
+ 
+TO THE 
+ 
+ 
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA 
+ 
+ 
+FOR THE  
+ 
+ 
+SECOND ETHIOPIA URBAN WATER SUPPLY AND SANITATION PROJECT  
+ 
+ 
+March 10, 2017 
+ 
+ 
+Water Global Practice  
+Africa Region 
+  
+This document has a restricted distribution and may be used by recipients only in the 
+performance of their official duties.  Its contents may not otherwise be disclosed without 
+World Bank authorization. 
+ 
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+CURRENCY EQUIVALENTS 
+ 
+(Exchange Rate Effective February 28, 2017 
+Currency Unit = 
+Ethiopian Birr 
+SDR 0.73861244 = 
+US$1 
+US$1.35389 = 
+SDR 1 
+ 
+FISCAL YEAR 
+July 7 
+– 
+July 6 
+ 
+ABBREVIATIONS AND ACRONYMS 
+  
+AAWSA 
+Addis Ababa Water and Sewerage Authority 
+CBO 
+Community-Based Organization  
+CSA 
+Central Statistical Agency 
+DB 
+Design-Build 
+DBO 
+Design, Build, and Operate 
+EFY 
+Ethiopian Fiscal Year (EFY) 
+ESIA 
+Environmental and Social Impact Assessment 
+ESMF 
+Environmental and Social Management Framework 
+ETB 
+Ethiopian Birr  
+FA 
+Financing Agreement 
+FM 
+Financial Management 
+FPMU 
+Federal Project Management Unit 
+GAP 
+Gender Action Plan 
+GDP 
+Gross Domestic Product 
+GoE 
+Government of Ethiopia 
+GTP 
+Growth and Transformation Plan 
+HR 
+Human Resource 
+ICB 
+International Competitive Bidding 
+ICT 
+Information and Communication Technology 
+IDA 
+International Development Association 
+IFR 
+Interim Financial Report 
+IRR 
+Internal Rate of Return 
+IUSMP 
+Integrated Urban Sanitation Management Plan 
+Km 
+Kilometer 
+LIA 
+Low-Income Areas 
+M&E 
+Monitoring and Evaluation 
+MDG 
+Millennium Development Goal 
+MIS 
+Management Information System 
+MoFEC 
+Ministry of Finance and Economic Cooperation 
+MoH 
+Ministry of Health 
+MoWIE 
+Ministry of Water, Irrigation, and Electricity 
+MTR 
+Midterm Review 
+M3 
+NCB 
+Cubic Meter 
+National Competitive Bidding 
+ii 
+NPV 
+Net Present Value 
+NRW 
+Nonrevenue Water 
+NWSC 
+National WaSH Steering Committee 
+O&M 
+Operation and Maintenance 
+OWNP 
+One WaSH National Program  
+PDO 
+Project Development Objective 
+PIM 
+Project Implementation Manual 
+PIU 
+Project Implementing Unit 
+PMU 
+Project Management Unit 
+RPF 
+Resettlement Policy Framework 
+RWB 
+Regional Water Bureau 
+SCADA 
+Supervisory Control and Data Acquisition 
+SDG 
+Sustainable Development Goal 
+SME 
+Small and Medium Enterprise 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+SUF 
+Scale up Facility 
+TA 
+Technical Assistance 
+ToR 
+Terms of Reference 
+TSG 
+Town Support Group 
+TTL 
+Task Team Leader 
+UWSSP 
+Urban Water Supply and Sanitation Project 
+WaSH 
+Water, Sanitation, and Hygiene 
+WRDF 
+Water Resource Development Fund 
+WSS 
+Water Supply and Sanitation  
+WWTP 
+Wastewater Treatment Plant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President:  
+Makhtar Diop  
+Country Director:  
+Carolyn Turk 
+Senior Global Practice Director:  
+Guang Zhe Chen 
+Practice Manager:  
+Wambui G. Gichuri  
+Task Team Leader:  
+Yitbarek Tessema  
+Tesfaye Bekalu 
+iii 
+ETHIOPIA 
+ 
+SECOND ETHIOPIA URBAN WATER SUPPLY AND SANITATION PROJECT  
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+STRATEGIC CONTEXT ...........................................................................................................1 
+I.
+A. Country Context ....................................................................................................... 1 
+B. Sectoral and Institutional Context ........................................................................... 1 
+C. Higher Level Objectives to which the Project Contributes ...................................... 6 
+ 
+PROJECT DEVELOPMENT OBJECTIVES ................................................................................6 
+II.
+A. PDO .......................................................................................................................... 6 
+B. Project Beneficiaries ................................................................................................ 6 
+C. PDO Level Results Indicators ................................................................................... 7 
+ 
+PROJECT DESCRIPTION ........................................................................................................7 
+III.
+A. Project Components ................................................................................................ 7 
+Project Cost and Financing........................................................................................... 11 
+C. Lessons Learned and Reflected in the Project Design ........................................... 11 
+ 
+IMPLEMENTATION ............................................................................................................12 
+IV.
+A. Institutional and Implementation Arrangements .................................................. 12 
+B. Results Monitoring and Evaluation ........................................................................ 14 
+C. Sustainability .......................................................................................................... 14 
+ 
+KEY RISKS ...........................................................................................................................15 
+V.
+A. Overall Risk Rating and Explanation of Key Risks .................................................. 15 
+ 
+APPRAISAL SUMMARY ......................................................................................................16 
+VI.
+A. Economic and Financial Analysis ........................................................................... 16 
+B. Technical ................................................................................................................ 18 
+C. Financial Management .......................................................................................... 19 
+D. Procurement .......................................................................................................... 20 
+E. Social (including Safeguards) ................................................................................. 21 
+F. Environment (including Safeguards) ...................................................................... 22 
+G. Other Safeguard Policies ........................................................................................ 23 
+H. World Bank Grievance Redress .............................................................................. 23 
+iv 
+Annex 1. Results Framework and Monitoring .............................................................................24 
+Annex 2: Detailed Project Description .........................................................................................37 
+Annex 3: Implementation Arrangements ....................................................................................48 
+Annex 4:  Implementation Support Plan ......................................................................................75 
+Annex 5: Economic and Financial Analysis ...................................................................................77 
+Annex 6: Location Map .................................................................................................................86 
+ 
+ 
+v 
+PAD DATA SHEET 
+Ethiopia 
+Second Ethiopia Urban Water Supply and Sanitation Project (P156433) 
+PROJECT APPRAISAL DOCUMENT 
+AFRICA 
+Water Global Practice 
+Report No.: PAD2108 
+Basic Information  
+Project ID 
+EA Category 
+Team Leader(s) 
+P156433 
+B - Partial Assessment 
+Yitbarek Tessema,Tesfaye 
+Bekalu Wondem 
+Lending Instrument 
+Fragile and/or Capacity Constraints [   ] 
+Investment Project Financing 
+Financial Intermediaries [   ] 
+ 
+Series of Projects [   ] 
+Project Implementation Start Date 
+Project Implementation End Date 
+31-Mar-2017 
+31-Dec-2022 
+Expected Effectiveness Date 
+Expected Closing Date 
+31-Jul-2017 
+07-Jul-2023 
+Joint IFC 
+ 
+ 
+No 
+ 
+ 
+Practice 
+Manager/Manager 
+Senior Global Practice 
+Director 
+Country Director 
+Regional Vice President 
+Wambui G. Gichuri 
+Guang Zhe Chen 
+Carolyn Turk 
+Makhtar Diop 
+Borrower: Ministry of Finance and Economic Cooperation 
+Responsible Agency: Ministry of Water, Irrigation and Electricity 
+  Contact: 
+Nuredin  Mohammed 
+  Title: 
+Director- Water Supply and Sanitation 
+Directorate 
+  Telephone No.: 251912205583 
+  Email: nuredinmohammed@yahoo.com 
+Project Financing Data(in USD Million) 
+[   ] 
+Loan 
+[   ] 
+IDA Grant [   ] 
+Guarantee 
+[ X ] 
+Credit [   ] 
+Grant 
+[   ] 
+Other 
+Total Project Cost: 
+505.00 
+Total Bank Financing: 
+445.00 
+Financing Gap: 
+0.00 
+ 
+ 
+ 
+vi 
+Financing Source 
+Amount 
+BORROWER/RECIPIENT 
+60.00 
+International Development Association (IDA) 
+445.00 
+Total 
+505.00 
+Expected Disbursements (in USD Million) 
+Fiscal Year 2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+ 
+Annual 
+20.00 47.00 92.00 
+102.00 
+105.00 
+54.00 
+25.00 
+ 
+Cumulative 20.00 67.00 159.00 
+261.00 
+366.00 
+420.00 
+445.00 
+ 
+Institutional Data 
+Practice Area (Lead) 
+Water 
+Contributing Practice Areas 
+Social, Urban, Rural and Resilience Global Practice 
+Proposed Development Objective(s) 
+The objective of the project is to increase access to enhanced water supply and sanitation services in an 
+operationally efficient manner in Addis Ababa and selected Secondary Cities. 
+Components 
+Component Name 
+Cost (USD Millions) 
+Component 1: Sanitation and water supply services 
+improvements in Addis Ababa 
+260.00 
+Component 2: Sanitation and water supply services 
+improvement in secondary cities 
+241.00 
+Component 3: Project management & institutional 
+strengthening 
+4.00 
+Total 
+505.00 
+Systematic Operations Risk- Rating Tool (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+High 
+2. Macroeconomic 
+Moderate 
+3. Sector Strategies and Policies 
+Substantial 
+4. Technical Design of Project or Program 
+Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+Substantial 
+6. Fiduciary 
+Substantial 
+7. Environment and Social 
+Substantial 
+8. Stakeholders 
+Substantial 
+9. Other (climate and disaster risk) 
+Moderate 
+OVERALL 
+Substantial 
+vii 
+Compliance  
+Policy 
+Does the project depart from the CAS in content or in other significant 
+respects? 
+Yes [   ] 
+No [ X ] 
+Does the project require any waivers of Bank policies? 
+Yes [   ] 
+No [ X ] 
+Have these been approved by Bank management? 
+Yes [   ] 
+No [    ] 
+Is approval for any policy waiver sought from the Board? 
+Yes [   ] 
+No [ X ] 
+Does the project meet the Regional criteria for readiness for implementation? 
+Yes [ X ] 
+No [   ] 
+Safeguard Policies Triggered by the Project 
+Yes 
+No 
+Environmental Assessment OP/BP 4.01 
+X 
+ 
+Natural Habitats OP/BP 4.04 
+ 
+X 
+Forests OP/BP 4.36 
+ 
+X 
+Pest Management OP 4.09 
+ 
+X 
+Physical Cultural Resources OP/BP 4.11 
+X 
+ 
+Indigenous Peoples OP/BP 4.10 
+ 
+X 
+Involuntary Resettlement OP/BP 4.12 
+X 
+ 
+Safety of Dams OP/BP 4.37 
+ 
+X 
+Projects on International Waterways OP/BP 7.50 
+X 
+ 
+Projects in Disputed Areas OP/BP 7.60 
+ 
+X 
+Legal Covenants 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Subsidiary Agreement. Schedule 2, 
+Section I - B. 5 
+ 
+30-Sep-2017 
+ 
+Description of Covenant 
+The Recipient, through MoWIE,  shall, prior to making available to AAWSA the portion of the proceeds 
+of the Financing allocated from time to time to Category 1 of the table in  
+Section IV.A.2 of Schedule 2 (“AAWSA Allocation”), enter into an agreement (“Subsidiary 
+Agreement”) with AAWSA on terms and conditions acceptable to the Association. 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Financing Agreement Reference: 
+Schedule 2. Section I- B. 7 
+X 
+ 
+CONTINUOUS 
+Description of Covenant 
+The Recipient, through MoWIE, shall ensure that activities under Part 2 of the Project, which are to be 
+carried out in Secondary Cities, are selected and approved in accordance with criteria and procedures, 
+and under financing terms and conditions set forth in the Project Implementation Manual. 
+ 
+ 
+viii 
+Name 
+Recurrent 
+Due Date 
+Frequency 
+Audit of financial statements. (FA: 
+Schedule 2.Section V- 1 (a) 
+ 
+31-Oct-2017 
+ 
+Description of Covenant 
+Within two (2) months from the Effective Date, prepare in accordance with terms of reference 
+acceptable to the Association and furnish to the Association for review, a report detailing the status of 
+the preparation and audit of the entity financial statements of AAWSA and participating Secondary 
+Cities water utilities, as well as a time-bound action plan for the preparation and audit of financial 
+statements that have not been carried out in the past; and  
+Thereafter, implement such action plan as shall have been approved by the Association and report the 
+progress of implementation of said actions plan along with the interim unaudited financial reports under 
+Section II.B.2 of Schedule-2. 
+Conditions 
+Source Of Fund 
+Name 
+Type 
+IDA 
+Project Implementation Manual 
+Effectiveness 
+Description of Condition 
+The Recipient, through MoWIE (on behalf of the relevant Secondary Cities) and AAWSA, each has 
+adopted the Project Implementation Manual in form and substance acceptable to the association. 
+Team Composition 
+Bank Staff 
+Name 
+Role 
+Title 
+Specialization 
+Unit 
+Yitbarek Tessema 
+Team Leader 
+(ADM 
+Responsible) 
+Lead Water and 
+Sanitation 
+Specialist 
+Lead Water and 
+Sanitation 
+Specialist 
+GWA08 
+Tesfaye Bekalu Wondem Team Leader 
+Sr Water & 
+Sanitation Spec. 
+Sr. Water and 
+Sanitation 
+Specialist 
+GWA08 
+Ayalew Kebede Belew 
+Procurement 
+Specialist (ADM 
+Responsible) 
+Senior Procurement 
+Specialist 
+Sr. Procurement 
+Specialist 
+GGO01 
+Abiy Demissie Belay 
+Financial 
+Management 
+Specialist 
+Sr Financial 
+Management 
+Specialist 
+Sr. Financial 
+Management 
+Specialist 
+GGO25 
+ 
+Team Member 
+ 
+ 
+ 
+Amanuel Teshome 
+Woldetsadik 
+Team Member 
+Consultant 
+M&E-consultant 
+GWA08 
+Bereket Belayhun 
+Woldemeskel 
+Team Member 
+Consultant 
+Procurement - 
+Consultant 
+GGO01 
+Bethelhem Teka 
+Befekadu 
+Team Member 
+Team Assistant 
+Team Assistant 
+AFCE3 
+Christiaan Heymans 
+Team Member 
+Sr Water & 
+Sanitation Spec. 
+Sr. Water and 
+Sanitation 
+Specialist 
+GWAGP 
+Chukwudi H. Okafor 
+Safeguards 
+Senior Social 
+Sr. Social 
+GSU07 
+ix 
+Specialist 
+Development 
+Specialist 
+Development 
+Specialist 
+Gulilat Birhane Eshetu 
+Team Member 
+Sr Water & 
+Sanitation Spec. 
+Sr. Water and 
+Sanitation 
+Specialist 
+GWA08 
+Maiada Mahmoud Abdel 
+Fattah Kassem 
+Team Member 
+Finance Officer 
+Finance Officer 
+WFALA 
+Margaret Png 
+Team Member 
+Lead Counsel 
+Lead Councel 
+LEGAM 
+Meseret Tsegaw 
+Team Member 
+Program Assistant 
+Program Assistant 
+GWA08 
+Nadege Mertus 
+Team Member 
+Temporary 
+Program Assistant 
+GWA08 
+Oliver Mark Jones 
+Team Member 
+Sr Water & 
+Sanitation Spec. 
+Sr. Water and 
+Sanitation 
+Specialist 
+GWA08 
+Ruth Jane Kennedy-
+Walker 
+Safeguards 
+Specialist 
+Young Professional Environment 
+Specilialist- Young 
+Professional 
+GEN07 
+Shimelis Woldehawariat 
+Badisso 
+Team Member 
+Senior Procurement 
+Specialist 
+Sr. Procurement 
+Specialist 
+GGO01 
+Tesfa Teferi 
+Gebreegziabher 
+Team Member 
+Consultant 
+Social Safeguards 
+Specialist 
+GWA08 
+Tesfaw Ashagrie Zegale Team Member 
+Consultant 
+Environment 
+Specialist 
+GEN01 
+Victoria Hilda Rigby 
+Delmon 
+Team Member 
+Senior Counsel 
+Senior Counsel 
+GWA02 
+Wendwosen Feleke 
+Team Member 
+Operations Officer Financial and 
+Economic Analysis 
+GWA08 
+Yodit Teamir Rezene 
+Team Member 
+Team Assistant 
+Team assistant 
+AFCE3 
+Yohannes Fisseha 
+Team Member 
+Consultant 
+Technical 
+Specialist 
+GSU13 
+Extended Team 
+Name 
+Title 
+Office Phone 
+Location 
+Locations 
+Country 
+First 
+Administrative 
+Division 
+Location 
+Planned Actual 
+Comments 
+Ethiopia 
+Oromiya 
+Shashamane 
+X 
+ 
+ 
+Ethiopia 
+Oromiya 
+Nek’emtē 
+X 
+ 
+ 
+Ethiopia 
+Oromiya 
+Nazrēt 
+X 
+ 
+ 
+Ethiopia 
+Tigray 
+Mek'ele 
+X 
+ 
+ 
+Ethiopia 
+Oromiya 
+Jimma 
+X 
+ 
+ 
+Ethiopia 
+Somali 
+Jijiga 
+X 
+ 
+ 
+Ethiopia 
+Amhara 
+Gonder 
+X 
+ 
+ 
+x 
+Ethiopia 
+Amhara 
+Dessie 
+X 
+ 
+ 
+Ethiopia 
+Somali 
+Degeh Bur 
+X 
+ 
+ 
+Ethiopia 
+Oromiya 
+Bishoftu 
+X 
+ 
+ 
+Ethiopia 
+Amhara 
+Debre Birhan 
+X 
+ 
+ 
+Ethiopia 
+Amhara 
+Bahir Dar 
+X 
+ 
+ 
+Ethiopia 
+SNNPR 
+Awasa 
+X 
+ 
+ 
+Ethiopia 
+Bīnshangul Gumuz Asosa 
+X 
+ 
+ 
+Ethiopia 
+Oromiya 
+Āsela 
+X 
+ 
+ 
+Ethiopia 
+SNNPR 
+Arba Minch 
+X 
+ 
+ 
+Ethiopia 
+Tigray 
+Ādīgrat 
+X 
+ 
+ 
+Ethiopia 
+Addis Ababa 
+Addis Ababa 
+X 
+ 
+ 
+Ethiopia 
+Dire Dawa 
+Dire Dawa 
+X 
+ 
+ 
+Ethiopia 
+Gambela 
+Gambela 
+X 
+ 
+ 
+Ethiopia 
+Harari 
+Harari 
+X 
+ 
+ 
+Ethiopia 
+Āfar 
+Semera 
+X 
+ 
+ 
+Ethiopia 
+SNNPR 
+Wolayta Sodo 
+X 
+ 
+ 
+ 
+STRATEGIC CONTEXT  
+I.
+A. Country Context 
+ 
+1. 
+Ethiopia has experienced rapid and stable economic growth over the past decade. From 2004 
+to 2014, real gross domestic product (GDP) growth averaged 10.8 percent per year. This is the 
+fastest growth that the country has experienced and is considerably above the average achieved by 
+low-income and Sub-Saharan African countries during this period. Recent growth was also noticeably 
+stable, as the country avoided the historical volatility brought by spells of drought and conflict, 
+which plagued growth trends and prospects in the past. 
+2. 
+There has been a significant reduction in poverty, but challenges remain. Over the decade 
+from 2004 to 2014, real GDP per capita increased on average by 8 percent per year. Poverty declined 
+substantially from 55.3 percent in 2000 to 33.5 percent in 2011, based on the international poverty 
+line of US$1.90 per/day. There has also been significant improvement in nutrition, health, education, 
+and access to services. While experiencing this rapid growth, Ethiopia remained one of the most 
+equal countries in the world with a Gini coefficient of consumption of 0.30 in 2011. However, 
+despite this progress, the country ranked only 174 out of 188 in the human development index (HDI) 
+of the United Nations Development Program (2015) and the poorest 15 percent of the population 
+experienced a decline in well-being during 2005–2011, mainly as a result of higher food prices.   
+3. 
+The Government’s Growth and Transformation Plan (GTP) sets a goal of becoming a middle-
+income country by 2025, with annual economic growth of 11.2 percent per year over the period and 
+gross national income per capita reaching US$1,560 in 2025. A second phase of the GTP (GTP II - 
+2015/16-2020/21) is currently under implementation. The Government has a powerful role in the 
+economy, especially in priority sectors such as industry and agriculture, which are the key drivers of 
+sustained economic growth and job creation.  
+4. 
+Decentralization of service delivery to local levels is actively pursued.  The current federal 
+system of government was established in the early 1990s and since 2003, the country has 
+decentralized service delivery responsibilities to the regional and district (woreda) levels. Critical 
+public functions such as water and sanitation, solid waste management, and public health services 
+have been devolved. Underlying this decentralized system is formula-based fiscal transfers.       
+B. Sectoral and Institutional Context 
+ 
+Sector context 
+5. 
+The sector context for urban water supply and sanitation (WSS) is best understood from 
+three main perspectives: (a) rapid urbanization; (b) large-scale infrastructure investment and service 
+delivery improvement requirements; and (c) a need for systematic policy and institutional 
+transformation in urban and water sector governance.  
+6. 
+Structural transformation of the Ethiopian economy is driving rapid urbanization and 
+increasing pressure on service provision, including for WSS. Urbanization is set to continue as the 
+economy transforms from being predominantly rural and agriculture, to an increasingly urban 
+society driven by manufacturing and services. The urbanization momentum is illustrated by the 
+urban share of Ethiopia’s population, doubling from 8.5 percent in 1967 to 17.4 percent in 2012, and 
+an annual average urbanization rate of 3.77 percent since 1996. Addis Ababa, by far the largest city 
+in the country, has an estimated population of 3.35 million, which is expected to increase by about 
+38 percent in 2030. This urban growth is recognized in the GTP II not only as an opportunity for 
+sustained economic growth and structural transformation, but also as a challenge, including for the 
+provision of WSS for the growing urban population.  
+7. 
+Ethiopia has made good progress in terms of extending access to water services.  In urban 
+areas, 93 percent of households now have access to an improved source of drinking water, with a 
+2 
+significant increase from 10 percent to 56 percent having access to piped water on premise. This is 
+significantly higher than the results achieved countrywide, still the 57 percent national coverage for 
+water achieved in 2015, is in line with the Millennium Development Goal (MDG) target.   
+8. 
+The country fell far short of the MDG targets for sanitation though. Open defecation has been 
+reduced significantly in urban areas (from 39 percent in 1990 to 6 percent in 2015).  However, for 
+most households this has not translated into improved sanitation facilities. The numbers of public 
+and communal latrines in urban areas fall far short of demand, leaving many low income people 
+without latrine services.  In 2015, the percentage of people in urban areas with access to improved 
+latrines had increased to just 27 percent from 20 percent in 1990, much lower than the Sub-Saharan 
+Africa average of 40 percent. There has however been an increase in the use of shared latrines, from 
+30 percent in 1990 to 40 percent in 2015, due in part to higher population density, and also because 
+of the high prevalence of rented accommodation. Against the national MDG target of 57 percent, 
+Ethiopia achieved only 28 percent sanitation coverage.   
+9. 
+Without improved services, cities are becoming increasingly polluted, which affects the 
+quality of life, and could ultimately jeopardize economic growth. More than 60 percent of 
+households in urban areas use traditional pit latrines and about 6 percent of urban residents are still 
+practicing open defecation. Fecal sludge is often accumulated in poorly designed and built pits, and 
+then discharged directly into storm drains, open water bodies or the ground, or manually removed 
+and dumped into the neighborhood or the wider environment.1 The effect of all this is exposing 
+urban residents to health hazards, as seen for example with a cholera outbreak in 2016. 
+10. Responding to these challenges requires large-scale sanitation and water infrastructure 
+investment, as well as systemic policy and institutional transformation.  Any city level investment 
+strategy and related institutional support would need to focus on citywide impact and reach, but 
+with specific measures to include low income residents. This demands responding to the lack of 
+reliable water supply, especially in low income areas (LIAs); the protection of water sources; and 
+thinking beyond conventional sewerage to pursue feasible, affordable options for onsite sanitation 
+and fecal sludge management. Recent World Bank analyses2 have shown the importance of actively 
+working towards inclusive city-wide sanitation, and within that framework, addressing and linking 
+different stages of a “sanitation service chain” that cuts across collection, transportation, disposal 
+and treatment of wastewater in poor urban areas. Failure to ensure such links throughout the 
+service chain typically results in untreated fecal sludge contaminating the environment, with 
+negative public health impacts. To set up such mechanisms along the service chain and provide the 
+institutional system to carry it, requires clearly defined and organized delivery mechanisms, as well 
+as mobilization and allocation of adequate fiscal resources. The urban WSS system in Ethiopia lacks 
+such institutional mechanisms of adequate capacity.  
+11. Institutional ambiguities and inefficiencies curtail service delivery improvements. Several 
+sector reforms since the 1990s have introduced policies and institutional changes that have been 
+associated with positive reforms in other parts of the world. Pivotal to this have been attempts to 
+define and assign institutional accountability lines more clearly, and move towards cost recovery and 
+other sustainable financing practices. There is wide acknowledgement, though, that much more is 
+needed, including institutional reforms and substantial institutional and human resource (HR) 
+capacity building.  No service provider is as yet able to sustain their service financially, and all still 
+lack the necessary operational efficiency. Underpricing and high non-revenue water (NRW) 
+undermine service levels. Although the water tariffs set by utilities are supposed to support a 
+                                                 
+ 
+1 Safe management of household excreta is defined as the containment, extraction, and transportation of excreta to a 
+designated disposal or treatment site, or the safe re-use of excreta at the household or community level, as appropriate to 
+the local context. 
+2 World Bank 2016, Fecal Sludge Management: Diagnostics for Service Delivery in Urban Areas - Tools and Guidelines.  
+3 
+gradual move to full cost recovery, the fact that they need to be endorsed by the respective 
+management board and approved by the region has reduced the incentives for full cost recovery and 
+financial sustainability.   
+12. A set of policies and strategies set priorities and provide directions for the sector 
+development. The country’s water resources policy calls for efficient, equitable, and optimum 
+utilization of water resources for sustainable socio-economic development.  It also highlights the 
+need for WSS services to be integrated at all levels in a sustainable and coherent framework.  The 
+Government is also following a strategy that responds to the capacity constraint and, promotes 
+partnership between the public and private providers to pave the way for the move towards a longer 
+term goal of efficient, universal and affordable service provision within a supporting policy and 
+regulatory framework.  The federal government’s goal of ensuring that cities are open defecation 
+free by 2020 requires thinking beyond conventional sewerage, which is expensive, even more so 
+given the shortage of water, and the physical difficulty of developing services rapidly in densely 
+populated areas. The Government’s draft Integrated Urban Sanitation and Hygiene Strategy 
+emphasizes improving existing latrines and fecal sludge management, investing more in 
+decentralized wastewater treatment plants (WWTPs), introducing wastewater reuse, and achieving 
+safe wastewater management. Achieving the impact of these strategies is a long term process, but 
+will lead to establishing stronger institutions with robust federal and regional level enabling 
+frameworks, increasing access to WSS services, and improving the health and productivity of urban 
+dwellers to enable them to play an active role in the country’s economic growth.  
+ 
+Addis Ababa 
+13. The largest concentration of people is in the capital city, Addis Ababa, where services are 
+struggling to keep up with rising demand due to urbanization. The water coverage in the city is over 
+90 percent, but supply is intermittent with some sub-cities having access to water for only 12 hours a 
+day for less than three days per week.3  Coping with the demand from the extensive housing 
+development in the city is a continuing challenge.4 Most residents use some form of on-site 
+sanitation: Half of the residents use shared pit latrines, while about 18.3 percent and 26.4 percent, 
+respectively, use private pit latrines or flush toilets, including pour flushing. The problems of open 
+defecation; unsafe containment; and lack of appropriate desludging services, transportation and 
+treatment of wastewater remains significant.  
+14. Addis Ababa is the only city in Ethiopia with a sewerage network, although only about 10 
+percent of the population has access to the sewerage services. Addis Ababa has three sewerage 
+catchments (Akakai, Kality and Eastern). There are 20 existing treatment plants with 15 
+decentralized WWTPs with conveyance and treatment capacity of 60,500 m3 per day under 
+construction.5 The World Bank-supported Urban Water Supply and Sanitation Project (UWSSP-1), 
+P101473, is financing expansion of the Kality sewerage system to add capacity of 90,000 m3 per day. 
+This is due for completion in late 2017, but will not have adequate capacity to address the full 
+demand. The strategy of the Addis Ababa Water and Sewerage Authority (AAWSA) is to construct 
+and outsource mobile and fixed public and communal latrines in low income and public areas, but 
+the rollout lags far behind demand. Desludging services - primarily pit emptying and transportation - 
+                                                 
+ 
+3 The findings of a recent socio economic survey of 4220 sampled households in 28 woredas of Addis Ababa indicate that 
+the average access to water is about 16 hours per day, for about 5.4 days per week. Sub-cities such as Gulele receive water 
+on average for 12 hours per day, for 2.2 days per week, while Kolfe Keraniyo receives water for 19 hours per day. 
+4 So far 101,632 condominium houses have been transferred to the targeted households, of which 94,915 are for 
+residential and 6,717 for business purposes. In the second GTP (2015/16-2020/21), the city planned to construct 350,000 
+condominium houses for low and medium income level households. 
+5 12 are completed (three have started operations) and three are under construction 
+4 
+are provided through AAWSA’s own 104 vacuum trucks; AAWSA also regulates a fleet of 58 private 
+vacuum truck operators. A recent World Bank Group analysis6 found that the management and 
+maintenance of these fleets are a major problem (only 62 percent are functional), and that safe 
+management of excreta is not common. Reception facilities, such as Addis’s existing treatment 
+plants in Kaliti and Kotebe, do not have adequate capacity to deal with the city’s volumes of sludge.   
+15. AAWSA has undertaken reforms, but deep-rooted institutional problems remain in critical 
+aspects of water services. The current billing system, for example, is labor intensive and its 
+software, business processes and checks and balances are not in tune with the standards in well-
+functioning utilities globally, including in Africa. At the moment 16 percent of the meter reading 
+shows connected households to be using less than 1 m3 per month, which appears very low in 
+comparison to utilities in other countries. Similarly, a lack of effective electronic systems and reliable 
+data makes it impossible to respond to customer complaints effectively and to keep track of 
+different customers.  This compromises the ability to do volumetric charging and optimize the 
+revenue potential, for example, of large customers. The city institutions are stretched for financial 
+and human resources and capacity to ensure that appropriate technological choices and systems for 
+water and sanitation services are accessible.  
+Secondary Cities 
+16. The demand for improved sanitation services in the secondary cities is also growing fast. 
+Currently, none of the secondary cities has a sewerage system. A limited number of municipalities in 
+these cities have vacuum trucks to desludge latrines and septic tanks, but fleet management and 
+operation is patchy, and mechanical failure is common. In some cases, private vacuum trucks 
+operate side by side with the utility’s trucks, but coverage remains low. Sludge is mostly released 
+into the environment without adequate treatment due to the absence of reception facilities. 
+17. At the city level, multiple institutions are involved. Water and Sewerage entities in each 
+municipality are legally mandated to provide wastewater services in the large cities, but 
+municipalities are responsible for solid waste and storm water management. In most cases 
+municipalities have not been able to coordinate sanitation services - wastewater, solid waste and 
+storm water - effectively. The lack of coordination between solid waste and liquid waste services, as 
+well as drainage, is a problem since these waste streams are often mixed together; for example 
+drainage channels are contaminated with fecal waste, and are blocked by solid waste.  
+18. Several areas are in need of capacity enhancement, including skills development, 
+performance incentives, and overall, a more business oriented approach driven by a clear business 
+plan with measurable targets. This applies to all functions and roles, from senior strategic 
+leadership approaches and skills, to updating technical skills at the operational level, and developing 
+greater ownership of the institutional agenda. Data are currently inadequate to present a clear NRW 
+profile of the utilities, which makes it difficult to pinpoint the core of the problem. More transparent 
+HR systems and databases will enable utilities to hold staff accountable for their performance on 
+clearly assigned responsibilities.   
+Institutional Context 
+19. Water sector reforms have concentrated on establishing a decentralized enabling and 
+operational environment for basic service delivery. Devolution of powers to regional governments 
+in the 1990s provided Regional Water Bureaus (RWBs) with considerable autonomy over the 
+development of water supply services, with the national government primarily tasked with policy, 
+coordination and regulatory functions. A second wave of decentralization since 2004 entailed 
+devolving service delivery responsibilities to the municipal and district (woreda) levels. 
+                                                 
+ 
+6 Source: Institutions and Service Provision of Urban Sanitation in  Addis Ababa (August 2016). 
+5 
+Subsequently, water utilities were also established in larger cities, with their own governing boards, 
+and the expectation of becoming financially sustainable. They are also typically responsible for 
+sewerage, but public health functions including hygiene and behavior change fall under the 
+municipalities. This means that responsibility for sanitation does not reside in one institution at the 
+city level.       
+20. Different ministries and agencies have responsibilities pertaining to WSS services. The 
+Ministry of Water, Irrigation and Electricity (MoWIE) is the lead institution responsible for policy, 
+strategy and national program development and overall monitoring of the water sector at the 
+national level. In cities, the water and sewerage utilities are responsible for provision of water 
+supply, and are directly accountable to water boards, which are in turn partly regulated by RWBs. 
+The Ministry of Works, Urban Development and Housing Construction also plays a part in monitoring 
+the standard of municipal services, including water supply and solid waste.   
+21. Institutional arrangements for urban sanitation are even more complex than those for water. 
+Institutional fragmentation and unclear responsibilities have led to gaps in service provision. 
+Inadequate coordination of planning, design, implementation and supervision often result in poor 
+quality, delays in construction and incomplete asset management, as well as unclear division of roles 
+between local governments and operators. MoWIE; the Ministry of Works, Urban Development and 
+Housing Construction; and the Ministry of Health (MoH) share responsibilities for monitoring and 
+oversight of hygiene and sanitation services at the national level which has made it more difficult to 
+hold utilities accountable for improvements in service quality and coverage.  Each ministry tends to 
+focus on its own mandate, as well as internal planning and management systems. 
+22. Mechanisms or institutional capacity to enforce public health proclamations and pollution 
+control regulation are weak, even though ’polluters pay’ principles have been adopted formally. 
+The existing regulations mostly do not clearly define the minimum standards for services, and are 
+mostly silent on the urban sanitation delivery chain of collection, transportation, treatment, and 
+disposal. The capacity of institutions and functionaries responsible for regulation also requires 
+attention.  
+23. Private sector participation in WSS is limited. Water utilities and local governments have not 
+harnessed the full potential of the private sector to improve the efficiency of service provision. This 
+is in part because a conducive enabling environment for private sector participation is not in place. 
+There are some examples of private engagement in the emptying and transportation of domestic 
+waste, but to build on them, contract management skills need to be developed in municipalities and 
+utilities, and the legal frameworks for engaging private partners have to be clarified and refined.  
+24. The involvement of development partners in urban WSS is limited to a few financiers, of 
+which the World Bank’s share is the largest. Through its WSS projects, the World Bank has brought 
+international knowledge to the sector, such as on the creation of autonomous water utilities, and 
+has served as a platform to leverage resources from other development partners. The proposed 
+project will be a continuation and expansion of the World Bank’s long term engagement in the 
+sector and support to the efforts of the Government of Ethiopia (GoE) to improve urban sanitation 
+services. The Water Supply Development and Rehabilitation Project (1996 – 2003) initiated – in 
+addition to a US$65.5 million investment in water supply infrastructure – sector dialogue and 
+institutional reform, mainly the creation of autonomous city water utilities. The Water Supply and 
+Sanitation Project (WSSP), co-financed by the U.K. Department for International Development in 
+2004 –2013, helped scale up these reforms to 203 woredas and 87 cities, supporting 
+decentralization and a demand- driven approach, efficiency enhancement and business planning, 
+and a move from a project-focused to a performance based, programmatic approach. The current 
+Urban Water Supply and, Sanitation Project (P101473) has stepped up support for operational 
+efficiency improvement, performance agreements, and piloting approaches for services for the 
+urban poor in the LIAs. The Sustainable and Equitable Water, Sanitation, and Hygiene (WaSH) 
+6 
+Services Project (P157690) (2016-2018) has assisted the Government in operationalizing WaSH 
+policies and institutional structures to pursue equitable water supply, security and safety; and 
+sustainable access and use of sanitation and hygiene services at scale.  
+  
+C. Higher Level Objectives to which the Project Contributes 
+ 
+25. The proposed project aligns fully with the GTP II urban development agenda, which regards 
+urban centers as key economic agents, and identifies addressing infrastructure gaps as a major 
+priority alongside job creation and housing. It specifically calls for expansion of sustainable potable 
+water supply and improving urban sanitation. The project objectives and components are also 
+consistent with Ethiopia’s international commitments, including Sustainable Development Goal 
+(SDG) 6 and SDG 117.  
+26. The proposed design is also aligned with the World Bank Group's draft Country Partnership 
+Framework (CPF)8 FY18-FY21 which is under preparation, and the Systematic Country Diagnostic 
+(SCD) which has informed the Country Partnership Strategy process. Building on the lessons from the 
+World Bank’s just completed Country Partnership Strategy (CPS) (2013-2016) for Ethiopia that 
+emphasizes increased access to and improved quality of infrastructure services, in particular water 
+supply and sanitation, the SCD calls for ‘getting urbanization right’, with improved infrastructure 
+services to support economic growth, competitiveness and job creation, and resilience and reducing 
+vulnerability.   
+  
+ 
+PROJECT DEVELOPMENT OBJECTIVES 
+II.
+A. 
+PDO  
+27. The objective of the project is to increase access to enhanced water supply and sanitation 
+services in an operationally efficient manner in Addis Ababa and selected secondary cities.    
+B. 
+Project Beneficiaries  
+28. The main project beneficiaries are expected to be 3.38 million people (50 percent of them 
+women) residing in Addis Ababa and the selected 22 secondary cities. Of these, 2.76 million will 
+benefit from improved sanitation facilities and 623,000 from access to improved water supply 
+services. Service providers will benefit from operational and efficiency improvements, whereas local 
+governments and communities as a whole will gain from enhanced services and cleaner 
+environments.  
+29. The project will facilitate the creation of job opportunities for women and youth through 
+economic opportunities related to the management and operation of water and sanitation service 
+delivery, including the outsourcing of the management of public sanitation facilities to local youth 
+groups. Poor households, the most vulnerable, will be targeted particularly to benefit from such 
+opportunities at public and communal latrines. 
+ 
+                                                 
+ 
+7 SDG 6 is “ensure availability and sustainable management of water and sanitation for all” and includes targets for 
+adequate and equitable sanitation and for substantially improving water use efficiency by 2030. SDG 11 is “making cities 
+inclusive, safe, resilient and sustainable”, which includes targets by 2030 to ensure access for all to: adequate, safe and 
+affordable housing and basic services, and to upgrade slums”. 
+8 The Country Management Unit is developing the Country Partnership Framework to guide the World Bank Group’s 
+engagement in the coming years. 
+7 
+C. 
+PDO Level Results Indicators 
+30. The following indicators will be used to measure progress toward achieving the Project 
+Development Objective (PDO). 
+1. People in urban areas whose excreta is safely managed under the project (number) 
+2. People in urban areas with access to improved water sources under the project (number) 
+(Core) 
+3. Operation cost -coverage ratio (ratio) 
+4. Savings from NRW interventions under the project (m3/year) 
+5. Direct project beneficiaries, of which percent are female (number) (Core) 
+ 
+ PROJECT DESCRIPTION 
+III.
+A. 
+Project Components  
+31. The project is designed to support service providers in Addis and select secondary cities move 
+towards a longer term goal of efficient, universal and affordable service provision within a 
+supporting policy and regulatory framework. This is a decade or longer process, but by the end of 
+the project, it is expected that Addis Ababa and the participating cities will have increased access to 
+WSS services, and will have contributed to improving the health and productivity of urban dwellers 
+to enable them to play an active role in the country’s economic growth. Institutional strengthening 
+will secure more robust federal and regional level enabling frameworks and support, while the 
+participating utilities will be assisted to become more business oriented, with measurable business 
+plans, adequate human and operating capacity and data systems to provide WSS services effectively.  
+32. The project will support the Government’s effort to respond to the increasing urban demand 
+through investments in sanitation infrastructure, and engaging private operators to improve O&M of 
+the facilities. There will also be activities to improve WSS services levels by facilitating the 
+establishment of institutional arrangements for modernizing the operational and management 
+systems of utilities in Addis Ababa and the selected secondary cities. While equity was taken into 
+consideration in the selection of the participating cities, the project will be implemented following a 
+stepped approach9 which requires utilities to acquire the capacity to plan, implement and manage 
+the WSS services to meet the eligibility criteria for accessing investment financing. 
+Component 1: Sanitation and water supply services improvements in Addis Ababa (US$260 million 
+equivalent).  
+33. The project will finance the construction of sanitation facilities in various settlements and socio 
+economic situations and will seek to implement appropriate cost-effective sanitation options. These 
+options include a centralized WWTP covering the eastern catchment with an estimated daily 
+capacity of 80,000 m3, a trunk line of 43 km and 96 km secondary lines which are expected to serve 
+about one-third of the Addis population in the expanding areas of the city. There will also be support 
+for appropriate household sanitation facilities, decentralized sewerage systems for condominium 
+housing sites, fecal sludge management facilities and transfer stations for densely populated LIAs, 
+and household sanitation facilities in areas without connections to the sewerage system.  
+Subcomponent 1.1: Sanitation services improvement in Addis Ababa (U$224.6 million equivalent).  
+34. This subcomponent will entail the following: (a) sanitation assessments, feasibility studies, and 
+the design and construction of a WWTP for the eastern catchment, through a design, build and 
+operate (DBO) approach10; (b) sewerage networks for the eastern catchment; (c) improvement of 
+                                                 
+ 
+9 The stepped approach is  detailed in Figure 2.3 in Annex 2. 
+10 DBO procurement streamlines the design-build (DB) delivery approach with a single private contractor designing, 
+constructing and operating a new facility.  The advantages of this approach are lower capital and maintenance costs, use of 
+8 
+operation and maintenance (O&M) management of existing WWTPs; (d) improvement of sanitation 
+services in unserved and LIAs, including construction of communal and public latrines; and (e) 
+procurement of appropriate desludging equipment for fecal sludge treatment plants. 
+Subcomponent 1.2: Operational efficiency improvements in Addis Ababa (US$33.1 million 
+equivalent).  
+35. This subcomponent will support AAWSA to improve WSS services levels by modernizing the 
+operational and management system, including: (a) NRW reduction and management; (b) customer 
+care; (c) financial management (FM); (d) network management; and (e) improving sewer 
+connections and fleet management systems. The project will also support management contracts to 
+fill O&M capacity gaps and establish effective management systems, including performance-based 
+contracts for small-scale leak detection and repair. Critical areas will include business plans and 
+performance agreements to focus on: (a) implementation of operational processes and performance 
+improvements; (b) HR improvements and change management; (c) a comprehensive Supervisory 
+Control and Data Acquisition (SCADA) system to secure supervisory control and data acquisition; (d) 
+ability to analyze real-time data; and (e) a dedicated operator support to assist AAWSA to translate 
+high-level plans to action.  
+Subcomponent 1.3: Project management and institutional strengthening in Addis Ababa (US$2.3 
+million equivalent).  
+36. AAWSA’s existing project management capacity will be supplemented through additional staff 
+before the start of the project and during implementation to enhance the capacity of the 
+management board and utility staff to manage WSS facilities effectively. This assistance will cover 
+the cost of training on project implementation and utility operations, regional, international, and in-
+country exposure visits and learning exchanges, procuring office equipment and vehicles, and 
+miscellaneous expenses. 
+ 
+Component 2: Sanitation and water supply services improvement in secondary cities (US$241 
+million equivalent).  
+37. Under this component, 22 cities selected from all the regional states and the Dire Dawa city 
+administration will be supported. The interventions in the selected cities will be incremental and 
+open to mixed approaches, rather than single solutions.  The starting point is to address the problem 
+of open defecation, followed by improving and systematizing fecal sludge management and 
+ultimately to assist with investment in sewer systems where feasible. Separate feasibility studies and 
+detailed designs will be developed for each city to determine the appropriate technological solutions 
+for their specific contexts. This component will finance (a) feasibility studies, detailed design, and 
+construction of wastewater management systems for all secondary cities utilities; (b) development 
+of an integrated city sanitation plan for all 22 cities; (c) design and construction of 800 communal 
+and public latrines; and (d) procurement of different capacity vacuum trucks. Activities under 
+Subcomponents 2.2 and 2.3 will include (a) development/updating of 22 secondary cities utility 
+business plans; (b) a study for improving billing and accounting systems of these secondary cities 
+utilities; (c) feasibility studies and detailed designs of water supply system for selected utilities; (d) 
+selection and employment of PIU key staff; and (e) supply of field vehicles for utilities.  
+ 
+Subcomponent 2.1: Sanitation services improvement in secondary cities (US$196 million 
+equivalent)  
+                                                                                                                                                        
+ 
+robust technology and equipment, shorter delivery schedules, and a single contract. DBO risks include weak supervision 
+and too much upfront pricing, with long-term operational requirements left vague. 
+9 
+38. This subcomponent will finance studies and design, technical assistance (TA) and infrastructure 
+development. This support will improve fecal sludge management facilities and conventional sewer 
+systems
+
+[... procurement/fiduciary sections omitted ...]
+
+ also support the establishment of utility 
+performance monitoring and benchmarking, and the preparation of business plans. Project 
+management costs will include communications, monitoring and evaluation (M&E), procurement, 
+FM, safeguards, and other functions. Institutional development will also cover: (a) establishment of 
+work systems and the development of guidelines and manuals; (b) procurement of vehicles, relevant 
+instruments and tools; and (c) staff training. 
+Component 3: Project management and institutional strengthening (US$4 million equivalent)  
+41. This subcomponent will help MoWIE and RWBs manage the project and strengthen their 
+institutional capacity, and will include short term training, study tours, and carefully planned 
+acquisition of office equipment; and vehicles. This component will also finance several studies to 
+support improvements in sector performance, such as options for private participation; data 
+collection and monitoring systems related to performance-based agreements, monitoring and 
+benchmarking; the establishment of independent bodies to regulate utility performance; and 
+emerging needs for applied research, technology choice, waste reuse, and other topics (see Annex 2, 
+Component 3).  
+B. Project Financing 
+42. The estimated project cost is US$505 million, to be financed by a combination of IDA credit 
+(US$320 million), IDA Scale Up Facility (SUF) Credit (US$125 million) and US$60 million from 
+counterpart funding by the Addis Ababa City Administration (see Table 1). The Scale Up Facility is a 
+one-off facility to provide additional support to eligible IDA clients for the remainder of the IDA17 
+period. The GoE will channel US$170 million to AAWSA in the form of a sub-loan and US$30 million 
+in the form of grant. The credit proceeds for secondary city utilities will be passed on either as a 
+10 
+grant or credit, depending on presentation of acceptable business plans and project proposals by 
+each utility.    
+ 
+ 
+11 
+Project Cost and Financing 
+Table 1: Project Cost by Component 
+Project Components 
+Project 
+Cost 
+IDA Regular 
+Financing 
+IDA 
+Scale 
+Up Facility 
+GoE 
+Contribution 
+% of IDA 
+Financing 
+1. Component 1: Sanitation and water supply services improvements in Addis Ababa 
+1.1 Sanitation services improvement in 
+Addis Ababa. 
+224.6 
+39.6 
+125.0 
+60.0 
+73 
+1.2. Operational efficiency improvement 
+in Addis Ababa. 
+33.1 
+33.1 
+0 
+0 
+100 
+1.3 Project management and institutional 
+strengthening in Addis Ababa 
+2.3 
+2.3 
+0 
+0 
+100 
+Total Component 1 
+260.0 
+75.0 
+125.0 
+60.0 
+77 
+2. Component 2: Sanitation and water supply services improvements in secondary cities 
+2.1 Sanitation services improvement in 
+secondary cities 
+196.0 
+196.0 
+0 
+0 
+100 
+2.2. Water supply and operational 
+efficiency improvement in secondary cities 
+36.8 
+36.8 
+0 
+0 
+100 
+2.3. Project management and institutional 
+development in secondary cities 
+8.2 
+8.2 
+0 
+0 
+100 
+Total Component 2 
+241.0 
+241.0 
+0 
+0 
+100 
+3. Component 3: Project management and 
+institutional strengthening  
+4.0 
+4.0 
+0 
+0 
+100 
+Total Costs 
+505.0 
+320.0 
+125.0 
+60.0 
+88 
+Note: a The cost estimates include 15 percent price and physical contingencies.  
+b The utilities and city administrations will mobilize additional resources if the cost of the appropriate technology exceeds 
+the resource allocated for them under the project.  
+C IDA original SDR amount for the US$125m SUF is SDR 92,400,000. 
+ 
+C. 
+Lessons Learned and Reflected in the Project Design 
+43. The project design has been informed by lessons learned from the on-going UWSSP-1 
+(P101473); the Ethiopia Local Government Development Project II (P133592); and from international 
+experience captured in a major World Bank report published in 2016: Fecal Sludge Management: 
+Diagnostics and Guidelines for Service Delivery in Poor Urban Areas (P146128). The design has also 
+drawn on two current World Bank analytical tasks in Ethiopia: Support to Government of Ethiopia to 
+Improve Urban and Small Town Sanitation Service Management (P151356) and Sustainable and 
+Equitable WaSH Services in Ethiopia (P157690). Some of the key lessons reflected in UWSSP-2’s 
+design are listed:  
+(a) Decentralizing responsibility for service delivery can lead to improved effectiveness, but 
+requires institutional strengthening efforts at all levels. It is important to have or build 
+the necessary capacity and systems at all levels to be responsive to community needs and 
+be accountable for policies, actions, and use of funds. The rules of the game also need to 
+be respected, so that local institutions are able to levy tariffs that enable them to provide 
+effective services. UWSSP-2’s design includes a strong set of interventions to support 
+institutional strengthening at the local level, as well as to help develop relations with the 
+higher tiers. 
+(b) Coordination among public institutions is important, which is contingent on clear roles 
+and responsibilities at the outset between different tiers of government and also in the 
+relationships between institutions at each level of government. UWSSP-2’s design 
+recognizes that utilities are part of a bigger institutional system, especially in the case of 
+12 
+urban systems with multiple stakeholders, and seeks to help the GoE secure clear roles 
+and coordinate institutions.    
+(c) A stepped approach is appropriate to ensure sustainable service delivery. The project 
+will help improve utilities’ technical, financial, and operational capacity in a sequenced 
+manner to ensure absorption and effective use of project investment resources while 
+ensuring sustainability of service delivery (See Annex 2).  
+(d) Consultations are important when demand for improved sanitation is low.  Low 
+demand for sanitation is due to among other things low levels of awareness of the 
+benefits of safe sanitation, as well as affordability issues amid considerable poverty, lack 
+of space in dense urban settings, predominantly rental housing. In UWSSP-2, improved 
+consultation with the community will help motivate behavior change and market the 
+benefits of improved sanitation to increase the demand for services. 
+(e) Ensuring sufficient household demand for connections to sewer systems is key.  Low 
+interest in connections to the sewer system potentially poses serious challenges.  This can 
+be addressed by a clear policy and regulatory framework, enforcement mechanisms and 
+communication strategies developed and communicated upfront, with adequate lead 
+time. These aspects are embedded in UWSSP-2’s design.  
+(f) 
+Combining water supply and wastewater services in one institution improves efficiency, 
+both functionally and for billing and operational efficiency purposes. Subcomponent 1.2 
+will engage in these issues.   
+(g) Stakeholder consultation and involvement are central to successful service delivery. 
+Service delivery is more effective and sustainable when stakeholders are consulted and 
+the roles and responsibilities for actors, including the private sector, are clearly defined. 
+UWSSP-2’s design hence emphasizes stakeholder engagement.     
+(h) Using existing government structures provides traction and enhances ownership, and 
+embeds capacity and incentive systems. This can be complemented productively by 
+contracted staff in specific areas. Local town support groups (TSGs) established under the 
+Ethiopia Water Supply and Sanitation Project and in the on-going One WaSH National 
+Program (OWNP) have also helped build utilities’ capacity through on-the-job and 
+practical training. UWSSP-2 will draw on these resources to help establish a network of 
+practitioners to facilitate the exchange of good practice in improving sector performance.  
+(i) 
+An M&E communication strategy is important. When sector data collection, analysis and 
+dissemination are inadequate, the availability and accessibility of information becomes a 
+constraint for planning and development in the water sector. UWSSP-2’s design therefore 
+provides for a concerted, well-financed effort to implement and refine the proposed M&E 
+system, and improve and communicate the data clearly as part of customer and citizen 
+engagement.  
+ IMPLEMENTATION 
+IV.
+A. 
+Institutional and Implementation Arrangements  
+44.  UWSSP-2 implementation arrangements will largely follow the mechanisms of the on-going 
+UWSSP-1, with slight modifications to capture recent developments. A Project Implementation 
+Manual (PIM) will be developed before project effectiveness to outline detailed steps and 
+procedures, as well as the institutional and implementation arrangements and the rules of 
+engagement for planning, appraisal, contracting and implementation. Standard operating 
+procedures, forms, bidding documents for works, and terms of reference (ToR) for consultants will 
+be incorporated into the PIM. 
+45. The project will introduce DBO contracts to engage experienced operators, thus minimizing 
+the interface risk between the design, construction and operation stages, bringing innovation, and 
+supporting training of utility staff. It will also support the establishment and strengthening of O&M 
+systems.   
+13 
+ 
+ 
+Figure 1: Institutional Arrangements 
+ 
+ 
+Note: WRDF = Water Resource Development Fund. 
+46. To ensure that the project benefits the most disadvantaged, an appropriate targeting 
+approach has been established. It will include: (a) creating opportunities for groups of women and 
+unemployed youth, organized under small and micro enterprises, to manage and operate public 
+toilets; (b) adopting affordable and simple technologies that can be replicated at the community and 
+household levels; (c) locating public toilets at strategic places with concentration of people (for 
+example, bus terminals, markets, public spaces and religious activity centers); and (d) investing in 
+affordable and safely positioned public pay-and-use toilets and showers in LIAs, to be managed by 
+women and youth-led community based organizations (CBOs).  
+47. The institutional arrangements will involve several role-players. The highest governing body 
+of the project is the NWSC that constitutes MoWIE as Chair, and includes the MoH, Ministry of 
+Education, and Ministry of Finance and Economic Cooperation (MoFEC). The NWSC leads the 
+dialogue on the sector and service delivery standards, resource mobilization and financing, and 
+M&E. The Water and Sanitation Directorate and the Federal Project Management Unit (FPMU) 
+within MoWIE will directly be responsible for the implementation of the project in the secondary 
+cities outside Addis Ababa. The project office at AAWSA will be responsible for all activities in Addis 
+Ababa. Figure 1 illustrates the key actors that will be involved in the UWSSP-2 implementation.  
+48. Responsibility for the development and provision of WSS services in urban areas is a task 
+shared among the utilities and local governments. Generally, water utilities are responsible for the 
+provision of water and sewerage services, while local governments are responsible for collecting and 
+safely disposing solid waste. Though the MoH has the overarching shared responsibility on hygiene 
+and sanitation (including guidance on approach, oversight role, and the relevant methodological 
+tools), the health departments in each project city are responsible for hygiene promotion. Details of 
+the roles and responsibilities of project institutions are provided in Annex 3.  
+ 
+City - 1
+City - 2
+City - 3
+Utility - 1 
+Utility - 3
+Utility - 2 
+MoWIE 
+WRDF 
+RWB 
+AAWSA 
+MoFEC 
+National & 
+International TA  
+TSGs
+National WaSH Steering Committee (NWSC) 
+Legend    
+   Implementation Responsibilities                              TA 
+Subsidiary/loan agreement
+14 
+B. 
+Results Monitoring and Evaluation  
+49. The M&E system will complement the performance-based, phased approach. It will also draw 
+on lessons from UWSSP-1. Annex 1 elaborates on results monitoring.  
+50. Responsibility for M&E of progress toward achievement of the PDO is assigned at the federal, 
+regional, and city levels. At the federal level, overall responsibility for M&E will lie with MoWIE. 
+AAWSA will produce performance reports (financial and technical) for Component 1. Every quarter, 
+project performance reports (financial and technical) will be prepared both by MoWIE and AAWSA 
+no later than 45 days after the end of the reporting period. RWB and utilities of secondary cities will 
+each appoint a dedicated M&E staff member who will be responsible for the coordination of M&E 
+activities. 
+51. The baseline data on selected indicators for WaSH will be taken from utility performance 
+indicators. These include impacts on customers, operational performance, and financial 
+performance. Progress on these indicators will be updated annually by the participating utilities. Job 
+opportunities that will be created for women and youth under UWSSP-2 will be documented as part 
+of periodic implementation reports.  
+52. Capacity needs assessments will be conducted to inform the TA under Component 3 to 
+strengthen data collection and M&E capacities at all levels, including refresher and on-the- job 
+training in M&E for federal and regional PMUs and M&E staff.  The M&E system will be fine-tuned 
+continuously through deliberation and as training progresses to build local capacity. 
+53. The midterm review (MTR) at the end of the third year of implementation will assess the 
+overall performance of the project and its progress toward achieving the development objectives. It 
+will also assess the efficiency and effectiveness of project design and implementation and highlight 
+the need for any adjustments. User satisfaction surveys at the MTR stage and at project completion 
+will cover household satisfaction with the functioning, continuity, maintenance, and affordability of 
+WSS services, and whether wastewater and wastewater reuse are perceived as safely managed. 
+ 
+C. Sustainability  
+54. Experience has shown that the impact of multiple social, economic, technical, institutional, or 
+environmental factors over time may influence the sustainability of urban WSS services. Based on 
+lessons learned from similar projects, UWSSP-2’s design will work toward strengthening and 
+supporting the sustainability of systems through involving beneficiary communities and 
+strengthening the participation and roles of women in all stages of project design and 
+implementation. Beneficiary selection will be based on targets set by AAWSA and the local 
+governments, verified by robust social and technical analysis. UWSSP-2 will actively seek to increase 
+accountability by helping institutionalize public reporting of the performance of service providers on 
+a regular basis.  
+55. Strengthening the units responsible for post-construction support will be important, together 
+with supporting the enabling environment for active participation of the private sector and small and 
+micro enterprises to support O&M. This will be supported by periodic refresher training.   
+56. Appropriate technologies will be deployed, such as for cost effective, simplified, wastewater 
+containment, collection, transportation, safe treatment, and disposal/reuse. 
+57. To ensure financial and economic long-term sustainability of the sector, the project will 
+support implementation of the GoE’s cost recovery policy, partly on some of the activities in Addis 
+Ababa, promoting community contribution and cost sharing in the design of urban sanitation 
+services. It will also support activities to improve operational efficiency of urban water supply by 
+financing activities and incentive mechanisms to reduce system losses through leak detection 
+15 
+programs, metering of consumers and encouraging conservation, streamlining sector institutions, 
+and adopting modern management methods for the services. 
+ 
+ 
+KEY RISKS  
+V.
+A. Overall Risk Rating and Explanation of Key Risks 
+58. The overall implementation risk of the project is substantial.  
+59. Political and governance risks are rated high because of the recently declared state of 
+emergency and political unrest. The political situation appears to be improving, which may result in 
+lifting the state of emergency. However, a resurgence of the unrest would impede implementation 
+progress. The process of tariff revisions also carries political risk, as political and social factors may 
+delay or even prevent tariff increases, which in turn could add to financial risk. AAWSA’s proposed 
+tariff revision is currently under review by the managing board and it will inform how and when 
+MoWIE and the utilities of the project secondary cities take action on tariff revisions or mobilization 
+of alternative resources to cover potential financing gaps. 
+60. Sector Strategies and Policies risks are rated substantial.  The existing WSS sector policy and 
+strategy are over 15 years old and needs updating to address emerging urban sanitation challenges 
+resulting from urbanization and rapid population growth. The project will finance sector reviews and 
+studies to provide evidence on performance and effectiveness of policy provisions and share 
+experiences from other countries to help the government in its effort to update the sector policies.   
+61. Institutional Capacity for Implementation and Sustainability/Fiduciary Risks (Substantial). 
+Limited capacity and experience of selected secondary cities on implementation and management of 
+urban sanitation could substantially affect implementation progress and effective operationalization 
+of the facilities. Most of the participating cities have weak capacity in financial management and 
+procurement that could substantially affect implementation. The project will require availability of 
+critical fiduciary staffs and finance capacity building at every level to support FM, procurement, 
+contract management, and safeguards, and to put in place improved systems for M&E.  An 
+implementation support team will be engaged, including international and national experts in 
+selected skill areas, while the TSGs will provide roaming TA. 
+62. Technical Design of Project (Substantial). There are several design risks worth noting. Limited 
+experience in the design and management of WWTPs may affect AAWSA, especially in technical 
+design, operation, maintenance, and management of the WWTPs to be supported by the project. To 
+mitigate this risk, the project will promote private sector participation through the introduction of 
+DBO contracts and performance based service improvement.  A low demand for sewer connections, 
+due to limited awareness and affordability constraints among targeted beneficiaries, poses a risk of a 
+low connection rate and underutilization of facilities. To mitigate this, UWSSP-1 is supporting the 
+establishment of an affordable connection strategy and regulations. UWSSP-2 will build on this and 
+refine the strategy and regulations, while operational efficiency improvement activities will continue 
+supporting a dedicated team at AAWSA to interact with the community and customers on a 
+proactive plan for increasing connections. 
+63. Stakeholder risks (Substantial). The involvement of various ministries and bureaus in the 
+planning, implementation, management and regulation of urban water and sanitation, and the lack 
+of adequate coordination among these stakeholders may pose substantial risk to project 
+implementation. The project will support efforts to better define sanitation responsibilities and 
+establish a coordination mechanism. At the national and regional level the WaSH steering 
+committees will have oversight role and facilitate coordination among various actors while the city 
+administration will facilitate coordination at city level.  The project will promote continuous dialogue 
+as well as engagement of stakeholders during design and implementation of the project. The ‘Not in 
+My Backyard’ syndrome poses risk due to low-income households’ limited awareness of the risk of 

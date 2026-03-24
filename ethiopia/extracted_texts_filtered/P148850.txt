@@ -1,0 +1,628 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 36229 chars (48.3% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. 
+Country Context 
+1. 
+Ethiopia is a large and diverse country. It is located in the Horn of Africa and is a land-
+locked country with an area of 1.1 million km2. Its bio-physical environment includes a variety 
+of contrasting ecosystems, with significant differences in climate, soil properties, vegetation 
+types, agricultural potential, biodiversity and water resources. Ethiopia is also a country of many 
+nations, nationalities and peoples, with a total population of about 87.9 million and a population 
+growth rate of 2.6 percent (2013). Only 17 percent of the population lives in urban centers, the 
+great majority of them in Addis Ababa. At a current annual growth rate of 2.6 percent, Ethiopia’s 
+population is estimated to reach 130 million by 2025. Ethiopia is projected by the United Nations 
+(UN) to be among the ten largest countries by population in 2050. The country is vulnerable to 
+terms of trade shocks from international food and fuel prices and to large domestic weather-
+related shocks as demonstrated by the 2011/12 East Africa droughts. 
+ 
+2. 
+Ethiopia has a federal, democratic government system, established in the early 1990’s 
+with nine autonomous states (‘regions’) and two city administrations. Decentralization of 
+governance to the regional and district (Woreda) levels has been actively pursued since 2003. 
+The Ethiopian People’s Revolutionary Democratic Front (EPRDF) has been in power since 
+1991. EPRDF comprises four regionally based parties from the four major regions (Amhara, 
+Oromia, Southern Nations, Nationalities and Peoples’ Region (SNNPR) and Tigray). The next 
+national elections are scheduled for mid-2015. 
+ 
+3. 
+Ethiopia has experienced strong economic growth, averaging 10.7 percent per year 
+between 2003 and 2011 compared to the regional average of 5.0 percent. GDP increased by 9.7 
+percent in 2012/13 and 10.3 percent in 2013/14. The growth reflects a mix of factors, including 
+agricultural modernization, the development of new export sectors, strong global commodity 
+demand and government-led development investments. Private consumption and public 
+investment have driven demand side growth, with the latter assuming an increasingly important 
+role in recent years. On the supply side, growth was driven by an expansion of the services and 
+agricultural sectors, while the role of the industrial sector was relatively modest. Recently, 
+annual growth rates have declined slightly, but still remain at high single-digit levels. Growth in 
+the export of goods has also moderated in recent years and a decline was observed in 2012/13 for 
+the first time since 2008/09. There have been bouts of high inflation in recent years and while 
+inflation is currently much lower at present, keeping it down remains a major objective for 
+monetary policy. 
+ 
+4. 
+Ethiopia is one of the world's poorest countries, but has made substantial progress on 
+social and human development over the past decade. The country’s per capita income of US$470 
+(2013) is substantially lower than the regional average of US$1,257 and is the ninth lowest 
+worldwide. Ethiopia is ranked 173 out of 187 countries in the Human Development Index (HDI) 
+of the United Nations Development Program (UNDP). High economic growth, however, has 
+helped reduce poverty in both urban and rural areas. Since 2005, 2.5 million people have been 
+lifted out of poverty and the share of the population below the poverty line has fallen from 38.7 
+percent in 2004/05 to 29.6 percent in 2010/11 (using a poverty line of close to US$1.25/day). 
+However, because of high population growth the absolute number of poor (about 25 million) has 
+ 
+2
+remained unchanged over the past fifteen years. Ethiopia is among the countries that have made 
+the fastest progress on the Millennium Development Goals (MDGs) and HDI ranking over the 
+past decade. It is on track to achieve the MDGs for gender parity in education, child mortality, 
+Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS) and 
+malaria. Reduction of maternal mortality remains a key challenge. 
+ 
+5. 
+The GoE is currently implementing its ambitious Growth and Transformation Plan (GTP; 
+2010/11-2014/15), which sets a long-term goal of becoming a middle-income country by 2025, 
+with growth rates of at least 11.2 percent per annum during the plan period. To achieve the GTP 
+goals and objectives, GoE has followed a “developmental state” model with a strong role for the 
+government in many aspects of the economy. It has prioritized key sectors such as industry and 
+agriculture as drivers of sustained economic growth and job creation. The GTP also reaffirms 
+GoE’s commitment to human development. Development partners have programs that are 
+broadly aligned with GTP priorities. 
+ 
+6. 
+The fast growing population of Ethiopia is a challenge to the reduction of poverty and 
+shared prosperity, having increased by nearly fourfold over the last four decades. The capacity of 
+the rural arable areas to support this population has reached its limit, as the average land holding 
+of a rural household has become less than the hectare which is needed to sustain the current 
+average family size and no more farm land is available for the youth. The population pressure 
+has obliged the youth to migrate to urban centers to search for scarce job opportunities.  The 
+population size of major cities benefiting from the proposed project, such as Hawassa, Batu 
+(Zeway) and Addis Ababa has grown by six, nine and two fold respectively between the 1984 
+and 2013 censuses. The official unemployment rate in urban centers is over 17 percent.  With a 
+population of 3.1 million, Addis Ababa is 10 times larger than the other major cities in Ethiopia. 
+This imbalance in urban populations is reflected in the smaller scale of economic activities and 
+industrial growth in these other cities and the regions that surround them. The GoE has 
+recognized the importance of cities in the country’s industrialization strategy. The second GTP, 
+which is being prepared, will support the smaller cities in their role of increasing growth and 
+reducing poverty. 
+ 
+7. 
+The World Bank Group’s Country Partnership Strategy (CPS, FY13-16) builds on the 
+progress achieved by Ethiopia in recent years and aims to help GoE address structural 
+transformation and assist in the implementation of the GTP. The CPS framework includes two 
+pillars. Pillar One, “fostering competitiveness and employment”, aims to support Ethiopia in 
+achieving: (a) a stable macroeconomic environment; (b) increased competitiveness and 
+productivity; (c) increased and improved delivery of infrastructure; and d) enhanced regional 
+integration.  Pillar Two, “enhancing resilience and reducing vulnerabilities”, aims to support 
+Ethiopia in improving the delivery of social services and developing a comprehensive approach 
+to social protection and risk management. Good governance and state building form the 
+foundation of the CPS. In line with the GTP, gender and climate change have been included as 
+cross-cutting issues to strengthen their mainstreaming across the portfolio. The programs of 
+International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA) 
+are well aligned with the CPS framework, contributing mainly to the strategic objectives under 
+Pillar One. 
+ 
+ 
+3
+B. 
+Sectoral and Institutional Context 
+8. 
+Transport sector policy definition and oversight in Ethiopia is the responsibility of the 
+Ministry of Transport (MOT). The Ethiopian Roads Authority (ERA) is responsible for overall 
+network planning and federal roads development, including high capacity roads. The Transport 
+Authority is responsible for regulating transport services. The Office of the Road Fund (ORF) 
+administers funds for road maintenance, which are collected through a fuel levy. The 
+management of the lower levels of the road network is decentralized. Responsibility for road 
+safety lies with the National Road Safety Council (NRSC), which reports to the MOT. In July 
+2014, GoE established the Ethiopian Toll Roads Enterprise (ETRE), which has the responsibility 
+of managing all toll roads in the country.  
+ 
+9. 
+The GoE, recognizing that the size and quality of the road network is a major constraint 
+to economic growth and poverty reduction, has formulated a rolling Road Sector Development 
+Program (RSDP) in partnership with development partners including the World Bank, African 
+Development Bank (AfDB), China EXIM Bank, the European Union (EU) and the South Korea 
+EXIM Bank. The RSDP identified the investments needed to restore and expand the road 
+network, and reforms to modernize the sector. Since the RSDP was launched in 1997, the road 
+network has increased from 26,550 km to 99,522 km today and 70 percent is now in good or fair 
+condition compared with 22 percent at the start of the program. The current annual budget for the 
+road sector is now US$1.7 billion, of which 74 percent was funded by GoE and 5 percent by the 
+Bank in 2013. The ORF contributes about US$65 million annually to road maintenance. 
+ 
+10. 
+In addition to the rapid expansion and improvement of the road network, the sector has to 
+overcome major challenges, including: (a) enhancing the GoE’s Road Safety strategy that targets 
+reducing the accident rate from 74 to 27 fatalities per 10,000 vehicles by 2016; (b) constructing 
+high capacity roads to improve safety and reduce congestion; and (c) improving institutional 
+efficiency to ensure the delivery of projects within planned cost and time, and with acceptable 
+levels of site safety. In 2013 ERA adopted a wide-ranging modernization agenda aimed at 
+strengthening their capacity to deliver GoE’s road sector program. The proposed project will 
+help to mainstream modernization of the roads network in the upcoming fifth phase of RSDP and 
+in addition, addresses the critical challenges of enhancing cost sharing principles by recovering 
+operation and maintenance costs and a part of investment costs. It will play an important role in 
+supporting economic growth and will also provide a high standard road for road users, which 
+will reduce road accidents and reduce fuel consumption, in turn reducing emissions. 
+ 
+11. 
+Due to the fast growing economy and expanding road network, traffic on roads radiating 
+from Addis Ababa has grown at an average annual rate of 9.5 percent between 2003 and 2012, 
+with heavy truck traffic increasing by 11.6 percent annually, leading to chronic congestion. The 
+route to the port of Djibouti, Ethiopia’s main trade outlet, currently carries over 20,000 vehicles 
+per day (vpd), and by 2022 traffic on seven principal routes is expected to exceed 10,000 vpd. In 
+response, the Ethiopian Roads Authority (ERA) has constructed the Addis – Adama Expressway, 
+a 78 km toll road on the Djibouti Corridor, which was opened to traffic in September 2014.  The 
+Modjo-Hawassa road is sub divided in four sections, comprising 57 km in section 1, 37 km in 
+section 2, 57 km in section 3 and 52 km in section 4, totaling 203 km. The road is part of the 
+Trans-East African Highway linking Ethiopia to Kenya. GoE has secured financing for sections 
+1 and 2 from the AfDB and Korea EXIM Bank respectively.  The World Bank will finance 
+ 
+4
+section 3 from Batu (Zeway) to Arsi Negele while China EXIM Bank will be financing section 4 
+within the framework of the Memorandum of Understanding on Cooperation in support of 
+projects in Africa, signed between the China EXIM Bank and IBRD/IDA in September 2013.  
+ 
+12. 
+The GTP prioritizes efficient transportation systems as critical for the transformation of 
+the Ethiopian economy from an agriculture-rural base into one that relies increasingly on 
+industry to lift the world’s most impoverished people out of poverty. The interconnection of the 
+fast growing urban centers predominantly habited by poor people will facilitate agriculture based 
+industrialization, access to large domestic and export markets, as well as promote services and 
+tourism.  This project will facilitate the light manufacturing expansion planned for the Hawassa 
+Special Economic Zone and along the corridor supported by the World Bank. In addition to the 
+Addis-Adama and Modjo-Hawassa roads, Government is preparing plans to upgrade to 
+expressway standard other congested roads that radiate from Addis Ababa and connect to the 
+regional states.  This recognizes that high capacity highways and expressways will help increase 
+the reliability and timely delivery of goods to higher level markets and for export, improve 
+service delivery, move people at a reduced time and cost, reduce the incidence of road traffic 
+crashes saving lives of pedestrian and passengers (the majority of them the poor) and the loss of 
+property, and attract investment; in summary, facilitate growth that creates employment for the 
+poor. Studies from China and India show that highway corridors attract firms to locate along the 
+corridor, thereby bringing spatial and economic transformation of the corridors, as well as 
+enhancing competiveness. Example of the impacts of highway development (the Golden 
+Quadrilateral highway project) on the Indian organized manufacturing sector is presented in 
+Box 1. 
+  
+Box 1. Impacts of the Golden Quadrilateral Highway Project  
+on the Formal Manufacturing Sector in India1 
+ 
+An evaluation of the impact of a large-scale highway project on economic activity in the manufacturing 
+sector in India used establishment-level survey data from 1994-2007 for the Golden Quadrilateral 
+Highway Project, which upgraded the quality and width of 5,846 km of highways linking four major hubs 
+in India. The evaluation showed that this upgrade improved the connectivity and market accessibility of 
+districts lying close to the highway compared to those further from it. Non-nodal districts located within 
+0-10 km from the Golden Quadrilateral network experienced substantial increases in entry levels and 
+higher productivities. Dynamic specifications and comparisons to the NS-EW highway system mostly 
+confirm these findings, with the most substantial caveat being that the productivity gains may be 
+upwardly biased by a pre-period dip.  
+ 
+The Golden Quadrilateral upgrades also appear to have facilitated a more natural sorting of industries that 
+are land and building intensive from the nodal districts into the periphery locations. The upgrades also 
+appear to be encouraging decentralization by making intermediate cities more attractive for 
+manufacturing entrants. 
+ 
+ 
+                                                 
+1  Highway to Success in India- The Impacts of the Golden Quadrilateral Highway Project for the Location and 
+Performance of Manufacturing; Ejaz Ghani,  Arti Grover Goswami, and William R. Kerr; January 2013. The World 
+Bank Poverty Reduction and Economic Management Network, Economic Policy and Debt Department. Policy 
+Research Working Paper 6320  
+ 
+5
+C. 
+Higher Level Objectives to which the Project Contributes 
+13. 
+The project supports the Bank’s twin goals of reducing extreme poverty and enhancing 
+shared prosperity, as it facilitates the growth of employment generating industries, tourism and 
+agri-business through the provision of a direct high-quality road link to Addis Ababa and the sea 
+port, and helps to reduce transport costs for local fishery and agricultural products marketed by 
+the rural and urban poor living along the project influence area. The project is consistent with 
+three of the objectives of Pillar One, of the Bank Group's Country Partnership Strategy (CPS) for 
+FY 2013-16, which aims to increase productivity, increase and improve delivery of 
+infrastructure, and enhance regional integration. The project will support the Government’s 
+RSDP by introducing effective strategies for managing high capacity roads and builds on the 
+successes of the Bank’s support over many years to the road sector in Ethiopia. The project will 
+promote Road Safety actions to reduce accidents along critical corridors and support institutional 
+development.     
+ 
+14. 
+The GTP is promoting development initiatives that are distributed throughout the 
+regional states, including investments in agro processing development and industrial zones in 
+Addis Ababa, Dire Dawa, Hawassa and Kombolcha. The new Hawassa Special Economic Zone 
+will focus on agro-industries, processing outputs from the surrounding region. The Southern 
+Region of Ethiopia, which will be served by the proposed project, is densely populated and the 
+resulting pressures are highly pronounced in this part of the country. However, the region is 
+endowed with many tourist attractions such as lakes and parks, as well as potentially irrigable 
+land and fishery resources.  Improving intercity connectivity between Hawassa and Addis Ababa 
+through the establishment of an efficient and safe development corridor centered on the densely 
+populated Modjo-Batu (Zeway)-Hawassa area will encourage investment in these cities. This 
+will help increase formal employment in the satellite cities and surrounding areas that provide 
+the raw materials for the agro-processing and light manufacturing industries along the corridor. 
+By reducing journey time and transport cost to investments in the development corridor between 
+Addis Ababa and Hawassa, the project will support the growth of employment generating 
+urbanization.    
+ 
+15. 
+The proposed project is seen to support the core pillars of the “New Africa Strategy”, 
+which are focused on: (a) improving competitiveness and employment; and (b) addressing 
+vulnerability and promoting resilience, by improving key transport and trade corridors. 
+Furthermore, the project will enhance the China EXIM Bank and World Bank cooperation 
+intended to jointly support development projects helping to boost accelerated growth and poverty 
+reduction in Africa. This project builds on the experience sharing between China and Ethiopia on 
+expressway development.
+
+A. 
+PDO 
+16. 
+The objective of the Project is to enhance efficiency and safety in the movement of goods 
+and people along the Batu (Zeway)-Arsi Negele section of the Modjo-Hawassa development 
+ 
+6
+corridor, whilst strengthening the Recipient’s institutional capacity to develop and manage high 
+capacity highways and expressways.  
+ 
+17. 
+The proposed project helps to support the accelerated development of the country which 
+is intended to lift out of poverty the 27 percent of the population currently living below the 
+national poverty line by: (a) facilitating trade between Ethiopia and Kenya, as well as southern  
+Africa, as the proposed road is an important segment of the Trans-East African Highway; (b) 
+establishing an efficient inter-city corridor between the economic capital of the nation, Addis 
+Ababa, and Hawassa to attract investment in light manufacturing and agro-processing to the 
+southern region; (c) facilitating the export of agricultural produce, helping to strengthen the 
+export base; (d) facilitating the marketing of their products by the rural poor, including farmers 
+and small-scale fishermen; and (f) facilitating the tourism industry along the Modjo-Hawassa 
+corridor and the National Parks in the south, which are providing employment to the local 
+population. The project will set the strategic framework for future expressway and high capacity 
+road development and instill efficiency in the management of such roads through cost recovery 
+mechanisms and opportunities for increased private sector participation in infrastructure 
+operation. The project will also support GoE’s program to improve road safety. 
+ 
+18. 
+The proposed project will add two important elements to the Bank’s support program to 
+the transport sector through the introduction of innovative Intelligent Transportation Systems 
+(ITS) and a scientific approach to reduction of road accidents and injuries – The Safe System. It 
+is aimed at improving key national and regional corridors by separating long distance through 
+traffic from the mixture of motorized and non-motorized traffic which is prevalent along existing 
+corridors whilst contributing to asset management and sustainability issues not fully addressed 
+through previous interventions. 
+ 
+B. 
+Project Beneficiaries 
+19. 
+Direct beneficiaries of the project include those people who live within the Woredas that 
+are served by the target road section (Batu (Zeway)-Arsi Negele), road users, public transport 
+operators and their customers, investors that will use the road, resort areas along the corridor, 
+poor people who rely on fishery, commercial farms, agro processing and light manufacturing for 
+their livelihoods, and ultimately, consumers and producers that are based within the project 
+areas. The direct beneficiaries within the project influence area between Batu (Zeway) and Arsi 
+Negele are estimated to be about 400,000 of which approximately 50 percent are female.  
+ 
+20. 
+Indirect beneficiaries will include the transport, logistics and supply industries, together 
+with the people who live within the seven Woredas in the influence area of the entire Modjo-
+Hawassa corridor, estimated at about 1.9 million. The project will benefit people in parts of the 
+Oromia and SNNPR States, which will be involved in the GTP flagship projects including agro-
+processing development.  The agro processing developments in the SNNPR, which are expected 
+to create approximately 450,000 jobs while selling their products internally and for export will 
+benefit from the reduced travel time and cost. Further, the project will benefit export and import 
+commerce with Kenya and the Southern Africa countries.    
+ 
+21. 
+The primary social and economic benefits for the project area are anticipated to be: 
+ 
+ 
+7
+(a) 
+Improved transport and freight facilities and faster delivery of goods and 
+perishable produce, as well as facilitating the attraction of investment in light industry; 
+ 
+(b) 
+Improved opportunities for growth and development of tourism and agricultural 
+outputs; 
+ 
+(c) 
+Creation of short-term employment during construction and in the longer term 
+due to increased development and tourism, and the operation and maintenance of the new 
+road; 
+ 
+(d) 
+Improved environmental outcomes due to reduction in vehicle emissions; and 
+ 
+(e) 
+Improved safety as a result of providing improved geometry and separation of 
+through traffic from slow moving local traffic, non-motorized transport, and pedestrians.  
+ 
+C. 
+PDO Level Results Indicators 
+22. 
+Expected outcomes of the proposed project as a result of the new highway construction, 
+institutional development support and promoting the implementation of the “Safe System” 
+include: (a) a reduction in travel time between Batu (Zeway) and Arsi Negele; (b) a reduction in 
+vehicle operating cost along the target project corridor; (c) a reduction in road accident fatalities 
+along the Addis-Adama and Modjo-Hawassa road corridors; (d) expressways and high capacity 
+highways with sustainable and efficient management systems; (e) the number of direct project 
+beneficiaries (percentage of which are female), and (f) the production of annual reports on 
+citizens’ engagement. 
+ 
+23. 
+Progress towards the attainment of the PDO will be assessed through the indicators 
+described in the Results Framework - Annex 1.
+
+A. 
+Project Components 
+24. 
+The project will include the following components:   
+ 
+25. 
+Component 1: Construction of High Capacity Highway (US$340 million) including:  
+ 
+26. 
+Sub-component 1 (a): Constructing the Batu (Zeway) - Arsi Negele section of the new 
+Modjo - Hawassa Highway, including support for livelihood restoration;  
+ 
+27. 
+Sub-component 1 (b): Monitoring and supervising the civil works to be carried out under 
+sub-component 1 (a);  
+ 
+28. 
+Sub-component 1 (c): Supporting prioritized road safety improvement works at potential 
+accident sites on the trunk road network and piloting the implementation of corridor based Road 
+Safety actions along the high capacity highway and expressway network; and  
+ 
+ 
+8
+29. 
+Sub-component 1 (d): Installation of relevant field Intelligent Transport Systems (ITS) on 
+the new Modjo-Hawassa highway and enhancing ITS on the expressway network. 
+ 
+Component 2: Institutional Development and Regulatory Framework (US$18 million) - 
+including:  
+ 
+30. 
+Sub-component 2 (a): Strengthening the Recipient’s capacity for the development of 
+expressways and high capacity highways through: (i) advisory services and training for the 
+preparation of a strategic master plan and regulatory and legal frameworks for financing, 
+operation and maintenance of expressways and high capacity highways; and (ii) the development 
+of a national and sub-national ITS conceptual framework, including preparation of a strategic 
+plan for ITS development, and design of the systems engineering, for development and 
+management of expressways and high capacity highways, and ITS for planning and road asset 
+management. The strategic master plan and the regulatory and legal framework will, inter alia: 
+encapsulate road financing strategies, private sector participation, systems for highway operation 
+and maintenance, and the assessment of impacts. The institutional development support will help 
+to strengthen the institutional base for the development of expressways and high capacity 
+highways, as it targets the developer (ERA);  
+ 
+31. 
+Sub-component 2 (b): Strengthening functional units within the Ethiopian Toll Roads 
+Enterprise for expressway and high capacity highway management, including, inter alia, 
+strengthening the capacity of said functional units for digital roads management through the 
+provision of advisory services, training and ITS, and other equipment for central expressway 
+management; 
+ 
+32. 
+Sub-component 2 (c): Undertaking studies and making recommendations on how to 
+monitor and strengthen governance and transparency in procurement and contract management 
+in the road sector; and 
+ 
+33. 
+Sub-component 2 (d): Preparing follow-on operations, including the preparation of 
+related feasibility studies, Environmental and Social Impact Assessment (ESIAs), and concept 
+designs for potential expressways and high capacity highways.  
+ 
+34. 
+Component 3: Road Safety and Institutional Development Support to the Transport 
+Sector - (US$12 million), including: 
+ 
+35. 
+Sub-component 3 (a): Supporting the implementation of the Road Safety - “the Safe 
+System” approach - through: (i) strengthening the capacity of the Recipient’s relevant Road 
+Safety Agency, including conducting Road Safety assessment on selected heavily trafficked 
+trunk roads to improve Road Safety aspects of the road infrastructure and ensuring compliance 
+with vehicle safety requirements; and (ii) piloting enhanced enforcement of road safety 
+requirements and post impact care focusing on selected accident prone corridors; and 
+ 
+36. 
+Sub-component 3 (b): Strengthening the policy-making, planning and monitoring 
+functions of MOT.  
+ 
+ 
+9
+B. 
+Project Financing 
+37. 
+The lending instrument for the project is an Investment Project Financing (IPF).  The 
+project cost for the Batu (Zeway) – Arsi Negele road is estimated at US$370 million to be fully 
+financed by an International Development Association (IDA) Credit, from the IDA 17 national 
+allocation on standard country terms.   
+ 
+38. 
+For the construction of the entire Modjo-Hawassa highway and associated activities, 
+AfDB and Korea EXIM Bank have together committed US$226 million. The contribution from 
+China EXIM Bank will be confirmed following the completion of procurement. GoE will also 
+contribute US$180 million for the three sections as counterpart funding. The total cost of the 
+construction of the Modjo-Hawassa highway is estimated at about US$1 billion, including 
+contingencies and taxes. 
+ 
+Table 1: Project Cost and Financing (US$ million) 
+ 
+Project Components 
+Project cost 
+IDA Financing 
+% Financing 
+1. Construction of high capacity 
+highway 
+ 
+2. Institutional development and 
+regulatory framework 
+ 
+3. Road Safety, and institutional 
+development support to the transport 
+sector 
+ 
+Total Costs 
+340.00 
+ 
+18.00 
+ 
+ 
+ 
+12.00 
+ 
+340.00 
+ 
+18.00 
+ 
+ 
+ 
+12.00 
+100 
+ 
+100 
+ 
+ 
+ 
+100 
+Total Project Costs 
+Front-End Fees 
+Total Financing Required
+370.00 
+0.00 
+370.00 
+370.00 
+0.00 
+370.00 
+100 
+0 
+100 
+ 
+C. 
+Lessons Learned and Reflected in the Project Design 
+39. 
+In reviewing projects implemented under the RSDP, including the newly inaugurated 
+expressway, a number of lessons can be learned: 
+ 
+(a) 
+The planning and development of expressways is currently done in a piecemeal 
+way. A preliminary master plan for expressway development prepared by ERA requires 
+enhancement, using traffic modeling, to prioritize the proposed expressway projects. 
+There are no overall tolling strategies and mechanisms for attracting the private sector to 
+participate in the development, operation and maintenance of expressways and high 
+capacity highways are not in place. The project will include the preparation of a 
+comprehensive integrated strategic master plan for expressway development and support 
+the preparation of legal and regulatory framework to address issues related to tolling, 
+outsourcing expressway operational activities and, should the government’s initial 
+interest develop further, the preparation of Public Private Partnerships (PPP);   
+ 
+ 
+10
+(b) 
+ERA has had insufficient access to worldwide best practice to plan, design and 
+implement expressway projects. The full benefits of ITS, improved efficiency of traffic 
+movement, toll collection and reduced road accidents, have not been realized. The 
+management of the expressway has fallen under a newly established enterprise (ETRE) 
+that has a tendency to operate and maintain expressways through direct labor.  Cognizant 
+of these constraints, the project has encapsulated adequate technical assistance (TA) to 
+improve the planning, design, implementation and operation of the expressway network, 
+with provision for installing basic ITS on the expressway network;  
+ 
+(c) 
+Increasing traffic levels, the mixture of motorized traffic with pedestrians and 
+animals, expanding settlements and commercial activity along trunk roads, combine to 
+create an environment on the main road corridors that is increasingly unsafe for the more 
+vulnerable road users, causes congestion and is leading to significantly increased journey 
+times. The decision to introduce segregated dual carriageway highways along a new 
+alignment is appropriate on the grounds of safety and efficient transport.  The project 
+includes a standalone Road Safety component to introduce “The Safe System” along the 
+expressways and critical accident-prone corridors; 
+ 
+(d) 
+Many road construction projects experience delays and cost overruns due to poor 
+design work and contract administration by consultants, and delayed mobilization by 
+contractors. These issues are to be addressed through the adoption of a Design and Build 
+contract format, which is being used successfully by ERA; and  
+ 
+(e) 
+Safeguard issues on Design and Build contracts were commonly addressed with 
+framework documents. Cognizant of the sizable impact of the construction of a 
+greenfield2 road and the environmental sensitivity of the project corridor, an 
+environmentally suitable alignment has been developed and a detailed site specific 
+safeguards instruments have been prepared.
+
+A. 
+Institutional and Implementation Arrangements 
+40. 
+ERA will be responsible for the implementation of the highway construction, the 
+framework for expressway development and institutional strengthening components, and will 
+implement activities on behalf of the newly established Ethiopian Toll Roads Enterprise (ETRE). 
+ERA has been implementing a series of Bank financed projects and is familiar with Bank 
+fiduciary and safeguards policies. ERA also has working experience with AfDB and China 
+EXIM Bank on the financing of road projects and has a good understanding of the loan 
+processing and contract administration procedures. 
+ 
+41. 
+As the implementing agency, ERA will work to coordinate and ensure compatibility of 
+both design and implementation across the four sections of the Modjo-Hawassa highway. ERA 
+
+
+[... procurement/fiduciary sections omitted ...]
+
+8. 
+ 
+B. 
+Results Monitoring and Evaluation 
+44. 
+The project has established indicators and baseline data to monitor the outputs and 
+outcomes of the proposed project, as presented in the Results Framework, Annex 1. Data will 
+also be disaggregated by gender. Performance monitoring and evaluation will be carried out 
+annually based on the monitoring indicators established for the sector. Studies will monitor 
+governance and transparency in procurement and contract management, as well as monitoring 
+the impacts of the project on poverty reduction, shared prosperity and gender. 
+ 
+C. 
+Sustainability 
+45. 
+The main source of financing for road maintenance, the Road Fund, is under-resourced as 
+it currently receives about 50 percent of the estimated funds required for the maintenance of the 
+road network.  The Government is providing funds to bridge this gap through supplementary 
+budget allocations for road agencies to complete maintenance programs and has recently decided 
+to add vehicle-licensing fees to the Road Fund income.  The responsibility for the management 
+of expressways and high capacity highways is vested in ETRE; it collects tolls, operates and 
+maintains the newly inaugurated Addis-Adama expressway and will assume responsibility for 
+management of the Modjo-Hawassa Highway.
+
+A. 
+Overall Risk Rating and Explanation of Key Risks 
+46. 
+As multiple donors will finance separate sections of the road, and this is a new greenfield 
+development along associated sections, which potentially have adverse environmental and social 
+impacts, the risk at preparation and implementation is considered to be substantial.  
+ 
+47. 
+Environment and Social:  This is a greenfield development project that will take farmlands 
+and some scattered rural houses.  The new highway passes close to lakes, parks and a marshy 
+area which are environmentally sensitive. The number of people to be affected by the associated 
+projects is high, and resettlement and livelihood restoration issues require attention; joint 
+supervision may be required. ERA has prepared robust safeguards instruments for the entire road 
+from Modjo to Hawassa and will carry out the mitigation measures consistently, by 
+mainstreaming them in the Environmental and Social Management Plans (ESMPs) to be 
+ 
+12
+implemented through the works contracts.  
+ 
+48. 
+Capacity constraints: The capacity of Ethiopian Roads Authority (ERA) to deliver 
+projects within budget, time and quality is limited.  There are challenges related to: (a) enforcing 
+safety and environmental standards on construction sites; (b) limited experience in using design 
+and build contracts for expressways, quality assurance for tender documents and delays in tender 
+processing; (c) limited experience in maintaining and managing expressways; and (d) slow 
+follow-up on entity audit recommendations. To address the capacity constraints adequate 
+technical assistance has been provided under this and ongoing transport projects. 
+ 
+49. 
+Partners and stakeholders’ relations:  Multiple donors (four donors) provide financing to 
+the Modjo-Hawassa highway development and there may be lack of coordination among 
+development partners during project design and implementation. Service providers in smaller 
+towns along the existing road would consider they will lose business. The highway will restrict 
+movement of crossing traffic and animals. ERA has prepared a Framework for Project 
+Implementation Coordination (FPIC) outlining the arrangements for joint monitoring of 
+compatibility of the engineering standard of the works and consistent implementation of the 
+safeguard instruments. The major towns have access to the highway and the smaller towns will 
+continue to be interconnected to the major towns and onward to the highway by the existing road 
+and new link roads.

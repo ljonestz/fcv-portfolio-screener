@@ -1,0 +1,452 @@
+[FILTERED: FCV-relevant sections only. Original length: 35000 chars → Filtered: 31457 chars (10.1% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. Country Context 
+ 
+1. 
+Ethiopia is a large and diverse country. It is located in the Horn of Africa and is land-
+locked with an area of 1.1 million square kilometers—about the size of France and Spain 
+combined. Ethiopia’s biophysical environment includes a variety of contrasting ecosystems, with 
+significant differences in climate, soil properties, vegetation types, agricultural potential, 
+biodiversity, and water resources. Ethiopia is a country of many nations, nationalities, and 
+people, with a total population of 91.7 million (2012).1 Only 17 percent of the population lives in 
+urban centers, with the great majority of them living in Addis Ababa. At a current annual growth 
+rate of 2.6 percent, Ethiopia’s population is estimated to reach 130 million by 2025, and is 
+projected by the United Nations (UN) to be among the world’s top 10 by 2050. Ethiopia is 
+vulnerable to terms of trade shocks from international food and fuel prices, and to large domestic 
+weather-related shocks, as the 2011/12 East Africa drought demonstrated. 
+ 
+2. 
+Ethiopia has experienced strong economic growth over the past decade. Economic 
+growth averaged 10.7 percent per year in 2003/04 to 2011/12, compared with the regional 
+average of 5.4 percent. This growth reflected a mix of factors, including agricultural 
+modernization, the development of new export sectors, strong global commodity demand, and 
+government-led development investments. Private consumption and public investment have 
+driven demand-side growth, with the latter assuming an increasingly important role in recent 
+years. On the supply side, growth was driven by an expansion of the services and agricultural 
+sectors, while the role of the industrial sector was relatively modest. More recently, annual 
+growth rates have declined slightly, but still remain at high single-digit levels. Growth in the 
+export of goods has also moderated in recent years, and a decline was observed in 2012/13 for 
+the first time since 2008/09. There have been bouts of high inflation in recent years and, while 
+inflation is currently much lower, keeping it down remains a major objective for monetary 
+policy. 
+ 
+3. 
+Ethiopia is one of the world's poorest countries, but has made substantial progress 
+on social and human development over the past decade. The country’s per capita income of 
+US$370 is substantially lower than the regional average of US$1,257, and is among the 10 
+lowest worldwide.2 Ethiopia is ranked 173 out of 187 countries in the Human Development 
+Index (HDI) of the United Nations Development Programme. However, high economic growth 
+has helped reduce poverty, in both urban and rural areas. Since 2005, 2.5 million people have 
+been lifted out of poverty, and the share of the population below the poverty line has fallen from 
+38.7 percent in 2004/05 to 29.6 percent in 2010/11 (using a poverty line of close to 
+US$1.25/day). However, because of high population growth, the absolute number of poor people 
+(about 25 million) has remained unchanged over the past 15 years. Ethiopia is among the 
+countries that have made the fastest progress on the Millennium Development Goals (MDGs) 
+and HDI ranking over the past decade. It is on track to achieve the MDGs related to gender 
+                                                          
+1 Source: United Nations. According to the Ethiopian Central Statistics Office, the population figure is 82.6 million. 
+2 Gross National Income, World Bank Atlas Method. 
+2 
+ 
+parity in education, child mortality, HIV/AIDS, and malaria. Ethiopia has achieved substantial 
+progress in universal primary education, although it may not meet the MDG target. The 
+reduction of maternal mortality remains a challenge. 
+ 
+4. 
+The Government of Ethiopia is currently implementing an ambitious Growth and 
+Transformation Plan (GTP) 2010/11–2014/15, which sets a long-term goal of becoming a 
+middle-income country by 2023, with growth rates of at least 11.2 percent per annum during the 
+plan period. To achieve the GTP goals and objectives, the Government of Ethiopia (GoE) has 
+followed a “developmental state” model with a strong role for the government in many aspects 
+of the economy. It has prioritized key sectors, such as industry and agriculture, as drivers of 
+sustained economic growth and job creation. The GTP reaffirms the GoE’s commitment to 
+human development. Development partners have programs that are broadly aligned with the 
+GTP priorities. 
+ 
+B. Sectoral and Institutional Context 
+5. 
+The use of statistical information for economic management in Ethiopia started in 
+the 1960s. In 1963 the Central Statistical Office (CSO) was founded with a mandate of 
+conducting regular statistical activities. The CSO reported to the Ministry of Planning and 
+Development, and later to the Planning Commission until 1989, with some reorganization in 
+between. In 1989, it was restructured to become the Central Statistical Authority, which was 
+initially accountable to the Council of Ministers and later to the Ministry of Economic 
+Development and Cooperation (MEDAC), then to the Ministry of Finance and Economic 
+Development (MOFED)3 The current statistical law passed on 20 April 2005 (Proclamation No 
+442/205) reestablished the CSA as an autonomous Federal agency reporting to MOFED.  
+6. 
+The National Statistical Development Strategy (NSDS) for Ethiopia covers the 
+period from 2009/10 to 2013/14. It succeeds the Medium Term Statistical Programme (MTSP) 
+for the CSA that ended in 2008, but it differs in scope. The NSDS covers statistical development 
+in the entire National Statistical System (NSS). The NSDS, developed through a participatory 
+process, has six interconnected strategic themes: (i) implementation of the statistics law, which 
+mainly pertains to the coordination of the NSS and establishment of appropriate organizational 
+units and standards; (ii) development of data quality procedures, which corresponds to the 
+development of data quality assessment framework (DQAF), coordinated by the CSA for the 
+NSS; (iii) enhancement of advocacy and use of statistics through promotion of a common 
+website for the NSS, and training of stakeholders; (iv) methodological improvements and 
+statistical modernization, which relates to identification and filling of data gaps and reduction of 
+duplication of surveys; (v) Capacity development in the NSS to meet the increased demand for 
+statistics, which involves investments that improve organizational arrangements, enhance 
+training and availability of skilled staff, encourage staff retention and reduce turnover, leverage 
+ICT for quick data capture and dissemination, provide additional space, furniture and appropriate 
+facilities for a conducive work environment and efficient operations; and (vi) relating the NSDS 
+to the Monitoring and Evaluation of PASDEP and other interventions such as MDGs. 
+                                                          
+3  Formerly Ministry of Economic Development and Cooperation (MEDAC) before September 2001.  
+3 
+ 
+7. 
+The CSA has two objectives: (i) to plan, collect, process, and disseminate statistical data 
+and (ii) to lead national coordination and provide technical guidance and assistance to 
+government agencies and institutions in building administrative systems and registers (see Figure 
+1). It is the principal collector, aggregator and disseminator of official statistics and the 
+coordinator of the National Statistical System (NSS)4. The CSA has a staff of almost 2500, of 
+which approximately 50 are managers, 380 are statisticians, 400 are technical and administrative 
+professionals, 1400 are support staff, and 250 logistical staff. Its annual budget (both capital and 
+recurrent) is about US$10 million, of which about 30 percent is for staff salaries and the rest for 
+surveys and operations (2012). This funding model of the CSA differs favorably from many 
+other statistical offices in Africa that usually fund staff salaries but do not provide budget for 
+conducting surveys. In view of government ownership and funding CSA has conducted a number 
+of surveys and censuses in the last few years. The CSA has also collaborated with national 
+government agencies and international development partners to build Ethiopia’s statistical 
+infrastructure. 
+Figure 1: Institutional Framework: CSA’s Current Mandate in Statistical Development 
+• ….plan, collect, produce and 
+disseminate statistics…
+Internal
+Since   its
+creation
+• …lead national coordination.. 
+and assist institutions…
+External
+Since 
+2005
+ 
+8. 
+The CSA’s 25 branch offices enhance data quality by ensuring the Agency’s 
+presence close to the enumeration areas. The branches allow easier provision of routine 
+supervision, and speedy resolution of field-level issues. This decentralized presence also 
+facilitates deployment of resident enumerators who update sampling frames and conduct 
+interviews at the convenience of the respondent.  
+ 
+ 
+ 
+                                                          
+4  The National Strategy for the Development of Statistics lists federal and regional government ministries departments and 
+agencies as well as research and teaching institutions and civil society organizations as NSS members. 
+4 
+ 
+Figure 2: International Comparison of NSOs Size 
+ 
+Source: Various Statistical Agencies 
+9. 
+The CSA is the leading organization in the NSS, with 25 branch offices and 72 percent 
+of its staff in the field. However, the NSS faces several institutional weaknesses and 
+organizational challenges. These were broadly identified in the National Strategy for 
+Development of Statistics (NSDS) and are summarized in three categories as follows (See Annex 
+6 for details):  
+ Weak institutional capacity within CSA and statistics-producing Government 
+ministries, departments and agencies (MDAs) to execute planned surveys, carry out in-
+depth analysis, regularly assess user needs, and disseminate statistical products and 
+services. Management of resources is also deficient, physical and IT infrastructure is sub-
+optimal, and staff salaries are low while statistical staff turnover is high. In light of the 
+fast expanding demand for statistics, CSA’s organization may have to be right-sized (e.g. 
+expanded by increasing the number of permanent statisticians). International comparisons 
+of NSOs size indicate that Ethiopia compares unfavorably with large federal states e.g. 
+Turkey and South Africa (i.e., 3.4 staff per 100,000 populations as opposed to 4.7 and 
+5.7, respectively) (see Figure 25). 
+ Data gaps due to incomplete sampling frames in some sectors, such as business statistics; 
+lack of data for some sectors such as mining, energy, construction and transport sectors; 
+                                                          
+5  Based on various sources and mission findings: Cambodia-National Statistics System Annual Report 2010; Ethiopia Central 
+Statistical Agency 2013; Kenya-KNBS Strategic Plan 2008-2012. Page 11; South Korea-Overview of KOSTAT (UNStat); 
+Malaysia.- Country Assessment Report. 2011. Agriculture Statistics System. Page 7. Working Draft; Rwanda-National 
+Institute for Statistics 2013; Senegal -Rapport Annuel d’activites 2010. Page 40; South Africa-Annual Report.  2011/2012. 
+Page 167; Tanzania-Annual Report. 2010/11. Statistical Master Plan. Page 20; Turkey-Strategic Plan 2012-2016. Page 51; 
+Uganda-Sector Strategic Plan for Statistics. 2007-2012. Page 7. It is important to note that cross country comparisons need to 
+be interpreted with caution as  NSO mandates, functions and settings vary across countries. For example, some NSOs handle 
+“national accounts” (e.g. Rwanda) while others do not (e.g. Ethiopia) making comparisons difficult. Also, some NSOs use ICT 
+while others handle all the data collection process manually. International comparisons are also affected by  basic information 
+gaps, especially on operational and human resource areas. 
+0.79 
+0.98 
+1.13 
+1.2 
+1.7 
+2.3 
+3.4 
+4.7 
+5.7 
+9.3 
+11.34 
+No. of Staff per 100,000 population
+5 
+ 
+little, or no, time series data in some areas to maintain consistency in results from year to 
+year; and lack of timeliness of data coming from some of the existing surveys. 
+ Coordination problems, as manifested by the lack of  a single database for statistics 
+produced by the ministries, which result in the duplication of efforts and contradictory 
+estimates from data producers on similar variables.  
+10. 
+The CSA and key MDAs need to improve their ability to produce timely and 
+reliable statistics, and build public trust in official statistics. In particular, the CSA needs to 
+establish itself as a leading producer, and provider, of cost-effective, timely and quality statistics. 
+There is also a need to strengthen the CSA’s physical and statistical capacity to carry out its 
+mission as the principal collector, aggregator and disseminator of statistics and the coordinator of 
+the NSS.  
+11. 
+ The NSDS proposes investments in data development, human capacity and physical 
+and transport infrastructure and logistics. However, while the design of the NSDS is 
+satisfactory in identifying challenges, it is weak on implementation. The World Bank and the 
+CSA identified the following 5 implementation priority areas that need institutional 
+strengthening6 (see Annex 6 for details): 
+ Organizational and infrastructure development 
+ Data development and management 
+ Methodological research and analysis 
+ Dissemination and statistical advocacy 
+ Monitoring and evaluation 
+ 
+12. 
+The GTP identifies sectoral targets and strategies to enhance economic growth and 
+achieve medium and long term objectives. The development strategy has also highlighted the 
+importance of data to track and monitor achievements of targets underlined in the Plan. The 
+Government of Ethiopia has committed itself to an agenda of results that require clear and 
+systematic measurement, monitoring, and evaluation of the achievement of outputs, outcomes, 
+and the impact of development policies and plan targets. Ethiopia’s national statistical system 
+(NSS) is charged with the responsibility of providing the information required to measure, 
+monitor and evaluate the development process. Data on various sectors of the economy are also 
+required to inform private sector investment decisions. In addition, the recent expansion in 
+higher learning institutions and graduate programs in the country will further increase the 
+demand for quality data and thereby increased the need for official statistical information. 
+C.  Rational for Bank Involvement  
+13. 
+The proposed project is consistent with the Ethiopia Country Partnership Strategy 
+(CPS, Report no.71884-ET) which was discussed by the Executive Directors on September 
+                                                          
+6  These five areas represent the most urgent and immediate priorities of the unfunded NSDS priorities (identified in the mid-
+term review of the NSDS); it is envisaged that the SFR Project and the establishment of the National Partnership Group (NPG) 
+for Ethiopia would be able to trigger additional funding from government and development partners alike. 
+6 
+ 
+25, 2012. The strategy for Ethiopia notes the importance of strengthening the statistical capacity 
+of the CSA to produce data in order to measure the impacts of its interventions.  
+14. 
+The project will also allow the CSA and the World Bank to further strengthen 
+ongoing collaborative surveys. The Bank has already made investments in the CSA at different 
+times over the last few years. The World Bank has directly partnered with the CSA to implement 
+surveys and statistical capacity building activities. For example, recently completed and on-
+going collaborations between the World Bank and the CSA include the following: Rural 
+Investment Climate Survey, Productive Safety Net Program, Protection of Basic Services, and 
+Ethiopia Rural Socioeconomic Survey. In addition, the World Bank has assisted the CSA 
+through other government agencies and international research organizations to help implement 
+large surveys such as the Welfare Monitoring Survey, the Sustainable Land Management Survey, 
+and the survey component of the Agricultural Growth Program.  
+15. 
+The World Bank’s support to statistical capacity-building in Ethiopia follows the 
+principles of the Statistics for Results Facility Catalytic Fund (SRF-CF). The SRF-CF seeks 
+to guide the support programs through a National Partnership Group (NPG) and to base 
+statistical capacity building on the priorities identified in the NSDS. In fact, the SRF is aiming to 
+close some of the funding gaps currently in the NSDS implementation plan, address capacity 
+gaps highlighted by the NSDS, and leverage additional financing through partners to meet CSA 
+needs. The World Bank also encourages the government, where possible, to use some of its IDA 
+credits towards this statistical purpose. This is of particular importance to ensure long-term 
+sustainability in the National Statistical System.  
+D. Higher Level Objectives to which the Project Contributes 
+16. 
+Achieving the goals of the GOE’s Growth and Transformation Plan (GTP) and the 
+Millennium Development Goals (MDGs), and facilitating the Post-2015 MDG Agenda 
+Setting will be supported. Improvements in the quality, relevance and timeliness of priority 
+statistics will contribute to more effective development policy by: (1) providing the basis for 
+monitoring and evaluating the Government’s GTP7 and for tracking the progress of MDGs, and 
+(2) by providing feedback to policy-makers and citizens on the effectiveness of public policy and 
+the use of public resources. It will also help policy makers in preparing reports that can facilitate 
+post-2015 MDG agenda planning. The proposed Statistics for Results (SFR) project is closely 
+related to the goals outlined in the 2013-2016 Country Partnership Strategy (CPS) of Ethiopia.  It 
+is designed to support the NSDS, which is expected to provide the relevant indicators to be used 
+in formulating, updating, monitoring and evaluating the strategies and targets of the country’s 
+social and economic development programs. The CPS Result Framework is aligned to the GTP 
+framework. Thus, strengthening the national statistical system would greatly improve the 
+indicators and data used for monitoring performance under both this framework and the CPS.  
+17. 
+Furthermore, the proposed operation will directly support the objectives of 
+improving governance and public sector capacity in Ethiopia, which forms the foundation 
+of the World Bank Africa Regional Strategy (2011). It is expected that enabling appropriate 
+                                                          
+7  GTP sets out the country’s objectives, priorities and major policies to be implemented during 2009-2014. 
+7 
+ 
+data to be readily available and accessible to users will improve governance. The Ethiopia SFR 
+project is also designed to support the capacity building efforts of the CSA and other related 
+National Statistical System agencies at the federal and regional levels (e.g. training in statistical 
+systems). Given the fundamental nature of statistics in the economy, the Project will indirectly 
+contribute to the two pillars of the World Bank Africa Regional Strategy: competitiveness and 
+resilience. It will contribute to competitiveness via trade data and data obtained from business 
+enterprise-based censuses/surveys; and to resilience through statistics obtained from household-
+based censuses/surveys and from pilot vital statistics development programs. 
+18. 
+Supporting World Bank Goals of Reducing Extreme Poverty and Promoting Shared 
+Prosperity, and Fulfilling IDA Priorities would be the main areas of the project’s focus.. 
+Support for the improvement of national statistical capacity and data quality in Ethiopia is 
+consistent with the focus on measureable results in the recently-approved World Bank goals 
+(May 2013): (a) end extreme poverty: decreasing the percentage of people living with less than 
+$1.25 a day to no more than 3 percent globally by 2030; and (b) promote shared prosperity: 
+foster the income growth of the bottom 40 percent of the population in every country. Also, 
+support for statistical capacity development is consistent with the focus on results measurement, 
+as agreed during the IDA15 and IDA16 replenishments and already highlighted as a key element 
+of IDA17 programs. Specifically, the negotiations for the IDA15 and IDA16 replenishments 
+emphasized the importance of management for development results and the central role that 
+national statistical systems have in this process, and therefore encouraged IDA to support client 
+countries in its efforts to improve results-based management. The IDA17 seeks to support the 
+post-2015 MDG agenda, among other programs. In addition, the Bank’s support to the NSDS 
+program is also in line with the Statistics for Results Facility Catalytic Fund (SRF-CF) that aims 
+to provide support to developing countries—such as Ethiopia —to help them improve their 
+statistical capacity. Ethiopia met all of the Statistics for Results Facility Catalytic Fund (SRF-CF) 
+requirements. The SRF Council approved Ethiopia’s application on January 11, 2013. 
+19. 
+Institutional readiness and evidence-based decision-making culture would be 
+promoted by the proposed project. The program will improve the data needed to support an 
+evidence-based planning and decision-making culture. When data are uncertain or unreliable, or 
+when users lack confidence in the institutions that produce them, decision-makers tend to base 
+decisions on their assumptions about the world and the prevailing ideology. This creates an 
+environment where strategies and plans are devised and implemented without attention to 
+empirical evidence and with weak monitoring and evaluation practices. This in turn further 
+emphasizes the importance of promoting of demand for data by providing users with relevant, 
+reliable and timely data, and the tools to interpret them. The project will focus on making 
+statistical data easier to find and use, and to equip both public and private users with the 
+necessary tools for basing decisions on facts.  
+20. 
+ Strengthening governance and accountability will improve outcomes. Reliable, 
+relevant and freely-accessible information is an important building block of an open and 
+democratic society with a transparent and accountable government. The project will improve the 
+relevance, timeliness and reliability of data, and strengthen the analysis and use of statistics by 
+increasing awareness, improving engagement with public and private data users, and 
+8 
+ 
+strengthening the analytical and dissemination capacities of statistical service providers. The 
+project will also support implementation of the GOE’s ICT initiatives.
+
+A. Project Development Objective (PDO) 
+21. 
+The objective of the proposed project is to enhance the capacity of the Central Statistical 
+Agency (CSA) at the organizational, human, and physical levels in order to produce and 
+disseminate reliable, accessible, and timely statistics. This will be achieved through 
+modernization of the CSA’s organizational and data development capabilities and infrastructure 
+at headquarters and select branch offices, as well as through improvement of the data 
+management capabilities of key Ministries, Departments, and Agencies (MDAs) in the National 
+Statistical System (NSS). The target users and beneficiaries of the project would be both the 
+government and the general public and stakeholders. 
+B. Project Beneficiaries 
+22. 
+The World Bank Project will support part of the overall GOE program: The NSDS, 
+including modernization of the CSA. Key producers and users of statistics in National 
+Statistical System (NSS) of Ethiopia are the main beneficiaries. They include: (i) the Central 
+Statistical Agency (CSA); (ii) the Ministry of Finance and Economic Development (MOFED) 
+and select Ministries Departments and Agencies (MDAs), Regional Governments and City 
+Administration Authorities; (iii) Parliament (iv) judicial branch authorities; (v) policy makers 
+and planners in the public and private sectors, including civil society organizations; (vi) 
+researchers, associations and academia; (vii) international, regional, and global organizations and 
+entities; and (viii) members of the general public, who will also benefit from better and faster 
+access to information.  
+C. PDO Level Results Indicators 
+23. 
+The project development objective will be assessed by the quality and timeliness of 
+statistical products and services produced by the Central Statistical Agency (CSA). The 
+main outcomes will be improvements in the availability and reliability of statistical information 
+for effective policymaking, good governance, and the design and monitoring of programs and 
+policies. This will be measured by the following results indicators 8: 
+(i) 
+Reliability and Quality: The CSA applies internationally-accepted statistical techniques 
+and ICT applications in the collection, compilation and authenticity verification of data, 
+and validates data sources and statistical products in select Ministries, Departments and 
+Agencies (MDAs). 
+(ii) 
+Timeliness: Timeliness and increased frequency of publication for key statistics in line 
+with national standards as agreed upon by CSA and MDAs. 
+                                                          
+8  These were re-confirmed during negotiations.  
+9 
+ 
+(iii) 
+Access: Data readily available to users through Open Data Portal and eCSA Program on 
+Wheels.
+
+A. Project Components 
+24. 
+The project has four components described ahead. The project components are 
+designed to support the implementation of activities drawn from these strategic themes of the 
+NSDS9, namely: (a) enhancing advocacy and use of statistics; (b) methodological improvements 
+and statistical modernization; and (c) capacity building (organization and infrastructure) in the 
+NSS. The project’s design takes into account the findings of the NSDS mid-term review and 
+plans to support development of the NSDSII (2015-2018). These components are briefly 
+described below.  
+25. 
+Component 1: Organizational and Infrastructure Capacity Development in the NSS 
+(US$ 4.9 Million): Support to improve organizational performance, staff productivity, and data 
+accessibility by strengthening planning and physical infrastructure at the CSA. 
+26. 
+The component aims to improve organizational performance, staff productivity and data 
+accessibility by strengthening planning, training and physical infrastructure at the CSA, as per 
+the findings of NSDS mid-term review, Central Statistical Office Business Process 
+Reengineering (CSA-BPR), CSA Space Audit and other reviews. 
+27. 
+Sub-Component 1.1. Organizational Strengthening: This sub-component aims at 
+enhancing institutional management and logistical capacity at the CSA. The project will, 
+therefore, support the following activities: (i) strategic planning and visioning exercises for the 
+introduction of improved management and administration systems in the CSA, and provide 
+technical assistance to strengthen the national account statistics   (ii) upgrade of office space at 
+the headquarters to conduct training for CSA and NSS staff and provision of furniture and 
+equipment in headquarters ; (iii) executive development training, peer-to-peer learning and 
+knowledge sharing with sister institutions for CSA and NSS stakeholder staff.  
+28. 
+Sub-Component 1.2. Physical Infrastructure: This sub-component aims at enhancing 
+staff productivity in the CSA by improving working conditions. The project will, therefore, 
+support: (i) construction and furnishing of 4 of the 25 branch office buildings that the CSA has 
+planned to build in the next few years to introduce new work methods, organizational design and 
+IT systems . Potential locations for branch office construction include Ambo, Hawassa, Mekele, 
+and Bahir Dar. Selection criteria and other requirements, including sequencing, have been 
+outlined in the ESMF, which was disclosed on the CSA website and Bank InfoShop on February 
+13 and February 14, 2014, respectively. Model office designs have been prepared and are 
+available in project files. 
+29. 
+Sub-Component 1.3. ICT Infrastructure, Systems and Tools for Data Production and 
+Management: The objective of this sub-component is to modernize data collection, data entry, 
+                                                          
+9  As noted above in Section B paragraph 8. NSDS detailed description also provided in Annex 6. 
+10 
+ 
+data storage, data analysis, and dissemination capacity in the CSA. This will be accomplished 
+through provision of a data-center, video conferencing equipment and infrastructure, and the 
+latest survey technology and institutional management tools. The project will, therefore, finance 
+(i) procurement and installation of data center and video conferencing infrastructure ; (ii) 
+procurement of computers, laptops, tablets, iPads, and relevant hardware and software 
+accessories, and (iii) training activities for the use of modern technologies (e.g. GPS, 
+eCartography, eMapping, eSurveying, Infographics), computer-assisted personal interviewing 
+(CAPI), and computer-assisted telephone interviewing (CATI) and other data collection, analysis 
+and dissemination techniques and applications. The ICT sub-component would provide 
+technological interface and support for the implementation of Component 2, which is aimed at 
+enhanced data production; and Component 3, which is aimed at data quality assurance; and open 
+data dissemination (see below). 
+30. 
+Activities in Component 1 are in close alignment with other ongoing capacity 
+development initiatives in the area of ICT in support for the CSA’s work in collaboration with 
+World Bank and other development partners. According to the NSDS mid-term review, support 
+for organizational strengthening and infrastructure upgrading are considered critical for 
+sustainable capacity improvement of the CSA and the overall NSS development. Only limited 
+building infrastructure needs are being addressed under this component (i.e., construction of 4 or 
+5 out of 25 planned offices nationwide). It would therefore be useful for the CSA to explore 
+other financing options to fund additional facilities once this project is sufficiently advanced, and 
+model CSA offices are constructed and made operational, and when SFR Project implementation 
+rating is satisfactory or higher. 
+31. 
+Component 2: Statistical Data Development and Management (US$ 1.5 million): 
+Support to strengthen the quality of statistical data production, compilation, and validation, 
+including preparatory activities and technical assistance to help undertake selected NSDS 
+priority surveys. 
+32. 
+This component will support activities to strengthen the quality of data produced, 
+following internationally-accepted standards and methodologies in data collection, compilation, 
+and validation. It will also support some preparatory activities, including sampling frame 
+development, training, workshops, purchase and piloting of modern tools, and other technical 
+assistance and logistical vehicles to help undertake some of the agreed-upon NSDS priority 
+surveys. Data development activities would potentially inclu

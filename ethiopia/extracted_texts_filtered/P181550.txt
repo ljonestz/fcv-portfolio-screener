@@ -1,0 +1,799 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 51748 chars (26.1% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. 
+Country Context 
+ 
+1. 
+Ethiopia, a large and diverse country with a population estimated at 109 million, is experiencing 
+profound political and economic change. Prime Minister Abiy Ahmed came to power in April 2018 during 
+Ethiopia’s worst political and social crises in decades, which had forced the Government to declare a state 
+of emergency twice in three years. Since his appointment, the Prime Minister has signed a peace 
+agreement with Eritrea and reopened the border following two decades of conflict, for which he received 
+the Nobel Peace Prize. The administration has opened new political space for dialogue, released political 
+prisoners, lifted bans on political parties and media outlets, actively engaged in regional diplomacy, and 
+announced a range of economic reforms designed to revitalize the Ethiopian economy by expanding the 
+role of the private sector. Given Ethiopia’s size and location, this shift has transformed the economic and 
+political landscape in the Horn of Africa.  
+2. 
+The country has been one of the world’s fastest-growing economies over the past ten years, 
+making important strides in poverty reduction, but significant progress remains to be made. Gross 
+domestic product (GDP) grew at an average annual rate of approximately 10 percent between 2007 and 
+2019, and this strong growth translated into substantial poverty reduction, with the share of the 
+population living in extreme poverty decreasing from 37 percent in 2005 to 23.5 percent in 2016 (Ethiopia 
+Household Consumption Expenditure Survey, HCES). Human development outcomes also improved from 
+a low base. However, despite the progress made, Ethiopia remains among the world’s poorest countries 
+with an annual per capita income of US$740 in 2017, with low human development, reflected in a score 
+of 0.38 on the World Bank’s Human Capital Index.  
+3. 
+The outbreak of the Coronavirus Disease 2019 (COVID-19) pandemic is seriously threatening 
+Ethiopia’s gains in growth and poverty reduction, with urban areas affected the most by the resulting 
+economic slowdown. The Government of Ethiopia (GoE) declared a state of emergency under Article 93 
+of the constitution on April 8, 2020. Since then, the spread of COVID-19 has accelerated in Ethiopia and 
+negative economic impacts are increasing rapidly. As of the end of August 2020, the country is hitting daily 
+highs in reported COVID-19 cases (over a thousand). The economic and social impact of COVID-19 in 
+Ethiopia is expected to be significant and prolonged, and authorities are facing an unanticipated financing 
+gap of 1.5 percent of GDP (about US$1.5 billion) in FY21. More than half of recently surveyed households 
+reported their incomes were either reduced or had totally disappeared. There are additional challenges 
+of unemployment, as more people, particularly in urban areas, are losing jobs, as well as food security, 
+increasing the need to expand safety nets. Over the next three months, an estimated 1.4 million jobs, 
+accounting for 19 percent of current employment, are threatened due to the crisis. The worst of the 
+COVID-19 crisis seems yet to come, both on the health and economic fronts, and authorities do not have 
+enough funding for the warranted expansion of safety nets and employment support. 
+4. 
+Although agriculture remains the largest source of employment, the Ethiopian economy has 
+seen a structural transformation toward industry and services, but the contribution of the 
+manufacturing sector to GDP and employment remains weak. Public investment, particularly in 
+construction, has been the principal driver of Ethiopia’s recent economic growth. Construction 
+contributed over 20 percent of Ethiopia’s GDP in 2017–18. The output shares of different sectors of the 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 121 
+  
+ 
+Ethiopian economy have changed dramatically over the past 20 years. Agriculture remains important with 
+an employment share of approximately 74 percent,1 but its share of total economic output has decreased 
+from 66 percent in 1991 to just under 35 percent in 2018. In contrast, the service and industry sectors’ 
+shares of total output have increased to about 39 percent and 27 percent, respectively. Growth in the 
+services sector has helped absorb a rapidly growing labor force and boosted labor productivity. Given the 
+importance of the manufacturing sector in ensuring sustained growth in developing countries, Ethiopia 
+has invested in the development of industrial parks and export-oriented light manufacturing. However, 
+Ethiopia’s manufacturing is still far from being an engine of economic transformation, as it contributes 
+just under 6 percent of GDP and its share in employment remains very low. 
+5. 
+Ethiopia is undergoing significant demographic and spatial transitions with large projected 
+increases in working-age population combined with rural-to-urban migration, and sustainable job 
+creation has emerged as a key policy challenge. On the demographic side, the working-age population is 
+projected to grow from 54.7 million in 2015 to 74.8 million by 2025 and 85.3 million by 2030, an average 
+increase of over 2 million a year. At the same time, the country is urbanizing fast from a low base. The 
+urban population is expected to grow from an estimated 22.8 million in 2019 to 31 million by 2025 and 
+39.3 million by 2030. These twin transitions will significantly affect urban labor markets already 
+characterized by high levels of unemployment. Resources available for the provision of social services and 
+support to the urban will also get further strained. Less educated youth face the highest unemployment 
+rates in urban Ethiopia owing to limited experience as well as social and financial capital, and it is precisely 
+this demographic that is expected to grow rapidly owing to the twin transitions. A defining challenge for 
+Ethiopia, therefore, will be to integrate the fast-growing youth population into the urban labor market.  
+6. 
+Ethiopia is one of the most vulnerable countries to climate variability and change due to its high 
+dependence on rain-fed agriculture and natural resources and its low adaptive capacity to deal with 
+these expected changes. Additional challenges include the underdevelopment of water resources, low 
+health service coverage, a high population growth rate, low economic development, inadequate road 
+infrastructure in drought-prone areas, weak institutional structures, and lack of awareness. Ethiopia has 
+frequently experienced extreme events like droughts and floods and other climate-related hazards, in 
+addition to rainfall variability and increasing temperature, which contribute to adverse impacts to 
+livelihoods. Future climate variability and changes are expected to worsen these conditions, potentially 
+accelerating already high levels of land degradation, desertification, recurrent floods, and water scarcity. 
+Without appropriate planning and further support to climate adaptation, these irregularities may disrupt 
+economic activity and increase fiscal risks. 
+7. 
+Ethiopia has the third largest refugee population in Africa, hosting 733,125 refugees.2 Ethiopia 
+has a long-standing history of hosting refugees and asylum seekers over several decades. Refugees are 
+mainly from South Sudan, Somalia, Eritrea, and Sudan. Ethiopia is one of the most camp-reliant countries 
+with the majority of refugees residing in 26 camps across five regional states (Gambella, Somali, Tigray, 
+Benishangul-Gumuz, and Afar). Several refugee camps (for example, Kebribeyah camp and Sherkole 
+camp) are located near urban centers. Close to 28,000 refugees reside in the capital city of Addis Ababa. 
+The country has both protracted and recent refugee situations, with a large number of Somali refugees 
+living in Ethiopia for more than 25 years while others mostly South Sudanese in Gambella arriving at end-
+ 
+1 World Bank. 2017. Ethiopia Employment and Jobs Study. 
+2 Based on end-2019 numbers (United Nations High Commissioner for Refugees [UNHCR] Global Trends 2019).  
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 121 
+  
+ 
+2017. Refugees are much poorer than host community households, with every two in three refugees living 
+in poverty.3 An overwhelming proportion of refugees are dependent on humanitarian assistance (cash 
+and/or in-kind) as a result of restricted labor participation and lack of employment opportunities.  
+B. 
+Sectoral and Institutional Context 
+ 
+The Social Protection Sector 
+8. 
+Social protection has played a key role in Ethiopia’s reduction in poverty in recent years and is 
+a critical component of the country’s long-term development strategy, as articulated in the second 
+Growth and Transformation Plan 2016-20. The country’s National Social Protection Policy (NSPP) from 
+2014 and the accompanying strategy and action plan for the sector have charted a significant expansion 
+of social protection to cover a larger proportion of the population and a wider range of risks, thereby 
+ensuring that Ethiopia’s strong economic performance is accompanied by a sustained reduction in poverty 
+and vulnerability. The GoE recognizes the contribution of social protection to the development goals of 
+the country and commits substantial human and financial resources to maximize the reach of such 
+programs to its poorest and most vulnerable citizens. The NSPP includes five focus areas with most 
+resources invested in the first area: (a) productive safety nets; (b) employment promotion and livelihood 
+support; (c) social insurance; (d) access to basic services; and (e) addressing abuse, violence, and 
+exploitation. Focus area 1 accounted for 71.4 percent of social protection spending between 2012/13 and 
+2015/164 and is financed predominantly by external sources. Today, the GoE is aiming at financing about 
+one-third of the social protection expenditures.  
+9. 
+Being a priority sector for the Government, the country has an extensive landscape of safety 
+net programs in both rural and urban areas. Ethiopia has one of Africa’s largest and oldest rural safety 
+net programs, the rural Productive Safety Net Program (PSNP, supported by the Productive Safety Net 
+Project 4 (P146883) and the Rural Productive Safety Net Project (P163438)), which was established in 2005 
+as a scalable rural safety net and today covers upward of eight million people. Its cash for work approach, 
+based on multi-year landscape management planning, is being emulated the world over. The Urban 
+Productive Safety Net Program (UPSNP) was created in 2016 and is serving over 600,000 urban poor and 
+destitute. Furthermore, the country has developed a community-based health insurance, which includes 
+more than five million beneficiaries and is partially covering urban and rural safety net beneficiaries. These 
+significant and large investments in the country’s poor and vulnerable populations are supported by a 
+diverse group of development partners including multi- and bilateral donors as much as United Nations 
+(UN) and humanitarian agencies.  
+10. 
+Social service provision is rather limited, leaving significant portions of the elderly, disabled, 
+and homeless vulnerable. While only about 5 percent of the population is above the age of 60, Ethiopia’s 
+elderly are vulnerable to poverty, food insecurity, and limited access to social and health services. 
+Furthermore, 15 million people in the country have mental or physical disabilities, an overwhelming 
+majority of whom live in poverty. The traditional care and support system that the elderly and disabled 
+rely upon is often no longer able to provide support due to urbanization, migration, and changes in social 
+ 
+3 World Bank. 2017. “Ethiopia Survey on Skills Profile of Refugees and Host Communities.”  
+4 OECD (Organisation for Economic Co-operation and Development). 2019. Financing Social Protection in Ethiopia: A Long-term 
+Perspective. 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 121 
+  
+ 
+structure. In addition, homelessness and destitution are significant challenges in Ethiopia’s urban 
+landscape. Estimates of homelessness vary from 150,000 to 600,000 people, and it is estimated that there 
+are approximately 88,000 destitute in the eleven UPSNP cities a significant proportion of whom are 
+children in street situations. Spending on social welfare programs has been largely dependent on 
+community contributions, UN and humanitarian agencies, and nongovernmental organizations (NGOs). In 
+recent years, however, there is a growing effort by the GoE and city municipalities to invest in social 
+services for particularly vulnerable groups. There is an urgent need to expand social protection services 
+to these groups. 
+11. 
+The UPSNP was designed to address urban poverty and has been successfully implemented in 
+11 major cities. Given the accelerated growth and growing opportunities in urban areas, the program has 
+a strong focus on economic integration while helping selected households stabilize their income over 
+three years. The project is implemented in 11 cities including Addis Ababa where 75 percent of the 
+activities are implemented. The UPSNP includes (a) Cash-for-Work Program with monthly cash payments 
+over three years; (b) Livelihoods Grants to promote self-employment and wage employment; (c) 
+Permanent Direct Support (PDS) cash transfers for labor-constrained households (elderly, disabled, and 
+pregnant and lactating mothers); (d) Services for Urban Destitute (homeless) with the objective of social, 
+economic, and educational reintegration of homeless children and adults; and (e) Institutional 
+Strengthening and Project Management. The program has been successfully scaled up and reaches 
+600,000 beneficiaries, about 60 percent of whom are women. A total of 152,703 bank accounts have been 
+opened for previously financially excluded households, and beneficiaries have already saved US$8.7 
+million. The midline impact evaluation shows that public works beneficiaries have increased their incomes 
+and savings, improved mental health, and improved children’s human capital development (for more 
+details on the impact of the UPSNP, see annex 5).  
+12. 
+In response to the COVID-19 pandemic and economic downturn, both the rural and urban PSNPs 
+adapted their modalities and are expanding their coverage. Both programs, together covering over 8.5 
+million Ethiopians, suspended the public works requirement to adhere with social distancing practices, 
+making cash payments to all beneficiaries without any conditionalities. The UPSNP also advanced the 
+payments for three months in one single payment. Furthermore, both programs increased the level of 
+benefit starting in August 2020, to account for food price increases. While the rural PSNP plans to expand 
+the coverage of beneficiaries in rural hot spot areas that are particularly affected by the virus, the UPSNP 
+is planning to set up a Temporary Income Support Program, targeting the urban poor who have lost their 
+jobs and livelihoods due to the COVID-19 situation with temporary cash transfers.  
+Ethiopia’s Refugee Situation 
+13. 
+The GoE maintains an open-door policy to refugees. Ethiopia is a state party to the 1951 
+Convention and the 1967 Protocol relating to the Status of Refugees.5 It has also ratified the 1969 
+Convention Governing the Specific Aspects of Refugee Problems in Africa. The Agency for Refugees and 
+Returnees Affairs (ARRA), currently housed under the Ministry of Peace, is a designated government body 
+overseeing day-to-day refugee status with the support of the UNHCR and other humanitarian partners.  
+ 
+5 Ethiopia ratified the 1951 Convention and the 1967 Protocol with reservations to Articles 17, 18, and 19 (the right to work), as 
+well as Article 22 (the right to education), which it recognizes as recommendations rather than legally binding obligations. 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 121 
+  
+ 
+14. 
+The GoE has articulated its progressive approach toward a more comprehensive refugee 
+response. During the 2016 Leaders' Summit, the then Prime Minister committed to nine pledges to start 
+operationalizing this vision, subject to the availability of external resources. Ethiopia became one of the 
+first countries to implement the Comprehensive Refugee Response Framework (CRRF). More recently, the 
+GoE made additional pledges during the first Global Refugee Forum in December 2019, which include the 
+(a) creation of up-to 90,000 socioeconomic opportunities through agricultural and livestock value chains 
+that benefit both refugees and host communities, (b) provision of quality and accredited skills training to 
+20,000 hosts and refugees on an equitable basis, (c) provision of market-based and sustainable household 
+and facility-based energy solutions for 3 million hosts and refugees, and (d) strengthening of the GoE's 
+asylum system and social protection capacity.  
+15. 
+Since Ethiopia became eligible for the IDA18 Regional Sub-Window in 2017, the GoE made 
+significant progress in promoting sustainable management of refugee situations. The GoE recognized 
+the need for significant revisions to its 2004 refugee law and enacted a new Refugee Proclamation (No. 
+1110/2019) in February 2019. The legislation creates an enabling legal and protection environment to 
+promote self-reliance for refugees, including freedom of movement, rights to work, and access to basic 
+services such as education and health. In December 2019, ARRA, in partnership with the UNHCR, finalized 
+a series of directives, one of which outlines the implementation of rights to work for refugees. The GoE is 
+also finalizing a 10-year National Comprehensive Refugee Response Strategy (NCRRS). The NCRRS, which 
+is currently tabled for approval by the Council of Ministers, will be a guiding document for a whole-of-
+government approach enhancing self-reliance and resilience for refugees and host communities. The 
+ongoing IDA18 Regional Sub-Window financed Economic Opportunities Program (P163829) contributes 
+to the enactment of the proclamation. The program continues to support the GoE with its implementation 
+of the proclamation and ARRA’s capacity to continuous refugee protection services. The GoE plans to 
+continue this approach with the aim of sustainably managing refugee situations with a medium-term 
+perspective. The Government continues to focus on (a) gradually providing out-of-camp opportunities for 
+the socioeconomic integration of refugees (for example, freedom of movement, work permits, skills 
+development, and jobs), (b) improving living standards for host communities (economic opportunities and 
+services), (c) building human capital among refugees (including education and health/nutrition), and (d) 
+transitioning away from humanitarian aid where relevant.  
+16. 
+The World Bank, following consultation with the UNHCR, confirms that the protection 
+framework for refugees continues to be adequate in Ethiopia. To date, Ethiopia has no history of 
+systemic or systematic refoulement or denial of access to territory and has practices broadly consistent 
+with the international refugee protection standards.  
+Urban Labor Markets and the Jobs Agenda 
+17. 
+Urban poverty reduction has accelerated in the recent years, owing in part to improved labor 
+market outcomes, but some of this progress may be reversed by the COVID-19 pandemic. Urban poverty 
+dropped from 26 percent in 2011 to 15 percent in 2016 (the corresponding drop in rural poverty was 30 
+percent to 26 percent). This has been driven, in part, by improved labor market outcomes and fairly stable 
+food prices. Between 2011 and 2016, urban labor force participation increased, and unemployment 
+decreased, indicating strong job growth. The number of employed people in urban areas increased from 
+4.5 million in 2011 to 7 million by 2016. Since then, however, youth unemployment in urban areas 
+increased from 22 percent in 2016 to 26 percent in 2020, likely a reflection of limited recruitment by firms 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 121 
+  
+ 
+in the face of social and political unrest. Overall, job growth has not kept up with the fast urban population 
+growth (estimated at 5.4 percent per year). The absolute number of unemployed people in urban areas 
+increased from 1.1 million in 2010 to 1.8 million in 2018.6  
+18. 
+In contrast to many low-income countries, wage employment dominates Ethiopia’s urban labor 
+market. Overall, wage employment accounted for 55 percent of employment in 2018, compared to 41 
+percent for self-employment. Wage employment rates are the highest in Addis Ababa at 67 percent, with 
+other smaller cities having higher rates of self-employment. While increased engagement in and returns 
+to self-employment have driven a fair share of urban poverty reduction since 2011, wage employment 
+remains strongly correlated with higher living standards. Households with a wage-employed head have 
+significantly lower poverty rates (below 10 percent) than the overall urban population (15 percent).  
+19. 
+Young people, women, and the less-educated face significant disadvantages in Ethiopia’s urban 
+labor markets. Over 30 percent of youth ages 18 to 24 years in urban Ethiopia are unemployed, compared 
+to the overall unemployment rate of 19 percent. Unemployment rates decrease sharply with age, 
+highlighting the importance of initial work experience, which simultaneously is important and difficult to 
+obtain. Of all the unemployed young people ages 18–25 years in urban Ethiopia, over 63 percent have 
+never worked before, and this demographic tends to stay unemployed for a long time, creating the risk of 
+persistent scarring effects on longer-term employment and earnings.7 Detailed data on firms and workers 
+in Ethiopia’s formal labor market from 2011 to 2018 suggest high rates of worker turnover, particularly 
+among younger workers due to firings or voluntary separations highlighting the importance of matching 
+frictions in the labor market. The low quality of job matches in the urban labor markets may be driven at 
+least in part by the difficulty young job seekers face in signaling their abilities and skills to prospective 
+employers. Women face additional constraints to accessing the labor market including gender norms, 
+occupational segregation, and limited mobility, resulting in an unemployment rate of 26.4 percent, more 
+than double that for men (12.2 percent). Unemployment rates also vary by education levels, with college 
+graduates facing the lowest unemployment rates (14 percent) and secondary school educated making up 
+almost 70 percent of the unemployed population. Improving urban living standards and reducing poverty 
+therefore require a more inclusive labor market through the design of interventions and policies aimed at 
+addressing the specific constraints faced by the youth, women, and the less educated. 
+20. 
+The GoE is increasingly focusing on the country’s job creation agenda as a complement to social 
+protection and recently set up the JCC under the Prime Minister’s Office to this effect. In the past, the 
+Government support for job creation primarily focused on micro, small, and medium enterprises (MSMEs) 
+development and cooperative support in the agricultural sector. Further, most beneficiaries of 
+government job creation initiatives were university graduates with relatively low levels of unemployment. 
+More recently, the GoE has established a Youth Revolving Fund, aimed at providing capital to groups of 
+unemployed youth who are willing to start collective businesses. The GoE also set up the JCC which seeks 
+to coordinate, innovate, and promote job creation in the country, with a strong public-private partnership 
+approach. Several development partners, including the World Bank, are supporting the JCC in its efforts. 
+The GoE is also advancing the job creation agenda through industrialization policies, urban and rural job 
+creation schemes, and broader economic reforms which are also supported by the World Bank. The 
+proposed Urban Productive Safety Net and Jobs Project (UPSNJP) plays a significant role in these efforts 
+ 
+6 All numbers are based on the Urban Employment and Unemployment Surveys conducted by the Central Statistics Agency.  
+7 In 2018, unemployed 18–25-year-olds had been unemployed for an average of 39 months (median of 24 months). 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 121 
+  
+ 
+as it provides a pathway to economic inclusion for the poorest and addresses gaps in youth 
+unemployment and job search.  
+21. 
+Under the leadership of the JCC, the GoE has approved the National Plan for Job Creation 2020–
+2025. The National Plan for Job Creation proposes holistic interventions to solve the employment and job 
+creation challenges and provides a new vision of employment in Ethiopia. The plan aims to foster the 
+business environment and conditions necessary to create 14 million jobs by 2025, to absorb the currently 
+unemployed, and to ensure that jobs are waiting for new entrants to the labor force. The plan has been 
+developed through an important and lengthy dialog with relevant stakeholders from the public and 
+private sectors. A primary consideration in drafting the new National Plan for Job Creation has been an 
+important paradigm shift from state-led to private sector-led growth. The six main strategic pillars of the 
+plan are (a) adopting job-rich macro policies, (b) building a vibrant local private sector by revamping the 
+current support to MSMEs, (c) developing human capital to meet the changing needs of the labor market, 
+(d) strengthening labor market intermediation and links, (e) improving the inclusiveness of the labor 
+market by providing targeted services to populations excluded from the labor market, and (f) realizing the 
+job creation potential of prospective high-yield sectors. 
+22. 
+The landscape of job-related services is fragmented with public employment agencies having 
+limited capacity, and the GoE intends to streamline the jobs agenda institutionally. Jobs search services 
+are provided by multiple agencies, including the Ministry of Urban Development and Construction 
+(MoUDC), the Ministry of Labor and Social Affairs (MoLSA), the Ministry of Agriculture (MoA) through its 
+Department of Rural Job Creation, and the JCC. Public employment service provision is coordinated within 
+the Federal Ministry and Regional Bureaus of Labor and Social Affairs (BoLSAs) as well as certain other 
+public agencies. These agencies provide free services to both employers as well as job seekers but lack 
+the capacity for effective service delivery. Shortages in human and financial resources as well as a lack of 
+information technology (IT) tools and clear processes to establish links with the private sector have 
+hindered their functioning. An estimated 73 percent of the unemployed lack information about both 
+vacancies as well as government services that can provide relevant information. Private employment 
+agencies have had greater success in job placements but have limited reach and leave job seekers 
+vulnerable to exploitative agencies and practices.8 The GoE is therefore aiming to streamline service 
+provision in this sector through institutional reforms which are expected be implemented after the 
+upcoming national elections (which have been postponed due to the COVID-19 crisis). The envisioned 
+reforms could indeed enable the establishment of more efficient and effective labor market intermediary 
+services. 
+C. 
+Relevance to the Country Partnership Framework 
+ 
+23. 
+The World Bank Group Country Partnership Framework (CPF) for Ethiopia9 for 2018-2022 strives 
+to assist Ethiopia in forging a more inclusive and sustainable growth path. The CPF remains valid but 
+adjustments have been made to meet the challenges posed by COVID-19. It focuses areas and objectives 
+continue to provide a platform for implementing the World Bank Group global approach to addressing 
+the pandemic’s impact.  Support is being provided across four pillars, consistent with the overall World 
+ 
+8 An assessment of public and private employment service providers and matching platforms was completed during the 
+appraisal of the project. 
+9 Ethiopia Country Partnership Framework 2018 - 2022, World Bank May 2017, Report No. 119576-ET 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 121 
+  
+ 
+Bank Group approach10: (i) Saving Lives, (ii) Protecting Poor and Vulnerable People, (iii) Ensuring 
+Sustainable Business Growth and Job Creation, and (iv) Strengthening Policies, Institutions and 
+Investments. World Bank Group support under these pillars is geared to three expected stages of crisis 
+response: relief—emergency assistance to confront the immediate threat to public health, as well as 
+short-term economic, financial and social impacts; restructuring—strengthening health systems, restoring 
+human capital, and pursuing economic reforms, debt resolution, and recapitalization of firms and financial 
+institutions; and resilient recovery—exploiting new opportunities for more inclusive, resilient, and 
+sustainable longer-term development. 
+24. 
+Current World Bank engagement aims to provide a rapid response to COVID-19 while ensuring 
+that recent poverty reduction gains are not lost, and longer-term development impact is supported 
+through expanded jobs creation and transformational structural reforms. The World Bank Group in 
+Ethiopia is applying the corporate approach to helping countries address the COVID-19 challenge—relief, 
+restructuring, and resilient recovery. Relief is being supported by emergency response and longer-term 
+health systems support as well as maintaining strong social protection programs in rural and urban areas 
+to mitigate the social and economic impacts of the crisis. Restructuring is to be pursued through support 
+for business environment improvements, including for the financial sector; for enhanced infrastructure 
+financing and debt management; and for strong human capital focus.  Finally, resilient recovery – building 
+back better – will be achieved through continued work on safety nets, national agriculture program, as 
+well as support for rapid expansion of access to power and renewable energy and improved connectivity 
+both in transport and telecommunication. Most importantly, reforms for growth and competitiveness will 
+have a central role in recovery, including for an improved financial sector and better business climate. 
+25. 
+The portfolio has been retrofitted and adapted to the evolving COVID-19 context.  In the health 
+sector, the Ethiopia COVID-19 Emergency Response Project (under the Multiphase Programmatic 
+Approach) and the Ethiopia Health Millennium Development Goal Program-for-Results (PforR) operation 
+(P160108) are supporting the health sector’s contribution to the national COVID-19 response. To ensure 
+a comprehensive approach to supporting Ethiopia’s health system during the pandemic, alongside the 
+COVID-19 specific investments supported by the Multiphase Programmatic Approach sub-project, the 
+health PforR is financing critical inputs to the national response, such as PPE for frontline health workers. 
+Social protection programs are being fast-tracked and their financing increased, with the UPSNJP and the 
+upcoming Strengthening Adaptive Safety Net (SEASN) Project (P172479) supporting cash transfers, food 
+aid, public works, start-up grants and labor market integration of
+
+[... procurement/fiduciary sections omitted ...]
+
+t and development in the 
+agriculture and rural areas is also being pursued through Additional Financing of the Second Agriculture 
+ 
+10 Saving Lives, Scaling-up Impact and Getting Back on Track: The World Bank Group COVID-19 Crisis Response Approach Paper, 
+2020 .  
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 121 
+  
+ 
+Growth Project (P168074) and the Ethiopia Resilient Landscapes and Livelihoods Project (P174385), both 
+totaling US$150 million in FY21. In addition, a comprehensive rural roads, irrigation and agriculture 
+national programs are being planned for FY22. 
+26. 
+The project contributes to the World Bank Group CPF for Ethiopia 2018-2022 goal of forging a 
+growth path that is more inclusive. It focuses on the poor urban population, unemployed youth, and the 
+urban homeless, including children in street situations. It also supports the CPF’s objective of making 
+greater investments in secondary cities to create employment opportunities. The CPF also emphasizes 
+activities that boost productivity, increase private sector-led growth and job creation (especially for 
+youth), promote gender inclusion (including economic and social gaps between men and women), and 
+strengthen citizen engagement, all of which the proposed UPSNJP will contribute to. More specifically, 
+the project will directly implement the CPF’s Focus Area 2 for Building Resilience and Inclusiveness and 
+more specifically Objective 2.1 - Improved sustainability and effectiveness of safety nets. Within this focus 
+area, the project will support (a) efforts to build a sustainable and harmonized nationwide social 
+protection system for poor and vulnerable groups by extending current safety nets; (b) improving 
+effectiveness of the Government’s safety net program in rural and urban areas; and (c) implementing the 
+urban safety net program, given the high rates of youth and female unemployment and poverty in urban 
+areas.  
+ 
+27. 
+The proposed UPSNJP is consistent with both the CPF and the COVID-19 response adjustments, 
+contributing directly to the economic recovery phase of the COVID-19.  The objective of the second pillar 
+of the World Bank Group response to COVID-19 is to help governments respond rapidly to protect the 
+poor and vulnerable from economic and social shocks of the crisis, restore human capital, and promote 
+job creation in the recovery phase. Given Ethiopia’s projected fall in growth ,  increase in unemployment, 
+and overall expected increase in poverty, the UPSNJP will be an important intervention during the 
+recovery phase by expanding the urban productive safety net including livelihood recovery support to 
+more households and cities, providing young people with avenues for entering the labor market and 
+strengthening job search services, and providing the urban destitute with essential services. The Project 
+therefore provides essential support for COVID-19 affected population during the recovery phase. Given 
+its relevance for the COVID-19 response, the Project is processed under the World Bank Policy for 
+Investment Project Financing, paragraph 12: Projects in Situations of Urgent Need of Assistance or 
+Capacity Constraints due to conflict, impending natural disaster and capacity constraints. It is therefore 
+processed under condensed procedures.  
+ 
+28. 
+The Project will also contribute significantly to the implementation of the country’s National 
+Plan for Job Creation 2020 - 2025. Under Component 1, the proposed project will create temporary 
+employment through the productive safety net activities and promote self- and wage employment 
+through livelihood training and grants. Under Component 2, the project will directly contribute to the 
+following strategic objectives under the national plan: promote human capital development, strengthen 
+labor market intermediation, and foster inclusive job creation. The UPSNJP is a Maximizing Finance for 
+Development (MFD) enabling project. It contributes to MFD by addressing binding constraints that are 
+expected to unlock private solutions, for example, by establishing a private sector-based apprenticeship 
+program that invites firms to participate in the country’s skills development agenda in a systematic way.  
+29. 
+Part of the strategic objectives of the Government’s social protection and jobs agenda is the 
+establishment of an integrated social protection system that would support human development and 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 121 
+  
+ 
+economic inclusion of the poor for sustainable poverty reduction. In parallel to the preparation of the 
+scale-up of the productive safety net and jobs agenda in urban areas through the proposed UPSNJP, the 
+GoE is also preparing a new phase of the rural PSNP. Both programs contribute to establishing a national 
+safety net system that would be supported through a national social registry and build strong links 
+between safety nets, human development, and jobs/livelihood. The social protection and jobs agenda 
+also promotes the humanitarian-development nexus, in the case of the UPSNJP by promoting refugee and 
+host community integration. Figure 1 provides an overview of how the ongoing and planned social 
+protection and jobs operations support this strategic objective.  
+Figure 1. Strategic Objectives of the Social Protection and Jobs Agenda in Ethiopia 
+ 
+Note: ESPES = Enhancing Shared Prosperity Through Equitable Services Project; ESAP = Ethiopia Social 
+Accountability Program; SEASN 
+30. 
+The Project is fully aligned with the objectives of the IDA19 Window for Host Communities and 
+Refugees (WHR) and its COVID-19 envelope. The Government articulates its recommitment and its 
+strategic approach toward development responses to refugee situations by the gradual socioeconomic 
+integration of refugees and socioeconomic development of both refugees and host communities. The 
+Government approach is aligned with the three objectives of the IDA19 WHR to (a) mitigate the shocks 
+caused by inflows of refugees, (b) create social and economic development opportunities for refugee and 
+host communities, and (c) facilitate sustainable solutions to protracted refugee situations including 
+through sustainable socioeconomic inclusion of refugees in the host country and/or their return to the 
+country of origin. The proposed Project will directly contribute to the creation of socioeconomic 
+opportunities through the inclusion of refugees into the Government’s public works and livelihood 
+development program supported by the proposed UPSNJP. Moreover, the project will significantly 
+support the implementation of the new Refugee Proclamation and refugees’ rights to movement and 
+work outside camps. It aligns with the newly established WHR COVID-19 envelope, with a strong focus on 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 121 
+  
+ 
+policy content and response to socioeconomic needs. The project also provides a response to the negative 
+impact of reduced humanitarian assistance to refugees and hosts as a consequence of COVID-19.  
+31. 
+The Project also contributes to the overarching goal articulated in the GoE’s upcoming NCRRS. 
+The GoE is embarking on inter-ministerial efforts to finalize a new 10-year NCRRS. The strategy aims to 
+promote self-reliance and resilience for refugees and host communities through harmonized and 
+integrated services and solutions. The NCRRS, which highlights various areas to operationalize the CRRF, 
+lists community-based public works as an instrumental pillar to enhance the transition from humanitarian 
+assistance to sustainable socioeconomic opportunities. The proposed UPSNJP would thus contribute to 
+the GoE’s overarching goals to promote socioeconomic integration of refugees and provide economic 
+opportunities for refugees and host populations. The Project will be one of the first Government-led 
+attempts to extend the safety net program and livelihood opportunities to refugees, which will be an 
+important step in the transition from humanitarian assistance toward a development-focused approach. 
+It will furthermore contribute to facilitating intergovernmental cooperation to implement refugee and 
+host community activities as part of larger national programs such as the urban safety net.
+
+A. 
+Project Development Objective 
+ 
+PDO Statement 
+32. 
+The Project will support the GoE in improving the incomes of the urban poor and the labor market 
+inclusion of disadvantaged urban youth. The Project is processed under the World Bank Policy for 
+Investment Project Financing, paragraph 12: Projects in Situations of Urgent Need of Assistance or 
+Capacity Constraints due to conflict, impending natural disaster and capacity constraints.    
+33. 
+PDO-level indicators. The results of the Project will be measured by the following key 
+performance indicators: 
+(a) 
+Increase in household consumption of Public Works (PW) and Permanent Direct Support 
+(PDS) households as a result of the Project (Percentage) 
+(b) Share of participating youth who are wage-employed three months after completion of the 
+apprenticeship (Percentage) 
+(c) 
+Homeless integrated socially, economically or through education (Percentage) 
+B. 
+Project Components 
+ 
+34. 
+To address the challenges of urban poverty and unemployment, particularly during Ethiopia’s 
+COVID-19 recovery phase, the proposed UPSNJP will expand the urban safety net to more cities, focusing 
+on livelihoods and labor market integration particularly of youth, as well as protecting the most vulnerable 
+populations such as the elderly, disabled, and homeless as well as refugees and host communities. The 
+GoE has decided to expand the urban productive safety net to up to 83 cities in the next five years, by 
+rolling out the number of beneficiaries in each city by waves. Further expansion of the urban safety net 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 121 
+  
+ 
+could benefit from financing of other development partners and additional financing. To this end, the 
+proposed Project would have five components:  
+ 
+Component 1 would expand the urban productive safety net by providing public works and 
+livelihood support to selected urban poor households, including refugees, in up to 83 cities, 
+considering city-level poverty and unemployment rates, administrative capacity, and 
+regional equity.  
+ 
+Component 2 would provide a first work experience for disadvantaged urban youth and 
+support reforms in job search services, in up to 11 cities.  
+ 
+Component 3 would strengthen urban social assistance by expanding direct income support 
+to up to 83 cities and by providing reintegration services for the urban destitute expected in 
+up to 22 cities.  
+ 
+Component 4 would support institutional strengthening of the Urban Job Creation and Food 
+Security Agency (JOBFSA), MoLSA, JCC, and ARRA to further build safety net systems and 
+foster public private partnerships for livelihood development and jobs.  
+ 
+Component 5 is a Contingent Emergency Response Component (CERC), a zero-dollar 
+component that will be activated and funded in case of a declared emergency that affects 
+urban populations. 
+35. 
+The UPSNJP supports significant institutional changes and helps prepare policy reforms. Under 
+Component 1 (productive safety net), the Project will develop a beneficiary registry to feed into a national 
+social registry to be developed together with the rural PSNP implementing entities and others, building 
+on the Management Information Systems (MISs) that both the UPSNP and the rural PSNP are developing. 
+This will enable, among others, the development of portable benefits between cities under the urban 
+safety net, as well as building a national safety net system between the urban and rural PSNPs in the long 
+term. Under Component 2 (youth employment), the Project will support the creation of an apprenticeship 
+program that can be scaled up nationally over time and that is likely to influence both the country’s 
+training and apprenticeship policies as well as institutional changes through increased public-private 
+partnerships. Furthermore, under Subcomponent 2.2, the Project will help build a national job search 
+ecosystem, institutionally streamlined and enhanced by modern technology to provide quality job search 
+services for job seekers. All of this will help prepare institutional reforms for more efficiency in the social 
+protection and jobs sector.  
+36. 
+The UPSNJP promotes institutional changes to implement comprehensive approaches toward 
+refugee response. Component 1 will support the implementation of refugees’ rights outlined in the 2019 
+Refugee Proclamation and contributes to the operationalization of CRRF. Government-led comprehensive 
+refugee responses have been a gradual process in Ethiopia to date. Against the backdrop of the GoE’s 
+commitment and pledges to gradually create self-reliant and resilient refugees and host communities, the 
+Project will help the Government’s steps to integrate refugees into the safety net programs and extend 
+livelihood opportunities outside refugee camps, in close proximity to hosting communities in project 
+cities. It will also advance significant institutional changes by promoting interagency coordination and 
+collaboration between JOBFSA and ARRA. The two agencies will sign a Memorandum of Understanding 
+(MoU) which will establish roles and responsibilities for the implementation of the UPSNJP. The new 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 121 
+  
+ 
+intergovernmental cooperation will pave a way to further enhance integrated and harmonized services 
+and inclusion for refugees and host communities.  
+Table 1. Project Components, Beneficiaries, and Budget 
+Component 
+Subcomponent 
+Number of 
+Beneficiaries 
+Budget 
+(US$, 
+millions) 
+% of 
+Budget 
+1: Expand the Urban 
+Productive Safety Net 
+to Improve the Urban 
+Environment 
+1.1: Public Works 
+473,000 
+188.3 
+34 
+1.2: Livelihood Development 
+110.4 
+20 
+1.3: Integration of Refugees and Host 
+Communities in Selected Localities 
+81,000 
+48.2 
+9 
+Component total 
+554,000 
+346.9 
+63 
+2: Foster Urban Youth 
+Employment  
+2.1: Provide a First Work Experience for 
+Less Educated Urban Youth 
+70,000 
+65.8 
+12 
+2.2: Strengthen Employment and 
+Intermediation Services 
+18,000 
+7.0 
+1 
+Component total 
+88,000 
+72.8 
+13 
+3: Strengthen Social 
+Assistance and 
+Services for the Urban 
+Poor and Destitute 
+3.1: Expanding Permanent Direct 
+Support (PDS) 
+152,000 
+56.5 
+10 
+3.2: Services for the Urban Destitute 
+22,000 
+33.8 
+6 
+Component total 
+174,000 
+90.3 
+16 
+4: Institutional 
+Strengthening, Project 
+Management and 
+Monitoring and 
+Evaluation 
+Component total 
+n.a. 
+40.0 
+7 
+5. Contingent 
+Emergency Response  
+  
+0 
+0 
+0 
+ALL COMPONENTS 
+GRAND TOTAL 
+816,000 
+550.0 
+100 
+ 
+Component 1: Expand the Urban Productive Safety Net to Improve the Urban Environment (total 
+US$346.9 million equivalent, of which IDA PBA US$209.1 million equivalent and IDA-19 WHR COVID-
+19 grant US$48.2 million equivalent) 
+37. 
+Building on the experience of the UPSNP, this component would provide labor-intensive public 
+work opportunities for selected urban poor in selected cities, assist in business development, and 
+provide livelihood grants for beneficiary households. The public work and livelihood program 
+beneficiaries would include poor urban households with able-bodied household members selected using 
+a combination of geographic targeting, community preselection, a Proxy Means Test (PMT), and 
+The World Bank
+Urban Safety Net and Jobs Project (P169943) 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 121 
+  
+ 
+community validation (see annex 4 for a detailed description of the targeting methodology). Selected 
+beneficiaries would participate in the program for three years during which they get income support 
+through public works during 12 months of each year but in a decreasing manner in the third year to ensure 
+they have time to develop their livelihood activities. As under the UPSNP, this component implements a 
+variation of the ‘graduation’ model which provides an integrated development pathway for livelihoods 
+and has been tested and implemented in multiple countries. It provides three years of comprehensive 
+support for the public works beneficiaries. In the first year, beneficiaries participate in public works as 
+well as life skills and financial skills training. They are encouraged to start savings from the beginning so 
+that they can later invest in their business. In the second year, beneficiaries receive support for business 
+planning, technical training as needed, and job search support from woreda-level One Stop Shop Centers 
+(OSSCs) which are specialized in supporting micro- and small business development. Based on the training 
+and business plan, the beneficiaries receive a livelihood grant in the third year during which they work 
+less time in public works and thus have more time for building their business. During this final year, they 
+also receive mentoring/coaching advice from the OSSCs. The approach is equally implemented for host 
+communities and refugees, with some small adaptations as described below.  
+Subcomponent 1.1: Public Works (US$188.3 million equivalent) 
+38. 
+Public work beneficiaries would receive monthly payments, based on a daily wage rate 
+calibrated so as not to undercut the labor market. The maximum monthly support for a household of 
+four (or more) would be about US$55 for approximately 20 hours of work each week. Cash payments will 
+be made monthly through the banking system and increasingly through mobile banking. The daily wage 
+rate is determined considering the market wage rate for similar or comparable unskilled labor. The cash-
+for-work activities would be complemented by training sessions providing financial literacy skills and 
+information on essential family practices, reproductive health, parenting, gender-based violence (GBV) 
+issues, and availability of referral services. Public works program will be rolled out in up to 83 cities based 
+on an independent assessment that would ensure regions’ and cities’ readiness for implementation. Cities 
+would roll out the number of beneficiaries over time, depending on the number of beneficiaries in each 
+city, planning for either one, two or three waves of targeting.  
+39. 
+Public works will be identified and planned by city governments through a participatory process 
+involving local communities. They would encompass five areas: (a) urban greenery and beautification, (b) 
+urban integrated solid waste management, (c) urban integrated watershed management, (d) social 
+infrastructure (as part of a larger plan such as environmental, disaster prevention, and human 
+development enhancing initiatives), and (e) creating a conducive environment for urban agriculture. The 
+activities would be planned for three years and implemented on a rolling basis. Work site management 
+and coordination will be provided by the JOBFSA’s woreda/kebele offices. The implementation of PW will 
+adhere to Occupational Health and Safety standards agreed for the Project. Among others, the JOBFSA 
+has developed guidelines for covering the medical costs for injuries at the work place for public work and 
+youth employment beneficiaries upon the submission of their injuries with evidence that indicate that the 
+accident occurred while they were on site. Procurement of necessary goods, protective equipment and 
+material will be carried out at the city level with support from the regional liaison offices.  
+40. 
+Strict protocols and safeguards will be followed at public works sites to minimize the health 
+risks arising due to COVID-19. While public works under the UPSNP were temporarily suspended at the 
+beginning of the COVID-19 outbreak, they have now resumed with strict protocols, which will also be

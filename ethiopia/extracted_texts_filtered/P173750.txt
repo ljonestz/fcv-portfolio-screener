@@ -1,0 +1,893 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 54219 chars (22.6% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. MPA Program Context 
+1. 
+This Project Appraisal Document (PAD) describes the emergency response to the Federal Democratic Republic 
+of Ethiopia under the COVID-19 Strategic Preparedness and Response Program (SPRP) using the Multiphase 
+Programmatic Approach (MPA) with an overall Program financing envelope of International Development Association 
+(IDA) US$1.3 billion and of International Bank for Reconstruction and Development (IBRD) US$2.7 billion. 
+2. 
+An outbreak of the coronavirus disease (COVID-19) caused by the 2019 novel coronavirus (SARS-CoV-2) has 
+been spreading rapidly across the world since December 2019, following the diagnosis of the initial cases in Wuhan, 
+Hubei Province, China. Since the beginning of March 2020, the number of cases outside China has increased 
+thirteenfold and the number of affected countries has tripled. On March 11, 2020, the World Health Organization 
+(WHO) declared a global pandemic as the coronavirus rapidly spreads across the world.  Figure 1 provides details about 
+the global spread of COVID-19. As of March 13, 2020, the outbreak has resulted in an estimated 145,369 cases and 
+5,429 deaths in 139 countries.  
+3. 
+COVID-19 is one of several emerging infectious diseases (EID) outbreaks in recent decades that have emerged 
+from animals in contact with humans, resulting in major outbreaks with significant public health and economic 
+impacts. The last moderately severe influenza pandemics were in 1957 and 1968; each killed more than a million people 
+around the world. Although countries are now far more prepared than in the past, the world is also far more 
+interconnected, and many more people today have behavior risk factors such as tobacco use1 and pre-existing chronic 
+health problems that make viral respiratory infections particularly dangerous2. With COVID-19, scientists are still trying 
+to understand the full picture of the disease symptoms and severity. Reported symptoms in patients have varied from 
+mild to severe, and can include fever, cough and shortness of breath. In general, studies of hospitalized patients have 
+found that about 83 percent to 98 percent of patients develop a fever, 76 percent to 82 percent develop a dry cough 
+and 11 percent to 44 percent develop fatigue or muscle aches3. Other symptoms, including headache, sore throat, 
+abdominal pain, and diarrhea, have been reported, but are less common. While 3.7 percent of the people worldwide 
+confirmed as having been infected have died, WHO has been careful not to describe that as a mortality rate or death 
+rate.  This is because in an unfolding epidemic it can be misleading to look simply at the estimate of deaths divided by 
+cases so far. Hence, given that the actual prevalence of COVID-19 infection remains unknown in most countries, it poses 
+unparalleled challenges with respect to global containment and mitigation. These issues reinforce the need to 
+strengthen the response to COVID-19 across all IDA/IBRD countries to minimize the global risk and impact posed by 
+this disease. 
+ 
+B. Updated MPA Program Framework 
+4. 
+Table-1 provides an updated overall MPA Program framework, including the proposed project for Ethiopia. 
+ 
+                                            
+1 Marquez, PV. 2020. “Does Tobacco Smoking Increases the Risk of Coronavirus Disease (Covid-19) Severity? The Case of China.”  
+http://www.pvmarquez.com/Covid-19   
+2 Fauci, AS, Lane, C, and Redfield, RR. 2020. “Covid-19 — Navigating the Uncharted.” New Eng J of Medicine, DOI: 10.1056/NEJMe2002387 
+3 Del Rio, C. and Malani, PN. 2020. “COVID-19—New Insights on a Rapidly Changing Epidemic.” JAMA, doi:10.1001/jama.2020.3072. 
+ 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 8 of 36  
+     
+ 
+Table 1. MPA Program Framework 
+Phase # 
+Project ID 
+Sequential or 
+Simultaneous 
+Phase’s 
+Proposed DO* 
+IPF, DPF 
+or PforR 
+Estimated 
+IBRD 
+Amount  
+($ million) 
+Estimated 
+IDA 
+Amount  
+($ million) 
+Estimated 
+Other 
+Amount  
+($ million) 
+Estimated 
+Approval 
+Date 
+Estimated 
+Environme
+ntal & 
+Social Risk 
+Rating 
+# 
+P173750 
+Simultaneous 
+Please see 
+relevant PAD 
+IPF 
+0.00 
+82.60 
+0.00 
+April 2, 
+2020 
+High 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+Board Approved Financing 
+Envelope 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C. Learning Agenda 
+5. 
+The project will support several activities that will contribute the overall learning agenda. These include, for 
+example, assessments on behavioral and sociocultural risk factors.
+
+A. Country Context 
+6. 
+Though still in its early stages, the global COVID-19 outbreak is expected to have a significant negative impact 
+on Ethiopia’s economy. For example, the reduction in global air travel, including travel to Ethiopia and travel via the 
+transit hub in Addis Ababa, is expected to result in a decline in Ethiopia’s forex reserves, which are already experiencing 
+an acute shortage. Ethiopian Airlines continued flights to and from China, the airline cut its weekly flights from Addis 
+Ababa to Beijing, Chengdu, Guanzhou and Shanghai by 33 percent in February. It has also changed its aircrafts on the 
+Addis Ababa to Beijing, Guangzhou and Shanghai routes from Boeing 777 and A350 to Boeing 787-8, resulting in a 20-
+45 percent change in capacity. During the West Africa Ebola outbreak in 2014, Ethiopian Airlines lost about US$8 million 
+per month.  
+7. 
+In addition to the direct impact of COVID-19, the anticipated slowdown in the global economy will likely 
+reduce trade and disrupt global manufacturing supply chains that involve Ethiopia. The effects of a pandemic-driven 
+global economic downturn are impossible to predict. However, China and other highly affected countries are 
+experiencing dramatic reductions in economic activity, with a high risk of damage to financial markets.  
+ 
+B. Sectoral and Institutional Context 
+8. 
+Ethiopia has a comparative advantage by having the oldest and most established National Public Health 
+Institute (NPHI) in Africa. In addition, the country is strategically located. The proposed Ethiopia Covid-19 Emergency 
+Response Project will leverage this advantage through a number of activities under the Africa Centres for Disease 
+Control and Prevention (CDC) Project (P167916) that will be implemented in Ethiopia but will have regional reach and 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 9 of 36  
+     
+ 
+impact, including: (a) establishment of a regional reference laboratory and a centralized event-based surveillance (EBS) 
+network for priority pathogens across the continent; (b) piloting and rolling out the Anti-Microbial Resistance (AMR) 
+scorecard for tracking AMR progress; and (c) implementing a system to collate national surveillance data and ensure 
+that selected countries are trained and connected into the data collation and analysis platform. Moreover, Ethiopia’s 
+proximity to multiple fragile states and as a major land and air transportation hub greatly exacerbate the vulnerabilities 
+to epidemics, whilst limited disease-detection functions in Ethiopia expose the African continent and beyond to the 
+potential undetected spread of diseases. In addition, Ethiopia currently shelters about 1.5 million registered refugees 
+from neighboring fragile states, the second largest refugee population in Africa. The majority of refugees are located 
+in emerging and under-developed subnational states with limited health services and opportunities depending largely 
+on humanitarian assistance. All of Ethiopia’s neighboring fragile states are highly susceptible to outbreaks at 
+subnational levels. Strengthening core pandemic preparedness and response capacities in Ethiopia will help protect 
+neighboring countries with already weak systems and capacity especially as a significant level of the proposed project 
+investment will occur adjacent to the borders with these fragile states.  
+9. 
+Current statistics on COVID-19 and Ethiopia. Ethiopia has five flights per day to China that brings a high risk of 
+importation and exportation of COVID-19. There are no confirmed cases, however, suspected cases have been detected 
+through surveillance activities that involve screening and health workers reporting cases that meet the standard case 
+definition. Of the 24 suspected cases, 23 have been negative and one is currently in an isolation unit pending lab results. 
+So far, 77 alerts have been investigated and no case in isolation is found. For travelers, 412,738 passengers have been 
+screened.  
+10. 
+COVID-19 response coordination structures. The Government has strengthened its preparedness efforts and 
+has set up a national preparedness and response coordination mechanism through an Emergency Operation Center 
+(EOC). The Government has also set up four levels of coordination: (a) National Disaster Risk Management (NDRM) 
+Council (highest level) led by the deputy prime minister’s office; (b) Public Health Emergency Management (PHEM) 
+Task Force (multi-sectoral) led by the Minister of Health; (c) PHEM Technical Task Force led by the Director General of 
+Ethiopian Public Health Institute (EPHI); and (d) PHEM Technical Working Group led by the national incident manager. 
+11. 
+Ethiopia is at very high risk due to travel and trade with most of COVID-19 affected countries. Initially Ethiopia 
+prepared an Emergency Preparedness and Response Plan (EPRP) with the assumption of the importation of COVID-19 
+cases from China. The outbreak is affecting about 123 countries globally. Currently, ten countries in Africa are affected 
+by the outbreak and thus the preparedness plan was revised based on the very high-risk level of Ethiopia and assuming 
+community transmission. Thus, for Ethiopia to be able to prevent and respond to the outbreak it needs additional 
+budget to strengthen the preparedness activities and put in place a capacity to respond to the outbreak when cases 
+are confirmed at the national and subnational levels.     
+12. 
+A Simulation Exercise (SIMEX) was conducted in Ethiopia on February 11, 2020 to test capacities, systems and 
+mechanisms to respond to public health emergencies. The findings are an important source of information on gaps 
+and weaknesses that currently exist and help prioritize where to support the country’s response efforts: 
+a. Reporting: Communication mechanisms between health authorities, EOC management and partners such 
+as WHO and the Africa CDC secretariat need to be strengthening at the national and regional levels; 
+b. Workforce development: While national level staff is familiar with existing Standard Operating Procedures 
+(SOP), International Health Regulations (IHR) 2005 and its requirements, regional EOC staff need to be 
+sensitized with the IHR guidelines and their requirement to ensure full-scale implementation. 
+c. Preparedness: The PHEM guidelines EPRP need to be customized using local context at the regional level; 
+EPRPs are in place for regions where Vulnerability, Risk Assessment and Mapping has been conducted, 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 10 of 36  
+     
+ 
+however, there is a need for identification and equipping of isolation facilities and healthcare facilities which 
+can be utilized at times of outbreaks. 
+d. Emergency response operations: Procedures for correct use of Personal Protective Equipment (PPE) during 
+emergency response at the subnational level need to be strengthened; SOPs describing clear lines of 
+reporting are in place; flow of operational information between national and subnational levels needs to be 
+strengthened; regional EOCs were unable to change the emergency response scale to handle the evolving 
+scenario; infection prevention and control measures at regional EOCs need to be disseminated through 
+easy/readable SOPs for PPE donning and doffing; COVID-19 specific drills and trainings through simulations 
+need to take place at the regional level; resources/expertise/support are needed from the national level to 
+impart trainings at the regional level. 
+e. Risk Communication: The adoption of risk communication guidelines needs to take place at the regional 
+level; national and regional EOCs are well aware of procedures and mechanisms to follow while engaging 
+the public during an emergency. 
+13. 
+Ethiopia’s EPRP: The overall objectives of the strategic Preparedness and Response Plan for COVID-19 being 
+prepared by countries around the world aim to: (a) slow and stop transmission, prevent outbreaks and delay spread; 
+(b) provide optimized care for all patients, especially the seriously ill; and (c) minimize the impact of the epidemic on 
+health systems, social services and economic activity. The EPRP, prepared by the Government of Ethiopia (GoE), has 
+the objective to “strengthen the surveillance system and response capacity to early detect and respond to the possible 
+importation of the 2019 novel coronavirus outbreak in Ethiopia.” The GoE’s financing request and list of activities and 
+investments to be supported by EPRP include primarily: (a) establish responsible coordination mechanisms (establish 
+working groups); (b) prepare the action plan to implement the surveillance, outbreak investigation, case management 
+and prevention and control of the diseases; (c) prepare guidelines, leaflets, health education materials, etc.; (d) 
+advocate and sensitize the public and travelers; (e) establish new temporary isolation rooms in selected hospitals; (f) 
+enhance sample collection and reference system; (g) provide training for health workers on COVID-19; (h) provide 
+orientation to airline crew members; (i) ensure drugs and medical supplies for case management and infection 
+prevention; and (j) stockpile laboratory equipment, reagents and consumable supplies.  
+14. 
+Links between economic effects of COVID-19 and the health sector in Ethiopia: As mentioned above, an 
+expected decrease in the availability of forex in the country may impact the country’s ability to purchase essential 
+medical commodities and drugs (insulin, antibiotics, etc.) on the global market. While the proposed project will 
+specifically address the emergency response to COVID-19, it should be noted that existing World Bank operations and 
+financing mechanisms in the health sector will be used to strategically address gaps in forex that may arise for the 
+purchase of these essential commodities. For example, the program boundary of the Health Sustainable Development 
+Goals (SDG) Program for Results (P123531) is the Sustainable Development Goals Performance Fund (SDG-PF), which 
+is a pooled financing mechanism managed by the Ministry of Health (MoH) with contributions from 11 donors4. The 
+focus of the SDG-PF is improvement of delivery of maternal and child health services through primary health care units 
+and strengthening sector capacity, including human resources, financial management (FM) and supply chain 
+management, health management information systems and health technologies. The primary use of forex mobilized 
+through the SDG-PF is to procure medicines and commodities and will continue to be an important mechanism to 
+leverage with the expected downturns in the economy and availability of forex and could be used to address new 
+financing needs generated from the crisis.  
+                                            
+4 United Kingdom Department for International Development (DFID), United Nations Children’s’ Fund (UNICEF), European Union (EU), 
+GAVI - The Vaccine Alliance, Netherlands Government, Spanish Development Cooperation, United Nations Population Fund (UNFPA), 
+Irish Aid, WHO, Italian Cooperation and the World Bank. 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 11 of 36  
+     
+ 
+ 
+C. Relevance to Higher Level Objectives  
+15. 
+The proposed project is aligned with the WBG Country Partnership Framework (CPF) for Ethiopia.5 Improving 
+the quality, equity, and utilization of health services is Focus Area 2.2 of the Ethiopia CPF. The proposed project fills 
+critical gaps in the World Bank’s support to the Ethiopian health sector, as the current portfolio does not explicitly 
+include disease surveillance and response to global pandemics such as COVID-19, apart for the foundational elements 
+that will be established through the World Bank-financed Africa CDC Regional Project (P167916). The proposed project 
+is also fully aligned with Government health sector strategies, such as the Health Sector Transformation Plan (HSTP) 
+that identifies building capacity for disease surveillance and responses to public health emergencies as key priorities. 
+While this project was not included in the CPF for Ethiopia, the emergency has increased the priority of health 
+protection and treatment in Ethiopia and remains aligned with the CPF’s Objective 2.2.
+
+A. Development Objectives 
+ 
+The Project objectives are aligned to the results chain of the COVID-19 Strategic Preparedness and Response 
+Program (SPRP).  
+ 
+Project DO statement: The objective of the project is to prevent, detect and respond to the threat posed by 
+COVID-19 and strengthen national systems for public health preparedness in Ethiopia. 
+ 
+16. 
+The proposed project intends to fill critical gaps in implementing the EPRP, strengthen the prevention 
+activities, rapid detection, preparedness and response to COVID-19 outbreak. The project’s objectives and design are 
+in line with the request from the Ministry of Finance (MoF) for US$122 million provided on March 6, 2020. Given the 
+allocation for Ethiopia from the COVID-19 Fast Track Facility is only US$82.6 million, the activities financed through the 
+project will remain aligned to the national plan but support critical activities up to the allocated amount for the project. 
+The budget for the project intents to be utilized within 15 months to support prioritized interventions to enhance 
+preparedness activities for COVID-19 and strengthen the health system both at national and subnational level. Within 
+Ethiopia’s EPRP, three scenarios to address variations in the evolution of the outbreak have been prepared, with the 
+“worst-case scenario” budget amounting to approximately US$500 million. It is important to note that despite the IDA 
+envelope mobilized through the project, critical gaps in financing for preparedness and response will remain, for which 
+additional support from other sources will be needed. The World Bank will continue to engage and coordinate with 
+partners both at the country and global level in an effort to identify opportunities to fill these gaps.  
+17. 
+The specific objectives of the project, aligned with Ethiopia’s EPRP, are to: (a) strengthen coordination of 
+preparedness and response operations at national and subnational levels; (b) reinforce screening procedures at the 
+points of entry; (c) strengthen surveillance capacity for early detection of cases, alert/rumor management and follow 
+up of contacts; (d) strengthen laboratory capacity for the diagnosis of COVID-19; (e) increase the capacity to rapidly 
+isolate and provide optimized care for persons suspected or confirmed to have COVID-19; (f) implement optimal 
+infection and control measures in healthcare settings and communities; (g) increase awareness and informed decision-
+making among communities through risk communication and community engagement; and (h) provide and pre-
+position medical supplies and commodities, and other logistics for COVID-19 management.  
+                                            
+5 Report Number: 119576. 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 12 of 36  
+     
+ 
+ 
+PDO level indicators:  
+ 
+18. 
+The proposed PDO level indicators are the following:  
+a. Early detection and timely reporting of outbreaks  
+• 
+Achieving the required timeliness of reporting for COVID-19 and other immediately reportable diseases 
+under Integrated Disease Surveillance and Response (IDSR). (Percentage)  
+• 
+For the first 10 suspect cases in the country, percentage of lab results available within 72 hours. 
+(Percentage) 
+b. Rapid response to infectious disease outbreaks 
+• 
+Responding within 24 hours to confirmed outbreaks of COVID-19 and other immediately reportable 
+diseases. (Percentage) 
+• 
+Percentage of district health centers/district hospitals with pandemic preparedness and response plans 
+per MoH Guidelines. (Percentage) 
+• 
+Percentage of health facilities with trained staff in infection prevention control per MoH approved 
+protocols. (Percentage) 
+ 
+B. Project Components 
+ 
+19. 
+The proposed project will be a standalone operation for Ethiopia to address critical country-level needs for 
+preparedness and response for COVID-19: While the GoE is one of the three recipients of the ACDCP (alongside African 
+Union (AU) and the Government of Zambia), the proposed project will be processed as a standalone operation that 
+builds upon the ACDCP. The proposed project will fill critical financing gaps that have been identified due to the new 
+emergency preparedness and response needs created by COVID-19. Project design will include similar implementation 
+arrangements and fiduciary systems as the ACDCP, as described below. 
+20. 
+The project will comprise of the following components:  
+21. 
+Component 1. Medical Supplies and Equipment [US$43.97 million equivalent]: This component will finance the 
+procurement of medical supplies and equipment needed for activities outlined in the EPRP such as (i) case 
+management; (ii) infection prevention and control; and (iii) other pillars of the strategic plan. Specifically, items 
+procured will include: (i) drugs and medical supplies for case management and infection prevention, including 
+production of hand sanitizer; and (ii) equipment, reagents, testing kits, and consumable supplies for laboratories. This 
+component will also allow for flexibility to allocate resources for the purchasing of essential pharmaceutical (insulin, 
+antibiotics, etc.) and medical supplies as the availability of forex in the country becomes reduced due to the economic 
+impact of the pandemic and the existing mechanisms are insufficient to address the critical health system needs (such 
+as the SDG-PF described above).  
+22. 
+Component 2. Preparedness, Capacity Building and Training [US$22.20 million]: This component will finance 
+activities related to preparedness, capacity building and training, guided by the different pillars and activities of the 
+EPRP. These include: (i) coordination at the national, subnational and regional/cross-country levels; (ii) EOC 
+functionalization (including sub-national coordination and support for preparedness (EOC functionalization, training, 
+supervision); (iii) deployment of health workers and other personnel required for COVID-19 preparedness and 
+response, human resources for supportive supervision and subnational support; (iv) financing of operating costs, such 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 13 of 36  
+     
+ 
+as vehicle rental, fuel and other administrative-related costs for supportive supervision and monitoring; (v) support for 
+screening people entering in to the country at designated points of entry (airports, border crossings, etc.); (vi) 
+strengthening call/hotline centers; (vii) strengthening PHEM and community- and EBS for COVID-19; and (viii) building 
+diagnostic capacity for COVID-19 at the subnational (regional/state) level. 
+23. 
+Component 3. Community Discussions and Information Outreach [US$8.50 million]: Activities supported by 
+this component include: (i) risk communication and community engagement; (ii) behavioral and sociocultural risk 
+factors assessments; (iii) production of Risk Communication and Community Engagement (RCCE) strategy and training 
+documents; (iv) production of communication materials; (v) establish a production center for information and 
+communication tools production center (media and community engagement); and (vi) monitoring and evidence 
+generation; and (vii) human resources for risk communication. 
+24. 
+Component 4. Quarantine, Isolation and Treatment Centers [US$6.93 million]: Activities supported by this 
+component include: Establishment (through the rehabilitation of existing facilities or setting up of temporary 
+structures) and equipping of quarantine, isolation and treatment centers, including the provision of nutrition and 
+dignity kits.   
+25. 
+Component 5. Project Implementation and Monitoring [US$1.00 million]: Implementing the proposed project 
+will require administrative and human resources that exceed the current capacity of the implementing institutions, in 
+addition to those mobilized through the ACDCP. Activities include: (i) support for procurement, FM, environmental and 
+social safeguards, monitoring and evaluation, and reporting; (ii) recruitment and Training of Grants Management Unit 
+and EPHI staff and technical consultants; and (iii) operating costs.  
+26. 
+The primary activities in the EPRP to be supported by the project, in line with the GoE’s request, are presented 
+in Table 16: 
+ 
+Table 1: Ethiopia EPRP Budget Breakdown by Planned Pillars 
+ 
+No. 
+Pillar 
+Activity 
+Budget 
+(US$) 
+1 
+Coordination, 
+regional support 
+and EOC 
+functionalization 
+Sub national coordination and support of preparedness  
+7,624,205 
+• 
+EOC functionalization (including rehabilitation) 
+• 
+Trainings 
+• 
+Supervision 
+• 
+Quarantine centers establishment  
+• 
+Human resources for supportive supervision and subnational 
+support  
+1,033,452 
+Vehicle rental, fuel and other administrative related costs for supportive 
+supervision and monitoring 
+551,175 
+Capacity building and experience sharing 
+482,278 
+Sub total 
+9,691,110 
+ 2 
+ Surveillance 
+and 
+investigation 
+Strengthening PHEM and community and event-based surveillance for 
+COVID-19  
+6,749,439 
+Build regional diagnostic capacity for COVID-19  
+1,260,387 
+                                            
+6 The specific budgets for each activity are indicative at the time of appraisal and can be adjusted during implementation, following 
+project implementation guidelines and procedures, to allow for agility and flexibility in responding to evolving country needs in COVID-
+19 preparedness and response efforts. 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 14 of 36  
+     
+ 
+Sub total 
+10,581,825 
+ 3 
+Point of Entry 
+(PoE) 
+Capacity building (training, manpower requirement at 26 ports of 
+entries)  
+3,162,364 
+Establishing nine screening post/room at designated land crossing POEs 
+413,381 
+Sub total 
+3,575,745 
+4 
+Case 
+management 
+and Infection 
+Prevention and 
+Control (IPC) 
+Procurement of medical equipment, drugs and supplies 
+        
+37,903,721  
+Establish 15 the isolation and treatment centers and furnish  
+13,346,528 
+Sub total 
+51,250,249 
+5 
+Risk 
+communication 
+and Community    
+engagement 
+Behavioral and sociocultural risk factors assessment 
+3,396,198 
+Production of RCCE strategy and training documents 
+Production of communication materials 
+Establish communication tool and media production center 
+• 
+Media and community engagement 
+3,403,146 
+• 
+Monitoring and evidence generation 
+• 
+Documentation 
+• 
+Impact assessment 
+Human resources for risk communication 
+701,727 
+  
+Sub total 
+7,501,071 
+Grand total 
+  
+82,600,000 
+ 
+ 
+C. Project Beneficiaries 
+ 
+27. 
+The proposed project was selected for COVID-19 financing because of the strategic place Ethiopia holds when 
+it comes to global connectivity and travel, and the risks for the country generated by this fact. The proposed financing 
+for the Project will be provided through the World Bank Group’s COVID-19 Fast Track Facility, as part of a Global COVID-
+19 Multiphase Programmatic Approach (MPA) Program designed to assist countries to prevent, detect and respond to 
+the threat posed by COVID-19 and strengthen national systems for public health preparedness. The amount allocated 
+to Ethiopia under the Fast Track Facility is based on criteria for each country taking in to consideration key factors such 
+as population size, Gross Domestic Product per capita, and other selected criteria.  Bole International Airport in Addis 
+Ababa is the hub for Ethiopian Airlines, as well as several other airlines, who together place Ethiopia as the most 
+important hub for connections between countries in Africa and the rest of the world. In addition, travelers from 
+affected countries or who have contact history could indirectly come to Ethiopia through different airlines after 
+interconnected flights. Based on the WHO AFRO comprehensive COVID-19 risk mapping and prioritization, Ethiopia has 
+been identified as one of the top priority 13 countries for preparedness measures due to their direct links or high 
+volume of travel to China.  The first two countries that confirmed COVID-19 in the WHO Africa Region came from 
+Priority 1 countries.  The scope and the components of this project are fully aligned with the WBG COVID-19 Fast Track 
+Facility, using standard components as described in the COVID-19 MPA Board paper. The proposed project 
+complements the longer-term development work in the health sector, including the Health SDG Program for Results 
+(P123531) which seeks to improve maternal and child health and nutrition outcomes, as well as the Africa CDC Regional 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 15 of 36  
+     
+ 
+Investment Project (ACDCP, P167916), which seeks to strengthen continental and regional infectious disease detection 
+and response systems, including national systems such as in Ethiopia. This project has triggered paragraph 12 of the 
+World Bank Policy Investment Project Financing (IPF). 
+28. 
+Phased responses through the COVID-19 Fast Track Facility.  While support will surely be needed to respond 
+to the economic impact of COVID-19 on households, businesses and government budgets, the World Bank’s approach 
+is to lead with the health response. As a first step, the majority of operations processed through the Fast Track Facility 
+will be health sector operations to respond to urgent preparedness and response needs related to the COVID-19 
+outbreak. One of the challenges with the response to COVID-19 is the availability (and price) of medical equipment and 
+supplies. The global Pandemic Supply Chain Network (PSCN), of which the World Bank is a co-convener, has identified 
+a list of medical products critical to the response. The task team will work with GoE counterparts to customize this list 
+further to develop a positive list of goods to be procured with World Bank financing. Indeed, there is growing disruption 
+to economic activities, businesses and livelihoods. Options for support through other financing instruments are being 
+explored as the facility is established and through country consultations. The Project objectives are aligned to the 
+results chain of the COVID-19 Response Program.
+
+A. Institutional and Implementation Arrangements  
+29. 
+The Ministry of Health will be the implementing agency for the project. The State Minister for Programs will 
+be responsible for leading the execution of project activities. The GMU of the MoH’s Partnership and Cooperation 
+Directorate (PCD) will be responsible for the day-to-day management of activities supported under the project, as well 
+as the preparation of a consolidated annual workplan and a consolidated activity and financial report for the above-
+mentioned project components. The PCD already manages and coordinates several donor-funded projects in the health 
+sector, including the Health SDG Program for Results (P123531) and the Ethiopia part of the ACDCP. In addition, 
+technical directorates at the MoH, the regional health bureaus, and other key agencies will be involved in project 
+activities based on their functional capacities and institutional mandates. The key staff hired or assigned to the MoH 
+PCD GMU for the ACDCP will be the same for this project. These include: Project Coordinator, Finance Officer, 
+Environmental and Social Safeguards Officer, and a Monitoring and Evaluation Specialist. The MoH PCD GMU will 
+recruit as needed (upon receiving non-objection from the World Bank) additional staff (fiduciary, technical, etc.) to 
+EPHI and MoH PCD GMU to supplement staff hired or assigned for the ACDCP. The MoH PCDGMU may also recruit 
+specialized technical staff as needed, and some activities may be outsourced to third parties through contract 
+agreements acceptable to the World Bank. 
+30. 
+The EPHI will serve as the key technical entity for this project. It will both support the PCD and directly 
+implement certain technical activities, including procurement of medical supplies, commodities and equipment for 
+activities outlined in the EPRP. The EPHI will report directly to the Minister, and it will share the project’s technical and 
+financial updates with the MoH PCD GMU. The abovementioned staff hired or assigned at EPHI will also be used for 
+this project and will work closely with existing coordinating bodies and focal points within government mobilized for 
+the national COVID-19 response. The MoH will also ensure that these key focal points are effectively mobilized and 
+engaged to ensure proper implementation of the environmental and social framework elements of the project. 
+31. 
+Safeguards arrangements: With regards to environmental and social safeguards policies, while the project will 
+apply the new Environmental and Social Framework (ESF), the existing safeguards documents prepared for the ACDCP 
+will be used as a basis to inform the development of the ESF policies and documentation for the new operation. The 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 16 of 36  
+     
+ 
+safeguards instruments which were prepared for the ACDCP will be updated to cover, among other things, the relevant 
+part of COVID-19 Quarantine Guidelines and appropriate WHO COVID-19 biosafety guidelines so that all relevant risks 
+and mitigation measures will be covered. 
+ 
+B. Results Monitoring and Evaluation Arrangements 
+32. 
+The EPHI will be responsible f
+
+[... procurement/fiduciary sections omitted ...]
+
+mitments to the effective implementation and continued funding of the activities, helping ensure its 
+sustainability.
+
+A. Technical, Economic and Financial Analysis  
+34. 
+The COVID-19 outbreak clouds an already fragile global economic outlook and can further set back gains in 
+poverty alleviation, in addition to the population health impacts already observed in the countries impacted by the 
+outbreak. Potential tightening of credit conditions, weaker growth, and the allocation of public resources to fight the 
+outbreak are likely to reduce governments’ ability to invest in other sectors. Low-income countries are expected to feel 
+the impact, as current estimates suggest that a one percent decline in developing country growth rates traps an 
+additional 20 million people into poverty. 
+35. 
+The pandemic weighs on economic activity through both demand and supply channels. On the demand side, 
+activities involving interactions between people are reduced in efforts to prevent transmission of the virus. On the 
+supply side, prevention measures, such as factory closures, have significantly disrupted production of tradable and 
+non-tradable goods around the world. Available high-frequency data point to a major contraction in economic activity 
+in China this quarter. These include sharp downturns in daily coal consumption for power generation, average road 
+congestion, nationwide passenger traffic, tourism activity, and container throughput at Chinese ports. A month after 
+Chinese New Year (January 25, 2020), travel within China had reduced by 80 percent compared to before the start of 
+the outbreak. Most international carriers have cancelled their flights to China until at least the end-April 2020, and 
+maybe longer. In January-February 2020, container shipping companies stopped movement of vessels at a record pace. 
+At end-February 2020, coal use in major power generation plants had decreased by 50 percent compared to the same 
+period in 2019; pollution, an indicator of industrial production, was down 40 percent compared to normal. As of mid-
+February 2020, Morgan Stanley Financial has estimated industrial production at 30-50 percent of trends from before 
+the outbreak. Moreover, production indicators for electronics have faltered, suggesting growing disruptions to China’s 
+globally-integrated manufacturing sector. In this context, the manufacturing PMI suffered its worst performance. 
+ 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 17 of 36  
+     
+ 
+B. Fiduciary 
+36. 
+Project implementation will benefit from the existing FM arrangements within the MoH and EPHI. Project 
+activities will be coordinated by the MoH’s PCD, and the GMU which is accountable to the PCD will handle the day to 
+day management of this project.  EPHI, regional health bureaus, and other key agencies will be involved in project 
+activities. 
+37. 
+Recent FM assessments at the finance units of MoH, EPHI, and two Regional Health Bureaus (RHBs) have been 
+conducted by the World Bank for the Ethiopia part of the ACDCP. Based on those assessments, key risks identified 
+include: i) multiple implementing entities at the federal and regional levels, some with capacity gaps, and high rates of 
+staff turnover, which also leads to complexities in the operation of FM arrangements, with subsequent risk of delays in 
+implementation, reporting, and disbursements; ii) the transfer of funds to sub-implementers, some of which have weak 
+internal controls and potential involvement of others not previously assessed by the World Bank; iii) use of parallel 
+systems in MoH (GMU and Grant Finance Case Team) for preparing financial reports, which may affect their quality 
+and timeliness; iv) weaknesses in internal audit functions, including lack of familiarity with World Bank requirements; 
+and v) internal control weaknesses related to fixed-asset and inventory management at the EPHI. Given the above risk 
+factors, the nature of activities involved in this specific emergency operation, and the context in which they might be 
+implemented, the FM risk is considered High. 
+38. 
+Mitigating measures agreed under the ACDCP are fully applicable to this operation. Those measures include: 
+a) a clear definition of staffing needs in different entities to strengthen their capacity; b) the establishment of 
+coordination mechanisms among different entities, including deadlines and requirements for budget preparation, 
+transfers of funds, and reporting; c) reforms to strengthen fixed-asset and inventory management at EPHI; d) the use 
+of separate bank accounts, accounting records, and reporting requirements for EPHI and RHBs; and e) revision of roles 
+and responsibilities within the MoH (grant finance and GMU) regarding the preparation and submission of interim 
+financial reports (IFRs). Some progress is reported on the mitigation measures in that EPHI has indicated actions are 
+already being taken to address the gaps on fixed asset and inventory management whereas MoH has indicated that it 
+has discussed and agreed internally to resolve the duplication of efforts at Grant Finance Case Team and GMU. 
+39. 
+As the lead implementing entity, the MoH will be responsible for preparing and consolidating the budget of 
+the project in consultation with EPHI and RHBs. The government’s budget procedures will be followed. The 
+implementing entities will apply modified cash basis of accounting and follow the government’s accounting manual. 
+Peachtree accounting will be used to record the transactions of the project. Finance officers recruited/assigned for the 
+Ethiopia part of the ACDCP will also handle the accounting and financial reporting at the implementing entities. As per 
+the ACDCP implementation arrangements, until the abovementioned key project staff are recruited, government staff 
+with appropriate expertise for each position’s terms of reference will be assigned to the position as an interim 
+arrangement. Based on assessment of workload, hiring of additional finance staff will be considered. Internal control 
+system of the Government is strong although some gaps are noted. Internal audit coverage is low with capacity gaps 
+and staffing constraints. The MoH will prepare quarterly consolidated IFRs collecting the quarterly IFRs of EPHI, and the 
+RHBs. The IFRs will be submitted within 45 days of the end of the reporting period. MoH will open a separate US dollar 
+designated account and local currency account with financial institutions acceptable to the World Bank. The other 
+implementing entities will also open separate local currency accounts. All disbursement methods will be allowed, and 
+disbursements to the designated account will be based on expenditure forecasts as per the instructions laid out in the 
+disbursement letter. If Advances are to be made to UN Agencies through direct contracting, necessary periodic reports 
+should be submitted by the UN Agency showing utilization of the advance and additional advance request, if any. 
+External audits should be conducted by the Office of the Federal Auditor General (OFAG) or by an auditor nominated 
+by OFAG which is acceptable to the World Bank. The audit report should be submitted within six months of the end of 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 18 of 36  
+     
+ 
+the period end. Subject to the successful completion of the actions recommended to address the risks identified, the 
+proposed FM arrangements can be considered acceptable to the World Bank. 
+40. 
+To facilitate for the timely release of resources and commence the implementation, the project will open the 
+designated accounts and take any other necessary action to start implementation without delay. IFR formats and 
+updated audit TORs will be agreed at the implementation stage. Furthermore, the World Bank will continue to provide 
+its implementation support and supervision missions and update the risk and mitigating measures regularly.  
+41. 
+Retroactive financing. Withdrawals up to an aggregate amount not to exceed SDR 12,120,000 under the credit 
+and SDR 12,120,000 under the grant may be made for payments made prior to this date but on or after December 15, 
+2019, for eligible expenditures. 
+ 
+(ii)   Procurement  
+ 
+42. 
+Procurement for the project will be carried out in accordance with the World Bank’s Procurement Regulations 
+for IPF Borrowers for Goods, Works, Non-Consulting and Consulting Services, dated July 1, 2016 (revised in 
+November 2017 and August 2018). The project will be subject to the World Bank’s Anticorruption Guidelines, dated 
+October 15, 2006, revised in January 2011, and as of July 1, 2016. The project will use the Systematic tracking of 
+Exchanges in Procurement (STEP) to plan, record and track procurement transactions. 
+43. 
+The major planned procurement includes medical supplies, drugs, and equipment, capacity building and 
+training, community outreach, establishing quarantine centers and call centers, and support to the project 
+implementation and monitoring. Finalization of the streamlined project procurement strategy for development (PPSD) 
+has been deferred to implementation. An initial procurement plan for the first three months has been agreed with the 
+Borrower and will be updated during implementation. 
+44. 
+The proposed procurement approach prioritizes fast track emergency procurement for the required goods, 
+works and services. While procurement methods that include National Approach, Open International Approach, 
+Request for Quotations (RFQ) and Direct Contracting can be used, key measures to fast track procurement include the 
+use of methods that will ensure expedited delivery. These include direct contracting of UN Agencies, direct contracting 
+of firms as appropriate, RFQ with no threshold limit for this method as appropriate. The National Approach can be used 
+for up to US$2 million in goods and US$35 million in works. 
+45. 
+Bid Securing Declaration may be used instead of the bid security. Performance Security may not be required 
+for small contracts. Advance payment may be increased to 40 percent while secured with the advance payment 
+guarantee. The time for submission of bids/proposal can be shortened to 15 days in competitive national and 
+international procedures, and to three-five days for the RFQ depending on the value and complexity of the requested 
+scope of bid. 
+46. 
+Procurement implementation will be undertaken by two agencies:  Ethiopia MoH and EPHI. Two key 
+directorates will play a procurement role in the Ethiopia MoH, namely; (i) Ethiopia MoH’s Finance, Procurement and 
+Property Administration that is responsible for procurement processes, and (ii) Public Health Infrastructure Directorate 
+that provides technical input and support for all works procurements and manages contract implementation of works 
+contracts.  
+47. 
+If the MoH or EPHI requests, the World Bank may consider supporting the MoH/EPHI in the procurement of 
+the initial needs of the medical equipment and supplies through HEIS (Hands on Expanded Support).  Streamlined 
+procedures for approval of emergency procurement to expedite decision making and approvals by the Recipient have 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 19 of 36  
+     
+ 
+been agreed. 
+48. 
+The major risks to procurement are: (a) slow procurement processing and decision making with potential 
+implementation delays; and (b) poor contract management system with potential time and cost overrun and poor-
+quality deliverable; and (c) lack of familiarity in dealing with such a novel epidemic. To mitigate these risks the following 
+actions are recommended: (a) maintaining accountability for following the expedited approval processes for 
+emergency; and (b) assigning staff with responsibility of managing each contract. To strengthen their procurement 
+capacity MoH and EPHI will consider hiring a Procurement Agent with capabilities of work and assuring continuity of 
+services in the situation of the restricted movement. To prevent delays and disruption in payments, disbursement of 
+World Bank financing shall be made through the Direct Payment disbursement method, unless a Special Commitment 
+disbursement method has been selected. 
+49. 
+These risks are elevated by the global nature of the COVID-19 outbreak, which creates shortages of supplies 
+and necessary services. This may result in increased prices and cost. The Team will monitor and support 
+implementation to agree with MoH and EPHI on reasonableness of the procurement approaches and obtained 
+outcomes considering the available market response and needs. 
+50. 
+Various industries are feeling the impact of COVID-19, especially the construction industry that subsequently 
+impacts the procurement process and implementation of the contracts. To deal with potential procurement delays 
+because of the spreading of COVID-19, the World Bank will support MoH and EPHI in applying any procedural 
+flexibilities (e.g. bids submitted by an authorized third party, exertion bid submission dates, advising the Recipient on 
+the applicability of force majeure, etc.).   
+51. 
+The procurement risk is High. 
+52. 
+The World Bank’s oversight of procurement will be done through increased implementation support, and 
+increased procurement post review based on a 20 percent sample while the World Bank’s prior review will not apply. 
+ 
+C. Legal Operational Policies 
+ 
+. 
+. . 
+ 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Areas OP 7.60 
+No 
+. 
+ 
+D. Environmental and Social Standards 
+53. 
+The Project will have positive impacts as it should improve COVID-19 surveillance, monitoring and containment. 
+However, the project could also cause high environment, health and safety risks due to the dangerous nature of the 
+pathogen (COVID-19) and reagents to be used in the project-supported laboratories. Laboratory-associated infections due 
+to inadequate adherence to occupational health and safety standards can lead to illness and death among laboratory 
+workers. The laboratories which will use COVID-19 diagnostic testing can generate biological waste, chemical waste, and 
+other hazardous biproducts. As the laboratories to be supported by the project will process COVID-19 that can have the 
+potential to cause serious illness or potentially lethal harm to the laboratory staff and to the community, effective 
+administrative and containment controls should be put in place so minimize these risks. Environmentally and socially 
+sound laboratory operation will require adequate provisions for minimization of occupational health and safety risks, 
+proper management and disposal of hazardous waste (including sharps disposal), use of approved disinfectants, proper 
+ 
+The World Bank 
+ 
+Ethiopia COVID-19 Emergency Response (P173750) 
+ 
+ 
+ 
+ 
+Page 20 of 36  
+     
+ 
+quarantine procedure for COVID-19, appropriate chemical and infectious substance handling and transportation 
+procedure, institutional/implementation arrangement for environmental and social risks, etc. To achieve this, the Ethiopia 
+MoH/Ethiopia Public Health Institute will update the existing Environmental and Social Management Framework (ESMF) 
+prepared for the Africa CDC Project/ bio-safety level (BSL)2 Labs at the implementation stage so that the laboratories to 
+be supported by the project will apply international best practices in COVID-19 diagnostic testing and other COVID-19 
+response activities. Until the update has been cleared, the project will apply the existing ESMF in conjunction with WHO 
+standards on COVID-19 response. International best practice is outlined in the WHO “Operational Planning Guidelines to 
+Support Country Preparedness and Response”, annexed to the WHO “COVID-19 Strategic Preparedness and Response 
+Plan” (February 12, 2020). Further guidance is included in the WHO “Key considerations for repatriation and quarantine 
+of travelers in relation to the outbreak of novel coronavirus 2019-nCoV” (February 11, 2020).  
+54. 
+These guidelines include provisions to address the needs of patients, particularly the most vulnerable – the 
+elderly and those with compromised immune systems due to pre-existing conditions. They also include provisions on 
+the establishment of quarantine centers and their operation considering the dignity and needs of patients, and the 
+maintenance of appropriate hygiene and safety procedures to minimize spread of infection. Each beneficiary medical 
+facility/lab will apply infection control and waste management plan following the requirements of the ESMF. 
+55. 
+The ESMF will adequately cover the procedures for the safe handling, storage, and processing of COVID-19 
+materials including the techniques for preventing, minimizing, and controlling environmental and social impacts during 
+the operation of project supported laboratories. It will also clearly outline the implementation arrangement to be put in 
+place by Ethiopia MoH/Ethiopia Public Health Institute for environmental and social risk management; training programs 
+focused on COVID-19 laboratory biosafety, operation of isolation centers and screening posts, as well as compliance 
+monitoring and reporting requirements. The relevant part of COVID-19 Quarantine Guideline and WHO COVID-19 
+biosafety guidelines will be taken reviewed while preparing the ESMF so that all relevant risks and mitigation measures 
+will be covered. In addition to the ESMF, the client will implement the activities suggested in the Environmental and Social 
+Commitment Plan (ESCP), which has been prepared and disclosed on March 16, 2020. It will also implement the 
+Stakeholders Engagement Plan (SEP) for the project in the proposed timeline. SEP for the proposed project has been 
+prepared and disclosed March 16, 2020. 
+56. 
+The SEP outlines a structured approach to engagement with stakeholders that is based upon meaningful 
+consultation and disclosure of appropriate information, considering the specific challenges associated with COVID-19. 
+In cases of the most vulnerable – the elderly and those with compromised immune systems due to pre-existing conditions- 
+stakeholder engagement should minimize close contact and follow the recommended hygiene procedures as outlined in 
+the CDC Interim Infection Prevention and Control Recommendations for patients with confirmed COVID-19 or persons 
+under investigation for COVID-19 in Healthcare Settings. People affected by project activities, including construction 
+workers on laboratory and clinic sites, should be provided with accessible and inclusive means to raise concerns and 
+grievances. To ensure this approach, the project has included a component on RCCE, encompassing behavioral and 
+sociocultural risk factors assessment, production of RCCE strategy and training documents, production of communication 
+materials, media and community engagement, and documentation in line with WHO “Pillar 2: Risk communication and 
+community engagement”. The approaches taken will thereby ensure that information is meaningful, timely, and accessible 
+to all affected stakeholders, including usage of different languages, addressing cultural sensitivities, as well as challenges 
+deriving from illiteracy or disabilities. Due to the expected country-wide implementation of activities, the differences of 
+areas and socioeconomic groups will equally be taken into consideration during rollout of the RCCE. 
+57. 
+The key risk related to the operation are public and occupational health risks deriving from engagement with 
+people and samples contaminated with COVID19. Accordingly, provisions need thus to be in place for proper safety 
+systems, with a focus on quarantine centers, screening posts, and laboratories to be funded by the project; encompassing 
+above all OHS and waste management procedures. WBG EHS Guidelines, such as those related to Community Health and

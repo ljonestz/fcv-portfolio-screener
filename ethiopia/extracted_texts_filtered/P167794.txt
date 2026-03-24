@@ -1,0 +1,780 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 54044 chars (22.9% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. Country Context 
+1. 
+Ethiopia is a large, predominately rural, and diverse country with a rapidly growing population. Its land mass 
+is more than 1 million km2 (the eighth largest in Sub-Saharan Africa) and the country has an estimated population of 
+approximately 100 million (the second largest in the region), more than 80 percent of whom live in rural areas. 
+Ethiopia is also very diverse, with 98 nationalities and peoples1 and more than 93 spoken languages.2 At an annual 
+population growth rate of 2.5 percent, Ethiopia’s population is estimated to reach 140 million by 2030.3 
+2. 
+Over the past decade, Ethiopia achieved substantial progress in promoting economic, social, and human 
+development. For the past 10 years, the Ethiopian economy has grown at an annual rate of over 10 percent in real 
+terms, making it one of the world’s fastest-growing economies. This period of robust growth was driven by large-
+scale public investment in infrastructure and energy, which was made possible by favorable commodity prices and 
+international debt-relief efforts in the mid-2000s. The poverty rate declined from 55.5 percent in 2000 to 26.7 percent 
+in 2016.4 However, this achievement was more pronounced in urban centers than in rural areas, in part because 
+droughts caused by El Niño affected farm incomes during this period.5 Besides mitigating poverty, Ethiopia made 
+significant progress toward the other Millennium Development Goals (MDGs) of 2015. The primary school enrollment 
+rate quadrupled, child mortality rate was halved, and the number of people with access to clean water more than 
+doubled. Average life expectancy has increased by about one year annually since 2000 and is now higher than the 
+averages for both Sub-Saharan Africa and low-income countries worldwide.6 
+3. 
+Nevertheless, Ethiopia continues to face serious development challenges. Ethiopia remains one of the world’s 
+poorest countries, with a per capita income (that is, gross national income per capita) of US$740 in 2017, far lower 
+than the Sub-Saharan Africa regional average of US$1,646.7 In 2015, Ethiopia ranked 174th out of 188 on the Human 
+Development Index.8 Maternal and child mortality rates remain high. About 38 percent of children under five are 
+stunted, 24 percent are underweight, and 10 percent are wasted.9 Access to education has increased, but only 57 
+percent of children starting first grade will complete the ninth grade. In addition, Ethiopia hosts more than 920,000 
+refugees, primarily from neighboring Somalia, Sudan, South Sudan, and Eritrea, and the number of internally 
+displaced people has recently doubled due to sporadic unrest. While Ethiopia remains one of the most income-equal 
+countries in the world, with a national Gini coefficient of 0.33 in 2015, there are significant variances at the regional 
+and woreda (district)10 level. Gender disparities are also profound nationally, and a combination of cultural norms 
+and socioeconomic inequality greatly increases the risks of gender-based violence (GBV) faced by women.11 
+                                            
+1 Various ethnic groups are given the designation of nationalities and peoples by the Ethiopian constitution.  
+2 World Bank, Country Partnership Framework for the Federal Democratic Republic of Ethiopia for the Period FY18-FY22  
+3 United Nations Department of Economic and Social Affairs (UNDESA), Population Division, World Population Prospects: The 2017 
+Revision (UNDESA, 2017). 
+4 The poverty rate is measured at the international poverty line of US$1.9 per day in 2011 purchasing power parity terms. 
+5 Government of Ethiopia (GoE), Central Statistical Agency (CSA), Ethiopia—Demographic and Health Survey 2016 (CSA, 2017).  
+6 International Monetary Fund (IMF), World Economic Outlook, April 2018 (IMF, 2018). 
+7 World Bank, World Development Indicators (World Bank, 2018). 
+8 United Nations Development Programme (UNDP), Human Development Reports: 2018 Statistical Update ( UNDP, 2018). 
+9 CSA and ORC Macro, Ethiopia Demographic and Health Survey 2016 (CSA, 2016). 
+10 Woredas or districts are the third-level administrative divisions. They are further subdivided into wards (kebeles) or 
+neighborhood associations, which are the smallest unit of local government.  
+11 World Bank, Ethiopia—Priorities for Ending Extreme Poverty and Promoting Shared Prosperity: Systematic Country Diagnostic 
+(World Bank, 2016).  
+ 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 7 of 103  
+     
+ 
+4. 
+The Government of Ethiopia’s (GoE’s) current economic program is defined in the 2016–2020 Growth and 
+Transformation Plan (GTP) Phase II, which aims to enable Ethiopia to achieve lower-middle-income status by 2025. 
+The strategy, linked to both the United Nations’ 2030 Agenda for Sustainable Development and the Sustainable 
+Development Goals (SDGs), advances reform efforts launched under the GTP I, which focused on boosting agricultural 
+productivity and accelerating growth through large-scale public investment in infrastructure. The GTP II emphasizes 
+the need to maintain the high rates of economic growth achieved, but it shifts focus to expand the role of the private 
+sector. Achievement of these objectives requires concerted and multifaceted approaches to: (i) increase investments 
+in human capital; and (ii) address the impacts of climate change, especially given the country’s long history of 
+recurring droughts that have increased in magnitude, frequency, and impact.12 
+B. Sectoral and Institutional Context 
+5. 
+Ethiopia has made significant progress in improving water supply and sanitation (WSS) services in the past 
+ten years. Over 52 million people in Ethiopia now live within 1.5 kilometers (km) of an improved drinking water source 
+compared with only 6 million people in 1990. Over the same period, rates of open defecation (OD) fell by 63 percent, 
+which was the largest decrease observed in the world.13 About 67 million people gained access to a latrine, at an 
+average rate of 2.6 million people per year. Sanitation and hygiene promotion were integrated into wider health-care 
+delivery mechanisms and utilized behavioral change communication (BCC). 
+6. 
+Notwithstanding the progress, much remains to be done. Just 10 percent of all latrines constructed in rural 
+areas qualify as improved sanitation facilities.14 A World Bank water supply, sanitation, and hygiene (WASH) poverty 
+assessment15 reported that the 2016 Ethiopia Socioeconomic Survey found that a significant number of statistically 
+sampled rural springs and wells were contaminated with E. coli. Diarrheal diseases were the second-leading cause of 
+death in Ethiopia in 2017,16 with lack of access to safe WSS services ranking as the second-highest risk factor for death 
+and disability—just behind undernutrition. With rapid increase in population and increase in GoE’s water supply 
+service level standards, an estimated 42 million people are without access to a safe drinking water supply and 94 
+million have no access to improved sanitation, for many OD is the only option. The WSS situation is much better in 
+urban areas according to the assessment but significant equity differences exist between wealthier and poorer 
+households, and larger and smaller urban centers. 
+7. 
+Women and girls suffer disproportionately from the lack of adequate WASH services. They bear the burden of 
+water collection over long distances, which has been associated with negative effects on well-being, school 
+attendance, and a higher risk of GBV. A high prevalence of OD and the poor quality of sanitation facilities also 
+compromise the convenience, safety, health, and dignity of rural women and girls. Gender disparities are exacerbated 
+by the relatively low participation of women and representatives from vulnerable groups, including people with 
+disabilities and youth, in committees responsible for the planning, implementation, and operation and maintenance 
+(O&M) of WASH facilities. 
+                                            
+12 Ethiopia has experienced more than 15 drought events in the past 50 years, including the 2015/2016 El Niño drought and the 
+“Indian Dipole” event in 2017.  
+13 World Bank, Maintaining the Momentum While Addressing Service Quality and Equity: A Diagnostic of Water Supply, Sanitation, 
+Hygiene, and Poverty in Ethiopia (Washington, DC: World Bank, 2018), 1. 
+14 As defined by the World Health Organization/ United Nations Children’s Fund (WHO/UNICEF) Joint Monitoring Programme (JMP), 
+an improved sanitation facility is one that hygienically separates human excreta from human contact. Sanitation facilities shared 
+with other households are not considered to be improved.  
+15 World Bank, Maintaining the Momentum.  
+16 Institute for Health Metrics and Evaluation (IHME), Global Burden of Disease, “Ethiopia,” http://www.healthdata.org/ethiopia.  
+ 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 8 of 103  
+     
+ 
+8. 
+Climate change is making water events more extreme. Recurrent droughts, floods, and rising temperatures 
+make it more difficult to manage water resources effectively and to ensure continuity in WSS service delivery. 
+Moreover, rainfall variability has contributed to increasing frequency and intensity of floods. Recurrent droughts and 
+floods are the greatest climate threat to local communities,17 with wide-ranging impacts on human capital outcomes 
+and the broader Ethiopian economy. Already constrained by the uneven spatial and temporal distribution of water 
+resources, there is increasing competition between human consumption and productive uses. Coping with climate 
+change and its impact on both surface and groundwater sources requires the collection and analysis of water resource 
+data, better forecasting of weather and long-run climate change impacts, increasing stakeholder involvement 
+through education, and the establishment of early warning systems. 
+9. 
+The institutional framework adopted by GoE for WSS decentralization has yielded positive results, but 
+challenges remain. In 2003, the country decentralized service delivery responsibilities to the regional and woreda 
+levels, and now provides support through formula-based fiscal transfers (block grants). Decentralization has placed 
+WSS service delivery in the hands of local governments, thereby making them more accountable to their respective 
+communities. However, the devolution of responsibilities has not always been accompanied by adequate levels of 
+technical and institutional support. In addition, newly established small towns struggle to keep up with rapid 
+population growth and demand for basic services, and their limited financial and technical resources do not allow 
+them to meet GTP II standards for WSS services. Smaller regions and predominantly pastoralist areas with weaker 
+capacities have seen poorer human development outcomes. In some areas, influxes of refugees and internally 
+displaced people further complicate WSS service delivery and strain local water sources. 
+10. The Government’s flagship program is the One WASH National Program (OWNP). It is guided by the 
+Government’s established WASH Implementation Framework (WIF).18 In conjunction with the OWNP, the 
+Government established the consolidated WASH account (CWA) to pool financing for the implementation of the 
+OWNP from the Government’s own source and donors. Phase I, which ran from 2014 to June 2019, was financed by 
+Finland, the United Kingdom, the African Development Bank (AfDB), the United Nations Children’s Fund (UNICEF), 
+and the World Bank. It represented a transition from project-based engagements to a multisectoral programmatic 
+approach. The emphasis of this initial phase was on addressing gaps in access to WSS services. The World Bank 
+provides fiduciary, safeguard, and monitoring and evaluation (M&E) oversight for the overall CWA activities.  
+11. With the launch of OWNP Phase II in 2018, the emphasis is broadening beyond access. The Government aims 
+to improve water service delivery and water quality through (i) the fostering of BCC; (ii) a more integrated approach 
+to WSS that involves water resources management (WRM); (iii) the provision of improved WSS infrastructure; and 
+(iv) the improvement of O&M to keep systems operating as designed. It has also adopted the Citywide Inclusive 
+Sanitation (CWIS) approach in small- and medium-sized towns.19 This approach, being rolled out under the World 
+Bank–supported Second Urban Water Supply and Sanitation Project (UWSSP II) (P156433) in Addis Ababa and 22 
+secondary cities, promotes an integrated approach in the adoption of better sanitation practices, siting, and 
+construction of hygienic latrines and water supplies to limit cross-contamination and ensure that water and sanitation 
+materials are easily available. OWNP Phase II also addresses concerns over climate resilience, gender, and local 
+                                            
+17 GFDRR (Global Facility for Disaster Reduction and Recovery), “Climate Change Country Profile for Ethiopia,” GFDRRR, 2016.  
+18 The National WASH Implementation Framework (WIF) was developed by the GoE and signed on August 2011. This is the framework 
+for implementing the Ethiopian National WASH Program, undertaken by rural and urban communities and supported by 
+governmental agencies, civil society organizations, the private sector, and international donors.  
+19 Small-sized towns are defined as those with between 2,000 and 20,000 inhabitants; medium-sized towns have between 20,000 
+and 100,000 inhabitants (Federal Democratic Republic of Ethiopia, “One WASH National Program: A Multi-Sectoral Swap,” Final 
+Program Document, August 2013) 
+https://www.cmpethiopia.org/content/download/2423/10235/file/Final%20One%20WASH%20PD%20August%2031%202013.zip).  
+ 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 9 of 103  
+     
+ 
+private sector participation. Capacity building for community WASH committees (WASHCOMs), urban water utilities, 
+and local authorities to safely manage and keep water supply systems operating as designed is central to the effort. 
+12. The roles and responsibilities for WASH sector management, divided across federal and local authorities, 
+needs further refinement. The adoption of the OWNP gave stakeholders a common policy agenda and goals but 
+responsibilities are fragmented. Four federal ministries and their respective regional bureaus share responsibility for 
+the implementation of the OWNP: (i) the Ministry of Finance (MoF); (ii) the Ministry of Water, Irrigation, and Energy 
+(MoWIE), through the newly established Water Development Commission (WDC)20 and its Water Resources 
+Development Fund (WRDF); (iii) the Ministry of Education (MoE); and (iv) the Ministry of Health (MoH).21 Adding to 
+the dispersion of responsibility, regional WASH bureaus, woredas, towns, and communities are responsible for 
+planning and managing their WSS services.  
+13. Meeting the sector’s challenges requires that local levels are technically and financially capable to respond. 
+Only then will the federal entities be able to step back and concentrate on providing the sector’s overall policy 
+directions and capital investments. Building technical capacity at the woreda, town, and community levels is essential 
+to strengthening delivery mechanisms and promoting smooth cooperation and coordination among the responsible 
+ministries. Technical assistance (TA) is also needed for the WDC and the WRDF to strengthen their capacity for 
+implementation and lending at the local level for WSS investments. At the federal level weaknesses remain in water 
+resource planning capacity, national surface and groundwater monitoring, and in disseminating drought and flood 
+early warning systems.  
+C. Relevance to Higher-level Objectives 
+14. The proposed Project supports the World Bank’s twin goals and aligns closely with the World Bank’s Human 
+Capital Project and efforts to build climate resilience. Human capital is central to the World Bank Group’s efforts to 
+end extreme poverty by 2030 and to raise the incomes of people in the bottom 40 percentile of the wealth 
+distribution of each country. Ethiopia is an early adopter of the Human Capital Project, which aims to address three 
+aspects of human capital: child survival, health (stunting and adult morbidity), and educational attainment. Through 
+multisectoral work, the World Bank has engaged in Ethiopia’s Investing in Early Years initiative, which is a joint 
+undertaking involving the health and nutrition, water, agriculture, and social protection sectors. The proposed Project 
+aims to build on this momentum to scale up interventions in sanitation that directly link with this initiative and will 
+be implemented in close collaboration with the health and education sectors. It also aims to complement 
+interventions of the National Nutrition Plan and strategically align with the MoH’s Woreda Transformation Plan, of 
+which improved hygiene and sanitation form an integral pillar. Further, sustainable management of water resources 
+is key to improving agricultural productivity and mitigates the risk of negative environmental externalities that have 
+the potential of undermining poverty alleviation, shared prosperity, and access to basic services. Through 
+interventions that enhance WRM and WSS infrastructure and service delivery, the Project intends to improve local 
+resilience to climate change related to floods and droughts in the targeted woredas and small- and medium-sized 
+towns. 
+15. The proposed Project is fully aligned with the World Bank’s Ethiopia Country Partnership Framework (CPF) of 
+fiscal years (FYs) 2018/19–FY 2022/2322, which in turn is aligned with the GoE’s GTP II that covers the period FY 
+2015/16–FY 2019/20. The proposed Project objectives are directly linked to CPF’s Focus Area Two, Building resilience 
+and inclusiveness, which includes: (i) Objective 2.3—increased access to improved water and sanitation; (ii) Objective 
+2.5—improved early child nutrition and early learning outcomes; and (iii) Objective 2.6—enhanced management of 
+                                            
+20 MoWIE, Proclamation No. 1097/2018.  
+21 The Ministry of Urban Development and Housing plays an important role in planning and regulating urban infrastructure.  
+22 Report No. 115135 discussed by the Board of Executive Directors on June 27, 2017. 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 10 of 103  
+     
+ 
+natural resources and climate risks. The proposed Project is also linked to CPF’s Focus Area Three, Improving 
+institutional accountability and confronting corruption, which includes Objective 3—increased capacity and improved 
+governance in service delivery. 
+16. The Project is also aligned with the sector objectives of development partners (DPs). Given these partners’ 
+convergence with the GoE’s and World Bank’s goals for improved WRM, they are expected to contribute to the 
+pooled CWA, managed by the MoF, increasing the efficiency of WASH sector planning and streamlining reporting.
+
+A. Project Development Objective 
+PDO Statement 
+To increase access to safe water supply, sanitation, and hygiene services and strengthen capacity for water resources 
+management and service delivery. 
+ 
+PDO Level Indicators 
+17. The PDO will be assessed against six outcome indicators:  
+i. 
+Number of people provided with access to safe drinking water services23 under the Project 
+(rural/urban/female) 
+ii. 
+Number of people provided with access to safe sanitation services24 under the Project 
+(rural/urban/female) 
+iii. 
+Proportion of kebeles25 within the Project woredas declared and verified as OD free  
+iv. 
+Proportion of water schemes that are functional and supply safe drinking water in areas under the 
+Project 
+v. 
+Proportion of urban water service providers covering their operational costs under the Project 
+vi. 
+Proportion of rural and urban water supply scheme designs using data from the water resources 
+management information system under this Project 
+B. Project Components 
+18. The proposed Project builds on the lessons learned and positive results achieved over the past decade, 
+including from World Bank support. It will support investments in both rural and urban settings consistent with 
+achieving the OWNP and SDG targets. In rural areas, it will support WASH services in Woredas selected based on 
+available resource and selection criteria and will build on investments made in the 382 woredas supported under the 
+Water Supply, Sanitation, and Hygiene Project, P133591 (WASHP) and by other DPs through the CWA, by providing 
+WSS services to an additional 2 million people in rural areas. It will extend WASH support to targeted small- and 
+medium-sized towns, reaching a further 1 million people with piped water and 442,000 people with sanitation 
+services. It will also support an estimated 8,260 WASHCOMs and 180 utilities and help establish 83 new sanitation 
+marketing centers. The proposed Project will also seek to make a significant improvement in the percentage of rural 
+                                            
+23 Safe drinking water services need to meet specific conditions of quality (water supplied should be free from fecal and priority 
+chemical contamination), accessibility (located on premises for urban households, and within a 30-minute round trip of rural 
+households), and availability (based on GTP II per capita standards), as detailed in the results framework. 
+24 Safe sanitation services need to meet the specified conditions for accessibility (an improved facility that is not shared with other 
+households) and service quality (excreta is safely disposed of in situ or emptied, transported, and treated offsite), as detailed in the 
+results framework. 
+25 Kebeles (wards) are fourth-level administrative divisions and constitute a subdivision of woredas (districts). 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 11 of 103  
+     
+ 
+centers declared OD free; move consumers up the sanitation “ladder”; further promote women’s participation in the 
+sector; promote local private sector participation; prioritize the geographic targeting of WASH investments to areas 
+where undernutrition and outbreaks of excreta- and water-borne diseases are prevalent; and operationalize a sector 
+management information system (MIS) to enable a shift toward results-based implementation approaches. 
+19. The proposed Project replicates the approach taken in WASHP and follows the Government’s OWNP Phase II 
+program document. The OWNP provides the framework for harmonizing GoE and donor approaches to planning, 
+procurement, implementation, and financing, and serves as the foundation on which a closer partnership can be built 
+between planners, implementers, DPs, and others to achieve common goals. Under the WASHP, the use of the CWA 
+allowed donors to pool funds into a single account to harmonize planning, budgeting, implementation and reporting 
+of WASH activities. The proposed Project will follow a similar approach. The CWA is the primary financing instrument 
+through which DPs channel their resources to jointly implement the activities set out in the OWNP. The proposed 
+financing by the International Development Association (IDA) would be the first donor support to OWNP Phase II and 
+is expected to have a catalytic role in attracting finance from other donors and international financial institutions. An 
+estimated US$290 million has been mobilized and will be channeled through the CWA from existing and new DPs 
+once their resource allocations are confirmed. The Project currently dimensions result from the IDA’s contribution. 
+As funds are added to the CWA on a rolling basis, the Consolidated Results Framework will be updated as needed in 
+the Project Operations Manual (POM). Once the majority of contributing DPs commit their resources, consolidated 
+CWA results will be reviewed at Mid-Term Review (MTR) stage and revised accordingly in the Results Framework to 
+reflect consolidated targets and results. 
+20. The proposed Project provides incentive mechanisms to promote efficiency that will lay the foundation for a 
+shift toward results-based financing. Ten percent of IDA financing will remain unallocated at the beginning of the 
+Project and will be used as funds to incentivize and empower performance. At midterm review, the unallocated 
+resources will be allocated to regions based on progress in meeting predetermined Project performance criteria that 
+are outlined in Annex 2 and will be set out in the POM. This approach has been introduced to embed incentives, since 
+disbursement-linked indicators cannot be adopted due to the lack of a sector MIS to adequately monitor results. The 
+financing thus allocated will be used for subprojects that will be appraised based on predetermined criteria set out 
+in Annex 2 for delegated and non-delegated regions. Financing will be provided regionally on a “first appraised, first 
+financed” basis until the unallocated amount is used. 
+Component 1—Rural Water Supply, Sanitation, and Hygiene (US$110 million equivalent of which US$92.29 million 
+equivalent is from IDA financing).  
+21. This component will help increase access to safe and reliable WSS services and promote hygienic practices in 
+selected rural woredas that have not previously benefited from the WASHP interventions or that require expansion 
+and improvement of services in new communities to achieve universal access. For woredas chronically impacted by 
+climate variability and where water resources are insufficient to meet demands, considerations for multi-woreda 
+schemes will be developed under Component 4. These activities will be complemented with measures to protect 
+water sources, improve water quality, and increase sustainable water use, thereby increasing resilience to climate-
+exacerbated droughts and floods in the targeted woredas. The component is structured into two subcomponents: (i) 
+increasing rural access to WSS services; and (ii) enhancing service delivery management capacity. 
+Subcomponent 1.A—Increasing Rural Access to Water Supply and Sanitation Services (US$96.60 million 
+equivalent of which US$82.80 is from IDA financing) 
+22. This subcomponent will implement and continue the support provided through the Sustainable and Equitable 
+WASH (P157690) Programmatic TA. It will finance the following activities: 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 12 of 103  
+     
+ 
+i. 
+Infrastructure investments for rural water supply, including the construction and rehabilitation of water 
+supply schemes based on a sector-approved menu of technology options (that considers water quality 
+standards, gender-informed design, climate adaptation strategies, and the scoping and financing of 
+renewable energy sources, including non-carbon-based solutions).26  The rehabilitation and development 
+of new water supply infrastructure will increase the available water supply and the reliability of its service 
+provision, thereby making the beneficiaries less vulnerable to water shortages and droughts. 
+ii. 
+TA and procurement of goods and TA to support rural water supply planning and capacity building 
+activities such as: (i) the development of Woreda Strategic WASH Plans; and (ii) capacity building to 
+strengthen and sustain participating woredas’ capacity to plan, coordinate, implement, and manage WSS 
+services jointly with other OWNP core implementing sectors. Better planning and management of WSS 
+services will lead to more reliable services, more adaptive WRM, a reduction in water losses and non-
+functionality. All of these will increase the beneficiaries’ resilience to droughts and floods. 
+iii. 
+TA and procurement of goods and TA to support supply- and demand-side sanitation interventions. 
+Demand-side interventions will include: (i) the rolling out of new BCC campaigns, closely aligned with 
+health and nutrition messaging, that promote a gender-inclusive design, links to sanitation and GBV, and 
+address issues of household water quality and safe storage; and (ii) the establishment of community 
+savings structures to promote household investments in the construction and upgrading of domestic 
+sanitation facilities. On the supply side, it will support: (i) the scale-up of pilot interventions to establish 
+sanitation marketing centers; and (ii) sanitation marketing capacity building for vocational training 
+centers, microcredit institutions, micro and small enterprises (MSEs), local governments, etc. These 
+activities will improve both sanitation facilities and practices and contribute to a reduction in the discharge 
+of untreated effluents into water bodies, which would reduce potential adverse impacts of contaminated 
+flood waters.  
+Subcomponent 1.B—Enhancing Service Delivery Management Capacity (US$13.40 million of which US$11.49 
+million equivalent is from IDA financing)  
+23. This subcomponent will finance TA and procurement of goods to improve sustainability, addressing issues of 
+poor water quality, non-functionality, and postconstruction follow-up. Activities will include: (i) enabling 
+WASHCOMs to operate water services; (ii) clustering WASHCOMs with nearby urban utilities to enlarge TA 
+opportunities; (iii) leveraging women- and youth-led MSEs to address supply chain and O&M challenges; (iv) 
+strengthening the capacity of the relevant water, health, and education regional bureaus, woreda offices, and 
+community facilitation teams (CFTs); (v) enhancing WRM and drinking water quality monitoring; (vi) promoting 
+hygiene and household safe water treatment and storage practices; and (vii) enhancing O&M training curricula under 
+vocational skills programs to increase local private sector capacity (e.g technicians, artisans, construction firms, etc.).  
+Component 2—Urban Water Supply, Sanitation, and Hygiene (US$105 million equivalent of which US$90 million 
+equivalent is from IDA financing).  
+24. This component will contribute to increasing access to WSS services and to strengthening the capacity of town 
+water boards and utilities to effectively manage water resources and WSS service delivery in selected small- and 
+medium-sized towns. More efficient, sustainably run utilities will lead to reduced water losses and energy efficiency 
+gains, which will increase water supply, improve water quality, and lead to more climate-resilient infrastructure. 
+Based on lessons from the WASHP, this component will follow a stepped approach that includes the provision of TA 
+                                            
+26 Twenty-eight RPSs that are expected to be newly constructed within the targeted rural woredas have finalized designs, and 
+bidding documents are ready for tendering. 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 13 of 103  
+     
+ 
+for some 180 selected towns and financing of infrastructure investments for selected towns that meet readiness 
+criteria and availability of resource, as outlined in Annex 2 and the POM. It will finance the following activities: 
+i.  Infrastructure investments in urban water supply, including: (i) the construction, rehabilitation, and 
+optimization of water production, treatment, and distribution systems, which will increase resilience to 
+droughts through improvement of water supply and service reliability; and (ii) the application of climate 
+adaptation measures such as conjunctive use, strategic storage, and reduction of nonrevenue water (NRW) 
+to strengthen water supply systems’ resilience to droughts and floods.27 
+ii.  Infrastructure investments in urban sanitation that will promote the CWIS approach to urban sanitation 
+service provision.28 The proposed investments include: (i) the construction and rehabilitation of public and 
+communal sanitation facilities; (ii) the creation of sanitation marketing centers; and (iii) on-site treatment 
+at public sanitation facilities and fecal sludge handling sites. Rehabilitation and development of sanitation 
+infrastructure will enhance the residents’ resilience to floods (as explained under Subcomponent 1Aiii). 
+iii.  TA and procurement of goods for urban WSS, including: (i) the preparation of town WSS business plans 
+(TWBPs) that consider demand, utilize a gender-informed design, define climate adaptation strategies 
+(including contingency planning), assess infrastructure needs, vet proposed tariffs, and highlight human 
+resources needs; (ii) the establishment and/or strengthening of urban water boards and water utilities to 
+efficiently manage water resources and WSS assets and services; (iii) the preparation of feasibility and 
+detailed design studies for selected WSS investments, including adequate climate change adaptation 
+measures; (iv) the design and implementation of operational efficiency improvements to reduce NRW and 
+save energy (e.g., reduction in pumping costs, use of renewable energy, etc.); (v) the scoping and vetting of 
+sanitation options within the TWBPs; (vi) the establishment of sanitation marketing centers to be operated 
+by the local private sector; (vii) the promotion and capacity building of women- and youth-led MSEs for the 
+supply chain and O&M of sanitation facilities; (viii) capacity building support for national and regional water 
+technology institutes and (ix) the promotion of microcredit institutions to assist urban househo
+
+[... procurement/fiduciary sections omitted ...]
+
+contribute to strengthening the management of water resources for service delivery and 
+to increasing access to WASH services in selected flood- and drought-prone areas (details found in Annex 2). The 
+component is divided into the following three subcomponents: (i) water resource monitoring and planning; (ii) 
+climate-adaptive service delivery; and (iii) a contingency emergency response component (CERC).  
+Subcomponent 4.A—Water Resource Monitoring and Planning (US$5 million of which US$4.29 million equivalent 
+is from IDA financing)  
+27. This subcomponent, through the River Basin Development Authority reporting to the MoWIE and the National 
+Meteorological Agency, will support the consolidation and collation of monitoring and planning data on surface 
+and groundwater resources to inform the design and management of water supply service delivery. It builds on 
+activities supported by the World Bank–financed Modernization of Hydrometeorological Services TA (P162600) and 
+will enhance the WSS sector and beneficiaries’ resilience to climate change—as adequately managed water resources 
+are key to dealing with recurrent droughts, floods, and rising temperatures, which exacerbate water stresses. 
+28. This subcomponent will finance TA and procurement of goods and services to: (i) strengthen collection, analyses, 
+and dissemination of data on weather, climate, and surface and groundwater quality and quantity; (ii) enhance 
+drought and flood early warning systems; (iii) enhance WRM planning capacities; (v) develop guidelines for catchment 
+management interventions to protect water sources; and (vi) support capacity building and coordination to increase 
+institutional readiness and disseminate early weather and climate warning information at the national, regional, 
+woreda, and community levels.  
+Subcomponent 4.B—Climate-Adaptive Service Delivery (US$60 million of which US$51.43 million equivalent is 
+from IDA financing)  
+29. This subcomponent will support selected woredas and urban towns in identified “hotspot” drought- and 
+flood-prone areas to increase their climate resiliency. It will promote climate-adaptive approaches for WSS services 
+that extend beyond local administrative boundaries, requiring tailored management arrangements. It will be 
+managed by the WDC and will finance the following activities: 
+i. 
+Infrastructure investments, including sustainable water source development and promotion of conjunctive 
+water use where possible, using boreholes, spring development, water harvesting (e.g., cisterns), 
+groundwater recharge (e.g., sand dams), storage (e.g., micro-dams, tanks, etc.), installation of renewable 
+energy sources (from hydropower, solar and wind), and distribution networks and water points Sanitation 
+and hygiene infrastructure will be dimensioned accordingly. 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 15 of 103  
+     
+ 
+ii. 
+TA support to strengthen resilience planning, including: (i) improved contingency and emergency planning; 
+(ii) investment preparation (feasibility and engineering designs) for climate-adaptive technologies; (iii) 
+preparation of guidelines (menu of appropriate technologies, design considerations, etc.); and technical 
+standards to facilitate scoping, design, and construction of climate-adaptive water supply service delivery. 
+Subcomponent 4.C—Contingency Emergency Response Component (CERC) (US$0 million) 
+30. This subcomponent will allow, on an as-needed basis, a reallocation or replenishment of the Project resources 
+to woreda- and regional-level implementing agencies to address elements of an emergency response. The outline, 
+the predefined framework of activities, and associated triggers that would redirect resources to support emergency 
+efforts are incorporated into the POM. A CERC manual will be formally adopted by the GoE and incorporated as an 
+Annex to the POM that will guide any CERC activities in the event of an emergency. 
+ 
+31. Component 5—Institutional Strengthening and Project Management (US$25 million equivalent of which 
+US$21.43 million equivalent is from IDA financing).  
+Subcomponent 5.A—Operationalization of a Sector MIS (US$5 million of which US$4.29 million equivalent is from 
+IDA financing) 
+32. This subcomponent will support the improvement of M&E systems and activities intended to lay the 
+foundation for a shift to results-based approaches in subsequent operations. It builds on the ongoing TA and 
+financial support provided by the CWA DPs (the United Kingdom Department for International Development [DFID] and 
+AfDB) that are financing the second National WASH Inventory, development of the MIS, and procurement of 
+monitoring equipment. It will focus on the institutionalization and improvement of the National WASH Inventory and 
+MIS. It will finance TA and procurement of goods and services to: (i) train, equip, and support M&E staff at regional 
+and local levels; (ii) introduce remote sensing applications; (iii) further improve the system to realize real-time 
+monitoring; and (iv) bring successful global experiences with information systems for rural WSS services to Ethiopia.29 
+Subcomponent 5.B—Institutional Strengthening and Project Management (US$20 million of which US$17.14 
+million equivalent is from IDA financing) 
+33. This subcomponent will support federal, regional, and woreda implementing agencies to manage and 
+supervise the proposed activities effectively. It will finance TA, procurement of goods, training and operating costs 
+including: (i) capacity building and financing of additional implementation support, technical experts, and equipment; 
+(ii) project management and coordination between implementing agencies; (iii) procurement and contract 
+management; (iv) financial management (FM); (v) application of environmental and social safeguard instruments; 
+and (vi) knowledge management and experience sharing. 
+C. Project Beneficiaries 
+34. The proposed Project will directly benefit approximately 3 million people through the provision of safe water 
+supply services, of which 1.9 million people will also gain access to safe sanitation facilities in newly selected areas 
+across the country. Out of the 3 million target beneficiaries, 1 million live in urban towns and 2 million live in rural 
+areas. These beneficiaries will add to the 10.7 million people provided with access to improved WSS services as a 
+result of the World Bank’s operations in the sector over the past decade.30 The Project also complements the 3.3 
+million beneficiaries of improved access to WSS services in Addis Ababa and the 22 secondary cities targeted under 
+the UWSSP II. The Project aims to develop and rehabilitate some 8,260 rural water supply systems in selected 
+                                            
+29 For example, the information system for rural WSS (SIASAR: http://www.siasar.org) that helped enhance the sustainability of the 
+rural WASH interventions in various countries of Latin America, Africa, and Central Asia. 
+30 Aggregated results from the Water Supply and Sanitation Project (P76735), the UWSSP (P101473), and the WASHP (P133591). 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 16 of 103  
+     
+ 
+woredas, in addition to the 382 woredas supported under the WASHP. In urban areas, 180 selected small- and 
+medium-sized towns will be supported with capacity building and TA and selected new towns will receive 
+infrastructure investment for water supply upon meeting the readiness criteria. The Project will support WASHCOMs; 
+town water utilities; and woreda, zonal, regional, and federal water, health, education, and finance offices and OWNP 
+implementing agencies through enhancement of planning, budgeting, and implementation capacities. Relevant BCC 
+and training material will be adapted to local languages. Furthermore, 2,800 health facilities and schools will be 
+provided with advanced WASH facilities. MSEs, primarily women and youth led, will also benefit from income-
+generating opportunities under the Project. 
+ 
+ 
+D. Results Chain 
+Issues/Challenge 
+Activities 
+Inputs 
+Intermediate 
+outcomes 
+Outcomes 
+Low access to safe 
+water supply services 
+Investment 
+support to rural 
+and urban water 
+supply service 
+improvement 
+Studies and designs for improved water supply 
+infrastructure development  
+Functional rural and urban 
+water supply schemes  
+Increased access 
+to safe water 
+supply services 
+Water source protection and development 
+Construction of water supply systems (RPS) 
+(reservoirs, water points, equipment, etc.) 
+Construction and rehabilitation of WASH 
+packages for schools and health facilities  
+Provide test kits and equipment for water quality 
+monitoring at source and supply 
+Improved water quality 
+mechanisms in place 
+Provide materials and carry out awareness 
+campaigns for household-level water treatment  
+Low access to safe 
+sanitation facilities  
+Investment 
+support to rural 
+and urban 
+sanitation 
+service 
+improvement 
+Produce BCC materials and carry out awareness 
+campaigns on sanitation and hygiene practices 
+Increased demand for 
+improved sanitation  
+Improved 
+hygiene practices 
+Construct sanitation marketing centers, 
+coordinate and promote business activities 
+Increased availability of 
+products/materials for 
+improved sanitation  
+Increased access 
+to safe sanitation 
+services 
+Improve quality and management of public and 
+communal latrines 
+Increased capacity for 
+containment, sludge 
+collection, transport, and 
+safe disposal 
+Provide fecal sludge transport equipment 
+(vacuum trucks) 
+Upgrade standard design for advance sanitation 
+in schools and health facilities  
+Improved sanitation 
+facilities for schools and 
+health centers 
+Construction and rehabilitation of WASH 
+packages for schools and health facilities 
+Limited capacity of 
+WASH service 
+providers results in 
+lack of sustainable 
+WASH schemes 
+TA and 
+investment 
+support to build 
+capacity of 
+woredas and 
+WASHCOMs 
+Develop O&M manuals and guidelines  
+Increased local capacity to 
+manage WASH services 
+(governance/institutional, 
+financial, and technical 
+capacity and women 
+participation) is 
+strengthened 
+Improved 
+functionality of 
+WSS schemes 
+Support development and implementation of 
+Woreda WASH Strategic Plan  
+Establish and strengthen community-level WASH 
+management systems  
+Ensure spare parts and maintenance crew for 
+O&M are available 
+Provide training to WWTs and WASHCOMs 
+Ensure participation of women and girls in WASH 
+service planning, design, and management 
+TA and 
+Update business plans for utilities 
+Improved revenue of 
+Improved 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 17 of 103  
+     
+ 
+investment 
+support to build 
+capacity of 
+utilities and 
+water boards 
+Support service operational improvements, 
+including NRW reduction to save energy 
+utilities and controlled 
+expenditure 
+operational 
+efficiency of 
+utilities  
+Establish Integrated Utility MIS (billing, 
+accounting, customer management, etc.)  
+Train utilities and water boards  
+Limited capacity for 
+water resource 
+planning and 
+emergency responses 
+TA and 
+investment 
+support to water 
+resource 
+planning and 
+emergency 
+response 
+Establish hydromet and early warning systems 
+Enhanced use of WRM 
+data for climate-resilient 
+WSS designs 
+Increased 
+resilience of WSS 
+services to 
+climate shocks 
+Carry out water resource mapping, monitoring, 
+and planning 
+Implement emergency response mechanisms 
+(e.g., household water storage, household water 
+treatment, procurement of equipment, etc.) 
+Improved capacity on 
+emergency preparedness 
+and response 
+E. Rationale for World Bank Involvement and Role of Partners 
+Rationale for World Bank involvement 
+35. The World Bank plays a key role in coordinating donor support to the sector and continues to leverage 
+analytical and financial support to strengthen the GoE’s decentralized implementation modalities, orient policy 
+shifts, and support achievements of sector targets. The World Bank provided critical contributions that enabled 
+Ethiopia to meet the MDGs for water supply,31 which placed it among the small group of countries in Sub-Saharan 
+Africa to do so. The World Bank has supported the GoE’s shift from project-based interventions to a multisectoral, 
+program-based approach (i.e., the OWNP) and the establishment of the CWA—a harmonized funding mechanism 
+with pooled financing from other DPs. Through its ongoing projects, namely the WASHP (P133591), which supports 
+OWNP Phase I and the UWSSP II (P156433), the World Bank continues to be the primary financier of the sector and 
+to play a pivotal role in coordinating proposed activities with parallel initiatives financed through other national 
+flagship programs such as the Productive Safety Net Program (P136438), the Agriculture Growth Program (P148591), 
+the proposed Lowlands Livelihood Resilience Project (P164336), the Health MDGs PforR (P160108), the General 
+Education Quality Improvement Project (161377), and the Enhancing Shared Prosperity through Equitable Services 
+project (151432). The World Bank is well positioned to support the GoE in meeting the GTP II and SDG targets. The 
+World Bank has the leverage and convening power to mobilize additional resources from other DPs and support the 
+sector in shifting to a wider focus beyond increasing access to addressing WRM and WSS service delivery. In addition 
+to financing, the World Bank continues to support the sector through analytical outputs, TA, and mainstreaming 
+lessons learned and best practices. 
+Role of Partners  
+36. Project funds will be pooled into the CWA, which is also funded by the DFID, AfDB, UNICEF, and the 
+Government of Finland to jointly fund OWNP. The CWA POM is the guiding document for joint implementation and 
+presents the Consolidated Results Framework. New bilateral donors are currently in the process of funneling 
+resources through the CWA.32 Each DP signs a bilateral financing agreement with the GoE and funds are subsequently 
+pooled into the CWA. Once allocations are confirmed from all partners, during the MTR stage, the POM and Results 
+Framework will be revised to dimension additional funds and targets accordingly. The World Bank will provide 
+fiduciary, safeguards and M&E oversight for all CWA-financed activities. The CWA partners will co-lead and participate 
+in joint implementation review missions, CWA DPs’ coordination meetings, and CWA’s National WASH Steering 
+Committee (NWSC) meetings, which are chaired by the minister of the MoWIE. In addition, to provide support 
+                                            
+31 Some 10.7 million people gained access to improved WSS services in Ethiopia as a result of the World Bank’s operations in the 
+sector over the past decade, including the Water Supply and Sanitation Project (P076735), the UWSSP (P101473), and the WASHP 
+(P133591). 
+32 The Korean International Cooperation Agency has finalized its bilateral agreement with the GoE. 
+ 
+The World Bank 
+ 
+One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) (P167794) 
+ 
+ 
+ 
+ 
+Page 18 of 103  
+     
+ 
+through the CWA, these DPs, together with other bilateral donors and international nongovernmental organizations, 
+are actively supporting the sector under the WIF and targets set forth in the OWNP. Activities implemented and 
+piloted at local levels have provided valuable lessons learned to be scaled up through the CWA. 
+F. Lessons Learned and Reflected in the Project Design 
+37. Narrowly targeted investments can make inroads in addressing the water sector’s challenges but are not 
+sufficient to place the sector on a sustainable path. By all measures, Ethiopia did well in the MDG era as it increased 
+access to improved WSS services. However, the World Bank’s experience in both developing countries and member 
+countries of the Organization for Economic Co-operation and Development has demonstrated that issues surrounding 
+water sustainability and efficient use on an economywide basis cannot be adequately addressed under such a narrow 
+policy mandate. Thus, this proposed Project seeks to enlarge the GoE’s scope of intervention through: (i) adopting a 
+comprehensive sector strategy and plan (i.e., the OWNP); (ii) resolving the water quality challenge; (iii) properly 
+planning WSS systems to keep service affordable; (iv) addressing financial issues in urban areas; and (v) taking the 
+initial and foundational measures to combat the challenges brought about by climate change. These elements, taken 
+together, represent a shift toward a culture of national integrated WRM and service delivery—the most sustainable 
+approach to meeting the country’s many water sector challenges. 
+38. Achieving sustainable, safe water supply requires a combination of effective investments and social measures. 
+Experience in large and predominately rural countries has demonstrated that capital investments are necessary, but 
+not sufficient in themselves, to provide sustainable access to safe water and adequate sanitation. For example, the 
+predominant policy across the globe is to deliver water to as many households as practical through a piped system 
+that is based on protected and then treated surface water, or through deep boreholes that draw from unpolluted 
+aquifers. And sanitation facilities must be designed to eliminate water contamination. While this policy’s technical 
+solutions are straightforward (i.e., provide the correct WSS infrastructure to deliver safe water), infrastructure 
+systems frequently fall into disrepair33 and water quality slowly reaches the point where the water is no longer safe. 
+In addition, experience has demonstrated that without public knowledge on how the fecal contamination chain works 
+and can be broken, the negative effects of infrastructure failure quickly show up in deteriorating health indicators. 
+The lesson learned is that both “hard” and “soft” investments are needed to sustain safe water supply. The proposed 
+Project reflects this understanding through (i) its emphasis on water supply systems that are properly designed, that 
+predominantly use boreholes, that incorporate water treatment, and that use pipes to deliver water on household 
+premises when feasible; (ii) adequate source protection measures; and (iii) improved sanitation facilities that are 
+designed to contain and manage excreta and fecal sludge safely. In addition, it will rehabilitate existing piped water 
+systems to reduce leaks, which are sources of polluted surface water infiltration. The scale-up of scheme-level water 
+quality monitoring will be strengthened and enforced to identify contaminated water sources that require attention. 
+Infrastructure policy will be equally emphasized in the Project by fostering a CWIS approach, utilizing BCC, promoting 
+gender equity, and building technical capacity into urban water utilities and WASHCOMs to safely manage and keep 
+new water systems operating as designed. 
+39. The provision of safe water supply and fecal sludge management systems is a key component of improving 
+human capital. Statistical evidence from the Lao People’s Democratic Republic has shown that poor WASH services 
+cause environmental enteric dysfunction, which is implicated as a cause of child stunting. This same causality and 
+effect have been observed in Ethiopia, where current approaches have not yielded the intended impacts due to a 
+high level of water contamination by fecal matter at the source and in potable water, linked to a high level of OD and 
+                                            
+33 The Ethiopian National WASH Inventory, last conducted in 2011, reported that 25 percent of water supply schemes were 
+nonfunctional.

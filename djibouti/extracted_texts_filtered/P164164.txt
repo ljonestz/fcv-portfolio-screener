@@ -1,0 +1,1370 @@
+[FILTERED: FCV-relevant sections only. Original length: 120000 chars → Filtered: 85326 chars (28.9% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+ANNEX 1: KEY POSITIONS FOR THE NATIONAL NUTRITION AND FOOD COORDINATION 
+AUTHORITY AND RECRUITMENT METHOD ............................................................................ 48 
+ANNEX 2: DISBURSEMENT-LINKED INDICATORS MATRIX AND VERIFICATION PROTOCOL ...... 49 
+ANNEX 3: FINANCIAL MANAGEMENT .................................................................................... 57 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 1 of 65
+
+A. Country Context 
+ 
+1. 
+Djibouti is a small lower-middle income country which occupies a pivotal position for trade and security in 
+the Horn of Africa and the Gulf of Aden. It overcame violent civil conflict in the early 1990s to reach a political 
+accommodation between the major ethnic groups in the country, and has been able to accelerate economic growth 
+by securing foreign direct investments and rents from foreign countries for military bases and for port services. The 
+growth rate of the annual gross domestic product (GDP) was estimated at 6.5 percent in 2016, and inflation increased 
+to 3.5 percent in 2016 from 2.6 percent in 2015, spurred mainly by demand for housing and services.  
+ 
+2. 
+Djibouti remains a fragile state and faces serious obstacles to poverty reduction and to the improved health 
+of its population. In 2013, an estimated 40.7 percent of Djiboutians lived in poverty, consuming less than DJF 117,134 
+per capita per year (US$2.98 per day in 2011 purchasing power parity, PPP). In the same year, 23 percent of 
+Djiboutians lived in conditions of extreme poverty, spending less than DJF 78,157 per capita per year (US$1.99 per 
+day in 2011 PPP), with rural areas showing higher rates of extreme poverty (44 percent). Unemployment remains 
+widespread, with the rate reaching 39 percent in 2015 according to official estimates; the rate is higher among 
+women (49 percent) and in rural areas (59 percent).  
+ 
+3. 
+There are persistent concerns with food insecurity, mainly due to limited arable land and low rainfall, which 
+have adverse effects on livelihoods and agricultural production. The location of Djibouti also means that it has an 
+arid desert climate, high temperatures year-round, prolonged droughts, limited rainfall, limited arable land, and a 
+scarcity of ground water.  As a result, agriculture is almost nonexistent, accounting only for about 3 percent of GDP 
+and 2 percent of employment. The country is heavily dependent on food imports, as well as imports of manufactured 
+goods and energy products. Furthermore, the recent prolonged drought in Djibouti exposed at least 20 percent of 
+the population in Djibouti city and 75 percent of rural households to food insecurity.  
+ 
+4. 
+A key factor behind the limited transmission of growth to prosperity and poverty reduction is the 
+accompanying rise in inequality, which increased in Djibouti between 2002 and 2017. Inequality, poverty and food 
+insecurity lead to a multitude of challenges, with childhood malnutrition being particularly damaging. Despite 
+improvements in the last 20 years in Djibouti’s score on the Global Hunger Index (from 46.7 in 2000 to 31.4 in 2017) 
+– a composite indicator of child undernourishment, undernutrition, and mortality – Djibouti continues to be among 
+the worst performers, ranking 100th out of 119 countries in 2017.1  
+ 
+5. 
+In this context, Djibouti’s Vision 2035 as well as the Social Protection Strategy (2012-2022) set an ambitious 
+agenda for improving the standard of living. Through Vision 2035, the Government of Djibouti (GoD) recognizes the 
+importance of nutrition in building human capital, and the Social Protection Strategy recognizes the critical role of 
+social safety nets in alleviating the devastating effects of poverty. The latter emphasizes the importance of a long-
+term, development-oriented approach integrating different forms of social assistance, including those associated 
+with improving the nutrition status of the population. 
+ 
+ 
+                                            
+1 IFPRI. 2017. Global Hunger Index.  
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 2 of 65 
+     
+ 
+B. Sectoral and Institutional Context 
+ 
+6. 
+Maternal and infant malnutrition are the number one cause of death and disability in Djibouti, while wasting 
+diarrheal disease due to poor access to quality water in rural areas, and acute respiratory infections are the most 
+common causes of morbidity and infant mortality.2 Despite recent gains in maternal and child survival and some 
+improvement in overall nutrition status, Djibouti lags behind neighboring countries, as well as countries with a similar 
+income level. While the fertility rate has steadily decreased to 3.1 per 1,000 live births, infant mortality rate (IMR) 
+and maternal mortality ratio (MMR) remain higher than those of economically comparable nations and countries 
+within Djibouti’s geographic region.3 The MMR, although decreasing, is still estimated at 229 per 100,000 live births 
+(2012), markedly higher than the target of 185 that was set for 2015.4 This data is indicative of the challenges that 
+remain in improving access to and quality of obstetric and neonatal care. Only 23 percent of women receive four or 
+more antenatal care visits, and only 54 percent of women receive any form of postnatal care.5 At the same time, 
+although the IMR decreased from 71.7 in 2005 to 54.2 in 2015, the rate remains high.6   
+ 
+7. 
+Chronic malnutrition (stunting) rates in children remain unacceptably high in Djibouti. Stunting (height-for-
+age) is an urgent nutrition and a human development crisis in Djibouti, and affected over 30,000 children in 2013 (30 
+percent of children under 5). Between 2002 and 2013 stunting increased by 3 percentage points, with an annual 
+average rate of reduction of negative 2.2 percent, calling for the need to first reverse this trend and then aim for an 
+overall decrease in the stunting rate in Djibouti. The age group most affected by stunting are children 12-23 months 
+of age, with approximately 41.5 percent of this age group suffering from stunting. Prevalence of underweight (weight-
+for-age) among children under 5 is 30 percent. Exclusive breastfeeding protects infants from illness and provides 
+essential nutrition during the first six months of life, but in 2014 only 13.4 percent of infants less than six months 
+were exclusively breastfed – one of the lowest rates in the world.7 In addition, there is a steep and progressive rise 
+in stunting after weaning (i.e., from 19.5 percent in 6-11-month-olds, to 34.4 percent in 12-23-month-olds).  This is a 
+common pattern in many developing countries, as a child is introduced to greater disease risks through inadequate 
+complementary feeding and inappropriate water, hygiene and sanitation conditions and practices. 
+ 
+8. 
+Acute malnutrition (wasting) rates in children are very high and far exceed the World Health Organization’s 
+severity threshold. Wasting (weight-for-height) remains high at 17.8 percent among children under 5,8 and 5.7 
+percent of children are severely wasted. Djibouti has one of the highest wasting prevalence rates globally. Given the 
+direct link between wasting and child mortality, the high rates of wasting in children under 5 signal a critical situation 
+requiring an urgent response (wasting prevalence rates above 15 percent are classified by the World Health 
+Organization (WHO) as being critical levels of public health significance9).  
+ 
+9. 
+Stunting and wasting are national challenges, affecting all geographical areas and wealth quintiles, although 
+the poor and rural populations are at a proportionately higher risk. Djibouti has one of the highest proportions of 
+                                            
+2 Institute of Health Metrics and Evaluation. 2016 Djibouti Country Profile. 
+3 Ibid. 
+4 Ibid.  
+5 Ministry of Health Djibouti - Statistics and Studies Department, and Pan Arab Project for Family Health. 2012. Djibouti Family Health 
+Survey.  
+6 Ibid.  
+7 Ministry of Health Djibouti, UNICEF and the European Union. 2013. National survey on nutrition using SMART methodology 2013.  
+8 SMART survey, 2013. 
+9 WHO. Nutrition Landscape Information System (NLIS) country profile indicators: interpretation guide. 2010 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 3 of 65 
+     
+ 
+urban populations among the lower middle-income countries in Middle East and North Africa (MENA) and Sub-
+Saharan Africa (with around 80 percent of the population in urban areas and 60 percent in Djibouti City). The 
+prevalence of stunting is higher among rural residents, compared to their urban counterparts (42.3 percent vs. 30.0 
+percent). Obock, Dikhil and Tadjourah regions have the highest stunting rates at 45.9%, 44.2% and 40.8%, 
+respectively. Malnutrition is also linked to the socio-economic status of the household, and stunting is higher among 
+the poorest twenty percent of the population as compared to the richest (37.2 percent vs. 18.2 percent).  
+ 
+10. 
+It is estimated that, globally, one-third of perinatal deaths and one-tenth of maternal mortality are 
+attributable to iron deficiency anemia, and anemia increases the risk of premature delivery and low birthweight. 
+The adequate intake of micronutrients, particularly iron, vitamin A, iodine and zinc, from conception to age 24 
+months is critical for child growth and mental development. In Djibouti, nearly half (43 percent) of children under 
+five and one-third (32 percent) of pregnant women suffer from anemia. This form of malnutrition increases mortality, 
+weakens immunity, hinders cognitive development, and results in birth complications. In addition, vitamin A 
+supplementation rates have dropped from 95 percent in 2011 to 50 percent in 2015. Adolescence is a time of rapid 
+physical growth, second only to the first year after birth; and is a period in which one can gain up to 50 percent of 
+their adult weight and skeletal mass, and more than 20 percent of their adult height. Adolescent girls have an 
+increased risk of being undernourished since their rapid growth during puberty increases their needs for protein, iron 
+and other micronutrients, and undernourished girls are more prone to complications of labor and delivery, and to 
+give birth to low birth weight babies. Therefore, it is important to reach adolescents girls and women early and 
+improve their health and nutrition status prior to entering their reproductive health years, such as through 
+intermittent weekly iron and folic acid supplementation.    
+ 
+11. 
+According to a contextual analysis conducted by the Ministry of Health (MoH) in 2014, and presented during 
+the Identification Mission, the underlying determinants of stunting include poor infant and young child feeding 
+(IYCF) practices, environmental health and food insecurity. In addition, access to and utilization of essential health 
+services are constrained by both supply and demand side barriers. Community-based interventions are essential for 
+promoting appropriate nutrition knowledge and behaviors as well as for increasing demand for essential services. In 
+January 2018, the government has elaborated and validated a new national strategy for the prevention of 
+malnutrition.  This strategy is yet to be implemented. 
+ 
+12. 
+All the regions in Djibouti have both critical levels of stunting (i.e., over 30 percent) and low coverage of key 
+nutrition actions such as counseling on exclusive and complementary feeding, maternal health and nutrition 
+interventions, education on sanitation and hygiene, and cash transfers for the vulnerable. Furthermore, the 
+coverage of high impact nutrition interventions at the facility, community, and household levels (e.g., deworming, 
+vitamin A supplementation, growth promotion, etc.,) is low in general and varies widely by region depending on the 
+presence and support provided by development partners (DPs).  Health care workers (HCW) have limited training in 
+nutrition and therefore are unable to encourage necessary behavior changes essential to improving nutrition 
+outcomes. Beginning in 2012, the community health worker (CHW) program in Djibouti was re-organized to focus on 
+provision of services at the health facility level, thereby diminishing their role in the active identification and referral 
+of children with malnutrition in the community. Meanwhile, Djibouti has the capacity to treat malnutrition cases, if 
+they are properly identified and referred. The country has one nutrition referral center in each of the five regions, 
+and one national nutrition referral center in Djiboutiville; these referral centers/hospitals can treat severe acute 
+malnutrition with complications that requires hospitalization of patients. The country has seven nutritionists working 
+in the referral centers (two based in Djiboutiville, and one in each of the five regions). 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 4 of 65 
+     
+ 
+13. 
+On the demand side, socio-cultural beliefs and practices, geographic and financial impediments including 
+long distances to facilities, and general high levels of poverty and vulnerability all impede demand for health and 
+nutrition services and behavior change that lead to favorable nutrition outcomes. For example, while 88 percent 
+of women aged 15-49 years had at least one visit with a skilled health professional during pregnancy, less than a 
+quarter (23 percent) complete all four WHO-recommended antenatal care visits. In rural areas, the distances to 
+health care facilities, lack of awareness regarding the need for regular health check-ups, financial barriers and the 
+poor condition of roads mean that the time, effort, and cost required to arrive at the point of delivery can be 
+substantial.  
+ 
+14. 
+Aside from low access to and utilization of basic services, high levels of food insecurity are contributing to 
+high malnutrition rates. Djibouti imports most food consumed, and the domestic market prices of food items are 
+affected by volatility in international food prices – it is estimated that more than 40 percent of a rise in international 
+food prices is passed through to domestic food prices in Djibouti. Households with low purchasing power have 
+difficulties accessing markets, even when prices are stable. In addition to seasonal obstacles in accessing food, 
+households may experience shocks (i.e., drought, prolonged dry spells) that affects their ability to access food.  
+Although current domestic food prices are forecast to be stable (Food and Agriculture Organization, FAO’s June 2017 
+outlook predicts low and stable international food prices), the poor remain exposed to future volatility in food prices 
+and hence risk of malnutrition.  
+ 
+15. 
+Similar to many other countries in the region, Djibouti has taken a look at innovative solutions for addressing 
+issues of food and nutrition insecurity, as well as water and sanitation, but there is still an urgent need to improve 
+access to safe drinking water, sanitation and hygiene and nutritious foods throughout the country. Given the fact 
+that the country is heavily reliant on imports for key staples, it has sought solutions to reduce its exposure to global 
+market fluctuations for basic commodities, including the establishment of the Djiboutian Food Security Company 
+(Société Djiboutienne de Sécurité Alimentaire, SDSA), charged with keeping food prices manageable. In addition, the 
+country has legislation mandating the fortification of domestic wheat flour with iron, zinc and folic acid – currently 
+95 percent of wheat is fortified in Djibouti.10  
+ 
+16. 
+Infants and children from vulnerable and poor households in rural areas have significant deficits in 
+environmental health, that places them at a greater risk of stunting. In the last decade, there has been improvement 
+in access to improved water and sanitation.  Nevertheless, more than 23 percent of Djibouti’s population practices 
+open defecation, and 78 percent still lack access to improved toilets. There are also significant disparities between 
+urban and rural areas: 77 percent of rural inhabitants practice open defecation compared to only 7 percent of urban 
+habitants, and 70.4 percent of urban inhabitants have access to sanitation facilities while only 16.4 percent of the 
+rural population has access to latrines.11  Not only is water a scarce commodity in Djibouti, but recurrent droughts 
+since 2009 have been negatively affecting the rural and urban vulnerable communities.   
+ 
+17. 
+The presence of refugees and migrants has created additional pressure on infrastructure and has further 
+stretched the limited capacity of the health system to provide basic health and nutrition services. In two out of the 
+three main refugee camps in Djibouti, global acute malnutrition (GAM) rates exceed WHO’s serious (10-14 percent) 
+and/or critical (>=15 percent) severity thresholds. Obock, the region with the highest stunting and wasting rates in 
+the country, is currently hosting the largest refugee population from Yemen.  Refugees, asylum seekers and migrants 
+                                            
+10 Food Fortification Initiative. Djibouti Country Profile.  
+11 WHO/UNICEF. Joint Program for Water Supply (JMP). 2017.  
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 5 of 65 
+     
+ 
+are fleeing from Somalia, Yemen and Ethiopia due to recurring armed conflicts and extreme poverty to seek asylum 
+in Djibouti or to transit through Djibouti to the Gulf countries in search of better living conditions.12 According to the 
+United Nations, more than a quarter million people needed humanitarian assistance in Djibouti in 2017, which 
+includes Djiboutians living in extreme poverty, refugees and asylum-seekers as well as migrants.  
+ 
+18. 
+While the Government of Djibouti has demonstrated its commitment to improving nutrition by adopting a 
+new strategy for preventing all forms of malnutrition and instituting national policies and initiatives, ongoing 
+challenges remain. In 2006, a National Nutrition Policy (2008-2012) was developed to guide government actions in 
+nutrition.  Recently, in early 2018, the strategy for preventing all forms of malnutrition was developed with a focus 
+on the 1,000-day “window of opportunity”. Ongoing challenges include: inadequate numbers and poorly distributed 
+human resources (especially at community level); inadequate supply of nutrition services; limited training of health 
+workers to manage and treat acute and moderate malnutrition, as well as follow-up on defaulters; poor physical and 
+financial access to health and nutrition services; low coverage of key nutrition interventions; weak links between 
+health structures and the community; and stock outs of nutritional products at the health facility level.  
+ 
+19. 
+At the same time, managerial and technical capacity gaps at all levels hinder progress. Specifically, poor 
+managerial capacity for coordination and human resource constraints have limited the MoH’s capacity to deliver 
+nutritional services under the National Nutrition Program and to provide overall coordination for a multi-sectoral 
+national nutrition agenda. The major challenge is therefore to refocus efforts on prevention at the community level, 
+as the cost to prevent malnutrition is half the cost to treat it, and to ensure the involvement of other sectors that are 
+critical in various aspects of nutrition service delivery by integrating nutrition-sensitive interventions. 
+ 
+20. 
+Finally, the coordination and financing of nutrition interventions need to be improved to promote 
+convergence of multi-sectoral efforts - e.g., health, agriculture, food security, nutrition, water, sanitation and hygiene 
+(WASH), early stimulation, and social protection. International research shows that while nutrition-specific 
+interventions are key to accelerating progress in stunting reduction, it is also critical that other sectors—like 
+agriculture, education, and social welfare— develop nutrition-sensitive interventions. A truly multi-sectoral approach 
+will achieve optimal nutrition outcomes through greater coverage, while also helping other programs achieve more 
+powerful results and demonstrate their own potential for impact. 
+ 
+21. 
+While Djibouti benefits from financing for nutrition from several major development partners such as the 
+Bank, the European Union (EU), United Sates Agency for International Development (USAID), United Nations 
+Children’s Fund (UNICEF), World Food Programme (WFP), there are persistent financing gaps and challenges in 
+ensuring synergies between investments.  All five regions benefit from some funding for interventions, but few of 
+the required interventions are provided to scale, and coverage of beneficiaries varies widely. In addition, a clear focus 
+on stunting prevention at the community level with a comprehensive package of interventions is still largely missing. 
+ 
+C. Higher Level Objectives to which the Project Contributes 
+ 
+22. 
+The proposed project is fully aligned with the Djibouti Country Partnership Strategy (CPS) for FY14-FY17 
+discussed by the Board on March 13, 2014. The CPS supports Djibouti Vision 2035, the Government’s long-term 
+approach to development.  Vision 2035 includes a pillar on the consolidation of human capital to ensure the well-
+being of the population, to which the CPS’ pillar of “reducing vulnerability” corresponds.  One of the outcomes under 
+                                            
+12 UNOCHA. 2017. UN Humanitarian Response Plan.  
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 6 of 65 
+     
+ 
+this pillar of reducing vulnerability is improved utilization of good quality maternal and child health (MCH) care 
+services and communicable disease control programs.  The proposed project would contribute to better MCH 
+outcomes by targeting women of reproductive age, including pregnant and lactating women, and adolescent girls. It 
+would also tackle childhood malnutrition in general and stunting in particular, which is a key component of, and 
+significant challenge for, improving MCH outcomes.  
+ 
+23. 
+The upcoming Systematic Country Diagnostic (SCD)13 identifies child nutrition as essential for transforming 
+human capital in Djibouti.  One of the priority areas of the SCD is “tackling reforms to health and nutrition services” 
+by strengthening service delivery and expanding the availability and capacity of skilled health workers. The proposed 
+project would contribute to this priority area, as it aims to improve access to quality health and nutrition services, as 
+well as improving the overall capacity for scaling-up nutrition interventions, involving different government entities 
+and other stakeholders.  
+ 
+24. 
+In addition, this project is fully aligned with the MENA regional strategy that is focused on building greater 
+citizen engagement, more effective protection of the poor and vulnerable, inclusive and accountable service 
+delivery, and a stronger private sector that can create jobs and opportunities. With the focus on scaling-up the 
+delivery and improving the accessibility of quality health and nutrition services, improving beneficiary tracking and 
+monitoring by supporting the development of new tools and technologies (including modernizing ICT systems), and 
+incorporating mechanisms for citizens to provide feedback on the quality of services, the proposed project 
+contributes to two pillars of the MENA Regional Strategy – “renewing the social contract” and “resilience to 
+refugee/IDP shocks”. The project addresses the latter pillar on resilience to refugees/IDPs through support to the 
+already overburdened health system due to the growing number of refugees.  
+ 
+25. 
+The project is also aligned with the World Bank Gender Strategy and contributes to the first pillar – 
+“improving gaps in human endowments” - through improved access and quality of health and nutrition services, 
+in combination with new knowledge and skills on maternal and child nutrition, at specific periods of the life cycle. 
+ 
+26. 
+Djibouti is one of the priority countries under the World Bank’s “Investing in Early Years” initiative, and this 
+project will make a key contribution to this initiative. This agenda is focused on significantly increasing investments 
+and supporting multi-sectoral interventions from pregnancy to five years of age, given the importance of good early 
+child development outcomes for longer term development and productivity. 
+ 
+27. 
+This project will encourage convergence of interventions critical for stunting reductions by leveraging 
+existing and upcoming World Bank financed projects in various sectors. The World Bank program includes six 
+projects in Health, Nutrition and Population (HNP), Social Protection, Community Driven Development (CDD) and 
+Water, and Governance that will contribute to addressing the immediate and underlying causes of stunting and 
+support a wide range of complementary interventions to maximize synergies and promote convergence (see Fig. 1 
+below).  The program will be coordinated across the sectors and will draw on the best global evidence, and facilitate 
+knowledge sharing across countries, with a commitment to a “joint learning agenda”. The convergence envisioned 
+under the project includes: leveraging other key platforms for delivering services, such as through the CHW program, 
+and enhanced local government capacity, which are critical for the effective delivery of services across multiple 
+sectors; as well as promote multi-sectoral coordination at the community level by advocating for the creation of 
+“nutrition committees”. The project also includes several cross-cutting dimensions such as behavioral change 
+communication to bring about a change in infant and young child feeding and care behaviors and WASH practices; 
+                                            
+13 The SCD is scheduled to go to the Board in June 2018. 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 7 of 65 
+     
+ 
+and service delivery innovations, such as interactive technologies and integrated information systems for prompt 
+identification of children at-risk of stunting. 
+ 
+28. 
+Considering the shift in 2012 to focus CHW at the health facility level, there is the need to support the 
+revitalization of the CHW program at the community level. As such, the project will help to develop a revitalized 
+CHW strategy to improve the CHW programming and performance through trainings and re-trainings on a revised 
+nutrition curriculum, promote supportive supervision and mentorship by health center personnel, support the use 
+of new technologies to enhance their effectiveness and strengthen their links with the community, and strengthen 
+the commodity supply chain. Incentives for CHWs will include the use of performance-based contracts, training and 
+career progression opportunities.  
+ 
+Figure 1: Convergence of interventions Critical for Reducing Stunting
+
+A. PDO 
+29. 
+The project development objective is to reduce stunting among children under five in Djibouti.  
+ 
+B. Project Beneficiaries  
+ 
+30. 
+The main project beneficiaries will consist of children under five, as well as pregnant and lactating women, with 
+a specific focus on the 1,000-day “window of opportunity” (pregnancy through the second birthday) before stunting 
+becomes largely irreversible. To have impact in this period, the project will also focus on adolescent girls by providing 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 8 of 65 
+     
+ 
+iron and folic acid. Refugees, migrants and asylum seekers living in host communities outside of camps will benefit 
+from the project activities as they seek care at health facilities and attend community level activities. Direct 
+beneficiaries of the nutrition services are estimated to be about 150,000 (of which 100,000 female). In addition, HCWs, 
+including CHWs, will also benefit from this project through training, and community health volunteers will receive 
+technical supervision and quality assurance of their activities. Personnel within the MoH, MoA, MoFW and SSSA will 
+also benefit from improved overall capacity. The general public will be exposed to communication campaigns as well. 
+ 
+C. PDO level indicators  
+ 
+31. 
+Progress towards stunting reduction will be monitored through appropriate impact indicators and intermediate 
+indicators that focus on practices and behaviors that are known to have an impact on the nutritional status of infants, 
+children, and pregnant and lactating women.  The main PDO level indicators are: (i) Percentage of infants 0-6 months 
+exclusively breastfed; (ii) Percentage of children 6-23 months consuming a minimum acceptable diet/diverse diet; (iii) 
+Women who attended at least four antenatal care visits during their most recent pregnancy; (iv) Percentage of 
+children 6-59 months who are stunted; (v) Women referred by CHWs and registered at the health facility within 4 
+months of pregnancy (disbursement-linked indicator - DLI - #1A); (vi) Women referred by CHWs, who completed at 
+least 3 antenatal care visits at the health facility (DLI #1B); and (vii) Women referred by CHWs, who completed at least 
+2 postnatal visits at the health facility (DLI #1C).  
+ 
+32. 
+The targets for the indicators have been agreed with government counterparts, and are included in the Results 
+Framework (Section VII).  The government has set the goal of reducing stunting from 30 percent in 2017 to 24 percent 
+in 2025 through the scale-up of a prioritized package of essential nutrition-specific and nutrition-sensitive 
+interventions.
+
+A. Project Components 
+ 
+33. 
+The project will support the Government of Djibouti in combating stunting multi-sectorally through the 
+adoption of a “Zero stunting” strategy that is centered around a community based approach along with scaling up 
+the delivery of high impact nutrition and health services. The Government has prioritized a package of essential 
+nutrition-specific and nutrition-sensitive interventions that need to be implemented at scale. The project draws on 
+global best practices and focuses on a national scale-up of high impact, cost effective interventions.  The project will 
+focus primarily on stunting reduction considering that the Government, other DPs including UNICEF and WFP, and the 
+ongoing World Bank financed health project (PAPSS) are already focused on identification and treatment of acute 
+malnutrition. 
+ 
+34. 
+To achieve the PDO, the proposed project will expand the scope, scale, and coverage of ongoing nutrition 
+interventions nationwide. The proposed project will include three main components emphasizing the scale-up and 
+quality of both supply and demand side interventions. Several approaches will be implemented to improve the quality, 
+coverage and uptake of nutrition services in Djibouti, including: (i) delivery of high quality essential health and 
+nutrition services at health facilities and in the communities that respond effectively to women and children’s needs 
+in health, nutrition, and early stimulation; (ii) strengthening the capacity of health care providers, community health 
+workers and community volunteers to deliver high quality nutrition services; (iii) behavior change communication to 
+reach parents, caregivers and children in the communities to enhance their knowledge and create an environment 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 9 of 65 
+     
+ 
+conducive to care seeking behavior; and (iv) policy, coordination and monitoring and evaluation support at the 
+national level in order to ensure that all relevant sectors are involved and progress is captured and tracked. The Project 
+will adopt a financing structure with an investment project financing (IPF) portion for Subcomponents 1.1 and 1.2a, 
+Component 2, and Subcomponent 3.1; and a results-based financing (RBF) portion using Disbursement Linked 
+Indicators (DLIs) for Subcomponent 1.2b and Subcomponent 3.2.  
+ 
+35. 
+Component 1: High-impact Health and Nutrition Services to Reduce Stunting (US$11.6 million, of which 
+US$7.3 million IDA). This component focuses on the delivery of services and interventions that address stunting at 
+both the facility and community levels.  
+ 
+36. 
+Sub-component 1.1: Strengthening of health and nutrition services at the facility level (US$9.4 million, of 
+which US$5.1 million IDA). To address gaps in service delivery, this sub-component will improve the provision, quality 
+and utilization of an enhanced package of high-impact nutrition and health interventions at the facility level. These 
+interventions include those identified in the government’s National Nutrition Program which are in line with the 
+2008/2013 Lancet recommendations of the most effective interventions in reducing stunting, including: (i) growth 
+monitoring and promotion and effective tracking of faltering children, exclusive breastfeeding from birth to six months 
+and appropriate complementary feeding thereafter, deworming, and micronutrient supplementation (i.e., Vitamin A 
+supplementation, therapeutic zinc supplementation with Oral Rehydration Salts, and multiple micronutrient 
+supplement powders); (ii) critical nutrition and health interventions for women (i.e., four antenatal care visits, four 
+postnatal care visits, iron/folic acid supplementation, post-partum family planning, counseling on child care, and 
+complementary feeding and hygiene); (iii) improving water, sanitation and hygiene (WASH) in health care facilities 
+including through water treatment, safe water storage, and promotion of hygienic practices in health facilities; and 
+(iv) improving linkages, referrals and counter-referrals between health facilities and the community. The project will 
+also support the training of Central Medical Stores (Centrale d’Achat des Medicaments et Matériels Essentiels) staff 
+on nutrition supply management and improving the management of nutrition supply system.  Health facilities will be 
+held accountable to provide these interventions, as well as benefit from training, and commodities and logistical 
+support from the national level. For nutrition referral centers, the project will aim to improve the quality of treatment 
+for services provided at the regional and national levels. Through the ongoing PAPSS, incentives are provided to health 
+workers/health facilities for nutrition service delivery at the facility level utilizing results based financing.  
+ 
+37. 
+Sub-component 1.2: Prevention and management of stunting and wasting at the community level (US$2.2 
+million IDA). This sub-component will support the delivery of health and nutrition services at the community level, as 
+well as the critical element of community sensitization and promotion.  This subcomponent will be financed through 
+an investment project financing (IPF) portion for Subcomponent 1.2a and an RBF portion using DLIs for subcomponent 
+1.2b.  
+ 
+38. 
+Sub-component 1.2a Supporting behavior change and outreach at the community level (US$0.75 million IDA).  
+Through this portion of the sub-component, financed through IPF, the project will: (i) support behavior change, health 
+promotion, and community mobilization and sensitization by utilizing a Behavioral Change Communication (BCC) 
+strategy, that incorporates locally appropriate messaging on maternal nutrition, IYCF and WASH; (ii) define a common 
+community participation strategy between the different sectors and facilitate convergence of a multi-sectoral 
+minimum package of services at community level; (iii) utilize the positive deviance approach by identifying good 
+practices from mothers in the community who have well-nourished children; (iv) address the essential WASH elements 
+by providing targeted support to vulnerable households to improve access to WASH interventions (i.e., water 
+treatment, handwashing stations with soap and safe water storage); (v) provide adolescent girls with iron and folic 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 10 of 65 
+     
+ 
+acid supplementation; and (vi) increase the number of mobile clinics/teams and the number of visits they conduct to 
+ensure rural and nomadic populations have access to health and nutrition services. The nutrition services offered by 
+both the mobile clinics and the bi-annual medical caravans will be strengthened with support from the project.  
+ 
+39. 
+In addition, this sub-component 1.2a will support increased country-level awareness and action in nutrition 
+through the formation of “nutrition committees” that will be provided with training and communications materials. 
+These committees are not only key in making the invisible problem of stunting visible at the community level but also 
+for the integration of nutrition in health and WASH activities and policies, and for collecting data on nutrition issues. 
+A mechanism for citizen engagement will also be developed to facilitate the feedback of the beneficiaries on the 
+quality and appropriateness of nutrition services delivered at the community level and in health facilities.  
+ 
+40. 
+Sub-component 1.2b Strengthening the role of community health workers (US$1.45 million IDA). Through this 
+portion of the sub-component, financed through results based financing (DLIs), the project will provide training, 
+mentoring, equipment and incentives to CHWs and community volunteers to identify, refer and follow-up on children 
+at-risk of stunting. The MoH has an existing cadre of CHWs that will be supported through the project to play an 
+enhanced role in community outreach that is critical for the behavior change needed to prevent and reduce stunting.  
+ 
+41. 
+CHWs and other community health actors, including mères conseillères and community health volunteers, 
+are a critical link in improving access to health and nutrition services in Djibouti. This subcomponent will support 
+increased productivity and performance of CHWs through enhanced training, improved supervision and mentorship, 
+new and innovative technologies to enhance their effectiveness and strengthen links between the community and 
+health facilities, and strengthening of the commodity supply chain. The DLIs - “1A-Number of women referred by 
+community health workers and registered at the health facility within the first 4 months of pregnancy;  1B-Number of 
+women referred by community health workers who completed at least 3 antenatal visits at the health facility; and 
+1C-Number of women referred by community health workers who completed at least 2 postnatal visits at the health 
+facility” (total DLI value = $1.45 million) are proposed to revitalize the CHW program and promote expedited progress 
+in the implementation of community-based interventions by CHWs that are important for stunting reduction in the 
+first 1000 days. CHWs will provide supportive supervision and ensure technical quality of community based nutrition 
+interventions including the work of mères conseillères and being the linkage between the community and the health 
+facilities.  CHWs are salaried MoH staff who work in a catchment area of a health facility, while mères conseillères are 
+volunteers who interface directly with households at the community level; those supported by the Bank’s Social Safety 
+Net project receive food rations. One CHW will have several mères conseillères working in his/her intervention area 
+that they would provide support to. 
+ 
+42. 
+Component 2:  Strengthening Multi-sectoral Interventions for Stunting Reduction (US$3.3 million IDA). This 
+component will focus on creating an enabling environment for strengthening multi-sectoral interventions that are 
+critical for reduction of stunting.  
+ 
+43. 
+Sub-component 2.1: Using multi-sectoral platforms for the prevention and management of stunting (US$2.27 
+million IDA). Under this sub-component a mass media and Behavioral Change Communication (BCC) strategy will be 
+developed (informed by Knowledge, Attitude, Practice – KAP - surveys and stakeholder consultations) to facilitate the 
+development of locally appropriate stunting prevention messaging, including the consumption of fish which is a good 
+source of protein but is not widely consumed in Djibouti. Additionally, this component seeks to ensure linkages with 
+the WB Djibouti Crisis Response Social Safety Net Project and the Rural Community Development and Water 
+Mobilization Project (PRODERMO) when conducting follow-up of stunting cases, case management, and prevention. 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 11 of 65 
+     
+ 
+ 
+44. 
+Sub-component 2.2: Addressing stunting in relevant policies and strategies (US$0.5 million IDA). This sub-
+component will support and engage the line ministries involved in the multi-sectoral response to create an enabling 
+environment for stunting prevention.  The line ministries will be supported to formulate or update their policies, 
+strategies, norms, guidelines and protocols to facilitate an enabling environment for the implementation of multi-
+sectoral nutrition interventions.   
+ 
+45. 
+Sub-component 2.3: Multi-sectoral capacity building (US$0.53 million IDA).  To strengthen the capacity of 
+sectoral institutions to deliver nutrition interventions, this sub-component will complement and scale-up ongoing 
+initiatives under the National Nutrition Program, including technical assistance, training, coordination, supportive 
+supervision, and associated materials to build the capacity to deliver multi-sectoral nutrition services to communities; 
+as well as focus on improving capacity at all levels (national, regional, health facilities, etc.) to address the multi-
+sectoral nature of stunting. As a first step, a gap analysis will be undertaken to identify capacity needs at a national, 
+regional and facility level to ensure effective targeting of the support provided through the project. Specifically, the 
+subcomponent will: (i) Support multi-sectorial coordination at political and technical levels; (ii) Strengthen the 
+leadership and capacity of the MoH national and regional nutrition programs so as to more effectively play a 
+coordination and facilitation function; and (iii) Support the development of a National Nutrition and Food Coordination 
+Authority (NNFCA) that will aim to strengthen the capacity of key stakeholders involved in the delivery of nutrition 
+services, including health professionals and organizations/associations working at the community level.  
+ 
+46. 
+Component 3: Strengthening Coordination, Project Management and Monitoring and Evaluation (M&E) 
+(US$4.4 million IDA). The activities under this component support and complement the interventions under 
+Components 1 and 2, aiming to improve the capacity of national implementing entities to effectively manage project 
+implementation, coordinate various entities, monitor implementation progress, and evaluate effects of the project. 
+This component will be financed through an investment project financing (IPF) portion for Sub-component 3.1 and an 
+RBF portion using a DLI for Sub-component 3.2. 
+ 
+47. 
+Sub-component 3.1: Institutional strengthening for coordination, project management and M&E (US$3.9 
+million IDA). This IPF-financed sub-component will support: (i) the day-to-day management of project activities, 
+including fiduciary activities; (ii) technical assistance and capacity building activities to support the implementing 
+entities; (iii) building capacity for programmatic mapping, including geospatial mapping for strategic planning and to 
+identify gaps in service provision (see Box 1 below); and (iv) M&E activities such as periodic surveys, nutrition surveys 
+and assessments, and impact evaluations to draw timely lessons on what works, how much it costs, and how it can be 
+scaled up, and monitor implementation progress and address any implementation challenges.  
+ 
+48. 
+Sub-component 3.2: Strengthening the use of information systems for enhanced M&E capacity (US$0.5 million 
+IDA). This DLI-financed sub-component will support the development, promotion and use of information systems to 
+identify, refer and track children and women, early malnutrition detection, as well as ensure that the correct structures 
+and systems are in place to implement and monitor nutrition interventions. The DLI #2 - “Percentage of health facilities 
+that have annual disaggregated data using the District Health Information System (DHIS2)” (total DLI value = $0.5 
+million) is proposed to accelerate progress in this area, the achievement of which will lead to transformational change 
+for Djibouti. This will be important for: (i) the project, both in terms of the application of technological solutions for 
+beneficiary tracking and monitoring as well as timely availability of data from both health facility and community 
+levels; and (ii) strengthening the health system more broadly. As part of the effort to improve the health information 
+system, the existing disease surveillance mechanism will also be strengthened to capture any early warnings for 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 12 of 65 
+     
+ 
+possible consequences of climate change, such as extreme temperatures and drought, which have been identified as 
+having high potential impact on project implementation. 
+ 
+Box 1: Programmatic Mapping 
+ 
+ 
+49. 
+Component 4: Contingent Emergency Response Component (CERC) (US$0). A CERC is included in the project as 
+a US$0 component, in accordance with Operational Policy (OP) 10.00 paragraphs 12-14, for projects in Situations of 
+Urgent Need of Assistance or Capacity Constraints. This will allow for rapid reallocation of project proceeds in the 
+Programmatic Mapping to inform Project Design and Implementation Roll-out. The Bank is providing technical 
+assistance to the Ministry of Health and its partners in programmatic mapping to inform prioritization, targeting and 
+scale up of a national multi-sectoral nutrition program in Djibouti.  
+ 
+The proposed work will help to answer the question “who is doing what where”, and “what parts of the minimum 
+package of nutrition services are currently being offered, and by whom”. The programmatic mapping will enable the 
+generation of evidence at the local level that will inform the planning and delivery of services. It will include a mapping 
+of existing healthcare infrastructure and nutrition service delivery points as well as outreach areas for mobile health 
+teams, community health workers or community volunteers that can be factored into the program design, and can 
+help in the identification of gaps that may need addressing and establish referral linkages between the community 
+and health-care facilities and vice versa. The results of the mapping will inform the development of a service delivery 
+model across the continuum of care and between models of service delivery (including clinical care settings, 
+outreach, household and communities). As a result of the aforementioned data, the prioritization, targeting and 
+scale-up plans will be developed for both the IDA-financed project, as well as for the broader national nutrition 
+program that is financed by the Government as well as other development partners, e.g., UNICEF’s project funded 
+by the EU. Below is an example of a map that has been created as part of project preparation. 
+ 
+Figure 2: Mapping of Community Sites in Djiboutiville 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 13 of 65 
+     
+ 
+event of a natural or man-made disaster or crisis that has caused, or is likely to imminently cause, a major adverse 
+economic and/or social impact with public health consequences. 
+ 
+50. 
+An “Emergency Response Operational Manual” (EROM) will be prepared as part of the Project Operational 
+Manual (POM). Triggers for the CERC will be clearly outlined in the EROM acceptable to the World Bank. 
+Disbursements will be made against an approved list of goods, works, and services required to support crisis 
+mitigation, response and recovery. All expenditures under this activity will be appraised, reviewed, and found to be 
+acceptable to the World Bank before any disbursement is made. 
+ 
+B. Project Cost and Financing 
+ 
+Project Components 
+Project Cost US$ 
+IDA Financing 
+US$ 
+Counterpart 
+Funding 
+Component 1: High-impact Health and Nutrition 
+Services to Reduce Stunting 
+11,600,000 
+7,300,000 
+4,300,000 
+Component 2: Strengthening Multi-sectoral 
+Interventions for Stunting Reduction 
+3,300,000 
+3,300,000 
+ 
+Component 3: Strengthen Coordination, Project 
+Management and Monitoring and Evaluation  
+4,400,000 
+4,400,000 
+ 
+Component 4: Contingent Emergency Response 
+0 
+0 
+ 
+Total Costs 
+19,300,000 
+15,000,000 
+4,300,000 
+Total Project Costs 
+ 
+ 
+ 
+Total Financing Required 
+19,300,000 
+15,000,000 
+4,300,000 
+ 
+C. Lessons Learned and Reflected in the Project Design 
+ 
+51. 
+The project focuses on scaling up the nutrition interventions which have the strongest evidence of impact (see 
+Box 2) - and that are feasible and cost-effective – as well as considers lessons from other countries on what it takes to 
+prevent and reduce the burden of stunting. Careful attention was given to the implementation experience to date in 
+Djibouti, as well as other countries such as Peru, Ethiopia and Rwanda. The key lessons that are incorporated in the 
+design can be summarized as follows: 
+ 
+(a) 
+The benefits of a multi-sectoral approach that incorporates all relevant sectors and has a mix of 
+interventions focusing on both the supply and demand of services. International studies show that scaling up 
+nutrition-specific interventions reduce stunting levels by about 20 percent, while scaling up multi-sectoral 
+interventions at the same time contribute to reducing the remaining 80 percent (Lancet 2013). Because stunting 
+has multiple causes, the interventions to reduce it must involve various sectors. Implementation experience from 
+Ethiopia - where stunting rates dropped from 50.7 percent in 2005 to 40.4 percent in 2014 – demonstrates the 
+importance of involving sectors outside of health (for nutrition sensitive interventions) from the beginning in 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 14 of 65 
+     
+ 
+program design, and integrating nutrition-related actions in various initiatives. Most notably, nutrition priorities 
+were aligned with the national food security strategy and integrated into the 4th phase of the country’s Productive 
+Safety Net Program (PSNP). However, even though there is not necessarily a fixed combination of interventions 
+that consistently demonstrate greatest benefit in all contexts, implementation experience from other countries 
+clearly demonstrates the importance of multiple sectors and actors. To that extent, the proposed project will align 
+its activities with other World Bank operations in Djibouti to achieve convergence of interventions proven to have 
+the greatest impact on stunting reduction.  
+ 
+(b) 
+Preventing stunting by improving nutrition for women and children during the first 1,000 days is key 
+to ensuring that every child reaches his/her full potential. This includes promoting healthy eating during 
+pregnancy, early initiation of breastfeeding and exclusive breastfeeding, complementary feeding, and dietary 
+diversity. In 2006, only 1.3 percent of the Djibouti mothers were exclusively breastfeeding and significant effort is 
+needed to improve breastfeeding practice across the country. Previous projects in Djibouti have used 
+grandmothers for the promotion of exclusive breastfeeding and nutrition of pregnant and lactating women and 
+complementary feeding after six months. The package of interventions to be implemented through this project 
+will include a specific focus on the critical 1,000-day window, including pregnancy.  
+ 
+(c) 
+Strategic planning and coordination together with community engagement is key to effective 
+nutrition programming, as well as awareness creation at all levels. Countries such as Peru demonstrate how a 
+combination of factors can achieve significant and lasting changes in stunting, including: (i) political will, served 
+by the adoption of clear and ambitious targets to reduce stunting and evidence-based programs; (ii) strong 
+coordination between government ministries, health professionals and non-governmental organizations (NGOs); 
+(iii) broad societal participation; (iv) increased government spending ; and (v) strategies focused on increasing the 
+coverage of health and nutrition services among the most vulnerable. At the same time, a strong communications 
+strategy led by NGOs, the government and international partners made the “invisible problem” of stunting in Peru 
+visible, and ensured that households and communities had the opportunity to change health, nutrition and 
+hygiene practices.  
+ 
+(d) 
+CHWs play an important role in changing behaviors and improving nutrition. CHWs are a key point of 
+contact for families during the critical 1,000-day window when poor nutrition and lack of stimulation may cause 
+irreversible physical and cognitive losses, as well as equip families with the knowledge and skills to prevent 
+malnutrition. Experiences from other countries like Senegal, where a focus was placed on improving nutrition 
+through a community-based holistic strategy, show how critical CHWs are in changing nutrition-related behaviors 
+and practices such as breastfeeding and hygiene, and contributing significantly to the reduction of stunting. 
+Therefore, this project will support the revitalized community health workers program in Djibouti through 
+enhanced trainings and easy-to-use tools focused on reinforcing household behavior change on breastfeeding, 
+complementary feeding and WASH. The CHWs will provide mentoring and supportive supervision support for 
+mères conseillères and other types of volunteers working on community based nutrition interventions, creating 
+that essential link between health facilities and the community. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 15 of 65 
+     
+ 
+Box 2: Global Evidence on Stunting Reduction 
+Stunting is largely irreversible if not addressed in the first 1,000 days. The first 1,000 days, from a woman’s pregnancy 
+to the child’s first two years, is a critical window of growth and development. Stunting, or a manifestation of chronic 
+malnutrition, during this period is largely irreversible and is associated with diminished cognitive and physical 
+development, reduced productive capacity, and an increased risk of chronic diseases later in life, which have immediate 
+and long-term effects at individual, community and national levels. In Africa, child undernutrition is associated with up 
+to 0.2 to 3.6 years less of schooling, as much as 22 percent loss of yearly income in adulthood,14 and 1.9 percent to 
+16.5 percent of GDP.15  
+ 
+The determinants of stunting are not exclusively within the health sector.  As outlined in UNICEF's conceptual 
+framework16 of child undernutrition, the determinants of stunting include poor dietary intake, frequent and repeated 
+episodes of illness and disease, and poor birth outcomes, such as low birth weight and premature birth. These are in 
+turn caused by complex and multi-sectoral determinants, including poor maternal, infant and young child care and 
+feeding practices; poor water, sanitation, and hygiene; and household food insecurity (including poor diet quality and 
+insufficient quantity).17 Figure 3 presents a simplified version of the UNICEF conceptual framework adapted to 
+Djibouti.   
+ 
+Figure 3. Immediate and Underlying Determinants of Stunting in Djibouti
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Child Stunting 
+Inadequate 
+dietary Intake  
+Illness and Disease   
+Immediate 
+causes of 
+stunting  
+Water, hygiene and 
+sanitation  
+Maternal and child 
+health care and 
+feeding practices  
+Food security, 
+availability, quality  
+Underlying 
+determinants 
+of stunting  
+ 
+ 
+                                            
+14 Grantham-McGregor, S; Cheung, YB; Cueto, S; Glewwe, P; Richter, L; Strupp, B. 2007.  Developmental potential in the first 5 years for 
+children in developing countries. Lancet 369 (9555): 60-70 
+15 African Union Commission, NEPAD Planning and Coordinating Agency, UN Economic Commission for Africa, and UN World Food 
+Programme. 2014. The Cost of Hunger in Africa: Social and Economic Impact of Child Undernutrition in Egypt, Ethiopia, Swaziland and 
+Uganda. Report. Addis Ababa: UNECA.  
+16 UNICEF. 1991. Conceptual Framework on the Causes of Malnutrition.  
+17 Black et al 2013 (Lancet) 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 16 of 65 
+     
+ 
+ 
+It is evident from the framework above that achieving sustainable reductions in stunting is dependent on multiple 
+factors. Global evidence has shown that scaling up nutrition-specific interventions to address the immediate 
+determinants of child nutrition is essential, through a combination of health and nutrition-focused interventions. 
+Complementary nutrition-sensitive interventions to address the underlying determinants of child nutrition are 
+necessary to optimize reductions in stunting. The Lancet Nutrition series of 201318 estimated that scaling up 10 key 
+nutrition interventions to 90 percent of coverage could result in a 15 percent reduction of under-five mortality, a 20 
+percent reduction in stunting, and a 61 percent reduction in severe wasting. Among the 10 most effective 
+interventions identified and considering that the main underlying determinants of stunting in Djibouti include poor 
+infant and young child feeding practices and water, sanitation and hygiene, the project will support the following 
+high impact evidence-based nutrition specific interventions: (i) Peri-conceptual iron and folic acid supplementation; 
+(ii) Promotion of breastfeeding; (iii) Appropriate complementary feeding; (iv) Vitamin A supplementation;, and (v) 
+Prevention and management of severe and moderate acute malnutrition. At the same time, key nutrition-sensitive 
+multi-sectoral actions will be implemented to improve water and sanitation and strengthen health services.   
+ 
+Reducing stunting prevalence requires long-term, sustained policy and multi sectoral program support. Peru’s 
+success in halving stunting over eight years (from 28 percent to 13 percent, a reduction of about 1.9 percentage 
+points/year) and Senegal’s experience of reducing stunting from 33 percent to 19 percent over 11 years (about 1.3 
+percentage points/year).  showed the importance of political commitment and multi-sectoral coordination; a focus 
+on evidence based high impact health and nutrition interventions (such as those listed above); and a behavior change 
+communication strategy rolled out to communities. The design of this program has also drawn upon recent evidence 
+that showed that though combined nutrition-specific and -sensitive interventional packages result in the greatest 
+reductions in stunting, there is not necessarily a fixed combination of interventions that consistently demonstrate 
+the greatest benefit in all contexts. For example, results from the Sanitation Hygiene Infant Nutrition Efficacy 
+("SHINE") Trial, a community-based trial in rural Zimbabwe, showed that while WASH strategies were effective 
+at reducing diarrhea, alone and together with other interventions they did not reduce growth faltering, highlighting 
+the importance of developing comprehensive strategies, including improved collection of nutrition data and frequent 
+monitoring of effectiveness, and testing new approaches that fit each context.
+
+A. Institutional and Implementation Arrangements 
+ 
+52. 
+Institutional arrangements for the National Program on Nutrition. Given the importance of the nutrition 
+agenda in Djibouti, a National Council on Nutrition (NCN) composed of all the sectors involved in the agenda will be 
+created. The establishment of the NCN was a key recommendation following the elaboration of the 2018 strategy to 
+address prevention of the different forms of malnutrition, and emanated from the need to have a multi-sectoral 
+coordination mechanism at the highest level. The NCN will be composed of several ministries (Ministry of Health, 
+Ministry of Economy and Finance, Ministry of Agriculture, Ministry of Education, Ministry of Commerce, Ministry of 
+Women and Family, and State Secretariat for Social Affairs), with representation at the Ministerial level, and it will 
+                                            
+18 Black, R. E., C. G .Victora, S. P. Walker, Z. A. Bhutta, P. Christian, M. de Onis, M. Ezzati, S. Grantham-Mc- gregor, J. Katz, R. Martorell, 
+R. Uauy, and the Maternal and Child Nutrition Study Group. 2013. “Maternal and Child Undernutrition and Overweight in Low-Income 
+and Middle-Income Countries.” The Lancet 382: 427–51.  
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 17 of 65 
+     
+ 
+meet twice a year to review progress and national targets on the nutrition agenda. The focus of the NCN will be to 
+review targets and progress made with respect to the different types of malnutrition.  
+ 
+53. 
+Implementation arrangements for the project. A Project Steering Committee (SC) chaired by the Secretary 
+General of Health and comprising the Secretary Generals of the following Ministries will be established: Ministry of 
+Economy and Finance; Ministry of Agriculture; Ministry of Women and Family; and State Secretariat for Social Affairs. 
+The SC will meet monthly during the first six months of project implementation, and every three months thereafter. 
+The functions of the Steering Committee will be: (i) project oversight, including provision of overall project guidance; 
+(ii) approval of annual work plans and budgets; (iii) facilitation of coordination of project activities; and (iv) preparation 
+for the NCN Meetings that will be held every six months. 
+ 
+54. 
+The project will be implemented by the National Nutrition and Food Coordination Authority in the MoH that 
+will be formed on the basis of the current Nutrition Division which is under the Department of Maternal and Child 
+Health.  The new NNFCA will have a direct reporting line to the Minister of Health, and will ensure multi-sectoral 
+coordination and action to address the different forms of malnutrition, and in particular to prevent and reduce the 
+high stunting rates in Djibouti. The MoH has already appointed key technical staff (Director and staff responsible for 
+M&E, social mobilization and communication) for the NNFCA, and they have been part of the Ministry’s project 
+preparation team. Fiduciary staff will be appointed no later than one month from Credit effectiveness.  To achieve the 
+PDO, a multi-sectoral response is required with the MoH leading the nutrition specific interventions and other 
+Ministries (Ministry of Women and Family, Ministry of Agriculture; Ministry of Commerce; and the State Secretariat 
+for Social Affairs) implementing nutrition sensitive interventions. In an effort to simplify implementation 
+arrangements, and in recognition of the Djibouti country context, the MoH will be responsible for implementing 
+activities based on its mandate and will also house the project management functions under the NNFCA (playing the 
+coordination role and being responsible for the day to day management of the project).  
+ 
+55. 
+The proposed arrangement would ensure that the nutrition program is integrated into the structure of the MoH. 
+The NNFCA will be headed by a Director who will also serve as the Project Coordinator, and will report directly to the 
+Minister of Health. The NNFCA will manage the national multi-sectoral nutrition program and coordinate with relevant 
+ministries and stakeholders, as well as be responsible for the effective implementation of the project. The NNFCA will 
+be responsible for carrying out: (i) the administrative and financial functions, including financial management by a 
+financial officer and project procurement by a procurement specialist; and (ii) the technical functions that ensure the 
+quality of the provision of nutrition services, the design of strategies for the promotion of adequate nutrition, the 
+planning and organization of nutrition training, the monitoring and evaluation of all nutritional interventions, and 
+communications. The NNFCA will monitor and evaluate the progress of the Project and prepare Project Progress 
+Reports every semester, starting from Credit effectiveness, and submit them to the World Bank no later than one 
+month after the end of the period covered by such report. The Progress Report will provide detailed reporting on 
+project progress by components, procurement, financial management, verification reports received from the 
+independent verification agency, and environmental and social issues. In addition, an annual external audit, combining 
+both technical and financial audit, will be conducted to ensure the appropriate use of funds and to monitor progress 
+of project activities. 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 18 of 65 
+     
+ 
+ 
+Figure 4: Institutional and Implementation Arrangement 
+ 
+ 
+ 
+56. 
+Institutionalization of the project to ensure sustainability. The Ministry of Finance and the MoH have expressed 
+a desire to have the project institutionalized within the existing Government structures and not to establish parallel 
+structures, e.g., a Project Management Unit (PMU) staffed with consultants that cannot be sustained beyond the life 
+of the project. Therefore, with the establishment of the NNFCA within the MoH, the use of existing staff and the 
+appointment of a few critical positions (including both technical and fiduciary capacity) will ensure institutionalization 
+and sustainability of the program. See Annex 1 for the list of key positions. 
+ 
+B. Results Monitoring and Evaluation 
+ 
+57. 
+Support for strengthening the national Health Management Information System (HMIS). A well-functioning 
+HMIS system is critical for monitoring project progress. Therefore, the project will support the MoH in strengthening 
+its HMIS to ensure that the system provides credible and timely data to inform program implementation, facilitate the 
+monitoring of project activities at both facility and community level, as well as to improve the health sector’s overall 
+M&E capacity. The project will support the development and roll-out of the District Health Information System 
+(DHIS2), building on the initial preparatory steps financed by the Global Fund to Fight AIDS, Tuberculosis and Malaria. 
+The DHIS2 platform is a web-based open source information system with visualization features, including Geographical 
+Information Systems, that can be customized to suit country specific needs, and is used to collect, manage and analyze 
+data. 
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 19 of 65 
+     
+ 
+58. 
+The project will support the development of an integrated HMIS system for routine monitoring as well as for 
+tracking of beneficiaries and supplies, as summarized in Figure 5. In addition, progress of the project towards 
+achieving the PDO will be assessed through a mix of PDO and intermediate result indicators. The baseline data for 
+these indicators is drawn from existing sources, such as the Standardized Monitoring and Assessment of Relief and 
+Transition survey (SMART), PAPFAM survey and routine data. Given that most of the population based surveys are 
+outdated, the baseline data may be revised with the availability of new data – for example SMART survey results that 
+may be available at the end of 2018. During the course of project implementation, opportunities for specific nutrition 
+assessments and impact evaluations will be explored. 
+Figure 5: Integrated System for Monitoring and Beneficiary Tracking 
+ 
+ 
+59. 
+The Project will support the Nutrition Program through two DLIs. These indicators are key in the prevention 
+and reduction of stunting and the DLIs will be a signal to key stakeholders on the importance of focusing on these 
+important and critical results. The two innovations for Djibouti that will be pioneered by this project are: (i) the 
+development of an integrated monitoring and beneficiary tracking system that will capture nutrition interventions at 
+both facility and community levels; and (ii) the enhanced focus at the community level with intensified household 
+visits conducted by CHWs, which is key for the behavior change needed to prevent and reduce the high levels of 
+stunting in the country.  
+ 
+60. 
+The DLIs reflect not only key results of the Program but also the two main areas where it is important to have 
+transformational change. The design of the DLIs was based on a number of criteria: (i) DLIs need to be achievable and 
+challenging so as to induce transformational change and achieve the intended impact; (ii) DLIs should focus on the 
+most challenging areas that have the potential to influence the success of the program; and (iii) DLIs should be aligned 
+with government priorities, which will help to ensure sustainability. 
+ 
+61. 
+The release of IDA funds will be linked to the achievement of the following DLIs – DLI 1 (under Sub-component 
+1.2b): 1A-Number of women referred by community health workers and registered at the health facility within the 
+first 4 months of pregnancy; 1B-Number of women referred by community health workers who completed at least 3 
+antenatal visits at the health facility; and 1C-Number of women referred by community health workers who 
+completed at least 2 postnatal visits at the health facility (US$1,450,000); and DLI 2 (Under Component 3); percentage 
+of health facilities that have annual disaggregated data using District Health Information System (DHIS2) (US$500,000). 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 20 of 65 
+     
+ 
+ 
+62. 
+To achieve the identified results under the DLIs (see Annex 2: DLI Matrix and Verification Protocol), the MoH 
+will use the Eligible Expenditure Programs (EEPs) identified in its budget and resources from the Credit proceeds. A 
+total of US$4.3 million is expected to be allocated for the EEPs by the MoH during the five years of implementation.  
+ 
+63. 
+The EEPs will finance operating costs of the NNFCA, Department of Health Promotion (DHP), Department of 
+Maternal and Child Health, Departments of Health Regions (DHRs) for each of the five regions and Djiboutiville, and 
+the Department of Health Information (a new Department that will have a budget allocation in the next MOH budget). 
+These nine Departments will play a key role for the achievement of the Project objectives as they will contribute to 
+the scaling-up of nutrition interventions, increased productivity and performance of CHWs that will be instrumental 
+in creating the linkages and referrals between the community and health facilities and in scaling-up the utilization of 
+antenatal and postnatal care services,  through: (i) training activities to strengthen the capacity of CHWs; (ii) improved 
+supervision and mentoring of CHWs; and (iii) promotion of the use of innovative technologies for beneficiary tracking 
+and monitoring that will enhance the effectiveness of CHWs. In addition, they will contribute to the strengthening of 
+the national health information system and its use for providing timely information that will be used for decision 
+making and improving program implementation. 
+ 
+64. 
+The list of indicative EEPs is as follows: 
+• 
+Non-salary recurrent expenditures allocated through the MoH’s budget for the NNFCA (the nutrition 
+Division is currently under the Department of Maternal and Child Health, and will be upgraded to a national 
+authority) that is responsible for managing the national nutrition program. Expenditures include payments 
+incurred by the NNFCA for maintenance, office supplies, travel and non-consulting services.  
+• 
+Non-salary recurrent expenditures allocated through the MoH’s budget for the DHP that is responsible for 
+all health promotion activities at the community level, including the work of CHWs. Expenditures include 
+payments made by the DHP for maintenance, office supplies, health education travel and non-consulting 
+services.  
+• 
+Non-salary recurrent expenditures allocated through the MoH’s budget for the DHRs (for Djiboutiville and 
+each of the five health regions) that is responsible for planning and monitoring and evaluation of all health 
+activities. Expenditures include payments made by the DHRs for maintenance, printing of registers for 
+community health centers, nutrition recuperation center, food, transport costs, office supplies, and mobile 
+clinics.  
+• 
+Non-salary expenditures allocated through the MoH’s budget for the Department of Health Information. 
+Expenditures include payments made by the Department of Health Information on supervision, support for 
+data collection, operating costs, and training of staff. 
+ 
+65. 
+The budget for these departments for fiscal year 2017 and 2018 is presented below.  The budget foresees an 
+increase of around US$480,000 for these departments over five years, taking fiscal year 2017 as the base year. Thus, 
+the total amount of the program is expected to be around US$4.3 million over the five years, and the DLIs will cover 
+US$1.95 million. 
+ 
+MoH Budget Line 
+Item 
+Description 
+Allocated Budget FY17 
+Allocated Budget FY18 
+DJF 
+US$ 
+DJF 
+US$ 
+14-02-06 
+Department of Mother and Child 
+7,550,000 
+42,482 
+10,550,000 
+59,363 
+14-02-08 
+Department of Health Promotion 
+5,150,000 
+28,973 
+5,150,000 
+28,973 
+14-02-09 
+Department of Health Regions - Djibouti 
+27,800,000 
+156,426 
+35,050,000 
+197,220 
+14-02-10 
+Department of Health Regions - Arta 
+18,200,000 
+102,408 
+20,450,000 
+115,069 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 21 of 65 
+     
+ 
+14-02-11 
+Department of Health Regions - Ali Sabieh 
+20,450,000 
+115,069 
+20,450,000 
+115,069 
+14-02-12 
+Department of Health Regions - Dikhil 
+18,200,000 
+102,408 
+20,450,000 
+115,069 
+14-02-13 
+Department of Health Regions - Tadjourah 
+20,450,000 
+115,069 
+20,450,000 
+115,069 
+14-02-14 
+Department of Health Regions - Obock 
+18,200,000 
+102,408 
+20,450,000 
+115,069 
+Total 
+ 
+136,000,000 
+765,243 
+153,000,000 
+860,901 
+Exchange rate: US$/DJF=177.72 
+ 
+66. 
+An independent verification agency will be used to verify the DLI achievements. The process for verification of 
+DLIs is included in Annex 2 and will be further outlined in the POM. 
+ 
+C. Sustainability 
+ 
+67. 
+The proposed project is expected to contribute to the sustainability of the stunting reduction efforts by the 
+government of Djibouti by supporting capacity building and training at different levels, behavior change 
+communication, and engaging key actors in different sectors. The project will support the MoH in building the 
+National Nutrition and Food Coordination Authority and its capacity to handle the day to day duties of implementing 
+the project and to serve the coordination and facilitation function for the multi-sectoral national nutrition response. 
+Instead of relying on the project-specific project management unit with staff paid by the project funding, the NNFCA 
+will be responsible for implementing the project and will be integrated within the MoH structure and staffed by civil 
+servants. This Authority will have the mandate of supporting and facilitating the implementation of the National 
+Strategy for the Prevention of All Forms of Malnutrition, to which the proposed project contributes. Furthermore, the 
+project has a major focus on training and behavior change. In order to reduce stunting, concerted efforts in building 
+capacity as well as behavior change communication are crucial. The project will support training of trainers, 
+community health workers and volunteers, mothers and school-age children and using different methods of 
+communication to provide information and influence behaviors.  Finally, by supporting the development of nutrition 
+sensitive strategies in sectors outside of health and facilitating coordination among different sectors at different levels, 
+the project aims to help the country build a sustainable environment conducive to effectively prevent, identify and 
+address chronic and acute malnutrition. 
+ 
+D. Role of Partners 
+ 
+68. 
+Various development partners provide support for nutrition in Djibouti, including USAID; UNICEF, and WFP.  
+All five regions in Djibouti benefit from nutrition support (primarily focused on acute malnutrition). UNICEF provides 
+support for the treatment of Severe Acute Malnutrition (SAM) through health facilities and community sites, including 
+access to quality services for the management of children with SAM through USAID/Food for Peace and EU funded 
+projects with nationwide coverage. In addition, UNICEF provides prevention services that are delivered through health 
+facilities that include strengthening and scaling up of the IYCF Program and prevention of micronutrient deficiencies 
+for rural areas and in Balbala through the EU funded project. Meanwhile, WFP provides support for the treatment of 
+moderate acute malnutrition, and people living with HIV/AIDS on antiretroviral treatment and tuberculosis (TB) 
+patients on direct observation treatment are also provided with specialized nutritious foods to support their treatment 
+and recovery. WFP also provides food rations for registered refugees, asylum seekers living in camps and the most 
+food insecure Djiboutian populations, ensuring that they have access to an adequate daily caloric intake. The 
+importance of strong coordination and collaboration cannot be understated in this context.  To this end, one of the 
+main priorities of the project will be to strengthen local nutrition governance, and support key health system platforms 
+(i.e., CHW, information systems, etc.) that will be complementary to activities funded by other development partners.  
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 22 of 65
+
+A. Overall Risk Rating and Explanation of Key Risks  
+ 
+69. 
+The overall risk rating for the project is considered Substantial given the multi-sectoral nature of the project. 
+The key risks identified include:  
+ 
+70. 
+Political and Governance risk is rated as substantial due to the prevailing political economy challenges 
+including the lack of effective governance. The project’s focus on strengthening health and nutrition service delivery 
+requires concerted multi-sectoral action with strong institutions, good governance, and voice and accountability. 
+These areas have been particularly challenging for Djibouti which scores low on both governance and voice and 
+accountability indicators with limited track record in working across sectors to address malnutrition. To mitigate the 
+risks, the Government of Djibouti has demonstrated its commitment to an enhanced national multi-sectoral response 
+through the establishment of the NNFCA and the high-level NCN. It is anticipated that the NCN with ministerial 
+representation will translate the national commitment to joint multi-sectoral action at the community level, and will 
+help address the bottlenecks to working across sectors. In addition, the project will support accountability through 
+improved monitoring and evaluation to ensure effective monitoring of progress towards achievement of the PDO, and 
+the use of an independent verification agency to verify the achievements of the DLIs. A mechanism to encourage 
+citizen engagement will also be introduced through the project to improve voice and accountability including 
+facilitating the beneficiary feedback on the quality and appropriateness of nutrition services delivered at both the 
+community and the health facility levels.  
+ 
+71. 
+Institutional Capacity for Implementation and Sustainability risk is rated as Substantial. The Nutrition Division, 
+which was a team within the MoH Department of Maternal and Child Health, has been upgraded to a NNFCA that will 
+provide the stewardship and coordination needed for a multi-sectoral nutrition program. The Authority will be a 
+platform that will be used for coordinating and managing the national nutrition program, and will manage not just the 
+Bank project but other donor-financed projects. Although the capacity of the Authority has been enhanced by the 
+appointment of key technical staff, it may take some time for project management tasks to be conducted smoothly. 
+To mitigate the institutional capacity risks the project will provide technical assistance on as needed basis.  In addition, 
+during project implementation, risks will be mitigated through frequent supervision missions to monitor progress, 
+provision of technical assistance as needed, ensuring that the NNFCA is adequately staffed, and conducting regular 
+workshops on World Bank procedures for procurement, disbursement, and financial management.  
+ 
+72. 
+The fiduciary risk is considered as High.  
+Procurement. The MoH is implementing a World Bank financed project (PAPSS) using the old procurement and 
+consultant guidelines. For this new project, procurement will be carried out in accordance with the new Procurement 
+Regulations for IPF Borrowers. As required by these regulations, the client has prepared an initial project procurement 
+strategy for development (PPSD) that also gives an overview of contracts already identified to date. Also, the ongoing 
+PAPSS has a large performance based design that requires few and low value contracts, while procurement under this 
+new project would consist of a number of contracts for goods, non-consulting services, consulting services and 
+community driven development. A procurement specialist that will be part of the NNFCA will be appointed by the 
+Government no later than one month from Credit effectiveness. The aforementioned changes, combined with the 
+existing capacity, make the procurement risk high at this stage; the risk will be reassessed and likely be changed to 
+substantial during implementation based on capacity and institutional developments.  
+ 
+ 
+The World Bank 
+ 
+Towards Zero Stunting in Djibouti (P164164) 
+ 
+ 
+ 
+ 
+Page 23 of 65 
+     
+ 
+Financial Management (FM). The ongoing PAPSS is being executed through a PMU housed at the MoH. For the 
+proposed project, a financial management assessment has been conducted for the MoH to assess the capacity to 
+implement the project. The FM risk is deemed as Substantial based on the following: (i) the MoH has limited human 
+resources with limited experience in implementing Bank financed projects; (ii) the MoH has limited internal control 
+procedures; (iii) the MoH has no accounting software to record the daily transactions and produce the quarterly 
+financial reports; and (iv) the MoH falls under the jurisdiction of the Supreme Audit Institution (SAI), however the SAI 
+has limited capacities and no experience in auditing Bank projects. In order to ensure that the risk is mitigated, specific 
+measures will be applied (refer to Annex 3 on financial management).  
+ 
+73. 
+“Other” risk. There are significant gaps in data and knowledge, reflecting the constraints in the health 
+information system. This is coupled with the lack of timely population based surveys (e.g., Demographic and Health 
+Survey), and nutrition specific surveys, the results of which can be used for planning and for making policy decisions, 
+as well as for accountability purposes.  Since regular data collection is critical for monitoring progress towards 
+achieving the project PDO, this is a key area for capacity to be built within the government. A SMART survey is expected 
+to be completed in calendar year 2018, which will provide up to date information on key nutrition indicators (including 
+the stunting and wasting prevalence rates). Depending on the results, the baseline and target values of some 
+indicators may need to be adjusted. To mitigate the risk of not having reliable data periodically, the project will include 
+a specific focus on monitoring and evaluation under Component 3, including the implementation of periodic surveys, 
+assessments, and most importantly strengthening routine data collection as well as the overall health information 
+system.  In order to expedite progress in this area, the second DLI “Percentage of health facilities that have annual 
+disaggregated data using DHIS2” is proposed.
+
+E. Social (including Safeguards) 
+ 
+87. 
+Social Benefits.  The proposed project is expected to deliver significant social benefits by reducing stunting 
+among children under five through multi-sectoral interventions. The project will benefit children (girls and boys) from 
+all walks of life, but particularly low-income households, which will have enhanced access to the expanded coverage 
+of mult

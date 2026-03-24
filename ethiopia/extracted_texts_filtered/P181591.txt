@@ -1,0 +1,1890 @@
+ 
+ 
+FOR OFFICIAL USE ONLY 
+Report No: PGD481  
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROGRAM DOCUMENT FOR A  
+ 
+PROPOSED GRANT  
+IN THE AMOUNT OF US$1 BILLION  
+AND A 
+PROPOSED CREDIT 
+IN THE AMOUNT OF US$500 MILLION 
+ 
+ 
+TO 
+ 
+THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA 
+ 
+FOR THE 
+ 
+ETHIOPIA FIRST SUSTAINABLE AND INCLUSIVE GROWTH  
+DEVELOPMENT POLICY OPERATION 
+ 
+JULY 12, 2024 
+ 
+ 
+ 
+ 
+ 
+Macroeconomics, Trade and Investment 
+Eastern And Southern Africa 
+ 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of their official 
+duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ 
+ 
+Federal Democratic Republic of Ethiopia 
+GOVERNMENT FISCAL YEAR 
+July 8 – July 7 
+ 
+CURRENCY EQUIVALENTS 
+(Exchange Rate Effective as of June 30, 2024) 
+Currency Unit: Ethiopian Birr (ETB) 
+US$1.00 = ETB 57.33 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AfCFTA 
+Africa Continental Free Trade Area 
+FY 
+Financial Year 
+CAR  
+Capital Adequacy Ratio 
+GDP 
+Gross Domestic Product 
+CBE 
+Commercial Bank of Ethiopia 
+GHG 
+Greenhouse Gas 
+CCDR 
+Country Climate and Development Report 
+GLI 
+Green Legacy Initiative 
+COVID-19 
+Coronavirus Disease of 2019 
+HGER 
+Home Grown Economic Reform  
+CPF 
+Country Partnership Framework 
+ICR 
+Implementation and Completion Report 
+CPI 
+Consumer Price Inflation 
+IMF 
+International Monetary Fund 
+CRGE 
+Climate Resilient Green Economy strategy 
+L/C 
+Letter of Credit 
+DPO 
+Development Policy Operation 
+LCU 
+Local Currency Units 
+DSA 
+Debt Sustainability Analysis 
+LT-LEDS 
+Long Term Low Emissions Development Strategy 
+ECF 
+Extended Credit Facility 
+NBE 
+National Bank of Ethiopia 
+EEP 
+Ethiopian Electric Power 
+NDC 
+Nationally Determined Contributions 
+EEU 
+Ethiopian Electric Utility 
+NOP 
+Net Open Position 
+EIA 
+Environmental Impact Assessment 
+NPV 
+Net Present Value 
+EIH 
+Ethiopian Investment Holdings 
+PIM 
+Public Investment Management 
+EOP 
+End of Period 
+PPG 
+Public and Publicly Guaranteed 
+ESIA 
+Environmental and Social Impact Assessment 
+SOE 
+State-Owned Enterprises 
+ETB 
+Ethiopian Birr 
+FDI 
+Foreign Direct Investment 
+VAT 
+Value Added Taxes 
+FX 
+Foreign Exchange 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President: Victoria Kwakwa 
+Regional Director: Hassan Zaman 
+Country Director: Maryam Salim 
+Practice Manager: Marco Antonio Hernandez Ore 
+Task Team Leader(s): Tehmina Shaukat Khan, Vinayakraj Nagaraj, Samuel Mulugeta 
+ 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation 
+(P181591) 
+PROGRAM DOCUMENT 
+ 
+ 
+ 
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation   
+ 
+TABLE OF CONTENTS 
+SUMMARY OF PROPOSED FINANCING AND PROGRAM ...................................................................... i 
+1. 
+INTRODUCTION AND COUNTRY CONTEXT ................................................................................. 1 
+2. 
+MACROECONOMIC POLICY FRAMEWORK .................................................................................. 4 
+2.1. RECENT ECONOMIC DEVELOPMENTS .......................................................................................... 4 
+2.2. MACROECONOMIC OUTLOOK AND DEBT SUSTAINABILITY ......................................................... 7 
+2.3. IMF RELATIONS ........................................................................................................................... 11 
+3. 
+GOVERNMENT PROGRAM ...................................................................................................... 12 
+4. 
+PROPOSED OPERATION .......................................................................................................... 12 
+4.1. LINK TO GOVERNMENT PROGRAM AND OPERATION DESCRIPTION ......................................... 12 
+4.2. PRIOR ACTIONS, RESULTS AND ANALYTICAL UNDERPINNINGS ................................................. 13 
+4.3. LINK TO CPF, OTHER BANK OPERATIONS AND THE WBG STRATEGY ......................................... 26 
+4.4. CONSULTATIONS AND COLLABORATION WITH DEVELOPMENT PARTNERS .............................. 27 
+5. 
+OTHER DESIGN AND APPRAISAL ISSUES................................................................................... 27 
+5.1. POVERTY AND SOCIAL IMPACT ................................................................................................... 27 
+5.2. ENVIRONMENTAL, FORESTS, AND OTHER NATURAL RESOURCE ASPECTS ................................ 28 
+5.3. PFM, DISBURSEMENT AND AUDITING ASPECTS......................................................................... 29 
+5.4. MONITORING, EVALUATION AND ACCOUNTABILITY ................................................................. 30 
+6. 
+SUMMARY OF RISKS AND MITIGATION ................................................................................... 31 
+ANNEX 1: POLICY AND RESULTS MATRIX......................................................................................... 33 
+ANNEX 2: LETTER OF DEVELOPMENT POLICY ................................................................................... 39 
+ANNEX 3: ENVIRONMENT AND POVERTY/SOCIAL ANALYSIS TABLE ................................................ 46 
+ANNEX 4: ANALYTICAL UNDERPINNINGS ......................................................................................... 50 
+ANNEX 5: PARIS ALIGNMENT ASSESSMENT ..................................................................................... 51 
+ANNEX 6: TECHNICAL ASSISTANCE (TA) AND CAPACITY BUILDING TO SUPPORT IMPLEMENTATION OF 
+REFORMS, AND MONITORING OF POVERTY AND SOCIAL IMPACTS OF REFORMS .............................. 60 
+ 
+ 
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation 
+(P181591) 
+PROGRAM DOCUMENT 
+ 
+ 
+ 
+This operation was prepared by an IDA team led by Tehmina Shaukat Khan, Vinayak (Vinny) Nagaraj, and Samuel Mulugeta, 
+and comprising Abiy Demissie, Alejandro Espinosa-Wang, Alexander S. Berg, Alta F. Foscher, Andrea Vermehren, Arun K. 
+Kolsur, Ayuba S. Hussein, Berhanu L. Guadie, Bernard Aritua, Bisrat T. Mekonnen, Bogalech A. Berhane, Cesar A. Cancho, 
+Charles Undeland, Christabel E. Dadzie, Christine M. Makori, David M. Lord, Endeshaw Tadesse, Ezio Caruso, Finot Getachew 
+Wondimagegnehu, Freyr Hermannsson, Hibatala I. O. Mahjoub, Jay-Hyung Kim, Jean O. Owino, John Panzer, Lubomir Mitov, 
+Makda G. Abebe, Marlon R. Rawlins, Micheal P. Burkart, Minghe Zheng, Nani Makonnen, Nigel R. Hughes, Nistha Sinha, 
+Rafael M. Moreno, Rajul Awasthi, Ramiro Ignacio Jauregui-Zabalaga, Roman T. Gebremedhin, Sarah B. Lynagh, Senidu Fanuel, 
+Sherin Varkey, Shewakena A. Abab, Solomon T. Feleke, Vikram Menon, Wondimagegn M. Tesfaye, Xiaoping Wang, 
+Yalemzewud S. Tiruneh, Yohana G. Wudneh, and Yun Wu. The team is grateful for guidance and support from Victoria 
+Kwakwa (Regional Vice President, AFEVP), Ousmane Dione (Regional Vice President, MNAVP), Amit Dar (Director of Strategy 
+and Operations, AFEVP), Maryam Salim (Country Director, AECE3), Doina Petrescu (Manager, Operations, AECE3), Juliana 
+Chinyeaka Victor (Manager, Operations, AECE3), (Hassan Zaman (Regional Director, EAEDR), and Marco Hernandez (Practice 
+Manager, EAEM2). Kevin Carey and Alex Sienaert provided valuable peer review comments. The team is grateful for everyone 
+from the World Bank and the Government of Ethiopia for bringing this operation together. 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+i 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@paddpfbasicinformation#doctemplate 
+SUMMARY OF PROPOSED FINANCING AND PROGRAM 
+BASIC INFORMATION 
+Operation ID 
+Programmatic 
+If programmatic, position in series 
+P181591 
+Yes 
+1st in a series of 2 
+Proposed Development Objective(s) 
+To support the Government of Ethiopia's efforts to: (i) advance financial sector restructuring and trade liberalization; 
+(ii) promote fiscal sustainability and transparency; and (iii) enhance social resilience and climate action 
+ 
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate 
+Organizations 
+Borrower:  
+Federal Democratic Republic of Ethiopia 
+Implementing Agency:  
+Ministry of Finance 
+ 
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate 
+PROJECT FINANCING DATA (US$, Millions) 
+Maximizing Finance for Development 
+Is this an MFD-Enabling Project (MFD-EP)?  
+Yes 
+Is this project Private Capital Enabling (PCE)? 
+Yes 
+ 
+SUMMARY 
+Total Financing 
+1,500.00  
+DETAILS 
+World Bank Group Financing 
+   
+International Development Association (IDA) 
+1,500.00 
+IDA Credit 
+500.00 
+IDA Grant 
+1,000.00 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ii 
+ 
+IDA Resources (US$, Millions) 
+  
+Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+National 
+Performance-Based 
+Allocations (PBA) 
+500.00 
+1,000.00 
+0.00 
+0.00 
+1,500.00 
+Total 
+500.00 
+1,000.00 
+0.00 
+0.00 
+1,500.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate 
+PRACTICE AREA(S) 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Macroeconomics, Trade and Investment 
+Energy & Extractives; Finance, Competitiveness and 
+Innovation; Social Protection & Jobs 
+CLIMATE 
+Climate Change and Disaster Screening 
+Yes, it has been screened and the results are discussed in the Operation Document 
+ 
+@#&OPS~Doctype~OPS^dynamics@padoverallrisk#doctemplate 
+OVERALL RISK RATING 
+Overall Risk 
+⚫ High 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Results 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+iii 
+ 
+Indicator Name 
+Baseline 
+(2023) 
+Target 
+(2027) 
+RI1: Lending by commercial banks to the private sector as a share of 
+total domestic banking sector assets. (Of which: Commercial Bank of 
+Ethiopia's (CBE) lending to the private sector as a share of its total 
+assets).  
+45% 
+(CBE: 20%) 
+55% 
+(CBE: 30%) 
+RI2: CBE’s compliance with Basel Core Principles regulations relating to 
+the independence, fitness, and propriety of supervisory board members.  
+Not compliant. 
+Fully compliant, and at least 
+30% of CBE board members 
+are independent. 
+RI3: Compliance of NBE capital adequacy directives with Basel Core 
+Principles. 
+NBE capital 
+adequacy 
+directives are not 
+consistent with 
+Basel Core 
+Principles. 
+NBE capital adequacy 
+directives are consistent with 
+Basel Core Principles. 
+RI4: Total volume of agricultural exports (metric tons/year) 
+1.2 million 
+1.6 million 
+RI5: Annual Value Added Tax collection, % of GDP. 
+1.2% 
+2.4% 
+RI6: Share of the non-CSEs (common use supplies and equipment) that 
+have become mandatory under the Green Public Procurement.   
+0% (2024) 
+25%  
+RI7: Percentage value of Federal public procurements being undertaken by
+Federal public bodies excluding enterprises through the e-GP and with full 
+beneficial ownership details disclosed, by each of the bodies. 
+0% (2024) 
+80%  
+RI8: Percentage of Federal SOEs with assets greater than ETB 15 billion 
+that have published annual audited financial statements compliant with 
+International Financial Reporting Standards for each financial year since 
+FY21.  
+0% (2024) 
+90%  
+RI9: Recovery of the power sector’s operational costs and debt service. 
+18% 
+70%  
+RI10: Government contribution to the financing of rural and urban safety 
+nets, % of GDP  
+Less than 0.1% 
+0.4%  
+RI11: Share of female beneficiaries benefitting from the livelihoods and 
+jobs components of the urban and rural safety net programs. 
+43%  
+65% 
+RI12: Hectares of forest area managed by forest cooperatives that are 
+eligible to receive revenues from the sale and transfer of emissions 
+reductions.   
+2.5 million (2024) 
+4 million 
+RI13: Hectares of landholdings that are securely registered in operational 
+National Rural Land Administration Information System.  
+13.5 million (2024)
+23.5 million  
+RI14: Share of new public sector projects in the agriculture, 
+manufacturing, mining, and transport sectors that consider and include 
+specific mitigation measures to address environmental and social risks in 
+accordance with the amended ESIA Proclamation.  
+0% (2024) 
+40%  
+ 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 1 
+ 
+IDA PROGRAM DOCUMENT FOR A PROPOSED GRANT AND A PROPOSED CREDIT TO  
+THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA 
+1. INTRODUCTION AND COUNTRY CONTEXT 
+1. 
+This proposed Development Policy Operation (DPO) is the first in a programmatic series of two operations 
+to support the Government of Ethiopia’s efforts to: (i) advance financial sector restructuring and trade 
+liberalization, (ii) promote fiscal sustainability and transparency, and (iii) enhance social resilience and climate 
+action. It comprises an International Development Association (IDA) grant in the amount of SDR 760.3 million 
+(US$1,000 million equivalent) and an IDA credit in the amount of SDR 380.2 million (US$500 million equivalent). The 
+DPO series supports reforms that help to address market distortions and constraints undermining macroeconomic 
+stability and inclusive private-sector-led growth. This DPO series is part of a broader stabilization program that 
+includes a four-year International Monetary Fund (IMF) Extended Credit Facility (ECF) program and expected debt 
+treatment from the G20 Common Framework. The stabilization program supports the liberalization of the foreign 
+exchange (FX) market and complementary measures to reduce financial and fiscal risks, promote trade, mobilize 
+revenues, and expand social safety nets to mitigate the effects of the adjustment on the poor. This DPO is aligned 
+with a forthcoming World Bank Country Partnership Framework for Ethiopia (CPF, FY2025-30) and the 2024 Ethiopia 
+Country Climate and Development Report (CCDR). 
+2. 
+Ethiopia’s state-led growth model supported high growth and social improvements. Between 2004-2018, 
+Ethiopia was one of the world’s fastest-growing economies (average real growth of 10 percent). The state-led model 
+increased access to infrastructure, services, and supported better living standards. Notable outcomes include 
+expanding proximate potable water access to 60 million more people, doubling electricity access, and a 64 percent 
+increase in child vaccinations. Between 2004 and 2016, these advances helped reduce the national poverty rate from 
+39 to about 24 percent.1  
+3. 
+However, these achievements came at a high cost. Expansive public investments were central to the state-
+led model and were facilitated by an overvalued exchange rate, financial repression, debt, and trade and other 
+regulatory restrictions.2 The model crowded out private investment, undermined external competitiveness, fueled 
+inflation, and exhausted external and fiscal buffers. Between 2009 and 2019, Ethiopia’s external public debt-to-GDP 
+ratio nearly doubled to 28 percent of GDP, and Ethiopia engaged in a first public debt restructuring exercise in 2019 
+to ease growing debt pressures. Financial repression, monetary deficit financing, and directed lending to state-owned 
+enterprises (SOEs) contributed to misallocations of investments, structurally high inflation, and growing financial 
+stability risks. High growth did not translate into sufficient productivity growth and job creation to cater to nearly 
+two million new job market entrants each year. The economy’s structure is broadly unchanged since 2004, and 70 
+percent of people rely on agriculture for their livelihoods.  
+4. 
+Persistent shocks and inadequate policy responses slowed growth, increased poverty, and triggered a 
+debt default in late 2023. Amid growing external imbalances and rising public debt, Ethiopia was hit by several shocks 
+beginning in 2020, including the COVID-19 pandemic, the Tigray conflict, and persistent droughts. The Tigray conflict 
+displaced over 20 million people and destroyed essential infrastructure and health services, and reconstruction cost 
+estimates are US$20 billion. The worst drought in 40 years that led to six continuous failed rainy seasons, fueled 
+hunger and displacement; over 15 million people still require food aid added to further pressures on constrained 
+fiscal resources. As a result of these challenges, growth slowed to 6.5 percent between 2020-2023, and the poverty 
+rate (US$2.15/day using international poverty lines) is estimated to have risen to 34.6 percent in 2023 from 27 
+ 
+1 World Bank. Ethiopia Poverty Assessment (2019). 
+2 World Bank. Ethiopia Systematic Country Diagnostic Update (2024). 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 2 
+ 
+percent in 2015. 3 In 2021, Ethiopia requested debt treatment under the G20 Common Framework due to increasing 
+external financing pressures and declining official assistance. To manage FX pressures, the government tightened 
+already onerous current account and financial sector restrictions and increased mandatory FX surrender 
+requirements to 80 percent. As the tax-to-GDP ratio fell (now below 7 percent), and amid declining external financing, 
+the government cut spending and severely limited wage increases and social safety net payments despite persistent 
+inflation of about 30 percent. With rising FX shortages, Ethiopia began accumulating bilateral debt arrears and missed 
+a US$33 million Eurobond coupon payment in December 2023. 
+5. 
+Climate change and conflict amplify Ethiopia’s challenges. Ethiopia is highly vulnerable to climate change. 
+Major hazards include droughts, floods, heat stress, and pest infestations. These are already contributing to 
+humanitarian needs and internal displacement. Climate change is expected to impose large, spatially concentrated, 
+and growing costs on people and infrastructure with average annual losses to GDP estimated to rise from 1- 1.5 
+percent this decade to 5 percent in the 2040s, and at the upper range of estimates, could push 3.7 million people 
+more below the poverty line (CCDR, 2024). The largest losses stem from reductions in livestock yields and from heat 
+stress on labor productivity, followed by impacts on roads and bridges and from inland flooding. Households in rural 
+areas, the lowlands, and the agricultural sector will be increasingly vulnerable due to land degradation and 
+deforestation and a shift of climate hotspots to lowlands. These hazards pose risks to this operation, given depleted 
+macroeconomic and social resilience. However, sustained reforms, including those supported by this operation 
+would help mitigate impacts and build climate resilience. Additional geo-physical risks include volcanic and seismic 
+activity.  
+6. 
+The government has initiated a new phase of reforms to reduce macroeconomic imbalances and revive 
+growth. In the last 18 months, the government has reduced fuel subsidies, tightened monetary policy, partially eased 
+FX surrender requirements, and continued SOE reforms to strengthen oversight and constrain their borrowing. In 
+addition, a Capital Markets Authority, a new deposit insurance program, and a new digital ID system (Fayda) were 
+established, and measures are being taken to deepen regional trade integration. The government has reiterated its 
+commitment to liberalize key sectors of the economy (retail and wholesale). In response to climate change risks, 
+Ethiopia committed to adaptation and mitigation by adopting a Long-Term Low Emissions Development Strategy (LT-
+LEDS) in 2023. 
+7. 
+Ethiopia’s development agenda remains vast, and its transition will take time. The investment 
+environment requires substantial reform to increase private sector entry and competition. Trade barriers remain 
+significant. Ethiopia’s trade-to-GDP ratio is the world’s second lowest. It is not yet a World Trade Organization (WTO) 
+member. Limited fiscal space has sharply reduced social and capital spending in real terms, and human capital levels 
+remain low. A child born today will be 38 percent as productive as if she could enjoy a complete education and total 
+health. SOEs remain inefficient, requiring bailouts, while regulatory privileges and a large footprint constrain the 
+private sector. Addressing these issues requires macroeconomic stability and complementary structural reforms. 
+8. 
+The DPO series supports the government in building foundations for more inclusive and sustainable 
+growth. Actions in Pillar 1 help advance financial sector restructuring and trade liberalization by: (i) enhancing the 
+central bank’s independence and oversight of the financial sector, (ii) supporting the restructuring and reform of the 
+state-owned and systemic Commercial Bank of Ethiopia (CBE), and (iii) liberalizing cereal exports. Actions in Pillar 2 
+strengthen fiscal sustainability and transparency by: (i) removing exemptions and reducing the fragmentation of the 
+value-added tax (VAT), (ii) mandating the usage of electronic public procurement, (iii) enhancing SOE transparency, 
+and (iv) supporting multi-year electricity tariff reforms. Actions in Pillar 3 enhance social resilience and climate action 
+by: (i) improving the coverage and adequacy of social safety nets, (ii) strengthening the legal frameworks for rural 
+ 
+3 World Bank. Macro-Poverty Outlook, Spring 2024.  
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 3 
+ 
+land tenure and forest management, and (iii) enhancing environmental and social risk regulations for public 
+investment. The operation is fully aligned with the World Bank’s corporate commitments. Seven of ten prior actions 
+are expected to generate climate co-benefits. The program will also help reduce gender gaps and enable private 
+capital mobilization.  
+9. 
+The operation complements macroeconomic and exchange rate reforms supported under the IMF ECF 
+and parallel World Bank-financed operations to support capacity building and reform implementation.  The IMF 
+ECF supports programmatic macroeconomic reforms including: (i) upfront liberalization of exchange rates and 
+current account restrictions and phasing out of surrender requirements and financial repression, (ii) ending monetary 
+financing, strengthening central bank independence, and operationalizing an interest-rate based monetary policy 
+framework, (iii) a revenue-led fiscal consolidation to enable an increase in social and pro-poor expenditures, and (iv) 
+SOE reforms. Parallel World Bank-financed operations and technical assistance include a US$70 million Governance 
+Modernization Project (under preparation) and a US$700 million Financial Sector Strengthening Project (under 
+preparation)4 (see Annex 6). The DPO also aligns with longer-term programmatic donor support focused in particular 
+on safety nets, revenue mobilization, and SOEs.  Additional budget support from partners is expected to complement 
+this DPO. 
+10. 
+There is a high risk that the Program Development Objectives will not be fully achieved. Addressing 
+Ethiopia’s macroeconomic challenges will require sustained reforms over the medium term. Effective program 
+implementation depends on a credible and market-reflective exchange rate, timely completion of debt negotiations 
+with creditors, and bold measures to mitigate financial and fiscal risks from CBE and energy utilities. Administrative 
+capacity constraints could challenge the government’s ability to meet these challenges and sustain reform 
+momentum. Finally, the reforms being pursued by the government and supported by the DPO series and IMF ECF 
+challenge longstanding policies that carry an inherent risk of opposition from vested interests. Mitigation measures 
+include the government’s commitment to macroeconomic stabilization as demonstrated by frontloaded exchange 
+rate reform, increased cost recovery in the energy sector, improvements in revenue mobilization, enhanced financial 
+sector oversight, and the expansion of safety nets, all of which are supported by this DPO series and the IMF ECF. The 
+government is committed to enabling more private sector participation, easing trade, pursuing prudent fiscal policies, 
+restructuring the energy and banking sectors, and improving the effectiveness of social protection. The programmatic 
+nature of the DPO provides an opportunity for the World Bank to adapt to uncertainties. However, even with these 
+measures, experiences from other exchange rate adjustments suggest that residual risks remain high. Notably, the 
+initial phase of such reforms is unpredictable and can generate further budgetary and external financing needs 
+beyond those envisaged by the overall stabilization program.  
+ 
+Box 1: Ethiopia’s external debt restructuring status under the G20 Common Framework 
+In February 2021, the government requested debt treatment under the Common Framework, and the Official Creditor 
+Committee (OCC) was formed in September 2021. The request was to strengthen debt sustainability and improve the risk 
+of debt distress rating to moderate by the end of the 2019 ECF-EFF arrangements, consistent with the Fund’s exceptional 
+access criteria. This requirement will remain under the newly requested Fund-supported program. Ten OCC meetings have 
+already taken place since, with the last held on July 11 2024. The OCC has committed to finding an appropriate solution for 
+Ethiopia’s debt vulnerabilities. 
+   
+ 
+4 The Governance Modernization Project will support improvements in tax administration (especially for excises, VAT and customs revenue) 
+through investments in digital systems, improved business processes and capacity building, and more efficient taxpayer services alongside 
+technical assistance to rationalize tax holidays and reform other taxes. The Financial Sector Strengthening Project will support the 
+implementation of key laws and directives supported by the DPO series and includes the opening of the banking sector to foreign investment, 
+implementation of the Basel II/III Framework and governance reforms. 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 4 
+ 
+In November 2023, Ethiopia reached a standstill agreement with official creditors, which resulted in a suspension of 
+around US$3.2 billion in debt service due in 2023 and 2024. The debt service suspension is retroactive to January 1, 2023, 
+and therefore resolves US$1.2 billion of official arrears that had accumulated (US$1.1 billion to China) earlier in 2023. The 
+agreement included a claw-back provision, allowing the OCC to restore the original debt service obligations if a staff-level 
+agreement on a new IMF-supported program is not reached by the end of June 2024. Ethiopia defaulted on its Eurobond 
+obligations by missing a coupon payment of US$33 million in December 2023. The government is in restructuring 
+negotiations with bondholders. 
+ 
+2. MACROECONOMIC POLICY FRAMEWORK 
+11. 
+The adequacy of the macroeconomic policy framework for the purposes of development policy financing 
+hinges on, inter alia, the upfront exchange rate liberalization, addressing the country’s debt vulnerabilities through 
+a debt treatment consistent with the Debt Sustainability Analysis, and the government commitment to reforms. 
+Ethiopia’s current macroeconomic imbalances and vulnerabilities result from a distortionary policy framework. Prior 
+to World Bank and IMF Board submission, the government implemented a range of credible and substantive 
+macroeconomic and structural reforms5 to address protracted external vulnerabilities and fundamental market 
+distortions, and to support financial stability and private-sector-led growth.  The government has been engaged in 
+restructuring negotiations with representatives of holders of the Eurobond (for US$1 billion) and on July 11, 2024, 
+obtained credible financial assurances on official bilateral debt treatment under the G20 Common Framework. As a 
+pre-condition for the IMF Board approval of the ECF program, Ethiopia has liberalized its exchange rate system. Going 
+forward, sustained implementation of reforms is necessary to end fiscal and state dominance, advance the next 
+phase of energy and banking sector restructuring and governance reforms to reduce risks from quasi-fiscal deficits, 
+phase out financial repression, deepen trade integration and mobilize domestic revenues needed to finance a more 
+inclusive growth agenda. While there remain uncertainties around the exact timing of eventual debt treatment, these 
+measures are expected to reduce debt sustainability risks to “moderate” by mid-2028.    
+2.1. RECENT ECONOMIC DEVELOPMENTS 
+12. 
+GDP growth, while still robust, has slowed markedly relative to the previous two decades.  The scaling 
+back of debt-financed public and SOE investments and construction projects due to financing pressures, alongside 
+worsening exchange rate over-valuation, deteriorating external competitiveness, persistent droughts in the 
+lowlands, and conflict have slowed growth to about 6.5 percent since FY2020.  Despite this, activity has remained 
+supported by improvements in highland harvests due to better rains and reforms to improve cluster farming and 
+land tenure increased agricultural output. Several years of expansions from Ethiopian Airlines and 
+telecommunications services by state and private operators have driven robust service growth. Agriculture and 
+services growth has helped offset slowing manufacturing exports (due to FX shortages and the loss of US trading 
+preferences) and construction activity (due to fiscal compression and lower capital spending). The end of the Tigray 
+conflict in late 2022 also allowed for economic activity and services to resume, driving a pick-up in GDP growth to 7.2 
+percent in FY2023.  
+13. 
+Inflation is easing after two years of double-digit price growth. Headline inflation remained at about 30 
+percent for two years, peaking at 37.2 percent in May 2022. Drivers include an over 200 percent increase in fuel 
+prices, the central bank’s monetary financing of the budget, lower agricultural production of essential commodities 
+due to the conflicts in Tigray and Amhara, and disruptions to supply chains from problems at the Djibouti port. 
+Inflation has since moderated to 23.1 percent in April 2024 as monetary policy was tightened. The National Bank of 
+Ethiopia (NBE) targeted a reduction in advances to the government to 0.3 percent of GDP from about 0.9 percent in 
+ 
+5 These include, in particular, prior actions supported in this DPO operation and the IMF ECF.  
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 5 
+ 
+2022/23. It imposed a 14 percent cap on the growth of commercial banks’ outstanding loans. 
+14. 
+A sharp fall in pro-poor spending is contributing to worsening poverty. Higher poverty reflects the impacts 
+of various shocks and high inflation. Amid fiscal consolidation, government spending on pro-poor expenditures has 
+dropped by 1.5 percent of GDP since FY2021 (Table 2). Urban and rural safety net programs cover 9.7 million people, 
+but the purchasing power of already low benefits has been eroded by high inflation, especially for rural beneficiaries. 
+15. 
+A sharp decline in official FX inflows has led to acute shortages, resulting in missed Eurobond payments 
+in 2023. The current account deficit narrowed to 2.8 percent of GDP in FY2023 due to import suppression through 
+restrictions, lower global commodity prices, and higher service exports (related to Ethiopian Airlines). Goods exports, 
+mainly coffee and flowers, have fallen over the last decade to less than 2 percent of GDP in FY2024. Foreign direct 
+investment (FDI) and remittances have also fallen amid FX restrictions, onerous surrender requirements, and 
+financial repression, while the parallel market premium has exceeded 100 percent. Amid increasing external arrears 
+(US$1.2 billion in September 2023), a temporary standstill agreement with G20 creditors, a US$2 billion loan deposit 
+from the United Arab Emirates to the NBE (for FX reserve management), and a default on a Eurobond coupon 
+payment in December 2023 provided temporary FX liquidity. However, external financing needs remain significant, 
+and this temporary relief is insufficient to cover fuel, fertilizer, and other essential import needs during 2024. 
+ 
+Table 1: Selected Economic Indicators for Ethiopia 
+  
+2020/21 
+2021/22 
+2022/23 
+2023/24p 
+2024/25p 
+2025/26p 
+2026/27p 
+  
+Annual percentage change, unless otherwise indicated  
+National Accounts 
+  
+  
+  
+  
+  
+  
+  
+GDP at constant prices 
+6.3 
+6.4 
+7.2 
+6.1 
+6.5 
+7.1 
+7.7 
+Sectoral contribution to growth  
+  
+  
+  
+  
+  
+  
+  
+    Agriculture 
+1.8 
+2.0 
+2.0 
+1.9 
+1.9 
+1.9 
+1.8 
+    Industry 
+2.1 
+1.4 
+2.0 
+1.3 
+1.5 
+2.0 
+2.0 
+    Services 
+2.5 
+3.0 
+3.2 
+3.0 
+3.1 
+3.3 
+4.0 
+Inflation 
+  
+  
+  
+  
+  
+  
+  
+GDP deflator 
+21.8 
+34.7 
+32.9 
+26.8 
+25.7 
+16.1 
+12.2 
+Consumer prices (average) 
+20.2 
+33.9 
+32.5 
+27.0 
+29.9 
+16.2 
+12.2 
+Selected Monetary Accounts 
+  
+  
+  
+  
+  
+  
+  
+Banks' credit to the government 
+56.3 
+97.4 
+35.7 
+15.7 
+4.4 
+20.8 
+24.8 
+Banks' credit to private sector 
+33.8 
+22.8 
+33.8 
+14.1 
+25.0 
+30.0 
+40.0 
+Broad money (M2) 
+29.9 
+27.2 
+26.6 
+14.5 
+30.0 
+25.1 
+26.6 
+External Sector 
+  
+  
+  
+  
+  
+  
+  
+Exports fob 
+10.9 
+22.8 
+3.3 
+3.9 
+7.9 
+15.0 
+17.3 
+Imports cif 
+2.3 
+24.9 
+-1.4 
+1.9 
+8.7 
+5.9 
+10.6 
+  
+Percent of GDP, unless otherwise indicated  
+Current account balance (inc. grants) 
+-2.8 
+-4.0 
+-2.8 
+-2.8 
+-4.4 
+-3.1 
+-2.5 
+Foreign direct investment 
+3.6 
+2.6 
+2.1 
+1.6 
+2.8 
+3.3 
+3.0 
+Debt 
+  
+  
+  
+  
+  
+  
+  
+Public debt (external and domestic) 
+56.1 
+49.0 
+40.0 
+34.3 
+44.2 
+40.0 
+37.0 
+External debt 
+29.0 
+24.0 
+17.9 
+15.2 
+28.9 
+27.1 
+24.8 
+Debt service 
+1.8 
+1.5 
+0.9 
+0.6 
+2.5 
+2.0 
+2.0 
+Fiscal Accounts 
+  
+  
+  
+  
+  
+  
+  
+Total revenue and grants 
+11.0 
+8.5 
+8.2 
+7.7 
+9.0 
+10.5 
+11.5 
+Total expenditure and net lending 
+13.8 
+12.7 
+10.8 
+9.4 
+11.5 
+12.5 
+13.5 
+Overall fiscal balance (with grants) 
+-2.8 
+-4.2 
+-2.6 
+-1.7 
+-2.4 
+-2.1 
+-2.0 
+Memorandum items 
+  
+  
+  
+  
+  
+  
+  
+GDP per capita (%) 
+3.5 
+3.7 
+4.5 
+3.4 
+3.8 
+4.4 
+5.0 
+Gross reserves (US$ million, EOP)  
+2,866 
+1,495 
+1,026 
+1,056 
+2,814 
+4,984 
+6,707 
+      In months of next year's imports 
+1.5 
+0.8 
+0.5 
+0.5 
+1.3 
+2.0 
+2.4 
+Nominal GDP (billion, local currency) 
+4,341 
+6,158 
+8,722 
+11,687 
+15,844 
+19,839 
+24,155 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 6 
+ 
+Nominal GDP (million, US$) 
+111,260 
+126,773 
+163,698 
+  
+  
+  
+  
+Sources: Ethiopian authorities, World Bank, and IMF. 
+ 
+16. 
+Non-performing loans of state-directed SOE lending are a systemic financial sector risk. SOE loans are 60 
+percent of the assets of the CBE, Ethiopia’s largest commercial bank. Most of these non-performing loans are to 
+state-owned Ethiopian Electric Power (EEP). Government guarantees have not been honored, and CBE does not 
+provide for losses from these loans. Although CBE is profitable and sufficiently capitalized from an accounting 
+perspective, economic earnings and capital are much lower after provisioning for non-performing loans, with CBE 
+has also accumulated substantial FX on-balance sheet and off-balance sheet exposures (the latter related to Letters 
+of Credit (L/Cs) commitments to finance the procurement of fuel and fertilizer imports). 
+17. 
+Declining revenue and official development assistance (ODA) have severely compressed spending. Taxes 
+as a share of GDP fell below 7 percent in FY2024, continuing a decade-long erosion of the tax base due to policy 
+distortions that limit the taxable base and allow for large tax expenditures, high informality, and inefficient tax 
+administration. ODA to the government budget fell to 1 percent of GDP in FY2023 from 3.2 percent in FY2020. As a 
+result, public spending has halved since the late 2000s to below 10 percent of GDP, driven by cuts to capital spending 
+and federal transfers to regions (which are responsible for delivering essential health and education services). In 
+FY2023, the general government deficit fell by 1.7 percentage points to 2.6 percent, while the primary deficit 
+narrowed to 2.0 percent. Rules mandating commercial bank purchases of treasury bills and central bank monetary 
+financing have largely financed this deficit. Public debt as a share of GDP fell in FY2023 to 40 percent due to fiscal 
+tightening, borrowing constraints on SOEs, and high nominal GDP growth.  
+Table 2: Key Fiscal Indicators for Ethiopia (percent of GDP, fiscal year basis) 
+  
+2020/21 
+2021/22 
+2022/23 
+2023/24p 
+2024/25p 
+2025/26p 
+2026/27p 
+Total Revenue and Grants 
+11.0 
+8.5 
+8.2 
+7.7 
+9.0 
+10.5 
+11.5 
+ Tax revenues 
+9.0 
+7.1 
+6.8 
+6.3 
+7.4 
+8.9 
+10.0 
+     Direct taxes 
+4.0 
+3.4 
+3.0 
+3.1 
+2.8 
+3.7 
+4.1 
+      Domestic indirect taxes 
+2.5 
+1.6 
+1.8 
+1.8 
+2.4 
+2.8 
+3.2 
+      Import duties and taxes 
+2.5 
+2.1 
+1.9 
+1.5 
+2.2 
+2.4 
+2.7 
+ Non-tax revenues 
+1.3 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+ Grants 
+0.8 
+0.4 
+0.4 
+0.4 
+0.6 
+0.6 
+0.5 
+Expenditure 
+13.8 
+12.7 
+10.8 
+9.4 
+11.5 
+12.5 
+13.5 
+ Current expenditure 
+8.4 
+8.4 
+6.7 
+5.7 
+7.8 
+7.9 
+8.2 
+     Defense spending 
+0.9 
+1.7 
+0.9 
+0.4 
+0.5 
+0.6 
+0.6 
+     Poverty-reducing expenditure1/ 
+4.1 
+3.4 
+2.7 
+2.4 
+3.1 
+3.8 
+4.0 
+     Interest payments 
+0.6 
+0.6 
+0.6 
+0.6 
+1.1 
+1.2 
+1.2 
+           Domestic 
+0.4 
+0.4 
+0.5 
+0.5 
+0.9 
+1.0 
+1.0 
+           External 
+0.2 
+0.2 
+0.1 
+0.1 
+0.2 
+0.2 
+0.2 
+ Capital expenditures 
+5.4 
+4.3 
+4.1 
+3.7 
+3.7 
+4.7 
+5.3 
+Overall balance, including grants  
+-2.8 
+-4.2 
+-2.6 
+-1.7 
+-2.4 
+-2.1 
+-2.0 
+     Primary balance 
+-2.2 
+-3.5 
+-2.0 
+-1.1 
+-1.3 
+-0.9 
+-0.8 
+Financing 
+2.8 
+4.2 
+2.6 
+1.7 
+2.4 
+2.1 
+2.0 
+    Net external financing 
+0.7 
+0.1 
+0.3 
+0.2 
+1.6 
+0.1 
+0.2 
+    Net domestic financing 
+2.1 
+4.1 
+2.3 
+1.5 
+0.8 
+1.5 
+1.8 
+Memorandum items: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Official development assistance (ODA) 
+1.4 
+0.8 
+1.0 
+0.6 
+2.9 
+1.3 
+1.2 
+Sources: Ethiopian authorities, World Bank, and IMF. 1/ Includes health, education, agriculture, roads, and safety nets. 
+ 
+18. 
+Potentially significant fiscal risks from SOEs remain unaccounted for. Despite reforms to harden SOE 
+budget constraints and improve SOE oversight (including through support from the World Bank’s Sustainable 
+Development Policy Framework, SDFP), SOEs remain a significant source of fiscal risks. For example, below-cost 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 7 
+ 
+electricity tariffs have led to substantial quasi-fiscal deficits. The related suspension of loan payments to CBE has, in 
+turn, contributed to financial stability risks. Public sector FX exposures are another source of unaccounted risks—
+especially the settlement of supplier credits and debts for already delivered fuel and fertilizer imports. Weak and 
+non-transparent SOE financial reporting and governance practices prevent a complete understanding of these risks 
+and their likelihood of materialization.  
+19. 
+The government has resumed reforms, but progress remains uneven. To eliminate subsidies, retail fuel 
+prices were raised by 250 percent since mid-2022 and are at full cost recovery at current official exchange rates. 
+Hardened domestic borrowing constraints on SOEs aligned with SDFP commitments helped lower public debt. A new 
+deposit insurance fund was operationalized in late 2023 to protect bank and micro-finance depositors. In 2023, the 
+Fayda ID system was launched to increase access to biometric identification as a gateway to a range of public and 
+private services. Progress in other areas has been slower, including a failure to attract bids for a third telecom license 
+due to a challenging business environment. Measures to liberalize logistics have had mixed results, with no foreign 
+companies bidding for multimodal licenses. Two of the three new private-sector licensees are companies owned by 
+regional government endowment funds.  
+20. 
+In early 2024, the government announced a second phase of its Home-Grown Economic Reform Agenda 
+(HGER 2.0). The HGER 2.0 aims to revive Ethiopia’s reform program after several years of shocks and setbacks from 
+conflict and prioritizes macroeconomic stability, creating a conducive investment environment and boosting sectoral 
+productivity. Reforms supported by the World Bank DPO and IMF ECF programs and identified by the HGER 2.0 are 
+highlighted in Table 3. 
+21. 
+Ethiopia is in debt distress. Public and publicly guaranteed debt as a share of GDP declined to 40.2 percent 
+by June 2023 from 49 percent in the previous year. External debt as a share of GDP fell for the fifth year to 18.1 
+percent due to lower official bilateral borrowing (including a zero non-concessional borrowing limit under the SDFP), 
+constraints on SOE borrowing, and high nominal GDP growth. Still, lower FX inflows, exports, and domestic revenues 
+pushed Ethiopia into debt distress following the announcement of a standstill by Common Framework creditors and 
+a missed Eurobond coupon payment at end-2023. Although domestic debt has fallen as a share of GDP, much of this 
+debt stock is non-performing and contributes to the financial system's rising systemic risks. CBE holds nearly all SOE 
+domestic debt, which is not performing. 
+Table 3: Key Reforms supported in World Bank DPO and IMF ECF 
+IMF ECF Supported Reforms 
+DPO Supported Reforms 
+• Exchange rate liberalization, easing of current account 
+restrictions, phase-out of FX surrender requirements. 
+• Strengthened NBE independence. 
+• Shift to an interest-rate-based monetary policy 
+framework. 
+• Phase-out of financial repression mechanisms. 
+• VAT, excise stamp, property, and direct tax reforms. 
+• Reforms of state-owned enterprises.  
+• Strengthened legal framework for effective bank supervision by NBE. 
+• Reform and recapitalization of CBE and banking sector liberalization. 
+• Trade reforms, including lifting agricultural export bans, and alignment to 
+Africa Continental Free Trade Area (AfCFTA) tariffs on goods, and regulatory 
+standards. 
+• Revenue mobilization reforms, including VAT, corporate taxes, presumptive 
+income taxes, and property taxes. 
+• E-procurement reforms and transparency of SOE accounts. 
+• Energy tariff reform. 
+• Safety net expansion and modernization. 
+• Land-use and forestry reforms. 
+ 
+2.2. MACROECONOMIC OUTLOOK AND DEBT SUSTAINABILITY 
+22. 
+Successful exchange rate liberalization, structural reforms, and debt treatment would lift growth in the 
+medium term.  Sustained reform implementation, supported by the DPO series and IMF ECF, is expected to lift 
+potential growth to about 8 percent in the medium term. These include: (i) the shift to market exchange rates and 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 8 
+ 
+related improvements in external competitiveness, (ii) ending of financial repression, and more credible monetary, 
+banking and fiscal frameworks that support macro-financial stability, (iii) the shift away from direct controls (e.g., on 
+trade) and greater role of market forces to intermediate credit, and (iv) broader structural and institutional reforms. 
+These reforms will encourage more productive activity, promote exports, incentivize private saving and investment, 
+and lessen resource misallocations and transfer of resources from exporters, remittance earners, private firms and 
+households to the public sector. Agriculture comprises a third of the economy, supporting livelihoods for 70 percent 
+of the population, with rural land tenure reforms expected to support a consolidation of fragmented landholdings, 
+and drive productivity enhancements and trade. The completion of major hydro-investments would provide a further 
+boost to growth in the longer term, by increasing energy supply. In the near term, however, only a modest uptick in 
+GDP growth is anticipated due to tight monetary policies, pent-up import demand in the private sector, import needs 
+related to reconstruction, and potential investor uncertainty during the initial transition period. Coupled with a 
+narrow export and private sector base, this is expected to dampen the economy’s initial response to shifting relative 
+prices and structural reforms, with GDP growth expected to rise to 6.5 percent in FY2025 from 6.1 percent in FY2024.  
+23. 
+The outlook for financial stability and intermediation depends on reforms to remove market distortions 
+and modernize the central bank. As part of the HGER and with support from the IMF ECF and World Bank DPO, the 
+government will advance reforms to: (a) strengthen the central bank mandate and independence to promote 
+financial stability; (b) restore CBE’s capital adequacy and improve its liquidity through recapitalization equivalent to 
+CBE’s claims on non-performing SOE loans; and (c) open the banking sector to foreign investment as a way of 
+increasing competition and faster regulatory convergence to international norms. The financial sector's stability is 
+expected to improve as reforms are implemented, although potential downside risks for commercial banks that 
+emerge from the macroeconomic adjustment will require careful monitoring. A new Ethiopian Securities Exchange 
+in October 2024 will enable secondary debt and equity trading, while banking liberalization would encourage 
+healthier financial intermediation. 
+24. 
+The current account is anticipated to remain in deficit but is expected to be sustainably financed. The 
+liberalization of the FX market and current account restrictions and phasing out of surrender requirements will help 
+ease FX shortages (and in turn of raw-materials and imported inputs). Along with the easing of restrictions on trade 
+and deeper regional integration and increasing regional energy exports as hydropower investments are completed, 
+this will encourage exports and remittances (including flows routed through official channels) over the medium 
+term.6 Higher ODA disbursements and savings from eventual debt treatments will complement these inflows. Over 
+time, higher FDI inflows will offset moderating ODA as privatization resumes (including selling a 40 percent stake in 
+Ethio-Telecom in FY2025) and banking, wholesale, and retail trade is liberalized. Although FDI as a share of GDP 
+doubles by FY2027, it is expected to remain below pre-conflict levels.  
+25. 
+Inflation is expected to moderate after an initial increase. FX market and energy tariff reforms will likely 
+increase inflation during FY2025, which is expected to peak at about 35-40 percent. Most imported goods are already 
+priced at parallel market rates (except fuel, fertilizer, and some pharmaceutical imports). Price pressures will also be 
+contained by a staggered increase in administered fuel and fertilizer prices (to reach parity with international prices 
+following the FX reform7). Inflation is expected to moderate to low double-digits by FY2027 as FX availability and 
+imported input shortages ease and as agricultural supply increases following years of drought. 
+26. 
+Higher tax collection will support fiscal consolidation. Under the IMF ECF and World Bank DPO 
+assumptions, revenues are expected to increase by 4.5 percentage points of GDP over four years. Initial reforms 
+include the removal of numerous VAT exemptions (while maintaining the current 15 percent VAT rate), as well as 
+ 
+6 Informal remittance inflows and underreported exports (using mirror trade data) are estimated to be at least US$4 billion per year.   
+7 Current pump prices in Birr are already above cost recovery on the pre-reform exchange rate. 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 9 
+ 
+new property and excise taxes. In FY2025, VAT, excise, and property tax reforms are estimated to yield at least 0.3, 
+0.4, and 0.1 percent of GDP, respectively. By FY2027/28, these gains are expected to improve to 1.2, 0.7, and 0.3 
+percent of GDP, respectively. Reforms will also expand the tax base (by consolidating VAT and presumptive income 
+taxes) and improve tax and customs administration. Planned reforms to rationalize income tax exemptions, curtail 
+tax holidays, increase interest withholding rates, and expand property taxes are expected to yield an additional 2.5 
+percent of GDP in revenue by 2027/28. In addition to these increases, higher trade tax collections from exchange 
+rate revaluations will contribute to higher tax collections. 
+27. 
+Revenue improvements will enable higher social expenditures needed to mitigate the impact of the 
+adjustment on the poor. The government has budgeted 1.5 percent of GDP to mitigate adverse poverty and social 
+impacts in the first year of macroeconomic adjustment. The reforms supported by the DPO series will support a large 
+and durable expansion in federal government contributions to the financing of safety nets from less than 0.1 to 0.4 
+percent of GDP, an inflation adjustment for beneficiaries, a temporary shock response measure to mitigate the 
+impact of macroeconomic reforms and a structural increase in the number of beneficiaries. Under the IMF ECF 
+program, 0.5 percent of GDP in budget spending supports a gradual phaseout of fuel and fertilizer subsidies over six 
+months, with the government committing to eliminating fuel subsidies by early 2025 and reducing fertilizer subsidies 
+to 0.3 percent of GDP by FY2026. Overall, pro-poor spending is expected to nearly double from 2½ to 4 percent of 
+GDP. Interest costs associated with CBE recapitalization supported by this DPO are expected to cost 0.5 percent of 
+GDP annually. 
+28. 
+Debt sustainability risks are expected to be moderate. Anticipated debt tre
+
+[... procurement/fiduciary sections omitted ...]
+
+, they may require unplanned fiscal and balance of payments adjustments. 
+The rising costs of addressing these challenges will also prolong financial repression and crowd out private sector 
+financial access. Unexpected public sector FX needs could derail FX market reforms and worsen balance of payments 
+pressures. To partially mitigate these risks, the government is: (i) frontloading key macroeconomic reforms, (ii) 
+prioritizing socially protective and pro-poor spending as a buffer against price and adjustment shocks, (iii) requesting 
+debt relief under the G20 Common Framework, and (iv) working with the World Bank and other development 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 10 
+ 
+partners on complementary operational engagements in the financial sector and tax reforms. 
+30. 
+The macroeconomic policy framework is considered adequate for development policy financing in the 
+expectation of the successful execution of a debt restructuring in line with the DSA. This is supported by the 
+government’s credible commitment to reforms to strengthen the macroeconomic framework and support more 
+sustainable and inclusive growth (as supported by actions across the pillars of this DPO series and the IMF ECF). 
+Following the receipt of credible assurances for timely debt relief by the G20 Creditors Committee, the IMF ECF has 
+been submitted to its Board for consideration on July 29, 2024. The DPO approval is predicated on having the IMF 
+ECF program approval and first disbursement of its expected financial support. The anticipated US$3.5 billion in 
+reduced debt service as part of G20 debt treatment is expected to lower the debt risk assessment to “moderate” by 
+2028. At the same time, the balance of payments is projected to remain sustainable, supported by a gradual 
+improvement in exports, FDI and capital inflows.  
+ 
+Table 4. Public and Publicly Guaranteed Debt Stock and Debt Service 
+  
+Debt stock (end of period) 
+Debt service 
+  
+2022/23 
+2023/24 
+2024/25 
+2023/24 
+2024/25 
+  
+US$ 
+million 
+Percent 
+of Total  
+Percent 
+of GDP  
+US$ million 
+Percent of GDP  
+Total PPG Debt  
+64,274 
+100.0 
+40.2 
+8,211 
+7,502 
+3.9 
+5.5 
+Domestic Debt  
+35,344 
+55.0 
+22.1 
+7,291 
+4,944 
+3.5 
+3.6 
+     Treasury bills  
+6,262 
+9.7 
+3.9 
+- 
+- 
+- 
+- 
+     Bonds  
+12,453 
+19.4 
+7.8 
+- 
+- 
+- 
+- 
+     Others  
+16,629 
+25.9 
+10.4 
+- 
+- 
+- 
+- 
+External Debt  
+28,606 
+45.0 
+18.1 
+920 
+2,557 
+0.4 
+1.2 
+     Multilateral creditors  
+15,269 
+23.8 
+9.6 
+650 
+694 
+0.3 
+0.3 
+     Bilateral Creditors  
+12,108 
+19.3 
+7.8 
+115 
+761 
+0.0 
+0.4 
+          Paris Club  
+1,772 
+2.9 
+1.2 
+21 
+109 
+0.0 
+0.1 
+          Non-Paris Club  
+10,336 
+16.4 
+6.2 
+94 
+653 
+0.0 
+0.3 
+     Commercial Creditors  
+1,229 
+1.9 
+0.7 
+155 
+1,134 
+0.1 
+0.5 
+Memo items  
+  
+     SOE guaranteed external debt  
+6,299 
+     LCU per USD: Official (EOP)  
+54.59 
+  
+  
+  
+  
+  
+  
+Sources: Ethiopian Authorities, World Bank and IMF 
+ 
+Figure 1a: PV of external PPG debt-to-GDP ratio 
+      Figure 1b: PV of external PPG debt-to-exports ratio 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+2024
+2026
+2028
+2030
+2032
+2034
+Baseline
+Threshold (weak)
+Historical scenario
+Most extreme shock
+Most extreme shock: One-time depreciation
+80
+130
+180
+230
+280
+330
+2024
+2026
+2028
+2030
+2032
+2034
+Baseline
+Threshold (weak)
+Historical scenario
+Most extreme shock
+Most extreme shock: Exports
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 11 
+ 
+Figure 1c: External debt service -to-exports ratio 
+       Figure 1d: External debt service -to-revenue ratio 
+ 
+ 
+31. Source: World Bank and IMF based on DSA findings (2024). 
+ 
+Table 5: External Financing Needs and Sources 
+  
+2021/22 
+2022/23 
+2023/24p 
+2024/25p 
+2025/26p 
+2026/27p 
+2027/28p 
+Financing Requirements  
+7,374 
+8,048 
+8,549 
+9,878 
+6,992 
+6,209 
+5,813 
+Current account deficit  
+5,134 
+4,635 
+5,896 
+6,015 
+4,577 
+4,050 
+3,565 
+Long-term debt amortization 
+2,302 
+1,830 
+2,081 
+3,263 
+2,415 
+2,159 
+2,248 
+      Federal government 
+343 
+429 
+685 
+1,718 
+890 
+920 
+1,082 
+     Other public sector 
+1,959 
+1,401 
+1,396 
+1,545 
+1,526 
+1,239 
+1,165 
+Short-term debt amortization 
+  
+  
+  
+  
+  
+  
+  
+Other capital outflows (incl. deposits) 
+-62 
+1,583 
+572 
+600 
+0 
+0 
+0 
+Available Financing 
+7,374 
+8,048 
+8,549 
+9,877 
+6,993 
+6,207 
+5,813 
+Foreign direct investment (net) 
+3,308 
+3,428 
+3,333 
+3,775 
+4,812 
+4,853 
+5,621 
+Portfolio investment (net) 
+  
+  
+  
+  
+  
+  
+  
+Capital grants 
+  
+  
+  
+  
+  
+  
+  
+Short-term debt disbursements 
+  
+  
+  
+  
+  
+  
+  
+Long-term debt disbursements (excl. IMF) 
+907 
+2,913 
+3,626 
+4,269 
+3,130 
+2,551 
+2,530 
+      Federal government 
+616 
+2,372 
+1,090 
+3,355 
+2,830 
+2,232 
+1,985 
+      Other public sector 
+291 
+541 
+2,536 
+914 
+300 
+319 
+545 
+IMF credit (net) 
+397 
+0 
+-212 
+1,647 
+455 
+455 
+438 
+Change in reserves (- = increase) 
+1,919 
+378 
+-30 
+-1,757 
+-2,170 
+-1,723 
+-3,035 
+Debt suspension and restructuring 
+720 
+475 
+1,832 
+1,943 
+766 
+71 
+259 
+Errors & Omissions 
+123 
+854 
+  
+  
+  
+  
+  
+Sources: Ethiopian Authorities, World Bank, and IMF. 
+2.3. IMF RELATIONS 
+32. 
+The government of Ethiopia has requested a four-year ECF arrangement to support their economic 
+program that includes prerequisites for this DPO. The ECF arrangement would be for SDR 2,555.95 million (US$3.4 
+billion) and provide about US$1 billion in disbursements upon IMF Board approval. IMF and World Bank financing, 
+other partner financing, and debt treatment will help close a balance of payments financing gap of about US$10.4 
+billion (Table 5). The ECF focuses on transitioning to market-determined exchange rates, shifting to positive real 
+interest rates and interest-based monetary policy, mobilizing more revenues, increasing social expenditures, 
+restoring debt sustainability, and reforming SOEs. The IMF ECF program has been submitted to its Board. As a pre-
+condition for the IMF Board approval and first disbursement of the ECF program, Ethiopia has liberalized its exchange 
+rate system. The World Bank and IMF have collaborated closely on their programs. Reforms supported by the IMF 
+ECF and the World Bank DPO series strongly complement each other. 
+5
+10
+15
+20
+25
+30
+2024
+2026
+2028
+2030
+2032
+2034
+Baseline
+Threshold (weak)
+Historical scenario
+Most extreme shock
+Most extreme shock: Exports
+0
+20
+40
+60
+80
+2024
+2026
+2028
+2030
+2032
+2034
+Baseline
+Threshold (weak)
+Historical scenario
+Most extreme shock
+Most extreme shock: One-time depreciation
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 12 
+ 
+ 
+3. GOVERNMENT PROGRAM 
+33. 
+The HGER guides government reform priorities. The HGER 2.0 focuses on restoring macroeconomic stability 
+and supporting private-sector-led growth through reforms in trade, finance, energy, and agriculture, among other 
+sectoral reforms. Higher agricultural productivity and food security are the emphasis of a 10-year Master Plan for the 
+Agriculture Sector (2020–30) and an Agriculture and Rural Development Policy. A National Energy Policy and Energy 
+Efficiency Strategy aims to achieve universal electricity coverage by 2030, boost energy exports, and restore the 
+sector’s financial health. 
+34. 
+The Government has long prioritized climate action for sustainable, green growth. Adaptation and 
+mitigation goals were first articulated in the 2011 Climate Resilient Green Economy strategy, which identified 
+agriculture, deforestation, energy, and transport as climate action priorities. The updated Nationally Determined 
+Contribution in 2021 and the 2023 LT-LEDS further reaffirmed Ethiopia’s commitment to adaptation and ambitious 
+mitigation targets. A Green Legacy Initiative launched in 2019 aims to restore degraded lands and increase forest 
+cover. 
+ 
+4. PROPOSED OPERATION 
+4.1. LINK TO GOVERNMENT PROGRAM AND OPERATION DESCRIPTION  
+35. 
+The program development objective (PDO) of the DPO series is to support the Government of Ethiopia’s 
+efforts to: (i) advance financial sector restructuring and trade liberalization, (ii) promote fiscal sustainability and 
+transparency, and (iii) enhance social resilience and climate action. Pillar 1 actions would increase financial 
+intermediation and liberalize trade by strengthening central bank independence and the legal framework for banking 
+supervision, supporting the restructuring of the CBE, increasing foreign investment and competition in the banking 
+sector, and expanding trade opportunities. Pillar 2 actions would mobilize tax revenues, expand e-procurement, 
+improve cost recovery in the electricity sector, and enhance public sector financial transparency. Pillar 3 actions 
+would cushion the poor from the impact of macroeconomic reforms by expanding and improving social safety nets, 
+enhancing land tenure and forest management, and incorporating climate considerations in public investment, all of 
+which will help build resilience and generate climate co-benefits.  
+36. 
+This DPO builds on lessons from the Implementation and Completion Results (ICR) report of the 2019-
+2020 Ethiopia Growth and Competitiveness DPO series. The ICR highlighted the importance of addressing market 
+distortions, especially the overvalued exchange rate, as central to the success of broader structural reforms. Although 
+FX market reforms are not a prior action of this operation, they are a pre-condition for the World Bank’s Board 
+approval of the DPO. Second, the ICR noted the importance of significant contextual risks and incorporating strong 
+mitigation measures. The DPO series includes measures to help reinforce the FX reforms through complementary 
+policy reforms (e.g., manage banking stability risks and electricity tariffs adjustments), social measures (e.g., safety 
+net expansions, raising of thresholds on personal income taxes, VAT reform that allows exemptions for basic 
+foodgrains, bread and agricultural inputs such as fertilizer) to protect the poor, and other structural reforms (e.g., 
+rural land reforms, lifting of cereal export bans)  to help increase rural incomes and maintain popular support for 
+macroeconomic adjustment. Third, the ICR notes the importance of strong analytical groundwork, and 
+complementary operational engagements given significantly weak institutional capacity. This DPO series is 
+complemented by parallel governance, finance, energy, and social protection operations to ensure deeper, sustained 
+engagements in critical policy areas. Tax reforms, e-procurement and e-payment of rural safety net benefits respond 
+to the World Bank Group’s FCV Strategy recommendations to prioritize domestic resource mobilization and delivery 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 13 
+ 
+systems to finance core state functions, build trust and aid the transition out of fragility. 
+37. 
+The DPO series is aligned with the goals of the Paris Agreement. The DPO-supported reform program is 
+consistent with Ethiopia’s updated Nationally Determined Contributions (NDCs), LT-LEDS, and CRGE commitments. 
+Also, it aligns with CCDR recommendations to enable markets to work for a more carbon-efficient and climate-
+resilient economy. Although the operation does not directly support emission-intensive activities, banking and trade 
+reforms that expand private investment and trade may increase greenhouse gas (GHG) emissions. The operation is 
+expected to reduce GHG emissions through: (i) more sustainable land and forest management (which generate 90 
+percent of Ethiopia’s carbon emissions); and (ii) energy sector financial sustainability that will reduce wasteful 
+consumption, sustain Ethiopia’s low-carbon energy generation investment strategy, and enable faster access 
+expansions to renewable-sourced grid and off-grid electricity that reduce energy emissions from carbon-emitting 
+alternative energy sources (wood, charcoal, diesel). It will contribute to climate change priorities through safety net 
+expansions, where 77 percent of all beneficiaries participate in public works programs directly linked to climate 
+adaptation priorities. Other prior actions are not likely to increase Ethiopia’s GHG emissions or restrict low-carbon 
+development. Climate events, especially droughts, could affect the achievement of the PDO by reducing growth and 
+increasing external financing needs. However, several prior actions (trade, safety nets, land reforms, green 
+procurement, and ESIA) could reduce climate risks. Prior actions that do not contribute directly to adaptation but are 
+not at risk from climate hazards include measures concerning the financial sector, energy tariffs, tax reform, and 
+fiscal transparency. All prior actions are aligned with the mitigation, adaptation, and resilience goals of the Paris 
+Agreement. Annex 5 provides a detailed review. 
+4.2. PRIOR ACTIONS, RESULTS AND ANALYTICAL UNDERPINNINGS 
+Pillar 1: Advance financial sector restructuring and trade liberalization 
+38. 
+Reforms in this pillar aim to improve the intermediation of finance and trade by: (i) strengthening NBE’s 
+independence to increase financial sector stability and the soundness of the banking sector, (ii) reforming and 
+restructuring CBE to allow for the sustainable and viable recapitalization of a bank that is commercially oriented and 
+focused on private sector lending, and (iii) lifting export trading restrictions on maize and barley to increase market 
+access for small farmers, alongside reforms to prepare for regional trade integration. 
+Prior Action 1: To strengthen the central bank’s oversight of the banking sector, the  Council of Ministers (COM) 
+has submitted to Parliament amendments to the Establishment Proclamation for the National Bank of Ethiopia 
+enhancing the independence of the NBE and its mandate to promote financial stability.  
+39. 
+ Rationale: Financial stability risks accumulated at CBE and in other private banks can only be addressed 
+with an independent central bank with the mandate, powers, and policy tools to promote financial stability 
+underpinned by a more robust legal and regulatory framework. In Ethiopia, in addition to monetary financing of 
+deficits, weak central bank independence and autonomy are reflected in the weak supervision of the banking sector. 
+Current NBE directives also distort financial intermediation by requiring commercial banks to purchase Development 
+Bank of Ethiopia (DBE) bonds equal to 1 percent of their annual lending and buy five-year government bonds at a 
+fixed (negative real) interest rate. The NBE also directs the CBE to open L/Cs with foreign creditors on behalf of the 
+public sector and to service them from the CBE’s own FX resources. This undermines CBE’s stability and NBE’s 
+enforcement of prudential net open position (NOP) limits.   
+40. 
+Substance. A new NBE Establishment Proclamation would help overhaul Ethiopia’s central banking legal 
+framework and enhance the operational independence of the NBE to pursue the government’s monetary policy 
+objectives, with the IMF ECF supporting Ethiopia’s transition to interest-based monetary policy. The amended law 
+further establishes NBE as an independent supervisor with a clear mandate to promote financial stability. It would 
+ 
+The World Bank 
+ 
+Ethiopia First Sustainable and Inclusive Growth Development Policy Operation (P181591) 
+ 
+ 
+ 
+Page 14 
+ 
+also strengthen NBE’s powers and accountabilities relating to banking supervision through greater alignment with 
+core principles established by the Basel Committee on Banking Supervision. The Proclamation, which is a key reform 
+priority in the IMF ECF, will also require the NBE Board’s composition to meet more robust standards for directorial 
+fitness, propriety, and independence from political and corporate influence. 
+ 
+Prior Action 2: To strengthen financial stability and intermediation, (a) the COM has submitted to Parliament the 
+draft Banking Business Proclamation; (b) the NBE has issued five directives that strengthen regulations for (i) 
+asset classification and provisioning; (ii) related party transactions; (iii) large exposures; (iv) fit and proper 
+requirements for bank boards; and (v) corporate governance and (c) the COM has adopted a Reform, 
+Restructuring and Recapitalization Plan for Commercial Bank of Ethiopia (CBE). 
+Indicative Trigger 1: To strengthen financial stability and improve competition in the banking sector, the 
+Recipient has: (a) enacted the NBE Establishment Proclamation and the Banking Business Proclamation; and (b) 
+through the NBE, has issued Directives: (i) operationalizing key elements of the bank resolution framework; (ii) 
+prohibiting the issuance of letters of credit without adequate foreign exchange coverage; (iii) enhancing risk 
+management of net open positions, related party transactions, and large exposures; and (iv) allowing foreign 
+investment in the banking sector. 
+41. 
+Rationale: CBE, Ethiopia’s largest bank (58 percent of banking sector assets), is undercapitalized because of 
+non-performing loans issued to SOEs.8 This poses significant financial stability risks and undermines healthy financial 
+intermediation. Addressing this requires more robust regulatory measures that address the underlying sources of 
+these risks and create conditions for institutional improvements to financial accounting, risk management, and 
+corporate governance practices in CBE and the wider banking sector. Although these measures are a prerequisite, 
+the broader structural objective of enhancing the quality of financial intermediation also requires reforms to expand 
+competition and private investment in the banking sector, including foreign investors. 
+42. 
+Fundamental changes are required to CBE’s operating model. These include changes to its balance sheet, 
+business model, governance, and risk management framework to: (i) adjust to forthcoming FX and monetary policy 
+reforms, (ii) improve financial health over the medium term, and (iii) enable more productive financial intermediation 
+to private firms. CBE lacks a commercial mandate and has functioned as a policy bank to channel credit to unviable 
+SOEs, crowding out credit to more productive private firms. Its credit risk pricing, classification, and provisioning 
+practices need considerable strengthening. Once losses and non-performing loans are fully accounted for, CBE needs 
+to be recapitalized to reach the required minimum of 8 percent capital adequacy ratio (CAR). The elimination of FX 
+surrender requirements to support forming a market-reflective exchange rate will also require CBE to compete more 
+actively for FX from FX depositors and interbank markets.  
+43. 
+Substance: The Banking Business Proclamation provides the legal basis to open foreign participation (and 
+competition) in the banking sector, transition to Basel II/III standards, and introduce a new resolution framework for 
+banks. The directives: (i) bring assets classification and provisioning in line with international prudential and 
+accounting standards and enable CBE to re-classify exposures towards SOEs (including EEP) as non-performing 
+despite the government guarantee (and write these off) and strengthen policies to prevent multiple loan forbearance 
+and evergreening; and (ii) require adequately pricing of and constraining credit exposure to related parties, including 
+limiting exposure to a single SOE and all SOEs, respectively to 15 and 35 percent of the bank’s capital. These are 
+anchored by complementary directives on: (i) fit and proper requirements for bank boards to enhance requirements 
+ 
+8 The Development Bank of Ethiopia (DBE), the other state-owned bank, does not pose a significant risk to financial sector stability as it is 
+not deposit-taking and its relative size is small (6 percent of banking sector assets). Its asset quality has shown significant improvement over 
+time.   

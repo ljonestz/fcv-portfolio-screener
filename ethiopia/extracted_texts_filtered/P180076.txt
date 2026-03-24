@@ -1,0 +1,740 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 51209 chars (26.9% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. Country Context 
+ 
+1. 
+With a predicted growth rate for 2018 of 8.5 percent, Ethiopia is one of the world’s fastest-growing 
+economies. Ethiopia, with an estimated population of 102.4 million (2016), is Africa’s second most populous 
+country and the third-largest economy in Eastern and Southern Africa. National per capita income rose from 
+US$350 in 2010 to US$993 in 2017, and extreme poverty fell from 55 percent in 2000 to 34 percent in 2011 and 
+then to 24 percent in 2016.1 Under the new government led by Prime Minister Dr. Abiy Ahmed, appointed in April 
+2018, the country has embarked on macroeconomic reforms. There are signs that the economy is opening, and 
+private sector integration is growing. 
+2. 
+These impressive gains coincide with imposing challenges. Ethiopia remains one of the world’s poorest 
+countries and ranks 174 of 186 on the Human Development Index.2 Average annual growth in gross domestic 
+product over 2010-16, at 10.1 percent,3 has not generated the 1.7 million jobs required each year by new 
+workforce entrants,4 and more jobs will be needed, because 70 percent of the population is under 30.5 The lack 
+of economic opportunity and political representation has caused civil unrest since 2016, placing jobs and political 
+justice at the top of the agenda for the new cabinet. 
+3. 
+Throughout Ethiopia, climate change—particularly in the form of more frequent and severe droughts 
+and floods—is a serious concern and it is quite literally shifting the landscape for the already vulnerable and 
+rapidly growing Lowlands population. Ethiopia has seen 8 major droughts in the past 15 years, with significant 
+adverse consequences for the economy and livelihoods. The three years in which growth dipped below 10 percent 
+(2009, 2012, and 2016) were all associated with severe droughts. Long-term climate change predictions are mixed, 
+but the overall consensus is that drought will continue to be a major stress factor over the next few decades. 
+4. 
+Ethiopia’s arid and semi-arid Lowlands present some of the most exacting challenges. Vulnerability is 
+high in the Lowlands, where the high-risk environment exposes livelihoods to multiple shocks. Whereas Highlands 
+areas—with 40 percent of the land area and over 85 percent of the population—have been the epicenter of 
+economic growth and political power for centuries, the arid and semiarid Lowlands stand at the margins of political 
+and economic engagement. With 60 percent of the land area and 12–14 percent of the population—mostly 
+pastoral and agro-pastoral (PAP) communities—the Lowlands lag the rest of Ethiopia in terms of most social and 
+economic indicators. Literacy rates, access to formal education, and access to water and sanitation are all well 
+below national averages in the six Lowlands areas of Ethiopia: Afar Regional State, the Benishangul-Gumuz Region, 
+parts of Oromia Region, Somali Regional State, Gambella Region, and the Southern Nations, Nationalities, and 
+Peoples Region (SNNPR). Pastoral Lowlands areas have the lowest maternal and child health indicators and highest 
+fertility rates (7.2 births per woman in Somali Regional State and 5.5 in Afar Regional State). Except for SNNPR, 
+the average population growth rate in pastoral areas of the five other Lowlands regions surpasses 2.5 percent. 
+The Multidimensional Poverty Index in the Lowlands is quite high—for instance, it is 80.1 in Somali Regional State 
+                                            
+1 Growth rate for 2018 from IMF World Economic Outlook (April 2018); all other data cited here from World Development Indicators, 
+World Bank. 
+2 UNDP (2017), Human Development Report.  
+3 World Development Indicators, World Bank. 
+4 National Planning Commission, GoE. 
+5 Central Statistical Agency, GoE. 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 8 of 139  
+     
+ 
+compared to 56.5 in Tigray Region. Perhaps more important, the share of the Lowlands population that is 
+vulnerable is more than twice the share of the population that is poor.  
+B. Sectoral and Institutional Context 
+ 
+5. 
+The great majority of the population in Ethiopia’s arid and semiarid Lowlands has relied on pastoralism 
+and agro-pastoralism, based on the seasonal movement of livestock and traditional rangeland management, as 
+the most suitable way to use the scarce resources in these areas. Rangelands are defined as areas of shrubs 
+and/or grasses receiving less than about 750 millimeters of rainfall each year, and the movement of livestock 
+between wet-season and dry-season grazing areas is vital to PAP livelihoods. Among pastoralists, extensive 
+herding is the dominant economic activity; agro-pastoralists engage in mixed farming and livestock rearing.6 
+Within these broad parameters, PAP production and marketing systems can vary widely. For example, Afar and 
+Somali Regional States are dry areas, whereas Gambella Region and SNNPR are humid. Somali Regional State has 
+a more diversified economy and market-integration; in contrast, Gambella Region is poorly connected to markets, 
+and has a less diversified economy.   
+6. 
+Important trends are reshaping livelihood systems throughout the arid and semiarid Lowlands. More 
+severe and frequent droughts are leading to more animal death and sickness, rendering PAP systems more fragile. 
+Herd size continues its long-term decline, while herd composition continues to shift away from cattle in favor of 
+browsers, such as goats and camels. Invasive plant species such as Prosopis juliflora are rapidly degrading 
+rangelands by displacing native plants used for grazing and forage; Prosopis juliflora now covers about 1.2 million 
+hectares (12.33 percent) in Afar Region. Private enclosures of pastures, the spread of small- and large-scale 
+commercial agriculture and urbanization, and the development of mega-projects such as sugarcane plantations, 
+are fragmenting rangelands, reducing the accessibility and availability of pasture land, and limiting livestock 
+mobility.  
+7. 
+Rangeland is one of the most contested assets in Ethiopian Lowlands and access to pastures and water 
+in rangeland are often a source of conflict. A volatile geopolitical environment, insecurity in some regions, and 
+local conflicts add to the challenge of sustaining PAP livelihoods.  
+8. 
+Conflicts have adversely affected pastoral areas for centuries, but they have increased in recent years, 
+variously attributed to rising pressure on resources, reduced resource availability, a proliferation of arms, and 
+the decline of traditional conflict management mechanisms. Conflict disproportionately affects women and 
+children and places additional limits on animal mobility. Projects and programs taking a participative and 
+community-driven approach to improve access to resources (pastures, water, cattle routes etc.) can help address 
+some of the drivers of conflict. Nonetheless, there is still a residual risk that access to some of these resources 
+might create conflict within and between communities. The design of programs to improve PAP livelihoods must 
+take into account the high-risk environment and accordingly put a strong emphasis on conflict management.  
+9. 
+The traditional social systems and economic arrangements that supported PAP communities are in 
+transition. A cash-based market economy and livestock marketing are growing in importance to meet rising 
+domestic and export demand for live animals and livestock products. Some large-scale herd owners have 
+successfully moved into commercial livestock production. Other herders have been pushed out of pastoralism by 
+                                            
+6 A small minority of producers depend almost entirely on sedentary farming along river-banks, near water points, and in peri-urban 
+areas. 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 9 of 139  
+     
+ 
+successive droughts and other stresses, or they have been pulled toward alternative market opportunities. Some 
+have moved into agro-pastoral systems, generally where water is available to produce animal feed and other 
+crops.  
+10. 
+In this dynamic context, significant economic opportunities are emerging. Major drivers of growth in 
+these areas include: 
+• 
+Demand for animal protein is expected to double by 2030, creating commercial opportunities for PAP 
+production systems.7 Upward trends in prices for animal products and livestock indicate incentives to invest 
+in the livestock sector.8 Ethiopia’s geographical location offers substantial prospects to export live animals 
+and animal products (especially red meat) to Arabian Gulf countries and within Africa. These prospects could 
+be enhanced by introducing a practical, affordable animal identification and traceability system. 
+• 
+Opportunities exist to expand rainfed, water conservation, and irrigated agriculture in the Lowlands to meet 
+market demand. Managed well, they can be leveraged without interfering with the mobility of PAP 
+communities. 
+• 
+Other opportunities to create local employment include off-grid energy (including solar, wind, and bio 
+digesters), mining, tourism, trade, manufacturing, and other services. 
+• 
+As improvements in physical connectivity (roads, railways) and digital connectivity (mobile phones) spread, 
+producers gain options to reach markets and commercialize crop and livestock production.  
+11. 
+Although investments in past decades tended to emphasize humanitarian assistance, food aid, and 
+cash-for-work in pastoral areas, more recent investments have emphasized community and livelihood 
+development. In particular, over the last 15 years, the World Bank and International Fund for Agricultural 
+Development (IFAD) have invested US$452 million in three phases of the Pastoral Community Development 
+Project (PCDP). Through a community-driven development (CDD) approach, this foundational project 
+strengthened the capacity of community institutions to devise inclusive community development plans  and 
+deliver basic social services at the kebele, woreda, and regional levels. Other recent investments have focused on 
+livelihoods with positive results, including the Regional Pastoral Livelihood Resilience Project (RPLRP) (World 
+Bank), Drought Resilience and Sustainable Livelihoods Program (DRSLP) (African Development Bank), the 
+Pastoralist Areas Resilience Improvement through Market Expansion (PRIME) project (United States Agency for 
+International Development – USAID)), and the Afar Soil Rehabilitation Project in Afar (German Corporation for 
+International Cooperation, GIZ). These projects all had a relatively limited geographical scope, however, and their 
+successful approaches merit scaling up.  
+12. 
+The design of the current project relies on two studies for a better understanding of past and future 
+dynamics in the Ethiopian Lowlands. These studies (one conducted by the World Bank with IFAD and the other 
+by the World Bank and the United Kingdom’s Department for International Development)9 identify four major 
+binding constraints to livelihoods in the Lowlands:  
+                                            
+7 Whether this emerging demand can be met sustainably is another concern. Ethiopia’s agricultural sector accounts for more than 60 
+percent of Ethiopia’s GHG emissions. The National Adaptation Plan and Climate Resilient Green Economy strategy strongly emphasizes 
+that climate-smart agriculture is an essential strategy for meeting climate change mitigation and adaptation goals. 
+8 ILRI (2017), “Ethiopia Livestock Sector Analysis,” https://cgspace.cgiar.org/bitstream/handle/10568/92057/
+LSA_Ethiopia.pdf?sequence=3&isAllowed=y. 
+9 A World Bank and IFAD (2018), “Pastoral Development in Ethiopia: Trends and the Way Forward,” assesses four decades of pastoral 
+development experience. World Bank and the Department for International Development of the United Kingdom (2019), “Vulnerability 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 10 of 139  
+     
+ 
+a) Low productivity and limited market links. The current productivity of livestock (for meat and dairy) 
+raised by pastoral communities and of dryland agriculture as practiced by agro-pastoral communities is 
+very low compared with national and regional standards. At the same time, poor public infrastructure in 
+the Lowlands—for example, roads, market facilities, and cell phone and internet connectivity—makes it 
+difficult for producers to connect to lucrative national, regional, and international markets. To meet 
+emerging market demand and increase household incomes, productivity and commercialization must be 
+enhanced. 
+b) High vulnerability of prevailing livelihoods. The prevailing PAP livelihoods are highly vulnerable to 
+climatic shocks, primarily droughts, conflict and insecurity, as well as livestock pests and diseases. In 
+addition, the deterioration of rangelands, encroachment of pastures by invasive species and human 
+action, increasing human and livestock populations and mobility limitations, are making the entire PAP 
+systems highly fragile and vulnerable and there is an urgent need to build resilience of the production 
+systems and livelihoods.  The very high rates of child malnutrition are indicative of the harmful effects of 
+the current situation on the population living in these areas. 
+ 
+c) Limited capacity to benefit from opportunities to diversify livelihoods. While a large share of the PAP 
+population wants to engage in another form of livelihood, the limited skill base, minimal market 
+opportunities, and poor access to assets and financing severely limit options for diversifying livelihoods. 
+Low population density, limited infrastructure, and geographical remoteness from services and markets 
+imply that economic diversification should center upon PAP value chains and emerging market 
+opportunities as the key to develop a critical mass for diversification to occur. 
+d) Limited delivery of social and economic services. PAP communities have the lowest socioeconomic 
+indicators in Ethiopia which has serious implications for livelihoods and overall human development and 
+well-being. The PCDP greatly enhanced the delivery of social and economic services over the course of 15 
+years, yet it reached only 60 percent of kebeles, and resource limitations prevented priority demands 
+from being met in some kebeles. Many PAP areas still have no access to basic social and economic services.  
+13. 
+In a strong push for development in PAP areas, the Government of Ethiopia (GoE) is in the process of 
+finalizing a new policy for pastoral development, which is being reviewed by the prime minister’s office and it 
+is expected that the new policy will be approved by December 2019. The policy recognizes pastoralism as a viable 
+economic activity that is suitable and adapted to vast rangelands, and it emphasizes that pastoral mobility is a key 
+mechanism for ensuring the sustainability of PAP livelihoods. These views and goals are aligned with the strategy 
+of the Intergovernmental Authority on Development (IGAD) Drought Disaster Resilience Sustainable Initiative 
+(IDDRSI).10 The Government designated the Ministry of Peace (MoP)—formerly the Ministry of Federal and 
+Pastoral Development Affairs (MoFPDA)—to lead the design and implementation of this project aimed at building 
+more resilient livelihoods in the PAP areas of Ethiopia. MoP successfully implemented all three phases of the PCDP.  
+14. 
+In sum, an integrated intervention and investments at scale are required to achieve drought-resilient, 
+transformed, and sustainable PAP livelihoods, ecosystems, and institutions. The proposed Lowlands Livelihood 
+Resilience Project recognizes that an integrated, comprehensive approach is essential to address multiple 
+livelihood challenges in a complex, fragile, and conflict-prone environment. To that end, any intervention should  
+                                            
+and Resilience in the Ethiopian Lowlands of Ethiopia: Building a More Developmental Approach to Responding to Shocks,”: Challenges 
+and Future Prospects” identifies future directions for building resilience in the Ethiopian Lowlands. 
+10 IGAD is the Intergovernmental Authority on Development. 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 11 of 139  
+     
+ 
+reflect six strategic pillars identified in the World Bank–IFAD study: (1) livelihood support; (2) integrated rangeland 
+and water development and secure access to key resources; (3) transformation and commercialization of the 
+livestock industry in PAP areas; (4) enhanced access to and use of basic social and economic services; (5) enhanced 
+social protection and disaster risk management; and (6) institutional capacity building and other cross-cutting 
+issues. 
+C. Relevance to Higher Level Objectives 
+ 
+15. 
+The proposed project features in the World Bank Country Partnership Framework (CPF)11 approved in 
+2017 for the period FY18–FY22 under the “Building Resilience and Inclusiveness” pillar, and it strongly contributes 
+to the “Promoting Structural and Economic Transformation through Increased Productivity” pillar. The project will 
+directly address the World Bank Group’s twin goals of alleviating poverty and boosting shared prosperity, and it 
+will contribute to several CPF results framework targets: enhanced resilience and inclusiveness, increase in 
+agricultural yield, job creation, natural resource management, and climate co-benefits. The project is aligned with 
+the Livestock Master Plan and Growth and Transformation Plan (GTP-II) of the GoE for the period 2016-2020. This 
+project will meet the goals of the World Bank’s Africa Climate Business Plan, Ethiopia’s Nationally Determined 
+Contribution, and Ethiopia’s Climate Resilient Green Economy strategy. As for IFAD, this operation will be financed 
+within the IFAD 11 financing cycle and is fully in line with IFAD’s Country Strategic Opportunities Programme, 
+contributing to (1) enhanced resilience and productivity of ecosystems and livelihoods through improved 
+management of natural resources, particularly water; and (2) enhanced links with the private sector to ensure 
+increased and sustained access to markets, finance, and agricultural technology.  
+16. 
+The project will help to improve the livelihoods of people living in PAP areas, contributing to Sustainable 
+Development Goals 1 (no poverty), 2 (zero hunger), 3 (good health and well-being), 5 (gender equality), 6 (clean 
+water and sanitation), 8 (decent work and economic growth), 13 (climate action), and 15 (life on land).
+
+A. Project Development Objective 
+ 
+17. 
+The Project Development Objective (PDO) is to improve livelihood resilience of pastoral and agro-
+pastoral communities in Ethiopia. 
+PDO Indicators 
+18. 
+The PDO indicators include: 
+1. Increased land area under sustainable landscape management practices (in hectares). 
+2. Increase in yield of targeted commodities (livestock and crop (percentage). 
+3. People with improved access to economic and social services (of which 50 percent female and 20 
+percent youth) (number). 
+                                            
+11 Report No: 115135. World Bank. 2017. Ethiopia - Country partnership framework for the period FY18 - FY22 (English). Washington, D.C. 
+: World Bank Group.  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 12 of 139  
+     
+ 
+4. Farmers12 reached with agricultural assets or services (of which female). 
+19. 
+Building the resilience of livelihood systems is a central consideration of the proposed project. In general, 
+“resilience” refers to a heightened system capacity to anticipate, respond to, and recover from hazards. Resilience 
+building, as described by the World Bank, involves strengthening three specific capacities: 
+1. Absorptive capacity. The ability of people, assets, and systems to prepare for, mitigate, or prevent 
+negative impacts of hazards to preserve and restore essential basic structures and functions, for 
+example through protection, robustness, preparedness, and/or recovery. 
+2. Adaptive capacity. The ability of people, assets, and systems to adjust, modify, or change 
+characteristics and actions to moderate potential future impacts from hazards to continue to function 
+without major qualitative changes, for example through diversity, redundancy, integration, 
+connectedness, and/or flexibility. 
+3. Transformative capacity. The ability to create a fundamentally new system to avoid negative impacts 
+from hazards. 
+20. 
+In a number of ways, the proposed project anticipates strengthening:  
+• 
+Absorptive capacity, through rangeland and natural resource management interventions, strategic 
+investments (SIs), and improved basic social service delivery, which will help communities and PAP 
+systems to absorb drought shocks and reduce asset losses.  
+• 
+Adaptive capacity, through livelihood improvement, by helping beneficiaries adopt climate-smart 
+agriculture, and by investing in research systems that will contribute to better adaptation to a 
+changing climate.  
+• 
+Transformative capacity, through market links, small-scale irrigation, and livelihood diversification, 
+which together can provide a basis for more fundamental socioeconomic changes and help 
+beneficiaries reduce their dependence on rainfed agricultural systems.  
+21. 
+Table 1 summarizes how the project interventions will build these capacities and how they will be 
+measured through the results framework. Baseline value in the result framework will be provided after completion 
+of the baseline survey by December 2019. 
+Table 1: Measuring resilience in the Lowlands Livestock Resilience Project 
+Resilience 
+attribute  
+Intervention area 
+Measurement indicators in results framework  
+Absorptive 
+capacity  
+Rangeland and natural resource 
+management interventions, SIs, 
+and improved basic social service 
+delivery 
+PDO Indicator: Land area under sustainable landscape management practices 
+(hectares) 
+PDO Indicator: People with improved access to economic and social services 
+(of which 50% female and 20% youth) (Number)   
+Intermediate Results Indicator: Project beneficiaries with improved access to 
+key natural resources (of which 50% female and 20% youth (Percentage)  
+Intermediate Result Indicator: Project area with increased NDVI/Biomass 
+Index Corrected for weather variability (Percentage)   
+                                            
+12 “Farmers” are defined here as people engaged in agricultural activities or members of an agriculture-related business which includes 
+crops, livestock, capture fisheries, agroforestry, and so on. Based on that definition, pastoralists and agro-pastoralists are a subset of 
+farmers.  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 13 of 139  
+     
+ 
+Intermediate Indicator: Community sub-projects operational (Percentage)  
+Adaptive 
+capacity  
+Livelihood improvement 
+PDO Indicator: Farmers reached with agricultural assets or services (CRI, 
+Number) 
+PDO Indicator: Increase in yield of targeted commodities (livestock and crop) 
+(Percentage)  
+Intermediate Results Indicator: Farmers adopting improved agricultural 
+technologies (CRI, Number) 
+Intermediate Result Indicator: Number of strategic economic infrastructure 
+investments operational (Number)  
+Transformative 
+capacity 
+Market linkages and livelihood 
+diversification 
+Intermediate Results Indicator: Beneficiaries participating in additional or 
+alternative diversified incomes generating activities (of which 50% female and 
+20% youth) (Number)  
+Intermediate Results Indicator: Project beneficiaries with access to rural 
+financial services (of which 60% female and 20% youth) (Number) 
+Intermediate Results Indicator: Increased volume of marketed commodities, 
+in targeted value chains by project beneficiaries (Percentage)  
+Intermediate Result Indicator: Rural Savings and Credit Cooperative 
+(RUSACCOs) and Unions supported by the project (Number) 
+ 
+22. 
+The geographical coverage of the proposed project includes PAP areas in six regions:Afar Regional State, 
+Benishangul-Gumuz Region, Gambella Region, Oromia Region, SNNPR, and Somali Regional State. Within these 
+six regions, the project will intervene in approximately 100 woredas. It will adopt a woreda-clustering approach 
+to spatially cover the rangelands.   
+23. 
+The introduction of a fundamentally new, coherent, and participatory approach to rangeland 
+management lies at the heart of this project to mobilize the resources of the Ethiopian Lowlands for more resilient 
+livelihoods. In other words, unlike earlier approaches to pastoral development, the proposed project will actively 
+engage with the dynamic nature of the Lowlands, recognizing that many livelihoods are in transition, that mobility 
+is a key feature of that transition, and that these trends will continue. This is a relatively new approach in the 
+Ethiopian context driven by the assumption that the development of rangelands is a better mechanism to efficient 
+natural resource allocation in Ethiopian Lowlands compared to alternate usages. Furthermore, the project is 
+focused on private sector engagement for proving more sustainable and longer-term solutions for delivery of 
+goods and services with an assumption that there is appetite from the private sector for engagement in this 
+geography. These are relatively newer approaches in a high-risk environment which warrants a more adaptive, 
+flexible and learning approach for course correction during the project implementation. Figure 1 depicts the 
+pathways of livelihood change that will contribute to increased resilience under the proposed project.  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 14 of 139  
+     
+ 
+Figure 1: Pathways of livelihood change to increase resilience 
+B. Project Components 
+ 
+24. 
+To achieve the PDO, the proposed project will combine three complementary layers of investment (Figure 
+2) under three project components. Investments in Component 1 will focus on improving the natural resource 
+endowment and on financing SIs in economic infrastructure. Investments under Component 2 will improve public 
+service delivery and the skill base, and support market access to optimize the use of investments made in 
+Component 1 and support diversification to reduce pressure on natural resources. Investments under Component 
+3 will build capacity in the institutional environment and support the delivery of basic social services to ensure the 
+long-term sustainability of PAP livelihoods.  
+Figure 2. Linked investments enable project components to reinforce one another 
+ 
+25. 
+The project design is built on key assumptions, such as the timely preparation of the Rangeland 
+Management and Investment Plans (RMIPs), availability of the specialized service providers, functioning of the 
+Component 1 
+Improves natural resource 
+base and economic 
+infrastructure  
+Component 2 
+Improves skills and economic 
+services to facilitate 
+diversification; provides market 
+access to optimally, efficiently 
+use the natural resource base 
+and economic infrastructure  
+Component 3 
+Builds individual, community, 
+and institutional capacity and 
+improved service delivery to 
+sustainably manage 
+resources and livelihoods  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 15 of 139  
+     
+ 
+cluster and local level project implementing structures etc. The project is implementing new approaches, in a 
+fragile environment with low capacity and therefore the project management will follow a learning and adaptive 
+approach to ensure course correction and revision of activities as deemed necessary building upon the lessons 
+learnt in the course of project implementation. 
+26. 
+Private sector solutions are a central feature of the proposed project, and a guiding principle is that public 
+sector spending will not occur when a private sector alternative is available. The project will finance only public 
+goods and will focus on crowding-in private sector investment through productive partnerships. The International 
+Finance Corporation (IFC) was consulted extensively during the project design phase, and as the project is 
+implemented, the task team will continue proactively engaging with the IFC to (1) work with existing or 
+prospective IFC clients to establish productive alliances in the project areas; (2) develop a potential pipeline of IFC 
+investment and advisory services through engagement with the project; and (3) help address investment 
+bottlenecks (through public investment, analytical work, or policy engagement) to bring about greater private 
+sector participation in the project areas.  
+27. 
+The sections that follow briefly describe each component; for a detailed description, see Annex 2.  
+Component 1: Integrated Rangeland Development and Management (Total: US$223.40 million equivalent of 
+which US$173.24 million from IDA, US$46.76 million from IFAD and US$3.40 million beneficiary’s contribution)  
+ 
+28. 
+Pastoralism is an efficient and sustainable use of key rangeland resources in the arid and semiarid 
+Lowlands that are not well suited to other forms of practices such as farming. Thus, component one will support 
+the overall management of rangelands where PAP production systems operate. It will ensure that pastoralists 
+have secure access to and use of key natural resources in several ways, including through conflict management. 
+Efforts will encompass all rangeland resources, such as dry-season and wet-season grazing, grazing land intended 
+to act as drought reserves; cattle corridors; wetlands; forests and woodlands; water sources for livestock, crops, 
+and humans; settlements; and areas reserved for crop and fodder production. Component 1 has three 
+subcomponents. 
+29. 
+Subcomponent 1.1: Integrated Rangeland Management Planning (Total: US$16.79 million of which 
+US$13.46 million from IDA and US$3.33 million from IFAD). This subcomponent will finance five sets of activities: 
+(1) conducting regional assessments of rangelands and associated PAP communities, institutions, and governance 
+structures; (2) developing an inventory of existing investment and strategic plans (such as disaster preparedness 
+SI plans and woreda-level investment plans) to ensure that any subsequent work undertaken by the project is 
+aligned with and does not duplicate those efforts; (3) formulating participatory RMIPs; (4) setting up a rangeland 
+monitoring system; and (5) building stakeholders’ capacity to plan and implement RMIPs. 
+30. 
+The RMIPs will identify five areas which may require investments: (1) natural resource and pasture 
+development; (2) water resource development; (3) small-scale irrigation scheme development; (4) market 
+infrastructure development; and (5) development of other economic infrastructure. The planning process will 
+employ both a gender and a conflict lens to ensure that the RMIPs adequately address these two concerns. The 
+project will provid
+
+[... procurement/fiduciary sections omitted ...]
+
+ as seasonal grazing lands and water points. The activities include: (i) providing 
+support for conducting area-specific conflict analyses and conflict mapping to inform planning for RMIPs and other 
+investments under Components 1, 2, and 3; (ii) supporting identification, recognition, and capacity building of 
+customary institutions and traditional conflict resolution practices as the basis for supporting innovative and 
+durable conflict resolution initiatives;13 (iii) supporting conflict resolution, social cohesion, and peace-building 
+platforms (inter-community, inter-woreda, inter-regional, and cross-border platforms, as appropriate), and it will 
+establish or strengthen linkages with existing platforms and initiatives, such as the Conflict Early Warning and 
+Response Mechanism and other similar initiatives; (iv) supporting identification and understanding critical 
+challenges constraining pastoralists’ access to key natural resources; initiate studies (through Component 3),14 
+and facilitate policy dialogues between communities, local and federal governments, civil society organizations 
+(CSOs), and other relevant stakeholders with an objective of ensuring secure access to key resources by 
+pastoralists; and (v) providing capacity building support including local and cross-border visits for relevant staff of 
+the MoP, other institutions and sector ministries, relevant CSOs, and other implementing agencies for the project 
+to share experiences with traditional and modern conflict management approaches. 
+                                            
+13 This activity includes supporting alternative mechanisms that operate through local/customary institutions, markets, communication, 
+or basic services that offer common ground for reciprocity and mutual dependence.  
+14 These studies will consist of thematic action research that focuses on understanding the underlying drivers of conflict (spatial mapping, 
+identifying the drivers and actors, and identifying alternative resolution mechanisms), as well as on understanding the Lowlands political 
+economy (the changing livelihood pattern) and institutions involved in natural resource management and use.  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 17 of 139  
+     
+ 
+Component 2: Livelihood Improvement and Diversification (Total: US$109.77 million equivalent of which 
+US$87.32 million from IDA and US$2.45 million from IFAD) 
+34. 
+This component will finance activities that will support three categories of communities, namely those 
+who want to pursue the pastoral system, those who opt to diversify within the pastoral system including to agro-
+pastoralism, and those who have moved out of the PAP systems and are looking for alternative livelihoods options. 
+This component will deliver the proposed support through the exiting extension and veterinary systems at woreda 
+and community levels. The component will also benefit from other projects (such as the Agricultural Growth 
+Project (AGP II P148591) and LFSDP (P159382) institutional capacity building support being provided to the 
+extension and veterinary systems at federal and regional levels. 
+35. 
+Subcomponent 2.1: Enhancing Pastoral and Agro-Pastoral Production Systems (Total: US$54.3 million 
+of which US$43.19 million from IDA and US$11.10 million from IFAD). The current outreach of agricultural 
+extension services in Lowlands areas is much limited in comparison to the Highlands. There are certain aspects, 
+namely: (i) geographical dispersion of population over wide geographical area; (ii) mobility of population along 
+cattle corridors; and (iii) challenging living conditions and limited social and economic services contributing to 
+higher attrition rates of development agents, which makes it challenging to deliver agricultural extension 
+services15 in Ethiopian Lowlands. This subcomponent aims at improving the productivity of PAP production 
+systems (cattle, camels, small ruminants, and poultry, as well as crops including maize, sorghum, and vegetables) 
+in the targeted project areas. The nature of agricultural extension need in Ethiopian Lowlands warrants a multi-
+pronged strategy relying on improving the ability of extension agents to deliver services by upgrading pastoral and 
+farmer training centers; pastoral field schools aimed at delivering these services to mobile populations; and 
+deploying information and communication technology (ICT) tools to deliver to a geographically dispersed 
+population. The project will enhance the delivery of livestock and crop production extension services and animal 
+health services in the targeted woredas, complementing the SIs under Component 1 and help to support a fit for 
+purpose extension service for pastoralists and agro-pastoralists. 
+36. 
+More specifically, Subcomponent 2.1 will finance three kinds of activities to enhance the existing woreda 
+and kebele level agricultural extension and veterinary service delivery capacities. First, it will strengthen the 
+service delivery capacities of woreda level extension systems through organizational and human resource capacity 
+building supports and by upgrading Pastoral Training Centers (PTCs) or Farmer Training Centers (FTCs). Second, it 
+will strengthen the outreach of the extension system through PAP Field schools. Third, it will support research 
+through PAP Research and Extension Groups, managed by universities and research centers. 
+37. 
+To foster improvements in livelihoods, this subcomponent will support the extension system to promote 
+a number of technologies and pursue different types of training and demonstration activities, including: 
+technologies that improve animal productivity in terms of parameters such as milk and meat production, growth 
+rate, and reproductive performance; crop productivity technologies such as improved and drought-tolerant seed 
+and market-oriented crop varieties; feed and forage technologies; community-based breed improvement for 
+cattle, camels, and small ruminants (mainly through community-based breed improvement initiatives); on-
+farm/pasture land demonstrations of good pastoral practices; and on-farm demonstrations of improved crop 
+husbandry practices for dryland agriculture, irrigation, and water conservation schemes. Nutrition will be 
+                                            
+15 The World Bank is supporting the agricultural extension though ESPES project which contributes to the salaries of the development 
+agents and AGP2 which is helping improve the delivery of agricultural extension by providing resources for upgradation of farmer training 
+centers and demonstration facilities. This project is building upon the successful agricultural extension support from the Bank financed 
+projects in the Ethiopian Highlands  such as AGP2 and LFSDP and customizing it to the needs of PAP communities in Ethiopian Lowlands.  
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 18 of 139  
+     
+ 
+incorporated into the efforts of PAP Field schools through a nutrition curriculum and the provision of inputs, 
+including seeds of high-value vegetables and biofortified varieties. Under this subcomponent, the extension 
+system will help to promote gender equality by ensuring equal participation of women and men in extension 
+activities and to improve production and the productivity of their activities. Women’s training modules may 
+include components on non-cognitive skills such as perseverance and optimism, which are positively linked to the 
+adoption of higher-value crops by female farmers in other countries, even in patrilocal communities.  
+38. 
+Under this subcomponent, the proposed project will also strengthen the availability of animal health 
+services in the selected communities, as well as outreach by the animal health system. For example, it will help to 
+upgrade and equip animal health posts; support, establish, and/or strengthen networks of animal health services 
+and/or public-private partnership (PPP) arrangements to make animal drugs, vaccines, and treatments available; 
+and train and equip Community Animal Health Workers (CAHWs).  
+39. 
+Subcomponent 2.2: Promoting Livelihood Diversification and Market Access (Total: US$55.47 million of 
+which US$44.12 million from IDA and US$11.34 million from IFAD). This subcomponent will support livelihood 
+diversification, strengthen market linkages and commercialization, and improve access to financial services. To 
+support multiple avenues of livelihood diversification, this subcomponent will finance the following activities: (1) 
+selected technical and vocational education and training (TVET) centers and other relevant institutions to develop 
+and deliver customized technical vocational training and entrepreneurship training to individuals and groups in 
+rural areas to improve their skill base; (2) recruitment of competent technical providers of business development 
+services, through competitive selection process, to support individuals and groups to successfully develop and 
+manage business ventures; and (3) development of common interest groups (CIGs) and financing of their business 
+plans through matching grants as deemed appropriate by the local authorities and following the CIG guidelines 
+provided in the Project Implementation Manual (PIM). Two distinct types of CIG will be supported. One will be 
+productive alliance CIGs (discussed next), which will link producers in a CIG to a private enterprise such as a 
+processor. A second type will be open-market CIGs, formed to provide particular goods and services (such as 
+inputs or transport) to large numbers of consumers. These activities are expected to target mostly women as well 
+as young men and women with no productive assets. To measure the project achievements towards 
+diversification and alternative income generating livelihoods activities, as well as the level of the private sector 
+engagement, the project will use appropriate indicators such as the number of project beneficiaries engaged on 
+viable alternative income generating livelihoods activities and the number of productive partnerships established 
+between the producers and the potential buyers.  
+40. 
+To strengthen market linkage and commercialization, under Subcomponent 2.2 the project will finance 
+five sets of activities. First, it will provide support to facilitate the development of partnerships (formal or informal 
+contractual arrangements) between private companies and groups of producers in a CIG. These productive 
+partnerships will help connect producers to markets, and the development of business plans for these 
+partnerships will be financed through productive alliance CIG matching grants. Second, market linkages and 
+commercialization will be strengthened by the development of a rangeland value chain platform to ensure private 
+sector constraints are addressed through RMIPs. A third set of activities to be supported includes the piloting of 
+innovative market arrangements such as livestock auctions; the development of product standards, traceability, 
+and certification systems; the use of mobile phones to aggregate demand and conduct other commercial 
+transactions; and scaling up the Livestock Market Information System. 
+41. 
+To improve access to financial services, under Subcomponent 2.2 the project will provide technical 
+assistance for the development of strong unions of RUSACCOs. Weak and intermediate RUSACCOs will receive 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 19 of 139  
+     
+ 
+technical assistance to improve their financial performance and sustainability. New RUSACCOs will be developed 
+in communities where they do not exist, and they will receive savings leverage grants to kickstart financial 
+inclusion through rotating saving and credit to their members. In addition, microfinance institutions (MFIs) will 
+receive technical assistance to enhance digital financial services and offer products tailored to PAP communities.  
+42. 
+The value chains prioritized for the proposed project include (1) beef; (2) dairy; (3) small ruminants (sheep 
+and goats); (4) animal feed and fodder; (5) camels; (6) vegetables and high-value horticulture, and (7) crops (maize, 
+sorghum, possibly others). Other activities that may be considered for diversifying livelihoods include beekeeping, 
+poultry production, handicrafts, natural gum, and tourism. These value chains and activities were selected based 
+on their current spread and potential in project areas, opportunities for value chain integration, and opportunities 
+for youth and women to participate.  
+Component 3: Improving Basic Services and Capacity Building (Total: US$75.73 million equivalent of which 
+US$55.92 million from IDA, US$12.21 million from IFAD and US$7.60 million beneficiary’s contribution) 
+43. 
+Subcomponent 3.1: Provision of Basic Social Services and Infrastructure (Total: US$53.20 million of 
+which US$38.00 million from IDA, US$7.60 million from IFAD, and US$7.60 million beneficiaries’ contribution). 
+This subcomponent will use a CDD approach to support better access to and use of basic social and economic 
+services among the target communities, through a Community Investment Fund (CIF). Infrastructure development 
+will adopt a spatial orientation and finance investment at the inter-community, kebele, and woreda levels. This 
+subcomponent builds on the PCDP experience but will work only in woredas and kebeles that did not benefit from 
+the PCDP. Similar to PCDP, each community will receive support only for a maximum of three subprojects, after 
+which it will graduate from CIF support. The proposed project will use a full-fledged CDD approach to give priority 
+to investments (identified through a participatory community process) that directly benefit women. It is also 
+expected that the woredas selected to implement this subcomponent will follow the CDD approach for the entire 
+woreda   annual planning and budgeting process. 
+44. 
+Subcomponent 3.2: Institutional Capacity Building (Total: US$6.06 million of which US$4.82 million 
+from IDA and US$1.24 million from IFAD). Subcomponent 3.2 is designed to improve the capacity of public 
+institutions to deliver services. Considering the weak institutional environment and limited implementation 
+capacity in the Lowlands areas covered by the proposed project, a significant investment in capacity building will 
+be made at federal, regional, woreda, kebele, and community levels. The process will start by identifying key 
+institutions and partners, including research and academic institutions, followed by a capacity needs assessment, 
+the development of a capacity-building plan, and financing of the capacity-building plan. Stakeholder institutions 
+will be strengthened to engage meaningfully with public and private partners to offer market access, disease 
+control, and other services for their members. Capacity building will involve physical, human, and system capacity 
+building. 
+45. 
+Subcomponent 3.3: Knowledge Management, Research, and Policy Support (Total: US$16.47 million of 
+which US$13.10 million from IDA, US$3.36 million from IFAD). A weak link in past programs and projects was 
+that little information on lessons and best practices was documented or disseminated. To enable adaptive 
+management, integrate changes at the local level, and benefit from the feedback of beneficiaries, the proposed 
+project will support continuous learning, adaptable knowledge management, and communication on innovative 
+tools and approaches. This subcomponent will also identify the indigenous knowledge and customary institutions 
+that are expected to play pivotal roles in strengthening various development activities among PAP communities. 
+It will also support research and capacity building in thematic priority areas of PAP systems. Memorandums of 
+ 
+The World Bank 
+ 
+Lowlands Livelihood Resilience Project (P164336) 
+ 
+ 
+ 
+ 
+Page 20 of 139  
+     
+ 
+Understanding (MoUs) will be signed with research, academic, and higher learning institutions to conduct 
+research on such topics as rangeland management, breed improvement, rainfed and irrigated agriculture in arid 
+and semiarid areas, and socioeconomic research in pastoral areas.  
+46. 
+In addition, Subcomponent 3.3 will introduce digital technologies and pilot other innovations to solve 
+critical bottlenecks in PAP value chains. Such technologies could include, for example, an integrated pastoral 
+decision support system (rainfall, pasture, water availability, market price, conflict early warning etc.), certification 
+and traceability systems for livestock products, and geo-spatial monitoring, among others. Priority will be given 
+to innovative technologies that not only enhance the competitiveness and sustainability of rangeland 
+management but also (1) provide low-cost, climate-proof solutions and (2) are adapted to the needs of women 
+and young people.  
+47. 
+Considering the need to strengthen policies on land use, pastoral mobility, community land certificates, 
+and community ownership of rangeland, this subcomponent will also finance technical assistance for evidence-
+based policy-making and community engagement in policy dialogue. This activity will provide evidence to the GoE 
+to inform pastoral-friendly policies, consistent with the constitution, that can support resilient PAP livelihoods.  
+Component 4. Project Management, Monitoring, and Evaluation (Total: US$42.10 million of which US$33.51 
+million from IDA and US$8.59 million from IFAD) 
+48. 
+Component 4 will ensure that the proposed project is managed and implemented efficiently, on time, and 
+in accordance with the PDO and Financing Agreement, and that its performance and effectiveness are tracked. As 
+part of the Grievance Redress Mechanism (GRM), Component 4 will also explore and support the development of 
+innovative grievance collection and feedback mechanisms, including support by mobile phone and other forms of 
+ICT, taking the specific local context into account. 
+C. Project Beneficiaries 
+ 
+49. 
+The primary beneficiaries of the proposed project interventions are expected to number about 2.5 million 
+people (about 500,000 households). These beneficiaries are selected individuals, households, and communities 
+residing in PAP areas in the six Lowlands regions mentioned in the paragraph 4 previously. They include pure 
+pastoralists (camel, cattle, sheep, and goat owners) and agro-pastoralists in the targeted rangelands; those opting 
+out of pastoralism and/or interested in taking up alternative forms of livelihood; and the populations in the 
+selected woredas and kebeles who gain access to basic social services and public goods (such as education, health, 
+water, veterinary services). In addition, private enterprises active in the supported value chains, public institutions 
+delivering public goods and services, cooperatives and MFIs engaged in financial and nonfinancial service 
+provision, and government line departments will also benefit from the interventions.  
+50. 
+Women and men in PAP societies have differing access to and control over resources, including monetary 
+income. Men make most of the economic decisions, partly because men are recognized as household heads and 
+inheritance usually follows the male line. Despite women’s contribution to PAP life, women have only limited 
+access to, and control over, key productive resources such as livestock and land. They cannot easily obtain credit, 
+extension, veterinary services, and business information. A range of factors determine women’s participation in 
+income-generating activities, including their level of mobility and resources, cultural and religious norms, and the 
+gender division of roles in the chain of activities from production to marketing. Women are largely deprived of 
+property ownership, so they cannot offer collateral for bank loans.

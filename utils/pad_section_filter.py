@@ -13,6 +13,17 @@ Design principles:
   is stripped by detecting a logical document end after the last annex.
 - Non-PAD doc types (ISR, ICR, RESTRUCTURING, AF, PID, PCN) pass through unchanged.
 - If fewer than 5 headers are detected, fall back to returning the full text.
+
+Note on Table of Contents (ToC) handling:
+  World Bank PAD PDFs typically begin with a Table of Contents where section headers
+  appear as dot-leader lines, e.g.:
+      I. STRATEGIC CONTEXT ....................................  7
+      A. Country Context ......................................  7
+  These lines match the same regex patterns as the real body headers that appear later
+  in the document.  To avoid capturing ToC entries instead of real body headers, all
+  three regex patterns use [^.] in the title capture group, which prevents matching any
+  line whose title portion contains one or more literal periods (the dot-leader pattern).
+  Real section-header lines never contain periods in the title text itself.
 """
 
 import json
@@ -52,16 +63,23 @@ _RE_BACK_MATTER = re.compile(
 # ─── section detection ────────────────────────────────────────────────────────
 
 # Regex patterns (compiled once at module load)
+#
+# All three patterns use [^.]+ in the title capture group to exclude dot-leader lines
+# from the Table of Contents (e.g. "I. STRATEGIC CONTEXT ..............  7").
+# Real body section headers never contain periods in the title text; ToC entries always
+# do (the dot leaders).  Without this exclusion the filter captures only the narrow
+# gap between adjacent ToC lines (often a single newline), reducing large PADs to
+# near-zero content.
 _RE_ROMAN = re.compile(
-    r'^\s*([IVX]{1,5})\.\s+([A-Z].+?)\s*$',
+    r'^\s*([IVX]{1,5})\.\s+([A-Z][^.]+?)\s*$',
     re.MULTILINE,
 )
 _RE_LETTER = re.compile(
-    r'^\s*([A-Z])\.\s+([A-Z].+?)\s*$',
+    r'^\s*([A-Z])\.\s+([A-Z][^.]+?)\s*$',
     re.MULTILINE,
 )
 _RE_ANNEX = re.compile(
-    r'^\s*Annex\s+(\d+):\s+(.+?)\s*$',
+    r'^\s*Annex\s+(\d+):\s+([^.]+?)\s*$',
     re.MULTILINE | re.IGNORECASE,
 )
 
@@ -163,13 +181,31 @@ def _compute_keep_ranges(text: str, sections: list[dict]) -> list[tuple[int, int
 
     def _section_end(idx: int) -> int:
         """
-        Character position where the content of section[idx] ends — i.e. where the
-        NEXT section that starts at a strictly later position begins (or doc_end).
+        Character position where the content of section[idx] ends.
+
+        For roman numeral sections (type == 'roman'), letter subsections are
+        children of the roman section and must NOT terminate its range.  We look
+        ahead for the next *roman* section or annex header — letter sections
+        encountered along the way are skipped.
+
+        For letter and annex sections, any later section boundary terminates the
+        range (original behaviour).
         """
         current_start = sections[idx]['start']
+        sec_type = sections[idx]['type']
+
         for j in range(idx + 1, n):
-            if sections[j]['start'] > current_start:
-                return min(sections[j]['start'], doc_end)
+            candidate = sections[j]
+            if candidate['start'] <= current_start:
+                continue  # shouldn't happen after sort, but guard anyway
+            if sec_type == 'roman':
+                # Only roman sections or annexes end a roman parent's range
+                if candidate['type'] in ('roman', 'annex'):
+                    return min(candidate['start'], doc_end)
+                # Letter children are skipped — keep looking
+            else:
+                # For letter / annex sections, first later boundary wins
+                return min(candidate['start'], doc_end)
         return doc_end
 
     # State: are we inside section VI?
@@ -282,6 +318,30 @@ def filter_pad(
             'doc_type': doc_type,
             'headers_found': headers_found,
             'reason': 'Fewer than 5 headers detected; returning full text.',
+        }
+        logger.warning(json.dumps(warning))
+        return text, {
+            'headers_found': headers_found,
+            'original_chars': original_chars,
+            'filtered_chars': original_chars,
+            'reduction_pct': 0.0,
+            'status': 'fallback',
+        }
+
+    # ── 3b. Fallback if no roman-numeral headers detected ────────────────────
+    #   All headers found may be letter-only (e.g. an unusual PAD format where
+    #   Roman numeral section lines were not extracted by the PDF parser, or the
+    #   document uses a different header style).  Without roman headers there are
+    #   no parent anchors and _compute_keep_ranges would return an empty list,
+    #   producing a 100% reduction.  Return full text instead.
+    roman_headers = [s for s in sections if s['type'] == 'roman']
+    if not roman_headers:
+        warning = {
+            'event': 'pad_filter_fallback',
+            'pid': pid,
+            'doc_type': doc_type,
+            'headers_found': headers_found,
+            'reason': 'No Roman-numeral section headers detected; returning full text.',
         }
         logger.warning(json.dumps(warning))
         return text, {

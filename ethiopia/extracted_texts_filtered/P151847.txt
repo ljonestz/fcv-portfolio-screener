@@ -1,0 +1,734 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 42828 chars (38.9% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. Regional Context 
+1. 
+Sub-Saharan Africa (SSA) has experienced remarkable economic growth, and boosts 
+in productivity in the last decade. Its annual Gross Domestic Product (GDP) growth has 
+accelerated from an average of two percent in the 1990s to five percent in 2014. The low-income 
+economies in SSA grew on average at 7.4 percent.  The share of the population living below 
+poverty (US$1.90 per day) in the region declined from 57 percent in 1990 to 43 percent in 2012.1 
+The African middle class has tripled in size over the past 14 years, and the expansion is 
+continuing.2 Overall, this growth has been driven largely by a relatively sound fiscal policy, an 
+improved business environment, domestic production and consumption power, and increased trade 
+and investment in specific sectors such as agriculture, extractives, construction, services, 
+information and communication technology (ICT), and tourism.  
+ 
+2. 
+As part of SSA, the Eastern and Southern African (ESA) countries have enjoyed 
+similar development. Despite having some differences in economic structures, there continues to 
+be a heavy reliance on agriculture and extractives in majority of the countries. Some East African 
+countries such as Rwanda and Tanzania were outliers in the ESA region and had annual GDP 
+growth rates of around seven percent in 2014.3 Growth in oil, gas, mining and agriculture together 
+account for 60 percent of the overall economic growth. The potential for growth in these sectors 
+has attracted a significant amount of foreign investment, with foreign investment in East Africa 
+alone having grown by 11 percent to US$6.8 billion in 2014.4 These investments are mainly 
+targeted toward fast expanding sectors such as oil and gas in Tanzania and textiles in Ethiopia. To 
+expand, transform, and sustain their economies into the next level of development, the ESA 
+countries have to rely more on higher level skills and knowledge, with a focus on science and 
+technology (S&T).  
+ 
+3. 
+To sustain such growth and transform the economy to be globally competitive, ESA 
+requires higher order skills in Science, Technology, Engineering and Mathematics (STEM). 
+However, the required human capital, especially at the higher level, is insufficient across the ESA 
+countries. Gaps are most acute in the following areas:  
+ 
+(a) Post-graduate training in S&T. The region does not produce sufficient number of 
+skilled graduates required for expanding and diversifying its economy. While higher 
+education enrollment has increased rapidly over the years, the region still lags far 
+behind other regions (figure 1), especially in generating graduates in S&T, health, and 
+other related disciplines. In Rwanda and Tanzania, for example, the percentage of 
+enrollment in the arts and social sciences (60 percent and 45 percent respectively) was 
+substantially higher than that of science and engineering (20 percent and nine percent 
+respectively). In Mozambique, only eight percent of enrollment and four percent of 
+                                                 
+1 
+http://www.worldbank.org/en/news/press-release/2015/10/16/africa-gains-in-health-education-but-numbers-of-
+poor-grow. 
+2 York, Geoffrey. 2014. “Africa’s middle-class boom is real.” The Globe and Mail, August 19, 2014.  
+3 International Monetary Fund. 2015. Regional Economic Outlook: Sub-Saharan Africa Navigating Headwinds. 
+Washington, DC: International Monetary Fund.  
+4 United Nations Conference on Trade and Development. 2015. World Investment Report.  
+ 
+2 
+ 
+graduates were in engineering and technology compared to 44 percent of enrollment 
+and 47 percent of graduates in social sciences, law, and business.  
+ 
+Figure 1: Higher Education Enrollment, by Region and Year5  
+ 
+Source: World Bank and Elsevier (2015) 
+ 
+(b) Quality, relevance, and accountability. Firm surveys across ESA reveal that firms face 
+difficulties in filling technical and managerial positions, while at the same time, many 
+university graduates are not able to find jobs. This is not simply due to the inadequate 
+number of graduates, but also due to the low quality and relevance of their education 
+and training. Despite the increase in enrollment, faculty qualification has not improved 
+much. Very few faculty members have Doctor of Philosophy (PhD) degrees. It is 
+estimated that only about 100 PhDs are produced by higher education institutions 
+across 31 countries in SSA in science, technology and engineering.6 Institutions often 
+do not have the resources to attract top quality faculty, nor are they able to provide 
+faculty support with research facilities. There is little accountability demanded of 
+higher education institutions, leading to inadequate quality of education across the 
+region. In addition, curriculum inputs from, and training engagements for students in 
+the private sector are minimal, resulting in a mismatch between the graduates and labor 
+market requirements, especially in S&T.  
+ 
+                                                 
+5 LYA – latest year available 
+6 World Bank, 2014. Applying Science, Engineering and Technology for African Competitiveness and Development. 
+Draft Paper. Washington, DC: World Bank.  
+ 
+3 
+ 
+(c) Research outputs and researchers. SSA contributes less than two percent of the global 
+research output and just 0.1 percent of patents.7 From 2005-12, Ethiopia acquired only 
+one patent and Kenya acquired 29. The region also produces the lowest number of 
+scientific researchers in the world. For example, Rwanda, Malawi, Uganda and Zambia 
+produce only 54, 123, 83 and 49 researchers per million inhabitants respectively (figure 
+2). In comparison, Malaysia and Thailand produce 1,780 and 546 researchers per 
+million inhabitants.8  
+ 
+Figure 2: Researchers in ESA per million inhabitants (headcount) 
+ 
+Source: United Nations Educational, Scientific, and Cultural Organization (UNESCO). Science Report: Towards 2030 
+(2015) 
+ 
+4. 
+These deficiencies are particularly severe in the following regional priority areas.   
+(a) Industry. In general, ESA countries are experiencing low and declining levels of 
+enrollment in areas associated with the growing industrial sectors which require skills 
+in STEM. This is despite the vast demand for graduates in emerging sectors with high 
+growth potential such as oil and gas, energy, extractives, and railways industries across 
+ESA.  The region faces a shortage of skilled professionals with specialized knowledge who 
+can innovate and boost productivity in these areas, such as engineers (civil, petroleum, and 
+mechanical), geoscientists, and mechanical technicians. Graduates in the fields of 
+engineering, manufacturing and construction are only 11.2 percent of the total graduates in 
+Rwanda, 6.4 percent in Uganda, 3.82 percent in Mozambique, 17.45 percent in Kenya and 
+4.88 percent in Ethiopia respectively.9  
+ 
+(b) Agriculture. Low levels of agricultural productivity, which has exacerbated food 
+insecurity and slowed poverty reduction, is partly driven by skill constraints and the 
+slow adoption of technology. Primarily this low productivity is because of factors such as 
+frequent droughts, rampant diseases (crop and livestock), unimproved crop varieties, lack 
+                                                 
+7 World Bank and Elsevier. 2015. A Decade of Development in Sub-Saharan African Science, Technology, 
+Engineering and Mathematics Research. Washington, DC: Elsevier.   
+8 UNESCO. 2015. UNESCO Science Report, 2015. Paris, France: UNESCO.  
+9 UIS (UNESCO Institute of Statistics), 2012. Accessed at: http://data.uis.unesco.org/Index.aspx?queryid=163. 
+49
+54
+64
+69
+83
+87
+123
+200
+318
+0
+100
+200
+300
+400
+ZM (08)
+RW (09)
+MZ (10)
+TZ (10)
+UG (10)
+ET (13)
+MW (10)
+ZM (12)
+KE (10)
+ 
+4 
+ 
+of access to quality seeds/fertilizers, and poor management of water resources. However 
+to address these challenges, Africa needs trained personnel such as agribusiness 
+specialists/managers, crop scientists, plant breeders, veterinarians, agronomists, water and 
+irrigation engineers, and food preservation and processing specialists to drive innovative 
+research and teaching for agricultural advancement, improved nutrition, and agricultural 
+sustainability.  Africa has moved from being a food exporter in the 1970s to a food importer 
+whose share of agricultural exports has fallen from eight percent to two percent; Thailand’s 
+share of agricultural exports as a share of world exports is now greater than SSA’s share 
+(figure 3, left). Even though the value of the food market in Africa is predicted to rise 
+threefold in the coming decades, the region will be unable to meet this demand due to low 
+productivity, inadequate capacity, and slow adoption of technology. For example, maize 
+yields in SSA is the lowest in the world (figure 3, right).  
+ 
+Figure 3: Decline in Agricultural Production in SSA 
+ 
+ 
+Source: The Economist accessed at http://www.economist.com/news/middle-east-and-africa/21665005-small-
+farmers-africa-need-produce-more-happily-easier-it 
+(c) Health. Low life expectancy in ESA (60 and 59 years for Eastern and Southern Africa 
+respectively; much lower than the global average of 71)10 is traced to a myriad of local 
+health challenges. Infectious diseases account for 40-50 percent of illness in the region; 
+these include malaria and tuberculosis, diseases that have been eliminated elsewhere. 
+Infectious diseases are also a major constraint to both the export of African livestock and 
+the spread of diseases from animals to humans. One reason the region has inadequate 
+capacity for management of epidemics is a lack of qualified personnel. For example, 
+enrollment in medical and health sciences is only six percent in Ethiopia, four percent each 
+in Mozambique, Tanzania and Zambia, and seven percent in Rwanda, all of which are 
+significantly lower than comparable countries in other regions. Resources in traditional 
+medicine and knowledge are not fully explored and utilized in drug development and there 
+are concerns that the drugs and vaccines that western pharmaceutical industries produce 
+are tailored more towards western diseases and less targeted to the needs of ESA.  
+ 
+                                                 
+10 http://www.statistica.com/statistics/274511/life-expectancy-in-africa/; 
+http://apps.who.int/gho/data/view.main.690?lang=en. 
+ 
+5 
+ 
+(d) Education. The quality of tertiary education is impeded by poor learning outcomes in 
+primary and secondary education, particularly in mathematics and science. Poor 
+education quality, especially at the primary and secondary levels, is a significant obstacle 
+to higher education access and outcomes. Poor teaching competencies, particularly, in 
+mathematics and science are a barrier to the production of high-quality graduates and 
+faculty in the field. This is despite the fact that there are currently 150 million primary 
+school students and 52 million secondary education students in SSA. There is an 
+inadequate capacity in producing innovative and effective teachers, school leaders, and 
+administrators, with an added challenge of outdated teaching methodology and curricula. 
+ 
+(e) Applied Statistics. The absence of reliable and accurate data, data management 
+systems, and skilled statisticians is a serious constraint to policymaking, adequate 
+analysis of development challenges, and monitoring and evaluation (M&E) of 
+interventions. In SSA countries, across various sectors, there is a severe shortage of highly 
+trained statisticians and of good quality data. This makes it difficult to provide analyses, 
+plan and monitor interventions, inform fact-based policy, and track progress. It may not be 
+recognized directly, but inadequate capacity of research and training within higher 
+education is an important contributor to the constraints in this area.  
+ 
+5. 
+A regional approach to higher education in Africa offers the best way to build and 
+sustain excellence in higher education in African economies to develop the human resources 
+required for the severe development challenges mentioned above. A regional approach would 
+offer the following benefits:  
+ 
+(a) Economies of Scale. Few, if any countries in ESA, have the persistent means to fund 
+internationally competitive centers of excellence in the broad range of areas required for 
+their economies. Regional specialization and coordination of investments is the only way 
+that ESA countries can financially and academically develop quality provision of higher 
+education in this broad range. Without coordinated investments, the region risks investing 
+scarce resources within the same areas, competing for the same faculty and producing 
+similar knowledge, and more importantly, leaving the region with a number of gaps in 
+skills, knowledge, and technology. A regional specialization of higher education would: (i) 
+concentrate the limited available top-level faculty into a critical mass that can attain 
+academic excellence; (ii) establish and sustain the necessary number of centers of 
+excellence to support the region’s demand for specialized human capital and knowledge at 
+lower unit costs; and (iii) generate increased knowledge and flow of students across 
+borders. 
+(b) Public Goods. Knowledge and research/innovation outputs generated by institutions in 
+ESA countries are a regional public good. Therefore, the knowledge and innovation 
+generated through applied research in this endeavor will be available/applicable to the 
+consumption of the entire region. The inability to appropriate all the benefits from an 
+investment in research and human capital development in its production results is due to 
+under-investment.  There are also a number of positive externalities from research and 
+innovation which exacerbates this problem. For example, the benefit of having a quantum 
+amount of skilled workers, not available before, allows for new types of research and 
+innovation, and economic production (including possibly greater entrepreneurship). There 
+ 
+6 
+ 
+are also knowledge spillovers which allow newly trained workers to share new knowledge 
+with other less skilled workers, resulting in enhanced productivity (i.e. within firms and in 
+universities). 
+ 
+6. 
+A regional approach would work best in focusing on the few dynamic institutions with 
+pockets of quality faculty that have already been responding innovatively by offering quality, 
+fee-based, courses to students in Eastern and Southern Africa.  Success factors for regional 
+collaboration in higher education are: (a) collaboration through specialization; (b) political 
+emphasis on common standards in benchmarking; and (c) willingness to promote mobility of 
+students and faculty. Institutions and centers within universities across ESA already specialize in 
+offering high level training in STEM, agriculture, health and S&T innovation (including education 
+and applied statistics). Supporting these institutions will allow them to improve and boost the 
+quality of education in the region within their fields through partnerships, and allow them to 
+compete with institutions in high-income countries for African students capable of paying for 
+quality education. 
+ 
+7. 
+There is a growing and keen understanding in ESA of the common development 
+challenges that the region faces, and a regional response in addressing the skills and capacity 
+constraints in S&T is desirable through a shared regional framework and collaboration. 
+There is also recognition of the impact such a focus will have in addressing some of the more 
+intractable challenges facing the region, including issues of poverty and inequity.    
+ 
+B. Sectoral and Institutional Context 
+8. 
+The higher education system in ESA has experienced expansion in the past decade 
+with regard to enrollment and institutions. Despite the impressive growth in enrollments and 
+institutions, the current sector is not sufficiently oriented towards the development needs of the 
+region. It is largely input-driven and historically funded with inadequate attention to performance 
+and results. It now faces numerous challenges that need to be addressed. These challenges are 
+discussed below.  
+ 
+9. 
+The higher education sector in ESA faces severe constraints with regard to producing 
+a critical mass of graduates, including female graduates, to meet regional development needs. 
+Despite recent rapid expansion in higher education enrollment in the region, gross enrollment rates 
+in ESA countries are still low (one percent in Malawi and six to eight percent in Ethiopia, 
+Mozambique, and Rwanda).11 Female enrollment rates (as a percent of total enrollment) are even 
+lower with rates of less than one percent in Malawi and four percent in Ethiopia.12 Overall, the 
+ESA region produces low numbers of graduates in science, health, agriculture and engineering 
+with less than 30 percent of graduates majoring in these fields, with female rates being even lower. 
+This scenario is in marked contrast with emerging markets such as Vietnam, mid-income countries 
+such as Malaysia, or advanced economies such as South Korea. Further, graduation rates of 
+graduate students is also low, just ten percent for PhD students in S&T fields. The low number of 
+higher education graduates could potentially influence the overall teaching quality—teaching force 
+availability and capacity—within these disciplines at lower levels of education.  
+                                                 
+11 UIS. 2014 – Ethiopia and Mozambique; 2013 – Rwanda; and 2011 – Malawi. 
+12 UIS. 2014 – Ethiopia and 2011 – Malawi.  
+ 
+7 
+ 
+10. 
+Though some efforts have been made by regional institutions in crafting policies for 
+establishing quality assurance systems across the region, most of these policies are not 
+implemented. Individual countries have initiated efforts in improving the quality of their higher 
+education institutions under the pressure of system expansion. An example is the mandatory 
+external quality assurance for all programs and institutions in Kenya. However, due to low capacity 
+and investment, sound quality assurance mechanisms are either inadequate or non-existent. 
+Institutions are struggling to provide quality education to students in the face of crumbling 
+infrastructure and facilities, outdated curriculum and teaching methods, and insufficient research 
+faculty. Particularly in S&T, the curriculum needs to be updated to ensure that graduates are 
+abreast of the latest knowledge. Finally, universities need to overhaul the STEM pedagogy, 
+particularly with regard to increasing the academic use of technology to deliver quality programs.  
+ 
+11. 
+Higher education quality is undermined by the slow pace of faculty capacity 
+development and qualifications. Many universities in ESA do not have sufficient number of 
+qualified faculty, which in turn prevents them from providing relevant higher education training 
+and research mentoring. Entrenched policies, institutional structures, and academic traditions have 
+placed obstacles on female representation in teaching, research and administration. They are also 
+constrained by the small number of PhDs produced each year who are candidates for faculty 
+recruitment or to lead research hubs or centers. For example, in Kenya, 290 doctorates graduated 
+in 2013, while tertiary enrollment expanded by 80,000. Even assuming full employment of all new 
+PhD holders, the ratio of newly qualified faculty to new students was 1:275. To ensure high quality 
+in higher education and research, the production of Master’s and PhD’s must be increased. The 
+sector also needs to be cognizant of other issues that deter quality faculty recruitment – low 
+salaries, lack of research funding and equipment, and limited autonomy. In addition, most African 
+countries have experienced adverse effects of “brain drain”; less than 15 percent of staff in 
+universities in Ethiopia, Kenya, Mozambique and Rwanda hold PhD degrees.13 Even flagship 
+universities, such as Addis Ababa University (AAU) in Ethiopia and the University of Malawi in 
+Malawi, employ only about 20-25 percent of staff with PhDs.  
+ 
+12. 
+Independent research capacity is extremely low (Figure 4). Most of the research outputs 
+in the ESA are produced with international (non-African) collaboration. Only 30 percent of 
+publications in Eastern Africa and 20 percent in Southern Africa are the result of national and/or 
+regional collaboration. Kenya, Uganda, Rwanda, and Ethiopia were the most productive countries 
+in the region when it came to publications and most of the articles were produced with international 
+collaborators. For example, more than 95 percent of articles from Rwanda were with international 
+collaborators. Though international collaboration is important, it may result in the research agenda 
+being driven by the international partner(s) rather than by problems or challenges that are local to 
+the region. Regional collaboration on common development problems remains the most efficient 
+way of solving the region’s development challenges. Regional collaboration is however impeded 
+by low researcher and staff mobility leading to insufficient cross-regional collaboration for 
+addressing regional development challenges.14 A large majority of the articles produced in the 
+                                                 
+13 World Bank, 2014. Applying Science, Engineering and Technology for African Competitiveness and Development. 
+Draft Paper. Washington, DC: World Bank.  
+14 World Economic Forum. 2015. The Global Competitiveness Report, 2014-15. Geneva: World Economic Forum.   
+ 
+8 
+ 
+region focus on health, with less than 2 percent of scientific publications produced by Ethiopia, 
+Kenya, Malawi, Mozambique, and Zambia focusing on engineering, energy, and technology.15 
+ 
+Figure 4: Level of Regional and National Collaboration – number of articles with regional 
+co-authors (2012) 
+ 
+Source: Scopus (World Bank. 2015. A Decade of Development in Sub-Saharan Africa Science, Technology, 
+Engineering and Mathematics Research. Washington, DC: World Bank) 
+ 
+13. 
+The limited engagement with the private sector is reflected in the mismatch between 
+the labor market needs and competencies of graduates. Despite the fact that enrollment in 
+higher education has been on the rise in the region, business surveys continue to highlight that 
+firms cannot find sufficiently skilled workers, particularly those with scientific skills. An example 
+is the growing, but unfilled employment need in sectors such as extractives and railways. The lack 
+of engagement between industry and universities also hampers innovation. As universities have 
+limited engagement with industry, industry has little confidence in the capacity of universities to 
+generate graduates as problem solvers for 
+
+[... procurement/fiduciary sections omitted ...]
+
+y, limit the ability of each individual country in the region to develop a whole spectrum of 
+research and teaching excellence across all science fields. Coordinated investments with country 
+specific specializations allows the region to develop a broad based S&T ecosystem, covering all 
+critical areas where S&T capacity is needed, without gaps.  A well networked and integrated S&T 
+ecosystem can also have economy of scale advantages with declining unit costs for both graduates 
+and for innovation. For example knowledge spillovers can develop between faculty and 
+researchers across countries if they have the opportunity to collaborate and share ideas within and 
+across disciplines with benefits beyond individual centers. Further, as the development challenges 
+are common, regional collaboration can bring together the critical mass of capacity and knowledge, 
+otherwise partial, to resolve regional problems.  
+ 
+16. 
+The regional approach is already effectively being implemented in the first phase of 
+the project in West and Central Africa. Phase I was launched in 2013 for West and Central 
+Africa as the Western and Central Africa Higher Education Centers of Excellence Project (ACE 
+I). The project had an initial investment of US$150 million, selected 19 African Centers of 
+Excellence (ACEs) across seven countries – Benin, Burkina Faso, Cameroon, Ghana, Nigeria, 
+Senegal and Togo – in three priority areas – STEM, Agriculture, and Health. ACE I, which is now 
+operational in all the seven countries, also supports an emerging higher education system in 
+Gambia. All the ACEs have started enrolling students, publishing research, developing 
+partnerships and other activities that can make them become strong regional centers of excellence 
+for the region. Redeemer University in Nigeria, which was the first to have tested an Ebola case in 
+its lab was one of the selected ACEs under ACE I. Such regional initiatives are expected to set a 
+global example for effectively stimulating collaboration, networking, and partnerships to cost-
+effectively solve regional development issues. 
+ 
+17. 
+Building on the ACE I experience, the Eastern and Southern Africa Higher Education 
+Centers of Excellence Project (ACE II) seeks to collectively address a set of key development 
+challenges facing ESA through interventions in developing critically-needed science and 
+technology capacity by: (a) selecting ACEs, from existing higher education institutions that have 
+the capacity in specialized areas and the potential to help address regional priorities, through a 
+competitive and transparent process from existing higher education institutions that have capacity 
+in specialized areas and potential to help address regional priorities; (b) strengthening these 
+specialized ACEs and enabling them to produce excellent training and applied research that meets 
+the demand for  highly skilled personnel and knowledge/technology transfer within regional 
+priorities; (c) building networks among these ACEs to promote  regional collaboration and foster 
+partnerships with other institutions and the industry to produce innovative solutions with real 
+impact; and (d) developing a culture of results-orientation and accountability among these ACEs 
+through a performance-based financing mechanism, helping to set an example for other higher 
+education institutions in the region. 
+ 
+ 
+10 
+ 
+C. Higher Level Objectives to which the Project Contributes 
+18. 
+The proposed Eastern and Southern Africa Higher Education Centers of Excellence 
+Project (ACE II) is fully aligned with (i) the Bank’s twin goals of poverty reduction and 
+shared prosperity; and (ii) the Bank’s Africa Strategy: to strengthen competitiveness and 
+employment through the production of quality high-skilled human resources in priority 
+growth sectors. Through a sector-based approach, ACE II is designed to identify and address 
+higher skills and innovation requirements for priority sectors in the region. There is extensive 
+global evidence of the importance of higher education in building critical human capital and 
+driving research and innovation and growth. Countries in ESA have lagged behind in developing 
+the higher education sub-sector, thereby jeopardizing their growth potential. ACE II is meant to 
+help address this deficiency through the creation of Centers of Excellence that address critical 
+human resource gaps and innovations in priority sectors and will have the potential to become the 
+regionally leading scientific and academic institution in its particular field, serving the region 
+collectively to tackle the development challenges they all share.  
+ 
+19. 
+The project is part of the Bank’s Regional Integration Assistance Strategy (Report 
+No. 43022-AFR) which coordinates interventions for regional public goods. The Strategy 
+foresees the proposed ACE II operation as having economies of scale in the use of facilities, 
+equipment, and staff in specialized fields; to share innovations and good practices in teaching and 
+learning; and to enhance cross-border research networks.  
+ 
+20. 
+The project will contribute to the Africa Climate Business Plan.17 The plan proposes 
+to bolster the region’s capacity to withstand the adverse consequences of climate change through 
+the facilitation of investment into interventions that tackle climate change induced issues in the 
+region. A number of centers of excellence selected in the project cover elements of climate change 
+in line with its consequence for priority areas. Climate change has been included as a regional 
+priority area under which ACEs could be financed at a later date depending on the availability of 
+funding.  
+ 
+21. 
+The project complements other regional initiatives in Africa that focus on developing 
+science and technology skills through collaboration and partnerships. These include the Bank-
+supported Partnership for Applied Sciences, Engineering and Technology (PASET) which seeks 
+to build a technical and scientific skilled labor force for priority sectors, from technical/vocational 
+to higher education levels as well as research, to support the structural transformation of Africa. 
+The proposed ACE II project will collaborate with the benchmarking exercise overseen by PASET 
+to seek best practices in science education.  
+ 
+22. 
+The project aligns with Country Partnership Frameworks of the participating 
+countries in three ways: (i) It strengthens ongoing national operations to promote skills through 
+a regional instrument (e.g., Malawi and Mozambique); (ii) It supports priority growth sectors 
+through investments in skills and innovation (e.g., Rwanda, Tanzania and Zambia); and (iii) It 
+raises youth employability and skills (e.g., Kenya, Mozambique, Tanzania, and Uganda). National 
+governments and universities view this project as an opportunity to scale up regional collaboration 
+                                                 
+17 http://www.worldbank.org/en/news/press-release/2015/11/24/world-bank-group-unveils-16-billion-africa-climate-
+business-plan-to-tackle-urgent-climate-challenges. 
+ 
+11 
+ 
+in higher education; establish high-quality regional programs to train faculty in critical 
+development priority areas; develop a new model for industry-academia collaboration; and reach 
+a hitherto unachieved level of quality in higher education in the region.  
+ 
+23. 
+The ESA countries strongly endorse a regional approach to higher education. There 
+has been a strong interest in establishing regional centers of excellence. By pooling projects’ 
+regional resources, these countries aim to improve the quality of training and research in higher 
+education, and reduce the skill gaps in critical areas. The project is also in sync with development 
+strategies of other regional bodies such as the African Union Comprehensive African Agriculture 
+Development Project, Science, Technology, and Innovation Strategy for Africa, and regional 
+integration initiatives under the East African Community (EAC) and the Southern Africa 
+Development Community (SADC). While the interest of governments in the region for the ACE 
+approach is strong, the demand from ESA universities and other scientific institutions in the region 
+(who in several cases are fairly autonomous from their governments) is equally pronounced. Ten 
+countries originally expressed interest in the project. Out of the ten countries, eight are 
+participating in ACE II as ACE hosting countries – Ethiopia, Kenya, Malawi, Mozambique, 
+Rwanda, Tanzania, Uganda, and Zambia – have emphasized the alignment of the project with their 
+national development priorities as well. Both Burundi and Zimbabwe initially expressed interest 
+in their participation in ACE II.  Burundi was unable to participate in the Call for Proposals due to 
+the unrest in the country at that time.  Though it does not host any ACEs, as an International 
+Development Association (IDA) eligible country, Burundi is eligible to access services offered by 
+the ACEs in other countries and regional capacity-building activities under the project.  Zimbabwe 
+is not an IDA eligible country and its participation is subject to whether it can finance its ACEs 
+and other capacity building activities.  It participated in the Call for Proposals and has one proposal 
+selected by the Regional Steering Committee (RSC) based on the technical merit through the 
+independent evaluation process, although funding for it is yet to be secured.  In the meantime, 
+Zimbabwe can participate in ACE capacity-building activities through self-financing.
+
+A. Project Development Objective (PDO)18 
+To strengthen selected Eastern and Southern African higher education institutions to deliver 
+quality post-graduate education and build collaborative research capacity in the regional 
+priority areas. 
+ 
+Project Beneficiaries 
+ 
+24. 
+The project beneficiaries are: 
+(a) Students in participating universities and their partner institutions across Eastern and 
+Southern Africa will benefit from high quality education and training in regional 
+priority areas; 
+                                                 
+18 The PDO will be slightly adjusted for its use in customized legal documents for each of the participating countries, 
+i.e., “The objective of the Project is to support the Recipient to strengthen selected Eastern and Southern African 
+Higher Education Institutions in the Recipient’s territory to deliver quality post-graduate education and build 
+collaborative research capacity in the regional priority areas.” 
+ 
+12 
+ 
+(b) Employers in targeted sectors/industries will have greater access to high quality/skilled 
+personnel, results of applied research, and scientific knowledge for productivity 
+improvement; as well as  knowledge partners (including companies, governmental or 
+non-governmental organizations) will use research produced by the ACEs; 
+(c) Communities in which the ACEs reside will benefit from improved educational and 
+research outreach of the ACEs, particularly primary and secondary schools and 
+students;  
+(d) Faculty and staff in the ACEs will benefit from improved teaching and research 
+conditions and professional development opportunities;  
+(e) Regional institutions such as EAC and SADC will benefit from improved capacity of 
+the ACEs;  
+(f) Faculty and students in STEM and other priority-sector disciplinary areas will benefit 
+from exchange visits, collaborative teaching and research, and other knowledge-
+sharing activities across the ACEs organized by the ACE II Regional Facilitation 
+Unit19; and   
+(g) ACE hosting universities will benefit from the strengthened capacity of their ACEs, 
+and quality improvement measures including benchmarking with other institutions 
+initiated under the project.  
+PDO Level Results Indicators 
+ 
+25. 
+The following indicators will be used to measure progress towards achieving the above 
+PDO:  
+ 
+(a) Regional students20 enrolled by the ACEs in  Master’s and PhD programs (number); 
+(b) Students (both national and regional) enrolled by the ACEs in Master’s and PhD 
+programs (number); 
+(c) Memorandum of Understandings (MoUs) on partnerships for collaboration in applied 
+research and training entered into by the ACEs (number); and 
+(d) Accredited education programs offered by the ACEs (number).  
+(e) Direct Project Beneficiaries (number), of which female (%)
+
+26. 
+The proposed ACE II project will support the governments of eight participating countries 
+– Ethiopia, Kenya, Malawi, Mozambique, Rwanda, Tanzania, Uganda, and Zambia in 
+strengthening the selected ACEs to deliver quality post-graduate education and build collaborative 
+research capacity in the regional priority areas. With the view of achieving the above described 
+vision and objective, the proposed ACE II operation will implement three sets of activities: (i) 
+strengthening 24 selected ACEs for ESA in a set of defined regional priority areas21 (US$140 
+                                                 
+19 In the customized legal agreements, the “Regional Facilitation Unit” is referred to as the “Regional Facilitation 
+Entity.” 
+20 “Regional students” excludes students from each ACE’s own ACE hosting country.  
+21 These priority areas have been defined by the project’s Regional Steering Committee (RSC) after broad 
+consultations in the region. Climate change was added as a priority area for future call for proposals if financing 
+becomes available.  
+ 
+13 
+ 
+million); (ii) providing capacity building support to these ACEs through regional activities (US$3 
+million); and (iii) supporting coordination and management of the implementation of Components 
+1 and 2 (US$5 million).  Outlined below are the proposed activities to be financed under ACE II, 
+including the key features of design and implementation.  Their details can be found in Annex 2.           
+ 
+A. Project Components 
+Component 1: Strengthening Africa Centers of Excellence (ACEs) in Regional Priority 
+Areas (US$140 million) 
+27. 
+Under this component, the IDA Credit will finance the strengthening of 24 ACEs in 
+five clusters of regional priorities – Industry, Agriculture, Health, Education and Applied 
+Statistics.  Each of these 24 specialized regional centers will receive a grant of up to US$6 
+million22 for implementing its proposal in a specific regional priority area.  All these ACEs  are 
+expected to perform the following tasks: 
+ 
+(a) 
+Build institutional capacity to provide quality post-graduate education with 
+relevance to the labor market; 
+(b) 
+Build institutional capacity to conduct high quality applied research, relevant to 
+addressing a key development challenge/priority; 
+(c) 
+Develop and enhance partnerships with other academic institutions (national, 
+regional and international) to pursue academic excellence; 
+(d) 
+Develop and enhance partnerships with industry and the private sector to generate 
+greater impact;  
+(e) 
+Improve governance and management of the institution and set up a role model for 
+other higher education institutions; and  
+(f) 
+Deliver outreach, and create an impact, to society by delivering excellent teaching 
+and producing high quality applied research.  
+ 
+28. 
+The ACEs financed under the ACE II project were selected through an open, 
+objective, transparent, and merit-based competitive process. The Call for Proposals was 
+followed by a two-step evaluation process conducted by the Independent Evaluation Committee 
+(IEC)23: a technical evaluation, as well as an onsite and leadership evaluation. Out of the 92 eligible 
+proposals submitted, RSC conditionally selected 25 proposals to be ACEs, out of which only 24 
+will be financed under the project based on the following criteria24: (a) address a specific challenge 
+in one of the five priority areas in the region – industry, agriculture, health, education and applied 
+statistics; (b) be of the highest quality; (c) have institutional capacity; (d) provide geographical 
+balance; and (e) have IDA funding eligibility and availability. These selected ACEs underwent 
+financial management (FM), procurement and safeguards assessments. Table 1 provides a 
+glance at the distribution of these ACEs by cluster and country. 
+                                                 
+22 This amount is the capped disbursement amount per ACE for the project period of five years. Each ACE, with the 
+exception of ACEs in Rwanda, can receive a maximum of up to US$6 million over the project duration of five years. 
+Of the four ACEs in Rwanda, as agreed with the Government of Rwanda, two (Education and Statistics) can receive 
+a maximum of US$4.5 million and the remaining two (ICT and Energy) can receive a maximum of US$5.5 million 
+over the project duration.  
+23 The IEC is comprised of over 60 African and international experts with specialties in the proposal subject areas.  
+24 The ACE from Zimbabwe, although conditionally selected, could not be included in the project as Zimbabwe is not 
+eligible for IDA financing and has not been able to raise the needed funds so far.  
+ 
+14 
+ 
+Table 1: Distribution of Selected ACEs by Country and Cluster 
+ 
+Country/ 
+Cluster 
+ 
+Industry 
+Agriculture 
+Health 
+Education 
+Statistics 
+TOTAL 
+Ethiopia 
+2 (Railways, Water 
+Management.) 
+1 (Climate Smart) 
+1 (Drug 
+Development) 
+ 
+ 
+4 
+Kenya 
+ 
+ 
+1 (Manufacturing) 
+2 (Agribusiness, Food) 
+ 
+ 
+ 
+3 
+Malawi 
+ 
+1 (Fisheries) 
+1 (Public Health & 
+Herbal Medicine) 
+ 
+ 
+2 
+Mozambique 
+1 (Oil & Gas) 
+ 
+ 
+ 
+ 
+1 
+Rwanda 
+2 (ICT, Energy) 
+ 
+ 
+1 (STEM 
+teaching) 
+1 (Applied 
+Statistics) 
+4 
+Tanzania 
+ 
+1 (Water 
+Infrastructure) 
+2 (Unspecified – 
+Rodents. Agricultural 
+Education) 
+1 (Infectious 
+Diseases) 
+ 
+ 
+4 
+Uganda 
+ 
+1 (Product Design 
+& Manufacturing) 
+2 (Crop Improvement, 
+Agro-ecology) 
+1 (Pharma-Bio & 
+Traditional 
+Medicine) 
+ 
+ 
+4 
+Zambia 
+ 
+ 
+1 (Mining) 
+ 
+1 (Infectious 
+Diseases) 
+ 
+ 
+2 
+TOTAL 
+ 
+9 
+8 
+5 
+1 
+1 
+24 
+ 
+29. 
+The proposed ACEs are expected to address specific development challenges facing 
+the region through graduate training (Master’s, PhD, and short-term courses) and applied 
+research in the form of partnerships and collaborations with other institutions and the 
+private sector. These are highlighted below for a quick illustration of their potential impact.  
+ 
+(a) Industry. There are nine selected ACEs in the areas of energy, extractives, ICT, 
+manufacturing, railways, and water, based in Ethiopia, Kenya, Mozambique, Rwanda, 
+Tanzania, Uganda, and Zambia.  The center in energy will try to alleviate constraints which 
+have resulted from low energy access and adoption of technologies in rural areas and poor 
+inter-state energy trading in ESA. The centers in mining and oil and gas will take the lead on 
+sustainable development of the extractive industry through the provision of education, training 
+programs and research solutions in the field. The center in ICT will educate Africans who will 
+develop and deploy innovative ICT services. The two centers in the water sector will address 
+water and sanitation challenges in the region to ensure safe water and sanitation requirements 
+for water provision; apply technology to use ground water for agricultural applications; and 
+improve municipal and industrial water management. The center in railways will produce 
+trained graduates who can fill the manpower needs of the burgeoning railway sector. The 
+centers in manufacturing will utilize nanotechnology to fill the gap in promoting value addition 
+of primary produce.  
+ 
+(b) Agriculture. There are eight selected ACEs in the agriculture area, based in Ethiopia, 
+Kenya, Malawi, Tanzania, and Uganda. They will address development challenges of food 
+insecurity and rural poverty by focusing on sustainable agriculture and agribusiness 
+development and management, e.g., developing value chain capacity in the use of 
+biotechnology and climate smart agriculture to increase crop and livestock productivity and

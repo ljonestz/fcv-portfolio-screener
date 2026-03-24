@@ -1,0 +1,835 @@
+[FILTERED: FCV-relevant sections only. Original length: 70052 chars → Filtered: 54199 chars (22.6% reduction). Sections kept: I–V (full), VI E/F/G (social/env/GRM), Annexes 1, 3, 7.]
+
+A. Country Context 
+1. 
+Ethiopia is a large, landlocked, and diverse country. It is located in the Horn of Africa with an 
+area of 1.1 million km2. Ethiopia’s population is estimated at 96.95 million, with an annual population 
+growth rate of 2.5 percent (2014).1 At this rate, Ethiopia’s population is expected to reach 130 million by 
+2025, and the United Nations projects that it will become the tenth most populous country in the world 
+by 2050. According to the World Bank Group estimation in 2015, only about 20 percent of the 
+population lives in urban centers. Ethiopia is a country of many nations, nationalities, and peoples, with 
+about 98 nationalities and peoples with roughly 93 languages. At the time of the writing of this 
+document, the country is in a nationwide state of emergency declared by the Government of Ethiopia 
+(GoE) on October 9, 2016 for six  months in light of growing concerns related to internal security 
+following months of anti-government protests. 
+2. 
+The sustained economic growth for the last decade,  with an average gross domestic product  
+growth rate of 10.9 percent from 2005–15,was driven primarily by structural improvements in the 
+economy, as resources moved from low- to high-productivity activities, supported by a conducive 
+external environment.2 International trade has been very dynamic with exports increasing more than 
+fivefold between 2000 and 2015 in nominal terms, while volumes increased by a magnitude of four, 
+reflecting a positive commodity price effect. Imports increased by a factor of 8 over the same period. 
+While the Government has recently laid out ambitious plans to maintain this growth performance and 
+for Ethiopia to become a middle-income country by 2025, the global external environment has become 
+less conducive, faltering export performance has become a key policy concern, and the country is facing 
+the challenge of dealing with the current drought. 
+3. 
+However, higher economic growth underpinned by both manufacturing output and value 
+added exports will be needed. At current, most employment opportunities in the country and about 40 
+percent of output and exports are related to agriculture, whereas services make up close to 50 percent 
+of output value and exports,3 respectively. The emerging Ethiopian light manufacturing sector, 
+dominated by the food, beverage, leather, textile, and apparel industries, has remained stagnant at 
+around 5 percent shares of output, employment, and exports.4 As emphasized in the 4th Ethiopia 
+Economic Update (World Bank Group 2015), growth in the manufacturing sector is critical for sustained 
+long-term growth of a country graduating through the early stages of industrial development. 
+Manufacturing bears the potential to create new and better-paying jobs and related services and to 
+reallocate workers from the low productive agriculture and the informal sectors to more productive and 
+formal economic activities. 
+                                            
+1 World Development Indicators based on United Nations population projection. According to the Central Statistics Agency, 
+the midyear population estimate is 90.1 million in 2015. 
+2 Ethiopia Systematic Country Diagnostic (SCD) (World Bank Group 2016) 
+3 Within services, commerce, public sector, and ‘others services’ were the most important contributors to output and jobs. 
+Ethiopia’s Great Run (World Bank Group 2016). 
+4 Ethiopia SCD (World Bank Group 2016). 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 2  
+     
+ 
+4. 
+Increasing manufacturing, specifically exports of manufactured goods, is among the major 
+targets of the Government of Ethiopia (GoE), as indicated in the Growth and Transformation Plan (GTP) 
+second phase, which sets out an ambitious vision that seeks to turn Ethiopia into a middle-income 
+country by 2025. Emphasis is on the development of export-oriented light manufacturing, in particular 
+labor-intensive industries to take advantage of the country’s relative abundance of labor, low wages, 
+and raw materials. The GoE’s priority industries include, among others, textiles and garments, leather, 
+and leather products, and agro-processing products. Though relatively small in export share currently, 
+these sectors have shown their potential over the last five years as evidenced by the increase of the 
+compound annual growth rate (CAGR) at 10.8 percent (food products), 7.3 percent (leather and other 
+leather products), 33.8 percent (footwear), and 19.6 percent (textiles and garments), respectively (for 
+details, see figure 4.1 and 4.2 of annex 4 section 1). 
+ B. Sectoral and Institutional Context 
+Ethiopian National Quality Infrastructure System 
+5. 
+Given the strategic emphasis on the growth of light manufacturing, fostering awareness and 
+adherence of Ethiopian firms, specifically exporters, to international product standards and 
+certification regimes is more crucial than ever. It will help them meet global standards and quality 
+practices, as they operate within integrated global value chains (GVCs), where products and services 
+require quality assurance.5 Many of the major export destinations of Ethiopian light manufacturing 
+products are developed markets, such as the United States, European Union (EU), and Asia, where 
+higher standards and quality practices are required than those applied domestically. For details see 
+annex 4 section 2. 
+6. 
+In addition, a functioning system to assess the quality of materials inputs (imported or locally 
+produced) is critical. So far, the lack of adequate National Quality Infrastructure (NQI)6 has severely 
+constrained the ability of Ethiopian firms to produce goods and services that meet the quality 
+specifications of global markets. Though primarily focused on agricultural commodities, Ethiopian 
+products face rejection in the markets in developed countries mainly due to pesticide residue, 
+mycotoxin content, insufficient hygienic condition, and inappropriate labelling.7 For instance, during the 
+2010–2015 period, there were 19 notifications of rejections of products (fruits and vegetables, herbs 
+and spices, nuts and nut products, and cereals) from destination markets in Europe.8 To a large extent, 
+these rejections concern agricultural products, but they are also indicative of quality problems in other 
+sectors, in particular light manufacturing. While the reasons for rejection vary from market to market 
+and have to be addressed primarily by reforms at the sectoral level, such reforms need to take place 
+within the framework of a broader quality assurance system for testing, inspection, and certification of 
+product quality. The 2016 draft Diagnostic Trade Integration Study (DTIS) points out the failure to meet 
+                                            
+5 Guasch, Luis J., Jean-Louis Racine, Isabel Sánchez, and Makhtar Diop. 2007. Quality Systems and Standards for a Competitive 
+Edge. Washington, DC: World Bank. 
+6 NQI is defined as an institutional framework that establishes and implements a number of interlinked activities among 
+standardization, accreditation, metrology, and conformity assessment (testing, inspection, and certification). 
+7 Draft- DTIS of Ethiopia, United Nations Conference on Trade and Development (UNCTAD), January 2016. 
+8 European Commission’s Rapid Alert System for Food and Feed (RASFF): https://webgate.ec.europa.eu/rasff-
+window/portal/?event=SearchForm&cleanSearch=1  
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 3  
+     
+ 
+the standards and quality as one of the major issues prevailing in most Ethiopian manufacturing 
+industries.  
+7. 
+Basic elements of the NQI system have been put in place in Ethiopia. Under the reform 
+undertaken in 2011, the former Quality and Standards Authority of Ethiopia was divided into four legally 
+autonomous NQI institutions, responsible for providing quality assurance services in the fields of 
+standards, accreditation, metrology, and conformity assessment (testing, inspection, and certification) 
+to ensure good governance, create institutions free from conflicts of interest9 and be aligned with the 
+international practice. The Ministry of Science and Technology (MoST) is the responsible ministry for 
+NQI service development in the country and is responsible for the oversight of the four existing NQI 
+service providing institutions (See Figure 1. Below):  
+i. Ethiopian Standards Agency (ESA) in charge of adoption and dissemination of national, 
+international, and company specific standards; 
+ii. Ethiopian National Accreditation Office (ENAO), responsible for issuing accreditation of 
+technical competency of laboratories and conformity assessment bodies; 
+iii. National Metrology Institute of Ethiopia (NMIE) providing calibration services for 
+laboratories to assure measuring equipment meets standards; and  
+iv. Ethiopian Conformity Assessment Enterprise (ECAE) - a state owned enterprise providing 
+testing, certification, or inspection services for products/services – to be complemented by 
+private service providers.   
+8. 
+In addition to these four public NQI service providers, there are regulatory functions within 
+various ministries, including the Ministry of Trade (MoT), Ministry of Health, Ministry of Agriculture and 
+Natural Resource (MoANR), and Ministry of Industry (MoI) to oversee compliance with mandatory 
+regulations particularly in areas related to public health and safety. The various institutions and 
+functions in the NQI are formally coordinated under the National Quality Infrastructure Technical 
+Committee (NQITC), chaired by the Minister of MoST with the Ministry of Trade (MoT) as its secretary. 
+In addition, the Government has established the NQI Forum, as a platform for dialogue between the NQI 
+institutions, key stakeholders, and the private sector. 
+9. 
+Recognizing the importance of the NQI, the Government’s Science, Technology, and 
+Innovation Policy underscores the importance of the NQI for the country’s growth strategy and has 
+formulated eight broad strategies to strengthen the NQI. The GoE is currently updating its NQI 
+development strategy (2016–2021) to meet its GTP II goals, with the support of the World Bank Group. 
+The strategy will provide the implementation strategy of the Government’s policy on the NQI and will 
+enable further development of the system to respond to the needs of the manufacturing sector to 
+become globally competitive. One critical aspect of the strategy is to clarify and ensure that there is 
+proper division of responsibilities and mandates between service providers and ministries responsible 
+for regulatory oversight within the NQI system. It is important that the inspection and laboratory 
+capacity established by line ministries for the purpose of executing their oversight function should not 
+                                            
+9 Quality and Standards Authority of Ethiopia was responsible for the development and approval of standards, product 
+certification, inspection of producers, market surveillance, and consumer protection. As the entire process was controlled by 
+one organization, the overlap of commercial and regulatory functions and the discretionary powers of the organization to 
+control the certification market create considerable risk of conflicts of interest. 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 4  
+     
+ 
+cause inefficiencies because of costly duplication of investments in facilities and equipment, increased 
+pressure on the limited pool of skilled experts available in the country, and lastly, non-optimal utilization 
+of expensive laboratory equipment and limited resources, both finance and human resource. 
+Figure 1. Relationships among Elements of the NQI 
+ 
+Note: HACCP = Hazard Analysis and Critical Control Points 
+10. 
+Despite efforts by the GoE, the service delivery capacity of the existing Ethiopian NQI 
+institutions is inadequate to support the competitiveness of industries. There are key areas and 
+parameters for which no national calibration and testing are available, and certificates that none of 
+these institutions is accredited to provide. The NQI institutions lack capacity in human resources, the 
+facility to ensure accurate measurement, well-equipped laboratories to meet industries’ demands, as 
+well as coordination and collaboration with regulatory bodies to implement quality assurance services 
+because the NQITC is not yet fully operationalized (see annex 4 section 3 for inadequacies that hinder 
+promoting and strengthening the use of NQI services among the private sector and section 4 for 
+comparison of the NQI services capacity with benchmark countries).  
+11. 
+Limited internationally recognized services of the NQI institutions are also identified as key 
+bottlenecks for supporting competitiveness of its exporters. The quality assurance of goods or services 
+confirmed by Ethiopian NQI institutions only facilitates trade if recognized by relevant foreign 
+conformity assessment bodies. Otherwise, exports need to be certified/tested/inspected again in the 
+destination country or are blocked at the border. Currently, NMIE’s calibration and ENAO’s10 
+                                            
+10 ENAO has been audited for a full membership for the International Laboratory Accreditation Cooperation (ILAC) in 2015, and 
+a signatory to the Mutual Recognition Arrangement (MRA) of the ILAC on scope of testing International Standards Organization 
+(ISO)/ International Electrotechnical Commission (IEC) 17025 and medical testing ISO 15189 is under way. 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 5  
+     
+ 
+accreditation services, which are critical for providing globally accepted conformity assessment services 
+in Ethiopia, are not internationally recognized.  
+12. 
+In addition, the lack of coordination and collaboration in NQI service development with 
+industries undermines the effectiveness of the NQI. Though the NQI Forum has been put in place, it is 
+not yet fully operational, which hinders the active engagement of the private sector to provide input and 
+feedback on the NQI services and the challenges to the NQI institutions and the regulatory agencies. 
+Understanding industries’ demands is critical to create demand-driven NQI institutions with sustainable 
+services. 
+13. 
+Furthermore, it is critical to create an environment that will encourage private sector 
+investments that create market oriented conformity assessment services sector. There are very few 
+private sector conformity assessment service providers active in Ethiopia. Because domestic demands 
+for the NQI services are still underdeveloped to be significantly attractive for private investors, the GoE 
+currently supports ECAE’s basic conformity assessment services to solve a market mismatch between 
+supply and demand in industry. The international trend however is for governments to withdraw from 
+such basic conformity assessment service provision as the private sector develops. The strategic 
+approach is to provide practical hands-on support to industry players and potential private NQI service 
+providers for creating demands for NQI services and recognizing the benefit to enter the conformity 
+assessment services.  
+14. 
+The quality assurance services in the fields of standards, accreditation, and metrology are 
+commonly considered as a public good because it essentially helps solve market failures. Standards 
+developed to provide fulfillment of technical requirements (mandatory or voluntary) result in additional 
+costs for compliance for developing countries that export to these markets. The incremental cost may 
+be a decisive factor for an individual firm’s ability to become competitive globally. In such a context, 
+policy solutions, such as public support for the development of the NQI will help offset the cost 
+disadvantages.11 Leaving standards to markets alone can lead to under- or over-provision of standards. 
+The market failures also include coordination issues and imperfect markets that are too costly to be 
+undertaken by the private sector only and justify public sector interventions as a public good. For 
+example, leaving the metrology system to markets alone can lead to underinvestment that cannot 
+effectively meet accurate measurements (weight, volume, length, and so on), particularly in developing 
+countries like Ethiopia where manufacturers are predominantly small and medium enterprises (SMEs). 
+Investment in metrology involves high fixed costs but the outputs of the investment may have quite 
+general applicability for a wide and diverse group of users. Furthermore, ENAO’s accreditation services 
+can be seen as a public good because it allows for the creation of a reliable market of conformity 
+assessment. Though private entities can provide basic conformity assessment services, their success 
+depends on public support for increasing the demands for services from industries and the upstream 
+developments of metrology, accreditation, and standardization.  
+15. 
+The proposed project is being designed within this context to support the Government in 
+addressing the major constraints around the NQI system in the country. It will focus on three key value 
+chains that are driving the Government’s industrial policy for the growth of export-based 
+                                            
+11 Maskus, Keith E., Tsunehiro Otsuki, and John S. Wilson. 2005. The Cost of Compliance With Product Standards For Firms In 
+Developing Countries, Policy Research Working Paper 3590, World Bank, Washington, DC. 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 6  
+     
+ 
+industrialization, that is, (a) leather and leather products; (b) textile and garments; and (c) agro-
+processed products. A value chain approach will be effective when buyers and sellers rely on complex 
+information that is not easily transmitted or learned. (Annex 4 section 5 highlights the relevance of 
+quality assurance for each of these three industries in light of the sectors that the project aims to 
+address).  
+16. 
+These three value chains have been selected as priority sectors under the project for the 
+following main reasons: (a) the GoE has clearly identified them in GTP II as its priory sectors for the 
+development of export-led manufacturing industries that will support growth and job creation and is 
+making significant investments to develop them; (b) the expected significant impact of quality assurance 
+services, especially in the value chain (forward and backward linkages), to comply with buyers’ 
+standards and requirements; (c) the increasing trend and potential growth in investments,12 export 
+value, and volume as well as product sophistication and diversity projecting increasing demand for 
+efficient and competent NQI services for the products; and (d) relative readiness (high potential) of the 
+NQI institutions to provide quality assurance services to these sectors, building on their existing services 
+and facilities. As NQI services have to be demand driven and sustainable, heavy investment to support 
+brand new sectors will not result in adequate demand in the near and medium term, and it will be 
+difficult to sustain technically competent services.  
+17. 
+Enhancing the effectiveness of the quality assurance services in the targeted sectors will also 
+help address challenges by creating an objective and transparent system in the value chains. For 
+instance, lack of objective quality grading rules in the hides and skins trading system in Ethiopia causes 
+mistrust between traders and tanneries that substantially reduces the volume of transactions in raw 
+hides and skins, leading to supply problems.13 Also, nonexistence of a reliable testing mechanism on use 
+of chemicals, restricted substances, and physical analysis (weight, color, shape, contraction, display, and 
+so on) results in inefficient production in the textile and garments and agro-processing sectors.14  
+   C. Higher Level Objectives to which the Project Contributes 
+18. 
+The proposed project will contribute to the achievement of the GoE’s growth strategy 
+formulated within GTP II, which focuses on structural transformation from an agrarian to an 
+industrialized economy. Improving the export sector is among the major targets of the Government in 
+its growth strategy. In this regard, high attention has been given, particularly, to increasing value-added 
+exports from the selected priority industries to potential markets such as Europe, the United States, and 
+the Middle East by improving product quality, grading, and standards.  
+19. 
+The project is well anchored within Country Partnership Strategy (CPS) Pillar 1 and the World 
+Bank Group’s target of shared prosperity and reduction of extreme poverty. The current CPS FY13–
+FY16 framework includes two pillars. Pillar 1, ‘Fostering competitiveness and employment’, aims to 
+support Ethiopia in achieving: (a) a stable macroeconomic environment; (b) increased competitiveness 
+                                            
+12 Investments in these sectors are growing at an increasing rate and the GoE has put in place an ambitious Industrial parks 
+development agenda to meet the demand for land and production facilities. Ethiopia is a beneficiary of the African Growth 
+Opportunity Act and the Everything But Arms preferential trade treaties which play a key role in investment attraction.    
+13 Ethiopian Development Research Institute Working Paper 011 (December 2013). 
+14 Business Opportunity Report Ethiopia - Textile and Apparel Industry (Netherlands Embassy in Ethiopia and NAS International 
+BV, 2015). 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 7  
+     
+ 
+and productivity; (c) increased and improved delivery of infrastructure; and (d) enhanced regional 
+integration. The SCD, which will inform the new Country Partnership Framework (FY17–FY20), has 
+identified the need for faster and more inclusive structural change to end extreme poverty and promote 
+shared prosperity in Ethiopia. To achieve this, the SCD has identified low human development and an 
+uncompetitive private sector among the most binding constraints that need to be addressed to succeed 
+in the structural transformation. 
+20. 
+The project will indirectly contribute to the World Bank Group’s strategic objectives of ending 
+extreme poverty and promoting shared prosperity by supporting economic growth: It will enhance the 
+global competitiveness of selected sectors that will increase the demand for Ethiopian products, which 
+will require increasing investments and expanding production, resulting in job creation. In addition, the 
+project will contribute to the achievement of the Sustainable Development Goals on (a) promoting 
+inclusive and sustainable economic growth, employment, and decent work for all (Goal 8); (b) building 
+resilient infrastructure, promoting sustainable industrialization, and fostering innovation (Goal 9); (c) 
+reducing inequality within and among countries (Goal 10); and (d) ensuring sustainable consumption 
+and production patterns (Goal 12).
+
+A. PDO 
+21. 
+The Project Development Objective (PDO) is to improve the delivery of quality assurance 
+services to enterprises in targeted sectors. 
+22. 
+The theory of change for the proposed project is that both improved delivery of quality 
+assurance services by NQI institutions (supply side) and increased demand by targeted enterprises in the 
+targeted sectors, both the private and public sectors, for these services (demand-side) will strengthen 
+the competitiveness of the selected industries in GVCs. The targeted sectors will be leather and leather 
+products, textile and garments, and agro-processing. 
+B. Project Beneficiaries  
+23. 
+The direct beneficiaries of the project interventions include the private sector (particularly 
+existing and potential exporters), private NQI service providers, regulatory authorities, and 
+consumers. With the goal of improving the delivery of the quality assurance services to targeted 
+manufacturing sectors, the project beneficiaries will include enterprises/manufacturers, producers who 
+work for enterprises/manufacturers in the same value chains, and private NQI service providers. Also, 
+the project would contribute to the increase of market surveillance capacity of regulatory agencies, as 
+these agencies often rely on testing of product standards/quality. In addition, the project will benefit 
+local consumers, as the development of the NQI will protect consumers from hazardous and incompliant 
+consumable products that may have detrimental effects on health and safety.  
+C. PDO-Level Results Indicators 
+24. 
+To measure the results and achievements of the project toward the PDO, the proposed 
+outcome indicators are 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 8  
+     
+ 
+ 
+Number of enterprises that used NQI institutions’ quality assurance services (disaggregated by 
+sector) 
+ 
+Average number of days required to obtain selected calibration and testing services 
+ 
+Number of accredited/internationally recognized services provided by NQI institutions 
+ 
+Volume of services delivered to customers by NQI institutions  
+ 
+ 
+ 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 9
+
+A. Project Components 
+25. 
+The main development challenges in the NQI in Ethiopia are the lack of adequate capacity to 
+provide quality assurance services, inability to meet target market standards, prohibitive costs of 
+compliance with international standards, and poor protection of public good elements. As the project 
+will not be able to address all the challenges, it aims to focus the key interventions on improving the 
+delivery of quality assurance services for selected priority sectors to contribute to the country’s growth 
+led by export-focused manufacturing, while stimulating demands for these from industries by becoming 
+active users of the services and potential service providers.  
+26. 
+The proposed project is structured around three components: (a) Component 1: Strengthening 
+Institutional Capacity for NQI Development; (b) Component 2: Enhancing Private Sector Engagement; 
+and (c) Component 3: Project Management and Monitoring and Evaluation. By addressing the gaps in 
+the supply side and demand side of the quality assurance services, each component will leverage the 
+inputs and outputs of other project components to develop an integrated solution and ensure that the 
+development objective of the project is realized in an integrated manner. See annex 1 for more detail. 
+Component 1: Strengthening Institutional Capacity for NQI Development (US$38,200,000, equivalent 
+to SDR 28,420,800) 
+27. 
+The objective of this component is to strengthen the NQI institutions’ capacity to deliver 
+effective and efficient quality assurance services to enterprises in the targeted sectors. This 
+component will have two subcomponents: (a) Strengthening Institutional Capacity of NQI Institutions 
+and (b) Strengthening MoST’s NQI Oversight Function. The main areas of intervention of this component 
+are to support technical and human capacity development and to upgrade the selected technical and 
+physical facilities of existing NQI institutions and MoST’s NQI function. This will help strengthen the 
+quality assurance system and address the existing gaps in meeting the current demands of the industry.  
+Subcomponent 1.1: Strengthening Institutional Capacity of NQI Institutions  
+28. 
+This subcomponent will primarily aim at building and strengthening of technical and human 
+capital ESA, ENAO, NMIE, and ECAE. This will be achieved through the implementation of the following 
+main activities, among others:  
+(a) Support for achieving international recognition of Ethiopian NQI  
+(b) Support for expansion of scope of services relevant to the targeted sectors  
+(c) 
+Development of technical skills and provision of trainings to technical experts and 
+management to enable effective and efficient services by said NQI institutions  
+(d) Development of strategic road maps, business plans, and guidelines to ensure 
+sustainability of the NQI services  
+(e) Carrying out workshops, international conferences, and overseas study tours for active 
+participation in international memberships and exchange of knowledge  
+(f) 
+Strengthening of an information and communication technology (ICT) system that 
+improves service delivery and monitoring and evaluation (M&E)  
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 10  
+     
+ 
+(g) Twinning arrangements with internationally recognized NQI agencies for longer term and 
+sustainable quality assurance services and human capital development 
+29. 
+This subcomponent will also support the upgrading of the technical and physical facilities of 
+NMIE and ECAE to improve the provision of quality assurance services, primarily for the targeted 
+industries. This intervention will support the procurement of critical specialized equipment and goods to 
+run the key testing and calibration laboratories and refurbished and renovation of facilities to be fit for 
+purpose. Once the facilities are renovated and become functional, each institution will allocate 
+necessary budget from its treasury resources and/or own income annually, as is currently the practice, 
+to cover operational and maintenance costs. 
+Subcomponent 1.2: Strengthening MoST’s NQI Oversight Function 
+30. 
+This subcomponent will aim at strengthening the institutional capacity of MoST to carry out its 
+mandate on NQI development and coordination. To this end, the MoST has set up a dedicated 
+directorate to oversee and coordinate NQI development in the country that will also ensure ownership, 
+long-term sustainability of the project interventions, and financial and quality sustainability of services. 
+Main project activities will include the following:  
+(a) Training and technical assistance to MoST staff carrying out NQI functions.  
+(b) Recruitment of short term and long term expert consultants to support the work of said 
+functions.  
+(c) Technical assistance for the facilitation and management of NQI TC and NQI Forum, where the 
+directorate will serve as secretariat on behalf of the MoST;  
+(d) Development and upgrading of the educational materials and curricula on NQI, currently being 
+piloted at selected universities;  
+(e) Provision of goods and services to support the operation of the NQI function as needed and  
+(f) Setting up an effective monitoring and tracking system for monitoring the quality improvement 
+of Ethiopian products, for instance, by using consumer testing organizations in main export 
+destination countries.  
+Component 2: Enhancing Private Sector Engagement (US$7,300,000, equivalent to SDR 5,431,200) 
+31. 
+The objective of this component is to support more active private sector involvement for the 
+development of NQI systems in terms of creation of the demand for NQI services and increase of the 
+number of private sector NQI service providers, in particular conformity assessment services. To 
+achieve this, activities provided to the industry players and potential private NQI service providers need 
+to be hands-on support underpinned by practical experiences in relevant industries, so that they will see 
+the results of their investments in a relatively short amount of time, use the NQI services regularly, and 
+decide to enter the NQI service markets. This component will have three main subcomponents: 
+Subcomponent 2.1: Technical Assistance and Training to Industries  
+32. 
+The objective of this subcomponent is to create industry (particularly producers within the 
+selected sectors) awareness and knowledge on quality thereby facilitating increased demand for 
+quality assurance services aligned with export market requirements. Project interventions are 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 11  
+     
+ 
+designed to respond to the industries’ need to develop an in-depth knowledge and understanding of 
+quality assurance systems and develop products and services that meet international standards and 
+requirements. By doing so, the component will support compliance to quality standards, create 
+awareness and knowledge among the business communities and consumers about the attributes of 
+standards and quality practices and better understanding of international market and buyers 
+requirements. This will contribute to increased competitiveness in international trade, as it will result in 
+lower rejection rates and downgrading of Ethiopian products by international buyers and thus help 
+enhance the reputation of the Ethiopian products and increase the trust between sellers and buyers. 
+Project activities will include, inter alia, the following: 
+(a) Exeprtise will be sourced from relevant institutions,  such as the chamber of commerce, sector 
+associations, laboratory associations, NQI Institutions, for industry needs assessment;  
+(b) Provision of technical assistance to industries to meet compliance requirements;  
+(c) Development of training materials, training of trainers from relevant agencies (such as sectoral  
+institutes, associations, etc) and training of industries on standards and compliance 
+requirements;  
+(d) Development of industrial parks -pilot program to carry out feasibility studies to identify market 
+demand and opportunities for quality assurance services.  
+ Subcomponent 2.2: Technical Support to Private Sector NQI Service Providers 
+33. 
+As the NQI matures, the private sector will play a significant role in the provision of services 
+such as testing and certification; while the public sector 
+
+[... procurement/fiduciary sections omitted ...]
+
+ consultants’ services, goods and technical assistance.  
+37. 
+MoST will need to strengthen its capacity to effectively implement this project. The Ministry 
+does not have prior experience implementing IDA financed project. The institutional assessments 
+indicate a need for enhanced technical and fiduciary capacity at MoST to build an effective and 
+competent team that is capable of implementing an IDA financed project. This requires the Ministry to 
+allocate sufficient funds to recruit experienced project staff, and bring in technical experts who can 
+provide the required skills and expertise that will effectively work with the multiple stakeholders and 
+beneficiaries of the project.   
+38. 
+The achievement of the PDO depends on effective and efficient implementation of all project 
+interventions. Support will be provided to the MoST and the Project Implementation Unit (PIU) to 
+strengthen its capacity and increase human resources required for project implementation. The MoST 
+will be the implementing agency for the project as the oversight ministry for the main NQI institutions 
+with the mandate to coordinate the various entities involved in the NQI. This component of the project 
+will finance (a) consultants employed as part of the PIU, including a project coordinator, a procurement 
+specialist, a financial management (FM) specialist,  safeguards specialist, an M&E specialist, and 
+technical experts that may be needed; (b) required goods and services to support the functioning of the 
+PIU as needed, including office equipment and furniture; (c) operating costs for the PIU incurred on 
+account of project implementation; (d) data collection, customer satisfaction surveys, and assessment 
+surveys; and (e) all project-related audits. 
+39. 
+The project management includes setting up of an effective M&E system to track results of the 
+project. A key aspect of the project management will be to establish an effective M&E system early on 
+during project implementation that will enable regular and reliable tracking of project results, carry out 
+necessary surveys and assessments, and regularly report on the outputs, outcomes, and impacts of the 
+project interventions. An experienced and competent M&E specialist will be hired on a full-time basis.  
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 13  
+     
+ 
+B. Project Cost and Financing 
+Project Components 
+Total Project Cost 
+(US$) 
+Component 1: Strengthening Institutional Capacity for NQI Development 
+1.1: Strengthening Institutional Capacity of NQI Institutions 
+1.2: Strengthening MoST’s NQI Oversight Function 
+38,200,000 
+Component 2: Enhancing Private Sector Engagement 
+2.1: Providing Training and Technical Assistance (TA) to Industries  
+2.2: Providing Technical Support and Assistance to Private Sector NQI Service Providers  
+2.3: Strengthening the Feedback and Dialogue Mechanism  
+7,300,000 
+Component 3: Project Management and Monitoring and Evaluation 
+4,500,000 
+Total IDA Financing 
+50,000,000 
+Total Project Costs15 
+Front End Fees 
+Total Financing Required 
+50,000,000 
+0 
+50,000,000 
+C. Lessons Learned and Reflected in the Project design 
+40. 
+The project design builds on the one hand on the lessons learned from NQI investment 
+projects implemented globally by the World Bank Group, as well as development partners. Similar to 
+all new projects, NQI-focused projects require strong and sustained political commitment, a supportive 
+policy and institutional environment, solid preparatory work and appropriate design, and close 
+implementation follow-up. In addition, the main lessons learned from NQI-focused projects are the 
+following: 
+(a) Addressing the gaps in demand and supply of quality assurance services in parallel. NQI 
+service delivery needs to meet a demonstrated demand from industries, as the 
+involvement of industries is a prerequisite for the development of the demanded NQI 
+services. The project design should take this into account, and support the development of 
+both supply and demand of NQI services in parallel. 
+(b) Importance of institutional development. Institution building and skills improvement of 
+NQI institutions are as important as the availability of modern equipment. Setting up 
+twinning arrangements with internationally recognized NQI agencies in other countries 
+could be a highly effective tool to accelerate institutional development for sustainable 
+engagement and to speed up the learning curve.  
+(c) 
+Creation of awareness of the NQI. Information and services related to quality assurance 
+need to be actively disseminated to create awareness of such requirements and facilitate 
+the implementation and adoption of necessary standards and quality practices by firms. 
+                                            
+15 MoST will provide counterpart contribution, mostly in kind, to cover administrative costs and strengthen institutional 
+safeguard measures over the project period. 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 14  
+     
+ 
+For this purpose, it is important to establish a constructive dialogue with stakeholders, 
+particularly the private sector, in the policies and provision of the NQI services that 
+respond to customers’ needs. 
+(d) Introducing a value chain approach. In countries where the NQI is at an early stage of 
+development, the sector-specific value chain approach will be particularly beneficial. A 
+value chain approach will help identify the real needs of customers of quality assurance 
+services for key industries at the core of the project, increasing the chance that key 
+challenges are addressed and smart investments made that will increase the 
+competitiveness of the industries and enable firms to market their products successfully in 
+international markets.  
+41. 
+On the other hand, the project design also addresses particular lessons from project 
+implementation in Ethiopia. These include ensuring the sustainability of project interventions and 
+results after the project closeout; ensuring the institutionalization of the project within the 
+implementing agency/ministry; and ensuring ownership and institutional capacity by incorporating 
+ministry staff as part of the project management team. The NQI Development Project will assist the 
+Government in the implementation of its NQI strategy, and will invest significantly in institutional 
+development. One important aspect of the support is the strengthening and empowerment of the NQI 
+development and coordination function within the MoST. This is to ensure that the project builds the 
+institutions around NQI development and ensure ownership and sustainability of the program after the 
+project closes. The project will be implemented by the beneficiary institutions to strengthen their own 
+institutions and technical capacities, while the fiduciary responsibility to meet World Bank Group’s 
+requirements and policies will be supported by project-specific staff.  
+42. 
+The project design has considered alternatives for the provision of quality assurance services 
+that support export competitiveness. The project considered two alternative options: (a) allow the 
+market to attract private sector investment in the NQI and (b) encourage/support the GoE to use 
+regional NQI service providers to serve its industries. As noted earlier, the NQI requires significant 
+capital investment and technical competency, which does not make it an attractive investment for 
+private sector players at the early stage of industrial development. It is usually the case that the 
+Government intervenes to set up the system to support early stage development of industries and 
+gradually moves to higher-end services and regulatory roles once there is sufficient demand from 
+industries and the basic infrastructure has been put in place. The other alternative to explore is for 
+Ethiopia to use regional NQIs services. While it will be wise to leverage existing infrastructure in the 
+region, particularly for sophisticated and capital intensive investments, such kind of arrangements will 
+compromise export competitiveness (with regard to both cost and time) for frequently used services 
+and where traceability of products matters for export. In the current global market, traceability of 
+products from end to end is mandatory for exports and it is not practical and effective to outsource the 
+quality and standards services for the whole value chain, if Ethiopia is to be competitive in the global 
+markets. 
+43. 
+Another alternative for the project design considered was to address the need for fostering 
+the private sector’s demand for quality assurance services through financial instruments; such as 
+subsidized loans or matching grants scheme. The main reason for not introducing financial instruments 
+for the project is due to complementarity with other projects (Ethiopia Competitiveness and Job 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 15  
+     
+ 
+Creation Project and Ethiopia SME Finance Project), which have financial interventions to support 
+domestic industries for improvement of their products and production systems. In addition, there are 
+other donor programs (EU and the U.K. Department for International Development) who are engaged in 
+strengthening the domestic private sector and have some kind of financial support mechanism in their 
+projects. It is therefore the team’s assessment that financial resources are available to support SMEs, 
+particularly, but what is lacking is the awareness, knowledge, and understanding of the role of quality 
+assurance in competitiveness and growth.
+
+A. Institutional and Implementation Arrangements 
+44. 
+The MoST will be responsible for the implementation of the project. The PIU will be set up 
+within the MoST. The responsibility of MoST is to implement its mandate as the oversight body for NQI 
+development, overseeing the activities of the four NQI institutions and serving as a main coordination 
+body for all key players in the NQI system. To achieve this, the MoST has established an NQI directorate, 
+which is led by a Director and is a dedicated department to implement the MoST’s mandates related to 
+NQI development. The project will support the full operationalization of this NQI directorate. In addition 
+to the establishment of the PIU, the project will recruit the necessary experts for this directorate to 
+ensure sustainability of the project interventions and effective development of the NQI agenda in the 
+country. This arrangement is expected to ensure sustainability of the project results and its 
+interventions after the project closure. While the PIU will be hosted within this directorate, the PIU’s 
+project coordinator will directly report to the State Minister, who is responsible for this NQI directorate. 
+45. 
+To ensure smooth implementation and coordination, a Project Implementation Committee 
+(PIC) will be established, which is composed of representatives from the implementing agencies, 
+including ESA, ENAO, NMIE, ECAE, and MoST, with the PIU serving as the chair. The PIC will meet 
+regularly (at least monthly) to review progress on the implementation of the agreed work plan, address 
+any challenges, and take up to the ministry any issues that may need high-level support or intervention. 
+The PIU’s project coordinator will also actively participate and serve within the NQITC and the NQI 
+Forum, which covers broader stakeholders including the MoANR, Ministry of Health, Ministry of 
+Livestock and Fisheries, and MoI, to ensure alignment and coordination of the project interventions with 
+the national NQI development agenda. 
+46. 
+The implementation arrangements under the proposed project will be governed by the 
+guidelines and procedures set out in the Project Implementation Manual (PIM). The PIM includes 
+operational procedures, FM, procurement methods and procedures, safeguards, and M&E of the project 
+and procedures for overall project management. The PIU will be responsible for the implementation of 
+all project components by working with the NQI institutions, private sector players, and regulatory 
+agencies.  
+B. Results Monitoring and Evaluation 
+47. 
+The project includes a robust M&E framework to enable decision makers to track 
+performance, adjust implementation as needed, and demonstrate the impact of the interventions 
+implemented. The PDO-level and intermediate results indicators and targets for the project are 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 16  
+     
+ 
+specified in the results framework, which will serve as the basis for M&E of progress throughout 
+implementation.  
+48. 
+The PIU will be responsible for providing—after receiving requisite information from project 
+beneficiaries—quarterly  progress reports to the World Bank, which will include a section on progress 
+in the achievement of project results. The M&E specialist within the PIU will have primary responsibility 
+for establishing and managing the M&E system including data collection, compilation, and reporting. 
+The M&E specialist will coordinate closely with the project coordinator on the monitoring and reporting 
+of the PDO and other project indicators. The PIU, with the World Bank’s support, will also be responsible 
+for analyzing results data, as part of the project’s communication strategy with key stakeholders on a 
+periodic basis. Other staff of the PIU, MoST, and direct beneficiary entities will be trained in the project’s 
+results framework as needed. The M&E system will be enhanced by supporting ICT solutions and 
+infrastructure at the NQI institutions, which will strengthen the ministry’s and the beneficiary 
+institutions’ monitoring mechanism that will help capture data and provide information on the overall 
+performance of the NQI. 
+C. Sustainability 
+49. 
+The potential sustainability of the project activities beyond its implementation is high given 
+the strong level of the Government’s commitment. The GoE has established the basic framework for 
+the NQI and allocates an annual budget for the NQI institutions as public service providers, except for 
+ECAE, which is a publicly owned, revenue-generating enterprise. The GoE has identified the NQI as an 
+important contributor for the achievement of its industrialization agenda. It has set up a dedicated 
+oversight function responsible for the NQI development nationwide and has already set up the NQITC 
+and the NQI Forum as the coordinating platforms to bring together all key stakeholders for the NQI. The 
+Government has committed itself to a significant array of programs aimed at making the export sector 
+more competitive in international markets. The impact of the project support provided to government 
+agencies is expected to continue well beyond the life of the project, as it focuses on institutional and 
+system building. In addition, the proposed project will also provide incentives for greater participation of 
+the private sector and other relevant stakeholders during project implementation and after its closure 
+through their continued involvement in the quality management process. 
+50. 
+NQI development is one of the key targets for the MoST, which is the implementing agency. 
+The MoST has set ambitious targets in GTP II for NQI development due to the Government’s realization 
+of the need to strengthen the quality system to reach its industrialization goal. The project will directly 
+contribute to the achievement of the GTP II targets by supporting the implementation of the NQI policy 
+and strategy and will strengthen the system to cope up with emerging and future demands from 
+industries. As such, it is expected that the project will build on the existing foundation blocks for the NQI 
+and that the Government will continue to expand and build on the results from the projects as the 
+economy moves toward an industrialized economy.   
+51. 
+Furthermore, the project is anchored within the framework of the World Bank Group’s current 
+engagements on the industrialization agenda to help the Government achieve its strategic objective of 
+becoming ‘the light manufacturing hub of Africa’ by 2025. Together with a number of other ongoing 
+and pipeline projects, the project will contribute to the GoE’s expected outcome of improved quality 
+systems that contributes to the achievement of accelerated and sustained growth in a long term, 
+notably: 
+ 
+The World Bank 
+ 
+Ethiopia: National Quality Infrastructure Development Project (P160279) 
+ 
+ 
+ 
+ 
+Page 17  
+     
+ 
+ 
+The Competitiveness and Job Creation Project (US$250 million), which became effective in 
+August 2014, supports the Industrial Parks Development Program. The GoE is developing 
+industrial parks as a catalytic tool to generate investment, improve the business environment, 
+facilitate linkages between foreign direct investment and SMEs, and advance the development 
+of light manufacturing industries.  
+ 
+The SME Finance Project (US$200 million), approved on May 17, 2016, aims to address the 
+access to finance and business management skills constraints, particularly faced by SMEs that 
+are hindering the growth and competitiveness of this specific target segment.  
+ 
+The Investment Climate Advisory Program (US$10 million) is supporting the GoE to address key 
+binding business constraints and is currently focusing on the streamlining and simplification of 
+business licensing and registration, trade logistics, investment policy and promotion, and 
+simplification of the tax administration system.  
+ 
+As a follow-up of the work done on improving the trade logistics system, the World Bank Group 
+is currently preparing the Trade Logistic Project (US$150 million) to support the improvement of 
+the trade infrastructure with the aim of reducing trade logistics cost and transit time along the 
+Ethio-Djibouti corridor.  
+ 
+Furthermore, the World Bank Group currently provides TA on NQI Development, which supports 
+the development of the NQI development strategy for the mid- and long-term in Ethiopia 
+(2016–2021).  
+ 
+In addition, this project will complement the planned interventions under the Agricultural 
+Growth Project II which supports agricultural commercialization in selected value chains, and 
+will specifically aim to coordinate the requirements of the MoANR as a regulatory agency for 
+agro-processed exports, with the services provided by the NQI institutions supported by the 
+project. It has been discussed and agreed that the MoANR will leverage on the testing 
+laboratory services to be supported under this project and will primarily focus on the needs to 
+perform its regulatory and monitoring role in the agriculture sector. All the regulatory ministries 
+are expected to actively engage in the NQITC and benefit from the training and TA program 
+financed under this project.  
+ 
+The project will also contribute to the activities under the Ethiopia - Livestock Micro Reforms for 
+Agribusiness, which seeks to increase the access of livestock smallholder producers and 
+processors to improved services and inputs, thereby increasing production and reducing 
+regulatory compliance costs in targeted subsectors.  
+D. Role of Partners 
+52. 
+The project will liaise with development partners for coordination and collaboration to 
+provide more comprehensive support to the Government. The collaboration partners include the EU 
+Delegation, German Corporation for International Cooperation (Deutsche Gesellschaft für Internationale 
+Zusammenarbeit, GIZ), the National Metrology Institute of Germany (Physikalisch-Technische 
+Bundesanstalt, PTB), and the United Nations Industrial Development Organization (UNIDO), given their 
+past and current engagement in supporting the NQI in Ethiopia. GIZ, together with the PTB has been the
