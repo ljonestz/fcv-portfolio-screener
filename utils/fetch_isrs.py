@@ -39,13 +39,13 @@ WDS_ISR_URL = (
     'https://search.worldbank.org/api/v2/wds'
     '?format=json&projectid={pid}'
     '&docty_exact=Implementation+Status+and+Results+Report'
-    '&fl=id,docdt,docty,url&rows=50'
+    '&fl=id,docdt,docty,url,pdfurl,txturl&rows=50'
 )
 WDS_ICR_URL = (
     'https://search.worldbank.org/api/v2/wds'
     '?format=json&projectid={pid}'
     '&docty_exact=Implementation+Completion+Report'
-    '&fl=id,docdt,docty,url&rows=10'
+    '&fl=id,docdt,docty,url,pdfurl,txturl&rows=10'
 )
 
 
@@ -95,7 +95,7 @@ def extract_isr_text(text: str, head_chars: int = HEAD_CHARS, tail_chars: int = 
 def fetch_isr_metadata(pid: str) -> list[dict]:
     """
     Query WB Documents API for ISRs and ICRs for a given project ID.
-    Returns list of dicts with keys: id, doc_type, date, url.
+    Returns list of dicts with keys: id, doc_type, date, url, pdfurl, txturl.
     """
     results = []
     for url_template in (WDS_ISR_URL, WDS_ICR_URL):
@@ -115,6 +115,8 @@ def fetch_isr_metadata(pid: str) -> list[dict]:
                     'doc_type': doc_type,
                     'date': parse_isr_date(doc.get('docdt', 'unknown')),
                     'url': doc.get('url', ''),
+                    'pdfurl': doc.get('pdfurl', ''),
+                    'txturl': doc.get('txturl', ''),
                 })
         except Exception as e:
             print(f'  Warning: API error for {pid}: {e}')
@@ -134,15 +136,39 @@ def fetch_isr_metadata(pid: str) -> list[dict]:
     return deduped
 
 
+def _fetch_text_from_txturl(txturl: str) -> Optional[str]:
+    """Download pre-extracted text from the WB txturl endpoint."""
+    req = urllib.request.Request(txturl, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, context=_SSL_CTX, timeout=90) as r:
+        text = r.read().decode('utf-8', errors='replace')
+    # Reject stub/error responses (real ISR text is typically 5k+ chars)
+    if len(text) < 500:
+        return None
+    return text
+
+
+def _fetch_text_from_pdfurl(pdfurl: str) -> Optional[str]:
+    """Download PDF from pdfurl and extract text via PyMuPDF."""
+    req = urllib.request.Request(pdfurl, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, context=_SSL_CTX, timeout=90) as r:
+        pdf_bytes = r.read()
+    fitz_doc = fitz.open(stream=pdf_bytes, filetype='pdf')
+    text = ''.join(page.get_text() for page in fitz_doc)
+    fitz_doc.close()
+    if len(text) < 500:
+        return None
+    return text
+
+
 def fetch_and_save_isrs(pid: str, out_dir: Path, delay: float = 0.3) -> list[dict]:
-    """Fetch all ISRs/ICRs for a project, extract text, save to out_dir."""
+    """Fetch all ISRs/ICRs for a project, extract text, save to out_dir.
+
+    Uses a fallback chain: txturl (pre-extracted text) → pdfurl (PDF + PyMuPDF) → skip.
+    """
     metadata = fetch_isr_metadata(pid)
     saved = []
 
     for doc in metadata:
-        if not doc['url']:
-            continue
-
         filename = build_isr_filename(pid, doc['doc_type'], doc['date'])
         out_path = out_dir / filename
 
@@ -151,24 +177,38 @@ def fetch_and_save_isrs(pid: str, out_dir: Path, delay: float = 0.3) -> list[dic
             saved.append({**doc, 'filename': filename, 'status': 'skipped'})
             continue
 
-        try:
-            req = urllib.request.Request(doc['url'], headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, context=_SSL_CTX, timeout=90) as r:
-                pdf_bytes = r.read()
+        text = None
+        source = None
 
-            fitz_doc = fitz.open(stream=pdf_bytes, filetype='pdf')
-            text = ''.join(page.get_text() for page in fitz_doc)
-            fitz_doc.close()
+        # Fallback 1: txturl (pre-extracted plain text — best quality)
+        if doc.get('txturl'):
+            try:
+                text = _fetch_text_from_txturl(doc['txturl'])
+                if text:
+                    source = 'txturl'
+            except Exception:
+                pass
 
-            extracted = extract_isr_text(text)
-            out_path.write_text(extracted, encoding='utf-8')
-            print(f'  {filename}: saved ({len(extracted):,} chars)')
-            saved.append({**doc, 'filename': filename, 'status': 'saved'})
-            time.sleep(delay)
+        # Fallback 2: pdfurl (direct PDF binary → PyMuPDF extraction)
+        if text is None and doc.get('pdfurl'):
+            try:
+                text = _fetch_text_from_pdfurl(doc['pdfurl'])
+                if text:
+                    source = 'pdfurl'
+            except Exception:
+                pass
 
-        except Exception as e:
-            print(f'  {filename}: error — {e}')
-            saved.append({**doc, 'filename': filename, 'status': 'error', 'error': str(e)})
+        # Fallback 3: skip with warning
+        if text is None:
+            print(f'  {filename}: no accessible content (txturl/pdfurl both failed), skipping')
+            saved.append({**doc, 'filename': filename, 'status': 'no_content'})
+            continue
+
+        extracted = extract_isr_text(text)
+        out_path.write_text(extracted, encoding='utf-8')
+        print(f'  {filename}: saved ({len(extracted):,} chars) [from {source}]')
+        saved.append({**doc, 'filename': filename, 'status': 'saved', 'source': source})
+        time.sleep(delay)
 
     return saved
 

@@ -32,6 +32,8 @@ batch_*_targets.json
 screening_results_batch_*.json
 extraction_results.json
 extracted_texts/
+extracted_texts_isr/
+extracted_texts_filtered/
 
 # Somalia source files — explicitly tracked (migrated from Claude_Outputs 2026-03-19)
 !somalia/raw_all_somalia_projects.json
