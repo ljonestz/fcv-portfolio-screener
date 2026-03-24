@@ -53,15 +53,15 @@ _RE_BACK_MATTER = re.compile(
 
 # Regex patterns (compiled once at module load)
 _RE_ROMAN = re.compile(
-    r'^\s*([IVX]{1,5})\.\s+([A-Z][A-Za-z ,&/()\-]+?)\s*$',
+    r'^\s*([IVX]{1,5})\.\s+([A-Z].+?)\s*$',
     re.MULTILINE,
 )
 _RE_LETTER = re.compile(
-    r'^\s*([A-Z])\.\s+([A-Z][A-Za-z ,&/()\-]+?)\s*$',
+    r'^\s*([A-Z])\.\s+([A-Z].+?)\s*$',
     re.MULTILINE,
 )
 _RE_ANNEX = re.compile(
-    r'^\s*Annex\s+(\d+):\s+([A-Za-z ,&/()\-]+?)\s*$',
+    r'^\s*Annex\s+(\d+):\s+(.+?)\s*$',
     re.MULTILINE | re.IGNORECASE,
 )
 

@@ -150,6 +150,7 @@ def test_isr_passes_through_unfiltered():
 
 
 def test_icr_passes_through_unfiltered():
+    # Uses ISR fixture — passthrough is doc_type-based, not content-based
     text = load_fixture('sample_isr.txt')
     filtered, stats = filter_pad(text, doc_type='ICR')
     assert filtered == text
